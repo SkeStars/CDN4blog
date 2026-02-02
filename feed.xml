@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-02T19:00:14+08:00</updated>
+    <updated>2026-02-02T21:01:46+08:00</updated>
+        <entry>
+        <title>没有被看见的斩杀线，其实就在身边</title>
+        <id>145209</id>
+        <link href="https://cuixiping.com/blog/think/cehgxm?utm_source=blogfinder" />
+        <published>2026-02-02T19:47:00+08:00</published>
+        <author>
+            <name>崔话记</name>
+            <uri>https://cuixiping.com</uri>
+        </author>
+        <summary type="text"><![CDATA[没有被看见的斩杀线，其实就在身边]]></summary>
+    </entry>
         <entry>
         <title>20260201</title>
         <id>145200</id>
@@ -341,6 +352,17 @@
             <uri>https://www.jfsay.com</uri>
         </author>
         <summary type="text"><![CDATA[《里斯本丸沉没》《东极岛》：英国战俘、日本军队和中国渔民的故事]]></summary>
+    </entry>
+        <entry>
+        <title>PVE存储合并实践：整合local-lvm到local</title>
+        <id>145208</id>
+        <link href="https://www.jinjun.top/posts/merge-local-lvm/?utm_source=blogfinder" />
+        <published>2026-02-01T21:00:00+08:00</published>
+        <author>
+            <name>钧言极客</name>
+            <uri>https://www.jinjun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[PVE存储合并实践：整合local-lvm到local]]></summary>
     </entry>
         <entry>
         <title>草莓第一次写真</title>
@@ -1584,38 +1606,5 @@
             <uri>https://www.wanghao.me</uri>
         </author>
         <summary type="text"><![CDATA[寒假已来]]></summary>
-    </entry>
-        <entry>
-        <title>【日记】一月小记 | 26年刚开始怎么就发生这么多事情啊！</title>
-        <id>144938</id>
-        <link href="https://www.rua.ink/1335.html?utm_source=blogfinder" />
-        <published>2026-01-30T20:43:00+08:00</published>
-        <author>
-            <name>Mello 的赛博本子</name>
-            <uri>https://www.rua.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[【日记】一月小记 | 26年刚开始怎么就发生这么多事情啊！]]></summary>
-    </entry>
-        <entry>
-        <title>我和 cloudcone 的服务器叕叕被“入侵”了</title>
-        <id>144945</id>
-        <link href="https://www.51it.wang/ll/2154?utm_source=blogfinder" />
-        <published>2026-01-30T20:25:51+08:00</published>
-        <author>
-            <name>Lcry</name>
-            <uri>https://www.51it.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[我和 cloudcone 的服务器叕叕被“入侵”了]]></summary>
-    </entry>
-        <entry>
-        <title>儿子的成绩单</title>
-        <id>144932</id>
-        <link href="https://note-star.cn/2026-01/2212.html?utm_source=blogfinder" />
-        <published>2026-01-30T19:16:31+08:00</published>
-        <author>
-            <name>笔记星球</name>
-            <uri>https://note-star.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[儿子的成绩单]]></summary>
     </entry>
     </feed>
