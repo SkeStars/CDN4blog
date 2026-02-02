@@ -1,0 +1,26 @@
+name: Sync Remote Feed
+
+on:
+  schedule:
+    - cron: '0 * * * *' # 每小时自动运行一次
+  workflow_dispatch:   # 允许你在 GitHub 界面手动点击运行
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Download Feed
+        run: |
+          # 加上 -L 处理重定向，-A 伪装浏览器
+          curl -L -A "Mozilla/5.0" https://bf.zzxworld.com/feed.xml -o feed.xml
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          # 只有当文件有变化时才提交
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update feed: $(date)" && git push)
