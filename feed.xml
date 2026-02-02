@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-03T00:01:46+08:00</updated>
+    <updated>2026-02-03T07:00:46+08:00</updated>
         <entry>
         <title>有运气了？</title>
         <id>145213</id>
@@ -44,6 +44,17 @@
             <uri>https://blog.mfwt.top</uri>
         </author>
         <summary type="text"><![CDATA[站点搬家记：如何在干净机器上重建网站]]></summary>
+    </entry>
+        <entry>
+        <title>可划分显存 != 统一内存：AI Max+ 395 64G AI推理性能</title>
+        <id>145228</id>
+        <link href="https://ddadaal.me/articles/aimaxplus395-ai-inference/cn?utm_source=blogfinder" />
+        <published>2026-02-02T20:34:00+08:00</published>
+        <author>
+            <name>ddadaal</name>
+            <uri>https://ddadaal.me</uri>
+        </author>
+        <summary type="text"><![CDATA[可划分显存 != 统一内存：AI Max+ 395 64G AI推理性能]]></summary>
     </entry>
         <entry>
         <title>没有被看见的斩杀线，其实就在身边</title>
@@ -156,6 +167,17 @@
         <summary type="text"><![CDATA[新津县日记]]></summary>
     </entry>
         <entry>
+        <title>使用Tailscale实现异地组网！</title>
+        <id>145230</id>
+        <link href="https://www.memxb.top/archives/966?utm_source=blogfinder" />
+        <published>2026-02-02T15:03:59+08:00</published>
+        <author>
+            <name>默小班</name>
+            <uri>https://www.memxb.top</uri>
+        </author>
+        <summary type="text"><![CDATA[使用Tailscale实现异地组网！]]></summary>
+    </entry>
+        <entry>
         <title>如何安全地面向公网提供本地 NAS 上的 Web 服务</title>
         <id>145214</id>
         <link href="https://zeeko.dev/2026/02/how-to-safely-expose-web-services-on-local-nas-to-the-internet/?utm_source=blogfinder" />
@@ -242,6 +264,28 @@
             <uri>https://zhujay.com</uri>
         </author>
         <summary type="text"><![CDATA[明信片推迟寄送]]></summary>
+    </entry>
+        <entry>
+        <title>通过配置回源请求头实现简单的 CDN 回源鉴权</title>
+        <id>145229</id>
+        <link href="https://loneapex.cn/archives/4932?utm_source=blogfinder" />
+        <published>2026-02-02T09:18:37+08:00</published>
+        <author>
+            <name>Mimosa 的小屋</name>
+            <uri>https://loneapex.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[通过配置回源请求头实现简单的 CDN 回源鉴权]]></summary>
+    </entry>
+        <entry>
+        <title>读《野葫芦引（南渡记、东藏记、西征记、北归记）》</title>
+        <id>145227</id>
+        <link href="https://www.feidaoboke.com/post/read-ye-hu-lu-yin.html?utm_source=blogfinder" />
+        <published>2026-02-02T09:15:12+08:00</published>
+        <author>
+            <name>飞刀博客</name>
+            <uri>https://www.feidaoboke.com</uri>
+        </author>
+        <summary type="text"><![CDATA[读《野葫芦引（南渡记、东藏记、西征记、北归记）》]]></summary>
     </entry>
         <entry>
         <title>我把Vercel换成了EdgeOne Pages</title>
@@ -860,6 +904,17 @@
         <summary type="text"><![CDATA[回声周刊 Vol.7：bilibili-API-collect项目停止维护]]></summary>
     </entry>
         <entry>
+        <title>二月 – February</title>
+        <id>145231</id>
+        <link href="https://oheng.com/february-february/?utm_source=blogfinder" />
+        <published>2026-02-01T00:00:00+08:00</published>
+        <author>
+            <name>飞觞醉月</name>
+            <uri>https://oheng.com</uri>
+        </author>
+        <summary type="text"><![CDATA[二月 – February]]></summary>
+    </entry>
+        <entry>
         <title>比特币下跌时，我重新理解了大教堂与赌场</title>
         <id>145162</id>
         <link href="https://tw93.fun/2026-02-01/money.html?utm_source=blogfinder" />
@@ -1463,71 +1518,5 @@
             <uri>https://vjo.cc</uri>
         </author>
         <summary type="text"><![CDATA[Windows装机必备软件清单]]></summary>
-    </entry>
-        <entry>
-        <title>找回心流</title>
-        <id>145030</id>
-        <link href="https://shuiba.co/back-into-flow?utm_source=blogfinder" />
-        <published>2026-01-31T06:51:00+08:00</published>
-        <author>
-            <name>水八口的冥想盆</name>
-            <uri>https://shuiba.co</uri>
-        </author>
-        <summary type="text"><![CDATA[找回心流]]></summary>
-    </entry>
-        <entry>
-        <title>不在乎逻辑的逻辑</title>
-        <id>144979</id>
-        <link href="https://www.pgoj.top/archives/zaoshenluoji.html?utm_source=blogfinder" />
-        <published>2026-01-31T06:22:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[不在乎逻辑的逻辑]]></summary>
-    </entry>
-        <entry>
-        <title>2026.1.30</title>
-        <id>144998</id>
-        <link href="https://www.justzht.com/2026-1-30/?utm_source=blogfinder" />
-        <published>2026-01-31T06:07:51+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.1.30]]></summary>
-    </entry>
-        <entry>
-        <title>Stalux Astro博客主题自荐</title>
-        <id>144985</id>
-        <link href="https://xingwangzhe.fun/posts/stalux-astro/?utm_source=blogfinder" />
-        <published>2026-01-31T03:53:49+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[Stalux Astro博客主题自荐]]></summary>
-    </entry>
-        <entry>
-        <title>沉默之声</title>
-        <id>144991</id>
-        <link href="https://moonlt.site/posts/2026/01/voice_of_silence/?utm_source=blogfinder" />
-        <published>2026-01-31T01:51:44+08:00</published>
-        <author>
-            <name>月夜</name>
-            <uri>https://moonlt.site</uri>
-        </author>
-        <summary type="text"><![CDATA[沉默之声]]></summary>
-    </entry>
-        <entry>
-        <title>一篇准时的2025年总结</title>
-        <id>144950</id>
-        <link href="https://kegongteng.cn/blog/meeting-2025?utm_source=blogfinder" />
-        <published>2026-01-31T01:30:00+08:00</published>
-        <author>
-            <name>Kegongteng</name>
-            <uri>https://kegongteng.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[一篇准时的2025年总结]]></summary>
     </entry>
     </feed>
