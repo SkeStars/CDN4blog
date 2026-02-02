@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-02T23:03:18+08:00</updated>
+    <updated>2026-02-03T00:01:46+08:00</updated>
         <entry>
         <title>有运气了？</title>
         <id>145213</id>
@@ -101,6 +101,17 @@
         <summary type="text"><![CDATA[综述写作之-作图工程]]></summary>
     </entry>
         <entry>
+        <title>厌蠢</title>
+        <id>145215</id>
+        <link href="https://xn--otsr53afot.com/posts/yanchun/?utm_source=blogfinder" />
+        <published>2026-02-02T15:50:00+08:00</published>
+        <author>
+            <name>老朝奉</name>
+            <uri>https://xn--otsr53afot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[厌蠢]]></summary>
+    </entry>
+        <entry>
         <title>【读书记1624】杨牧（台湾）《杨牧诗精选》</title>
         <id>145194</id>
         <link href="http://www.qncd.com/?p=12462&amp;utm_source=blogfinder" />
@@ -143,6 +154,28 @@
             <uri>https://liuqingwushui.top</uri>
         </author>
         <summary type="text"><![CDATA[新津县日记]]></summary>
+    </entry>
+        <entry>
+        <title>如何安全地面向公网提供本地 NAS 上的 Web 服务</title>
+        <id>145214</id>
+        <link href="https://zeeko.dev/2026/02/how-to-safely-expose-web-services-on-local-nas-to-the-internet/?utm_source=blogfinder" />
+        <published>2026-02-02T14:40:24+08:00</published>
+        <author>
+            <name>网上冲浪指南</name>
+            <uri>https://zeeko.dev</uri>
+        </author>
+        <summary type="text"><![CDATA[如何安全地面向公网提供本地 NAS 上的 Web 服务]]></summary>
+    </entry>
+        <entry>
+        <title>1月最强番！《超时空辉夜姬》</title>
+        <id>145216</id>
+        <link href="https://blog.kfdzcoffee.cn/archives/cho-kaguyahime?utm_source=blogfinder" />
+        <published>2026-02-02T14:10:44+08:00</published>
+        <author>
+            <name>咖啡豆子 coffee 的小站</name>
+            <uri>https://blog.kfdzcoffee.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[1月最强番！《超时空辉夜姬》]]></summary>
     </entry>
         <entry>
         <title>一次跳槽</title>
@@ -1496,71 +1529,5 @@
             <uri>https://kegongteng.cn</uri>
         </author>
         <summary type="text"><![CDATA[一篇准时的2025年总结]]></summary>
-    </entry>
-        <entry>
-        <title>奇技淫巧之高中多选题拿分策略</title>
-        <id>144989</id>
-        <link href="https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/?utm_source=blogfinder" />
-        <published>2026-01-31T00:00:03+08:00</published>
-        <author>
-            <name>Tilawa Cesoil 的小站</name>
-            <uri>https://www.tilawacesoil.top</uri>
-        </author>
-        <summary type="text"><![CDATA[奇技淫巧之高中多选题拿分策略]]></summary>
-    </entry>
-        <entry>
-        <title>豹5使用一年来的费用</title>
-        <id>145018</id>
-        <link href="https://weiqiang.org/zh/2026-01-31-bao5-yinian-feiyong.html?utm_source=blogfinder" />
-        <published>2026-01-31T00:00:00+08:00</published>
-        <author>
-            <name>村野闲居</name>
-            <uri>https://weiqiang.org</uri>
-        </author>
-        <summary type="text"><![CDATA[豹5使用一年来的费用]]></summary>
-    </entry>
-        <entry>
-        <title>投资入门5-构造凸性策略之尾部风险与黑天鹅</title>
-        <id>145013</id>
-        <link href="https://last2win.com/2026/01/31/option-tail/?utm_source=blogfinder" />
-        <published>2026-01-31T00:00:00+08:00</published>
-        <author>
-            <name>浮云的博客</name>
-            <uri>https://last2win.com</uri>
-        </author>
-        <summary type="text"><![CDATA[投资入门5-构造凸性策略之尾部风险与黑天鹅]]></summary>
-    </entry>
-        <entry>
-        <title>闹心的vps</title>
-        <id>144947</id>
-        <link href="https://bestcherish.com/nao-xin-de-vps.html?utm_source=blogfinder" />
-        <published>2026-01-30T23:52:52+08:00</published>
-        <author>
-            <name>灰常记忆</name>
-            <uri>https://bestcherish.com</uri>
-        </author>
-        <summary type="text"><![CDATA[闹心的vps]]></summary>
-    </entry>
-        <entry>
-        <title>通过 Dokploy 部署零停机 Mix Space 博客</title>
-        <id>144982</id>
-        <link href="https://paoo.cc/2026/mx-space/?utm_source=blogfinder" />
-        <published>2026-01-30T23:45:03+08:00</published>
-        <author>
-            <name>Leo</name>
-            <uri>https://paoo.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[通过 Dokploy 部署零停机 Mix Space 博客]]></summary>
-    </entry>
-        <entry>
-        <title>Bartender 的替代品</title>
-        <id>145002</id>
-        <link href="https://anotherdayu.com/2026/7691/?utm_source=blogfinder" />
-        <published>2026-01-30T23:21:24+08:00</published>
-        <author>
-            <name>Another Dayu</name>
-            <uri>https://anotherdayu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Bartender 的替代品]]></summary>
     </entry>
     </feed>
