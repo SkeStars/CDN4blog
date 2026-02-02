@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-02T22:00:48+08:00</updated>
+    <updated>2026-02-02T23:03:18+08:00</updated>
+        <entry>
+        <title>有运气了？</title>
+        <id>145213</id>
+        <link href="https://airy.ink/daily/419?utm_source=blogfinder" />
+        <published>2026-02-02T22:08:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[有运气了？]]></summary>
+    </entry>
+        <entry>
+        <title>冬至（44/81）：与疼痛作战，为未来努力</title>
+        <id>145212</id>
+        <link href="https://blog.mcenahle.org.cn/2026/02/02/410.html?utm_source=blogfinder" />
+        <published>2026-02-02T21:28:00+08:00</published>
+        <author>
+            <name>梅之夏</name>
+            <uri>https://blog.mcenahle.org.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[冬至（44/81）：与疼痛作战，为未来努力]]></summary>
+    </entry>
         <entry>
         <title>站点搬家记：如何在干净机器上重建网站</title>
         <id>145210</id>
@@ -55,6 +77,17 @@
             <uri>https://zooyoo.top</uri>
         </author>
         <summary type="text"><![CDATA[我守护的一片天地]]></summary>
+    </entry>
+        <entry>
+        <title>MySQL 连接数：为什么你的服务器总“Too many connections”？连接池的配置和优化</title>
+        <id>145211</id>
+        <link href="https://www.sunzhongwei.com/mysql-connection-count?utm_source=blogfinder" />
+        <published>2026-02-02T17:26:29+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[MySQL 连接数：为什么你的服务器总“Too many connections”？连接池的配置和优化]]></summary>
     </entry>
         <entry>
         <title>综述写作之-作图工程</title>
@@ -1529,38 +1562,5 @@
             <uri>https://anotherdayu.com</uri>
         </author>
         <summary type="text"><![CDATA[Bartender 的替代品]]></summary>
-    </entry>
-        <entry>
-        <title>关于过年那份预料之中的浮躁</title>
-        <id>144994</id>
-        <link href="https://blog.solazy.me/20260130/?utm_source=blogfinder" />
-        <published>2026-01-30T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[关于过年那份预料之中的浮躁]]></summary>
-    </entry>
-        <entry>
-        <title>闲置Armbian机顶盒部署One-KVM实现远程管理</title>
-        <id>145000</id>
-        <link href="https://www.biibii.cn/527.html?utm_source=blogfinder" />
-        <published>2026-01-30T22:54:00+08:00</published>
-        <author>
-            <name>BIIBII</name>
-            <uri>https://www.biibii.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[闲置Armbian机顶盒部署One-KVM实现远程管理]]></summary>
-    </entry>
-        <entry>
-        <title>冬至（41/81）：自考网站历史，回顾高中经历，决定重回数学</title>
-        <id>144940</id>
-        <link href="https://blog.mcenahle.org.cn/2026/01/30/407.html?utm_source=blogfinder" />
-        <published>2026-01-30T22:19:51+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[冬至（41/81）：自考网站历史，回顾高中经历，决定重回数学]]></summary>
     </entry>
     </feed>
