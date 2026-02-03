@@ -2,8 +2,7 @@ name: Sync Remote Feed
 
 on:
   schedule:
-    # 这里的 0-5 对应北京时间的 08:00 到 13:00
-    - cron: '0 0-5 * * *'
+    - cron: '30 0-17 * * *'
   workflow_dispatch:
 
 jobs:
