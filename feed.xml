@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-03T16:00:27+08:00</updated>
+    <updated>2026-02-03T17:00:57+08:00</updated>
         <entry>
         <title>好久没被攻击</title>
         <id>145249</id>
@@ -22,6 +22,17 @@
             <uri>https://note-star.cn</uri>
         </author>
         <summary type="text"><![CDATA[好久没被攻击]]></summary>
+    </entry>
+        <entry>
+        <title>给你的文章添加 AI 创作等级标识</title>
+        <id>145251</id>
+        <link href="https://www.suiyan.cc/blog/20260203070348?utm_source=blogfinder" />
+        <published>2026-02-03T15:03:48+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[给你的文章添加 AI 创作等级标识]]></summary>
     </entry>
         <entry>
         <title>涨涨涨，居高不下的铜价，惨淡的生意</title>
@@ -1309,38 +1320,5 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[一月小计，活着]]></summary>
-    </entry>
-        <entry>
-        <title>靠死亡游戏混饭吃。</title>
-        <id>145068</id>
-        <link href="https://xeonzilla.top/note/shiboyugi?utm_source=blogfinder" />
-        <published>2026-01-31T16:44:08+08:00</published>
-        <author>
-            <name>Xeonzilla’s Note</name>
-            <uri>https://xeonzilla.top</uri>
-        </author>
-        <summary type="text"><![CDATA[靠死亡游戏混饭吃。]]></summary>
-    </entry>
-        <entry>
-        <title>飞牛fnos的严重问题</title>
-        <id>145014</id>
-        <link href="https://www.szqp.site/archives/10655?utm_source=blogfinder" />
-        <published>2026-01-31T16:25:42+08:00</published>
-        <author>
-            <name>szqp</name>
-            <uri>https://www.szqp.site</uri>
-        </author>
-        <summary type="text"><![CDATA[飞牛fnos的严重问题]]></summary>
-    </entry>
-        <entry>
-        <title>炮轰开往：泛滥低质链接失去初心的开往，还有存在的必要吗？</title>
-        <id>145008</id>
-        <link href="https://lner.top/archives/yoC8rSFP?utm_source=blogfinder" />
-        <published>2026-01-31T16:14:54+08:00</published>
-        <author>
-            <name>小林昕岛</name>
-            <uri>https://lner.top</uri>
-        </author>
-        <summary type="text"><![CDATA[炮轰开往：泛滥低质链接失去初心的开往，还有存在的必要吗？]]></summary>
     </entry>
     </feed>
