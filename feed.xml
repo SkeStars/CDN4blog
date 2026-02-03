@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-03T07:00:46+08:00</updated>
+    <updated>2026-02-03T10:00:44+08:00</updated>
+        <entry>
+        <title>周末闲暇时间翻修了一下博客</title>
+        <id>145236</id>
+        <link href="https://usj.cc/20260203.html?utm_source=blogfinder" />
+        <published>2026-02-03T09:00:00+08:00</published>
+        <author>
+            <name>优世界</name>
+            <uri>https://usj.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[周末闲暇时间翻修了一下博客]]></summary>
+    </entry>
         <entry>
         <title>有运气了？</title>
         <id>145213</id>
@@ -200,6 +211,17 @@
         <summary type="text"><![CDATA[1月最强番！《超时空辉夜姬》]]></summary>
     </entry>
         <entry>
+        <title>OPNsense 搭建OpenVPN接入AD认证</title>
+        <id>145237</id>
+        <link href="https://songxwn.com/opensense-openvpn-ad/?utm_source=blogfinder" />
+        <published>2026-02-02T12:39:41+08:00</published>
+        <author>
+            <name>Song&#039;s Blog</name>
+            <uri>https://songxwn.com</uri>
+        </author>
+        <summary type="text"><![CDATA[OPNsense 搭建OpenVPN接入AD认证]]></summary>
+    </entry>
+        <entry>
         <title>一次跳槽</title>
         <id>145197</id>
         <link href="https://pewae.com/2026/02/moved-to-another-company.html?utm_source=blogfinder" />
@@ -319,6 +341,39 @@
             <uri>https://www.huluohu.com</uri>
         </author>
         <summary type="text"><![CDATA[🦞 纯干货、无肥妞：Openclaw接入企微门槛略高，勾搭下飞书还是没啥难度的！]]></summary>
+    </entry>
+        <entry>
+        <title>黄金雪崩了</title>
+        <id>145234</id>
+        <link href="https://ddbzhou.com/post/huangjinxuebeng/?utm_source=blogfinder" />
+        <published>2026-02-02T08:00:00+08:00</published>
+        <author>
+            <name>兜兜爸投资笔记</name>
+            <uri>https://ddbzhou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[黄金雪崩了]]></summary>
+    </entry>
+        <entry>
+        <title>一招 Chrome 开启 Gemini 功能</title>
+        <id>145233</id>
+        <link href="https://innomad.io/how-to-enable-gemini-in-chrome/?utm_source=blogfinder" />
+        <published>2026-02-02T08:00:00+08:00</published>
+        <author>
+            <name>Innomad</name>
+            <uri>https://innomad.io</uri>
+        </author>
+        <summary type="text"><![CDATA[一招 Chrome 开启 Gemini 功能]]></summary>
+    </entry>
+        <entry>
+        <title>从“苦读教程”到“听 AI 播客”</title>
+        <id>145232</id>
+        <link href="https://blog.gudong.site/2026/02/02/ailearn.html?utm_source=blogfinder" />
+        <published>2026-02-02T08:00:00+08:00</published>
+        <author>
+            <name>咕咚同学</name>
+            <uri>https://blog.gudong.site</uri>
+        </author>
+        <summary type="text"><![CDATA[从“苦读教程”到“听 AI 播客”]]></summary>
     </entry>
         <entry>
         <title>只有幻想，不愿付出的年轻人</title>
@@ -1331,192 +1386,5 @@
             <uri>https://www.aomanhao.top</uri>
         </author>
         <summary type="text"><![CDATA[【随笔】2026杨凌马拉松由新中体育运营，会举办什么样？]]></summary>
-    </entry>
-        <entry>
-        <title>近况（6）</title>
-        <id>145019</id>
-        <link href="https://t-t.live/archives/dMLGiqkH?utm_source=blogfinder" />
-        <published>2026-01-31T09:38:43+08:00</published>
-        <author>
-            <name>团团生活志</name>
-            <uri>https://t-t.live</uri>
-        </author>
-        <summary type="text"><![CDATA[近况（6）]]></summary>
-    </entry>
-        <entry>
-        <title>Dream Detective</title>
-        <id>145176</id>
-        <link href="https://fiveth.cc/projects/dream-detective/?utm_source=blogfinder" />
-        <published>2026-01-31T08:00:00+08:00</published>
-        <author>
-            <name>Fiveth</name>
-            <uri>https://blog.fiveth.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[Dream Detective]]></summary>
-    </entry>
-        <entry>
-        <title>python 的三种虚拟环境</title>
-        <id>145050</id>
-        <link href="https://www.juayohuang.top/blog/python/venv?utm_source=blogfinder" />
-        <published>2026-01-31T08:00:00+08:00</published>
-        <author>
-            <name>Atri Website</name>
-            <uri>https://www.juayohuang.top</uri>
-        </author>
-        <summary type="text"><![CDATA[python 的三种虚拟环境]]></summary>
-    </entry>
-        <entry>
-        <title>活久见</title>
-        <id>145049</id>
-        <link href="https://www.immarcus.com/blog/live-long-enough-to-see?utm_source=blogfinder" />
-        <published>2026-01-31T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[活久见]]></summary>
-    </entry>
-        <entry>
-        <title>虽晚但至+一周回顾</title>
-        <id>145047</id>
-        <link href="https://ddbzhou.com/post/suiwandanzhi/?utm_source=blogfinder" />
-        <published>2026-01-31T08:00:00+08:00</published>
-        <author>
-            <name>兜兜爸投资笔记</name>
-            <uri>https://ddbzhou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[虽晚但至+一周回顾]]></summary>
-    </entry>
-        <entry>
-        <title>ZooTodo</title>
-        <id>145044</id>
-        <link href="https://fiveth.cc/projects/zoo-todo/?utm_source=blogfinder" />
-        <published>2026-01-31T08:00:00+08:00</published>
-        <author>
-            <name>Fiveth</name>
-            <uri>https://blog.fiveth.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[ZooTodo]]></summary>
-    </entry>
-        <entry>
-        <title>VEX Robotics Programming</title>
-        <id>145043</id>
-        <link href="https://fiveth.cc/projects/vex-robotics/?utm_source=blogfinder" />
-        <published>2026-01-31T08:00:00+08:00</published>
-        <author>
-            <name>Fiveth</name>
-            <uri>https://blog.fiveth.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[VEX Robotics Programming]]></summary>
-    </entry>
-        <entry>
-        <title>V-Ray</title>
-        <id>145042</id>
-        <link href="https://fiveth.cc/projects/v-ray/?utm_source=blogfinder" />
-        <published>2026-01-31T08:00:00+08:00</published>
-        <author>
-            <name>Fiveth</name>
-            <uri>https://blog.fiveth.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[V-Ray]]></summary>
-    </entry>
-        <entry>
-        <title>Self‑Media on Digital Productivity &amp; AI Learning</title>
-        <id>145041</id>
-        <link href="https://fiveth.cc/projects/self-media/?utm_source=blogfinder" />
-        <published>2026-01-31T08:00:00+08:00</published>
-        <author>
-            <name>Fiveth</name>
-            <uri>https://blog.fiveth.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[Self‑Media on Digital Productivity &amp; AI Learning]]></summary>
-    </entry>
-        <entry>
-        <title>ScreenBro</title>
-        <id>145040</id>
-        <link href="https://fiveth.cc/projects/screen-bro/?utm_source=blogfinder" />
-        <published>2026-01-31T08:00:00+08:00</published>
-        <author>
-            <name>Fiveth</name>
-            <uri>https://blog.fiveth.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[ScreenBro]]></summary>
-    </entry>
-        <entry>
-        <title>RectMan</title>
-        <id>145039</id>
-        <link href="https://fiveth.cc/projects/rect-man/?utm_source=blogfinder" />
-        <published>2026-01-31T08:00:00+08:00</published>
-        <author>
-            <name>Fiveth</name>
-            <uri>https://blog.fiveth.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[RectMan]]></summary>
-    </entry>
-        <entry>
-        <title>LivelyKitchen</title>
-        <id>145038</id>
-        <link href="https://fiveth.cc/projects/lively-kitchen/?utm_source=blogfinder" />
-        <published>2026-01-31T08:00:00+08:00</published>
-        <author>
-            <name>Fiveth</name>
-            <uri>https://blog.fiveth.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[LivelyKitchen]]></summary>
-    </entry>
-        <entry>
-        <title>DuckChat</title>
-        <id>145037</id>
-        <link href="https://fiveth.cc/projects/duck-chat/?utm_source=blogfinder" />
-        <published>2026-01-31T08:00:00+08:00</published>
-        <author>
-            <name>Fiveth</name>
-            <uri>https://blog.fiveth.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[DuckChat]]></summary>
-    </entry>
-        <entry>
-        <title>Python 潮流周刊#138：Python 正在被渐进式改进扼杀？</title>
-        <id>145035</id>
-        <link href="https://pythoncat.top/posts/2026-01-31-weekly/?utm_source=blogfinder" />
-        <published>2026-01-31T08:00:00+08:00</published>
-        <author>
-            <name>豌豆花下猫</name>
-            <uri>https://pythoncat.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Python 潮流周刊#138：Python 正在被渐进式改进扼杀？]]></summary>
-    </entry>
-        <entry>
-        <title>语音输入法的爆发前夜</title>
-        <id>145033</id>
-        <link href="https://blog.gudong.site/2026/01/31/voice-input.html?utm_source=blogfinder" />
-        <published>2026-01-31T08:00:00+08:00</published>
-        <author>
-            <name>咕咚同学</name>
-            <uri>https://blog.gudong.site</uri>
-        </author>
-        <summary type="text"><![CDATA[语音输入法的爆发前夜]]></summary>
-    </entry>
-        <entry>
-        <title>冷水澡是一座小金矿</title>
-        <id>145032</id>
-        <link href="https://limboy.me/posts/taking-cold-showers-is-a-hidden-treasure?utm_source=blogfinder" />
-        <published>2026-01-31T08:00:00+08:00</published>
-        <author>
-            <name>Limboy</name>
-            <uri>https://limboy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[冷水澡是一座小金矿]]></summary>
-    </entry>
-        <entry>
-        <title>Windows装机必备软件清单</title>
-        <id>144955</id>
-        <link href="https://vjo.cc/1942?utm_source=blogfinder" />
-        <published>2026-01-31T07:24:00+08:00</published>
-        <author>
-            <name>刘郎阁</name>
-            <uri>https://vjo.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[Windows装机必备软件清单]]></summary>
     </entry>
     </feed>
