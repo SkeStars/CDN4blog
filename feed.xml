@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-03T18:00:44+08:00</updated>
+    <updated>2026-02-03T19:00:59+08:00</updated>
+        <entry>
+        <title>试用了Cloudflare Pages服务</title>
+        <id>145254</id>
+        <link href="https://www.xiaocaoderijiben.online/archives/189?utm_source=blogfinder" />
+        <published>2026-02-03T17:05:29+08:00</published>
+        <author>
+            <name>小草的日记本</name>
+            <uri>https://www.xiaocaoderijiben.online</uri>
+        </author>
+        <summary type="text"><![CDATA[试用了Cloudflare Pages服务]]></summary>
+    </entry>
         <entry>
         <title>关于辞去“开往友链接力”项目维护组负责人的辞呈</title>
         <id>145253</id>
@@ -1331,16 +1342,5 @@
             <uri>https://zooyoo.top</uri>
         </author>
         <summary type="text"><![CDATA[2026免费GoogleSSL无需翻墙]]></summary>
-    </entry>
-        <entry>
-        <title>一月小计，活着</title>
-        <id>145003</id>
-        <link href="https://www.suiyan.cc/blog/20260131102452?utm_source=blogfinder" />
-        <published>2026-01-31T18:24:52+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[一月小计，活着]]></summary>
     </entry>
     </feed>
