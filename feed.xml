@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-04T23:05:40+08:00</updated>
+    <updated>2026-02-05T00:00:27+08:00</updated>
         <entry>
         <title>冬至（46/81）：燕子来时新社</title>
         <id>145415</id>
@@ -24,6 +24,28 @@
         <summary type="text"><![CDATA[冬至（46/81）：燕子来时新社]]></summary>
     </entry>
         <entry>
+        <title>第1封信：脑袋空空</title>
+        <id>145418</id>
+        <link href="https://www.javis.me/brainfade/?utm_source=blogfinder" />
+        <published>2026-02-04T22:16:12+08:00</published>
+        <author>
+            <name>查令十字街 84 号</name>
+            <uri>https://javis.me</uri>
+        </author>
+        <summary type="text"><![CDATA[第1封信：脑袋空空]]></summary>
+    </entry>
+        <entry>
+        <title>2026 年 1 月书影音总结</title>
+        <id>145419</id>
+        <link href="https://www.javis.me/2026-01/?utm_source=blogfinder" />
+        <published>2026-02-04T22:06:00+08:00</published>
+        <author>
+            <name>查令十字街 84 号</name>
+            <uri>https://javis.me</uri>
+        </author>
+        <summary type="text"><![CDATA[2026 年 1 月书影音总结]]></summary>
+    </entry>
+        <entry>
         <title>【读书记1625】朱生豪译莎士比亚《麦克白》</title>
         <id>145413</id>
         <link href="http://www.qncd.com/?p=12466&amp;utm_source=blogfinder" />
@@ -33,6 +55,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1625】朱生豪译莎士比亚《麦克白》]]></summary>
+    </entry>
+        <entry>
+        <title>酥米的碎碎念（10），最近的一些事</title>
+        <id>145421</id>
+        <link href="https://www.sumi233.top/%E9%85%A5%E7%B1%B3%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/%E9%85%A5%E7%B1%B3%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B510/?utm_source=blogfinder" />
+        <published>2026-02-04T21:27:56+08:00</published>
+        <author>
+            <name>酥米的小站</name>
+            <uri>https://www.sumi233.top</uri>
+        </author>
+        <summary type="text"><![CDATA[酥米的碎碎念（10），最近的一些事]]></summary>
     </entry>
         <entry>
         <title>立春杂记</title>
@@ -99,6 +132,17 @@
             <uri>https://airy.ink</uri>
         </author>
         <summary type="text"><![CDATA[写在新年的立春]]></summary>
+    </entry>
+        <entry>
+        <title>出租人类：AI时代的荒诞与真实</title>
+        <id>145420</id>
+        <link href="https://xingwangzhe.fun/posts/ai-rentahuman/?utm_source=blogfinder" />
+        <published>2026-02-04T16:18:32+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[出租人类：AI时代的荒诞与真实]]></summary>
     </entry>
         <entry>
         <title>告别 PaperMod：审美疲劳后的 Hugo 博客“换装”记</title>
@@ -330,6 +374,17 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[股票基金价格波段计算器，增加自定义小数位数功能]]></summary>
+    </entry>
+        <entry>
+        <title>访澳门国父纪念馆</title>
+        <id>145417</id>
+        <link href="https://yayu.net/6192.html?utm_source=blogfinder" />
+        <published>2026-02-03T21:00:41+08:00</published>
+        <author>
+            <name>雅余</name>
+            <uri>https://yayu.net</uri>
+        </author>
+        <summary type="text"><![CDATA[访澳门国父纪念馆]]></summary>
     </entry>
         <entry>
         <title>手术流水账 0203</title>
@@ -1100,38 +1155,5 @@
             <uri>https://ttio.cc</uri>
         </author>
         <summary type="text"><![CDATA[使用 Tailscale 内网穿透]]></summary>
-    </entry>
-        <entry>
-        <title>极客死亡计划书 IV</title>
-        <id>145084</id>
-        <link href="https://www.geedea.pro/posts/site-report-4/?utm_source=blogfinder" />
-        <published>2026-02-01T23:53:07+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[极客死亡计划书 IV]]></summary>
-    </entry>
-        <entry>
-        <title>遗憾</title>
-        <id>145186</id>
-        <link href="https://kaix.in/2026/0201/?utm_source=blogfinder" />
-        <published>2026-02-01T23:19:14+08:00</published>
-        <author>
-            <name>KAIX.IN</name>
-            <uri>https://kaix.in</uri>
-        </author>
-        <summary type="text"><![CDATA[遗憾]]></summary>
-    </entry>
-        <entry>
-        <title>我被攻击了！</title>
-        <id>145087</id>
-        <link href="https://zhujay.com/talking/?id=1189&amp;utm_source=blogfinder" />
-        <published>2026-02-01T23:10:27+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我被攻击了！]]></summary>
     </entry>
     </feed>
