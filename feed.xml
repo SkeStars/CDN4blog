@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-04T17:00:55+08:00</updated>
+    <updated>2026-02-04T18:00:24+08:00</updated>
+        <entry>
+        <title>自我表达需要认同么</title>
+        <id>145409</id>
+        <link href="https://d-d.design/single/18047?utm_source=blogfinder" />
+        <published>2026-02-04T17:03:08+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[自我表达需要认同么]]></summary>
+    </entry>
+        <entry>
+        <title>写在新年的立春</title>
+        <id>145407</id>
+        <link href="https://airy.ink/times/420?utm_source=blogfinder" />
+        <published>2026-02-04T16:28:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[写在新年的立春]]></summary>
+    </entry>
+        <entry>
+        <title>告别 PaperMod：审美疲劳后的 Hugo 博客“换装”记</title>
+        <id>145408</id>
+        <link href="https://iliu.org/posts/bye-papermod/?utm_source=blogfinder" />
+        <published>2026-02-04T16:03:45+08:00</published>
+        <author>
+            <name>老刘博客</name>
+            <uri>https://iliu.org</uri>
+        </author>
+        <summary type="text"><![CDATA[告别 PaperMod：审美疲劳后的 Hugo 博客“换装”记]]></summary>
+    </entry>
         <entry>
         <title>日常#11 - 香港赤柱、胶片</title>
         <id>145400</id>
@@ -33,6 +66,28 @@
             <uri>https://www.xiaocaoderijiben.online</uri>
         </author>
         <summary type="text"><![CDATA[喜大普奔 微信小程序通过管局备案]]></summary>
+    </entry>
+        <entry>
+        <title>出 3 块西数 14t 氦气盘</title>
+        <id>145406</id>
+        <link href="https://1900.live/chu-3-kuai-xi-shu-14t-hai-qi-pan/?utm_source=blogfinder" />
+        <published>2026-02-04T14:30:43+08:00</published>
+        <author>
+            <name>我道</name>
+            <uri>https://1900.live</uri>
+        </author>
+        <summary type="text"><![CDATA[出 3 块西数 14t 氦气盘]]></summary>
+    </entry>
+        <entry>
+        <title>2026.2.3</title>
+        <id>145405</id>
+        <link href="https://www.justzht.com/2026-2-3/?utm_source=blogfinder" />
+        <published>2026-02-04T13:24:04+08:00</published>
+        <author>
+            <name>JustZht</name>
+            <uri>https://www.justzht.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026.2.3]]></summary>
     </entry>
         <entry>
         <title>红包封面：祝大家新的一年发大财啦！</title>
@@ -1166,27 +1221,5 @@
             <uri>https://mei.lv</uri>
         </author>
         <summary type="text"><![CDATA[在 Ubuntu 22.04+ 上安装达芬奇]]></summary>
-    </entry>
-        <entry>
-        <title>Toots 2026 Jan.25 - Jan.31</title>
-        <id>145083</id>
-        <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260131/?utm_source=blogfinder" />
-        <published>2026-02-01T17:26:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[Toots 2026 Jan.25 - Jan.31]]></summary>
-    </entry>
-        <entry>
-        <title>奶奶都能看懂的 C# —— 手把手 LINQ</title>
-        <id>145192</id>
-        <link href="https://blog.samhou.top/csharp-linq-guide/?utm_source=blogfinder" />
-        <published>2026-02-01T17:03:07+08:00</published>
-        <author>
-            <name>SamHou&#039;s Blog</name>
-            <uri>https://blog.samhou.top</uri>
-        </author>
-        <summary type="text"><![CDATA[奶奶都能看懂的 C# —— 手把手 LINQ]]></summary>
     </entry>
     </feed>
