@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-04T16:00:49+08:00</updated>
+    <updated>2026-02-04T17:00:55+08:00</updated>
         <entry>
         <title>日常#11 - 香港赤柱、胶片</title>
         <id>145400</id>
@@ -156,6 +156,17 @@
         <summary type="text"><![CDATA[给妈购买新手机vivo S50 Pro mini，妈：还是养儿子好啊！]]></summary>
     </entry>
         <entry>
+        <title>【记录】独角数卡+BEpusdt搭建小店</title>
+        <id>145404</id>
+        <link href="https://hexo.limour.top/dujiaoka-bepusdt?utm_source=blogfinder" />
+        <published>2026-02-03T22:40:44+08:00</published>
+        <author>
+            <name>Limour&#039;s Blog</name>
+            <uri>https://hexo.limour.top</uri>
+        </author>
+        <summary type="text"><![CDATA[【记录】独角数卡+BEpusdt搭建小店]]></summary>
+    </entry>
+        <entry>
         <title>冬至（45/81）：护士？教师？最终只能选择后者</title>
         <id>145264</id>
         <link href="https://blog.mcenahle.org.cn/2026/02/03/411.html?utm_source=blogfinder" />
@@ -165,6 +176,17 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[冬至（45/81）：护士？教师？最终只能选择后者]]></summary>
+    </entry>
+        <entry>
+        <title>OpenClaw（Clawdbot） + Qwen 4.7 最新手把手教程，附飞书接入指南和 700+ Skill资源</title>
+        <id>145403</id>
+        <link href="https://www.wangdu.site/software/ai/2311.html?utm_source=blogfinder" />
+        <published>2026-02-03T21:44:02+08:00</published>
+        <author>
+            <name>文武科技柜</name>
+            <uri>https://www.wangdu.site</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenClaw（Clawdbot） + Qwen 4.7 最新手把手教程，附飞书接入指南和 700+ Skill资源]]></summary>
     </entry>
         <entry>
         <title>《随处可见的飘荡感》</title>
@@ -1166,38 +1188,5 @@
             <uri>https://blog.samhou.top</uri>
         </author>
         <summary type="text"><![CDATA[奶奶都能看懂的 C# —— 手把手 LINQ]]></summary>
-    </entry>
-        <entry>
-        <title>干翻 Copilot？Chrome 这个隐藏功能，我踩坑 3 次终于开启了！</title>
-        <id>145073</id>
-        <link href="https://www.wangdu.site/course/2310.html?utm_source=blogfinder" />
-        <published>2026-02-01T16:56:33+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[干翻 Copilot？Chrome 这个隐藏功能，我踩坑 3 次终于开启了！]]></summary>
-    </entry>
-        <entry>
-        <title>注销了四个平台的「花呗」</title>
-        <id>145065</id>
-        <link href="https://www.suiyan.cc/blog/20260201082442?utm_source=blogfinder" />
-        <published>2026-02-01T16:24:42+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[注销了四个平台的「花呗」]]></summary>
-    </entry>
-        <entry>
-        <title>Emacs 在终端里大喊 OI</title>
-        <id>145161</id>
-        <link href="https://sh.alynx.one/posts/Emacs-Says-OI-in-Terminal/?utm_source=blogfinder" />
-        <published>2026-02-01T16:22:00+08:00</published>
-        <author>
-            <name>喵&#039;s StackHarbor</name>
-            <uri>https://sh.alynx.one</uri>
-        </author>
-        <summary type="text"><![CDATA[Emacs 在终端里大喊 OI]]></summary>
     </entry>
     </feed>
