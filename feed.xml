@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-04T15:00:26+08:00</updated>
+    <updated>2026-02-04T16:00:49+08:00</updated>
+        <entry>
+        <title>日常#11 - 香港赤柱、胶片</title>
+        <id>145400</id>
+        <link href="https://taxodium.ink/nichijou-11.html?utm_source=blogfinder" />
+        <published>2026-02-04T15:30:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[日常#11 - 香港赤柱、胶片]]></summary>
+    </entry>
         <entry>
         <title>喜大普奔 微信小程序通过管局备案</title>
         <id>145399</id>
@@ -176,6 +187,17 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[股票基金价格波段计算器，增加自定义小数位数功能]]></summary>
+    </entry>
+        <entry>
+        <title>手术流水账 0203</title>
+        <id>145401</id>
+        <link href="https://blog.solazy.me/20260203/?utm_source=blogfinder" />
+        <published>2026-02-03T21:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[手术流水账 0203]]></summary>
     </entry>
         <entry>
         <title>红泥巴村：童年乌托邦</title>
@@ -517,6 +539,17 @@
             <uri>https://www.rua.ink</uri>
         </author>
         <summary type="text"><![CDATA[【指南】成功激活 giffgaff esim]]></summary>
+    </entry>
+        <entry>
+        <title>我眼中的「向上社交」</title>
+        <id>145402</id>
+        <link href="https://blog.solazy.me/20260202/?utm_source=blogfinder" />
+        <published>2026-02-02T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[我眼中的「向上社交」]]></summary>
     </entry>
         <entry>
         <title>有运气了？</title>
@@ -1166,16 +1199,5 @@
             <uri>https://sh.alynx.one</uri>
         </author>
         <summary type="text"><![CDATA[Emacs 在终端里大喊 OI]]></summary>
-    </entry>
-        <entry>
-        <title>在 Windows 本地安装使用 OpenClaw（原 clawdbot）教程</title>
-        <id>145072</id>
-        <link href="https://blog.ybyq.wang/archives/1590.html?utm_source=blogfinder" />
-        <published>2026-02-01T15:06:37+08:00</published>
-        <author>
-            <name>Xuan&#039;s blog</name>
-            <uri>https://blog.ybyq.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[在 Windows 本地安装使用 OpenClaw（原 clawdbot）教程]]></summary>
     </entry>
     </feed>
