@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-04T11:02:15+08:00</updated>
+    <updated>2026-02-04T12:03:11+08:00</updated>
+        <entry>
+        <title>经济学理论再次反转：现在越穷的地区经济增速又变成越低了</title>
+        <id>145389</id>
+        <link href="https://lawtee.com/article/convergence-theory-reversal/?utm_source=blogfinder" />
+        <published>2026-02-04T11:00:00+08:00</published>
+        <author>
+            <name>老 T 博客</name>
+            <uri>https://lawtee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[经济学理论再次反转：现在越穷的地区经济增速又变成越低了]]></summary>
+    </entry>
         <entry>
         <title>“可修”网址工具导航程序（付费开源）</title>
         <id>145386</id>
@@ -123,6 +134,17 @@
         <summary type="text"><![CDATA[红泥巴村：童年乌托邦]]></summary>
     </entry>
         <entry>
+        <title>博客春节彩蛋：贴春联</title>
+        <id>145390</id>
+        <link href="https://taxodium.ink/fai-chun-the-blog-spring-festival-easter-egg.html?utm_source=blogfinder" />
+        <published>2026-02-03T18:48:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[博客春节彩蛋：贴春联]]></summary>
+    </entry>
+        <entry>
         <title>推波助澜的凑趣跟风</title>
         <id>145260</id>
         <link href="https://www.pgoj.top/archives/yaoyangenfeng.html?utm_source=blogfinder" />
@@ -198,6 +220,17 @@
             <uri>https://www.jfsay.com</uri>
         </author>
         <summary type="text"><![CDATA[迎马年·小马挂件钩织法（2）]]></summary>
+    </entry>
+        <entry>
+        <title>人为什么要熬夜</title>
+        <id>145391</id>
+        <link href="https://www.laomuzhu.cn/279.html?utm_source=blogfinder" />
+        <published>2026-02-03T14:51:00+08:00</published>
+        <author>
+            <name>木竹</name>
+            <uri>https://www.laomuzhu.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[人为什么要熬夜]]></summary>
     </entry>
         <entry>
         <title>漫长的告别：我们还需要 windows 吗？</title>
@@ -506,17 +539,6 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[MySQL 连接数：为什么你的服务器总“Too many connections”？连接池的配置和优化]]></summary>
-    </entry>
-        <entry>
-        <title>综述写作之-作图工程</title>
-        <id>145202</id>
-        <link href="https://hulatu.com/posts/2026/02/02/comprehensive-writing-graph-engineering/?utm_source=blogfinder" />
-        <published>2026-02-02T17:00:28+08:00</published>
-        <author>
-            <name>胡拉图的后花园</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[综述写作之-作图工程]]></summary>
     </entry>
         <entry>
         <title>厌蠢</title>
@@ -1001,17 +1023,6 @@
             <uri>https://mei.lv</uri>
         </author>
         <summary type="text"><![CDATA[在 Ubuntu 22.04+ 上安装达芬奇]]></summary>
-    </entry>
-        <entry>
-        <title>胡拉图的周刊-第七期</title>
-        <id>145082</id>
-        <link href="https://hulatu.com/posts/2026/02/01/newsletter-weekly/?utm_source=blogfinder" />
-        <published>2026-02-01T18:15:03+08:00</published>
-        <author>
-            <name>胡拉图的后花园</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[胡拉图的周刊-第七期]]></summary>
     </entry>
         <entry>
         <title>Toots 2026 Jan.25 - Jan.31</title>
