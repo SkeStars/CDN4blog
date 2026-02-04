@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-04T19:00:41+08:00</updated>
+    <updated>2026-02-04T21:00:59+08:00</updated>
+        <entry>
+        <title>@tailwindcss/typography 提供美观的默认排版样式库</title>
+        <id>145410</id>
+        <link href="https://www.suiyan.cc/blog/20260204112608?utm_source=blogfinder" />
+        <published>2026-02-04T19:26:08+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[@tailwindcss/typography 提供美观的默认排版样式库]]></summary>
+    </entry>
         <entry>
         <title>自我表达需要认同么</title>
         <id>145409</id>
@@ -1155,71 +1166,5 @@
             <uri>https://www.jfsay.com</uri>
         </author>
         <summary type="text"><![CDATA[《里斯本丸沉没》《东极岛》：英国战俘、日本军队和中国渔民的故事]]></summary>
-    </entry>
-        <entry>
-        <title>PVE存储合并实践：整合local-lvm到local</title>
-        <id>145208</id>
-        <link href="https://www.jinjun.top/posts/merge-local-lvm/?utm_source=blogfinder" />
-        <published>2026-02-01T21:00:00+08:00</published>
-        <author>
-            <name>钧言极客</name>
-            <uri>https://www.jinjun.top</uri>
-        </author>
-        <summary type="text"><![CDATA[PVE存储合并实践：整合local-lvm到local]]></summary>
-    </entry>
-        <entry>
-        <title>草莓第一次写真</title>
-        <id>145075</id>
-        <link href="https://www.skyue.com/26020120.html?utm_source=blogfinder" />
-        <published>2026-02-01T20:49:00+08:00</published>
-        <author>
-            <name>拾月</name>
-            <uri>https://www.skyue.com</uri>
-        </author>
-        <summary type="text"><![CDATA[草莓第一次写真]]></summary>
-    </entry>
-        <entry>
-        <title>分享个加速github访问的方法</title>
-        <id>145078</id>
-        <link href="https://nicksxs.me/2026/02/01/%E5%88%86%E4%BA%AB%E4%B8%AA%E5%8A%A0%E9%80%9Fgithub%E8%AE%BF%E9%97%AE%E7%9A%84%E6%96%B9%E6%B3%95/?utm_source=blogfinder" />
-        <published>2026-02-01T20:47:57+08:00</published>
-        <author>
-            <name>Nicksxs&#039;s Blog</name>
-            <uri>https://nicksxs.me</uri>
-        </author>
-        <summary type="text"><![CDATA[分享个加速github访问的方法]]></summary>
-    </entry>
-        <entry>
-        <title>股市纷纷扰扰，我重读《投资第1课》</title>
-        <id>145258</id>
-        <link href="http://www.jinhuaiyao.com/posts/reread-investing-lesson-1/?utm_source=blogfinder" />
-        <published>2026-02-01T20:00:39+08:00</published>
-        <author>
-            <name>Huaiyao Jin</name>
-            <uri>https://www.jinhuaiyao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[股市纷纷扰扰，我重读《投资第1课》]]></summary>
-    </entry>
-        <entry>
-        <title>周末流水账 0201</title>
-        <id>145086</id>
-        <link href="https://blog.solazy.me/20260201/?utm_source=blogfinder" />
-        <published>2026-02-01T20:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[周末流水账 0201]]></summary>
-    </entry>
-        <entry>
-        <title>在 Ubuntu 22.04+ 上安装达芬奇</title>
-        <id>145076</id>
-        <link href="https://mei.lv/articles/2026/ubuntu-DaVinci.html?utm_source=blogfinder" />
-        <published>2026-02-01T19:52:19+08:00</published>
-        <author>
-            <name>Mei 的网络日志</name>
-            <uri>https://mei.lv</uri>
-        </author>
-        <summary type="text"><![CDATA[在 Ubuntu 22.04+ 上安装达芬奇]]></summary>
     </entry>
     </feed>
