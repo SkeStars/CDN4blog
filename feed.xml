@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-05T16:00:25+08:00</updated>
+    <updated>2026-02-05T18:03:36+08:00</updated>
+        <entry>
+        <title>意外，腾讯又买回来了</title>
+        <id>145469</id>
+        <link href="https://retire50blog.wang/invest/%e6%84%8f%e5%a4%96%ef%bc%8c%e8%85%be%e8%ae%af%e5%8f%88%e4%b9%b0%e5%9b%9e%e6%9d%a5%e4%ba%86.html?utm_source=blogfinder" />
+        <published>2026-02-05T15:28:51+08:00</published>
+        <author>
+            <name>个人工作记录</name>
+            <uri>https://retire50blog.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[意外，腾讯又买回来了]]></summary>
+    </entry>
         <entry>
         <title>[说说] 2026年还没怎么开始，整个团队越来越卷了。问了下其他的团队，也差不多。 大部分的说法是，外部环境越...</title>
         <id>145466</id>
@@ -22,6 +33,17 @@
             <uri>https://blog.boguan.site</uri>
         </author>
         <summary type="text"><![CDATA[[说说] 2026年还没怎么开始，整个团队越来越卷了。问了下其他的团队，也差不多。 大部分的说法是，外部环境越...]]></summary>
+    </entry>
+        <entry>
+        <title>腾讯云Edgeone新增“人机校验页”和“AI爬虫处置”的安全防护功能</title>
+        <id>145471</id>
+        <link href="https://www.bufanz.com/20260205459.html?utm_source=blogfinder" />
+        <published>2026-02-05T13:52:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[腾讯云Edgeone新增“人机校验页”和“AI爬虫处置”的安全防护功能]]></summary>
     </entry>
         <entry>
         <title>《自己把头发怼了下》</title>
@@ -101,6 +123,17 @@
         <summary type="text"><![CDATA[拉面师傅大脑和面团时间]]></summary>
     </entry>
         <entry>
+        <title>卸下《家庭背景》的重担</title>
+        <id>145472</id>
+        <link href="https://www.pgoj.top/archives/jiatingbeijing.html?utm_source=blogfinder" />
+        <published>2026-02-05T10:09:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[卸下《家庭背景》的重担]]></summary>
+    </entry>
+        <entry>
         <title>我不再写“我”</title>
         <id>145460</id>
         <link href="https://onojyun.com/2026/02/05/%e6%88%91%e4%b8%8d%e5%86%8d%e5%86%99%e3%80%8c%e6%88%91%e3%80%8d/?utm_source=blogfinder" />
@@ -156,6 +189,28 @@
         <summary type="text"><![CDATA[康复中]]></summary>
     </entry>
         <entry>
+        <title>百日计划</title>
+        <id>145475</id>
+        <link href="https://d-d.design/single/18056?utm_source=blogfinder" />
+        <published>2026-02-05T02:18:32+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[百日计划]]></summary>
+    </entry>
+        <entry>
+        <title>使用UnlockMusic解锁QQ音乐、酷狗音乐、网易云音乐等平台VIP歌曲的加密保护</title>
+        <id>145473</id>
+        <link href="https://blog.ybyq.wang/archives/1653.html?utm_source=blogfinder" />
+        <published>2026-02-04T23:49:11+08:00</published>
+        <author>
+            <name>Xuan&#039;s blog</name>
+            <uri>https://blog.ybyq.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[使用UnlockMusic解锁QQ音乐、酷狗音乐、网易云音乐等平台VIP歌曲的加密保护]]></summary>
+    </entry>
+        <entry>
         <title>在日本开电车：特斯拉一日自驾</title>
         <id>145424</id>
         <link href="https://song.al/telsajp?utm_source=blogfinder" />
@@ -187,6 +242,17 @@
             <uri>https://hulatu.com</uri>
         </author>
         <summary type="text"><![CDATA[我的音乐品味，偏爱着忧郁]]></summary>
+    </entry>
+        <entry>
+        <title>手术流水账 0204</title>
+        <id>145470</id>
+        <link href="https://blog.solazy.me/20260204/?utm_source=blogfinder" />
+        <published>2026-02-04T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[手术流水账 0204]]></summary>
     </entry>
         <entry>
         <title>今日立春</title>
@@ -319,6 +385,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[@tailwindcss/typography 提供美观的默认排版样式库]]></summary>
+    </entry>
+        <entry>
+        <title>奶奶都能看懂的 C# —— LINQ、 Lambda 和 IEnumerable</title>
+        <id>145474</id>
+        <link href="https://blog.samhou.top/csharp-linq-lambda-enumerable/?utm_source=blogfinder" />
+        <published>2026-02-04T19:02:29+08:00</published>
+        <author>
+            <name>SamHou&#039;s Blog</name>
+            <uri>https://blog.samhou.top</uri>
+        </author>
+        <summary type="text"><![CDATA[奶奶都能看懂的 C# —— LINQ、 Lambda 和 IEnumerable]]></summary>
     </entry>
         <entry>
         <title>三亚七人行</title>
@@ -1166,49 +1243,5 @@
             <uri>https://cuixiping.com</uri>
         </author>
         <summary type="text"><![CDATA[没有被看见的斩杀线，其实就在身边]]></summary>
-    </entry>
-        <entry>
-        <title>20260201</title>
-        <id>145200</id>
-        <link href="https://61.life/2026/0201?utm_source=blogfinder" />
-        <published>2026-02-02T17:50:17+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260201]]></summary>
-    </entry>
-        <entry>
-        <title>我守护的一片天地</title>
-        <id>145203</id>
-        <link href="https://zooyoo.top/article.php?id=22&amp;utm_source=blogfinder" />
-        <published>2026-02-02T17:26:43+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[我守护的一片天地]]></summary>
-    </entry>
-        <entry>
-        <title>MySQL 连接数：为什么你的服务器总“Too many connections”？连接池的配置和优化</title>
-        <id>145211</id>
-        <link href="https://www.sunzhongwei.com/mysql-connection-count?utm_source=blogfinder" />
-        <published>2026-02-02T17:26:29+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[MySQL 连接数：为什么你的服务器总“Too many connections”？连接池的配置和优化]]></summary>
-    </entry>
-        <entry>
-        <title>综述写作之-作图工程</title>
-        <id>145429</id>
-        <link href="https://hulatu.com/posts/2026/02/02/comprehensive-writing-graph-engineering/?utm_source=blogfinder" />
-        <published>2026-02-02T17:00:28+08:00</published>
-        <author>
-            <name>胡拉图的后花园</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[综述写作之-作图工程]]></summary>
     </entry>
     </feed>
