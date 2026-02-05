@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-05T13:00:40+08:00</updated>
+    <updated>2026-02-05T14:00:31+08:00</updated>
+        <entry>
+        <title>《自己把头发怼了下》</title>
+        <id>145463</id>
+        <link href="https://www.weiwenchao.com/2307.html?utm_source=blogfinder" />
+        <published>2026-02-05T13:50:00+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《自己把头发怼了下》]]></summary>
+    </entry>
+        <entry>
+        <title>因为即将离职，我连一袋米、一桶油的福利都不配拥有？</title>
+        <id>145464</id>
+        <link href="https://ygz.ink/archives/4212.html?utm_source=blogfinder" />
+        <published>2026-02-05T12:08:47+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[因为即将离职，我连一袋米、一桶油的福利都不配拥有？]]></summary>
+    </entry>
         <entry>
         <title>《偷偷摸摸，搞顿火锅》</title>
         <id>145459</id>
@@ -209,6 +231,17 @@
             <uri>https://blog.forecho.com</uri>
         </author>
         <summary type="text"><![CDATA[Tradovate 平台使用指南：从入门到精通]]></summary>
+    </entry>
+        <entry>
+        <title>东北游记上-亚布力&amp;雪乡玩雪之旅</title>
+        <id>145462</id>
+        <link href="https://isming.me/2026-01-harbin-one-xuexiang/?utm_source=blogfinder" />
+        <published>2026-02-04T20:25:18+08:00</published>
+        <author>
+            <name>码农明明桑</name>
+            <uri>https://isming.me</uri>
+        </author>
+        <summary type="text"><![CDATA[东北游记上-亚布力&amp;雪乡玩雪之旅]]></summary>
     </entry>
         <entry>
         <title>解决Typecho的评论XSS攻击</title>
