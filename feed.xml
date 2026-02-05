@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-05T19:00:29+08:00</updated>
+    <updated>2026-02-05T21:01:18+08:00</updated>
+        <entry>
+        <title>年底不给钱，那就给你停电吧！</title>
+        <id>145477</id>
+        <link href="https://www.aiwazi.com/2825.html?utm_source=blogfinder" />
+        <published>2026-02-05T16:28:58+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[年底不给钱，那就给你停电吧！]]></summary>
+    </entry>
         <entry>
         <title>意外，腾讯又买回来了</title>
         <id>145469</id>
@@ -66,6 +77,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[因为即将离职，我连一袋米、一桶油的福利都不配拥有？]]></summary>
+    </entry>
+        <entry>
+        <title>越贵的镜片真的对眼睛越好吗</title>
+        <id>145476</id>
+        <link href="https://iliu.org/posts/is-a-more-expensive-lens-really-better-for-your-eyes/?utm_source=blogfinder" />
+        <published>2026-02-05T11:30:40+08:00</published>
+        <author>
+            <name>老刘博客</name>
+            <uri>https://iliu.org</uri>
+        </author>
+        <summary type="text"><![CDATA[越贵的镜片真的对眼睛越好吗]]></summary>
     </entry>
         <entry>
         <title>所有人都在交智商税</title>
@@ -1210,38 +1232,5 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[冬至（44/81）：与疼痛作战，为未来努力]]></summary>
-    </entry>
-        <entry>
-        <title>站点搬家记：如何在干净机器上重建网站</title>
-        <id>145210</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1040/?utm_source=blogfinder" />
-        <published>2026-02-02T20:46:00+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[站点搬家记：如何在干净机器上重建网站]]></summary>
-    </entry>
-        <entry>
-        <title>可划分显存 != 统一内存：AI Max+ 395 64G AI推理性能</title>
-        <id>145228</id>
-        <link href="https://ddadaal.me/articles/aimaxplus395-ai-inference/cn?utm_source=blogfinder" />
-        <published>2026-02-02T20:34:00+08:00</published>
-        <author>
-            <name>ddadaal</name>
-            <uri>https://ddadaal.me</uri>
-        </author>
-        <summary type="text"><![CDATA[可划分显存 != 统一内存：AI Max+ 395 64G AI推理性能]]></summary>
-    </entry>
-        <entry>
-        <title>没有被看见的斩杀线，其实就在身边</title>
-        <id>145209</id>
-        <link href="https://cuixiping.com/blog/think/cehgxm?utm_source=blogfinder" />
-        <published>2026-02-02T19:47:00+08:00</published>
-        <author>
-            <name>崔话记</name>
-            <uri>https://cuixiping.com</uri>
-        </author>
-        <summary type="text"><![CDATA[没有被看见的斩杀线，其实就在身边]]></summary>
     </entry>
     </feed>
