@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-06T15:00:44+08:00</updated>
+    <updated>2026-02-06T16:00:47+08:00</updated>
+        <entry>
+        <title>如何准确地给阅读计数器『注水』</title>
+        <id>145571</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1063/?utm_source=blogfinder" />
+        <published>2026-02-06T14:26:00+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[如何准确地给阅读计数器『注水』]]></summary>
+    </entry>
         <entry>
         <title>顽疾</title>
         <id>145569</id>
@@ -165,6 +176,17 @@
             <uri>https://61.life</uri>
         </author>
         <summary type="text"><![CDATA[20260205]]></summary>
+    </entry>
+        <entry>
+        <title>CB 电台：免执照对讲机缺失的一块拼图</title>
+        <id>145572</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1032/?utm_source=blogfinder" />
+        <published>2026-02-05T23:23:18+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[CB 电台：免执照对讲机缺失的一块拼图]]></summary>
     </entry>
         <entry>
         <title>《极限审判》：AI找真凶</title>
@@ -1320,27 +1342,5 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[在大佬论坛抽奖中的奖品极兔快递运输三天没反应]]></summary>
-    </entry>
-        <entry>
-        <title>关于辞去“开往友链接力”项目维护组负责人的辞呈</title>
-        <id>145253</id>
-        <link href="https://www.xiaozonglin.cn/resignation-from-the-position-of-maintenance-team-lead-of-the-travellings-project/?utm_source=blogfinder" />
-        <published>2026-02-03T15:59:00+08:00</published>
-        <author>
-            <name>林林杂语</name>
-            <uri>https://www.xiaozonglin.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[关于辞去“开往友链接力”项目维护组负责人的辞呈]]></summary>
-    </entry>
-        <entry>
-        <title>给你的文章添加 AI 创作等级标识</title>
-        <id>145251</id>
-        <link href="https://www.suiyan.cc/blog/20260203070348?utm_source=blogfinder" />
-        <published>2026-02-03T15:03:48+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[给你的文章添加 AI 创作等级标识]]></summary>
     </entry>
     </feed>
