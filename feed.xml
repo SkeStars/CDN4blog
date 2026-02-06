@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-06T16:00:47+08:00</updated>
+    <updated>2026-02-06T17:00:48+08:00</updated>
+        <entry>
+        <title>玩了下QQ经典农场</title>
+        <id>145576</id>
+        <link href="https://ygz.ink/archives/4231.html?utm_source=blogfinder" />
+        <published>2026-02-06T16:53:54+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[玩了下QQ经典农场]]></summary>
+    </entry>
+        <entry>
+        <title>博客用上了腾讯的EdgeOne加速</title>
+        <id>145577</id>
+        <link href="https://ygz.ink/archives/4223.html?utm_source=blogfinder" />
+        <published>2026-02-06T16:24:13+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[博客用上了腾讯的EdgeOne加速]]></summary>
+    </entry>
         <entry>
         <title>如何准确地给阅读计数器『注水』</title>
         <id>145571</id>
@@ -57,6 +79,17 @@
         <summary type="text"><![CDATA[《鸡蛋，和凌晨觉察的事》]]></summary>
     </entry>
         <entry>
+        <title>七天签到规则调整</title>
+        <id>145575</id>
+        <link href="https://zhujay.com/talking/?id=1192&amp;utm_source=blogfinder" />
+        <published>2026-02-06T11:35:01+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[七天签到规则调整]]></summary>
+    </entry>
+        <entry>
         <title>流动性的魅力</title>
         <id>145563</id>
         <link href="https://rolen.wiki/the-magic-of-flow/?utm_source=blogfinder" />
@@ -99,6 +132,17 @@
             <uri>https://www.wikimoe.com</uri>
         </author>
         <summary type="text"><![CDATA[超过7天了，CloudCone还是没有恢复]]></summary>
+    </entry>
+        <entry>
+        <title>科技爱好者周刊（第 384 期）：为什么软件股下跌</title>
+        <id>145573</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html?utm_source=blogfinder" />
+        <published>2026-02-06T08:14:20+08:00</published>
+        <author>
+            <name>阮一峰的网络日志</name>
+            <uri>http://www.ruanyifeng.com/blog</uri>
+        </author>
+        <summary type="text"><![CDATA[科技爱好者周刊（第 384 期）：为什么软件股下跌]]></summary>
     </entry>
         <entry>
         <title>定投一个 ETF 就可以吗？</title>
@@ -154,6 +198,17 @@
             <uri>https://howiehz.top</uri>
         </author>
         <summary type="text"><![CDATA[CVE-2025-70886 Proof of Concept (PoC) | A Script to Crash Halo CMS Comment Backend]]></summary>
+    </entry>
+        <entry>
+        <title>从edgeone迁移到esa</title>
+        <id>145574</id>
+        <link href="https://xingwangzhe.fun/posts/mv-edgeone-to-esa/?utm_source=blogfinder" />
+        <published>2026-02-06T01:55:30+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[从edgeone迁移到esa]]></summary>
     </entry>
         <entry>
         <title>N5105NAS：配置WebDav服务</title>
@@ -1331,16 +1386,5 @@
             <uri>https://www.xiaocaoderijiben.online</uri>
         </author>
         <summary type="text"><![CDATA[试用了Cloudflare Pages服务]]></summary>
-    </entry>
-        <entry>
-        <title>在大佬论坛抽奖中的奖品极兔快递运输三天没反应</title>
-        <id>145256</id>
-        <link href="https://www.aiwazi.com/2820.html?utm_source=blogfinder" />
-        <published>2026-02-03T16:46:52+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[在大佬论坛抽奖中的奖品极兔快递运输三天没反应]]></summary>
     </entry>
     </feed>
