@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-06T19:00:22+08:00</updated>
+    <updated>2026-02-06T21:02:09+08:00</updated>
         <entry>
         <title>玩了下QQ经典农场</title>
         <id>145576</id>
@@ -33,6 +33,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[博客用上了腾讯的EdgeOne加速]]></summary>
+    </entry>
+        <entry>
+        <title>为什么我们生活中看到的颜色越来越少</title>
+        <id>145584</id>
+        <link href="https://lawtee.com/article/why-are-colors-disappearing/?utm_source=blogfinder" />
+        <published>2026-02-06T16:00:00+08:00</published>
+        <author>
+            <name>老 T 博客</name>
+            <uri>https://lawtee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[为什么我们生活中看到的颜色越来越少]]></summary>
     </entry>
         <entry>
         <title>2026.2.5</title>
@@ -1364,49 +1375,5 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[股票基金价格波段计算器，增加自定义小数位数功能]]></summary>
-    </entry>
-        <entry>
-        <title>访澳门国父纪念馆</title>
-        <id>145417</id>
-        <link href="https://yayu.net/6192.html?utm_source=blogfinder" />
-        <published>2026-02-03T21:00:41+08:00</published>
-        <author>
-            <name>雅余</name>
-            <uri>https://yayu.net</uri>
-        </author>
-        <summary type="text"><![CDATA[访澳门国父纪念馆]]></summary>
-    </entry>
-        <entry>
-        <title>手术流水账 0203</title>
-        <id>145401</id>
-        <link href="https://blog.solazy.me/20260203/?utm_source=blogfinder" />
-        <published>2026-02-03T21:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[手术流水账 0203]]></summary>
-    </entry>
-        <entry>
-        <title>红泥巴村：童年乌托邦</title>
-        <id>145267</id>
-        <link href="https://zooyoo.top/article.php?id=24&amp;utm_source=blogfinder" />
-        <published>2026-02-03T20:32:39+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[红泥巴村：童年乌托邦]]></summary>
-    </entry>
-        <entry>
-        <title>记一次赔钱出二手产品</title>
-        <id>145428</id>
-        <link href="https://hulatu.com/daily/selling-second-hand-products-at-a-loss/?utm_source=blogfinder" />
-        <published>2026-02-03T19:22:11+08:00</published>
-        <author>
-            <name>胡拉图的后花园</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[记一次赔钱出二手产品]]></summary>
     </entry>
     </feed>
