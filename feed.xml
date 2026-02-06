@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-06T14:00:30+08:00</updated>
+    <updated>2026-02-06T15:00:44+08:00</updated>
+        <entry>
+        <title>顽疾</title>
+        <id>145569</id>
+        <link href="https://onojyun.com/2026/02/06/%e9%a1%bd%e7%96%be/?utm_source=blogfinder" />
+        <published>2026-02-06T14:00:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://onojyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[顽疾]]></summary>
+    </entry>
+        <entry>
+        <title>节奏比完美更重要</title>
+        <id>145570</id>
+        <link href="https://rolen.wiki/rhythm-over-perfection/?utm_source=blogfinder" />
+        <published>2026-02-06T13:57:19+08:00</published>
+        <author>
+            <name>Rolen&#039;s Blog</name>
+            <uri>https://rolen.wiki</uri>
+        </author>
+        <summary type="text"><![CDATA[节奏比完美更重要]]></summary>
+    </entry>
         <entry>
         <title>《鸡蛋，和凌晨觉察的事》</title>
         <id>145566</id>
@@ -1320,49 +1342,5 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[给你的文章添加 AI 创作等级标识]]></summary>
-    </entry>
-        <entry>
-        <title>迎马年·小马挂件钩织法（2）</title>
-        <id>145259</id>
-        <link href="https://www.jfsay.com/archives/3929.html?utm_source=blogfinder" />
-        <published>2026-02-03T14:52:40+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[迎马年·小马挂件钩织法（2）]]></summary>
-    </entry>
-        <entry>
-        <title>人为什么要熬夜</title>
-        <id>145391</id>
-        <link href="https://www.laomuzhu.cn/279.html?utm_source=blogfinder" />
-        <published>2026-02-03T14:51:00+08:00</published>
-        <author>
-            <name>木竹</name>
-            <uri>https://www.laomuzhu.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[人为什么要熬夜]]></summary>
-    </entry>
-        <entry>
-        <title>漫长的告别：我们还需要 windows 吗？</title>
-        <id>145263</id>
-        <link href="https://shiyu.dev/article/316?utm_source=blogfinder" />
-        <published>2026-02-03T14:46:00+08:00</published>
-        <author>
-            <name>时雨</name>
-            <uri>https://shiyu.dev</uri>
-        </author>
-        <summary type="text"><![CDATA[漫长的告别：我们还需要 windows 吗？]]></summary>
-    </entry>
-        <entry>
-        <title>涨涨涨，居高不下的铜价，惨淡的生意</title>
-        <id>145248</id>
-        <link href="https://www.aiwazi.com/2814.html?utm_source=blogfinder" />
-        <published>2026-02-03T14:05:53+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[涨涨涨，居高不下的铜价，惨淡的生意]]></summary>
     </entry>
     </feed>
