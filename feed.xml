@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-07T15:00:38+08:00</updated>
+    <updated>2026-02-07T16:00:12+08:00</updated>
+        <entry>
+        <title>Excel 月报自动化指南：告别重复劳动，让数据主动为你服务</title>
+        <id>145657</id>
+        <link href="https://wuqishi.com/excel-monthly-report-automation-guide/?utm_source=blogfinder" />
+        <published>2026-02-07T15:49:09+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Excel 月报自动化指南：告别重复劳动，让数据主动为你服务]]></summary>
+    </entry>
         <entry>
         <title>眼神</title>
         <id>145654</id>
@@ -22,6 +33,17 @@
             <uri>https://ltmltm.cn/bk</uri>
         </author>
         <summary type="text"><![CDATA[眼神]]></summary>
+    </entry>
+        <entry>
+        <title>蛋糕谜题</title>
+        <id>145658</id>
+        <link href="https://blog.solazy.me/20260207/?utm_source=blogfinder" />
+        <published>2026-02-07T13:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[蛋糕谜题]]></summary>
     </entry>
         <entry>
         <title>读《那片血一般红的杜鹃花》</title>
@@ -44,6 +66,17 @@
             <uri>http://www.lopwon.com</uri>
         </author>
         <summary type="text"><![CDATA[90%]]></summary>
+    </entry>
+        <entry>
+        <title>GitHub 6K Star! 一款兼容性极好的音乐播放器！</title>
+        <id>145659</id>
+        <link href="https://www.zhyok.cn/index.php/archives/237/?utm_source=blogfinder" />
+        <published>2026-02-07T11:32:00+08:00</published>
+        <author>
+            <name>秋記 Autumn</name>
+            <uri>https://www.zhyok.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[GitHub 6K Star! 一款兼容性极好的音乐播放器！]]></summary>
     </entry>
         <entry>
         <title>爱的捆绑</title>
@@ -1441,16 +1474,5 @@
             <uri>https://iliu.org</uri>
         </author>
         <summary type="text"><![CDATA[告别 PaperMod：审美疲劳后的 Hugo 博客“换装”记]]></summary>
-    </entry>
-        <entry>
-        <title>日常#11 - 香港赤柱、胶片</title>
-        <id>145400</id>
-        <link href="https://taxodium.ink/nichijou-11.html?utm_source=blogfinder" />
-        <published>2026-02-04T15:30:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[日常#11 - 香港赤柱、胶片]]></summary>
     </entry>
     </feed>
