@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-07T17:00:38+08:00</updated>
+    <updated>2026-02-07T18:00:59+08:00</updated>
         <entry>
         <title>Excel 月报自动化指南：告别重复劳动，让数据主动为你服务</title>
         <id>145657</id>
@@ -66,6 +66,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[WordPress后台经常被扫]]></summary>
+    </entry>
+        <entry>
+        <title>杜绝无效社交</title>
+        <id>145668</id>
+        <link href="https://joojen.com/archives/8804.html?utm_source=blogfinder" />
+        <published>2026-02-07T12:06:22+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[杜绝无效社交]]></summary>
     </entry>
         <entry>
         <title>90%</title>
@@ -132,6 +143,17 @@
             <uri>https://demochen.com</uri>
         </author>
         <summary type="text"><![CDATA[闪灵让我恐怖的是什么？]]></summary>
+    </entry>
+        <entry>
+        <title>我居然从淘宝买了6000元的衣服</title>
+        <id>145667</id>
+        <link href="https://1900.live/wo-ju-ran-cong-tao-bao-mai-liao-6000yuan-de-yi-fu/?utm_source=blogfinder" />
+        <published>2026-02-07T11:05:31+08:00</published>
+        <author>
+            <name>我道</name>
+            <uri>https://1900.live</uri>
+        </author>
+        <summary type="text"><![CDATA[我居然从淘宝买了6000元的衣服]]></summary>
     </entry>
         <entry>
         <title>凌晨的一条消息，让我重新理解自由！</title>
@@ -1496,27 +1518,5 @@
             <uri>https://www.wikimoe.com</uri>
         </author>
         <summary type="text"><![CDATA[Netflix 罪大恶极]]></summary>
-    </entry>
-        <entry>
-        <title>三亚七人行</title>
-        <id>145444</id>
-        <link href="https://shuiba.co/sanya-family-trip?utm_source=blogfinder" />
-        <published>2026-02-04T17:59:00+08:00</published>
-        <author>
-            <name>水八口的冥想盆</name>
-            <uri>https://shuiba.co</uri>
-        </author>
-        <summary type="text"><![CDATA[三亚七人行]]></summary>
-    </entry>
-        <entry>
-        <title>自我表达需要认同么</title>
-        <id>145409</id>
-        <link href="https://d-d.design/single/18047?utm_source=blogfinder" />
-        <published>2026-02-04T17:03:08+08:00</published>
-        <author>
-            <name>孤斗</name>
-            <uri>https://d-d.design</uri>
-        </author>
-        <summary type="text"><![CDATA[自我表达需要认同么]]></summary>
     </entry>
     </feed>
