@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-07T21:00:34+08:00</updated>
+    <updated>2026-02-07T22:00:57+08:00</updated>
         <entry>
         <title>Excel 月报自动化指南：告别重复劳动，让数据主动为你服务</title>
         <id>145657</id>
@@ -286,6 +286,17 @@
             <uri>https://taxodium.ink</uri>
         </author>
         <summary type="text"><![CDATA[Album#30 - 幻]]></summary>
+    </entry>
+        <entry>
+        <title>推荐一家西安北郊的螺味王螺蛳粉，味道十足，好吃到爆</title>
+        <id>145669</id>
+        <link href="https://www.liuzen.com/luosifnen-xian.html?utm_source=blogfinder" />
+        <published>2026-02-06T21:48:23+08:00</published>
+        <author>
+            <name>火和旅行</name>
+            <uri>https://www.huotravel.com</uri>
+        </author>
+        <summary type="text"><![CDATA[推荐一家西安北郊的螺味王螺蛳粉，味道十足，好吃到爆]]></summary>
     </entry>
         <entry>
         <title>推荐一家西安北郊的螺味王螺蛳粉，味道十足，好吃到爆</title>
@@ -1408,27 +1419,5 @@
             <uri>https://javis.me</uri>
         </author>
         <summary type="text"><![CDATA[2026 年 1 月书影音总结]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1625】朱生豪译莎士比亚《麦克白》</title>
-        <id>145413</id>
-        <link href="http://www.qncd.com/?p=12466&amp;utm_source=blogfinder" />
-        <published>2026-02-04T21:30:15+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1625】朱生豪译莎士比亚《麦克白》]]></summary>
-    </entry>
-        <entry>
-        <title>酥米的碎碎念（10），最近的一些事</title>
-        <id>145421</id>
-        <link href="https://www.sumi233.top/%E9%85%A5%E7%B1%B3%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/%E9%85%A5%E7%B1%B3%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B510/?utm_source=blogfinder" />
-        <published>2026-02-04T21:27:56+08:00</published>
-        <author>
-            <name>酥米的小站</name>
-            <uri>https://www.sumi233.top</uri>
-        </author>
-        <summary type="text"><![CDATA[酥米的碎碎念（10），最近的一些事]]></summary>
     </entry>
     </feed>
