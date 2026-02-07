@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-07T16:00:12+08:00</updated>
+    <updated>2026-02-07T17:00:38+08:00</updated>
         <entry>
         <title>Excel 月报自动化指南：告别重复劳动，让数据主动为你服务</title>
         <id>145657</id>
@@ -57,6 +57,17 @@
         <summary type="text"><![CDATA[读《那片血一般红的杜鹃花》]]></summary>
     </entry>
         <entry>
+        <title>WordPress后台经常被扫</title>
+        <id>145665</id>
+        <link href="https://ygz.ink/archives/4246.html?utm_source=blogfinder" />
+        <published>2026-02-07T12:48:48+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[WordPress后台经常被扫]]></summary>
+    </entry>
+        <entry>
         <title>90%</title>
         <id>145651</id>
         <link href="http://www.lopwon.com/4084.html?utm_source=blogfinder" />
@@ -90,6 +101,17 @@
         <summary type="text"><![CDATA[爱的捆绑]]></summary>
     </entry>
         <entry>
+        <title>纸书与电子书就像包子和饺子</title>
+        <id>145666</id>
+        <link href="https://www.pgoj.top/archives/zhishudianzishu.html?utm_source=blogfinder" />
+        <published>2026-02-07T11:19:46+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[纸书与电子书就像包子和饺子]]></summary>
+    </entry>
+        <entry>
         <title>今天是新海诚音乐会</title>
         <id>145652</id>
         <link href="https://www.wikimoe.com/post/ta2jom0s?utm_source=blogfinder" />
@@ -99,6 +121,17 @@
             <uri>https://www.wikimoe.com</uri>
         </author>
         <summary type="text"><![CDATA[今天是新海诚音乐会]]></summary>
+    </entry>
+        <entry>
+        <title>闪灵让我恐怖的是什么？</title>
+        <id>145661</id>
+        <link href="https://demochen.com/posts/20260207/?utm_source=blogfinder" />
+        <published>2026-02-07T11:11:05+08:00</published>
+        <author>
+            <name>特立独行的异类</name>
+            <uri>https://demochen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[闪灵让我恐怖的是什么？]]></summary>
     </entry>
         <entry>
         <title>凌晨的一条消息，让我重新理解自由！</title>
@@ -165,6 +198,39 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[恶心的领导]]></summary>
+    </entry>
+        <entry>
+        <title>ESA Pages 边缘开发大赛获奖</title>
+        <id>145662</id>
+        <link href="https://xingwangzhe.fun/posts/esa-pages-awards/?utm_source=blogfinder" />
+        <published>2026-02-07T03:50:32+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[ESA Pages 边缘开发大赛获奖]]></summary>
+    </entry>
+        <entry>
+        <title>Astro: 优化katex,mermaid和灯箱使用</title>
+        <id>145663</id>
+        <link href="https://xingwangzhe.fun/posts/astro-optimize-katex-mermaid-photoswipe/?utm_source=blogfinder" />
+        <published>2026-02-07T02:13:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Astro: 优化katex,mermaid和灯箱使用]]></summary>
+    </entry>
+        <entry>
+        <title>超时空辉夜姬！</title>
+        <id>145664</id>
+        <link href="https://xeonzilla.top/note/chou-kaguya-hime?utm_source=blogfinder" />
+        <published>2026-02-06T23:15:00+08:00</published>
+        <author>
+            <name>Xeonzilla’s Note</name>
+            <uri>https://xeonzilla.top</uri>
+        </author>
+        <summary type="text"><![CDATA[超时空辉夜姬！]]></summary>
     </entry>
         <entry>
         <title>冬至（48/81）：根管二阶段，准备第一次教资模拟考</title>
@@ -253,6 +319,17 @@
             <uri>https://hux.ink</uri>
         </author>
         <summary type="text"><![CDATA[童趣对话（一）]]></summary>
+    </entry>
+        <entry>
+        <title>Arch Linux ARM 在树莓派上的内核选择</title>
+        <id>145660</id>
+        <link href="https://sh.alynx.one/posts/RPi-Arch-Linux-ARM-Kernel/?utm_source=blogfinder" />
+        <published>2026-02-06T17:03:00+08:00</published>
+        <author>
+            <name>喵&#039;s StackHarbor</name>
+            <uri>https://sh.alynx.one</uri>
+        </author>
+        <summary type="text"><![CDATA[Arch Linux ARM 在树莓派上的内核选择]]></summary>
     </entry>
         <entry>
         <title>玩了下QQ经典农场</title>
@@ -1441,38 +1518,5 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[自我表达需要认同么]]></summary>
-    </entry>
-        <entry>
-        <title>写在新年的立春</title>
-        <id>145407</id>
-        <link href="https://airy.ink/times/420?utm_source=blogfinder" />
-        <published>2026-02-04T16:28:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[写在新年的立春]]></summary>
-    </entry>
-        <entry>
-        <title>出租人类：AI时代的荒诞与真实</title>
-        <id>145420</id>
-        <link href="https://xingwangzhe.fun/posts/ai-rentahuman/?utm_source=blogfinder" />
-        <published>2026-02-04T16:18:32+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[出租人类：AI时代的荒诞与真实]]></summary>
-    </entry>
-        <entry>
-        <title>告别 PaperMod：审美疲劳后的 Hugo 博客“换装”记</title>
-        <id>145408</id>
-        <link href="https://iliu.org/posts/bye-papermod/?utm_source=blogfinder" />
-        <published>2026-02-04T16:03:45+08:00</published>
-        <author>
-            <name>老刘博客</name>
-            <uri>https://iliu.org</uri>
-        </author>
-        <summary type="text"><![CDATA[告别 PaperMod：审美疲劳后的 Hugo 博客“换装”记]]></summary>
     </entry>
     </feed>
