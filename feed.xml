@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-08T21:01:57+08:00</updated>
+    <updated>2026-02-08T22:00:35+08:00</updated>
+        <entry>
+        <title>浅析下mysql的索引的基数与可选择性</title>
+        <id>145727</id>
+        <link href="https://nicksxs.me/2026/02/08/%E6%B5%85%E6%9E%90%E4%B8%8Bmysql%E7%9A%84%E7%B4%A2%E5%BC%95%E7%9A%84%E5%9F%BA%E6%95%B0%E4%B8%8E%E5%8F%AF%E9%80%89%E6%8B%A9%E6%80%A7/?utm_source=blogfinder" />
+        <published>2026-02-08T20:56:37+08:00</published>
+        <author>
+            <name>Nicksxs&#039;s Blog</name>
+            <uri>https://nicksxs.me</uri>
+        </author>
+        <summary type="text"><![CDATA[浅析下mysql的索引的基数与可选择性]]></summary>
+    </entry>
         <entry>
         <title>测试向：利用 libfaketime 便捷修改系统时间</title>
         <id>145726</id>
@@ -1287,49 +1298,5 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[冬至（47/81）：迎接2026崇明的最后一场雪]]></summary>
-    </entry>
-        <entry>
-        <title>一个人烧烤被拒单了</title>
-        <id>145557</id>
-        <link href="https://usj.cc/20260205.html?utm_source=blogfinder" />
-        <published>2026-02-05T22:00:00+08:00</published>
-        <author>
-            <name>优世界</name>
-            <uri>https://usj.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[一个人烧烤被拒单了]]></summary>
-    </entry>
-        <entry>
-        <title>要等级还是分数？</title>
-        <id>145589</id>
-        <link href="https://www.wanghao.me/yaodengjihaishifenshu.html?utm_source=blogfinder" />
-        <published>2026-02-05T21:48:27+08:00</published>
-        <author>
-            <name>小王子</name>
-            <uri>https://www.wanghao.me</uri>
-        </author>
-        <summary type="text"><![CDATA[要等级还是分数？]]></summary>
-    </entry>
-        <entry>
-        <title>这两天两件事</title>
-        <id>145579</id>
-        <link href="https://hjyl.org/two-things-in-these-two-days/?utm_source=blogfinder" />
-        <published>2026-02-05T21:35:19+08:00</published>
-        <author>
-            <name>皇家元林</name>
-            <uri>https://hjyl.org</uri>
-        </author>
-        <summary type="text"><![CDATA[这两天两件事]]></summary>
-    </entry>
-        <entry>
-        <title>春节到了，给typecho博客网站添加两对红灯笼</title>
-        <id>145486</id>
-        <link href="https://blog.ybyq.wang/archives/1681.html?utm_source=blogfinder" />
-        <published>2026-02-05T21:34:09+08:00</published>
-        <author>
-            <name>Xuan&#039;s blog</name>
-            <uri>https://blog.ybyq.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[春节到了，给typecho博客网站添加两对红灯笼]]></summary>
     </entry>
     </feed>
