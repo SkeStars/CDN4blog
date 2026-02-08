@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-08T13:00:25+08:00</updated>
+    <updated>2026-02-08T15:01:00+08:00</updated>
         <entry>
         <title>《记巡逻小胖》</title>
         <id>145708</id>
@@ -110,6 +110,17 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[冬至（49/81）：博客2周年活动即将开始 and so on]]></summary>
+    </entry>
+        <entry>
+        <title>东北游记下-哈尔滨游览</title>
+        <id>145713</id>
+        <link href="https://isming.me/2026-01-harbin-two/?utm_source=blogfinder" />
+        <published>2026-02-07T21:10:18+08:00</published>
+        <author>
+            <name>码农明明桑</name>
+            <uri>https://isming.me</uri>
+        </author>
+        <summary type="text"><![CDATA[东北游记下-哈尔滨游览]]></summary>
     </entry>
         <entry>
         <title>随风扬了</title>
@@ -528,6 +539,17 @@
             <uri>https://xeonzilla.top</uri>
         </author>
         <summary type="text"><![CDATA[超时空辉夜姬！]]></summary>
+    </entry>
+        <entry>
+        <title>一月第五周 - AI Agent与家</title>
+        <id>145714</id>
+        <link href="https://terryhu.cn/posts/2026/%E4%B8%80%E6%9C%88%E7%AC%AC%E4%BA%94%E5%91%A8-ai-agent%E4%B8%8E%E5%AE%B6/?utm_source=blogfinder" />
+        <published>2026-02-06T22:59:53+08:00</published>
+        <author>
+            <name>Terry&#039;s Blog</name>
+            <uri>https://terryhu.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[一月第五周 - AI Agent与家]]></summary>
     </entry>
         <entry>
         <title>冬至（48/81）：根管二阶段，准备第一次教资模拟考</title>
@@ -1276,38 +1298,5 @@
             <uri>https://retire50blog.wang</uri>
         </author>
         <summary type="text"><![CDATA[意外，腾讯又买回来了]]></summary>
-    </entry>
-        <entry>
-        <title>[说说] 2026年还没怎么开始，整个团队越来越卷了。问了下其他的团队，也差不多。 大部分的说法是，外部环境越...</title>
-        <id>145466</id>
-        <link href="https://blog.boguan.site/moments/4a738a05-4c03-49fe-b916-8c998d3f7bcc?utm_source=blogfinder" />
-        <published>2026-02-05T14:32:37+08:00</published>
-        <author>
-            <name>开发者十一</name>
-            <uri>https://blog.boguan.site</uri>
-        </author>
-        <summary type="text"><![CDATA[[说说] 2026年还没怎么开始，整个团队越来越卷了。问了下其他的团队，也差不多。 大部分的说法是，外部环境越...]]></summary>
-    </entry>
-        <entry>
-        <title>腾讯云Edgeone新增“人机校验页”和“AI爬虫处置”的安全防护功能</title>
-        <id>145471</id>
-        <link href="https://www.bufanz.com/20260205459.html?utm_source=blogfinder" />
-        <published>2026-02-05T13:52:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[腾讯云Edgeone新增“人机校验页”和“AI爬虫处置”的安全防护功能]]></summary>
-    </entry>
-        <entry>
-        <title>《自己把头发怼了下》</title>
-        <id>145463</id>
-        <link href="https://www.weiwenchao.com/2307.html?utm_source=blogfinder" />
-        <published>2026-02-05T13:50:00+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《自己把头发怼了下》]]></summary>
     </entry>
     </feed>
