@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-08T23:13:47+08:00</updated>
+    <updated>2026-02-09T00:02:56+08:00</updated>
+        <entry>
+        <title>今天的旅程到此结束</title>
+        <id>145739</id>
+        <link href="https://ygz.ink/archives/4270.html?utm_source=blogfinder" />
+        <published>2026-02-08T23:47:32+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[今天的旅程到此结束]]></summary>
+    </entry>
         <entry>
         <title>冬至（50/81）：回乡下，看过往</title>
         <id>145734</id>
@@ -22,6 +33,17 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[冬至（50/81）：回乡下，看过往]]></summary>
+    </entry>
+        <entry>
+        <title>成都世界线漫展2026年2月</title>
+        <id>145737</id>
+        <link href="https://www.wellobserve.com/?post=20260208214926&amp;utm_source=blogfinder" />
+        <published>2026-02-08T21:49:26+08:00</published>
+        <author>
+            <name>WellObserve</name>
+            <uri>https://www.wellobserve.com</uri>
+        </author>
+        <summary type="text"><![CDATA[成都世界线漫展2026年2月]]></summary>
     </entry>
         <entry>
         <title>最后一个周末</title>
@@ -77,6 +99,28 @@
             <uri>https://www.chenrui.com</uri>
         </author>
         <summary type="text"><![CDATA[风雅颂，细节美]]></summary>
+    </entry>
+        <entry>
+        <title>胡拉图的周刊-第八期</title>
+        <id>145738</id>
+        <link href="https://hulatu.com/posts/2026/02/08/newsletter-weekly/?utm_source=blogfinder" />
+        <published>2026-02-08T18:16:40+08:00</published>
+        <author>
+            <name>胡拉图的后花园</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[胡拉图的周刊-第八期]]></summary>
+    </entry>
+        <entry>
+        <title>手动升级一下 OpenWRT</title>
+        <id>145736</id>
+        <link href="https://zeeko.dev/2026/02/manual-upgrade-openwrt/?utm_source=blogfinder" />
+        <published>2026-02-08T17:29:57+08:00</published>
+        <author>
+            <name>网上冲浪指南</name>
+            <uri>https://zeeko.dev</uri>
+        </author>
+        <summary type="text"><![CDATA[手动升级一下 OpenWRT]]></summary>
     </entry>
         <entry>
         <title>病中杂记</title>
@@ -1287,71 +1331,5 @@
             <uri>https://loveapple.icu</uri>
         </author>
         <summary type="text"><![CDATA[N5105NAS：配置WebDav服务]]></summary>
-    </entry>
-        <entry>
-        <title>我崴到了脚</title>
-        <id>145619</id>
-        <link href="https://jame.work/html/other/14r?utm_source=blogfinder" />
-        <published>2026-02-06T00:00:00+08:00</published>
-        <author>
-            <name>Jame</name>
-            <uri>https://jame.work</uri>
-        </author>
-        <summary type="text"><![CDATA[我崴到了脚]]></summary>
-    </entry>
-        <entry>
-        <title>实验室楼顶的小猫（越来越肥了）</title>
-        <id>145650</id>
-        <link href="https://bi1vmm.cn/index.php/archives/84/?utm_source=blogfinder" />
-        <published>2026-02-05T23:58:00+08:00</published>
-        <author>
-            <name>喂猫猫</name>
-            <uri>https://bi1vmm.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[实验室楼顶的小猫（越来越肥了）]]></summary>
-    </entry>
-        <entry>
-        <title>2026年1月小结</title>
-        <id>145596</id>
-        <link href="https://www.colinjiang.com/archives/summary-of-january-2026.html?utm_source=blogfinder" />
-        <published>2026-02-05T23:34:59+08:00</published>
-        <author>
-            <name>君子不器</name>
-            <uri>https://www.colinjiang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026年1月小结]]></summary>
-    </entry>
-        <entry>
-        <title>20260205</title>
-        <id>145558</id>
-        <link href="https://61.life/2026/0205?utm_source=blogfinder" />
-        <published>2026-02-05T23:25:29+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260205]]></summary>
-    </entry>
-        <entry>
-        <title>CB 电台：免执照对讲机缺失的一块拼图</title>
-        <id>145572</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1032/?utm_source=blogfinder" />
-        <published>2026-02-05T23:23:18+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[CB 电台：免执照对讲机缺失的一块拼图]]></summary>
-    </entry>
-        <entry>
-        <title>《极限审判》：AI找真凶</title>
-        <id>145561</id>
-        <link href="https://www.jfsay.com/archives/4024.html?utm_source=blogfinder" />
-        <published>2026-02-05T23:19:40+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《极限审判》：AI找真凶]]></summary>
     </entry>
     </feed>
