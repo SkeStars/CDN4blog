@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-08T22:00:35+08:00</updated>
+    <updated>2026-02-08T23:13:47+08:00</updated>
+        <entry>
+        <title>冬至（50/81）：回乡下，看过往</title>
+        <id>145734</id>
+        <link href="https://blog.mcenahle.org.cn/2026/02/08/417.html?utm_source=blogfinder" />
+        <published>2026-02-08T22:08:00+08:00</published>
+        <author>
+            <name>梅之夏</name>
+            <uri>https://blog.mcenahle.org.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[冬至（50/81）：回乡下，看过往]]></summary>
+    </entry>
+        <entry>
+        <title>最后一个周末</title>
+        <id>145735</id>
+        <link href="https://airy.ink/daily/422?utm_source=blogfinder" />
+        <published>2026-02-08T21:03:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[最后一个周末]]></summary>
+    </entry>
         <entry>
         <title>浅析下mysql的索引的基数与可选择性</title>
         <id>145727</id>
@@ -33,6 +55,39 @@
             <uri>https://www.51it.wang</uri>
         </author>
         <summary type="text"><![CDATA[测试向：利用 libfaketime 便捷修改系统时间]]></summary>
+    </entry>
+        <entry>
+        <title>通勤</title>
+        <id>145732</id>
+        <link href="https://blog.yanqingshan.com/242.html?utm_source=blogfinder" />
+        <published>2026-02-08T20:13:00+08:00</published>
+        <author>
+            <name>青山小站</name>
+            <uri>https://blog.yanqingshan.com</uri>
+        </author>
+        <summary type="text"><![CDATA[通勤]]></summary>
+    </entry>
+        <entry>
+        <title>风雅颂，细节美</title>
+        <id>145728</id>
+        <link href="https://www.chenrui.com/post/3476.html?utm_source=blogfinder" />
+        <published>2026-02-08T19:33:34+08:00</published>
+        <author>
+            <name>陈锐</name>
+            <uri>https://www.chenrui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[风雅颂，细节美]]></summary>
+    </entry>
+        <entry>
+        <title>病中杂记</title>
+        <id>145733</id>
+        <link href="https://lilun.bearblog.dev/erxiangleryuan/?utm_source=blogfinder" />
+        <published>2026-02-08T15:32:00+08:00</published>
+        <author>
+            <name>理论派</name>
+            <uri>https://lilun.bearblog.dev</uri>
+        </author>
+        <summary type="text"><![CDATA[病中杂记]]></summary>
     </entry>
         <entry>
         <title>WordPress 邮件机制探索：一次自嗨实验</title>
@@ -79,6 +134,28 @@
         <summary type="text"><![CDATA[拾起消失在风里的明信片]]></summary>
     </entry>
         <entry>
+        <title>乌托邦咖啡</title>
+        <id>145729</id>
+        <link href="https://bluehe.cn/archives/utopia-cafe?utm_source=blogfinder" />
+        <published>2026-02-08T13:27:00+08:00</published>
+        <author>
+            <name>云心怀鹤</name>
+            <uri>https://bluehe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[乌托邦咖啡]]></summary>
+    </entry>
+        <entry>
+        <title>南宁视角：灵龟山的落羽杉红了</title>
+        <id>145730</id>
+        <link href="https://bluehe.cn/archives/lingguishan-bald-cypress?utm_source=blogfinder" />
+        <published>2026-02-08T13:26:00+08:00</published>
+        <author>
+            <name>云心怀鹤</name>
+            <uri>https://bluehe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[南宁视角：灵龟山的落羽杉红了]]></summary>
+    </entry>
+        <entry>
         <title>本站已加入“萌国ICP备案”联萌！😄</title>
         <id>145715</id>
         <link href="https://wuqishi.com/joined-the-moe-icp-registration-lianmeng/?utm_source=blogfinder" />
@@ -110,6 +187,17 @@
             <uri>https://wangyurui.com</uri>
         </author>
         <summary type="text"><![CDATA[棱镜通讯 No.117 安迪·鲁宾（Andy Rubin）]]></summary>
+    </entry>
+        <entry>
+        <title>千问ai的生态服务融合</title>
+        <id>145731</id>
+        <link href="https://bluehe.cn/archives/ai-qianwen?utm_source=blogfinder" />
+        <published>2026-02-08T11:38:00+08:00</published>
+        <author>
+            <name>云心怀鹤</name>
+            <uri>https://bluehe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[千问ai的生态服务融合]]></summary>
     </entry>
         <entry>
         <title>秧歌是我记忆中的年味儿之一</title>
@@ -1265,38 +1353,5 @@
             <uri>https://www.jfsay.com</uri>
         </author>
         <summary type="text"><![CDATA[《极限审判》：AI找真凶]]></summary>
-    </entry>
-        <entry>
-        <title>三载筑梦，一隅心安</title>
-        <id>145481</id>
-        <link href="https://airy.ink/times/421?utm_source=blogfinder" />
-        <published>2026-02-05T22:21:20+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[三载筑梦，一隅心安]]></summary>
-    </entry>
-        <entry>
-        <title>年会开完，解放自我</title>
-        <id>145487</id>
-        <link href="https://hulatu.com/posts/2026/02/05/%E5%B9%B4%E4%BC%9A%E5%BC%80%E5%AE%8C%E8%A7%A3%E6%94%BE%E8%87%AA%E6%88%91/?utm_source=blogfinder" />
-        <published>2026-02-05T22:19:59+08:00</published>
-        <author>
-            <name>胡拉图的后花园</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[年会开完，解放自我]]></summary>
-    </entry>
-        <entry>
-        <title>冬至（47/81）：迎接2026崇明的最后一场雪</title>
-        <id>145479</id>
-        <link href="https://blog.mcenahle.org.cn/2026/02/05/413.html?utm_source=blogfinder" />
-        <published>2026-02-05T22:10:39+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[冬至（47/81）：迎接2026崇明的最后一场雪]]></summary>
     </entry>
     </feed>
