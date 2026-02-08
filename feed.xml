@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-08T19:00:31+08:00</updated>
+    <updated>2026-02-08T21:01:57+08:00</updated>
+        <entry>
+        <title>测试向：利用 libfaketime 便捷修改系统时间</title>
+        <id>145726</id>
+        <link href="https://www.51it.wang/ll/2157?utm_source=blogfinder" />
+        <published>2026-02-08T20:52:00+08:00</published>
+        <author>
+            <name>Lcry</name>
+            <uri>https://www.51it.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[测试向：利用 libfaketime 便捷修改系统时间]]></summary>
+    </entry>
         <entry>
         <title>WordPress 邮件机制探索：一次自嗨实验</title>
         <id>145716</id>
@@ -1320,38 +1331,5 @@
             <uri>https://blog.ybyq.wang</uri>
         </author>
         <summary type="text"><![CDATA[春节到了，给typecho博客网站添加两对红灯笼]]></summary>
-    </entry>
-        <entry>
-        <title>CloudCone是真的离谱</title>
-        <id>145548</id>
-        <link href="https://www.wikimoe.com/post/t9zl05z8?utm_source=blogfinder" />
-        <published>2026-02-05T20:50:29+08:00</published>
-        <author>
-            <name>维基萌</name>
-            <uri>https://www.wikimoe.com</uri>
-        </author>
-        <summary type="text"><![CDATA[CloudCone是真的离谱]]></summary>
-    </entry>
-        <entry>
-        <title>读博随笔 | 拜访了一位老师，他说应尝试去探索自己的能力边界和真正的热爱</title>
-        <id>145478</id>
-        <link href="https://www.52txr.cn/2026/phdforlove.html?utm_source=blogfinder" />
-        <published>2026-02-05T20:25:00+08:00</published>
-        <author>
-            <name>陶小桃</name>
-            <uri>https://www.52txr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[读博随笔 | 拜访了一位老师，他说应尝试去探索自己的能力边界和真正的热爱]]></summary>
-    </entry>
-        <entry>
-        <title>入手iPhone 17标准版</title>
-        <id>145494</id>
-        <link href="https://meledee.com/2026/02/4745.html?utm_source=blogfinder" />
-        <published>2026-02-05T19:48:47+08:00</published>
-        <author>
-            <name>美樂地</name>
-            <uri>https://meledee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[入手iPhone 17标准版]]></summary>
     </entry>
     </feed>
