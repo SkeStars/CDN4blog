@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-08T15:01:00+08:00</updated>
+    <updated>2026-02-08T16:00:29+08:00</updated>
+        <entry>
+        <title>WordPress 邮件机制探索：一次自嗨实验</title>
+        <id>145716</id>
+        <link href="http://blog.tangwudi.com/technology/skill14059/?utm_source=blogfinder" />
+        <published>2026-02-08T14:47:24+08:00</published>
+        <author>
+            <name>无敌的个人博客</name>
+            <uri>https://blog.tangwudi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[WordPress 邮件机制探索：一次自嗨实验]]></summary>
+    </entry>
+        <entry>
+        <title>本站已加入“萌国ICP备案”联萌！😄</title>
+        <id>145715</id>
+        <link href="https://wuqishi.com/joined-the-moe-icp-registration-lianmeng/?utm_source=blogfinder" />
+        <published>2026-02-08T13:25:58+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[本站已加入“萌国ICP备案”联萌！😄]]></summary>
+    </entry>
+        <entry>
+        <title>赛博数羊夜：从惊悚片和恐怖片的区别问起</title>
+        <id>145717</id>
+        <link href="https://blog.solazy.me/20260208/?utm_source=blogfinder" />
+        <published>2026-02-08T12:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[赛博数羊夜：从惊悚片和恐怖片的区别问起]]></summary>
+    </entry>
         <entry>
         <title>《记巡逻小胖》</title>
         <id>145708</id>
@@ -1287,16 +1320,5 @@
             <uri>https://ihaihe.cn</uri>
         </author>
         <summary type="text"><![CDATA[2月周记一]]></summary>
-    </entry>
-        <entry>
-        <title>意外，腾讯又买回来了</title>
-        <id>145469</id>
-        <link href="https://retire50blog.wang/invest/%e6%84%8f%e5%a4%96%ef%bc%8c%e8%85%be%e8%ae%af%e5%8f%88%e4%b9%b0%e5%9b%9e%e6%9d%a5%e4%ba%86.html?utm_source=blogfinder" />
-        <published>2026-02-05T15:28:51+08:00</published>
-        <author>
-            <name>个人工作记录</name>
-            <uri>https://retire50blog.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[意外，腾讯又买回来了]]></summary>
     </entry>
     </feed>
