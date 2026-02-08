@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-08T18:00:51+08:00</updated>
+    <updated>2026-02-08T19:00:31+08:00</updated>
         <entry>
         <title>WordPress 邮件机制探索：一次自嗨实验</title>
         <id>145716</id>
@@ -1353,16 +1353,5 @@
             <uri>https://meledee.com</uri>
         </author>
         <summary type="text"><![CDATA[入手iPhone 17标准版]]></summary>
-    </entry>
-        <entry>
-        <title>西电信安协会招新系统 Golang 后端开发小记</title>
-        <id>145483</id>
-        <link href="https://www.xiaozonglin.cn/xidian-cybersecurity-association-recruitment-system-golang-backend-development-notes/?utm_source=blogfinder" />
-        <published>2026-02-05T18:07:31+08:00</published>
-        <author>
-            <name>林林杂语</name>
-            <uri>https://www.xiaozonglin.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[西电信安协会招新系统 Golang 后端开发小记]]></summary>
     </entry>
     </feed>
