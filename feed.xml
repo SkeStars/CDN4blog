@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-08T17:00:47+08:00</updated>
+    <updated>2026-02-08T18:00:51+08:00</updated>
         <entry>
         <title>WordPress 邮件机制探索：一次自嗨实验</title>
         <id>145716</id>
@@ -24,6 +24,17 @@
         <summary type="text"><![CDATA[WordPress 邮件机制探索：一次自嗨实验]]></summary>
     </entry>
         <entry>
+        <title>无需修改源码 将WordPress搜索替换为Bing站内搜索</title>
+        <id>145722</id>
+        <link href="https://jyblog.cn/4842/?utm_source=blogfinder" />
+        <published>2026-02-08T14:41:01+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[无需修改源码 将WordPress搜索替换为Bing站内搜索]]></summary>
+    </entry>
+        <entry>
         <title>买的绿植长势很猛</title>
         <id>145719</id>
         <link href="https://ygz.ink/archives/4263.html?utm_source=blogfinder" />
@@ -33,6 +44,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[买的绿植长势很猛]]></summary>
+    </entry>
+        <entry>
+        <title>拾起消失在风里的明信片</title>
+        <id>145725</id>
+        <link href="https://zooyoo.top/article.php?id=27&amp;utm_source=blogfinder" />
+        <published>2026-02-08T14:13:01+08:00</published>
+        <author>
+            <name>热衷于的博客</name>
+            <uri>https://zooyoo.top</uri>
+        </author>
+        <summary type="text"><![CDATA[拾起消失在风里的明信片]]></summary>
     </entry>
         <entry>
         <title>本站已加入“萌国ICP备案”联萌！😄</title>
@@ -55,6 +77,17 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[赛博数羊夜：从惊悚片和恐怖片的区别问起]]></summary>
+    </entry>
+        <entry>
+        <title>棱镜通讯 No.117 安迪·鲁宾（Andy Rubin）</title>
+        <id>145721</id>
+        <link href="https://wangyurui.com/posts/leng-jing-tong-xun-no-117-4bcde289?utm_source=blogfinder" />
+        <published>2026-02-08T11:46:02+08:00</published>
+        <author>
+            <name>太隐</name>
+            <uri>https://wangyurui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[棱镜通讯 No.117 安迪·鲁宾（Andy Rubin）]]></summary>
     </entry>
         <entry>
         <title>秧歌是我记忆中的年味儿之一</title>
@@ -187,6 +220,17 @@
             <uri>https://isming.me</uri>
         </author>
         <summary type="text"><![CDATA[东北游记下-哈尔滨游览]]></summary>
+    </entry>
+        <entry>
+        <title>静态博客之路之一</title>
+        <id>145724</id>
+        <link href="https://ficor.net/2026/02/07/jingtai1/?utm_source=blogfinder" />
+        <published>2026-02-07T20:56:27+08:00</published>
+        <author>
+            <name>荒野菲克</name>
+            <uri>https://ficor.net</uri>
+        </author>
+        <summary type="text"><![CDATA[静态博客之路之一]]></summary>
     </entry>
         <entry>
         <title>随风扬了</title>
@@ -1320,16 +1364,5 @@
             <uri>https://www.xiaozonglin.cn</uri>
         </author>
         <summary type="text"><![CDATA[西电信安协会招新系统 Golang 后端开发小记]]></summary>
-    </entry>
-        <entry>
-        <title>腹股沟疝从发现到治疗（日间手术篇）</title>
-        <id>145485</id>
-        <link href="https://blog.solazy.me/20260205/?utm_source=blogfinder" />
-        <published>2026-02-05T18:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[腹股沟疝从发现到治疗（日间手术篇）]]></summary>
     </entry>
     </feed>
