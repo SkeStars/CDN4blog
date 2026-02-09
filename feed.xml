@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-09T14:00:36+08:00</updated>
+    <updated>2026-02-09T16:00:40+08:00</updated>
+        <entry>
+        <title>我为什么恐惧AI？</title>
+        <id>145876</id>
+        <link href="https://onojyun.com/2026/02/09/%e6%88%91%e4%b8%ba%e4%bb%80%e4%b9%88%e6%81%90%e6%83%a7ai%ef%bc%9f/?utm_source=blogfinder" />
+        <published>2026-02-09T13:09:48+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://onojyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我为什么恐惧AI？]]></summary>
+    </entry>
         <entry>
         <title>为云服务器配置clash-for-linux</title>
         <id>145875</id>
@@ -167,6 +178,17 @@
         <summary type="text"><![CDATA[Telegram 新设备登录提示 SMS fee？一次不依赖短信验证码的 Passkey 登录实践]]></summary>
     </entry>
         <entry>
+        <title>第一次拼豆，就挑战了一下难度</title>
+        <id>145878</id>
+        <link href="https://www.52txr.cn/2026/pindou.html?utm_source=blogfinder" />
+        <published>2026-02-08T22:47:00+08:00</published>
+        <author>
+            <name>陶小桃</name>
+            <uri>https://www.52txr.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[第一次拼豆，就挑战了一下难度]]></summary>
+    </entry>
+        <entry>
         <title>南京生存训练奇遇记</title>
         <id>145874</id>
         <link href="https://www.xalaok.top/post/nanjing-survival-training/?utm_source=blogfinder" />
@@ -297,6 +319,17 @@
             <uri>https://www.bat69.com</uri>
         </author>
         <summary type="text"><![CDATA[Microsoft照片(旧版)软件的下载安装方法]]></summary>
+    </entry>
+        <entry>
+        <title>复习 DOM 事件机制</title>
+        <id>145877</id>
+        <link href="https://ssshooter.com/dom-event/?utm_source=blogfinder" />
+        <published>2026-02-08T17:30:53+08:00</published>
+        <author>
+            <name>Usubeni Fantasy</name>
+            <uri>https://ssshooter.com</uri>
+        </author>
+        <summary type="text"><![CDATA[复习 DOM 事件机制]]></summary>
     </entry>
         <entry>
         <title>手动升级一下 OpenWRT</title>
@@ -1364,82 +1397,5 @@
             <uri>https://blog.kfdzcoffee.cn</uri>
         </author>
         <summary type="text"><![CDATA[醇香小记·第十七期]]></summary>
-    </entry>
-        <entry>
-        <title>为什么我们生活中看到的颜色越来越少</title>
-        <id>145584</id>
-        <link href="https://lawtee.com/article/why-are-colors-disappearing/?utm_source=blogfinder" />
-        <published>2026-02-06T16:00:00+08:00</published>
-        <author>
-            <name>老 T 博客</name>
-            <uri>https://lawtee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么我们生活中看到的颜色越来越少]]></summary>
-    </entry>
-        <entry>
-        <title>《QQ 农场》正式回归，又能偷菜了！</title>
-        <id>145621</id>
-        <link href="https://www.zhyok.cn/index.php/archives/226/?utm_source=blogfinder" />
-        <published>2026-02-06T15:36:00+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[《QQ 农场》正式回归，又能偷菜了！]]></summary>
-    </entry>
-        <entry>
-        <title>【日常】并夕夕购入巧克力手办日记</title>
-        <id>145593</id>
-        <link href="https://www.nekopara.uk/archives/get_chocola_figurine.html?utm_source=blogfinder" />
-        <published>2026-02-06T15:07:17+08:00</published>
-        <author>
-            <name>GTX690 战术核显卡导弹</name>
-            <uri>https://www.nekopara.uk</uri>
-        </author>
-        <summary type="text"><![CDATA[【日常】并夕夕购入巧克力手办日记]]></summary>
-    </entry>
-        <entry>
-        <title>他们看起来很快乐</title>
-        <id>145590</id>
-        <link href="https://xn--otsr53afot.com/posts/tmkqlhkl/?utm_source=blogfinder" />
-        <published>2026-02-06T14:59:00+08:00</published>
-        <author>
-            <name>老朝奉</name>
-            <uri>https://xn--otsr53afot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[他们看起来很快乐]]></summary>
-    </entry>
-        <entry>
-        <title>2026.2.5</title>
-        <id>145578</id>
-        <link href="https://www.justzht.com/2026-2-5/?utm_source=blogfinder" />
-        <published>2026-02-06T14:29:04+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.2.5]]></summary>
-    </entry>
-        <entry>
-        <title>如何准确地给阅读计数器『注水』</title>
-        <id>145571</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1063/?utm_source=blogfinder" />
-        <published>2026-02-06T14:26:00+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[如何准确地给阅读计数器『注水』]]></summary>
-    </entry>
-        <entry>
-        <title>离谱他妈给离谱开门！！！我十五年前原创文，丙午春节前夕被照搬抄袭，太耻辱了！！！</title>
-        <id>145581</id>
-        <link href="https://www.dao.js.cn/new/2026020612090.html?utm_source=blogfinder" />
-        <published>2026-02-06T14:20:11+08:00</published>
-        <author>
-            <name>懋和道人</name>
-            <uri>https://www.dao.js.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[离谱他妈给离谱开门！！！我十五年前原创文，丙午春节前夕被照搬抄袭，太耻辱了！！！]]></summary>
     </entry>
     </feed>
