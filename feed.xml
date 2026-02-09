@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-09T20:01:58+08:00</updated>
+    <updated>2026-02-09T21:02:53+08:00</updated>
+        <entry>
+        <title>人生第一次收到明信片，感谢朱小呆</title>
+        <id>145888</id>
+        <link href="https://www.aiwazi.com/2830.html?utm_source=blogfinder" />
+        <published>2026-02-09T17:29:36+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[人生第一次收到明信片，感谢朱小呆]]></summary>
+    </entry>
         <entry>
         <title>我的小龙虾(OpenClaw)初体验</title>
         <id>145884</id>
@@ -44,6 +55,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[采购礼品真的累人]]></summary>
+    </entry>
+        <entry>
+        <title>十分钟学成开锁大师：从入门到放弃</title>
+        <id>145889</id>
+        <link href="https://cuixiping.com/blog/others/pgqauf?utm_source=blogfinder" />
+        <published>2026-02-09T13:26:00+08:00</published>
+        <author>
+            <name>崔话记</name>
+            <uri>https://cuixiping.com</uri>
+        </author>
+        <summary type="text"><![CDATA[十分钟学成开锁大师：从入门到放弃]]></summary>
     </entry>
         <entry>
         <title>我为什么恐惧AI？</title>
@@ -1386,16 +1408,5 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[回归简单，极简生活]]></summary>
-    </entry>
-        <entry>
-        <title>OpenClaw 不是更聪明的 AI，而是能长期跑起来的 AI</title>
-        <id>145691</id>
-        <link href="https://www.fish9.cn/archives/476/?utm_source=blogfinder" />
-        <published>2026-02-06T20:09:00+08:00</published>
-        <author>
-            <name>吃猫的鱼</name>
-            <uri>https://www.fish9.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenClaw 不是更聪明的 AI，而是能长期跑起来的 AI]]></summary>
     </entry>
     </feed>
