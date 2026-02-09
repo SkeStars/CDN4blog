@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-09T16:00:40+08:00</updated>
+    <updated>2026-02-09T17:02:40+08:00</updated>
+        <entry>
+        <title>游惠州博罗横河镇</title>
+        <id>145879</id>
+        <link href="https://www.jfsay.com/archives/3912.html?utm_source=blogfinder" />
+        <published>2026-02-09T14:56:43+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[游惠州博罗横河镇]]></summary>
+    </entry>
+        <entry>
+        <title>采购礼品真的累人</title>
+        <id>145882</id>
+        <link href="https://ygz.ink/archives/4274.html?utm_source=blogfinder" />
+        <published>2026-02-09T14:50:52+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[采购礼品真的累人]]></summary>
+    </entry>
         <entry>
         <title>我为什么恐惧AI？</title>
         <id>145876</id>
@@ -22,6 +44,17 @@
             <uri>https://onojyun.com</uri>
         </author>
         <summary type="text"><![CDATA[我为什么恐惧AI？]]></summary>
+    </entry>
+        <entry>
+        <title>冒犯</title>
+        <id>145880</id>
+        <link href="https://ihaihe.cn/3499.htm?utm_source=blogfinder" />
+        <published>2026-02-09T12:51:47+08:00</published>
+        <author>
+            <name>三十里海河</name>
+            <uri>https://ihaihe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[冒犯]]></summary>
     </entry>
         <entry>
         <title>为云服务器配置clash-for-linux</title>
@@ -165,6 +198,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[今天的旅程到此结束]]></summary>
+    </entry>
+        <entry>
+        <title>如何在工作时聪明的使用AI？</title>
+        <id>145881</id>
+        <link href="https://blog.kfdzcoffee.cn/archives/How-to-intelligently-utilize-AI-at-work?utm_source=blogfinder" />
+        <published>2026-02-08T23:11:00+08:00</published>
+        <author>
+            <name>咖啡豆子 coffee 的小站</name>
+            <uri>https://blog.kfdzcoffee.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[如何在工作时聪明的使用AI？]]></summary>
     </entry>
         <entry>
         <title>Telegram 新设备登录提示 SMS fee？一次不依赖短信验证码的 Passkey 登录实践</title>
@@ -1342,60 +1386,5 @@
             <uri>https://sh.alynx.one</uri>
         </author>
         <summary type="text"><![CDATA[Arch Linux ARM 在树莓派上的内核选择]]></summary>
-    </entry>
-        <entry>
-        <title>玩了下QQ经典农场</title>
-        <id>145576</id>
-        <link href="https://ygz.ink/archives/4231.html?utm_source=blogfinder" />
-        <published>2026-02-06T16:53:54+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[玩了下QQ经典农场]]></summary>
-    </entry>
-        <entry>
-        <title>博客用上了腾讯的EdgeOne加速</title>
-        <id>145577</id>
-        <link href="https://ygz.ink/archives/4223.html?utm_source=blogfinder" />
-        <published>2026-02-06T16:24:13+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[博客用上了腾讯的EdgeOne加速]]></summary>
-    </entry>
-        <entry>
-        <title>Kubernetes PV数据卷缩容方案及统计PV容量</title>
-        <id>145585</id>
-        <link href="https://chegva.com/6556.html?utm_source=blogfinder" />
-        <published>2026-02-06T16:06:40+08:00</published>
-        <author>
-            <name>安志合的学习博客</name>
-            <uri>https://chegva.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Kubernetes PV数据卷缩容方案及统计PV容量]]></summary>
-    </entry>
-        <entry>
-        <title>二等饼干是什么？</title>
-        <id>145588</id>
-        <link href="https://dujun.io/er-deng-bing-gan.html?utm_source=blogfinder" />
-        <published>2026-02-06T16:02:30+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[二等饼干是什么？]]></summary>
-    </entry>
-        <entry>
-        <title>醇香小记·第十七期</title>
-        <id>145592</id>
-        <link href="https://blog.kfdzcoffee.cn/archives/mellownote17?utm_source=blogfinder" />
-        <published>2026-02-06T16:00:48+08:00</published>
-        <author>
-            <name>咖啡豆子 coffee 的小站</name>
-            <uri>https://blog.kfdzcoffee.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[醇香小记·第十七期]]></summary>
     </entry>
     </feed>
