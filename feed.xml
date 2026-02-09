@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-09T17:02:40+08:00</updated>
+    <updated>2026-02-09T19:00:26+08:00</updated>
+        <entry>
+        <title>我的小龙虾(OpenClaw)初体验</title>
+        <id>145884</id>
+        <link href="https://1900.live/wo-de-xiao-long-xia-openclaw-chu-ti-yan/?utm_source=blogfinder" />
+        <published>2026-02-09T16:09:03+08:00</published>
+        <author>
+            <name>我道</name>
+            <uri>https://1900.live</uri>
+        </author>
+        <summary type="text"><![CDATA[我的小龙虾(OpenClaw)初体验]]></summary>
+    </entry>
         <entry>
         <title>游惠州博罗横河镇</title>
         <id>145879</id>
@@ -66,6 +77,17 @@
             <uri>https://loveapple.icu</uri>
         </author>
         <summary type="text"><![CDATA[为云服务器配置clash-for-linux]]></summary>
+    </entry>
+        <entry>
+        <title>静态博客之路之二</title>
+        <id>145886</id>
+        <link href="https://ficor.net/2026/02/09/jingtai2/?utm_source=blogfinder" />
+        <published>2026-02-09T11:50:50+08:00</published>
+        <author>
+            <name>荒野菲克</name>
+            <uri>https://ficor.net</uri>
+        </author>
+        <summary type="text"><![CDATA[静态博客之路之二]]></summary>
     </entry>
         <entry>
         <title>阿里云良心，验证码兜底解决方案，彻底告别移动手机号收不到验证码的问题</title>
@@ -332,6 +354,17 @@
         <summary type="text"><![CDATA[通勤]]></summary>
     </entry>
         <entry>
+        <title>Sophye 来袭！知识驱动让 AI 成为有温度的伙伴</title>
+        <id>145883</id>
+        <link href="https://ourai.ws/posts/sophye-brings-ai-to-life/?utm_source=blogfinder" />
+        <published>2026-02-08T20:08:17+08:00</published>
+        <author>
+            <name>欧雷流</name>
+            <uri>https://ourai.ws</uri>
+        </author>
+        <summary type="text"><![CDATA[Sophye 来袭！知识驱动让 AI 成为有温度的伙伴]]></summary>
+    </entry>
+        <entry>
         <title>风雅颂，细节美</title>
         <id>145728</id>
         <link href="https://www.chenrui.com/post/3476.html?utm_source=blogfinder" />
@@ -561,6 +594,17 @@
             <uri>https://bluehe.cn</uri>
         </author>
         <summary type="text"><![CDATA[千问ai的生态服务融合]]></summary>
+    </entry>
+        <entry>
+        <title>回声周刊 Vol.8：欧盟初步TikTok成瘾性违法</title>
+        <id>145885</id>
+        <link href="https://www.glowisle.me/posts/weekly/8/?utm_source=blogfinder" />
+        <published>2026-02-08T11:33:19+08:00</published>
+        <author>
+            <name>映屿</name>
+            <uri>https://www.glowisle.me</uri>
+        </author>
+        <summary type="text"><![CDATA[回声周刊 Vol.8：欧盟初步TikTok成瘾性违法]]></summary>
     </entry>
         <entry>
         <title>一分钟美化 RSS：使用 RSS.Beauty 让你的博客 RSS 源更漂亮</title>
@@ -1364,27 +1408,5 @@
             <uri>https://onlytl.com</uri>
         </author>
         <summary type="text"><![CDATA[2026年 LinuxMint 可以替换 Windows 作为开发环境吗]]></summary>
-    </entry>
-        <entry>
-        <title>童趣对话（一）</title>
-        <id>145586</id>
-        <link href="https://hux.ink/posts/childlike-01/?utm_source=blogfinder" />
-        <published>2026-02-06T17:13:00+08:00</published>
-        <author>
-            <name>Counting Stars</name>
-            <uri>https://hux.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[童趣对话（一）]]></summary>
-    </entry>
-        <entry>
-        <title>Arch Linux ARM 在树莓派上的内核选择</title>
-        <id>145660</id>
-        <link href="https://sh.alynx.one/posts/RPi-Arch-Linux-ARM-Kernel/?utm_source=blogfinder" />
-        <published>2026-02-06T17:03:00+08:00</published>
-        <author>
-            <name>喵&#039;s StackHarbor</name>
-            <uri>https://sh.alynx.one</uri>
-        </author>
-        <summary type="text"><![CDATA[Arch Linux ARM 在树莓派上的内核选择]]></summary>
     </entry>
     </feed>
