@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-10T20:00:31+08:00</updated>
+    <updated>2026-02-10T21:06:43+08:00</updated>
+        <entry>
+        <title>Lilygo T-Dongle-S3部署NerdminerV2时的一些坑</title>
+        <id>145967</id>
+        <link href="https://www.yuanzj.top/posts/f47fbe4e.html?utm_source=blogfinder" />
+        <published>2026-02-10T18:50:00+08:00</published>
+        <author>
+            <name>圆周率的博客</name>
+            <uri>https://www.yuanzj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lilygo T-Dongle-S3部署NerdminerV2时的一些坑]]></summary>
+    </entry>
         <entry>
         <title>退件如蛊：垃圾消息涌入</title>
         <id>145966</id>
@@ -1342,60 +1353,5 @@
             <uri>https://isming.me</uri>
         </author>
         <summary type="text"><![CDATA[东北游记下-哈尔滨游览]]></summary>
-    </entry>
-        <entry>
-        <title>静态博客之路之一</title>
-        <id>145724</id>
-        <link href="https://ficor.net/2026/02/07/jingtai1/?utm_source=blogfinder" />
-        <published>2026-02-07T20:56:27+08:00</published>
-        <author>
-            <name>荒野菲克</name>
-            <uri>https://ficor.net</uri>
-        </author>
-        <summary type="text"><![CDATA[静态博客之路之一]]></summary>
-    </entry>
-        <entry>
-        <title>随风扬了</title>
-        <id>145680</id>
-        <link href="https://www.chenrui.com/post/3475.html?utm_source=blogfinder" />
-        <published>2026-02-07T20:48:43+08:00</published>
-        <author>
-            <name>陈锐</name>
-            <uri>https://www.chenrui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[随风扬了]]></summary>
-    </entry>
-        <entry>
-        <title>第一次看到付费独立博客</title>
-        <id>145690</id>
-        <link href="https://ygz.ink/archives/4250.html?utm_source=blogfinder" />
-        <published>2026-02-07T20:48:11+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[第一次看到付费独立博客]]></summary>
-    </entry>
-        <entry>
-        <title>搓了一个仿朋友圈的Hugo主题</title>
-        <id>145706</id>
-        <link href="https://usj.cc/20260207.html?utm_source=blogfinder" />
-        <published>2026-02-07T20:20:00+08:00</published>
-        <author>
-            <name>优世界</name>
-            <uri>https://usj.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[搓了一个仿朋友圈的Hugo主题]]></summary>
-    </entry>
-        <entry>
-        <title>陪伴的一天</title>
-        <id>145684</id>
-        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1096&amp;utm_source=blogfinder" />
-        <published>2026-02-07T20:10:29+08:00</published>
-        <author>
-            <name>徐建伟</name>
-            <uri>http://www.xulog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[陪伴的一天]]></summary>
     </entry>
     </feed>
