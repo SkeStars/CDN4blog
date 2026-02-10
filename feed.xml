@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-10T15:00:29+08:00</updated>
+    <updated>2026-02-10T17:00:42+08:00</updated>
+        <entry>
+        <title>我原计划长这样</title>
+        <id>145960</id>
+        <link href="https://dujun.io/9085388a-2c11-53e2-a5df-074866c088cf.html?utm_source=blogfinder" />
+        <published>2026-02-10T16:26:30+08:00</published>
+        <author>
+            <name>杜郎俊赏</name>
+            <uri>https://dujun.io</uri>
+        </author>
+        <summary type="text"><![CDATA[我原计划长这样]]></summary>
+    </entry>
+        <entry>
+        <title>FarBox主题 Flow—流动</title>
+        <id>145963</id>
+        <link href="https://blog.nastree.cn/post/toss202602101455?utm_source=blogfinder" />
+        <published>2026-02-10T14:55:00+08:00</published>
+        <author>
+            <name>那是树</name>
+            <uri>https://blog.nastree.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[FarBox主题 Flow—流动]]></summary>
+    </entry>
+        <entry>
+        <title>凑热闹看年终礼</title>
+        <id>145962</id>
+        <link href="https://ygz.ink/archives/4302.html?utm_source=blogfinder" />
+        <published>2026-02-10T13:56:01+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[凑热闹看年终礼]]></summary>
+    </entry>
+        <entry>
+        <title>明信片活动回顾</title>
+        <id>145961</id>
+        <link href="https://zhujay.com/talking/?id=1194&amp;utm_source=blogfinder" />
+        <published>2026-02-10T13:49:45+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[明信片活动回顾]]></summary>
+    </entry>
+        <entry>
+        <title>平平淡淡的一日三餐</title>
+        <id>145964</id>
+        <link href="https://www.pgoj.top/archives/yirisancan.html?utm_source=blogfinder" />
+        <published>2026-02-10T13:39:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[平平淡淡的一日三餐]]></summary>
+    </entry>
         <entry>
         <title>抢春节后的回程高铁票，抢得我喷血三升</title>
         <id>145955</id>
@@ -22,6 +77,17 @@
             <uri>https://cuixiping.com</uri>
         </author>
         <summary type="text"><![CDATA[抢春节后的回程高铁票，抢得我喷血三升]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1628】朱生豪译莎士比亚《皆大欢喜》</title>
+        <id>145958</id>
+        <link href="http://www.qncd.com/?p=12484&amp;utm_source=blogfinder" />
+        <published>2026-02-10T11:54:34+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1628】朱生豪译莎士比亚《皆大欢喜》]]></summary>
     </entry>
         <entry>
         <title>廿六年·岁杪寒·小年至</title>
@@ -134,6 +200,17 @@
         <summary type="text"><![CDATA[《古文观止》读后记]]></summary>
     </entry>
         <entry>
+        <title>行者微评论220-会瘾，官威，送会上门</title>
+        <id>145957</id>
+        <link href="http://stuit.cn/Xiaolu/Post/1596.html?utm_source=blogfinder" />
+        <published>2026-02-10T07:09:21+08:00</published>
+        <author>
+            <name>风雨行者</name>
+            <uri>http://stuit.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[行者微评论220-会瘾，官威，送会上门]]></summary>
+    </entry>
+        <entry>
         <title>一纸心意一橙温暖</title>
         <id>145918</id>
         <link href="https://vjo.cc/1950?utm_source=blogfinder" />
@@ -198,6 +275,17 @@
             <uri>https://blog.moeworld.tech</uri>
         </author>
         <summary type="text"><![CDATA[2026 春节放假]]></summary>
+    </entry>
+        <entry>
+        <title>二〇二六年一月总结：随便写写正如我的心情</title>
+        <id>145959</id>
+        <link href="https://feng.pub/0220269164.html?utm_source=blogfinder" />
+        <published>2026-02-09T21:58:36+08:00</published>
+        <author>
+            <name>阿锋的小宇宙</name>
+            <uri>https://feng.pub</uri>
+        </author>
+        <summary type="text"><![CDATA[二〇二六年一月总结：随便写写正如我的心情]]></summary>
     </entry>
         <entry>
         <title>2025年度回声 | Jackie的技术自留地：以热爱落笔，以协作深耕</title>
@@ -1331,60 +1419,5 @@
             <uri>https://wangyurui.com</uri>
         </author>
         <summary type="text"><![CDATA[放不下的李白]]></summary>
-    </entry>
-        <entry>
-        <title>EasyChat 一款专为无障碍沟通打造的强大翻译软件[开源]</title>
-        <id>145710</id>
-        <link href="https://b.ncii.cn/archives/JcISeKIw?utm_source=blogfinder" />
-        <published>2026-02-07T16:36:21+08:00</published>
-        <author>
-            <name>卖烤肉博客</name>
-            <uri>https://b.ncii.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[EasyChat 一款专为无障碍沟通打造的强大翻译软件[开源]]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1626】朱生豪译莎士比亚《罗密欧与朱丽叶》</title>
-        <id>145682</id>
-        <link href="http://www.qncd.com/?p=12471&amp;utm_source=blogfinder" />
-        <published>2026-02-07T16:25:52+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1626】朱生豪译莎士比亚《罗密欧与朱丽叶》]]></summary>
-    </entry>
-        <entry>
-        <title>长春、哈尔滨游玩体验</title>
-        <id>145686</id>
-        <link href="https://www.jfsay.com/archives/4023.html?utm_source=blogfinder" />
-        <published>2026-02-07T16:03:40+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[长春、哈尔滨游玩体验]]></summary>
-    </entry>
-        <entry>
-        <title>Excel 月报自动化指南：告别重复劳动，让数据主动为你服务</title>
-        <id>145657</id>
-        <link href="https://wuqishi.com/excel-monthly-report-automation-guide/?utm_source=blogfinder" />
-        <published>2026-02-07T15:49:09+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Excel 月报自动化指南：告别重复劳动，让数据主动为你服务]]></summary>
-    </entry>
-        <entry>
-        <title>顺便看看有乐町的丸井百货有什么活动</title>
-        <id>145703</id>
-        <link href="https://www.wikimoe.com/post/ta2ui1ou?utm_source=blogfinder" />
-        <published>2026-02-07T15:08:24+08:00</published>
-        <author>
-            <name>维基萌</name>
-            <uri>https://www.wikimoe.com</uri>
-        </author>
-        <summary type="text"><![CDATA[顺便看看有乐町的丸井百货有什么活动]]></summary>
     </entry>
     </feed>
