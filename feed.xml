@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-10T23:00:57+08:00</updated>
+    <updated>2026-02-11T00:01:00+08:00</updated>
+        <entry>
+        <title>如何用电车难题理解 Git</title>
+        <id>145971</id>
+        <link href="https://www.geedea.pro/essays/git-with-trolley/?utm_source=blogfinder" />
+        <published>2026-02-10T23:53:53+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[如何用电车难题理解 Git]]></summary>
+    </entry>
+        <entry>
+        <title>回家途中的一些记录</title>
+        <id>145972</id>
+        <link href="https://hulatu.com/posts/2026/02/10/go-home/?utm_source=blogfinder" />
+        <published>2026-02-10T22:44:58+08:00</published>
+        <author>
+            <name>胡拉图的后花园</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[回家途中的一些记录]]></summary>
+    </entry>
         <entry>
         <title>冬至（52/81）：2周年活动开始，2026专升本文件出炉，新的计划</title>
         <id>145970</id>
@@ -1320,38 +1342,5 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[被无限放大的动物性]]></summary>
-    </entry>
-        <entry>
-        <title>巴菲特的投资哲学</title>
-        <id>145740</id>
-        <link href="https://tumutanzi.com/archives/17580?utm_source=blogfinder" />
-        <published>2026-02-08T00:00:09+08:00</published>
-        <author>
-            <name>土木坛子</name>
-            <uri>https://tumutanzi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[巴菲特的投资哲学]]></summary>
-    </entry>
-        <entry>
-        <title>近思录 2026-02-08</title>
-        <id>145741</id>
-        <link href="https://chriszheng.science/2026/02/08/Recent-thoughts-2026-02-08/?utm_source=blogfinder" />
-        <published>2026-02-08T00:00:00+08:00</published>
-        <author>
-            <name>M-x Chris-An-Emacser</name>
-            <uri>https://chriszheng.science</uri>
-        </author>
-        <summary type="text"><![CDATA[近思录 2026-02-08]]></summary>
-    </entry>
-        <entry>
-        <title>云上</title>
-        <id>145685</id>
-        <link href="https://www.xiaozonglin.cn/over-the-cloud/?utm_source=blogfinder" />
-        <published>2026-02-07T23:25:21+08:00</published>
-        <author>
-            <name>林林杂语</name>
-            <uri>https://www.xiaozonglin.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[云上]]></summary>
     </entry>
     </feed>
