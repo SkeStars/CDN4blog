@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-11T17:10:34+08:00</updated>
+    <updated>2026-02-11T18:01:35+08:00</updated>
         <entry>
         <title>苏格拉底不如脚丫子</title>
         <id>146015</id>
@@ -33,6 +33,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[摸鱼搭积木]]></summary>
+    </entry>
+        <entry>
+        <title>Oracle Cloud 自救指南：旧手机丢失后如何绕过 MFA 重新登录</title>
+        <id>146020</id>
+        <link href="https://wuqishi.com/oracle-cloud-selfrescue-guide-how-to-bypass-mfa-and-log-in-again/?utm_source=blogfinder" />
+        <published>2026-02-11T14:43:28+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Oracle Cloud 自救指南：旧手机丢失后如何绕过 MFA 重新登录]]></summary>
     </entry>
         <entry>
         <title>杂记：南方小年，父母挖山药</title>
@@ -77,6 +88,17 @@
             <uri>https://onojyun.com</uri>
         </author>
         <summary type="text"><![CDATA[别租离异女人的房]]></summary>
+    </entry>
+        <entry>
+        <title>小年</title>
+        <id>146022</id>
+        <link href="https://ficor.net/2026/02/11/%e5%b0%8f%e5%b9%b4/?utm_source=blogfinder" />
+        <published>2026-02-11T12:59:55+08:00</published>
+        <author>
+            <name>荒野菲克</name>
+            <uri>https://ficor.net</uri>
+        </author>
+        <summary type="text"><![CDATA[小年]]></summary>
     </entry>
         <entry>
         <title>来看《凉宫春日的消失》</title>
@@ -374,6 +396,17 @@
             <uri>https://blog.nastree.cn</uri>
         </author>
         <summary type="text"><![CDATA[FarBox主题 Flow—流动]]></summary>
+    </entry>
+        <entry>
+        <title>用 ChatLab 和 AI 分析了我和对象的微信聊天记录</title>
+        <id>146021</id>
+        <link href="https://blog.ybyq.wang/archives/1695.html?utm_source=blogfinder" />
+        <published>2026-02-10T14:19:00+08:00</published>
+        <author>
+            <name>Xuan&#039;s blog</name>
+            <uri>https://blog.ybyq.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[用 ChatLab 和 AI 分析了我和对象的微信聊天记录]]></summary>
     </entry>
         <entry>
         <title>凑热闹看年终礼</title>
@@ -1210,38 +1243,5 @@
             <uri>https://hulatu.com</uri>
         </author>
         <summary type="text"><![CDATA[胡拉图的周刊-第八期]]></summary>
-    </entry>
-        <entry>
-        <title>Microsoft照片(旧版)软件的下载安装方法</title>
-        <id>145859</id>
-        <link href="https://www.bat69.com/20260208/microsoft%e7%85%a7%e7%89%87%e6%97%a7%e7%89%88%e8%bd%af%e4%bb%b6%e7%9a%84%e4%b8%8b%e8%bd%bd%e5%ae%89%e8%a3%85%e6%96%b9%e6%b3%95.html?utm_source=blogfinder" />
-        <published>2026-02-08T17:46:55+08:00</published>
-        <author>
-            <name>严重浪漫</name>
-            <uri>https://www.bat69.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Microsoft照片(旧版)软件的下载安装方法]]></summary>
-    </entry>
-        <entry>
-        <title>复习 DOM 事件机制</title>
-        <id>145877</id>
-        <link href="https://ssshooter.com/dom-event/?utm_source=blogfinder" />
-        <published>2026-02-08T17:30:53+08:00</published>
-        <author>
-            <name>Usubeni Fantasy</name>
-            <uri>https://ssshooter.com</uri>
-        </author>
-        <summary type="text"><![CDATA[复习 DOM 事件机制]]></summary>
-    </entry>
-        <entry>
-        <title>手动升级一下 OpenWRT</title>
-        <id>145736</id>
-        <link href="https://zeeko.dev/2026/02/manual-upgrade-openwrt/?utm_source=blogfinder" />
-        <published>2026-02-08T17:29:57+08:00</published>
-        <author>
-            <name>网上冲浪指南</name>
-            <uri>https://zeeko.dev</uri>
-        </author>
-        <summary type="text"><![CDATA[手动升级一下 OpenWRT]]></summary>
     </entry>
     </feed>
