@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-11T15:00:37+08:00</updated>
+    <updated>2026-02-11T17:10:34+08:00</updated>
+        <entry>
+        <title>苏格拉底不如脚丫子</title>
+        <id>146015</id>
+        <link href="https://www.suiyan.cc/blog/20260211081421?utm_source=blogfinder" />
+        <published>2026-02-11T16:14:21+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[苏格拉底不如脚丫子]]></summary>
+    </entry>
+        <entry>
+        <title>摸鱼搭积木</title>
+        <id>146019</id>
+        <link href="https://ygz.ink/archives/4310.html?utm_source=blogfinder" />
+        <published>2026-02-11T15:45:09+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[摸鱼搭积木]]></summary>
+    </entry>
         <entry>
         <title>杂记：南方小年，父母挖山药</title>
         <id>146012</id>
@@ -22,6 +44,28 @@
             <uri>https://lilog.cn</uri>
         </author>
         <summary type="text"><![CDATA[杂记：南方小年，父母挖山药]]></summary>
+    </entry>
+        <entry>
+        <title>意识到众生皆苦之后，为什么快乐不起来？</title>
+        <id>146018</id>
+        <link href="https://www.lifd.site/2026/02/yi-shi-dao-zhong-sheng-jie-ku-zhi-hou-wei-shen-me-kuai-le-bu-qi-lai/?utm_source=blogfinder" />
+        <published>2026-02-11T13:49:55+08:00</published>
+        <author>
+            <name>LiFD</name>
+            <uri>https://www.lifd.site</uri>
+        </author>
+        <summary type="text"><![CDATA[意识到众生皆苦之后，为什么快乐不起来？]]></summary>
+    </entry>
+        <entry>
+        <title>使用Systemd代替Mcsmanager管理挂机服务</title>
+        <id>146014</id>
+        <link href="https://www.nekopara.uk/archives/Managing_services_with_systemd.html?utm_source=blogfinder" />
+        <published>2026-02-11T13:33:34+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[使用Systemd代替Mcsmanager管理挂机服务]]></summary>
     </entry>
         <entry>
         <title>别租离异女人的房</title>
@@ -55,6 +99,17 @@
             <uri>https://liuqingwushui.top</uri>
         </author>
         <summary type="text"><![CDATA[忘带手机的恐慌，孤单，无助感]]></summary>
+    </entry>
+        <entry>
+        <title>WordPress后台每天被爆破5000次？用 Nginx + PHP 让 WordPress 登录页“物理隐身”！</title>
+        <id>146016</id>
+        <link href="https://www.tjsky.net/tutorial/1381?utm_source=blogfinder" />
+        <published>2026-02-11T10:57:02+08:00</published>
+        <author>
+            <name>秋风于渭水</name>
+            <uri>https://www.tjsky.net</uri>
+        </author>
+        <summary type="text"><![CDATA[WordPress后台每天被爆破5000次？用 Nginx + PHP 让 WordPress 登录页“物理隐身”！]]></summary>
     </entry>
         <entry>
         <title>控糖日记 #6 酸种面包+黑荞麦面+乌冬面</title>
@@ -121,6 +176,17 @@
             <uri>https://blog.gudong.site</uri>
         </author>
         <summary type="text"><![CDATA[微信输入法 PC 版，终于有语音输入了]]></summary>
+    </entry>
+        <entry>
+        <title>Moonbit 0.8.0 重大发布,我也要改一下我的包</title>
+        <id>146017</id>
+        <link href="https://xingwangzhe.fun/posts/moonbit-0-8-0-release-change-my-package/?utm_source=blogfinder" />
+        <published>2026-02-11T04:25:34+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Moonbit 0.8.0 重大发布,我也要改一下我的包]]></summary>
     </entry>
         <entry>
         <title>博客美化：站长，你的 3D 动态 JS/CSS 灯笼就位了吗？</title>
@@ -1177,49 +1243,5 @@
             <uri>https://zeeko.dev</uri>
         </author>
         <summary type="text"><![CDATA[手动升级一下 OpenWRT]]></summary>
-    </entry>
-        <entry>
-        <title>2026年1月阅读书摘</title>
-        <id>145846</id>
-        <link href="https://www.domon.cn/2026-1yue-yue-du-shu-zhai/?utm_source=blogfinder" />
-        <published>2026-02-08T16:58:28+08:00</published>
-        <author>
-            <name>Dennis</name>
-            <uri>https://www.domon.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[2026年1月阅读书摘]]></summary>
-    </entry>
-        <entry>
-        <title>故障了9天，CloudCone 封停了我的VPS</title>
-        <id>145872</id>
-        <link href="https://www.wikimoe.com/post/ta4sfaxp?utm_source=blogfinder" />
-        <published>2026-02-08T16:18:46+08:00</published>
-        <author>
-            <name>维基萌</name>
-            <uri>https://www.wikimoe.com</uri>
-        </author>
-        <summary type="text"><![CDATA[故障了9天，CloudCone 封停了我的VPS]]></summary>
-    </entry>
-        <entry>
-        <title>病中杂记</title>
-        <id>145733</id>
-        <link href="https://lilun.bearblog.dev/erxiangleryuan/?utm_source=blogfinder" />
-        <published>2026-02-08T15:32:00+08:00</published>
-        <author>
-            <name>理论派</name>
-            <uri>https://lilun.bearblog.dev</uri>
-        </author>
-        <summary type="text"><![CDATA[病中杂记]]></summary>
-    </entry>
-        <entry>
-        <title>年前小记：一次加班，一场尴尬，与一些过年随想</title>
-        <id>145744</id>
-        <link href="https://baiwumm.com/archives/r4ACa87S?utm_source=blogfinder" />
-        <published>2026-02-08T15:03:54+08:00</published>
-        <author>
-            <name>谜叶象限</name>
-            <uri>https://baiwumm.com</uri>
-        </author>
-        <summary type="text"><![CDATA[年前小记：一次加班，一场尴尬，与一些过年随想]]></summary>
     </entry>
     </feed>
