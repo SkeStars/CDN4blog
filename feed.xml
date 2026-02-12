@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-12T16:00:24+08:00</updated>
+    <updated>2026-02-12T17:00:46+08:00</updated>
+        <entry>
+        <title>乌龙的缓存服务</title>
+        <id>146171</id>
+        <link href="https://blog.stoh.cc/post/1f8fb32b.html?utm_source=blogfinder" />
+        <published>2026-02-12T16:57:31+08:00</published>
+        <author>
+            <name>SHI 記</name>
+            <uri>https://blog.stoh.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[乌龙的缓存服务]]></summary>
+    </entry>
         <entry>
         <title>Album#33 - Patch</title>
         <id>146164</id>
@@ -35,6 +46,28 @@
         <summary type="text"><![CDATA[游长春市南湖公园]]></summary>
     </entry>
         <entry>
+        <title>高考经历与认同《一九八四》</title>
+        <id>146170</id>
+        <link href="https://www.pgoj.top/archives/gaokaoxiaoshuo1984.html?utm_source=blogfinder" />
+        <published>2026-02-12T13:30:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[高考经历与认同《一九八四》]]></summary>
+    </entry>
+        <entry>
+        <title>告别亚马逊 SES：用 Bark 实现 FarBox 评论全层级即时通知</title>
+        <id>146169</id>
+        <link href="https://blog.nastree.cn/post/toss202602121205?utm_source=blogfinder" />
+        <published>2026-02-12T12:05:00+08:00</published>
+        <author>
+            <name>那是树</name>
+            <uri>https://blog.nastree.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[告别亚马逊 SES：用 Bark 实现 FarBox 评论全层级即时通知]]></summary>
+    </entry>
+        <entry>
         <title>拖延症也有拖延症的好</title>
         <id>146165</id>
         <link href="https://blog.solazy.me/20260212/?utm_source=blogfinder" />
@@ -55,6 +88,17 @@
             <uri>https://zooyoo.top</uri>
         </author>
         <summary type="text"><![CDATA[恰一碗情怀饭]]></summary>
+    </entry>
+        <entry>
+        <title>12个让你直呼“相见恨晚”的神奇网站</title>
+        <id>146168</id>
+        <link href="https://ygz.ink/archives/4338.html?utm_source=blogfinder" />
+        <published>2026-02-12T11:48:11+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[12个让你直呼“相见恨晚”的神奇网站]]></summary>
     </entry>
         <entry>
         <title>小年杂记</title>
@@ -88,6 +132,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[宗宗酱送你一个红包封面]]></summary>
+    </entry>
+        <entry>
+        <title>智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex</title>
+        <id>146167</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/02/glm-5.html?utm_source=blogfinder" />
+        <published>2026-02-12T09:26:13+08:00</published>
+        <author>
+            <name>阮一峰的网络日志</name>
+            <uri>http://www.ruanyifeng.com/blog</uri>
+        </author>
+        <summary type="text"><![CDATA[智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex]]></summary>
     </entry>
         <entry>
         <title>谈借钱</title>
@@ -1199,38 +1254,5 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[人生第一次收到明信片，感谢朱小呆]]></summary>
-    </entry>
-        <entry>
-        <title>湖南女婿为何都得去丈母娘家过年</title>
-        <id>145948</id>
-        <link href="https://lawtee.com/article/why-hunan-sons-in-law-visit-mother-in-law-on-new-years-eve/?utm_source=blogfinder" />
-        <published>2026-02-09T17:00:00+08:00</published>
-        <author>
-            <name>老 T 博客</name>
-            <uri>https://lawtee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[湖南女婿为何都得去丈母娘家过年]]></summary>
-    </entry>
-        <entry>
-        <title>本站已入驻爱发电平台</title>
-        <id>145890</id>
-        <link href="https://www.spacezero.top/303.html?utm_source=blogfinder" />
-        <published>2026-02-09T16:12:14+08:00</published>
-        <author>
-            <name>叶彩 Blog</name>
-            <uri>https://www.spacezero.top</uri>
-        </author>
-        <summary type="text"><![CDATA[本站已入驻爱发电平台]]></summary>
-    </entry>
-        <entry>
-        <title>我的小龙虾(OpenClaw)初体验</title>
-        <id>145884</id>
-        <link href="https://1900.live/wo-de-xiao-long-xia-openclaw-chu-ti-yan/?utm_source=blogfinder" />
-        <published>2026-02-09T16:09:03+08:00</published>
-        <author>
-            <name>我道</name>
-            <uri>https://1900.live</uri>
-        </author>
-        <summary type="text"><![CDATA[我的小龙虾(OpenClaw)初体验]]></summary>
     </entry>
     </feed>
