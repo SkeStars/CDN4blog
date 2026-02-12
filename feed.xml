@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-12T14:01:23+08:00</updated>
+    <updated>2026-02-12T16:00:24+08:00</updated>
+        <entry>
+        <title>Album#33 - Patch</title>
+        <id>146164</id>
+        <link href="https://taxodium.ink/album-33.html?utm_source=blogfinder" />
+        <published>2026-02-12T13:50:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[Album#33 - Patch]]></summary>
+    </entry>
+        <entry>
+        <title>游长春市南湖公园</title>
+        <id>146162</id>
+        <link href="https://www.jfsay.com/archives/3905.html?utm_source=blogfinder" />
+        <published>2026-02-12T13:32:00+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[游长春市南湖公园]]></summary>
+    </entry>
+        <entry>
+        <title>拖延症也有拖延症的好</title>
+        <id>146165</id>
+        <link href="https://blog.solazy.me/20260212/?utm_source=blogfinder" />
+        <published>2026-02-12T12:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[拖延症也有拖延症的好]]></summary>
+    </entry>
         <entry>
         <title>恰一碗情怀饭</title>
         <id>146161</id>
@@ -22,6 +55,17 @@
             <uri>https://zooyoo.top</uri>
         </author>
         <summary type="text"><![CDATA[恰一碗情怀饭]]></summary>
+    </entry>
+        <entry>
+        <title>小年杂记</title>
+        <id>146166</id>
+        <link href="https://nxxy335.top/archives/geYvnd7O?utm_source=blogfinder" />
+        <published>2026-02-12T11:13:02+08:00</published>
+        <author>
+            <name>暖心向阳</name>
+            <uri>https://nxxy335.top</uri>
+        </author>
+        <summary type="text"><![CDATA[小年杂记]]></summary>
     </entry>
         <entry>
         <title>关于一只不再防水的表的最后一小时</title>
@@ -220,6 +264,17 @@
             <uri>https://www.bat69.com</uri>
         </author>
         <summary type="text"><![CDATA[wordpress插件：Super Switch，让你的文章ID数字不间断]]></summary>
+    </entry>
+        <entry>
+        <title>使用View Transition api给模式切换添加过渡动画</title>
+        <id>146163</id>
+        <link href="https://www.xrbk.cn/post/60.html?utm_source=blogfinder" />
+        <published>2026-02-11T19:32:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://www.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[使用View Transition api给模式切换添加过渡动画]]></summary>
     </entry>
         <entry>
         <title>廿六年·岁杪寒·适配札</title>
@@ -1177,38 +1232,5 @@
             <uri>https://1900.live</uri>
         </author>
         <summary type="text"><![CDATA[我的小龙虾(OpenClaw)初体验]]></summary>
-    </entry>
-        <entry>
-        <title>常见的逻辑谬误</title>
-        <id>145898</id>
-        <link href="https://buqi.cn/archives/019c414d-c37a-72ec-a472-bed1401bdd2e?utm_source=blogfinder" />
-        <published>2026-02-09T15:36:16+08:00</published>
-        <author>
-            <name>不器之器</name>
-            <uri>https://buqi.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[常见的逻辑谬误]]></summary>
-    </entry>
-        <entry>
-        <title>游惠州博罗横河镇</title>
-        <id>145879</id>
-        <link href="https://www.jfsay.com/archives/3912.html?utm_source=blogfinder" />
-        <published>2026-02-09T14:56:43+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[游惠州博罗横河镇]]></summary>
-    </entry>
-        <entry>
-        <title>采购礼品真的累人</title>
-        <id>145882</id>
-        <link href="https://ygz.ink/archives/4274.html?utm_source=blogfinder" />
-        <published>2026-02-09T14:50:52+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[采购礼品真的累人]]></summary>
     </entry>
     </feed>
