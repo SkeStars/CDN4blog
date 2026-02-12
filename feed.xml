@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-12T17:00:46+08:00</updated>
+    <updated>2026-02-12T19:00:11+08:00</updated>
         <entry>
         <title>乌龙的缓存服务</title>
         <id>146171</id>
@@ -22,6 +22,17 @@
             <uri>https://blog.stoh.cc</uri>
         </author>
         <summary type="text"><![CDATA[乌龙的缓存服务]]></summary>
+    </entry>
+        <entry>
+        <title>假期提前</title>
+        <id>146175</id>
+        <link href="https://airy.ink/daily/423?utm_source=blogfinder" />
+        <published>2026-02-12T16:55:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[假期提前]]></summary>
     </entry>
         <entry>
         <title>Album#33 - Patch</title>
@@ -55,6 +66,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[高考经历与认同《一九八四》]]></summary>
+    </entry>
+        <entry>
+        <title>日寄 三十</title>
+        <id>146176</id>
+        <link href="https://cyrus19.cc/archives/1820?utm_source=blogfinder" />
+        <published>2026-02-12T12:45:55+08:00</published>
+        <author>
+            <name>CC 的数字花园</name>
+            <uri>https://cyrus19.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[日寄 三十]]></summary>
     </entry>
         <entry>
         <title>告别亚马逊 SES：用 Bark 实现 FarBox 评论全层级即时通知</title>
@@ -167,6 +189,17 @@
         <summary type="text"><![CDATA[动物园]]></summary>
     </entry>
         <entry>
+        <title>斐讯N1安装飞牛OS</title>
+        <id>146174</id>
+        <link href="https://xyzbz.cn/archives/1513/?utm_source=blogfinder" />
+        <published>2026-02-12T05:28:00+08:00</published>
+        <author>
+            <name>网友小宋</name>
+            <uri>https://xyzbz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[斐讯N1安装飞牛OS]]></summary>
+    </entry>
+        <entry>
         <title>《好人老张》</title>
         <id>146155</id>
         <link href="https://www.weiwenchao.com/2324.html?utm_source=blogfinder" />
@@ -200,6 +233,17 @@
         <summary type="text"><![CDATA[你说的都对，但别说了]]></summary>
     </entry>
         <entry>
+        <title>20260211</title>
+        <id>146172</id>
+        <link href="https://61.life/2026/0211?utm_source=blogfinder" />
+        <published>2026-02-11T23:46:16+08:00</published>
+        <author>
+            <name>61’s life</name>
+            <uri>https://61.life</uri>
+        </author>
+        <summary type="text"><![CDATA[20260211]]></summary>
+    </entry>
+        <entry>
         <title>《团队里的奇葩》</title>
         <id>146156</id>
         <link href="https://www.weiwenchao.com/2323.html?utm_source=blogfinder" />
@@ -209,6 +253,17 @@
             <uri>https://www.weiwenchao.com</uri>
         </author>
         <summary type="text"><![CDATA[《团队里的奇葩》]]></summary>
+    </entry>
+        <entry>
+        <title>20260210</title>
+        <id>146173</id>
+        <link href="https://61.life/2026/0210?utm_source=blogfinder" />
+        <published>2026-02-11T23:30:22+08:00</published>
+        <author>
+            <name>61’s life</name>
+            <uri>https://61.life</uri>
+        </author>
+        <summary type="text"><![CDATA[20260210]]></summary>
     </entry>
         <entry>
         <title>博客站换字体添新意，域名场售珍宝获千金</title>
@@ -1221,38 +1276,5 @@
             <uri>https://blog.6uu.us</uri>
         </author>
         <summary type="text"><![CDATA[OpenClaw + 1Panel 快速部署-搭建你的专属 AI 助理]]></summary>
-    </entry>
-        <entry>
-        <title>上门烤全羊</title>
-        <id>145893</id>
-        <link href="https://dujun.io/6cf24cf3-8bf9-566b-8ce8-da7aa576ca6f.html?utm_source=blogfinder" />
-        <published>2026-02-09T18:59:00+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[上门烤全羊]]></summary>
-    </entry>
-        <entry>
-        <title>又迭代了一下博客的「Movies」页面</title>
-        <id>145894</id>
-        <link href="https://blog.solazy.me/20260209/?utm_source=blogfinder" />
-        <published>2026-02-09T18:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[又迭代了一下博客的「Movies」页面]]></summary>
-    </entry>
-        <entry>
-        <title>人生第一次收到明信片，感谢朱小呆</title>
-        <id>145888</id>
-        <link href="https://www.aiwazi.com/2830.html?utm_source=blogfinder" />
-        <published>2026-02-09T17:29:36+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[人生第一次收到明信片，感谢朱小呆]]></summary>
     </entry>
     </feed>
