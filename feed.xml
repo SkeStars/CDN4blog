@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-12T11:01:23+08:00</updated>
+    <updated>2026-02-12T13:00:23+08:00</updated>
+        <entry>
+        <title>恰一碗情怀饭</title>
+        <id>146161</id>
+        <link href="https://zooyoo.top/article.php?id=29&amp;utm_source=blogfinder" />
+        <published>2026-02-12T11:54:05+08:00</published>
+        <author>
+            <name>热衷于的博客</name>
+            <uri>https://zooyoo.top</uri>
+        </author>
+        <summary type="text"><![CDATA[恰一碗情怀饭]]></summary>
+    </entry>
+        <entry>
+        <title>关于一只不再防水的表的最后一小时</title>
+        <id>146158</id>
+        <link href="https://onojyun.com/2026/02/12/%e5%85%b3%e4%ba%8e%e4%b8%80%e5%8f%aa%e4%b8%8d%e5%86%8d%e9%98%b2%e6%b0%b4%e7%9a%84%e8%a1%a8%e7%9a%84%e6%9c%80%e5%90%8e%e4%b8%80%e5%b0%8f%e6%97%b6/?utm_source=blogfinder" />
+        <published>2026-02-12T10:00:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://onojyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[关于一只不再防水的表的最后一小时]]></summary>
+    </entry>
         <entry>
         <title>宗宗酱送你一个红包封面</title>
         <id>146157</id>
@@ -66,6 +88,17 @@
             <uri>http://stuit.cn</uri>
         </author>
         <summary type="text"><![CDATA[草地上的落叶（20251130）]]></summary>
+    </entry>
+        <entry>
+        <title>你说的都对，但别说了</title>
+        <id>146160</id>
+        <link href="https://hulatu.com/posts/2026/02/11/dining-atmosphere/?utm_source=blogfinder" />
+        <published>2026-02-11T23:48:23+08:00</published>
+        <author>
+            <name>胡拉图的后花园</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[你说的都对，但别说了]]></summary>
     </entry>
         <entry>
         <title>《团队里的奇葩》</title>
@@ -231,6 +264,17 @@
             <uri>https://blog.codingnow.com</uri>
         </author>
         <summary type="text"><![CDATA[日常锻炼的一些记录]]></summary>
+    </entry>
+        <entry>
+        <title>放假了，满油满电，出发回家</title>
+        <id>146159</id>
+        <link href="https://zhoutian.com/349.html?utm_source=blogfinder" />
+        <published>2026-02-11T17:28:13+08:00</published>
+        <author>
+            <name>周天记</name>
+            <uri>https://zhoutian.com</uri>
+        </author>
+        <summary type="text"><![CDATA[放假了，满油满电，出发回家]]></summary>
     </entry>
         <entry>
         <title>nvidia-smi工具详解及使用示例</title>
@@ -1199,60 +1243,5 @@
             <uri>https://onojyun.com</uri>
         </author>
         <summary type="text"><![CDATA[我为什么恐惧AI？]]></summary>
-    </entry>
-        <entry>
-        <title>冒犯</title>
-        <id>145880</id>
-        <link href="https://ihaihe.cn/3499.htm?utm_source=blogfinder" />
-        <published>2026-02-09T12:51:47+08:00</published>
-        <author>
-            <name>三十里海河</name>
-            <uri>https://ihaihe.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[冒犯]]></summary>
-    </entry>
-        <entry>
-        <title>为云服务器配置clash-for-linux</title>
-        <id>145875</id>
-        <link href="https://loveapple.icu/clash-for-linux/?utm_source=blogfinder" />
-        <published>2026-02-09T12:43:44+08:00</published>
-        <author>
-            <name>LoveApple14434</name>
-            <uri>https://loveapple.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[为云服务器配置clash-for-linux]]></summary>
-    </entry>
-        <entry>
-        <title>在路上</title>
-        <id>145899</id>
-        <link href="https://www.david03.top/index.php/archives/434/?utm_source=blogfinder" />
-        <published>2026-02-09T12:13:00+08:00</published>
-        <author>
-            <name>David の 3 号基地</name>
-            <uri>https://www.david03.top</uri>
-        </author>
-        <summary type="text"><![CDATA[在路上]]></summary>
-    </entry>
-        <entry>
-        <title>静态博客之路之二</title>
-        <id>145886</id>
-        <link href="https://ficor.net/2026/02/09/jingtai2/?utm_source=blogfinder" />
-        <published>2026-02-09T11:50:50+08:00</published>
-        <author>
-            <name>荒野菲克</name>
-            <uri>https://ficor.net</uri>
-        </author>
-        <summary type="text"><![CDATA[静态博客之路之二]]></summary>
-    </entry>
-        <entry>
-        <title>阿里云良心，验证码兜底解决方案，彻底告别移动手机号收不到验证码的问题</title>
-        <id>145865</id>
-        <link href="https://www.sunzhongwei.com/alibaba-clouds-conscience-verification-code?utm_source=blogfinder" />
-        <published>2026-02-09T11:20:40+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[阿里云良心，验证码兜底解决方案，彻底告别移动手机号收不到验证码的问题]]></summary>
     </entry>
     </feed>
