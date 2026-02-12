@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-12T20:00:23+08:00</updated>
+    <updated>2026-02-12T21:01:44+08:00</updated>
+        <entry>
+        <title>关于有奖发票、元宝千问薅羊毛这些事</title>
+        <id>146178</id>
+        <link href="https://www.51it.wang/ll/2159?utm_source=blogfinder" />
+        <published>2026-02-12T20:38:24+08:00</published>
+        <author>
+            <name>Lcry</name>
+            <uri>https://www.51it.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[关于有奖发票、元宝千问薅羊毛这些事]]></summary>
+    </entry>
+        <entry>
+        <title>致青春，匆匆那年</title>
+        <id>146177</id>
+        <link href="https://www.aiwazi.com/2834.html?utm_source=blogfinder" />
+        <published>2026-02-12T17:34:38+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[致青春，匆匆那年]]></summary>
+    </entry>
         <entry>
         <title>乌龙的缓存服务</title>
         <id>146171</id>
@@ -33,6 +55,17 @@
             <uri>https://airy.ink</uri>
         </author>
         <summary type="text"><![CDATA[假期提前]]></summary>
+    </entry>
+        <entry>
+        <title>超可爱！FileBrowser 2.57.1 界面美化记录</title>
+        <id>146179</id>
+        <link href="https://www.nekopara.uk/archives/personalization_filebrowser_2.html?utm_source=blogfinder" />
+        <published>2026-02-12T16:08:13+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[超可爱！FileBrowser 2.57.1 界面美化记录]]></summary>
     </entry>
         <entry>
         <title>Album#33 - Patch</title>
@@ -1265,16 +1298,5 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[Mastodon和联邦宇宙是怎么一回事？]]></summary>
-    </entry>
-        <entry>
-        <title>OpenClaw + 1Panel 快速部署-搭建你的专属 AI 助理</title>
-        <id>145900</id>
-        <link href="https://blog.6uu.us/archives/openclaw-1panel-kuai-su-bu-shu-da-jian-ni-de-zhuan-shu-ai-zhu-li?utm_source=blogfinder" />
-        <published>2026-02-09T20:06:13+08:00</published>
-        <author>
-            <name>bbb-lsy07</name>
-            <uri>https://blog.6uu.us</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenClaw + 1Panel 快速部署-搭建你的专属 AI 助理]]></summary>
     </entry>
     </feed>
