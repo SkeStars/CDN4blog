@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-12T23:00:40+08:00</updated>
+    <updated>2026-02-13T00:00:38+08:00</updated>
+        <entry>
+        <title>读者和看客</title>
+        <id>146188</id>
+        <link href="https://hulatu.com/posts/2026/02/12/readers-and-spectators/?utm_source=blogfinder" />
+        <published>2026-02-12T23:45:43+08:00</published>
+        <author>
+            <name>胡拉图的后花园</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[读者和看客]]></summary>
+    </entry>
         <entry>
         <title>冬至（54/81）：午睡，口腔溃疡</title>
         <id>146184</id>
@@ -22,6 +33,28 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[冬至（54/81）：午睡，口腔溃疡]]></summary>
+    </entry>
+        <entry>
+        <title>用 Keyboard Maestro 快速读取新通知中的验证码</title>
+        <id>146185</id>
+        <link href="https://anotherdayu.com/2026/7714/?utm_source=blogfinder" />
+        <published>2026-02-12T21:45:16+08:00</published>
+        <author>
+            <name>Another Dayu</name>
+            <uri>https://anotherdayu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[用 Keyboard Maestro 快速读取新通知中的验证码]]></summary>
+    </entry>
+        <entry>
+        <title>Harmony OS 6 升级体验</title>
+        <id>146186</id>
+        <link href="https://blog.kfdzcoffee.cn/archives/tryharmonyOS6?utm_source=blogfinder" />
+        <published>2026-02-12T21:04:50+08:00</published>
+        <author>
+            <name>咖啡豆子 coffee 的小站</name>
+            <uri>https://blog.kfdzcoffee.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Harmony OS 6 升级体验]]></summary>
     </entry>
         <entry>
         <title>关于有奖发票、元宝千问薅羊毛这些事</title>
@@ -99,6 +132,17 @@
             <uri>https://www.nekopara.uk</uri>
         </author>
         <summary type="text"><![CDATA[超可爱！FileBrowser 2.57.1 界面美化记录]]></summary>
+    </entry>
+        <entry>
+        <title>Canon New Canonet QL17-L胶片相机</title>
+        <id>146187</id>
+        <link href="https://blog.pursuitus.com/canon-new-canon-ql17-l-film-camera.html?utm_source=blogfinder" />
+        <published>2026-02-12T15:57:21+08:00</published>
+        <author>
+            <name>Ouroboros</name>
+            <uri>https://blog.pursuitus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Canon New Canonet QL17-L胶片相机]]></summary>
     </entry>
         <entry>
         <title>代际遗传的终结</title>
@@ -1276,16 +1320,5 @@
             <uri>https://jackie.openenet.cn</uri>
         </author>
         <summary type="text"><![CDATA[【BA8AHF】如何让自己可刑可铐（三）：整活向｜轴向模螺旋天线，卫星通信“加刑”神器]]></summary>
-    </entry>
-        <entry>
-        <title>收拾行囊，准备回家</title>
-        <id>145895</id>
-        <link href="https://hulatu.com/posts/2026/02/09/preparing-to-go-home/?utm_source=blogfinder" />
-        <published>2026-02-09T23:20:15+08:00</published>
-        <author>
-            <name>胡拉图的后花园</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[收拾行囊，准备回家]]></summary>
     </entry>
     </feed>
