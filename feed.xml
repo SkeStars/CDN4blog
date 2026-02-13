@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-13T17:00:57+08:00</updated>
+    <updated>2026-02-13T18:00:22+08:00</updated>
         <entry>
         <title>器材全家福</title>
         <id>146222</id>
@@ -22,6 +22,50 @@
             <uri>https://www.szqp.site</uri>
         </author>
         <summary type="text"><![CDATA[器材全家福]]></summary>
+    </entry>
+        <entry>
+        <title>法律行业Ai拐点是否已经到来？</title>
+        <id>146228</id>
+        <link href="https://lawtee.com/article/legal-ai-inflection-point-2026/?utm_source=blogfinder" />
+        <published>2026-02-13T15:00:00+08:00</published>
+        <author>
+            <name>老 T 博客</name>
+            <uri>https://lawtee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[法律行业Ai拐点是否已经到来？]]></summary>
+    </entry>
+        <entry>
+        <title>HarmonyOS 6初体验</title>
+        <id>146226</id>
+        <link href="https://www.xiaozonglin.cn/harmonyos-6/?utm_source=blogfinder" />
+        <published>2026-02-13T13:59:09+08:00</published>
+        <author>
+            <name>林林杂语</name>
+            <uri>https://www.xiaozonglin.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[HarmonyOS 6初体验]]></summary>
+    </entry>
+        <entry>
+        <title>2026.2.12</title>
+        <id>146225</id>
+        <link href="https://www.justzht.com/2026-2-12/?utm_source=blogfinder" />
+        <published>2026-02-13T13:58:14+08:00</published>
+        <author>
+            <name>JustZht</name>
+            <uri>https://www.justzht.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026.2.12]]></summary>
+    </entry>
+        <entry>
+        <title>解锁思源笔记的隐藏力量：siyuan-patch 深度体验与技术实现</title>
+        <id>146227</id>
+        <link href="https://wuqishi.com/unlocking-the-hidden-power-of-siyuan-notes-siyuanpatch-indepth-experience-and-technical/?utm_source=blogfinder" />
+        <published>2026-02-13T13:14:00+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[解锁思源笔记的隐藏力量：siyuan-patch 深度体验与技术实现]]></summary>
     </entry>
         <entry>
         <title>游长春伪满皇宫博物院、东北沦陷史博物馆、沙俄领事馆、清真寺</title>
@@ -187,6 +231,17 @@
             <uri>https://jackie.openenet.cn</uri>
         </author>
         <summary type="text"><![CDATA[NAT穿透：使用贝锐花生壳内网穿透，实现在无外网IP访问内网服务]]></summary>
+    </entry>
+        <entry>
+        <title>自驾｜长沙—永州—桂林</title>
+        <id>146230</id>
+        <link href="https://d-d.design/single/18121?utm_source=blogfinder" />
+        <published>2026-02-13T02:04:49+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[自驾｜长沙—永州—桂林]]></summary>
     </entry>
         <entry>
         <title>《南川》春节特别版，兼论有的没的莫须有</title>
@@ -363,6 +418,17 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[致青春，匆匆那年]]></summary>
+    </entry>
+        <entry>
+        <title>简单说下我最近用 Claude Cowork 的体验</title>
+        <id>146229</id>
+        <link href="https://deusyu.app/posts/claude-cowork-trial/?utm_source=blogfinder" />
+        <published>2026-02-12T17:20:00+08:00</published>
+        <author>
+            <name>既往不恋</name>
+            <uri>https://deusyu.app</uri>
+        </author>
+        <summary type="text"><![CDATA[简单说下我最近用 Claude Cowork 的体验]]></summary>
     </entry>
         <entry>
         <title>实战避坑：Java中彻底避免空指针异常（NPE）的代码写法</title>
