@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-13T16:00:22+08:00</updated>
+    <updated>2026-02-13T17:00:57+08:00</updated>
+        <entry>
+        <title>器材全家福</title>
+        <id>146222</id>
+        <link href="https://www.szqp.site/archives/10657?utm_source=blogfinder" />
+        <published>2026-02-13T16:21:14+08:00</published>
+        <author>
+            <name>szqp</name>
+            <uri>https://www.szqp.site</uri>
+        </author>
+        <summary type="text"><![CDATA[器材全家福]]></summary>
+    </entry>
         <entry>
         <title>游长春伪满皇宫博物院、东北沦陷史博物馆、沙俄领事馆、清真寺</title>
         <id>146219</id>
@@ -99,6 +110,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[纯HTML+Tailwind CSS代码,无需安装即插即用（Copy &amp; Paste）]]></summary>
+    </entry>
+        <entry>
+        <title>耍笔杆子的混子与走江湖的骗子</title>
+        <id>146223</id>
+        <link href="https://www.pgoj.top/archives/hunziyupianzi.html?utm_source=blogfinder" />
+        <published>2026-02-13T08:26:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[耍笔杆子的混子与走江湖的骗子]]></summary>
     </entry>
         <entry>
         <title>排海白玉汤</title>
@@ -209,6 +231,17 @@
             <uri>https://ryqi.top</uri>
         </author>
         <summary type="text"><![CDATA[高考还有480天，我什么时候可以醒？ | 成绩分析]]></summary>
+    </entry>
+        <entry>
+        <title>不一样的吴克群：从《为你写诗》，到“为你记录”大地的烟火</title>
+        <id>146224</id>
+        <link href="https://blog.stoh.cc/post/377aa610.html?utm_source=blogfinder" />
+        <published>2026-02-12T22:28:00+08:00</published>
+        <author>
+            <name>SHI 記</name>
+            <uri>https://blog.stoh.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[不一样的吴克群：从《为你写诗》，到“为你记录”大地的烟火]]></summary>
     </entry>
         <entry>
         <title>冬至（54/81）：午睡，口腔溃疡</title>
@@ -1331,27 +1364,5 @@
             <uri>https://www.glowisle.me</uri>
         </author>
         <summary type="text"><![CDATA[2026年，一个普通Emacs用户如何把Gnus跑起来]]></summary>
-    </entry>
-        <entry>
-        <title>退件如蛊：垃圾消息涌入</title>
-        <id>145966</id>
-        <link href="https://zooyoo.top/article.php?id=28&amp;utm_source=blogfinder" />
-        <published>2026-02-10T16:48:04+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[退件如蛊：垃圾消息涌入]]></summary>
-    </entry>
-        <entry>
-        <title>我原计划长这样</title>
-        <id>145960</id>
-        <link href="https://dujun.io/9085388a-2c11-53e2-a5df-074866c088cf.html?utm_source=blogfinder" />
-        <published>2026-02-10T16:26:30+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[我原计划长这样]]></summary>
     </entry>
     </feed>
