@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-13T11:07:23+08:00</updated>
+    <updated>2026-02-13T13:00:21+08:00</updated>
         <entry>
         <title>笔记软件选择的最终章</title>
         <id>146211</id>
@@ -44,6 +44,28 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[它的1559天]]></summary>
+    </entry>
+        <entry>
+        <title>退租</title>
+        <id>146214</id>
+        <link href="https://onojyun.com/2026/02/13/%e9%80%80%e7%a7%9f/?utm_source=blogfinder" />
+        <published>2026-02-13T10:00:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://onojyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[退租]]></summary>
+    </entry>
+        <entry>
+        <title>保持对运动的热情</title>
+        <id>146216</id>
+        <link href="https://joojen.com/archives/8809.html?utm_source=blogfinder" />
+        <published>2026-02-13T08:57:52+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[保持对运动的热情]]></summary>
     </entry>
         <entry>
         <title>纯HTML+Tailwind CSS代码,无需安装即插即用（Copy &amp; Paste）</title>
@@ -112,6 +134,17 @@
         <summary type="text"><![CDATA[科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？]]></summary>
     </entry>
         <entry>
+        <title>NAT穿透：使用贝锐花生壳内网穿透，实现在无外网IP访问内网服务</title>
+        <id>146215</id>
+        <link href="https://jackie.openenet.cn/oray-hsk-nat-traversal/?utm_source=blogfinder" />
+        <published>2026-02-13T02:15:45+08:00</published>
+        <author>
+            <name>Jackie&#039;s Blog</name>
+            <uri>https://jackie.openenet.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[NAT穿透：使用贝锐花生壳内网穿透，实现在无外网IP访问内网服务]]></summary>
+    </entry>
+        <entry>
         <title>【提前预热】正月初八 开工首日幸运派送</title>
         <id>146207</id>
         <link href="https://zhujay.com/talking/?id=1195&amp;utm_source=blogfinder" />
@@ -154,6 +187,17 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[冬至（54/81）：午睡，口腔溃疡]]></summary>
+    </entry>
+        <entry>
+        <title>十年前的今天，我在维基萌上发布了第一篇正式的文章《【jQuery】两端对联广告》</title>
+        <id>146217</id>
+        <link href="https://www.wikimoe.com/post/tacnlyei?utm_source=blogfinder" />
+        <published>2026-02-12T22:15:34+08:00</published>
+        <author>
+            <name>维基萌</name>
+            <uri>https://www.wikimoe.com</uri>
+        </author>
+        <summary type="text"><![CDATA[十年前的今天，我在维基萌上发布了第一篇正式的文章《【jQuery】两端对联广告》]]></summary>
     </entry>
         <entry>
         <title>加载：不止于等待</title>
@@ -209,6 +253,17 @@
             <uri>https://www.51it.wang</uri>
         </author>
         <summary type="text"><![CDATA[关于有奖发票、元宝千问薅羊毛这些事]]></summary>
+    </entry>
+        <entry>
+        <title>Falcom发布了新游戏《京都迷城 樱花幻舞》</title>
+        <id>146218</id>
+        <link href="https://www.wikimoe.com/post/ta4th257?utm_source=blogfinder" />
+        <published>2026-02-12T19:33:37+08:00</published>
+        <author>
+            <name>维基萌</name>
+            <uri>https://www.wikimoe.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Falcom发布了新游戏《京都迷城 樱花幻舞》]]></summary>
     </entry>
         <entry>
         <title>Office弹窗太大超出屏幕范围，导致找不到“确定”按钮，调整分辨率也无效的解决方案</title>
@@ -1342,38 +1397,5 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[平平淡淡的一日三餐]]></summary>
-    </entry>
-        <entry>
-        <title>抢春节后的回程高铁票，抢得我喷血三升</title>
-        <id>145955</id>
-        <link href="https://cuixiping.com/blog/think/xkbynr?utm_source=blogfinder" />
-        <published>2026-02-10T12:01:00+08:00</published>
-        <author>
-            <name>崔话记</name>
-            <uri>https://cuixiping.com</uri>
-        </author>
-        <summary type="text"><![CDATA[抢春节后的回程高铁票，抢得我喷血三升]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1628】朱生豪译莎士比亚《皆大欢喜》</title>
-        <id>145958</id>
-        <link href="http://www.qncd.com/?p=12484&amp;utm_source=blogfinder" />
-        <published>2026-02-10T11:54:34+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1628】朱生豪译莎士比亚《皆大欢喜》]]></summary>
-    </entry>
-        <entry>
-        <title>廿六年·岁杪寒·小年至</title>
-        <id>145951</id>
-        <link href="https://blog.52hyjs.com/post-1239.html?utm_source=blogfinder" />
-        <published>2026-02-10T11:11:51+08:00</published>
-        <author>
-            <name>幻影博客</name>
-            <uri>https://blog.52hyjs.com</uri>
-        </author>
-        <summary type="text"><![CDATA[廿六年·岁杪寒·小年至]]></summary>
     </entry>
     </feed>
