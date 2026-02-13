@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-13T18:00:22+08:00</updated>
+    <updated>2026-02-13T19:00:25+08:00</updated>
+        <entry>
+        <title>[说说] 保护好自己的大脑，这个真的很重要，就像我之前一直说的那样：过度的依赖 AI，慢慢的丧失了思考能力。 ...</title>
+        <id>146231</id>
+        <link href="https://blog.boguan.site/moments/e13b5062-a567-417f-b073-8c4a061093d6?utm_source=blogfinder" />
+        <published>2026-02-13T16:37:07+08:00</published>
+        <author>
+            <name>开发者十一</name>
+            <uri>https://blog.boguan.site</uri>
+        </author>
+        <summary type="text"><![CDATA[[说说] 保护好自己的大脑，这个真的很重要，就像我之前一直说的那样：过度的依赖 AI，慢慢的丧失了思考能力。 ...]]></summary>
+    </entry>
+        <entry>
+        <title>[文章] 人工智能疲劳是真实存在的，但却无人提及</title>
+        <id>146232</id>
+        <link href="https://blog.boguan.site/articles/49dbeba1-5f22-41a3-aaf1-e47fa50ca26e?utm_source=blogfinder" />
+        <published>2026-02-13T16:35:05+08:00</published>
+        <author>
+            <name>开发者十一</name>
+            <uri>https://blog.boguan.site</uri>
+        </author>
+        <summary type="text"><![CDATA[[文章] 人工智能疲劳是真实存在的，但却无人提及]]></summary>
+    </entry>
         <entry>
         <title>器材全家福</title>
         <id>146222</id>
@@ -1386,49 +1408,5 @@
             <uri>https://taxodium.ink</uri>
         </author>
         <summary type="text"><![CDATA[Album#32 - 头7]]></summary>
-    </entry>
-        <entry>
-        <title>Lilygo T-Dongle-S3部署NerdminerV2时的一些坑</title>
-        <id>145967</id>
-        <link href="https://www.yuanzj.top/posts/f47fbe4e.html?utm_source=blogfinder" />
-        <published>2026-02-10T18:50:00+08:00</published>
-        <author>
-            <name>圆周率的博客</name>
-            <uri>https://www.yuanzj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lilygo T-Dongle-S3部署NerdminerV2时的一些坑]]></summary>
-    </entry>
-        <entry>
-        <title>另外今天也收到了CloudCone的赔偿邮件</title>
-        <id>145989</id>
-        <link href="https://www.wikimoe.com/post/ta8bu83q?utm_source=blogfinder" />
-        <published>2026-02-10T18:37:21+08:00</published>
-        <author>
-            <name>维基萌</name>
-            <uri>https://www.wikimoe.com</uri>
-        </author>
-        <summary type="text"><![CDATA[另外今天也收到了CloudCone的赔偿邮件]]></summary>
-    </entry>
-        <entry>
-        <title>CloudCone悄悄的去掉了可用性历史记录</title>
-        <id>145990</id>
-        <link href="https://www.wikimoe.com/post/ta8bnnn8?utm_source=blogfinder" />
-        <published>2026-02-10T18:37:09+08:00</published>
-        <author>
-            <name>维基萌</name>
-            <uri>https://www.wikimoe.com</uri>
-        </author>
-        <summary type="text"><![CDATA[CloudCone悄悄的去掉了可用性历史记录]]></summary>
-    </entry>
-        <entry>
-        <title>2026年，一个普通Emacs用户如何把Gnus跑起来</title>
-        <id>146008</id>
-        <link href="https://www.glowisle.me/posts/gnus-guide/?utm_source=blogfinder" />
-        <published>2026-02-10T18:34:00+08:00</published>
-        <author>
-            <name>映屿</name>
-            <uri>https://www.glowisle.me</uri>
-        </author>
-        <summary type="text"><![CDATA[2026年，一个普通Emacs用户如何把Gnus跑起来]]></summary>
     </entry>
     </feed>
