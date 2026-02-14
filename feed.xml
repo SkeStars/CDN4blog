@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-14T17:00:32+08:00</updated>
+    <updated>2026-02-14T18:00:25+08:00</updated>
         <entry>
         <title>廿六年·十年尘·回望录-小人物自传，我的2016-2025年</title>
         <id>146356</id>
@@ -22,6 +22,17 @@
             <uri>https://blog.52hyjs.com</uri>
         </author>
         <summary type="text"><![CDATA[廿六年·十年尘·回望录-小人物自传，我的2016-2025年]]></summary>
+    </entry>
+        <entry>
+        <title>不用插件实现WordPress关闭”自动保存”、”文章修订版本”两个功能，从而让文章ID数字连续</title>
+        <id>146360</id>
+        <link href="https://www.bat69.com/20260214/%e4%b8%8d%e7%94%a8%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0wordpress%e5%85%b3%e9%97%ad%e8%87%aa%e5%8a%a8%e4%bf%9d%e5%ad%98%e3%80%81%e6%96%87%e7%ab%a0%e4%bf%ae%e8%ae%a2%e7%89%88%e6%9c%ac%e4%b8%a4.html?utm_source=blogfinder" />
+        <published>2026-02-14T13:50:18+08:00</published>
+        <author>
+            <name>严重浪漫</name>
+            <uri>https://www.bat69.com</uri>
+        </author>
+        <summary type="text"><![CDATA[不用插件实现WordPress关闭”自动保存”、”文章修订版本”两个功能，从而让文章ID数字连续]]></summary>
     </entry>
         <entry>
         <title>青岛胶州最近天气真的不错</title>
@@ -145,6 +156,17 @@
         <summary type="text"><![CDATA[白日焰火]]></summary>
     </entry>
         <entry>
+        <title>你必须放弃那片岛屿</title>
+        <id>146361</id>
+        <link href="https://d-d.design/single/18199?utm_source=blogfinder" />
+        <published>2026-02-14T02:02:29+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[你必须放弃那片岛屿]]></summary>
+    </entry>
+        <entry>
         <title>收工整理屋子</title>
         <id>146350</id>
         <link href="https://ilogs.cn/2026/02/14/364.html?utm_source=blogfinder" />
@@ -266,6 +288,17 @@
         <summary type="text"><![CDATA[过年兄弟们聚会]]></summary>
     </entry>
         <entry>
+        <title>小酌配乡爱，快乐最自在</title>
+        <id>146357</id>
+        <link href="https://blog.pet111.cn/archives/518/?utm_source=blogfinder" />
+        <published>2026-02-13T21:27:00+08:00</published>
+        <author>
+            <name>小生博客</name>
+            <uri>https://blog.pet111.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[小酌配乡爱，快乐最自在]]></summary>
+    </entry>
+        <entry>
         <title>《随风飘荡的毛》</title>
         <id>146233</id>
         <link href="https://www.weiwenchao.com/2325.html?utm_source=blogfinder" />
@@ -332,6 +365,17 @@
         <summary type="text"><![CDATA[Canon Autoboy F XL胶卷相机]]></summary>
     </entry>
         <entry>
+        <title>两部电影的观影随笔</title>
+        <id>146359</id>
+        <link href="https://deusyu.app/posts/cinema-time-existence/?utm_source=blogfinder" />
+        <published>2026-02-13T17:10:00+08:00</published>
+        <author>
+            <name>既往不恋</name>
+            <uri>https://deusyu.app</uri>
+        </author>
+        <summary type="text"><![CDATA[两部电影的观影随笔]]></summary>
+    </entry>
+        <entry>
         <title>[说说] 保护好自己的大脑，这个真的很重要，就像我之前一直说的那样：过度的依赖 AI，慢慢的丧失了思考能力。 ...</title>
         <id>146231</id>
         <link href="https://blog.boguan.site/moments/e13b5062-a567-417f-b073-8c4a061093d6?utm_source=blogfinder" />
@@ -352,6 +396,17 @@
             <uri>https://blog.boguan.site</uri>
         </author>
         <summary type="text"><![CDATA[[文章] 人工智能疲劳是真实存在的，但却无人提及]]></summary>
+    </entry>
+        <entry>
+        <title>浪潮服务器异常宕机：3108MR阵列卡异常进入安全模式排查</title>
+        <id>146358</id>
+        <link href="https://www.biibii.cn/556.html?utm_source=blogfinder" />
+        <published>2026-02-13T16:35:00+08:00</published>
+        <author>
+            <name>BIIBII</name>
+            <uri>https://www.biibii.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[浪潮服务器异常宕机：3108MR阵列卡异常进入安全模式排查]]></summary>
     </entry>
         <entry>
         <title>改造ITX - 生态与携带方案</title>
@@ -1419,49 +1474,5 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[抱怨源于能力撑不住欲望]]></summary>
-    </entry>
-        <entry>
-        <title>提完离职后，我想聊聊我的择业观</title>
-        <id>146038</id>
-        <link href="https://blog.solazy.me/20260211/?utm_source=blogfinder" />
-        <published>2026-02-11T18:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[提完离职后，我想聊聊我的择业观]]></summary>
-    </entry>
-        <entry>
-        <title>日常锻炼的一些记录</title>
-        <id>146026</id>
-        <link href="https://blog.codingnow.com/2026/02/physical_training.html?utm_source=blogfinder" />
-        <published>2026-02-11T17:28:25+08:00</published>
-        <author>
-            <name>云风的 BLOG</name>
-            <uri>https://blog.codingnow.com</uri>
-        </author>
-        <summary type="text"><![CDATA[日常锻炼的一些记录]]></summary>
-    </entry>
-        <entry>
-        <title>放假了，满油满电，出发回家</title>
-        <id>146159</id>
-        <link href="https://zhoutian.com/349.html?utm_source=blogfinder" />
-        <published>2026-02-11T17:28:13+08:00</published>
-        <author>
-            <name>周天记</name>
-            <uri>https://zhoutian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[放假了，满油满电，出发回家]]></summary>
-    </entry>
-        <entry>
-        <title>nvidia-smi工具详解及使用示例</title>
-        <id>146029</id>
-        <link href="https://chegva.com/6622.html?utm_source=blogfinder" />
-        <published>2026-02-11T17:00:37+08:00</published>
-        <author>
-            <name>安志合的学习博客</name>
-            <uri>https://chegva.com</uri>
-        </author>
-        <summary type="text"><![CDATA[nvidia-smi工具详解及使用示例]]></summary>
     </entry>
     </feed>
