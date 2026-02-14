@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-14T12:00:34+08:00</updated>
+    <updated>2026-02-14T14:01:36+08:00</updated>
         <entry>
         <title>【读书记1630】朱生豪译莎士比亚《第十二夜》</title>
         <id>146338</id>
@@ -44,6 +44,17 @@
             <uri>https://onojyun.com</uri>
         </author>
         <summary type="text"><![CDATA[车祸 X]]></summary>
+    </entry>
+        <entry>
+        <title>The wrong kind of Progressive Disclosure</title>
+        <id>146346</id>
+        <link href="https://www.justzht.com/the-wrong-kind-of-progressive-disclosure/?utm_source=blogfinder" />
+        <published>2026-02-14T09:53:03+08:00</published>
+        <author>
+            <name>JustZht</name>
+            <uri>https://www.justzht.com</uri>
+        </author>
+        <summary type="text"><![CDATA[The wrong kind of Progressive Disclosure]]></summary>
     </entry>
         <entry>
         <title>租客在我的房子住出了感情怎么办？</title>
@@ -893,6 +904,17 @@
         <summary type="text"><![CDATA[高考经历与认同《一九八四》]]></summary>
     </entry>
         <entry>
+        <title>女人的血</title>
+        <id>146347</id>
+        <link href="https://cytrogen.icu/posts/df9e.html?utm_source=blogfinder" />
+        <published>2026-02-12T13:00:00+08:00</published>
+        <author>
+            <name>Cytrogen&#039;s Blog</name>
+            <uri>https://cytrogen.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[女人的血]]></summary>
+    </entry>
+        <entry>
         <title>日寄 三十</title>
         <id>146176</id>
         <link href="https://cyrus19.cc/archives/1820?utm_source=blogfinder" />
@@ -1430,71 +1452,5 @@
             <uri>https://www.wxy97.com</uri>
         </author>
         <summary type="text"><![CDATA[Tvbox接口]]></summary>
-    </entry>
-        <entry>
-        <title>杂记：南方小年，父母挖山药</title>
-        <id>146012</id>
-        <link href="https://lilog.cn/archives/1202.html?utm_source=blogfinder" />
-        <published>2026-02-11T13:57:00+08:00</published>
-        <author>
-            <name>李的日志</name>
-            <uri>https://lilog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[杂记：南方小年，父母挖山药]]></summary>
-    </entry>
-        <entry>
-        <title>意识到众生皆苦之后，为什么快乐不起来？</title>
-        <id>146018</id>
-        <link href="https://www.lifd.site/2026/02/yi-shi-dao-zhong-sheng-jie-ku-zhi-hou-wei-shen-me-kuai-le-bu-qi-lai/?utm_source=blogfinder" />
-        <published>2026-02-11T13:49:55+08:00</published>
-        <author>
-            <name>LiFD</name>
-            <uri>https://www.lifd.site</uri>
-        </author>
-        <summary type="text"><![CDATA[意识到众生皆苦之后，为什么快乐不起来？]]></summary>
-    </entry>
-        <entry>
-        <title>使用Systemd代替Mcsmanager管理挂机服务</title>
-        <id>146014</id>
-        <link href="https://www.nekopara.uk/archives/Managing_services_with_systemd.html?utm_source=blogfinder" />
-        <published>2026-02-11T13:33:34+08:00</published>
-        <author>
-            <name>GTX690 战术核显卡导弹</name>
-            <uri>https://www.nekopara.uk</uri>
-        </author>
-        <summary type="text"><![CDATA[使用Systemd代替Mcsmanager管理挂机服务]]></summary>
-    </entry>
-        <entry>
-        <title>别租离异女人的房</title>
-        <id>146013</id>
-        <link href="https://onojyun.com/2026/02/11/%e5%88%ab%e7%a7%9f%e7%a6%bb%e5%bc%82%e5%a5%b3%e4%ba%ba%e7%9a%84%e6%88%bf/?utm_source=blogfinder" />
-        <published>2026-02-11T13:32:59+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://onojyun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[别租离异女人的房]]></summary>
-    </entry>
-        <entry>
-        <title>小年</title>
-        <id>146022</id>
-        <link href="https://ficor.net/2026/02/11/%e5%b0%8f%e5%b9%b4/?utm_source=blogfinder" />
-        <published>2026-02-11T12:59:55+08:00</published>
-        <author>
-            <name>荒野菲克</name>
-            <uri>https://ficor.net</uri>
-        </author>
-        <summary type="text"><![CDATA[小年]]></summary>
-    </entry>
-        <entry>
-        <title>来看《凉宫春日的消失》</title>
-        <id>146010</id>
-        <link href="https://www.wikimoe.com/post/taa2kttn?utm_source=blogfinder" />
-        <published>2026-02-11T12:46:05+08:00</published>
-        <author>
-            <name>维基萌</name>
-            <uri>https://www.wikimoe.com</uri>
-        </author>
-        <summary type="text"><![CDATA[来看《凉宫春日的消失》]]></summary>
     </entry>
     </feed>
