@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-14T21:00:57+08:00</updated>
+    <updated>2026-02-14T22:01:00+08:00</updated>
+        <entry>
+        <title>从诗坛吃瓜看诗人群体的独特性</title>
+        <id>146366</id>
+        <link href="https://www.pgoj.top/archives/shirentexing.html?utm_source=blogfinder" />
+        <published>2026-02-14T19:12:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[从诗坛吃瓜看诗人群体的独特性]]></summary>
+    </entry>
         <entry>
         <title>推荐一个国产好用的RSS订阅器</title>
         <id>146363</id>
@@ -563,6 +574,17 @@
         <summary type="text"><![CDATA[它的1559天]]></summary>
     </entry>
         <entry>
+        <title>Linux 安装 MediaInfo：轻松解析视频文件信息</title>
+        <id>146364</id>
+        <link href="https://www.jinjun.top/posts/install-mediainfo/?utm_source=blogfinder" />
+        <published>2026-02-13T10:30:00+08:00</published>
+        <author>
+            <name>钧言极客</name>
+            <uri>https://www.jinjun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Linux 安装 MediaInfo：轻松解析视频文件信息]]></summary>
+    </entry>
+        <entry>
         <title>【阅读笔记】聚焦区域自动化检测Fully Digital Auto-Focusing System with Automatic Focusing Region Selection and Point Spread Function Estimation</title>
         <id>146340</id>
         <link href="https://www.aomanhao.top/archives/414/?utm_source=blogfinder" />
@@ -792,6 +814,17 @@
             <uri>https://ryqi.top</uri>
         </author>
         <summary type="text"><![CDATA[高考还有480天，我什么时候可以醒？ | 成绩分析]]></summary>
+    </entry>
+        <entry>
+        <title>Hugo 实现的短标签</title>
+        <id>146365</id>
+        <link href="https://www.jinjun.top/posts/hugo-short/?utm_source=blogfinder" />
+        <published>2026-02-12T22:30:00+08:00</published>
+        <author>
+            <name>钧言极客</name>
+            <uri>https://www.jinjun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Hugo 实现的短标签]]></summary>
     </entry>
         <entry>
         <title>不一样的吴克群：从《为你写诗》，到“为你记录”大地的烟火</title>
@@ -1430,16 +1463,5 @@
             <uri>https://www.sunboy.ltd</uri>
         </author>
         <summary type="text"><![CDATA[蜜月之旅]]></summary>
-    </entry>
-        <entry>
-        <title>《割箱子和发福利的小年》</title>
-        <id>146027</id>
-        <link href="https://www.weiwenchao.com/2319.html?utm_source=blogfinder" />
-        <published>2026-02-11T21:42:51+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《割箱子和发福利的小年》]]></summary>
     </entry>
     </feed>
