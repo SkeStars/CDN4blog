@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-14T14:01:36+08:00</updated>
+    <updated>2026-02-14T15:01:22+08:00</updated>
+        <entry>
+        <title>青岛胶州最近天气真的不错</title>
+        <id>146348</id>
+        <link href="https://www.xiaocaoderijiben.online/archives/239?utm_source=blogfinder" />
+        <published>2026-02-14T11:38:32+08:00</published>
+        <author>
+            <name>小草的日记本</name>
+            <uri>https://www.xiaocaoderijiben.online</uri>
+        </author>
+        <summary type="text"><![CDATA[青岛胶州最近天气真的不错]]></summary>
+    </entry>
         <entry>
         <title>【读书记1630】朱生豪译莎士比亚《第十二夜》</title>
         <id>146338</id>
@@ -1419,38 +1430,5 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[摸鱼搭积木]]></summary>
-    </entry>
-        <entry>
-        <title>使用 GPT-SoVITS WebAPI</title>
-        <id>146025</id>
-        <link href="https://mei.lv/articles/2026/gpt-sovits-api.html?utm_source=blogfinder" />
-        <published>2026-02-11T14:54:19+08:00</published>
-        <author>
-            <name>Mei 的网络日志</name>
-            <uri>https://mei.lv</uri>
-        </author>
-        <summary type="text"><![CDATA[使用 GPT-SoVITS WebAPI]]></summary>
-    </entry>
-        <entry>
-        <title>Oracle Cloud 自救指南：旧手机丢失后如何绕过 MFA 重新登录</title>
-        <id>146020</id>
-        <link href="https://wuqishi.com/oracle-cloud-selfrescue-guide-how-to-bypass-mfa-and-log-in-again/?utm_source=blogfinder" />
-        <published>2026-02-11T14:43:28+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Oracle Cloud 自救指南：旧手机丢失后如何绕过 MFA 重新登录]]></summary>
-    </entry>
-        <entry>
-        <title>Tvbox接口</title>
-        <id>146153</id>
-        <link href="https://www.wxy97.com/archives/019c4b5e-f290-72c6-8c48-4ab0a7a0783d?utm_source=blogfinder" />
-        <published>2026-02-11T14:26:11+08:00</published>
-        <author>
-            <name>王旭阳个人博客</name>
-            <uri>https://www.wxy97.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Tvbox接口]]></summary>
     </entry>
     </feed>
