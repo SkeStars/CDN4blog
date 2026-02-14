@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-14T18:00:25+08:00</updated>
+    <updated>2026-02-14T19:00:57+08:00</updated>
+        <entry>
+        <title>推荐一个国产好用的RSS订阅器</title>
+        <id>146363</id>
+        <link href="https://www.xiaocaoderijiben.online/archives/242?utm_source=blogfinder" />
+        <published>2026-02-14T15:51:29+08:00</published>
+        <author>
+            <name>小草的日记本</name>
+            <uri>https://www.xiaocaoderijiben.online</uri>
+        </author>
+        <summary type="text"><![CDATA[推荐一个国产好用的RSS订阅器]]></summary>
+    </entry>
+        <entry>
+        <title>又到了一年一度被问日本春节放不放假的时期了</title>
+        <id>146362</id>
+        <link href="https://www.wikimoe.com/post/ta7wt8bb?utm_source=blogfinder" />
+        <published>2026-02-14T15:08:53+08:00</published>
+        <author>
+            <name>维基萌</name>
+            <uri>https://www.wikimoe.com</uri>
+        </author>
+        <summary type="text"><![CDATA[又到了一年一度被问日本春节放不放假的时期了]]></summary>
+    </entry>
         <entry>
         <title>廿六年·十年尘·回望录-小人物自传，我的2016-2025年</title>
         <id>146356</id>
@@ -1452,27 +1474,5 @@
             <uri>https://www.xrbk.cn</uri>
         </author>
         <summary type="text"><![CDATA[使用View Transition api给模式切换添加过渡动画]]></summary>
-    </entry>
-        <entry>
-        <title>廿六年·岁杪寒·适配札</title>
-        <id>146033</id>
-        <link href="https://blog.52hyjs.com/post-1247.html?utm_source=blogfinder" />
-        <published>2026-02-11T18:37:00+08:00</published>
-        <author>
-            <name>幻影博客</name>
-            <uri>https://blog.52hyjs.com</uri>
-        </author>
-        <summary type="text"><![CDATA[廿六年·岁杪寒·适配札]]></summary>
-    </entry>
-        <entry>
-        <title>抱怨源于能力撑不住欲望</title>
-        <id>146028</id>
-        <link href="https://www.pgoj.top/archives/yuwangbaoyuan.html?utm_source=blogfinder" />
-        <published>2026-02-11T18:23:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[抱怨源于能力撑不住欲望]]></summary>
     </entry>
     </feed>
