@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-15T13:00:24+08:00</updated>
+    <updated>2026-02-15T14:00:24+08:00</updated>
         <entry>
         <title>【读书记1631】高尔斯华绥《苹果树》</title>
         <id>146390</id>
@@ -242,6 +242,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[坐水上巴士回家]]></summary>
+    </entry>
+        <entry>
+        <title>家里云服务优化：统一Web服务端口，减小攻击面</title>
+        <id>146405</id>
+        <link href="https://www.nekopara.uk/archives/Unified_Web_Service_Port.html?utm_source=blogfinder" />
+        <published>2026-02-14T17:00:00+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[家里云服务优化：统一Web服务端口，减小攻击面]]></summary>
     </entry>
         <entry>
         <title>再谈霞鹜文楷</title>
@@ -781,6 +792,17 @@
             <uri>https://iliu.org</uri>
         </author>
         <summary type="text"><![CDATA[相见欢，久住难：这一周的“兵荒马乱”与生活真相]]></summary>
+    </entry>
+        <entry>
+        <title>生活无法回滚</title>
+        <id>146406</id>
+        <link href="https://lilog.cn/archives/1206.html?utm_source=blogfinder" />
+        <published>2026-02-13T15:47:00+08:00</published>
+        <author>
+            <name>李的日志</name>
+            <uri>https://lilog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[生活无法回滚]]></summary>
     </entry>
         <entry>
         <title>过年流水账 0213</title>
@@ -1375,38 +1397,5 @@
             <uri>https://hejunjie.life</uri>
         </author>
         <summary type="text"><![CDATA[用 Go 实现一个可长期运行的 GitHub Webhook 服务实践]]></summary>
-    </entry>
-        <entry>
-        <title>Album#33 - Patch</title>
-        <id>146164</id>
-        <link href="https://taxodium.ink/album-33.html?utm_source=blogfinder" />
-        <published>2026-02-12T13:50:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[Album#33 - Patch]]></summary>
-    </entry>
-        <entry>
-        <title>游长春市南湖公园</title>
-        <id>146162</id>
-        <link href="https://www.jfsay.com/archives/3905.html?utm_source=blogfinder" />
-        <published>2026-02-12T13:32:00+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[游长春市南湖公园]]></summary>
-    </entry>
-        <entry>
-        <title>高考经历与认同《一九八四》</title>
-        <id>146170</id>
-        <link href="https://www.pgoj.top/archives/gaokaoxiaoshuo1984.html?utm_source=blogfinder" />
-        <published>2026-02-12T13:30:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[高考经历与认同《一九八四》]]></summary>
     </entry>
     </feed>
