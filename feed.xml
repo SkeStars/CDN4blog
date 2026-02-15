@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-15T17:02:20+08:00</updated>
+    <updated>2026-02-15T18:00:45+08:00</updated>
         <entry>
         <title>新年福袋特效</title>
         <id>146411</id>
@@ -209,6 +209,17 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[冬至（56/81）：给一个项目提出 issue]]></summary>
+    </entry>
+        <entry>
+        <title>WordPress 注册优化教学：实现填写密码注册</title>
+        <id>146413</id>
+        <link href="https://jyblog.cn/4873/?utm_source=blogfinder" />
+        <published>2026-02-14T22:20:46+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[WordPress 注册优化教学：实现填写密码注册]]></summary>
     </entry>
         <entry>
         <title>微软积分兑换了 400 元盒马礼品卡</title>
@@ -1342,49 +1353,5 @@
             <uri>https://www.52txr.cn</uri>
         </author>
         <summary type="text"><![CDATA[Office弹窗太大超出屏幕范围，导致找不到“确定”按钮，调整分辨率也无效的解决方案]]></summary>
-    </entry>
-        <entry>
-        <title>静态资源预压缩：零运行时开销，极致节省带宽</title>
-        <id>146197</id>
-        <link href="https://howiehz.top/archives/static-resource-precompression?utm_source=blogfinder" />
-        <published>2026-02-12T17:51:23+08:00</published>
-        <author>
-            <name>皓子的小站</name>
-            <uri>https://howiehz.top</uri>
-        </author>
-        <summary type="text"><![CDATA[静态资源预压缩：零运行时开销，极致节省带宽]]></summary>
-    </entry>
-        <entry>
-        <title>致青春，匆匆那年</title>
-        <id>146177</id>
-        <link href="https://www.aiwazi.com/2834.html?utm_source=blogfinder" />
-        <published>2026-02-12T17:34:38+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[致青春，匆匆那年]]></summary>
-    </entry>
-        <entry>
-        <title>简单说下我最近用 Claude Cowork 的体验</title>
-        <id>146229</id>
-        <link href="https://deusyu.app/posts/claude-cowork-trial/?utm_source=blogfinder" />
-        <published>2026-02-12T17:20:00+08:00</published>
-        <author>
-            <name>既往不恋</name>
-            <uri>https://deusyu.app</uri>
-        </author>
-        <summary type="text"><![CDATA[简单说下我最近用 Claude Cowork 的体验]]></summary>
-    </entry>
-        <entry>
-        <title>实战避坑：Java中彻底避免空指针异常（NPE）的代码写法</title>
-        <id>146194</id>
-        <link href="https://blog.8866321.xyz/Java/2-NullPointerException.html?utm_source=blogfinder" />
-        <published>2026-02-12T17:05:47+08:00</published>
-        <author>
-            <name>Andy</name>
-            <uri>https://blog.8866321.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[实战避坑：Java中彻底避免空指针异常（NPE）的代码写法]]></summary>
     </entry>
     </feed>
