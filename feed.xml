@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-15T11:01:32+08:00</updated>
+    <updated>2026-02-15T13:00:24+08:00</updated>
         <entry>
         <title>【读书记1631】高尔斯华绥《苹果树》</title>
         <id>146390</id>
@@ -22,6 +22,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1631】高尔斯华绥《苹果树》]]></summary>
+    </entry>
+        <entry>
+        <title>试了下让 AI Nano Banana Pro 自动生成文章封面图</title>
+        <id>146404</id>
+        <link href="https://www.wikimoe.com/post/tah9hks7?utm_source=blogfinder" />
+        <published>2026-02-15T10:13:14+08:00</published>
+        <author>
+            <name>维基萌</name>
+            <uri>https://www.wikimoe.com</uri>
+        </author>
+        <summary type="text"><![CDATA[试了下让 AI Nano Banana Pro 自动生成文章封面图]]></summary>
     </entry>
         <entry>
         <title>【阅读笔记】基于规则的清晰度评价值峰值搜索Development and real-time implementation of a rule-based auto-focus algorithm</title>
@@ -46,6 +57,17 @@
         <summary type="text"><![CDATA[葬礼的份子钱]]></summary>
     </entry>
         <entry>
+        <title>Winbtrfs权限设置问题</title>
+        <id>146403</id>
+        <link href="https://blog.mocn.top/posts/6602/?utm_source=blogfinder" />
+        <published>2026-02-15T09:22:00+08:00</published>
+        <author>
+            <name>莫莫逗狗</name>
+            <uri>https://blog.mocn.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Winbtrfs权限设置问题]]></summary>
+    </entry>
+        <entry>
         <title>来，查查你再物联网上的痕迹</title>
         <id>146387</id>
         <link href="https://www.suiyan.cc/blog/20260215010519?utm_source=blogfinder" />
@@ -66,6 +88,17 @@
             <uri>https://immarcus.com</uri>
         </author>
         <summary type="text"><![CDATA[2026.02.15 博客阅读周记]]></summary>
+    </entry>
+        <entry>
+        <title>年底了最后一次折腾</title>
+        <id>146393</id>
+        <link href="https://bestcherish.com/9642.html?utm_source=blogfinder" />
+        <published>2026-02-15T07:00:38+08:00</published>
+        <author>
+            <name>灰常记忆</name>
+            <uri>https://bestcherish.com</uri>
+        </author>
+        <summary type="text"><![CDATA[年底了最后一次折腾]]></summary>
     </entry>
         <entry>
         <title>悲催的年前，Linux与我。</title>
@@ -1375,82 +1408,5 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[高考经历与认同《一九八四》]]></summary>
-    </entry>
-        <entry>
-        <title>女人的血</title>
-        <id>146347</id>
-        <link href="https://cytrogen.icu/posts/df9e.html?utm_source=blogfinder" />
-        <published>2026-02-12T13:00:00+08:00</published>
-        <author>
-            <name>Cytrogen&#039;s Blog</name>
-            <uri>https://cytrogen.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[女人的血]]></summary>
-    </entry>
-        <entry>
-        <title>日寄 三十</title>
-        <id>146176</id>
-        <link href="https://cyrus19.cc/archives/1820?utm_source=blogfinder" />
-        <published>2026-02-12T12:45:55+08:00</published>
-        <author>
-            <name>CC 的数字花园</name>
-            <uri>https://cyrus19.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[日寄 三十]]></summary>
-    </entry>
-        <entry>
-        <title>告别亚马逊 SES：用 Bark 实现 FarBox 评论全层级即时通知</title>
-        <id>146169</id>
-        <link href="https://blog.nastree.cn/post/toss202602121205?utm_source=blogfinder" />
-        <published>2026-02-12T12:05:00+08:00</published>
-        <author>
-            <name>那是树</name>
-            <uri>https://blog.nastree.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[告别亚马逊 SES：用 Bark 实现 FarBox 评论全层级即时通知]]></summary>
-    </entry>
-        <entry>
-        <title>拖延症也有拖延症的好</title>
-        <id>146165</id>
-        <link href="https://blog.solazy.me/20260212/?utm_source=blogfinder" />
-        <published>2026-02-12T12:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[拖延症也有拖延症的好]]></summary>
-    </entry>
-        <entry>
-        <title>恰一碗情怀饭</title>
-        <id>146161</id>
-        <link href="https://zooyoo.top/article.php?id=29&amp;utm_source=blogfinder" />
-        <published>2026-02-12T11:54:05+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[恰一碗情怀饭]]></summary>
-    </entry>
-        <entry>
-        <title>12个让你直呼“相见恨晚”的神奇网站</title>
-        <id>146168</id>
-        <link href="https://ygz.ink/archives/4338.html?utm_source=blogfinder" />
-        <published>2026-02-12T11:48:11+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[12个让你直呼“相见恨晚”的神奇网站]]></summary>
-    </entry>
-        <entry>
-        <title>小年杂记</title>
-        <id>146166</id>
-        <link href="https://nxxy335.top/archives/geYvnd7O?utm_source=blogfinder" />
-        <published>2026-02-12T11:13:02+08:00</published>
-        <author>
-            <name>暖心向阳</name>
-            <uri>https://nxxy335.top</uri>
-        </author>
-        <summary type="text"><![CDATA[小年杂记]]></summary>
     </entry>
     </feed>
