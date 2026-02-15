@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-15T19:00:55+08:00</updated>
+    <updated>2026-02-15T21:01:43+08:00</updated>
+        <entry>
+        <title>爱娃子博客祝大家新春快乐！</title>
+        <id>146414</id>
+        <link href="https://www.aiwazi.com/2840.html?utm_source=blogfinder" />
+        <published>2026-02-15T19:02:49+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[爱娃子博客祝大家新春快乐！]]></summary>
+    </entry>
+        <entry>
+        <title>炭烧响螺🔥</title>
+        <id>146417</id>
+        <link href="https://7gugu.com/index.php/2026/02/15/%e7%82%ad%e7%83%a7%e5%93%8d%e8%9e%ba%f0%9f%94%a5/?utm_source=blogfinder" />
+        <published>2026-02-15T17:37:38+08:00</published>
+        <author>
+            <name>7gugu’s Blog</name>
+            <uri>https://7gugu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[炭烧响螺🔥]]></summary>
+    </entry>
         <entry>
         <title>新年福袋特效</title>
         <id>146411</id>
@@ -44,6 +66,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[哲学就是个狗屁]]></summary>
+    </entry>
+        <entry>
+        <title>回声周刊 Vol.9：用telnet上论坛</title>
+        <id>146415</id>
+        <link href="https://www.glowisle.me/posts/weekly/9/?utm_source=blogfinder" />
+        <published>2026-02-15T12:36:29+08:00</published>
+        <author>
+            <name>映屿</name>
+            <uri>https://www.glowisle.me</uri>
+        </author>
+        <summary type="text"><![CDATA[回声周刊 Vol.9：用telnet上论坛]]></summary>
     </entry>
         <entry>
         <title>简简单单整点吃的</title>
@@ -176,6 +209,17 @@
             <uri>https://loneapex.cn</uri>
         </author>
         <summary type="text"><![CDATA[悲催的年前，Linux与我。]]></summary>
+    </entry>
+        <entry>
+        <title>我与Emacs</title>
+        <id>146416</id>
+        <link href="https://www.glowisle.me/posts/emacs-and-i/?utm_source=blogfinder" />
+        <published>2026-02-15T01:23:54+08:00</published>
+        <author>
+            <name>映屿</name>
+            <uri>https://www.glowisle.me</uri>
+        </author>
+        <summary type="text"><![CDATA[我与Emacs]]></summary>
     </entry>
         <entry>
         <title>长大后的年</title>
@@ -1320,38 +1364,5 @@
             <uri>https://www.xiaocaoderijiben.online</uri>
         </author>
         <summary type="text"><![CDATA[摆脱内耗，成就自己]]></summary>
-    </entry>
-        <entry>
-        <title>关于有奖发票、元宝千问薅羊毛这些事</title>
-        <id>146178</id>
-        <link href="https://www.51it.wang/ll/2159?utm_source=blogfinder" />
-        <published>2026-02-12T20:38:24+08:00</published>
-        <author>
-            <name>Lcry</name>
-            <uri>https://www.51it.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[关于有奖发票、元宝千问薅羊毛这些事]]></summary>
-    </entry>
-        <entry>
-        <title>Falcom发布了新游戏《京都迷城 樱花幻舞》</title>
-        <id>146218</id>
-        <link href="https://www.wikimoe.com/post/ta4th257?utm_source=blogfinder" />
-        <published>2026-02-12T19:33:37+08:00</published>
-        <author>
-            <name>维基萌</name>
-            <uri>https://www.wikimoe.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Falcom发布了新游戏《京都迷城 樱花幻舞》]]></summary>
-    </entry>
-        <entry>
-        <title>Office弹窗太大超出屏幕范围，导致找不到“确定”按钮，调整分辨率也无效的解决方案</title>
-        <id>146181</id>
-        <link href="https://www.52txr.cn/2026/scaleoffice.html?utm_source=blogfinder" />
-        <published>2026-02-12T19:11:00+08:00</published>
-        <author>
-            <name>陶小桃</name>
-            <uri>https://www.52txr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Office弹窗太大超出屏幕范围，导致找不到“确定”按钮，调整分辨率也无效的解决方案]]></summary>
     </entry>
     </feed>
