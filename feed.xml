@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-15T22:00:24+08:00</updated>
+    <updated>2026-02-15T23:00:44+08:00</updated>
+        <entry>
+        <title>青城山，道法自然</title>
+        <id>146418</id>
+        <link href="https://www.chenrui.com/post/3478.html?utm_source=blogfinder" />
+        <published>2026-02-15T22:43:38+08:00</published>
+        <author>
+            <name>陈锐</name>
+            <uri>https://www.chenrui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[青城山，道法自然]]></summary>
+    </entry>
+        <entry>
+        <title>冬至（57/81）：除夕前的饭局</title>
+        <id>146419</id>
+        <link href="https://blog.mcenahle.org.cn/2026/02/15/424.html?utm_source=blogfinder" />
+        <published>2026-02-15T22:30:46+08:00</published>
+        <author>
+            <name>梅之夏</name>
+            <uri>https://blog.mcenahle.org.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[冬至（57/81）：除夕前的饭局]]></summary>
+    </entry>
         <entry>
         <title>爱娃子博客祝大家新春快乐！</title>
         <id>146414</id>
@@ -1276,49 +1298,5 @@
             <uri>https://ryqi.top</uri>
         </author>
         <summary type="text"><![CDATA[高考还有480天，我什么时候可以醒？ | 成绩分析]]></summary>
-    </entry>
-        <entry>
-        <title>Hugo 实现的短标签</title>
-        <id>146365</id>
-        <link href="https://www.jinjun.top/posts/hugo-short/?utm_source=blogfinder" />
-        <published>2026-02-12T22:30:00+08:00</published>
-        <author>
-            <name>钧言极客</name>
-            <uri>https://www.jinjun.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Hugo 实现的短标签]]></summary>
-    </entry>
-        <entry>
-        <title>不一样的吴克群：从《为你写诗》，到“为你记录”大地的烟火</title>
-        <id>146224</id>
-        <link href="https://blog.stoh.cc/post/377aa610.html?utm_source=blogfinder" />
-        <published>2026-02-12T22:28:00+08:00</published>
-        <author>
-            <name>SHI 記</name>
-            <uri>https://blog.stoh.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[不一样的吴克群：从《为你写诗》，到“为你记录”大地的烟火]]></summary>
-    </entry>
-        <entry>
-        <title>冬至（54/81）：午睡，口腔溃疡</title>
-        <id>146184</id>
-        <link href="https://blog.mcenahle.org.cn/2026/02/12/421.html?utm_source=blogfinder" />
-        <published>2026-02-12T22:20:54+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[冬至（54/81）：午睡，口腔溃疡]]></summary>
-    </entry>
-        <entry>
-        <title>十年前的今天，我在维基萌上发布了第一篇正式的文章《【jQuery】两端对联广告》</title>
-        <id>146217</id>
-        <link href="https://www.wikimoe.com/post/tacnlyei?utm_source=blogfinder" />
-        <published>2026-02-12T22:15:34+08:00</published>
-        <author>
-            <name>维基萌</name>
-            <uri>https://www.wikimoe.com</uri>
-        </author>
-        <summary type="text"><![CDATA[十年前的今天，我在维基萌上发布了第一篇正式的文章《【jQuery】两端对联广告》]]></summary>
     </entry>
     </feed>
