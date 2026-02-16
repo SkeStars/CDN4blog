@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-16T21:00:59+08:00</updated>
+    <updated>2026-02-16T23:00:26+08:00</updated>
+        <entry>
+        <title>冬至（58/81）：迎春节</title>
+        <id>146497</id>
+        <link href="https://blog.mcenahle.org.cn/2026/02/16/425.html?utm_source=blogfinder" />
+        <published>2026-02-16T22:18:47+08:00</published>
+        <author>
+            <name>梅之夏</name>
+            <uri>https://blog.mcenahle.org.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[冬至（58/81）：迎春节]]></summary>
+    </entry>
+        <entry>
+        <title>2026 除夕夜完成了博客网站从 php laravel 到 golang gin 的重构</title>
+        <id>146495</id>
+        <link href="https://www.sunzhongwei.com/2026-blog-refactor-php-laravel-to-golang-gin?utm_source=blogfinder" />
+        <published>2026-02-16T21:08:06+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026 除夕夜完成了博客网站从 php laravel 到 golang gin 的重构]]></summary>
+    </entry>
+        <entry>
+        <title>我的项目没上线，但已经重构三遍了</title>
+        <id>146499</id>
+        <link href="https://www.puresky.top/archives/IjibfK79?utm_source=blogfinder" />
+        <published>2026-02-16T20:18:26+08:00</published>
+        <author>
+            <name>轻雅阁</name>
+            <uri>https://www.puresky.top</uri>
+        </author>
+        <summary type="text"><![CDATA[我的项目没上线，但已经重构三遍了]]></summary>
+    </entry>
         <entry>
         <title>我家的第一台电视源于春晚</title>
         <id>146490</id>
@@ -24,6 +57,39 @@
         <summary type="text"><![CDATA[我家的第一台电视源于春晚]]></summary>
     </entry>
         <entry>
+        <title>广场游乐场见闻</title>
+        <id>146501</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1099&amp;utm_source=blogfinder" />
+        <published>2026-02-16T19:11:32+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[广场游乐场见闻]]></summary>
+    </entry>
+        <entry>
+        <title>转个弯弯就到屋</title>
+        <id>146500</id>
+        <link href="https://airy.ink/daily/424?utm_source=blogfinder" />
+        <published>2026-02-16T19:10:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[转个弯弯就到屋]]></summary>
+    </entry>
+        <entry>
+        <title>岁序更新，马到成功</title>
+        <id>146502</id>
+        <link href="https://zooyoo.top/article.php?id=31&amp;utm_source=blogfinder" />
+        <published>2026-02-16T18:13:49+08:00</published>
+        <author>
+            <name>热衷于的博客</name>
+            <uri>https://zooyoo.top</uri>
+        </author>
+        <summary type="text"><![CDATA[岁序更新，马到成功]]></summary>
+    </entry>
+        <entry>
         <title>除夕快乐！</title>
         <id>146492</id>
         <link href="https://nxxy335.top/archives/UVVNcPkO?utm_source=blogfinder" />
@@ -33,6 +99,28 @@
             <uri>https://nxxy335.top</uri>
         </author>
         <summary type="text"><![CDATA[除夕快乐！]]></summary>
+    </entry>
+        <entry>
+        <title>绽放1999年的烟花</title>
+        <id>146503</id>
+        <link href="https://zooyoo.top/article.php?id=30&amp;utm_source=blogfinder" />
+        <published>2026-02-16T17:51:48+08:00</published>
+        <author>
+            <name>热衷于的博客</name>
+            <uri>https://zooyoo.top</uri>
+        </author>
+        <summary type="text"><![CDATA[绽放1999年的烟花]]></summary>
+    </entry>
+        <entry>
+        <title>2026.02 近况、农历生日、除夕</title>
+        <id>146498</id>
+        <link href="https://blog.moeworld.tech/2026/02/16/2026-02-%e8%bf%91%e5%86%b5%e3%80%81%e5%86%9c%e5%8e%86%e7%94%9f%e6%97%a5%e3%80%81%e9%99%a4%e5%a4%95/?utm_source=blogfinder" />
+        <published>2026-02-16T16:28:17+08:00</published>
+        <author>
+            <name>晓空 Blog</name>
+            <uri>https://blog.moeworld.tech</uri>
+        </author>
+        <summary type="text"><![CDATA[2026.02 近况、农历生日、除夕]]></summary>
     </entry>
         <entry>
         <title>除夕碎记</title>
@@ -101,6 +189,17 @@
         <summary type="text"><![CDATA[松声｜廿六年·二月中·迎新春]]></summary>
     </entry>
         <entry>
+        <title>乙巳观影记录</title>
+        <id>146496</id>
+        <link href="https://pewae.com/2026/02/records-of-movies-2025.html?utm_source=blogfinder" />
+        <published>2026-02-16T13:36:37+08:00</published>
+        <author>
+            <name>破袜子</name>
+            <uri>https://pewae.com</uri>
+        </author>
+        <summary type="text"><![CDATA[乙巳观影记录]]></summary>
+    </entry>
+        <entry>
         <title>用 AI 辅助读书</title>
         <id>146482</id>
         <link href="https://blog.codingnow.com/2026/02/ai_reading.html?utm_source=blogfinder" />
@@ -132,6 +231,17 @@
             <uri>https://jackie.openenet.cn</uri>
         </author>
         <summary type="text"><![CDATA[【BA8AHF】如何让自己可刑可铐（六）：整活向｜全向宽带双锥天线，覆盖越广，“刑期”越长]]></summary>
+    </entry>
+        <entry>
+        <title>十年乐视退休，新年换新机｜TCL雷鸟鹤6 26 款</title>
+        <id>146494</id>
+        <link href="https://www.wanghao.me/shinianleshituixiuxinnianhuanxinjitclleiniaohe6-26-kuan.html?utm_source=blogfinder" />
+        <published>2026-02-16T11:13:33+08:00</published>
+        <author>
+            <name>小王子</name>
+            <uri>https://www.wanghao.me</uri>
+        </author>
+        <summary type="text"><![CDATA[十年乐视退休，新年换新机｜TCL雷鸟鹤6 26 款]]></summary>
     </entry>
         <entry>
         <title>NanoBananaPro真的好强啊！</title>
@@ -253,6 +363,17 @@
             <uri>https://aciano.top</uri>
         </author>
         <summary type="text"><![CDATA[人生中点处的自述：写在十八岁]]></summary>
+    </entry>
+        <entry>
+        <title>如何开启mysql的optimizer trace</title>
+        <id>146493</id>
+        <link href="https://nicksxs.me/2026/02/15/%E5%A6%82%E4%BD%95%E5%BC%80%E5%90%AFmysql%E7%9A%84optimizer-trace/?utm_source=blogfinder" />
+        <published>2026-02-15T22:51:13+08:00</published>
+        <author>
+            <name>Nicksxs&#039;s Blog</name>
+            <uri>https://nicksxs.me</uri>
+        </author>
+        <summary type="text"><![CDATA[如何开启mysql的optimizer trace]]></summary>
     </entry>
         <entry>
         <title>青城山，道法自然</title>
@@ -1254,104 +1375,5 @@
             <uri>https://hulatu.com</uri>
         </author>
         <summary type="text"><![CDATA[不是自己的东西，别轻易处理。]]></summary>
-    </entry>
-        <entry>
-        <title>网页即列表！</title>
-        <id>146344</id>
-        <link href="https://www.geedea.pro/posts/webpage-as-lists/?utm_source=blogfinder" />
-        <published>2026-02-13T22:30:17+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[网页即列表！]]></summary>
-    </entry>
-        <entry>
-        <title>冬至（55/81）：凌晨的挣扎入睡</title>
-        <id>146236</id>
-        <link href="https://blog.mcenahle.org.cn/2026/02/13/422.html?utm_source=blogfinder" />
-        <published>2026-02-13T22:25:32+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[冬至（55/81）：凌晨的挣扎入睡]]></summary>
-    </entry>
-        <entry>
-        <title>马年限定“马上发财”徽章上线</title>
-        <id>146242</id>
-        <link href="https://zhujay.com/talking/?id=1196&amp;utm_source=blogfinder" />
-        <published>2026-02-13T22:14:24+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[马年限定“马上发财”徽章上线]]></summary>
-    </entry>
-        <entry>
-        <title>当白名单成为常态：个人跨境访问的趋势与可持续性分析</title>
-        <id>146240</id>
-        <link href="http://blog.tangwudi.com/technology/homedatacenter14083/?utm_source=blogfinder" />
-        <published>2026-02-13T21:59:41+08:00</published>
-        <author>
-            <name>无敌的个人博客</name>
-            <uri>https://blog.tangwudi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[当白名单成为常态：个人跨境访问的趋势与可持续性分析]]></summary>
-    </entry>
-        <entry>
-        <title>20260212</title>
-        <id>146239</id>
-        <link href="https://61.life/2026/0212?utm_source=blogfinder" />
-        <published>2026-02-13T21:44:17+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260212]]></summary>
-    </entry>
-        <entry>
-        <title>2025年度总结</title>
-        <id>146428</id>
-        <link href="https://blog.hzchu.top/2026/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/?utm_source=blogfinder" />
-        <published>2026-02-13T21:37:01+08:00</published>
-        <author>
-            <name>Thun888&#039;s Blog</name>
-            <uri>https://blog.hzchu.top</uri>
-        </author>
-        <summary type="text"><![CDATA[2025年度总结]]></summary>
-    </entry>
-        <entry>
-        <title>过年兄弟们聚会</title>
-        <id>146316</id>
-        <link href="https://xsmy.wang/1349.html?utm_source=blogfinder" />
-        <published>2026-02-13T21:28:36+08:00</published>
-        <author>
-            <name>相思明月</name>
-            <uri>https://xsmy.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[过年兄弟们聚会]]></summary>
-    </entry>
-        <entry>
-        <title>小酌配乡爱，快乐最自在</title>
-        <id>146357</id>
-        <link href="https://blog.pet111.cn/archives/518/?utm_source=blogfinder" />
-        <published>2026-02-13T21:27:00+08:00</published>
-        <author>
-            <name>小生博客</name>
-            <uri>https://blog.pet111.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[小酌配乡爱，快乐最自在]]></summary>
-    </entry>
-        <entry>
-        <title>《随风飘荡的毛》</title>
-        <id>146233</id>
-        <link href="https://www.weiwenchao.com/2325.html?utm_source=blogfinder" />
-        <published>2026-02-13T21:15:00+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《随风飘荡的毛》]]></summary>
     </entry>
     </feed>
