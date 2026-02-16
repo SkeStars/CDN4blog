@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-16T17:00:24+08:00</updated>
+    <updated>2026-02-16T18:01:33+08:00</updated>
         <entry>
         <title>除夕碎记</title>
         <id>146481</id>
@@ -35,6 +35,50 @@
         <summary type="text"><![CDATA[祝大家除夕快乐｜辞暮尔尔 烟火年年]]></summary>
     </entry>
         <entry>
+        <title>除夕快乐啊~年终总结来了~</title>
+        <id>146484</id>
+        <link href="https://jyblog.cn/4897/?utm_source=blogfinder" />
+        <published>2026-02-16T14:27:00+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[除夕快乐啊~年终总结来了~]]></summary>
+    </entry>
+        <entry>
+        <title>回顾一下十年前沃通的 SSL 证书被吊销的那些事</title>
+        <id>146485</id>
+        <link href="https://jyblog.cn/4891/?utm_source=blogfinder" />
+        <published>2026-02-16T13:57:57+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[回顾一下十年前沃通的 SSL 证书被吊销的那些事]]></summary>
+    </entry>
+        <entry>
+        <title>松声｜廿六年·二月中·迎新春</title>
+        <id>146483</id>
+        <link href="https://xyzbz.cn/archives/1515/?utm_source=blogfinder" />
+        <published>2026-02-16T13:54:00+08:00</published>
+        <author>
+            <name>网友小宋</name>
+            <uri>https://xyzbz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[松声｜廿六年·二月中·迎新春]]></summary>
+    </entry>
+        <entry>
+        <title>用 AI 辅助读书</title>
+        <id>146482</id>
+        <link href="https://blog.codingnow.com/2026/02/ai_reading.html?utm_source=blogfinder" />
+        <published>2026-02-16T13:23:19+08:00</published>
+        <author>
+            <name>云风的 BLOG</name>
+            <uri>https://blog.codingnow.com</uri>
+        </author>
+        <summary type="text"><![CDATA[用 AI 辅助读书]]></summary>
+    </entry>
+        <entry>
         <title>宗宗酱博客祝大家新年快乐</title>
         <id>146480</id>
         <link href="https://ygz.ink/archives/4380.html?utm_source=blogfinder" />
@@ -55,6 +99,17 @@
             <uri>https://jackie.openenet.cn</uri>
         </author>
         <summary type="text"><![CDATA[【BA8AHF】如何让自己可刑可铐（六）：整活向｜全向宽带双锥天线，覆盖越广，“刑期”越长]]></summary>
+    </entry>
+        <entry>
+        <title>NanoBananaPro真的好强啊！</title>
+        <id>146486</id>
+        <link href="https://7gugu.com/index.php/2026/02/16/nanobananapro%e7%9c%9f%e7%9a%84%e5%a5%bd%e5%bc%ba%e5%95%8a%ef%bc%81/?utm_source=blogfinder" />
+        <published>2026-02-16T11:13:00+08:00</published>
+        <author>
+            <name>7gugu’s Blog</name>
+            <uri>https://7gugu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[NanoBananaPro真的好强啊！]]></summary>
     </entry>
         <entry>
         <title>【读书记1632】朱生豪译莎士比亚《奥赛罗》</title>
@@ -1298,16 +1353,5 @@
             <uri>https://blog.pursuitus.com</uri>
         </author>
         <summary type="text"><![CDATA[Canon Autoboy F XL胶卷相机]]></summary>
-    </entry>
-        <entry>
-        <title>两部电影的观影随笔</title>
-        <id>146359</id>
-        <link href="https://deusyu.app/posts/cinema-time-existence/?utm_source=blogfinder" />
-        <published>2026-02-13T17:10:00+08:00</published>
-        <author>
-            <name>既往不恋</name>
-            <uri>https://deusyu.app</uri>
-        </author>
-        <summary type="text"><![CDATA[两部电影的观影随笔]]></summary>
     </entry>
     </feed>
