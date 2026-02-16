@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-16T23:00:26+08:00</updated>
+    <updated>2026-02-17T00:00:44+08:00</updated>
+        <entry>
+        <title>春节快乐</title>
+        <id>146508</id>
+        <link href="https://blog.kfdzcoffee.cn/archives/cny2026?utm_source=blogfinder" />
+        <published>2026-02-17T00:00:00+08:00</published>
+        <author>
+            <name>咖啡豆子 coffee 的小站</name>
+            <uri>https://blog.kfdzcoffee.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[春节快乐]]></summary>
+    </entry>
+        <entry>
+        <title>20260215</title>
+        <id>146504</id>
+        <link href="https://61.life/2026/0215?utm_source=blogfinder" />
+        <published>2026-02-16T23:01:00+08:00</published>
+        <author>
+            <name>61’s life</name>
+            <uri>https://61.life</uri>
+        </author>
+        <summary type="text"><![CDATA[20260215]]></summary>
+    </entry>
+        <entry>
+        <title>20260214</title>
+        <id>146505</id>
+        <link href="https://61.life/2026/0214?utm_source=blogfinder" />
+        <published>2026-02-16T22:47:46+08:00</published>
+        <author>
+            <name>61’s life</name>
+            <uri>https://61.life</uri>
+        </author>
+        <summary type="text"><![CDATA[20260214]]></summary>
+    </entry>
         <entry>
         <title>冬至（58/81）：迎春节</title>
         <id>146497</id>
@@ -44,6 +77,17 @@
             <uri>https://www.puresky.top</uri>
         </author>
         <summary type="text"><![CDATA[我的项目没上线，但已经重构三遍了]]></summary>
+    </entry>
+        <entry>
+        <title>HGAME 2026 WriteUp</title>
+        <id>146506</id>
+        <link href="https://www.xiaozonglin.cn/hgame-2026-writeup/?utm_source=blogfinder" />
+        <published>2026-02-16T20:00:00+08:00</published>
+        <author>
+            <name>林林杂语</name>
+            <uri>https://www.xiaozonglin.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[HGAME 2026 WriteUp]]></summary>
     </entry>
         <entry>
         <title>我家的第一台电视源于春晚</title>
@@ -99,6 +143,17 @@
             <uri>https://nxxy335.top</uri>
         </author>
         <summary type="text"><![CDATA[除夕快乐！]]></summary>
+    </entry>
+        <entry>
+        <title>过年流水账 0216</title>
+        <id>146517</id>
+        <link href="https://blog.solazy.me/20260216/?utm_source=blogfinder" />
+        <published>2026-02-16T18:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[过年流水账 0216]]></summary>
     </entry>
         <entry>
         <title>绽放1999年的烟花</title>
@@ -209,6 +264,17 @@
             <uri>https://blog.codingnow.com</uri>
         </author>
         <summary type="text"><![CDATA[用 AI 辅助读书]]></summary>
+    </entry>
+        <entry>
+        <title>新年新气象：网站快一点，再快一点</title>
+        <id>146507</id>
+        <link href="https://www.xiaozonglin.cn/be-faster-even-faster/?utm_source=blogfinder" />
+        <published>2026-02-16T12:28:02+08:00</published>
+        <author>
+            <name>林林杂语</name>
+            <uri>https://www.xiaozonglin.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[新年新气象：网站快一点，再快一点]]></summary>
     </entry>
         <entry>
         <title>宗宗酱博客祝大家新年快乐</title>
@@ -429,6 +495,28 @@
             <uri>https://wuminboke.site</uri>
         </author>
         <summary type="text"><![CDATA[Remotely – 群晖 NAS 自建免费远程控制软件]]></summary>
+    </entry>
+        <entry>
+        <title>HGAME 2026</title>
+        <id>146509</id>
+        <link href="https://www.aristore.top/posts/HGAME2026/?utm_source=blogfinder" />
+        <published>2026-02-15T20:00:00+08:00</published>
+        <author>
+            <name>Aristore</name>
+            <uri>https://www.aristore.top</uri>
+        </author>
+        <summary type="text"><![CDATA[HGAME 2026]]></summary>
+    </entry>
+        <entry>
+        <title>SHCTF2025 misc-ezAI</title>
+        <id>146510</id>
+        <link href="https://www.aristore.top/posts/SHCTF2025_ezAI/?utm_source=blogfinder" />
+        <published>2026-02-15T19:30:00+08:00</published>
+        <author>
+            <name>Aristore</name>
+            <uri>https://www.aristore.top</uri>
+        </author>
+        <summary type="text"><![CDATA[SHCTF2025 misc-ezAI]]></summary>
     </entry>
         <entry>
         <title>爱娃子博客祝大家新春快乐！</title>
@@ -1331,49 +1419,5 @@
             <uri>https://jackie.openenet.cn</uri>
         </author>
         <summary type="text"><![CDATA[【BA8AHF】如何让自己可刑可铐（四）：整活向｜玩转倒置卡塞格伦天线，空战雷达级 “加刑” 拉满]]></summary>
-    </entry>
-        <entry>
-        <title>How to self-host Forgejo with docker on Ubuntu 24.04</title>
-        <id>146378</id>
-        <link href="https://tianheg.co/posts/forgejo-self-host/?utm_source=blogfinder" />
-        <published>2026-02-14T00:00:00+08:00</published>
-        <author>
-            <name>一大加贝</name>
-            <uri>https://tianheg.co</uri>
-        </author>
-        <summary type="text"><![CDATA[How to self-host Forgejo with docker on Ubuntu 24.04]]></summary>
-    </entry>
-        <entry>
-        <title>20260213</title>
-        <id>146238</id>
-        <link href="https://61.life/2026/0213?utm_source=blogfinder" />
-        <published>2026-02-13T23:50:13+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260213]]></summary>
-    </entry>
-        <entry>
-        <title>照顾外公生病的这两天</title>
-        <id>146349</id>
-        <link href="https://www.52txr.cn/2026/waigongshengbing.html?utm_source=blogfinder" />
-        <published>2026-02-13T23:46:00+08:00</published>
-        <author>
-            <name>陶小桃</name>
-            <uri>https://www.52txr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[照顾外公生病的这两天]]></summary>
-    </entry>
-        <entry>
-        <title>不是自己的东西，别轻易处理。</title>
-        <id>146243</id>
-        <link href="https://hulatu.com/daily/do-not-handle-others-things-lightly./?utm_source=blogfinder" />
-        <published>2026-02-13T23:06:56+08:00</published>
-        <author>
-            <name>胡拉图的后花园</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[不是自己的东西，别轻易处理。]]></summary>
     </entry>
     </feed>
