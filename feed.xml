@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-17T16:00:44+08:00</updated>
+    <updated>2026-02-17T17:00:29+08:00</updated>
+        <entry>
+        <title>岁次丙午，金马昂首</title>
+        <id>146545</id>
+        <link href="https://blog.stoh.cc/post/765c4d58.html?utm_source=blogfinder" />
+        <published>2026-02-17T13:49:11+08:00</published>
+        <author>
+            <name>SHI 記</name>
+            <uri>https://blog.stoh.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[岁次丙午，金马昂首]]></summary>
+    </entry>
         <entry>
         <title>【ISP】基于暗通道先验改进的红外图像透雾</title>
         <id>146535</id>
@@ -330,6 +341,17 @@
             <uri>https://zooyoo.top</uri>
         </author>
         <summary type="text"><![CDATA[绽放1999年的烟花]]></summary>
+    </entry>
+        <entry>
+        <title>新年快乐</title>
+        <id>146544</id>
+        <link href="https://ihaihe.cn/3510.htm?utm_source=blogfinder" />
+        <published>2026-02-16T17:19:13+08:00</published>
+        <author>
+            <name>三十里海河</name>
+            <uri>https://ihaihe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[新年快乐]]></summary>
     </entry>
         <entry>
         <title>成事的关键</title>
@@ -1364,38 +1386,5 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[坐水上巴士回家]]></summary>
-    </entry>
-        <entry>
-        <title>家里云服务优化：统一Web服务端口，减小攻击面</title>
-        <id>146405</id>
-        <link href="https://www.nekopara.uk/archives/Unified_Web_Service_Port.html?utm_source=blogfinder" />
-        <published>2026-02-14T17:00:00+08:00</published>
-        <author>
-            <name>GTX690 战术核显卡导弹</name>
-            <uri>https://www.nekopara.uk</uri>
-        </author>
-        <summary type="text"><![CDATA[家里云服务优化：统一Web服务端口，减小攻击面]]></summary>
-    </entry>
-        <entry>
-        <title>再谈霞鹜文楷</title>
-        <id>146379</id>
-        <link href="https://yinji.org/lxgw-wenkai.html?utm_source=blogfinder" />
-        <published>2026-02-14T16:56:19+08:00</published>
-        <author>
-            <name>印记</name>
-            <uri>https://yinji.org</uri>
-        </author>
-        <summary type="text"><![CDATA[再谈霞鹜文楷]]></summary>
-    </entry>
-        <entry>
-        <title>考锹</title>
-        <id>146370</id>
-        <link href="https://www.geedea.pro/colophon/?utm_source=blogfinder" />
-        <published>2026-02-14T16:29:46+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[考锹]]></summary>
     </entry>
     </feed>
