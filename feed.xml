@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-17T13:00:42+08:00</updated>
+    <updated>2026-02-17T14:00:22+08:00</updated>
         <entry>
         <title>【ISP】基于暗通道先验改进的红外图像透雾</title>
         <id>146535</id>
@@ -22,6 +22,17 @@
             <uri>https://www.aomanhao.top</uri>
         </author>
         <summary type="text"><![CDATA[【ISP】基于暗通道先验改进的红外图像透雾]]></summary>
+    </entry>
+        <entry>
+        <title>武侯祠，古今多少事</title>
+        <id>146540</id>
+        <link href="https://www.chenrui.com/post/3479.html?utm_source=blogfinder" />
+        <published>2026-02-17T10:22:33+08:00</published>
+        <author>
+            <name>陈锐</name>
+            <uri>https://www.chenrui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[武侯祠，古今多少事]]></summary>
     </entry>
         <entry>
         <title>乞讨 I</title>
@@ -440,6 +451,17 @@
             <uri>https://blog.codingnow.com</uri>
         </author>
         <summary type="text"><![CDATA[用 AI 辅助读书]]></summary>
+    </entry>
+        <entry>
+        <title>4 个字符为一组构成的城市</title>
+        <id>146541</id>
+        <link href="https://cytrogen.icu/posts/cf35.html?utm_source=blogfinder" />
+        <published>2026-02-16T13:00:00+08:00</published>
+        <author>
+            <name>Cytrogen&#039;s Blog</name>
+            <uri>https://cytrogen.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[4 个字符为一组构成的城市]]></summary>
     </entry>
         <entry>
         <title>新年新气象：网站快一点，再快一点</title>
@@ -992,6 +1014,17 @@
         <summary type="text"><![CDATA[游长春历史文化博物馆、新民大街冰雕冰滑梯]]></summary>
     </entry>
         <entry>
+        <title>玩《茂林源记》</title>
+        <id>146542</id>
+        <link href="https://cytrogen.icu/posts/cc52.html?utm_source=blogfinder" />
+        <published>2026-02-15T13:00:00+08:00</published>
+        <author>
+            <name>Cytrogen&#039;s Blog</name>
+            <uri>https://cytrogen.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[玩《茂林源记》]]></summary>
+    </entry>
+        <entry>
         <title>回声周刊 Vol.9：用telnet上论坛</title>
         <id>146415</id>
         <link href="https://www.glowisle.me/posts/weekly/9/?utm_source=blogfinder" />
@@ -1386,27 +1419,5 @@
             <uri>https://www.wikimoe.com</uri>
         </author>
         <summary type="text"><![CDATA[又到了一年一度被问日本春节放不放假的时期了]]></summary>
-    </entry>
-        <entry>
-        <title>廿六年·十年尘·回望录-小人物自传，我的2016-2025年</title>
-        <id>146356</id>
-        <link href="https://blog.52hyjs.com/post-992.html?utm_source=blogfinder" />
-        <published>2026-02-14T14:00:00+08:00</published>
-        <author>
-            <name>幻影博客</name>
-            <uri>https://blog.52hyjs.com</uri>
-        </author>
-        <summary type="text"><![CDATA[廿六年·十年尘·回望录-小人物自传，我的2016-2025年]]></summary>
-    </entry>
-        <entry>
-        <title>不用插件实现WordPress关闭”自动保存”、”文章修订版本”两个功能，从而让文章ID数字连续</title>
-        <id>146360</id>
-        <link href="https://www.bat69.com/20260214/%e4%b8%8d%e7%94%a8%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0wordpress%e5%85%b3%e9%97%ad%e8%87%aa%e5%8a%a8%e4%bf%9d%e5%ad%98%e3%80%81%e6%96%87%e7%ab%a0%e4%bf%ae%e8%ae%a2%e7%89%88%e6%9c%ac%e4%b8%a4.html?utm_source=blogfinder" />
-        <published>2026-02-14T13:50:18+08:00</published>
-        <author>
-            <name>严重浪漫</name>
-            <uri>https://www.bat69.com</uri>
-        </author>
-        <summary type="text"><![CDATA[不用插件实现WordPress关闭”自动保存”、”文章修订版本”两个功能，从而让文章ID数字连续]]></summary>
     </entry>
     </feed>
