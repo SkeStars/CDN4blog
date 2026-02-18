@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-18T19:01:07+08:00</updated>
+    <updated>2026-02-18T20:00:23+08:00</updated>
         <entry>
         <title>往事种种都随烟而去</title>
         <id>146606</id>
@@ -220,6 +220,17 @@
             <uri>https://www.xuezhao.space</uri>
         </author>
         <summary type="text"><![CDATA[在裂缝中见光，在艰难中前行 —— 2025个人年度总结（非工作向）]]></summary>
+    </entry>
+        <entry>
+        <title>丙午马年到！</title>
+        <id>146608</id>
+        <link href="https://meledee.com/2026/02/4753.html?utm_source=blogfinder" />
+        <published>2026-02-17T22:37:34+08:00</published>
+        <author>
+            <name>美樂地</name>
+            <uri>https://meledee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[丙午马年到！]]></summary>
     </entry>
         <entry>
         <title>20260216</title>
@@ -1364,38 +1375,5 @@
             <uri>https://wuminboke.site</uri>
         </author>
         <summary type="text"><![CDATA[Remotely – 群晖 NAS 自建免费远程控制软件]]></summary>
-    </entry>
-        <entry>
-        <title>HGAME 2026</title>
-        <id>146509</id>
-        <link href="https://www.aristore.top/posts/HGAME2026/?utm_source=blogfinder" />
-        <published>2026-02-15T20:00:00+08:00</published>
-        <author>
-            <name>Aristore</name>
-            <uri>https://www.aristore.top</uri>
-        </author>
-        <summary type="text"><![CDATA[HGAME 2026]]></summary>
-    </entry>
-        <entry>
-        <title>SHCTF2025 misc-ezAI</title>
-        <id>146510</id>
-        <link href="https://www.aristore.top/posts/SHCTF2025_ezAI/?utm_source=blogfinder" />
-        <published>2026-02-15T19:30:00+08:00</published>
-        <author>
-            <name>Aristore</name>
-            <uri>https://www.aristore.top</uri>
-        </author>
-        <summary type="text"><![CDATA[SHCTF2025 misc-ezAI]]></summary>
-    </entry>
-        <entry>
-        <title>爱娃子博客祝大家新春快乐！</title>
-        <id>146414</id>
-        <link href="https://www.aiwazi.com/2840.html?utm_source=blogfinder" />
-        <published>2026-02-15T19:02:49+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[爱娃子博客祝大家新春快乐！]]></summary>
     </entry>
     </feed>
