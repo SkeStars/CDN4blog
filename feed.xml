@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-18T21:00:52+08:00</updated>
+    <updated>2026-02-18T23:01:38+08:00</updated>
+        <entry>
+        <title>冬至（60/81）：Python 自学一阶段完成</title>
+        <id>146611</id>
+        <link href="https://blog.mcenahle.org.cn/2026/02/18/427.html?utm_source=blogfinder" />
+        <published>2026-02-18T22:23:10+08:00</published>
+        <author>
+            <name>梅之夏</name>
+            <uri>https://blog.mcenahle.org.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[冬至（60/81）：Python 自学一阶段完成]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1633】朱生豪译莎士比亚《李尔王》</title>
+        <id>146609</id>
+        <link href="http://www.qncd.com/?p=12505&amp;utm_source=blogfinder" />
+        <published>2026-02-18T20:12:00+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1633】朱生豪译莎士比亚《李尔王》]]></summary>
+    </entry>
+        <entry>
+        <title>他人的NPC、自我的主角</title>
+        <id>146612</id>
+        <link href="https://blog.hantaotao.top/archives/197/?utm_source=blogfinder" />
+        <published>2026-02-18T19:50:00+08:00</published>
+        <author>
+            <name>一世繁华</name>
+            <uri>https://blog.hantaotao.top</uri>
+        </author>
+        <summary type="text"><![CDATA[他人的NPC、自我的主角]]></summary>
+    </entry>
         <entry>
         <title>往事种种都随烟而去</title>
         <id>146606</id>
@@ -22,6 +55,17 @@
             <uri>https://airy.ink</uri>
         </author>
         <summary type="text"><![CDATA[往事种种都随烟而去]]></summary>
+    </entry>
+        <entry>
+        <title>CI/CD实践：用GitHub Actions实现博客内容自动推送IndexNow</title>
+        <id>146610</id>
+        <link href="https://jackie.openenet.cn/cicd-actions-indexnow/?utm_source=blogfinder" />
+        <published>2026-02-18T16:28:19+08:00</published>
+        <author>
+            <name>Jackie&#039;s Blog</name>
+            <uri>https://jackie.openenet.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[CI/CD实践：用GitHub Actions实现博客内容自动推送IndexNow]]></summary>
     </entry>
         <entry>
         <title>不走亲戚不回老家的过年还是爽歪歪的</title>
@@ -1309,60 +1353,5 @@
             <uri>https://aciano.top</uri>
         </author>
         <summary type="text"><![CDATA[人生中点处的自述：写在十八岁]]></summary>
-    </entry>
-        <entry>
-        <title>如何开启mysql的optimizer trace</title>
-        <id>146493</id>
-        <link href="https://nicksxs.me/2026/02/15/%E5%A6%82%E4%BD%95%E5%BC%80%E5%90%AFmysql%E7%9A%84optimizer-trace/?utm_source=blogfinder" />
-        <published>2026-02-15T22:51:13+08:00</published>
-        <author>
-            <name>Nicksxs&#039;s Blog</name>
-            <uri>https://nicksxs.me</uri>
-        </author>
-        <summary type="text"><![CDATA[如何开启mysql的optimizer trace]]></summary>
-    </entry>
-        <entry>
-        <title>青城山，道法自然</title>
-        <id>146418</id>
-        <link href="https://www.chenrui.com/post/3478.html?utm_source=blogfinder" />
-        <published>2026-02-15T22:43:38+08:00</published>
-        <author>
-            <name>陈锐</name>
-            <uri>https://www.chenrui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[青城山，道法自然]]></summary>
-    </entry>
-        <entry>
-        <title>冬至（57/81）：除夕前的饭局</title>
-        <id>146419</id>
-        <link href="https://blog.mcenahle.org.cn/2026/02/15/424.html?utm_source=blogfinder" />
-        <published>2026-02-15T22:30:46+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[冬至（57/81）：除夕前的饭局]]></summary>
-    </entry>
-        <entry>
-        <title>生活碎碎念：我与老家的年</title>
-        <id>146423</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1073/?utm_source=blogfinder" />
-        <published>2026-02-15T21:59:00+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[生活碎碎念：我与老家的年]]></summary>
-    </entry>
-        <entry>
-        <title>AI实时字幕生成播放器LLPlayer</title>
-        <id>146424</id>
-        <link href="https://ygz.ink/archives/4374.html?utm_source=blogfinder" />
-        <published>2026-02-15T21:14:36+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[AI实时字幕生成播放器LLPlayer]]></summary>
     </entry>
     </feed>
