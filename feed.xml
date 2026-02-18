@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-18T23:01:38+08:00</updated>
+    <updated>2026-02-19T00:00:44+08:00</updated>
+        <entry>
+        <title>缝缝补补修服务器问题</title>
+        <id>146613</id>
+        <link href="https://ygz.ink/archives/4398.html?utm_source=blogfinder" />
+        <published>2026-02-18T23:03:23+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[缝缝补补修服务器问题]]></summary>
+    </entry>
         <entry>
         <title>冬至（60/81）：Python 自学一阶段完成</title>
         <id>146611</id>
@@ -1331,27 +1342,5 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[稻草人周刊 Vol.68]]></summary>
-    </entry>
-        <entry>
-        <title>Hugo实现在线写作的尝试</title>
-        <id>146488</id>
-        <link href="https://usj.cc/20260216.html?utm_source=blogfinder" />
-        <published>2026-02-16T00:00:00+08:00</published>
-        <author>
-            <name>优世界</name>
-            <uri>https://usj.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[Hugo实现在线写作的尝试]]></summary>
-    </entry>
-        <entry>
-        <title>人生中点处的自述：写在十八岁</title>
-        <id>146427</id>
-        <link href="https://aciano.top/posts/18-years-old/?utm_source=blogfinder" />
-        <published>2026-02-15T23:23:58+08:00</published>
-        <author>
-            <name>Aciano</name>
-            <uri>https://aciano.top</uri>
-        </author>
-        <summary type="text"><![CDATA[人生中点处的自述：写在十八岁]]></summary>
     </entry>
     </feed>
