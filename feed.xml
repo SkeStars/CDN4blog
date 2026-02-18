@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-18T16:00:40+08:00</updated>
+    <updated>2026-02-18T17:00:35+08:00</updated>
         <entry>
         <title>不走亲戚不回老家的过年还是爽歪歪的</title>
         <id>146602</id>
@@ -77,6 +77,17 @@
             <uri>https://onojyun.com</uri>
         </author>
         <summary type="text"><![CDATA[乞讨 II]]></summary>
+    </entry>
+        <entry>
+        <title>Vibe Coding/氛围编程很爽？但别忘了开源生态</title>
+        <id>146604</id>
+        <link href="https://www.suiyan.cc/blog/20260218014428?utm_source=blogfinder" />
+        <published>2026-02-18T09:44:28+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[Vibe Coding/氛围编程很爽？但别忘了开源生态]]></summary>
     </entry>
         <entry>
         <title>游哈尔滨东北虎林园</title>
@@ -655,6 +666,17 @@
         <id>146537</id>
         <link href="https://ygz.ink/archives/4393.html?utm_source=blogfinder" />
         <published>2026-02-17T04:32:57+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[新年之际，博客迁移服务器]]></summary>
+    </entry>
+        <entry>
+        <title>新年之际，博客迁移服务器</title>
+        <id>146605</id>
+        <link href="https://ygz.ink/archives/4392.html?utm_source=blogfinder" />
+        <published>2026-02-17T04:30:58+08:00</published>
         <author>
             <name>宗宗酱</name>
             <uri>https://ygz.ink</uri>
@@ -1540,27 +1562,5 @@
             <uri>https://7gugu.com</uri>
         </author>
         <summary type="text"><![CDATA[炭烧响螺🔥]]></summary>
-    </entry>
-        <entry>
-        <title>新年福袋特效</title>
-        <id>146411</id>
-        <link href="https://zhujay.com/talking/?id=1198&amp;utm_source=blogfinder" />
-        <published>2026-02-15T16:16:36+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[新年福袋特效]]></summary>
-    </entry>
-        <entry>
-        <title>淘淘说我在家就像这样</title>
-        <id>146408</id>
-        <link href="https://dujun.io/84b986dc-bda7-56e7-91c6-4957663e2405.html?utm_source=blogfinder" />
-        <published>2026-02-15T16:11:08+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[淘淘说我在家就像这样]]></summary>
     </entry>
     </feed>
