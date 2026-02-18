@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-18T13:00:45+08:00</updated>
+    <updated>2026-02-18T14:00:40+08:00</updated>
         <entry>
         <title>【开源】dodo - GPT对话跳转 与 消息队列管理</title>
         <id>146587</id>
@@ -682,6 +682,17 @@
             <uri>https://siwei.li</uri>
         </author>
         <summary type="text"><![CDATA[新年快乐！]]></summary>
+    </entry>
+        <entry>
+        <title>除夕之夜</title>
+        <id>146599</id>
+        <link href="https://ltmltm.cn/bk/1426.html?utm_source=blogfinder" />
+        <published>2026-02-16T23:09:00+08:00</published>
+        <author>
+            <name>因为很想念</name>
+            <uri>https://ltmltm.cn/bk</uri>
+        </author>
+        <summary type="text"><![CDATA[除夕之夜]]></summary>
     </entry>
         <entry>
         <title>20260215</title>
@@ -1518,38 +1529,5 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[哲学就是个狗屁]]></summary>
-    </entry>
-        <entry>
-        <title>语言的艺术：一本正经胡说八道</title>
-        <id>146464</id>
-        <link href="https://www.krjojo.com/12808.html?utm_source=blogfinder" />
-        <published>2026-02-15T13:09:08+08:00</published>
-        <author>
-            <name>手里有只毛毛虫</name>
-            <uri>https://www.krjojo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[语言的艺术：一本正经胡说八道]]></summary>
-    </entry>
-        <entry>
-        <title>Github CI自动发版</title>
-        <id>146526</id>
-        <link href="https://www.golangblog.com/blog/git-semantic-release?utm_source=blogfinder" />
-        <published>2026-02-15T13:07:18+08:00</published>
-        <author>
-            <name>浩瀚星河</name>
-            <uri>https://www.golangblog.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Github CI自动发版]]></summary>
-    </entry>
-        <entry>
-        <title>游长春历史文化博物馆、新民大街冰雕冰滑梯</title>
-        <id>146420</id>
-        <link href="https://www.jfsay.com/archives/3922.html?utm_source=blogfinder" />
-        <published>2026-02-15T13:05:48+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[游长春历史文化博物馆、新民大街冰雕冰滑梯]]></summary>
     </entry>
     </feed>
