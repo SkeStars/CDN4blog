@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-19T21:00:43+08:00</updated>
+    <updated>2026-02-19T23:02:53+08:00</updated>
+        <entry>
+        <title>冬至（61/81）：再度回乡下，持续“习题课”</title>
+        <id>146756</id>
+        <link href="https://blog.mcenahle.org.cn/2026/02/19/428.html?utm_source=blogfinder" />
+        <published>2026-02-19T21:45:02+08:00</published>
+        <author>
+            <name>梅之夏</name>
+            <uri>https://blog.mcenahle.org.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[冬至（61/81）：再度回乡下，持续“习题课”]]></summary>
+    </entry>
+        <entry>
+        <title>300万浏览文章后续：网上配镜翻车怎么办</title>
+        <id>146755</id>
+        <link href="https://lklog.cn/chat/1386.html?utm_source=blogfinder" />
+        <published>2026-02-19T21:32:01+08:00</published>
+        <author>
+            <name>龙鲲博客</name>
+            <uri>https://lklog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[300万浏览文章后续：网上配镜翻车怎么办]]></summary>
+    </entry>
+        <entry>
+        <title>为博客添加了一个小功能「片语」</title>
+        <id>146753</id>
+        <link href="https://www.suiyan.cc/blog/20260219132046?utm_source=blogfinder" />
+        <published>2026-02-19T21:20:46+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[为博客添加了一个小功能「片语」]]></summary>
+    </entry>
+        <entry>
+        <title>曲项向天歌</title>
+        <id>146754</id>
+        <link href="https://www.chenrui.com/post/3480.html?utm_source=blogfinder" />
+        <published>2026-02-19T20:24:39+08:00</published>
+        <author>
+            <name>陈锐</name>
+            <uri>https://www.chenrui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[曲项向天歌]]></summary>
+    </entry>
         <entry>
         <title>春日限定皮肤</title>
         <id>146751</id>
@@ -77,6 +121,17 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[春节回青的惊喜咖啡店]]></summary>
+    </entry>
+        <entry>
+        <title>两周 OpenClaw 试用：我把定时任务关了</title>
+        <id>146752</id>
+        <link href="https://www.tortorse.com/archives/openclaw-two-week-trial-turning-off-scheduled-tasks/?utm_source=blogfinder" />
+        <published>2026-02-19T12:22:02+08:00</published>
+        <author>
+            <name>愆伏</name>
+            <uri>https://www.tortorse.com</uri>
+        </author>
+        <summary type="text"><![CDATA[两周 OpenClaw 试用：我把定时任务关了]]></summary>
     </entry>
         <entry>
         <title>你的意义只是你的意义</title>
@@ -1100,71 +1155,5 @@
             <uri>https://ltmltm.cn/bk</uri>
         </author>
         <summary type="text"><![CDATA[除夕之夜]]></summary>
-    </entry>
-        <entry>
-        <title>20260215</title>
-        <id>146504</id>
-        <link href="https://61.life/2026/0215?utm_source=blogfinder" />
-        <published>2026-02-16T23:01:00+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260215]]></summary>
-    </entry>
-        <entry>
-        <title>20260214</title>
-        <id>146505</id>
-        <link href="https://61.life/2026/0214?utm_source=blogfinder" />
-        <published>2026-02-16T22:47:46+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260214]]></summary>
-    </entry>
-        <entry>
-        <title>冬至（58/81）：迎春节</title>
-        <id>146497</id>
-        <link href="https://blog.mcenahle.org.cn/2026/02/16/425.html?utm_source=blogfinder" />
-        <published>2026-02-16T22:18:47+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[冬至（58/81）：迎春节]]></summary>
-    </entry>
-        <entry>
-        <title>过年啦</title>
-        <id>146538</id>
-        <link href="https://ficor.net/2026/02/16/spring-festival/?utm_source=blogfinder" />
-        <published>2026-02-16T21:39:13+08:00</published>
-        <author>
-            <name>荒野菲克</name>
-            <uri>https://ficor.net</uri>
-        </author>
-        <summary type="text"><![CDATA[过年啦]]></summary>
-    </entry>
-        <entry>
-        <title>2026 除夕夜完成了博客网站从 php laravel 到 golang gin 的重构</title>
-        <id>146495</id>
-        <link href="https://www.sunzhongwei.com/2026-blog-refactor-php-laravel-to-golang-gin?utm_source=blogfinder" />
-        <published>2026-02-16T21:08:06+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026 除夕夜完成了博客网站从 php laravel 到 golang gin 的重构]]></summary>
-    </entry>
-        <entry>
-        <title>2025-timeline</title>
-        <id>146523</id>
-        <link href="https://umb.ink/post/46?utm_source=blogfinder" />
-        <published>2026-02-16T21:07:27+08:00</published>
-        <author>
-            <name>伞菌の博客</name>
-            <uri>https://umb.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[2025-timeline]]></summary>
     </entry>
     </feed>
