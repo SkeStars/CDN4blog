@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-19T00:00:44+08:00</updated>
+    <updated>2026-02-19T11:00:33+08:00</updated>
+        <entry>
+        <title>台历</title>
+        <id>146736</id>
+        <link href="https://onojyun.com/2026/02/19/%e5%8f%b0%e5%8e%86/?utm_source=blogfinder" />
+        <published>2026-02-19T10:00:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://onojyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[台历]]></summary>
+    </entry>
+        <entry>
+        <title>S-word</title>
+        <id>146733</id>
+        <link href="https://www.immarcus.com/blog/s-word?utm_source=blogfinder" />
+        <published>2026-02-19T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[S-word]]></summary>
+    </entry>
         <entry>
         <title>缝缝补补修服务器问题</title>
         <id>146613</id>
@@ -24,6 +46,17 @@
         <summary type="text"><![CDATA[缝缝补补修服务器问题]]></summary>
     </entry>
         <entry>
+        <title>二零二六年一月</title>
+        <id>146662</id>
+        <link href="https://tetsuhannah.blog/2026/02/18/%e4%ba%8c%e9%9b%b6%e4%ba%8c%e5%85%ad%e5%b9%b4%e4%b8%80%e6%9c%88/?utm_source=blogfinder" />
+        <published>2026-02-18T22:34:36+08:00</published>
+        <author>
+            <name>菜昂纳少</name>
+            <uri>https://tetsuhannah.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[二零二六年一月]]></summary>
+    </entry>
+        <entry>
         <title>冬至（60/81）：Python 自学一阶段完成</title>
         <id>146611</id>
         <link href="https://blog.mcenahle.org.cn/2026/02/18/427.html?utm_source=blogfinder" />
@@ -33,6 +66,17 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[冬至（60/81）：Python 自学一阶段完成]]></summary>
+    </entry>
+        <entry>
+        <title>巡航模式</title>
+        <id>146732</id>
+        <link href="https://shuiba.co/cruising-mode?utm_source=blogfinder" />
+        <published>2026-02-18T21:05:00+08:00</published>
+        <author>
+            <name>水八口的冥想盆</name>
+            <uri>https://shuiba.co</uri>
+        </author>
+        <summary type="text"><![CDATA[巡航模式]]></summary>
     </entry>
         <entry>
         <title>【读书记1633】朱生豪译莎士比亚《李尔王》</title>
@@ -55,6 +99,17 @@
             <uri>https://blog.hantaotao.top</uri>
         </author>
         <summary type="text"><![CDATA[他人的NPC、自我的主角]]></summary>
+    </entry>
+        <entry>
+        <title>用 Docker 私有化部署 GitHub Actions Runner（Runner Fleet）</title>
+        <id>146614</id>
+        <link href="https://soulteary.com/2026/02/18/use-docker-to-natively-deploy-github-actions-runner-by-fleet.html?utm_source=blogfinder" />
+        <published>2026-02-18T18:20:00+08:00</published>
+        <author>
+            <name>苏洋博客</name>
+            <uri>https://soulteary.com</uri>
+        </author>
+        <summary type="text"><![CDATA[用 Docker 私有化部署 GitHub Actions Runner（Runner Fleet）]]></summary>
     </entry>
         <entry>
         <title>往事种种都随烟而去</title>
@@ -99,6 +154,17 @@
             <uri>https://joojen.com</uri>
         </author>
         <summary type="text"><![CDATA[怎么提高睡眠质量]]></summary>
+    </entry>
+        <entry>
+        <title>2025年对我的总结</title>
+        <id>146663</id>
+        <link href="https://blog.lmb.blue/archives/1609/?utm_source=blogfinder" />
+        <published>2026-02-18T12:43:00+08:00</published>
+        <author>
+            <name>哈喽林墨白</name>
+            <uri>https://blog.lmb.blue</uri>
+        </author>
+        <summary type="text"><![CDATA[2025年对我的总结]]></summary>
     </entry>
         <entry>
         <title>告别捆绑！百度网盘老版本7.44.6.1下载</title>
@@ -189,6 +255,17 @@
         <summary type="text"><![CDATA[是什么电影票45881人在抢]]></summary>
     </entry>
         <entry>
+        <title>Lie-to-Children</title>
+        <id>146734</id>
+        <link href="https://www.immarcus.com/blog/lie-to-children?utm_source=blogfinder" />
+        <published>2026-02-18T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Lie-to-Children]]></summary>
+    </entry>
+        <entry>
         <title>Skyline-新加坡Ⅰ型 10G口移动快乐鸡 只测不评</title>
         <id>146589</id>
         <link href="https://blog.yeqing.net/Skyline-SG-I/?utm_source=blogfinder" />
@@ -209,6 +286,17 @@
             <uri>https://www.infinite.moe</uri>
         </author>
         <summary type="text"><![CDATA[五年博客写作者谈写作过程]]></summary>
+    </entry>
+        <entry>
+        <title>Superpower Agent Skills in Gemini</title>
+        <id>146735</id>
+        <link href="https://scottyeung.top/2026/superpower-skills-gemini/?utm_source=blogfinder" />
+        <published>2026-02-18T00:42:07+08:00</published>
+        <author>
+            <name>YeungYeah 的乱写地</name>
+            <uri>https://scottyeung.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Superpower Agent Skills in Gemini]]></summary>
     </entry>
         <entry>
         <title>新春的梅花（20250216）</title>
@@ -1232,115 +1320,5 @@
             <uri>https://7gugu.com</uri>
         </author>
         <summary type="text"><![CDATA[NanoBananaPro真的好强啊！]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1632】朱生豪译莎士比亚《奥赛罗》</title>
-        <id>146471</id>
-        <link href="http://www.qncd.com/?p=12500&amp;utm_source=blogfinder" />
-        <published>2026-02-16T10:25:18+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1632】朱生豪译莎士比亚《奥赛罗》]]></summary>
-    </entry>
-        <entry>
-        <title>我不想包饺子</title>
-        <id>146478</id>
-        <link href="https://www.suiyan.cc/blog/20260216021344?utm_source=blogfinder" />
-        <published>2026-02-16T10:13:44+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[我不想包饺子]]></summary>
-    </entry>
-        <entry>
-        <title>【阅读笔记】基于暗通道的红外图像增强Infrared traffic image enhancement algorithm based on dark channel prior and gamma correction</title>
-        <id>146536</id>
-        <link href="https://www.aomanhao.top/archives/417/?utm_source=blogfinder" />
-        <published>2026-02-16T10:08:00+08:00</published>
-        <author>
-            <name>AomanHao</name>
-            <uri>https://www.aomanhao.top</uri>
-        </author>
-        <summary type="text"><![CDATA[【阅读笔记】基于暗通道的红外图像增强Infrared traffic image enhancement algorithm based on dark channel prior and gamma correction]]></summary>
-    </entry>
-        <entry>
-        <title>除夕夜</title>
-        <id>146470</id>
-        <link href="https://onojyun.com/2026/02/16/%e9%99%a4%e5%a4%95%e5%a4%9c/?utm_source=blogfinder" />
-        <published>2026-02-16T10:00:00+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://onojyun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[除夕夜]]></summary>
-    </entry>
-        <entry>
-        <title>【BA8AHF】如何让自己可刑可铐（五）：整活向｜抛物面天线的灵魂 —— 馈源，决定增益与刑期的关键</title>
-        <id>146477</id>
-        <link href="https://jackie.openenet.cn/ham-ps-5/?utm_source=blogfinder" />
-        <published>2026-02-16T09:18:33+08:00</published>
-        <author>
-            <name>Jackie&#039;s Blog</name>
-            <uri>https://jackie.openenet.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[【BA8AHF】如何让自己可刑可铐（五）：整活向｜抛物面天线的灵魂 —— 馈源，决定增益与刑期的关键]]></summary>
-    </entry>
-        <entry>
-        <title>小区散步</title>
-        <id>146531</id>
-        <link href="https://www.immarcus.com/blog/took-a-walk?utm_source=blogfinder" />
-        <published>2026-02-16T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[小区散步]]></summary>
-    </entry>
-        <entry>
-        <title>家庭煮夫</title>
-        <id>146491</id>
-        <link href="https://blog.yanqingshan.com/243.html?utm_source=blogfinder" />
-        <published>2026-02-16T06:37:43+08:00</published>
-        <author>
-            <name>青山小站</name>
-            <uri>https://blog.yanqingshan.com</uri>
-        </author>
-        <summary type="text"><![CDATA[家庭煮夫]]></summary>
-    </entry>
-        <entry>
-        <title>游哈尔滨中央大街、索菲亚教堂、道里菜市场、松花江冰雪嘉年华</title>
-        <id>146473</id>
-        <link href="https://www.jfsay.com/archives/3941.html?utm_source=blogfinder" />
-        <published>2026-02-16T06:09:58+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[游哈尔滨中央大街、索菲亚教堂、道里菜市场、松花江冰雪嘉年华]]></summary>
-    </entry>
-        <entry>
-        <title>马驰骉骉，骏跃新程！</title>
-        <id>146472</id>
-        <link href="https://dujun.io/2026-spring-festival.html?utm_source=blogfinder" />
-        <published>2026-02-16T02:22:00+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[马驰骉骉，骏跃新程！]]></summary>
-    </entry>
-        <entry>
-        <title>稻草人周刊 Vol.68</title>
-        <id>146475</id>
-        <link href="https://www.geedea.pro/posts/weekly/68/?utm_source=blogfinder" />
-        <published>2026-02-16T00:18:31+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[稻草人周刊 Vol.68]]></summary>
     </entry>
     </feed>
