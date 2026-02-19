@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-19T11:00:33+08:00</updated>
+    <updated>2026-02-19T13:00:50+08:00</updated>
         <entry>
         <title>台历</title>
         <id>146736</id>
@@ -22,6 +22,17 @@
             <uri>https://onojyun.com</uri>
         </author>
         <summary type="text"><![CDATA[台历]]></summary>
+    </entry>
+        <entry>
+        <title>新春佳节（一）</title>
+        <id>146739</id>
+        <link href="https://ficor.net/2026/02/19/spring-festial-1/?utm_source=blogfinder" />
+        <published>2026-02-19T09:26:34+08:00</published>
+        <author>
+            <name>荒野菲克</name>
+            <uri>https://ficor.net</uri>
+        </author>
+        <summary type="text"><![CDATA[新春佳节（一）]]></summary>
     </entry>
         <entry>
         <title>S-word</title>
@@ -68,6 +79,28 @@
         <summary type="text"><![CDATA[冬至（60/81）：Python 自学一阶段完成]]></summary>
     </entry>
         <entry>
+        <title>【回忆录】四年级那场“豪横”饭局：一把抢过同学两百块，最后还得带她回家拿钱</title>
+        <id>146740</id>
+        <link href="https://nxxy335.top/archives/Hsrrp6ec?utm_source=blogfinder" />
+        <published>2026-02-18T22:22:05+08:00</published>
+        <author>
+            <name>暖心向阳</name>
+            <uri>https://nxxy335.top</uri>
+        </author>
+        <summary type="text"><![CDATA[【回忆录】四年级那场“豪横”饭局：一把抢过同学两百块，最后还得带她回家拿钱]]></summary>
+    </entry>
+        <entry>
+        <title>我装回了4年前的Bilibili客户端</title>
+        <id>146737</id>
+        <link href="https://blog.mocn.top/posts/40666/?utm_source=blogfinder" />
+        <published>2026-02-18T22:16:28+08:00</published>
+        <author>
+            <name>莫莫逗狗</name>
+            <uri>https://blog.mocn.top</uri>
+        </author>
+        <summary type="text"><![CDATA[我装回了4年前的Bilibili客户端]]></summary>
+    </entry>
+        <entry>
         <title>巡航模式</title>
         <id>146732</id>
         <link href="https://shuiba.co/cruising-mode?utm_source=blogfinder" />
@@ -99,6 +132,17 @@
             <uri>https://blog.hantaotao.top</uri>
         </author>
         <summary type="text"><![CDATA[他人的NPC、自我的主角]]></summary>
+    </entry>
+        <entry>
+        <title>简单记一记如何解决切换主题时的明暗闪烁</title>
+        <id>146742</id>
+        <link href="https://re.karlbaey.top/articles/handle-fouc-problems/?utm_source=blogfinder" />
+        <published>2026-02-18T18:50:36+08:00</published>
+        <author>
+            <name>Jerry Karlbaey</name>
+            <uri>https://re.karlbaey.top</uri>
+        </author>
+        <summary type="text"><![CDATA[简单记一记如何解决切换主题时的明暗闪烁]]></summary>
     </entry>
         <entry>
         <title>用 Docker 私有化部署 GitHub Actions Runner（Runner Fleet）</title>
@@ -165,6 +209,17 @@
             <uri>https://blog.lmb.blue</uri>
         </author>
         <summary type="text"><![CDATA[2025年对我的总结]]></summary>
+    </entry>
+        <entry>
+        <title>44，雨水</title>
+        <id>146741</id>
+        <link href="http://www.lopwon.com/4087.html?utm_source=blogfinder" />
+        <published>2026-02-18T12:00:00+08:00</published>
+        <author>
+            <name>立云图志</name>
+            <uri>http://www.lopwon.com</uri>
+        </author>
+        <summary type="text"><![CDATA[44，雨水]]></summary>
     </entry>
         <entry>
         <title>告别捆绑！百度网盘老版本7.44.6.1下载</title>
@@ -319,6 +374,17 @@
             <uri>https://blog.starsharbor.com</uri>
         </author>
         <summary type="text"><![CDATA[2025年终总结｜于农历新年之际简单写写过去一年]]></summary>
+    </entry>
+        <entry>
+        <title>你同意来到这个世界上吗？[y/N]</title>
+        <id>146738</id>
+        <link href="https://www.glowisle.me/posts/did-you-consent-to-existence/?utm_source=blogfinder" />
+        <published>2026-02-17T23:36:00+08:00</published>
+        <author>
+            <name>映屿</name>
+            <uri>https://www.glowisle.me</uri>
+        </author>
+        <summary type="text"><![CDATA[你同意来到这个世界上吗？[y/N]]]></summary>
     </entry>
         <entry>
         <title>第一次在公司过年的经历及总结</title>
@@ -1243,82 +1309,5 @@
             <uri>https://blog.codingnow.com</uri>
         </author>
         <summary type="text"><![CDATA[用 AI 辅助读书]]></summary>
-    </entry>
-        <entry>
-        <title>4 个字符为一组构成的城市</title>
-        <id>146541</id>
-        <link href="https://cytrogen.icu/posts/cf35.html?utm_source=blogfinder" />
-        <published>2026-02-16T13:00:00+08:00</published>
-        <author>
-            <name>Cytrogen&#039;s Blog</name>
-            <uri>https://cytrogen.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[4 个字符为一组构成的城市]]></summary>
-    </entry>
-        <entry>
-        <title>新年新气象：网站快一点，再快一点</title>
-        <id>146507</id>
-        <link href="https://www.xiaozonglin.cn/be-faster-even-faster/?utm_source=blogfinder" />
-        <published>2026-02-16T12:28:02+08:00</published>
-        <author>
-            <name>林林杂语</name>
-            <uri>https://www.xiaozonglin.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[新年新气象：网站快一点，再快一点]]></summary>
-    </entry>
-        <entry>
-        <title>宗宗酱博客祝大家新年快乐</title>
-        <id>146480</id>
-        <link href="https://ygz.ink/archives/4380.html?utm_source=blogfinder" />
-        <published>2026-02-16T12:00:29+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[宗宗酱博客祝大家新年快乐]]></summary>
-    </entry>
-        <entry>
-        <title>杀死那只鹦鹉 —— 「白话文」讲解一种探测 XTLS VLESS REALITY 的手段</title>
-        <id>146520</id>
-        <link href="https://blog.skk.moe/post/to-kill-a-parrot-detecting-xtls-vless-reality-server/?utm_source=blogfinder" />
-        <published>2026-02-16T12:00:00+08:00</published>
-        <author>
-            <name>Sukka</name>
-            <uri>https://blog.skk.moe</uri>
-        </author>
-        <summary type="text"><![CDATA[杀死那只鹦鹉 —— 「白话文」讲解一种探测 XTLS VLESS REALITY 的手段]]></summary>
-    </entry>
-        <entry>
-        <title>【BA8AHF】如何让自己可刑可铐（六）：整活向｜全向宽带双锥天线，覆盖越广，“刑期”越长</title>
-        <id>146476</id>
-        <link href="https://jackie.openenet.cn/ham-ps-6/?utm_source=blogfinder" />
-        <published>2026-02-16T11:57:12+08:00</published>
-        <author>
-            <name>Jackie&#039;s Blog</name>
-            <uri>https://jackie.openenet.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[【BA8AHF】如何让自己可刑可铐（六）：整活向｜全向宽带双锥天线，覆盖越广，“刑期”越长]]></summary>
-    </entry>
-        <entry>
-        <title>十年乐视退休，新年换新机｜TCL雷鸟鹤6 26 款</title>
-        <id>146494</id>
-        <link href="https://www.wanghao.me/shinianleshituixiuxinnianhuanxinjitclleiniaohe6-26-kuan.html?utm_source=blogfinder" />
-        <published>2026-02-16T11:13:33+08:00</published>
-        <author>
-            <name>小王子</name>
-            <uri>https://www.wanghao.me</uri>
-        </author>
-        <summary type="text"><![CDATA[十年乐视退休，新年换新机｜TCL雷鸟鹤6 26 款]]></summary>
-    </entry>
-        <entry>
-        <title>NanoBananaPro真的好强啊！</title>
-        <id>146486</id>
-        <link href="https://7gugu.com/index.php/2026/02/16/nanobananapro%e7%9c%9f%e7%9a%84%e5%a5%bd%e5%bc%ba%e5%95%8a%ef%bc%81/?utm_source=blogfinder" />
-        <published>2026-02-16T11:13:00+08:00</published>
-        <author>
-            <name>7gugu’s Blog</name>
-            <uri>https://7gugu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[NanoBananaPro真的好强啊！]]></summary>
     </entry>
     </feed>
