@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-19T13:00:50+08:00</updated>
+    <updated>2026-02-19T14:00:45+08:00</updated>
+        <entry>
+        <title>你的意义只是你的意义</title>
+        <id>146743</id>
+        <link href="https://www.pgoj.top/archives/dushuyiyi.html?utm_source=blogfinder" />
+        <published>2026-02-19T11:42:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[你的意义只是你的意义]]></summary>
+    </entry>
         <entry>
         <title>台历</title>
         <id>146736</id>
@@ -1265,49 +1276,5 @@
             <uri>https://jyblog.cn</uri>
         </author>
         <summary type="text"><![CDATA[除夕快乐啊~年终总结来了~]]></summary>
-    </entry>
-        <entry>
-        <title>回顾一下十年前沃通的 SSL 证书被吊销的那些事</title>
-        <id>146485</id>
-        <link href="https://jyblog.cn/4891/?utm_source=blogfinder" />
-        <published>2026-02-16T13:57:57+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[回顾一下十年前沃通的 SSL 证书被吊销的那些事]]></summary>
-    </entry>
-        <entry>
-        <title>松声｜廿六年·二月中·迎新春</title>
-        <id>146483</id>
-        <link href="https://xyzbz.cn/archives/1515/?utm_source=blogfinder" />
-        <published>2026-02-16T13:54:00+08:00</published>
-        <author>
-            <name>网友小宋</name>
-            <uri>https://xyzbz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[松声｜廿六年·二月中·迎新春]]></summary>
-    </entry>
-        <entry>
-        <title>乙巳观影记录</title>
-        <id>146496</id>
-        <link href="https://pewae.com/2026/02/records-of-movies-2025.html?utm_source=blogfinder" />
-        <published>2026-02-16T13:36:37+08:00</published>
-        <author>
-            <name>破袜子</name>
-            <uri>https://pewae.com</uri>
-        </author>
-        <summary type="text"><![CDATA[乙巳观影记录]]></summary>
-    </entry>
-        <entry>
-        <title>用 AI 辅助读书</title>
-        <id>146482</id>
-        <link href="https://blog.codingnow.com/2026/02/ai_reading.html?utm_source=blogfinder" />
-        <published>2026-02-16T13:23:19+08:00</published>
-        <author>
-            <name>云风的 BLOG</name>
-            <uri>https://blog.codingnow.com</uri>
-        </author>
-        <summary type="text"><![CDATA[用 AI 辅助读书]]></summary>
     </entry>
     </feed>
