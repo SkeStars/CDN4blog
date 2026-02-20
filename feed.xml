@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-20T13:00:25+08:00</updated>
+    <updated>2026-02-20T14:00:21+08:00</updated>
         <entry>
         <title>年关</title>
         <id>146777</id>
@@ -99,6 +99,17 @@
             <uri>https://icodeq.com</uri>
         </author>
         <summary type="text"><![CDATA[年度｜我的2025年度总结]]></summary>
+    </entry>
+        <entry>
+        <title>小米CR8809路由器OpenWrt刷机指南</title>
+        <id>146783</id>
+        <link href="https://www.nekopara.uk/archives/Flash_CR8809.html?utm_source=blogfinder" />
+        <published>2026-02-20T00:48:18+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[小米CR8809路由器OpenWrt刷机指南]]></summary>
     </entry>
         <entry>
         <title>双剑合璧：VScode 与 Stata</title>
@@ -242,6 +253,17 @@
             <uri>https://onojyun.com</uri>
         </author>
         <summary type="text"><![CDATA[戒烟]]></summary>
+    </entry>
+        <entry>
+        <title>Golang中的优雅关闭与退出</title>
+        <id>146784</id>
+        <link href="https://www.golangblog.com/blog/go-graceful-shutdown?utm_source=blogfinder" />
+        <published>2026-02-19T16:27:22+08:00</published>
+        <author>
+            <name>浩瀚星河</name>
+            <uri>https://www.golangblog.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Golang中的优雅关闭与退出]]></summary>
     </entry>
         <entry>
         <title>这是一篇迟到了5天的离职记录</title>
@@ -1166,27 +1188,5 @@
             <uri>https://www.dengxiaokang.com</uri>
         </author>
         <summary type="text"><![CDATA[别指望磨把刀，就能把你全兜了]]></summary>
-    </entry>
-        <entry>
-        <title>岁次丙午，金马昂首</title>
-        <id>146545</id>
-        <link href="https://blog.stoh.cc/post/765c4d58.html?utm_source=blogfinder" />
-        <published>2026-02-17T13:49:11+08:00</published>
-        <author>
-            <name>SHI 記</name>
-            <uri>https://blog.stoh.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[岁次丙午，金马昂首]]></summary>
-    </entry>
-        <entry>
-        <title>Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命</title>
-        <id>146573</id>
-        <link href="https://pythonhunter.org/episodes/ep57?utm_source=blogfinder" />
-        <published>2026-02-17T13:30:33+08:00</published>
-        <author>
-            <name>捕蛇者说</name>
-            <uri>https://pythonhunter.org</uri>
-        </author>
-        <summary type="text"><![CDATA[Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命]]></summary>
     </entry>
     </feed>
