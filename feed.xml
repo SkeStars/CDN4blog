@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-20T15:01:33+08:00</updated>
+    <updated>2026-02-20T17:00:57+08:00</updated>
+        <entry>
+        <title>用词</title>
+        <id>146791</id>
+        <link href="https://www.geedea.pro/glossary/?utm_source=blogfinder" />
+        <published>2026-02-20T15:43:00+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[用词]]></summary>
+    </entry>
+        <entry>
+        <title>网易竟然也开始搞「海鲜」: LobsterAI 有道龙虾</title>
+        <id>146789</id>
+        <link href="https://www.suiyan.cc/blog/20260220072825?utm_source=blogfinder" />
+        <published>2026-02-20T15:28:25+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[网易竟然也开始搞「海鲜」: LobsterAI 有道龙虾]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1634】朱生豪译莎士比亚《哈姆雷特》</title>
+        <id>146787</id>
+        <link href="http://www.qncd.com/?p=12508&amp;utm_source=blogfinder" />
+        <published>2026-02-20T15:11:20+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1634】朱生豪译莎士比亚《哈姆雷特》]]></summary>
+    </entry>
+        <entry>
+        <title>过年流水账 0220</title>
+        <id>146788</id>
+        <link href="https://blog.solazy.me/20260220/?utm_source=blogfinder" />
+        <published>2026-02-20T14:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[过年流水账 0220]]></summary>
+    </entry>
         <entry>
         <title>理论的傲慢</title>
         <id>146785</id>
@@ -22,6 +66,28 @@
             <uri>https://onojyun.com</uri>
         </author>
         <summary type="text"><![CDATA[理论的傲慢]]></summary>
+    </entry>
+        <entry>
+        <title>如何正确预估redis写入容量</title>
+        <id>146786</id>
+        <link href="https://www.luozhiyun.com/archives/908?utm_source=blogfinder" />
+        <published>2026-02-20T13:33:01+08:00</published>
+        <author>
+            <name>luozhiyun`s Blog</name>
+            <uri>https://www.luozhiyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[如何正确预估redis写入容量]]></summary>
+    </entry>
+        <entry>
+        <title>Pagefind一定要慎用！</title>
+        <id>146790</id>
+        <link href="https://www.suiyan.cc/blog/20260220024445?utm_source=blogfinder" />
+        <published>2026-02-20T10:44:45+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[Pagefind一定要慎用！]]></summary>
     </entry>
         <entry>
         <title>年关</title>
@@ -1067,27 +1133,5 @@
             <uri>https://miraii.cn</uri>
         </author>
         <summary type="text"><![CDATA[2026新年快乐]]></summary>
-    </entry>
-        <entry>
-        <title>决定双开ChatGPT与Gemini</title>
-        <id>146568</id>
-        <link href="https://siwei.li/jue-ding-shuang-kai-chatgptyu-g-mini/?utm_source=blogfinder" />
-        <published>2026-02-17T16:38:23+08:00</published>
-        <author>
-            <name>Siwei Li</name>
-            <uri>https://siwei.li</uri>
-        </author>
-        <summary type="text"><![CDATA[决定双开ChatGPT与Gemini]]></summary>
-    </entry>
-        <entry>
-        <title>过年流水账 0217</title>
-        <id>146569</id>
-        <link href="https://blog.solazy.me/20260217/?utm_source=blogfinder" />
-        <published>2026-02-17T16:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[过年流水账 0217]]></summary>
     </entry>
     </feed>
