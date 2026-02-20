@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-20T17:00:57+08:00</updated>
+    <updated>2026-02-20T18:00:44+08:00</updated>
         <entry>
         <title>用词</title>
         <id>146791</id>
@@ -35,6 +35,17 @@
         <summary type="text"><![CDATA[网易竟然也开始搞「海鲜」: LobsterAI 有道龙虾]]></summary>
     </entry>
         <entry>
+        <title>20260219</title>
+        <id>146792</id>
+        <link href="https://61.life/2026/0219?utm_source=blogfinder" />
+        <published>2026-02-20T15:21:11+08:00</published>
+        <author>
+            <name>61’s life</name>
+            <uri>https://61.life</uri>
+        </author>
+        <summary type="text"><![CDATA[20260219]]></summary>
+    </entry>
+        <entry>
         <title>【读书记1634】朱生豪译莎士比亚《哈姆雷特》</title>
         <id>146787</id>
         <link href="http://www.qncd.com/?p=12508&amp;utm_source=blogfinder" />
@@ -44,6 +55,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1634】朱生豪译莎士比亚《哈姆雷特》]]></summary>
+    </entry>
+        <entry>
+        <title>20260218</title>
+        <id>146793</id>
+        <link href="https://61.life/2026/0218?utm_source=blogfinder" />
+        <published>2026-02-20T14:54:04+08:00</published>
+        <author>
+            <name>61’s life</name>
+            <uri>https://61.life</uri>
+        </author>
+        <summary type="text"><![CDATA[20260218]]></summary>
     </entry>
         <entry>
         <title>过年流水账 0220</title>
@@ -77,6 +99,28 @@
             <uri>https://www.luozhiyun.com</uri>
         </author>
         <summary type="text"><![CDATA[如何正确预估redis写入容量]]></summary>
+    </entry>
+        <entry>
+        <title>2026</title>
+        <id>146797</id>
+        <link href="https://airy.ink/times/426?utm_source=blogfinder" />
+        <published>2026-02-20T12:00:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[2026]]></summary>
+    </entry>
+        <entry>
+        <title>20260217</title>
+        <id>146794</id>
+        <link href="https://61.life/2026/0217?utm_source=blogfinder" />
+        <published>2026-02-20T11:38:58+08:00</published>
+        <author>
+            <name>61’s life</name>
+            <uri>https://61.life</uri>
+        </author>
+        <summary type="text"><![CDATA[20260217]]></summary>
     </entry>
         <entry>
         <title>Pagefind一定要慎用！</title>
@@ -143,6 +187,17 @@
             <uri>https://www.jfsay.com</uri>
         </author>
         <summary type="text"><![CDATA[游哈尔滨兆麟公园、哈工会码头、平房公园等免费冰上乐园]]></summary>
+    </entry>
+        <entry>
+        <title>给笔电换电池</title>
+        <id>146795</id>
+        <link href="https://shuiba.co/replace-laptop-battery?utm_source=blogfinder" />
+        <published>2026-02-20T07:14:00+08:00</published>
+        <author>
+            <name>水八口的冥想盆</name>
+            <uri>https://shuiba.co</uri>
+        </author>
+        <summary type="text"><![CDATA[给笔电换电池]]></summary>
     </entry>
         <entry>
         <title>每天凌晨都在和上万人抢《超时空辉夜姬》的电影票</title>
@@ -385,17 +440,6 @@
             <uri>https://www.tortorse.com</uri>
         </author>
         <summary type="text"><![CDATA[两周 OpenClaw 试用：我把定时任务关了]]></summary>
-    </entry>
-        <entry>
-        <title>你的意义只是你的意义</title>
-        <id>146743</id>
-        <link href="https://www.pgoj.top/archives/dushuyiyi.html?utm_source=blogfinder" />
-        <published>2026-02-19T11:42:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[你的意义只是你的意义]]></summary>
     </entry>
         <entry>
         <title>台历</title>
@@ -827,6 +871,17 @@
         <summary type="text"><![CDATA[Lie-to-Children]]></summary>
     </entry>
         <entry>
+        <title>我紧紧拽住的那根线</title>
+        <id>146796</id>
+        <link href="https://shuiba.co/the-thread-i-cling-to?utm_source=blogfinder" />
+        <published>2026-02-18T06:38:00+08:00</published>
+        <author>
+            <name>水八口的冥想盆</name>
+            <uri>https://shuiba.co</uri>
+        </author>
+        <summary type="text"><![CDATA[我紧紧拽住的那根线]]></summary>
+    </entry>
+        <entry>
         <title>Skyline-新加坡Ⅰ型 10G口移动快乐鸡 只测不评</title>
         <id>146589</id>
         <link href="https://blog.yeqing.net/Skyline-SG-I/?utm_source=blogfinder" />
@@ -1036,17 +1091,6 @@
         <summary type="text"><![CDATA[治愈向｜鲜花水波纹舒适卡点]]></summary>
     </entry>
         <entry>
-        <title>有了笔记本，该考虑静态网站了</title>
-        <id>146583</id>
-        <link href="https://www.pgoj.top/archives/bijibenjingtai.html?utm_source=blogfinder" />
-        <published>2026-02-17T20:05:22+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[有了笔记本，该考虑静态网站了]]></summary>
-    </entry>
-        <entry>
         <title>草莓满月仪式和生产纪实短片</title>
         <id>146556</id>
         <link href="https://www.skyue.com/26021720.html?utm_source=blogfinder" />
@@ -1111,27 +1155,5 @@
             <uri>https://blog.xxbjf.com</uri>
         </author>
         <summary type="text"><![CDATA[实现网络共享自动开启后自动取消]]></summary>
-    </entry>
-        <entry>
-        <title>2026年，从「记笔记」到「积累数字资产」</title>
-        <id>146571</id>
-        <link href="https://idealclover.top/archives/646/?utm_source=blogfinder" />
-        <published>2026-02-17T17:53:00+08:00</published>
-        <author>
-            <name>idealclover</name>
-            <uri>https://idealclover.top</uri>
-        </author>
-        <summary type="text"><![CDATA[2026年，从「记笔记」到「积累数字资产」]]></summary>
-    </entry>
-        <entry>
-        <title>2026新年快乐</title>
-        <id>146582</id>
-        <link href="https://miraii.cn/posts/y3kfe5ra/?utm_source=blogfinder" />
-        <published>2026-02-17T17:41:44+08:00</published>
-        <author>
-            <name>MuXiaoChen</name>
-            <uri>https://miraii.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[2026新年快乐]]></summary>
     </entry>
     </feed>
