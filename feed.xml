@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-20T18:00:44+08:00</updated>
+    <updated>2026-02-20T19:00:29+08:00</updated>
         <entry>
         <title>用词</title>
         <id>146791</id>
@@ -220,6 +220,17 @@
             <uri>https://blog.tangwudi.com</uri>
         </author>
         <summary type="text"><![CDATA[声音的觉醒 · 基础篇（三）：音程结构的可视化与历史约定]]></summary>
+    </entry>
+        <entry>
+        <title>学习周刊-总第251期-2026年第08周</title>
+        <id>146798</id>
+        <link href="https://wiki.eryajf.net/pages/f80a48/?utm_source=blogfinder" />
+        <published>2026-02-20T03:20:25+08:00</published>
+        <author>
+            <name>二丫讲梵</name>
+            <uri>https://wiki.eryajf.net</uri>
+        </author>
+        <summary type="text"><![CDATA[学习周刊-总第251期-2026年第08周]]></summary>
     </entry>
         <entry>
         <title>年度｜我的2025年度总结</title>
@@ -1133,27 +1144,5 @@
             <uri>https://blog.moeworld.tech</uri>
         </author>
         <summary type="text"><![CDATA[2026 新春快乐]]></summary>
-    </entry>
-        <entry>
-        <title>论遣词造句</title>
-        <id>146567</id>
-        <link href="https://www.geedea.pro/essays/on-wording/?utm_source=blogfinder" />
-        <published>2026-02-17T18:52:20+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[论遣词造句]]></summary>
-    </entry>
-        <entry>
-        <title>实现网络共享自动开启后自动取消</title>
-        <id>146603</id>
-        <link href="https://blog.xxbjf.com/archives/shi-xian-wang-luo-gong-xiang-zi-dong-kai-qi-hou-zi-dong-qu-xiao?utm_source=blogfinder" />
-        <published>2026-02-17T18:16:16+08:00</published>
-        <author>
-            <name>小新笔记坊</name>
-            <uri>https://blog.xxbjf.com</uri>
-        </author>
-        <summary type="text"><![CDATA[实现网络共享自动开启后自动取消]]></summary>
     </entry>
     </feed>
