@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-21T18:00:21+08:00</updated>
+    <updated>2026-02-21T19:00:54+08:00</updated>
+        <entry>
+        <title>赤裸恐惧与命运惯性</title>
+        <id>146883</id>
+        <link href="https://d-d.design/single/18256?utm_source=blogfinder" />
+        <published>2026-02-21T18:07:43+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[赤裸恐惧与命运惯性]]></summary>
+    </entry>
         <entry>
         <title>ClaudeCode 开源版本 OpenCode 与 Github Copilot 的不同使用场景</title>
         <id>146881</id>
@@ -99,6 +110,17 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[我的乡愁]]></summary>
+    </entry>
+        <entry>
+        <title>1-2月购物日志</title>
+        <id>146882</id>
+        <link href="https://blog.fueis.com/26-beauty?utm_source=blogfinder" />
+        <published>2026-02-21T00:00:00+08:00</published>
+        <author>
+            <name>当下</name>
+            <uri>https://blog.fueis.com</uri>
+        </author>
+        <summary type="text"><![CDATA[1-2月购物日志]]></summary>
     </entry>
         <entry>
         <title>春节</title>
@@ -1001,27 +1023,5 @@
             <uri>https://blog.hantaotao.top</uri>
         </author>
         <summary type="text"><![CDATA[他人的NPC、自我的主角]]></summary>
-    </entry>
-        <entry>
-        <title>简单记一记如何解决切换主题时的明暗闪烁</title>
-        <id>146742</id>
-        <link href="https://re.karlbaey.top/articles/handle-fouc-problems/?utm_source=blogfinder" />
-        <published>2026-02-18T18:50:36+08:00</published>
-        <author>
-            <name>Jerry Karlbaey</name>
-            <uri>https://re.karlbaey.top</uri>
-        </author>
-        <summary type="text"><![CDATA[简单记一记如何解决切换主题时的明暗闪烁]]></summary>
-    </entry>
-        <entry>
-        <title>用 Docker 私有化部署 GitHub Actions Runner（Runner Fleet）</title>
-        <id>146614</id>
-        <link href="https://soulteary.com/2026/02/18/use-docker-to-natively-deploy-github-actions-runner-by-fleet.html?utm_source=blogfinder" />
-        <published>2026-02-18T18:20:00+08:00</published>
-        <author>
-            <name>苏洋博客</name>
-            <uri>https://soulteary.com</uri>
-        </author>
-        <summary type="text"><![CDATA[用 Docker 私有化部署 GitHub Actions Runner（Runner Fleet）]]></summary>
     </entry>
     </feed>
