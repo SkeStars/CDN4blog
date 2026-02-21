@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-21T17:00:38+08:00</updated>
+    <updated>2026-02-21T18:00:21+08:00</updated>
+        <entry>
+        <title>ClaudeCode 开源版本 OpenCode 与 Github Copilot 的不同使用场景</title>
+        <id>146881</id>
+        <link href="https://www.sunzhongwei.com/opencode-vs-github-copilot?utm_source=blogfinder" />
+        <published>2026-02-21T14:28:56+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[ClaudeCode 开源版本 OpenCode 与 Github Copilot 的不同使用场景]]></summary>
+    </entry>
         <entry>
         <title>过年流水账 0221</title>
         <id>146878</id>
@@ -1012,16 +1023,5 @@
             <uri>https://soulteary.com</uri>
         </author>
         <summary type="text"><![CDATA[用 Docker 私有化部署 GitHub Actions Runner（Runner Fleet）]]></summary>
-    </entry>
-        <entry>
-        <title>往事种种都随烟而去</title>
-        <id>146606</id>
-        <link href="https://airy.ink/daily/425?utm_source=blogfinder" />
-        <published>2026-02-18T17:08:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[往事种种都随烟而去]]></summary>
     </entry>
     </feed>
