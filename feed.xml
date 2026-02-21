@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-21T22:00:38+08:00</updated>
+    <updated>2026-02-21T23:00:39+08:00</updated>
         <entry>
         <title>开工</title>
         <id>146886</id>
@@ -88,6 +88,17 @@
             <uri>https://ltmltm.cn/bk</uri>
         </author>
         <summary type="text"><![CDATA[明信片]]></summary>
+    </entry>
+        <entry>
+        <title>控糖日记 #7 糖耐量测试</title>
+        <id>146887</id>
+        <link href="https://knay.net/note/irman-otgg-glucose%20tolerance%20test%20results-20260215?utm_source=blogfinder" />
+        <published>2026-02-21T11:42:09+08:00</published>
+        <author>
+            <name>Yang&#039;s Blog</name>
+            <uri>https://knay.net</uri>
+        </author>
+        <summary type="text"><![CDATA[控糖日记 #7 糖耐量测试]]></summary>
     </entry>
         <entry>
         <title>大家新年快乐！</title>
@@ -979,49 +990,5 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[缝缝补补修服务器问题]]></summary>
-    </entry>
-        <entry>
-        <title>二零二六年一月</title>
-        <id>146662</id>
-        <link href="https://tetsuhannah.blog/2026/02/18/%e4%ba%8c%e9%9b%b6%e4%ba%8c%e5%85%ad%e5%b9%b4%e4%b8%80%e6%9c%88/?utm_source=blogfinder" />
-        <published>2026-02-18T22:34:36+08:00</published>
-        <author>
-            <name>菜昂纳少</name>
-            <uri>https://tetsuhannah.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[二零二六年一月]]></summary>
-    </entry>
-        <entry>
-        <title>冬至（60/81）：Python 自学一阶段完成</title>
-        <id>146611</id>
-        <link href="https://blog.mcenahle.org.cn/2026/02/18/427.html?utm_source=blogfinder" />
-        <published>2026-02-18T22:23:10+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[冬至（60/81）：Python 自学一阶段完成]]></summary>
-    </entry>
-        <entry>
-        <title>【回忆录】四年级那场“豪横”饭局：一把抢过同学两百块，最后还得带她回家拿钱</title>
-        <id>146740</id>
-        <link href="https://nxxy335.top/archives/Hsrrp6ec?utm_source=blogfinder" />
-        <published>2026-02-18T22:22:05+08:00</published>
-        <author>
-            <name>暖心向阳</name>
-            <uri>https://nxxy335.top</uri>
-        </author>
-        <summary type="text"><![CDATA[【回忆录】四年级那场“豪横”饭局：一把抢过同学两百块，最后还得带她回家拿钱]]></summary>
-    </entry>
-        <entry>
-        <title>我装回了4年前的Bilibili客户端</title>
-        <id>146737</id>
-        <link href="https://blog.mocn.top/posts/40666/?utm_source=blogfinder" />
-        <published>2026-02-18T22:16:28+08:00</published>
-        <author>
-            <name>莫莫逗狗</name>
-            <uri>https://blog.mocn.top</uri>
-        </author>
-        <summary type="text"><![CDATA[我装回了4年前的Bilibili客户端]]></summary>
     </entry>
     </feed>
