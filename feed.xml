@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-21T16:00:33+08:00</updated>
+    <updated>2026-02-21T17:00:38+08:00</updated>
         <entry>
         <title>过年流水账 0221</title>
         <id>146878</id>
@@ -33,6 +33,17 @@
             <uri>https://ltmltm.cn/bk</uri>
         </author>
         <summary type="text"><![CDATA[明信片]]></summary>
+    </entry>
+        <entry>
+        <title>大家新年快乐！</title>
+        <id>146879</id>
+        <link href="https://1900.live/da-jia-xin-nian-kuai-le/?utm_source=blogfinder" />
+        <published>2026-02-21T10:50:45+08:00</published>
+        <author>
+            <name>我道</name>
+            <uri>https://1900.live</uri>
+        </author>
+        <summary type="text"><![CDATA[大家新年快乐！]]></summary>
     </entry>
         <entry>
         <title>初五迎财神啦</title>
@@ -88,6 +99,17 @@
             <uri>https://ilogs.cn</uri>
         </author>
         <summary type="text"><![CDATA[春节]]></summary>
+    </entry>
+        <entry>
+        <title>Go遍历时删除特定元素</title>
+        <id>146880</id>
+        <link href="https://www.golangblog.com/blog/go-delete-element-in-range?utm_source=blogfinder" />
+        <published>2026-02-20T23:35:11+08:00</published>
+        <author>
+            <name>浩瀚星河</name>
+            <uri>https://www.golangblog.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Go遍历时删除特定元素]]></summary>
     </entry>
         <entry>
         <title>顺利抢到《超时空辉夜姬》可以挥荧光棒场次的电影票啦</title>
@@ -1001,16 +1023,5 @@
             <uri>https://airy.ink</uri>
         </author>
         <summary type="text"><![CDATA[往事种种都随烟而去]]></summary>
-    </entry>
-        <entry>
-        <title>CI/CD实践：用GitHub Actions实现博客内容自动推送IndexNow</title>
-        <id>146610</id>
-        <link href="https://jackie.openenet.cn/cicd-actions-indexnow/?utm_source=blogfinder" />
-        <published>2026-02-18T16:28:19+08:00</published>
-        <author>
-            <name>Jackie&#039;s Blog</name>
-            <uri>https://jackie.openenet.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[CI/CD实践：用GitHub Actions实现博客内容自动推送IndexNow]]></summary>
     </entry>
     </feed>
