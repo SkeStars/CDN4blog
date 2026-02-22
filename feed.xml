@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-22T16:00:26+08:00</updated>
+    <updated>2026-02-22T17:00:55+08:00</updated>
         <entry>
         <title>每个人都是一团星云</title>
         <id>146920</id>
@@ -1045,16 +1045,5 @@
             <uri>https://onojyun.com</uri>
         </author>
         <summary type="text"><![CDATA[戒烟]]></summary>
-    </entry>
-        <entry>
-        <title>Golang中的优雅关闭与退出</title>
-        <id>146784</id>
-        <link href="https://www.golangblog.com/blog/go-graceful-shutdown?utm_source=blogfinder" />
-        <published>2026-02-19T16:27:22+08:00</published>
-        <author>
-            <name>浩瀚星河</name>
-            <uri>https://www.golangblog.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Golang中的优雅关闭与退出]]></summary>
     </entry>
     </feed>
