@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-22T13:00:40+08:00</updated>
+    <updated>2026-02-22T14:01:39+08:00</updated>
         <entry>
         <title>开工大吉</title>
         <id>146907</id>
@@ -198,6 +198,17 @@
             <uri>https://blog.xulihang.me</uri>
         </author>
         <summary type="text"><![CDATA[过年]]></summary>
+    </entry>
+        <entry>
+        <title>接财神，我“重构”了过去</title>
+        <id>146913</id>
+        <link href="https://lilog.cn/archives/1224.html?utm_source=blogfinder" />
+        <published>2026-02-21T16:07:00+08:00</published>
+        <author>
+            <name>李的日志</name>
+            <uri>https://lilog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[接财神，我“重构”了过去]]></summary>
     </entry>
         <entry>
         <title>ClaudeCode 开源版本 OpenCode 与 Github Copilot 的不同使用场景</title>
