@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-22T11:00:20+08:00</updated>
+    <updated>2026-02-22T13:00:40+08:00</updated>
         <entry>
         <title>开工大吉</title>
         <id>146907</id>
@@ -77,6 +77,17 @@
             <uri>https://61.life</uri>
         </author>
         <summary type="text"><![CDATA[20260221]]></summary>
+    </entry>
+        <entry>
+        <title>怀念方大同</title>
+        <id>146911</id>
+        <link href="https://taxodium.ink/in-memory-of-khalil-fong-1.html?utm_source=blogfinder" />
+        <published>2026-02-21T21:10:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[怀念方大同]]></summary>
     </entry>
         <entry>
         <title>像投资一般生活</title>
@@ -286,6 +297,17 @@
             <uri>https://www.jfsay.com</uri>
         </author>
         <summary type="text"><![CDATA[游哈尔滨工业大学、731罪证陈列馆]]></summary>
+    </entry>
+        <entry>
+        <title>AI 安全 Agent 触发的预算迁移、产业重估与新赢家画像</title>
+        <id>146912</id>
+        <link href="https://bluedog.website/posts/archive/%E6%8A%80%E6%9C%AF%E5%A5%BD%E6%96%87/ai-%E5%AE%89%E5%85%A8-agent-%E8%A7%A6%E5%8F%91%E7%9A%84%E9%A2%84%E7%AE%97%E8%BF%81%E7%A7%BB%E4%BA%A7%E4%B8%9A%E9%87%8D%E4%BC%B0%E4%B8%8E%E6%96%B0%E8%B5%A2%E5%AE%B6%E7%94%BB%E5%83%8F/?utm_source=blogfinder" />
+        <published>2026-02-21T09:00:00+08:00</published>
+        <author>
+            <name>BlueDog&#039;s Blog</name>
+            <uri>https://bluedog.website</uri>
+        </author>
+        <summary type="text"><![CDATA[AI 安全 Agent 触发的预算迁移、产业重估与新赢家画像]]></summary>
     </entry>
         <entry>
         <title>对方跑神撞了我的车，我在澳洲是怎么处理的？</title>
@@ -990,38 +1012,5 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[又要陆续出发上班了]]></summary>
-    </entry>
-        <entry>
-        <title>春节回青的惊喜咖啡店</title>
-        <id>146745</id>
-        <link href="https://blog.solazy.me/20260219/?utm_source=blogfinder" />
-        <published>2026-02-19T13:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[春节回青的惊喜咖啡店]]></summary>
-    </entry>
-        <entry>
-        <title>两周 OpenClaw 试用：我把定时任务关了</title>
-        <id>146752</id>
-        <link href="https://www.tortorse.com/archives/openclaw-two-week-trial-turning-off-scheduled-tasks/?utm_source=blogfinder" />
-        <published>2026-02-19T12:22:02+08:00</published>
-        <author>
-            <name>愆伏</name>
-            <uri>https://www.tortorse.com</uri>
-        </author>
-        <summary type="text"><![CDATA[两周 OpenClaw 试用：我把定时任务关了]]></summary>
-    </entry>
-        <entry>
-        <title>About Me</title>
-        <id>146832</id>
-        <link href="https://bluedog.website/about/?utm_source=blogfinder" />
-        <published>2026-02-19T12:00:00+08:00</published>
-        <author>
-            <name>BlueDog&#039;s Blog</name>
-            <uri>https://bluedog.website</uri>
-        </author>
-        <summary type="text"><![CDATA[About Me]]></summary>
     </entry>
     </feed>
