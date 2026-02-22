@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-22T15:07:05+08:00</updated>
+    <updated>2026-02-22T16:00:26+08:00</updated>
         <entry>
         <title>每个人都是一团星云</title>
         <id>146920</id>
@@ -22,6 +22,17 @@
             <uri>https://onojyun.com</uri>
         </author>
         <summary type="text"><![CDATA[每个人都是一团星云]]></summary>
+    </entry>
+        <entry>
+        <title>终于把Windows10更换为Ubuntu</title>
+        <id>146921</id>
+        <link href="https://www.suiyan.cc/blog/20260222014404?utm_source=blogfinder" />
+        <published>2026-02-22T09:44:04+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[终于把Windows10更换为Ubuntu]]></summary>
     </entry>
         <entry>
         <title>开工大吉</title>
@@ -55,6 +66,17 @@
             <uri>https://www.jfsay.com</uri>
         </author>
         <summary type="text"><![CDATA[游哈尔滨音乐公园、中华巴洛克风情街]]></summary>
+    </entry>
+        <entry>
+        <title>云端人生更新日志</title>
+        <id>146922</id>
+        <link href="https://blog.xxbjf.com/archives/yun-duan-ren-sheng-geng-xin-ri-zhi?utm_source=blogfinder" />
+        <published>2026-02-22T02:00:31+08:00</published>
+        <author>
+            <name>小新笔记坊</name>
+            <uri>https://blog.xxbjf.com</uri>
+        </author>
+        <summary type="text"><![CDATA[云端人生更新日志]]></summary>
     </entry>
         <entry>
         <title>正月初六</title>
