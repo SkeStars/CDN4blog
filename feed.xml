@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-22T19:00:50+08:00</updated>
+    <updated>2026-02-22T21:07:53+08:00</updated>
+        <entry>
+        <title>本站支持IPV6访问</title>
+        <id>146932</id>
+        <link href="https://zooyoo.top/article.php?id=37&amp;utm_source=blogfinder" />
+        <published>2026-02-22T19:20:58+08:00</published>
+        <author>
+            <name>热衷于的博客</name>
+            <uri>https://zooyoo.top</uri>
+        </author>
+        <summary type="text"><![CDATA[本站支持IPV6访问]]></summary>
+    </entry>
         <entry>
         <title>春节回家贺百岁寿辰&amp;开坦克保卫黄河</title>
         <id>146927</id>
@@ -33,6 +44,17 @@
             <uri>https://fxpai.com</uri>
         </author>
         <summary type="text"><![CDATA[上海迪士尼与魔都漫游✨]]></summary>
+    </entry>
+        <entry>
+        <title>把运动统计写在 iPhone 锁屏上，还会自动切换</title>
+        <id>146931</id>
+        <link href="http://www.jinhuaiyao.com/posts/auto-rotating-workout-stats-for-your-iphone-lock-screen/?utm_source=blogfinder" />
+        <published>2026-02-22T14:56:07+08:00</published>
+        <author>
+            <name>Huaiyao Jin</name>
+            <uri>https://www.jinhuaiyao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[把运动统计写在 iPhone 锁屏上，还会自动切换]]></summary>
     </entry>
         <entry>
         <title>最近惦念 20260110</title>
@@ -176,6 +198,17 @@
             <uri>https://xingbianren.cn</uri>
         </author>
         <summary type="text"><![CDATA[我也曾为避让电动车而摔个狗啃屎，但我还是觉得自己享福了]]></summary>
+    </entry>
+        <entry>
+        <title>第一次当爸爸</title>
+        <id>146930</id>
+        <link href="https://www.skyue.com/26022122.html?utm_source=blogfinder" />
+        <published>2026-02-21T22:17:00+08:00</published>
+        <author>
+            <name>拾月</name>
+            <uri>https://www.skyue.com</uri>
+        </author>
+        <summary type="text"><![CDATA[第一次当爸爸]]></summary>
     </entry>
         <entry>
         <title>20260221</title>
@@ -1056,38 +1089,5 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[为博客添加了一个小功能「片语」]]></summary>
-    </entry>
-        <entry>
-        <title>曲项向天歌</title>
-        <id>146754</id>
-        <link href="https://www.chenrui.com/post/3480.html?utm_source=blogfinder" />
-        <published>2026-02-19T20:24:39+08:00</published>
-        <author>
-            <name>陈锐</name>
-            <uri>https://www.chenrui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[曲项向天歌]]></summary>
-    </entry>
-        <entry>
-        <title>春日限定皮肤</title>
-        <id>146751</id>
-        <link href="https://zooyoo.top/article.php?id=33&amp;utm_source=blogfinder" />
-        <published>2026-02-19T19:29:03+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[春日限定皮肤]]></summary>
-    </entry>
-        <entry>
-        <title>在朝鲜 RedStar OS 3.0 上搭建网站？</title>
-        <id>146750</id>
-        <link href="https://www.imxb.de/new_archives/59.shtml?utm_source=blogfinder" />
-        <published>2026-02-19T19:20:00+08:00</published>
-        <author>
-            <name>Xiobb’s Blog</name>
-            <uri>https://www.imxb.de</uri>
-        </author>
-        <summary type="text"><![CDATA[在朝鲜 RedStar OS 3.0 上搭建网站？]]></summary>
     </entry>
     </feed>
