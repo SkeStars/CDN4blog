@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-23T11:00:13+08:00</updated>
+    <updated>2026-02-23T13:00:38+08:00</updated>
+        <entry>
+        <title>Linux挂载硬盘教程（Steps to mount a partition in Linux）</title>
+        <id>146977</id>
+        <link href="https://wonse.info/mount-a-partition.html?utm_source=blogfinder" />
+        <published>2026-02-23T12:22:00+08:00</published>
+        <author>
+            <name>王鑫的小屋</name>
+            <uri>https://wonse.info</uri>
+        </author>
+        <summary type="text"><![CDATA[Linux挂载硬盘教程（Steps to mount a partition in Linux）]]></summary>
+    </entry>
+        <entry>
+        <title>新春佳节（二）</title>
+        <id>146972</id>
+        <link href="https://ficor.net/2026/02/23/spring-festival-2/?utm_source=blogfinder" />
+        <published>2026-02-23T10:41:56+08:00</published>
+        <author>
+            <name>荒野菲克</name>
+            <uri>https://ficor.net</uri>
+        </author>
+        <summary type="text"><![CDATA[新春佳节（二）]]></summary>
+    </entry>
         <entry>
         <title>日子继续</title>
         <id>146966</id>
@@ -22,6 +44,17 @@
             <uri>https://onojyun.com</uri>
         </author>
         <summary type="text"><![CDATA[日子继续]]></summary>
+    </entry>
+        <entry>
+        <title>Pensieve: 2602</title>
+        <id>146973</id>
+        <link href="https://xiaket.github.io/2026/pensieve-2602.html?utm_source=blogfinder" />
+        <published>2026-02-23T09:58:00+08:00</published>
+        <author>
+            <name>年华转瞬</name>
+            <uri>https://blog.xiaket.org</uri>
+        </author>
+        <summary type="text"><![CDATA[Pensieve: 2602]]></summary>
     </entry>
         <entry>
         <title>2026年春节照样去了荣成岗西大集，16元一晚的羊汤很好喝，依然人山人海</title>
@@ -68,6 +101,17 @@
         <summary type="text"><![CDATA[蚂蚁阿福的体脂秤你们领了没]]></summary>
     </entry>
         <entry>
+        <title>Astro 解决代码块的文件名重叠，附带测试工程师笑话</title>
+        <id>146978</id>
+        <link href="https://re.karlbaey.top/articles/solving-a-duplicate-filename-bug-and-a-test-engineer-joke/?utm_source=blogfinder" />
+        <published>2026-02-23T02:22:47+08:00</published>
+        <author>
+            <name>Jerry Karlbaey</name>
+            <uri>https://re.karlbaey.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Astro 解决代码块的文件名重叠，附带测试工程师笑话]]></summary>
+    </entry>
+        <entry>
         <title>稻草人周刊 Vol.69</title>
         <id>146968</id>
         <link href="https://www.geedea.pro/posts/weekly/69/?utm_source=blogfinder" />
@@ -88,6 +132,17 @@
             <uri>https://yuanchaofa.com</uri>
         </author>
         <summary type="text"><![CDATA[Agent 系统中的 Prompt Caching 设计（下）：上下文管理与子代理架构]]></summary>
+    </entry>
+        <entry>
+        <title>你是怎么发现我的博客的？</title>
+        <id>146974</id>
+        <link href="https://www.tortorse.com/archives/how-did-you-find-my-blog/?utm_source=blogfinder" />
+        <published>2026-02-22T22:23:51+08:00</published>
+        <author>
+            <name>愆伏</name>
+            <uri>https://www.tortorse.com</uri>
+        </author>
+        <summary type="text"><![CDATA[你是怎么发现我的博客的？]]></summary>
     </entry>
         <entry>
         <title>广珠澳游记</title>
@@ -277,6 +332,17 @@
         <summary type="text"><![CDATA[把运动统计写在 iPhone 锁屏上，还会自动切换]]></summary>
     </entry>
         <entry>
+        <title>《你行！你上！》——姜文还是那个姜文</title>
+        <id>146975</id>
+        <link href="https://dangeer.com/posts/jiang-wen-is-still-jiang-wen/?utm_source=blogfinder" />
+        <published>2026-02-22T14:04:04+08:00</published>
+        <author>
+            <name>丹格尔</name>
+            <uri>https://dangeer.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《你行！你上！》——姜文还是那个姜文]]></summary>
+    </entry>
+        <entry>
         <title>回声周刊 Vol.10：Vim9.2 添加对 Wayland 的实验性支持</title>
         <id>146939</id>
         <link href="https://www.glowisle.me/posts/weekly/10/?utm_source=blogfinder" />
@@ -286,6 +352,17 @@
             <uri>https://www.glowisle.me</uri>
         </author>
         <summary type="text"><![CDATA[回声周刊 Vol.10：Vim9.2 添加对 Wayland 的实验性支持]]></summary>
+    </entry>
+        <entry>
+        <title>幸运的二十二🍀</title>
+        <id>146976</id>
+        <link href="https://www.david03.top/index.php/archives/435/?utm_source=blogfinder" />
+        <published>2026-02-22T13:19:00+08:00</published>
+        <author>
+            <name>David の 3 号基地</name>
+            <uri>https://www.david03.top</uri>
+        </author>
+        <summary type="text"><![CDATA[幸运的二十二🍀]]></summary>
     </entry>
         <entry>
         <title>最近惦念 20260110</title>
@@ -1122,49 +1199,5 @@
             <uri>https://www.luozhiyun.com</uri>
         </author>
         <summary type="text"><![CDATA[如何正确预估redis写入容量]]></summary>
-    </entry>
-        <entry>
-        <title>请选择一个你最讨厌的剧</title>
-        <id>146810</id>
-        <link href="https://dangeer.com/posts/a-strange-webpage/?utm_source=blogfinder" />
-        <published>2026-02-20T12:16:32+08:00</published>
-        <author>
-            <name>丹格尔</name>
-            <uri>https://dangeer.com</uri>
-        </author>
-        <summary type="text"><![CDATA[请选择一个你最讨厌的剧]]></summary>
-    </entry>
-        <entry>
-        <title>2026</title>
-        <id>146797</id>
-        <link href="https://airy.ink/times/426?utm_source=blogfinder" />
-        <published>2026-02-20T12:00:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[2026]]></summary>
-    </entry>
-        <entry>
-        <title>20260217</title>
-        <id>146794</id>
-        <link href="https://61.life/2026/0217?utm_source=blogfinder" />
-        <published>2026-02-20T11:38:58+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260217]]></summary>
-    </entry>
-        <entry>
-        <title>2025 年终总结</title>
-        <id>146803</id>
-        <link href="https://lifelonglearn.ing/summary-of-2025?utm_source=blogfinder" />
-        <published>2026-02-20T11:07:01+08:00</published>
-        <author>
-            <name>奶爸博客</name>
-            <uri>https://lifelonglearn.ing</uri>
-        </author>
-        <summary type="text"><![CDATA[2025 年终总结]]></summary>
     </entry>
     </feed>
