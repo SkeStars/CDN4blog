@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-23T17:00:43+08:00</updated>
+    <updated>2026-02-23T18:00:43+08:00</updated>
         <entry>
         <title>成语之都——邯郸，赴一场传统艺术与现代生活的春节之约</title>
         <id>146986</id>
@@ -22,6 +22,17 @@
             <uri>https://blog.stoh.cc</uri>
         </author>
         <summary type="text"><![CDATA[成语之都——邯郸，赴一场传统艺术与现代生活的春节之约]]></summary>
+    </entry>
+        <entry>
+        <title>过年流水账 0223</title>
+        <id>146988</id>
+        <link href="https://blog.solazy.me/20260223/?utm_source=blogfinder" />
+        <published>2026-02-23T13:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[过年流水账 0223]]></summary>
     </entry>
         <entry>
         <title>《史记·刺客列传》所得有二</title>
@@ -178,6 +189,17 @@
         <summary type="text"><![CDATA[稻草人周刊 Vol.69]]></summary>
     </entry>
         <entry>
+        <title>iOS APP 回退旧版本</title>
+        <id>146987</id>
+        <link href="https://hux.ink/posts/roll-back-to-previous-version/?utm_source=blogfinder" />
+        <published>2026-02-22T23:30:00+08:00</published>
+        <author>
+            <name>Counting Stars</name>
+            <uri>https://hux.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[iOS APP 回退旧版本]]></summary>
+    </entry>
+        <entry>
         <title>春节小记</title>
         <id>146985</id>
         <link href="https://yinji.org/chinese-new-year-2026.html?utm_source=blogfinder" />
@@ -198,6 +220,17 @@
             <uri>https://yuanchaofa.com</uri>
         </author>
         <summary type="text"><![CDATA[Agent 系统中的 Prompt Caching 设计（下）：上下文管理与子代理架构]]></summary>
+    </entry>
+        <entry>
+        <title>过年流水账 0222</title>
+        <id>146989</id>
+        <link href="https://blog.solazy.me/20260222/?utm_source=blogfinder" />
+        <published>2026-02-22T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[过年流水账 0222]]></summary>
     </entry>
         <entry>
         <title>你说这是熊出没？</title>
@@ -1155,27 +1188,5 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[过年比上班累啊]]></summary>
-    </entry>
-        <entry>
-        <title>快！免费CDN套上</title>
-        <id>146875</id>
-        <link href="https://zooyoo.top/article.php?id=34&amp;utm_source=blogfinder" />
-        <published>2026-02-20T17:54:49+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[快！免费CDN套上]]></summary>
-    </entry>
-        <entry>
-        <title>积分抽奖功能惊喜上线</title>
-        <id>146806</id>
-        <link href="https://zhujay.com/talking/?id=1199&amp;utm_source=blogfinder" />
-        <published>2026-02-20T17:04:30+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[积分抽奖功能惊喜上线]]></summary>
     </entry>
     </feed>
