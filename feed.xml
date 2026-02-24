@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-24T13:00:36+08:00</updated>
+    <updated>2026-02-24T14:00:39+08:00</updated>
+        <entry>
+        <title>从 v1 到 v2，谈谈这个简单博客背后的架构演进与实现</title>
+        <id>147027</id>
+        <link href="https://blog.grtsinry43.com/posts/grtblog-v2-architecture?utm_source=blogfinder" />
+        <published>2026-02-24T13:56:28+08:00</published>
+        <author>
+            <name>Grtsinry43&#039;s Blog</name>
+            <uri>https://blog.grtsinry43.com</uri>
+        </author>
+        <summary type="text"><![CDATA[从 v1 到 v2，谈谈这个简单博客背后的架构演进与实现]]></summary>
+    </entry>
+        <entry>
+        <title>告别重复劳动！一键填充评论的神奇书签脚本</title>
+        <id>147026</id>
+        <link href="https://wuqishi.com/magical-bookmark-script-to-populate-comments-with-one-click/?utm_source=blogfinder" />
+        <published>2026-02-24T13:31:52+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[告别重复劳动！一键填充评论的神奇书签脚本]]></summary>
+    </entry>
         <entry>
         <title>留守成都“过年”</title>
         <id>147024</id>
@@ -1287,16 +1309,5 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[ClaudeCode 开源版本 OpenCode 与 Github Copilot 的不同使用场景]]></summary>
-    </entry>
-        <entry>
-        <title>过年流水账 0221</title>
-        <id>146878</id>
-        <link href="https://blog.solazy.me/20260221/?utm_source=blogfinder" />
-        <published>2026-02-21T14:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[过年流水账 0221]]></summary>
     </entry>
     </feed>
