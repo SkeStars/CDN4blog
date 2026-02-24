@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-24T23:10:18+08:00</updated>
+    <updated>2026-02-25T00:01:16+08:00</updated>
         <entry>
         <title>为什么公交车没有安全带</title>
         <id>147049</id>
@@ -33,6 +33,17 @@
             <uri>https://meledee.com</uri>
         </author>
         <summary type="text"><![CDATA[解决BackWPup在aaPanel（宝塔）环境下报错的问题]]></summary>
+    </entry>
+        <entry>
+        <title>如何获得内心的安宁</title>
+        <id>147059</id>
+        <link href="https://www.geedea.pro/library/2026/how-to-find-peace/?utm_source=blogfinder" />
+        <published>2026-02-24T22:02:37+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[如何获得内心的安宁]]></summary>
     </entry>
         <entry>
         <title>腾讯游戏ACE反作弊系统简解析・什么是ACE、运行机制与作用</title>
@@ -145,6 +156,17 @@
         <summary type="text"><![CDATA[这是一篇写在爬山路上的博文]]></summary>
     </entry>
         <entry>
+        <title>最近怎么一直没看见军爸活跃啊</title>
+        <id>147061</id>
+        <link href="https://ygz.ink/archives/4444.html?utm_source=blogfinder" />
+        <published>2026-02-24T16:57:40+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[最近怎么一直没看见军爸活跃啊]]></summary>
+    </entry>
+        <entry>
         <title>实战避坑：FastAPI用懒加载+Lifespan优雅管理重型依赖</title>
         <id>147035</id>
         <link href="https://blog.8866321.xyz/Python/1-FastAPILazyLoading.html?utm_source=blogfinder" />
@@ -178,6 +200,83 @@
         <summary type="text"><![CDATA[从打字到动嘴：我的语音输入踩坑与探索]]></summary>
     </entry>
         <entry>
+        <title>07. Claude Code 集成：AI 写代码的正确姿势</title>
+        <id>147052</id>
+        <link href="https://www.xuezhao.space/openclaw_07.html?utm_source=blogfinder" />
+        <published>2026-02-24T15:16:00+08:00</published>
+        <author>
+            <name>海拉鲁打怪日记</name>
+            <uri>https://www.xuezhao.space</uri>
+        </author>
+        <summary type="text"><![CDATA[07. Claude Code 集成：AI 写代码的正确姿势]]></summary>
+    </entry>
+        <entry>
+        <title>06. 自动化工作流：Heartbeat、Cron 与备份</title>
+        <id>147053</id>
+        <link href="https://www.xuezhao.space/openclaw_06.html?utm_source=blogfinder" />
+        <published>2026-02-24T15:15:00+08:00</published>
+        <author>
+            <name>海拉鲁打怪日记</name>
+            <uri>https://www.xuezhao.space</uri>
+        </author>
+        <summary type="text"><![CDATA[06. 自动化工作流：Heartbeat、Cron 与备份]]></summary>
+    </entry>
+        <entry>
+        <title>05. 思源笔记联动：打造第二大脑</title>
+        <id>147054</id>
+        <link href="https://www.xuezhao.space/openclaw_05.html?utm_source=blogfinder" />
+        <published>2026-02-24T15:14:00+08:00</published>
+        <author>
+            <name>海拉鲁打怪日记</name>
+            <uri>https://www.xuezhao.space</uri>
+        </author>
+        <summary type="text"><![CDATA[05. 思源笔记联动：打造第二大脑]]></summary>
+    </entry>
+        <entry>
+        <title>03. Provider 与成本：从烧钱到精打细算</title>
+        <id>147055</id>
+        <link href="https://www.xuezhao.space/openclaw_03.html?utm_source=blogfinder" />
+        <published>2026-02-24T15:12:00+08:00</published>
+        <author>
+            <name>海拉鲁打怪日记</name>
+            <uri>https://www.xuezhao.space</uri>
+        </author>
+        <summary type="text"><![CDATA[03. Provider 与成本：从烧钱到精打细算]]></summary>
+    </entry>
+        <entry>
+        <title>02. 多 Agent 架构：让 AI 学会分工</title>
+        <id>147056</id>
+        <link href="https://www.xuezhao.space/openclaw_02.html?utm_source=blogfinder" />
+        <published>2026-02-24T15:11:00+08:00</published>
+        <author>
+            <name>海拉鲁打怪日记</name>
+            <uri>https://www.xuezhao.space</uri>
+        </author>
+        <summary type="text"><![CDATA[02. 多 Agent 架构：让 AI 学会分工]]></summary>
+    </entry>
+        <entry>
+        <title>01. 初见 OpenClaw：部署与第一次对话</title>
+        <id>147058</id>
+        <link href="https://www.xuezhao.space/openclaw_01.html?utm_source=blogfinder" />
+        <published>2026-02-24T15:10:00+08:00</published>
+        <author>
+            <name>海拉鲁打怪日记</name>
+            <uri>https://www.xuezhao.space</uri>
+        </author>
+        <summary type="text"><![CDATA[01. 初见 OpenClaw：部署与第一次对话]]></summary>
+    </entry>
+        <entry>
+        <title>04. 记忆系统：让 AI 记住你</title>
+        <id>147057</id>
+        <link href="https://www.xuezhao.space/openclaw_04.html?utm_source=blogfinder" />
+        <published>2026-02-24T15:10:00+08:00</published>
+        <author>
+            <name>海拉鲁打怪日记</name>
+            <uri>https://www.xuezhao.space</uri>
+        </author>
+        <summary type="text"><![CDATA[04. 记忆系统：让 AI 记住你]]></summary>
+    </entry>
+        <entry>
         <title>【读书记1635】多和田叶子《白鹤亮翅》</title>
         <id>147031</id>
         <link href="http://www.qncd.com/?p=12515&amp;utm_source=blogfinder" />
@@ -187,6 +286,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1635】多和田叶子《白鹤亮翅》]]></summary>
+    </entry>
+        <entry>
+        <title>不必用自己的认知替人规划</title>
+        <id>147060</id>
+        <link href="https://blog.solazy.me/20260224/?utm_source=blogfinder" />
+        <published>2026-02-24T15:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[不必用自己的认知替人规划]]></summary>
     </entry>
         <entry>
         <title>写在初中十周年同学聚会后：我觉得任何踏踏实实的生活都挺好的</title>
@@ -1331,49 +1441,5 @@
             <uri>https://blog.xxbjf.com</uri>
         </author>
         <summary type="text"><![CDATA[云端人生更新日志]]></summary>
-    </entry>
-        <entry>
-        <title>海的味道</title>
-        <id>146947</id>
-        <link href="https://tianheg.co/posts/taste-of-sea/?utm_source=blogfinder" />
-        <published>2026-02-22T00:00:00+08:00</published>
-        <author>
-            <name>一大加贝</name>
-            <uri>https://tianheg.co</uri>
-        </author>
-        <summary type="text"><![CDATA[海的味道]]></summary>
-    </entry>
-        <entry>
-        <title>The taste of sea</title>
-        <id>146946</id>
-        <link href="https://tianheg.co/posts/taste-of-sea-en/?utm_source=blogfinder" />
-        <published>2026-02-22T00:00:00+08:00</published>
-        <author>
-            <name>一大加贝</name>
-            <uri>https://tianheg.co</uri>
-        </author>
-        <summary type="text"><![CDATA[The taste of sea]]></summary>
-    </entry>
-        <entry>
-        <title>正月初六</title>
-        <id>146889</id>
-        <link href="https://bestcherish.com/9643.html?utm_source=blogfinder" />
-        <published>2026-02-21T23:50:48+08:00</published>
-        <author>
-            <name>灰常记忆</name>
-            <uri>https://bestcherish.com</uri>
-        </author>
-        <summary type="text"><![CDATA[正月初六]]></summary>
-    </entry>
-        <entry>
-        <title>我也曾为避让电动车而摔个狗啃屎，但我还是觉得自己享福了</title>
-        <id>146895</id>
-        <link href="https://xingbianren.cn/post/325.html?utm_source=blogfinder" />
-        <published>2026-02-21T23:36:12+08:00</published>
-        <author>
-            <name>刑辩人在路上</name>
-            <uri>https://xingbianren.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[我也曾为避让电动车而摔个狗啃屎，但我还是觉得自己享福了]]></summary>
     </entry>
     </feed>
