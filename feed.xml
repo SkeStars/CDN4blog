@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-24T11:00:15+08:00</updated>
+    <updated>2026-02-24T13:00:36+08:00</updated>
+        <entry>
+        <title>留守成都“过年”</title>
+        <id>147024</id>
+        <link href="https://liuqingwushui.top/archives/137/?utm_source=blogfinder" />
+        <published>2026-02-24T11:13:00+08:00</published>
+        <author>
+            <name>流情的博客</name>
+            <uri>https://liuqingwushui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[留守成都“过年”]]></summary>
+    </entry>
         <entry>
         <title>人生的彩蛋</title>
         <id>147021</id>
@@ -66,6 +77,17 @@
             <uri>https://blog.uuanqin.top</uri>
         </author>
         <summary type="text"><![CDATA[Spring AI 中使用 PGVector 实现向量存储]]></summary>
+    </entry>
+        <entry>
+        <title>【惊喜降临】正月初八开工大吉|抽奖结果公布</title>
+        <id>147025</id>
+        <link href="https://zhujay.com/talking/?id=1202&amp;utm_source=blogfinder" />
+        <published>2026-02-24T01:28:11+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【惊喜降临】正月初八开工大吉|抽奖结果公布]]></summary>
     </entry>
         <entry>
         <title>关于我的RSS订阅系统</title>
@@ -1276,27 +1298,5 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[过年流水账 0221]]></summary>
-    </entry>
-        <entry>
-        <title>明信片</title>
-        <id>146876</id>
-        <link href="https://ltmltm.cn/bk/1429.html?utm_source=blogfinder" />
-        <published>2026-02-21T12:42:00+08:00</published>
-        <author>
-            <name>因为很想念</name>
-            <uri>https://ltmltm.cn/bk</uri>
-        </author>
-        <summary type="text"><![CDATA[明信片]]></summary>
-    </entry>
-        <entry>
-        <title>控糖日记 #7 糖耐量测试</title>
-        <id>146887</id>
-        <link href="https://knay.net/note/irman-otgg-glucose%20tolerance%20test%20results-20260215?utm_source=blogfinder" />
-        <published>2026-02-21T11:42:09+08:00</published>
-        <author>
-            <name>Yang&#039;s Blog</name>
-            <uri>https://knay.net</uri>
-        </author>
-        <summary type="text"><![CDATA[控糖日记 #7 糖耐量测试]]></summary>
     </entry>
     </feed>
