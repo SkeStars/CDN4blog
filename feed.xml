@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-24T17:00:56+08:00</updated>
+    <updated>2026-02-24T18:00:29+08:00</updated>
+        <entry>
+        <title>实战避坑：FastAPI用懒加载+Lifespan优雅管理重型依赖</title>
+        <id>147035</id>
+        <link href="https://blog.8866321.xyz/Python/1-FastAPILazyLoading.html?utm_source=blogfinder" />
+        <published>2026-02-24T16:55:31+08:00</published>
+        <author>
+            <name>Andy</name>
+            <uri>https://blog.8866321.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[实战避坑：FastAPI用懒加载+Lifespan优雅管理重型依赖]]></summary>
+    </entry>
+        <entry>
+        <title>新增股票减仓计算功能，补仓计算器小程序升级</title>
+        <id>147033</id>
+        <link href="https://www.sunzhongwei.com/stock-reduction-calculation?utm_source=blogfinder" />
+        <published>2026-02-24T16:00:23+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[新增股票减仓计算功能，补仓计算器小程序升级]]></summary>
+    </entry>
         <entry>
         <title>【读书记1635】多和田叶子《白鹤亮翅》</title>
         <id>147031</id>
@@ -33,6 +55,17 @@
             <uri>https://www.52txr.cn</uri>
         </author>
         <summary type="text"><![CDATA[写在初中十周年同学聚会后：我觉得任何踏踏实实的生活都挺好的]]></summary>
+    </entry>
+        <entry>
+        <title>实战选型：为什么新项目更推荐WebFlux而非Spring MVC？</title>
+        <id>147036</id>
+        <link href="https://blog.8866321.xyz/Java/3-RecommendWebFlux.html?utm_source=blogfinder" />
+        <published>2026-02-24T14:32:07+08:00</published>
+        <author>
+            <name>Andy</name>
+            <uri>https://blog.8866321.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[实战选型：为什么新项目更推荐WebFlux而非Spring MVC？]]></summary>
     </entry>
         <entry>
         <title>从 v1 到 v2，谈谈这个简单博客背后的架构演进与实现</title>
@@ -57,6 +90,17 @@
         <summary type="text"><![CDATA[告别重复劳动！一键填充评论的神奇书签脚本]]></summary>
     </entry>
         <entry>
+        <title>购买了文石Poke6电纸书</title>
+        <id>147037</id>
+        <link href="https://www.xiaocaoderijiben.online/archives/260?utm_source=blogfinder" />
+        <published>2026-02-24T13:31:47+08:00</published>
+        <author>
+            <name>小草的日记本</name>
+            <uri>https://www.xiaocaoderijiben.online</uri>
+        </author>
+        <summary type="text"><![CDATA[购买了文石Poke6电纸书]]></summary>
+    </entry>
+        <entry>
         <title>赛博朋克2077 — 你会救一个欺骗你的人吗？</title>
         <id>147030</id>
         <link href="https://jyblog.cn/4940/?utm_source=blogfinder" />
@@ -77,6 +121,17 @@
             <uri>https://liuqingwushui.top</uri>
         </author>
         <summary type="text"><![CDATA[留守成都“过年”]]></summary>
+    </entry>
+        <entry>
+        <title>七不出门，春节杂记</title>
+        <id>147034</id>
+        <link href="https://airy.ink/daily/427?utm_source=blogfinder" />
+        <published>2026-02-24T11:09:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[七不出门，春节杂记]]></summary>
     </entry>
         <entry>
         <title>人生的彩蛋</title>
@@ -1287,27 +1342,5 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[赤裸恐惧与命运惯性]]></summary>
-    </entry>
-        <entry>
-        <title>理解 KV Cache 与 Prompt Caching：LLM 推理加速的核心机制</title>
-        <id>146951</id>
-        <link href="https://yuanchaofa.com/post/understanding-kv-cache-and-prompt-cache-basics?utm_source=blogfinder" />
-        <published>2026-02-21T18:00:00+08:00</published>
-        <author>
-            <name>Chaofa Yuan</name>
-            <uri>https://yuanchaofa.com</uri>
-        </author>
-        <summary type="text"><![CDATA[理解 KV Cache 与 Prompt Caching：LLM 推理加速的核心机制]]></summary>
-    </entry>
-        <entry>
-        <title>EdgeOne Pages 部署 Twikoo 评论</title>
-        <id>146884</id>
-        <link href="https://usj.cc/20260221.html?utm_source=blogfinder" />
-        <published>2026-02-21T17:46:10+08:00</published>
-        <author>
-            <name>优世界</name>
-            <uri>https://usj.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[EdgeOne Pages 部署 Twikoo 评论]]></summary>
     </entry>
     </feed>
