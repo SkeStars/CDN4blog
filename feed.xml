@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-24T18:00:29+08:00</updated>
+    <updated>2026-02-24T19:08:57+08:00</updated>
         <entry>
         <title>实战避坑：FastAPI用懒加载+Lifespan优雅管理重型依赖</title>
         <id>147035</id>
@@ -209,6 +209,17 @@
             <uri>https://moriform.com</uri>
         </author>
         <summary type="text"><![CDATA[关于我的RSS订阅系统]]></summary>
+    </entry>
+        <entry>
+        <title>2025，浪潮与拧巴</title>
+        <id>147038</id>
+        <link href="https://yuanchaofa.com/blog/2025-year-summary?utm_source=blogfinder" />
+        <published>2026-02-24T00:07:00+08:00</published>
+        <author>
+            <name>Chaofa Yuan</name>
+            <uri>https://yuanchaofa.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2025，浪潮与拧巴]]></summary>
     </entry>
         <entry>
         <title>我带眼镜了</title>
@@ -1320,27 +1331,5 @@
             <uri>https://chuishen.xyz</uri>
         </author>
         <summary type="text"><![CDATA[塔楼的故事]]></summary>
-    </entry>
-        <entry>
-        <title>今明两天吃结婚酒</title>
-        <id>146891</id>
-        <link href="https://ygz.ink/archives/4423.html?utm_source=blogfinder" />
-        <published>2026-02-21T18:23:01+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[今明两天吃结婚酒]]></summary>
-    </entry>
-        <entry>
-        <title>赤裸恐惧与命运惯性</title>
-        <id>146883</id>
-        <link href="https://d-d.design/single/18256?utm_source=blogfinder" />
-        <published>2026-02-21T18:07:43+08:00</published>
-        <author>
-            <name>孤斗</name>
-            <uri>https://d-d.design</uri>
-        </author>
-        <summary type="text"><![CDATA[赤裸恐惧与命运惯性]]></summary>
     </entry>
     </feed>
