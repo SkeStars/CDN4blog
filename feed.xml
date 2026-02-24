@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-24T19:08:57+08:00</updated>
+    <updated>2026-02-24T20:00:18+08:00</updated>
         <entry>
         <title>实战避坑：FastAPI用懒加载+Lifespan优雅管理重型依赖</title>
         <id>147035</id>
@@ -1298,38 +1298,5 @@
             <uri>https://hjyl.org</uri>
         </author>
         <summary type="text"><![CDATA[开工]]></summary>
-    </entry>
-        <entry>
-        <title>迎财神日记：鞭炮、鸡排与&quot;计算机研发&quot;</title>
-        <id>146885</id>
-        <link href="https://nxxy335.top/archives/99mkibdd?utm_source=blogfinder" />
-        <published>2026-02-21T19:54:33+08:00</published>
-        <author>
-            <name>暖心向阳</name>
-            <uri>https://nxxy335.top</uri>
-        </author>
-        <summary type="text"><![CDATA[迎财神日记：鞭炮、鸡排与&quot;计算机研发&quot;]]></summary>
-    </entry>
-        <entry>
-        <title>溺空</title>
-        <id>146896</id>
-        <link href="https://chuishen.xyz/01/unkenIntoTheky.html?utm_source=blogfinder" />
-        <published>2026-02-21T19:15:11+08:00</published>
-        <author>
-            <name>Lafcadia&#039;s Blog</name>
-            <uri>https://chuishen.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[溺空]]></summary>
-    </entry>
-        <entry>
-        <title>塔楼的故事</title>
-        <id>146897</id>
-        <link href="https://chuishen.xyz/01/TowerTale.html?utm_source=blogfinder" />
-        <published>2026-02-21T19:09:07+08:00</published>
-        <author>
-            <name>Lafcadia&#039;s Blog</name>
-            <uri>https://chuishen.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[塔楼的故事]]></summary>
     </entry>
     </feed>
