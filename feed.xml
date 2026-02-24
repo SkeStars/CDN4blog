@@ -11,7 +11,73 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-24T00:03:19+08:00</updated>
+    <updated>2026-02-24T11:00:15+08:00</updated>
+        <entry>
+        <title>人生的彩蛋</title>
+        <id>147021</id>
+        <link href="https://onojyun.com/2026/02/24/%e4%ba%ba%e7%94%9f%e7%9a%84%e5%bd%a9%e8%9b%8b/?utm_source=blogfinder" />
+        <published>2026-02-24T10:00:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://onojyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[人生的彩蛋]]></summary>
+    </entry>
+        <entry>
+        <title>一场没烧透的价值观碰撞——读伍绮诗的《小小小小的火》</title>
+        <id>147022</id>
+        <link href="https://www.jfsay.com/archives/3938.html?utm_source=blogfinder" />
+        <published>2026-02-24T08:30:28+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[一场没烧透的价值观碰撞——读伍绮诗的《小小小小的火》]]></summary>
+    </entry>
+        <entry>
+        <title>「无时无刻」与「没日没夜」</title>
+        <id>147013</id>
+        <link href="https://www.immarcus.com/blog/no-no-no-no?utm_source=blogfinder" />
+        <published>2026-02-24T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[「无时无刻」与「没日没夜」]]></summary>
+    </entry>
+        <entry>
+        <title>吊干杏，甜如蜜，最好吃的西安杏子</title>
+        <id>147023</id>
+        <link href="https://www.liuzen.com/xian-diaoxinggan.html?utm_source=blogfinder" />
+        <published>2026-02-24T07:49:55+08:00</published>
+        <author>
+            <name>刘明禅</name>
+            <uri>https://www.liuzen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[吊干杏，甜如蜜，最好吃的西安杏子]]></summary>
+    </entry>
+        <entry>
+        <title>Spring AI 中使用 PGVector 实现向量存储</title>
+        <id>147007</id>
+        <link href="https://blog.uuanqin.top/p/f3908a2e/?utm_source=blogfinder" />
+        <published>2026-02-24T02:43:44+08:00</published>
+        <author>
+            <name>半方池水半方田</name>
+            <uri>https://blog.uuanqin.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Spring AI 中使用 PGVector 实现向量存储]]></summary>
+    </entry>
+        <entry>
+        <title>关于我的RSS订阅系统</title>
+        <id>147008</id>
+        <link href="https://moriform.com/2026/02/23/rsslast/?utm_source=blogfinder" />
+        <published>2026-02-24T01:18:21+08:00</published>
+        <author>
+            <name>森月台</name>
+            <uri>https://moriform.com</uri>
+        </author>
+        <summary type="text"><![CDATA[关于我的RSS订阅系统]]></summary>
+    </entry>
         <entry>
         <title>20260223</title>
         <id>147001</id>
@@ -68,6 +134,17 @@
         <summary type="text"><![CDATA[冬至（65/81）：等待英语四六级出分公告，彻底关闭 Pycharm 的代码补全功能]]></summary>
     </entry>
         <entry>
+        <title>Ubuntu24.04 Docker安装|调试|编写镜像|运行第一个容器</title>
+        <id>147018</id>
+        <link href="https://www.suiyan.cc/blog/20260223140718?utm_source=blogfinder" />
+        <published>2026-02-23T22:07:18+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[Ubuntu24.04 Docker安装|调试|编写镜像|运行第一个容器]]></summary>
+    </entry>
+        <entry>
         <title>vimtutor 每章的核心命令速查表</title>
         <id>146994</id>
         <link href="https://www.suiyan.cc/blog/20260223123622?utm_source=blogfinder" />
@@ -99,6 +176,17 @@
             <uri>https://blog.hzchu.top</uri>
         </author>
         <summary type="text"><![CDATA[罗小黑网站分析]]></summary>
+    </entry>
+        <entry>
+        <title>世界秩序已崩塌，买入黄金是最好的选择</title>
+        <id>147014</id>
+        <link href="https://www.zhyok.cn/index.php/archives/249/?utm_source=blogfinder" />
+        <published>2026-02-23T18:07:00+08:00</published>
+        <author>
+            <name>秋記 Autumn</name>
+            <uri>https://www.zhyok.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[世界秩序已崩塌，买入黄金是最好的选择]]></summary>
     </entry>
         <entry>
         <title>这个年，就这么过完了</title>
@@ -156,6 +244,17 @@
         <summary type="text"><![CDATA[成语之都——邯郸，赴一场传统艺术与现代生活的春节之约]]></summary>
     </entry>
         <entry>
+        <title>OpenClaw 树莓派生产化部署实录：从可运行到可审计、可恢复、可持续</title>
+        <id>147020</id>
+        <link href="https://bluedog.website/posts/archive/%E6%8A%80%E6%9C%AF%E5%A5%BD%E6%96%87/openclaw-raspberrypi-deployment/?utm_source=blogfinder" />
+        <published>2026-02-23T13:50:00+08:00</published>
+        <author>
+            <name>BlueDog&#039;s Blog</name>
+            <uri>https://bluedog.website</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenClaw 树莓派生产化部署实录：从可运行到可审计、可恢复、可持续]]></summary>
+    </entry>
+        <entry>
         <title>过年回老家的一点味觉记录</title>
         <id>146997</id>
         <link href="https://www.tortorse.com/archives/spring-festival-zhenjiang-taste-notes/?utm_source=blogfinder" />
@@ -165,6 +264,17 @@
             <uri>https://www.tortorse.com</uri>
         </author>
         <summary type="text"><![CDATA[过年回老家的一点味觉记录]]></summary>
+    </entry>
+        <entry>
+        <title>「近步报告」#11：在悠闲的日子里</title>
+        <id>147019</id>
+        <link href="https://loneapex.cn/archives/5163?utm_source=blogfinder" />
+        <published>2026-02-23T13:04:45+08:00</published>
+        <author>
+            <name>Mimosa 的小屋</name>
+            <uri>https://loneapex.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[「近步报告」#11：在悠闲的日子里]]></summary>
     </entry>
         <entry>
         <title>过年流水账 0223</title>
@@ -321,6 +431,39 @@
         <summary type="text"><![CDATA[相反的你和我・同频的心与心]]></summary>
     </entry>
         <entry>
+        <title>CF、Vercel、Netlify优选</title>
+        <id>147016</id>
+        <link href="https://b.oxue.de/posts/better-cerlify/?utm_source=blogfinder" />
+        <published>2026-02-23T08:00:00+08:00</published>
+        <author>
+            <name>傲雪の</name>
+            <uri>https://b.oxue.de</uri>
+        </author>
+        <summary type="text"><![CDATA[CF、Vercel、Netlify优选]]></summary>
+    </entry>
+        <entry>
+        <title>初七，过了一个“静悄悄”的年</title>
+        <id>147011</id>
+        <link href="https://blog.gudong.site/2026/02/23/guonian.html?utm_source=blogfinder" />
+        <published>2026-02-23T08:00:00+08:00</published>
+        <author>
+            <name>咕咚同学</name>
+            <uri>https://blog.gudong.site</uri>
+        </author>
+        <summary type="text"><![CDATA[初七，过了一个“静悄悄”的年]]></summary>
+    </entry>
+        <entry>
+        <title>我的退休计划：从无期到半退休</title>
+        <id>147010</id>
+        <link href="https://www.bmpi.dev/self/my-retirement-plan/?utm_source=blogfinder" />
+        <published>2026-02-23T08:00:00+08:00</published>
+        <author>
+            <name>构建我的被动收入</name>
+            <uri>https://www.bmpi.dev</uri>
+        </author>
+        <summary type="text"><![CDATA[我的退休计划：从无期到半退休]]></summary>
+    </entry>
+        <entry>
         <title>二十一世纪的愚昧</title>
         <id>146964</id>
         <link href="https://www.immarcus.com/blog/foolishness-of-the-21st-century?utm_source=blogfinder" />
@@ -341,6 +484,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[蚂蚁阿福的体脂秤你们领了没]]></summary>
+    </entry>
+        <entry>
+        <title>在Reaper中使用MAGC实现响度补偿</title>
+        <id>147009</id>
+        <link href="https://moriform.com/2026/02/22/magcgaincompensation/?utm_source=blogfinder" />
+        <published>2026-02-23T06:18:59+08:00</published>
+        <author>
+            <name>森月台</name>
+            <uri>https://moriform.com</uri>
+        </author>
+        <summary type="text"><![CDATA[在Reaper中使用MAGC实现响度补偿]]></summary>
     </entry>
         <entry>
         <title>Astro 解决代码块的文件名重叠，附带测试工程师笑话</title>
@@ -794,6 +948,28 @@
         <summary type="text"><![CDATA[开工大吉]]></summary>
     </entry>
         <entry>
+        <title>萌备徽章化</title>
+        <id>147017</id>
+        <link href="https://b.oxue.de/posts/moeicp-badgify/?utm_source=blogfinder" />
+        <published>2026-02-22T08:00:00+08:00</published>
+        <author>
+            <name>傲雪の</name>
+            <uri>https://b.oxue.de</uri>
+        </author>
+        <summary type="text"><![CDATA[萌备徽章化]]></summary>
+    </entry>
+        <entry>
+        <title>一位特殊的读者：看我文章到凌晨 3 点</title>
+        <id>147012</id>
+        <link href="https://blog.gudong.site/2026/02/22/guma.html?utm_source=blogfinder" />
+        <published>2026-02-22T08:00:00+08:00</published>
+        <author>
+            <name>咕咚同学</name>
+            <uri>https://blog.gudong.site</uri>
+        </author>
+        <summary type="text"><![CDATA[一位特殊的读者：看我文章到凌晨 3 点]]></summary>
+    </entry>
+        <entry>
         <title>Hacker News Digests and Comments with My Claw</title>
         <id>146962</id>
         <link href="https://cheng.st/2026/02/22/hacker-news-digests-and-comments-with-my-claw/?utm_source=blogfinder" />
@@ -1122,137 +1298,5 @@
             <uri>https://knay.net</uri>
         </author>
         <summary type="text"><![CDATA[控糖日记 #7 糖耐量测试]]></summary>
-    </entry>
-        <entry>
-        <title>大家新年快乐！</title>
-        <id>146879</id>
-        <link href="https://1900.live/da-jia-xin-nian-kuai-le/?utm_source=blogfinder" />
-        <published>2026-02-21T10:50:45+08:00</published>
-        <author>
-            <name>我道</name>
-            <uri>https://1900.live</uri>
-        </author>
-        <summary type="text"><![CDATA[大家新年快乐！]]></summary>
-    </entry>
-        <entry>
-        <title>【阅读笔记】沙尘图像蓝色通道校正A Fast Sand-Dust Image Enhancement Algorithm by Blue Channel Compensation and Guided Image Filtering</title>
-        <id>146910</id>
-        <link href="https://www.aomanhao.top/archives/428/?utm_source=blogfinder" />
-        <published>2026-02-21T10:08:00+08:00</published>
-        <author>
-            <name>AomanHao</name>
-            <uri>https://www.aomanhao.top</uri>
-        </author>
-        <summary type="text"><![CDATA[【阅读笔记】沙尘图像蓝色通道校正A Fast Sand-Dust Image Enhancement Algorithm by Blue Channel Compensation and Guided Image Filtering]]></summary>
-    </entry>
-        <entry>
-        <title>初五迎财神啦</title>
-        <id>146874</id>
-        <link href="https://zhujay.com/talking/?id=1200&amp;utm_source=blogfinder" />
-        <published>2026-02-21T10:04:16+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[初五迎财神啦]]></summary>
-    </entry>
-        <entry>
-        <title>归档</title>
-        <id>146871</id>
-        <link href="https://onojyun.com/2026/02/21/%e5%bd%92%e6%a1%a3/?utm_source=blogfinder" />
-        <published>2026-02-21T10:00:00+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://onojyun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[归档]]></summary>
-    </entry>
-        <entry>
-        <title>游哈尔滨工业大学、731罪证陈列馆</title>
-        <id>146890</id>
-        <link href="https://www.jfsay.com/archives/3959.html?utm_source=blogfinder" />
-        <published>2026-02-21T09:21:54+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[游哈尔滨工业大学、731罪证陈列馆]]></summary>
-    </entry>
-        <entry>
-        <title>AI 安全 Agent 触发的预算迁移、产业重估与新赢家画像</title>
-        <id>146912</id>
-        <link href="https://bluedog.website/posts/archive/%E6%8A%80%E6%9C%AF%E5%A5%BD%E6%96%87/ai-%E5%AE%89%E5%85%A8-agent-%E8%A7%A6%E5%8F%91%E7%9A%84%E9%A2%84%E7%AE%97%E8%BF%81%E7%A7%BB%E4%BA%A7%E4%B8%9A%E9%87%8D%E4%BC%B0%E4%B8%8E%E6%96%B0%E8%B5%A2%E5%AE%B6%E7%94%BB%E5%83%8F/?utm_source=blogfinder" />
-        <published>2026-02-21T09:00:00+08:00</published>
-        <author>
-            <name>BlueDog&#039;s Blog</name>
-            <uri>https://bluedog.website</uri>
-        </author>
-        <summary type="text"><![CDATA[AI 安全 Agent 触发的预算迁移、产业重估与新赢家画像]]></summary>
-    </entry>
-        <entry>
-        <title>新年的投资逻辑已经改变</title>
-        <id>146963</id>
-        <link href="https://ddbzhou.com/post/xinniantouziluojigaibian/?utm_source=blogfinder" />
-        <published>2026-02-21T08:00:00+08:00</published>
-        <author>
-            <name>兜兜爸投资笔记</name>
-            <uri>https://ddbzhou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[新年的投资逻辑已经改变]]></summary>
-    </entry>
-        <entry>
-        <title>对方跑神撞了我的车，我在澳洲是怎么处理的？</title>
-        <id>146906</id>
-        <link href="https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/02/21/my-car-accident-experience-in-australia.html?utm_source=blogfinder" />
-        <published>2026-02-21T08:00:00+08:00</published>
-        <author>
-            <name>Oz Explorer</name>
-            <uri>https://www.ozexplorers.com</uri>
-        </author>
-        <summary type="text"><![CDATA[对方跑神撞了我的车，我在澳洲是怎么处理的？]]></summary>
-    </entry>
-        <entry>
-        <title>马年碎碎念：AI、压岁钱和编程思维</title>
-        <id>146905</id>
-        <link href="https://innomad.io/2026-horse-year-reflection/?utm_source=blogfinder" />
-        <published>2026-02-21T08:00:00+08:00</published>
-        <author>
-            <name>Innomad</name>
-            <uri>https://innomad.io</uri>
-        </author>
-        <summary type="text"><![CDATA[马年碎碎念：AI、压岁钱和编程思维]]></summary>
-    </entry>
-        <entry>
-        <title>微信 PC 版的大杀器：按住 Fn 键就能语音输入</title>
-        <id>146904</id>
-        <link href="https://blog.gudong.site/2026/02/21/weixinvoice.html?utm_source=blogfinder" />
-        <published>2026-02-21T08:00:00+08:00</published>
-        <author>
-            <name>咕咚同学</name>
-            <uri>https://blog.gudong.site</uri>
-        </author>
-        <summary type="text"><![CDATA[微信 PC 版的大杀器：按住 Fn 键就能语音输入]]></summary>
-    </entry>
-        <entry>
-        <title>谦虚谨慎与你的神同行</title>
-        <id>146869</id>
-        <link href="https://www.immarcus.com/blog/walk-humbly-with-god?utm_source=blogfinder" />
-        <published>2026-02-21T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[谦虚谨慎与你的神同行]]></summary>
-    </entry>
-        <entry>
-        <title>2026 欧洲之旅 Day 6：真正重要的东西，用眼睛是看不见的。</title>
-        <id>146914</id>
-        <link href="https://www.ixiqin.com/2026/02/21/2026-european-tour-day-6-what-is-truly-important-cannot/?utm_source=blogfinder" />
-        <published>2026-02-21T03:05:34+08:00</published>
-        <author>
-            <name>西秦公子</name>
-            <uri>https://www.ixiqin.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026 欧洲之旅 Day 6：真正重要的东西，用眼睛是看不见的。]]></summary>
     </entry>
     </feed>
