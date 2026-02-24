@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-24T20:00:18+08:00</updated>
+    <updated>2026-02-24T21:01:51+08:00</updated>
+        <entry>
+        <title>马年开工第一天</title>
+        <id>147039</id>
+        <link href="https://cuixiping.com/blog/life/nqoflm?utm_source=blogfinder" />
+        <published>2026-02-24T19:16:00+08:00</published>
+        <author>
+            <name>崔话记</name>
+            <uri>https://cuixiping.com</uri>
+        </author>
+        <summary type="text"><![CDATA[马年开工第一天]]></summary>
+    </entry>
         <entry>
         <title>实战避坑：FastAPI用懒加载+Lifespan优雅管理重型依赖</title>
         <id>147035</id>
@@ -1276,27 +1287,5 @@
             <uri>https://taxodium.ink</uri>
         </author>
         <summary type="text"><![CDATA[怀念方大同]]></summary>
-    </entry>
-        <entry>
-        <title>像投资一般生活</title>
-        <id>146899</id>
-        <link href="https://blog.youguanxinqing.xyz/index.php/archives/183/?utm_source=blogfinder" />
-        <published>2026-02-21T20:34:00+08:00</published>
-        <author>
-            <name>有关心情</name>
-            <uri>https://blog.youguanxinqing.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[像投资一般生活]]></summary>
-    </entry>
-        <entry>
-        <title>开工</title>
-        <id>146886</id>
-        <link href="https://hjyl.org/fuck-2026/?utm_source=blogfinder" />
-        <published>2026-02-21T20:24:46+08:00</published>
-        <author>
-            <name>皇家元林</name>
-            <uri>https://hjyl.org</uri>
-        </author>
-        <summary type="text"><![CDATA[开工]]></summary>
     </entry>
     </feed>
