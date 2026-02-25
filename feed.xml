@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-25T17:01:21+08:00</updated>
+    <updated>2026-02-25T18:00:38+08:00</updated>
+        <entry>
+        <title>使用电纸书阅读确实护眼</title>
+        <id>147115</id>
+        <link href="https://www.xiaocaoderijiben.online/archives/267?utm_source=blogfinder" />
+        <published>2026-02-25T16:47:59+08:00</published>
+        <author>
+            <name>小草的日记本</name>
+            <uri>https://www.xiaocaoderijiben.online</uri>
+        </author>
+        <summary type="text"><![CDATA[使用电纸书阅读确实护眼]]></summary>
+    </entry>
+        <entry>
+        <title>MES 系统中常见的缩写前缀汇总，如 MD、MO、LOT、AD、SM 等</title>
+        <id>147109</id>
+        <link href="https://www.sunzhongwei.com/mes-systems-shortcut?utm_source=blogfinder" />
+        <published>2026-02-25T16:35:31+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[MES 系统中常见的缩写前缀汇总，如 MD、MO、LOT、AD、SM 等]]></summary>
+    </entry>
         <entry>
         <title>过年期间的事</title>
         <id>147108</id>
@@ -35,6 +57,28 @@
         <summary type="text"><![CDATA[读书笔记：图解大模型——生成式AI原理与实战]]></summary>
     </entry>
         <entry>
+        <title>湖南农村见闻：同样人口流出，为何活出不同样子？</title>
+        <id>147112</id>
+        <link href="https://lawtee.com/article/rural-observation-southern-hunan-2026/?utm_source=blogfinder" />
+        <published>2026-02-25T14:00:00+08:00</published>
+        <author>
+            <name>老 T 博客</name>
+            <uri>https://lawtee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[湖南农村见闻：同样人口流出，为何活出不同样子？]]></summary>
+    </entry>
+        <entry>
+        <title>cursor，claude code使用skill</title>
+        <id>147113</id>
+        <link href="https://liuqingwushui.top/archives/138/?utm_source=blogfinder" />
+        <published>2026-02-25T12:47:00+08:00</published>
+        <author>
+            <name>流情的博客</name>
+            <uri>https://liuqingwushui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[cursor，claude code使用skill]]></summary>
+    </entry>
+        <entry>
         <title>坑德基疯狂星期四文案收集</title>
         <id>147107</id>
         <link href="https://mojue88.com/index.php/archives/50.html?utm_source=blogfinder" />
@@ -44,6 +88,17 @@
             <uri>https://mojue88.com</uri>
         </author>
         <summary type="text"><![CDATA[坑德基疯狂星期四文案收集]]></summary>
+    </entry>
+        <entry>
+        <title>2026马年春节</title>
+        <id>147111</id>
+        <link href="https://hux.ink/posts/horse-year/?utm_source=blogfinder" />
+        <published>2026-02-25T11:31:00+08:00</published>
+        <author>
+            <name>Counting Stars</name>
+            <uri>https://hux.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[2026马年春节]]></summary>
     </entry>
         <entry>
         <title>2026春节后第一个工作日，微信公众号粉丝数突破 5000</title>
@@ -134,6 +189,17 @@
         <summary type="text"><![CDATA[年过完了，总结下来就一个字累]]></summary>
     </entry>
         <entry>
+        <title>SQL 性能调优：8 种典型低效写法的执行计划分析与修复</title>
+        <id>147114</id>
+        <link href="https://blog.8866321.xyz/MySQL/4-SQLPerformanceTuning.html?utm_source=blogfinder" />
+        <published>2026-02-25T09:41:06+08:00</published>
+        <author>
+            <name>Andy</name>
+            <uri>https://blog.8866321.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[SQL 性能调优：8 种典型低效写法的执行计划分析与修复]]></summary>
+    </entry>
+        <entry>
         <title>办宽带送的新魔百合M101机顶盒刷Armbian系统</title>
         <id>147106</id>
         <link href="https://www.biibii.cn/574.html?utm_source=blogfinder" />
@@ -220,6 +286,17 @@
             <uri>https://hyx.ink</uri>
         </author>
         <summary type="text"><![CDATA[忙碌小一个月碎念念和新年寄语]]></summary>
+    </entry>
+        <entry>
+        <title>看完就懂 useLayoutEffect</title>
+        <id>147110</id>
+        <link href="https://ssshooter.com/react-uselayouteffect/?utm_source=blogfinder" />
+        <published>2026-02-24T23:08:12+08:00</published>
+        <author>
+            <name>Usubeni Fantasy</name>
+            <uri>https://ssshooter.com</uri>
+        </author>
+        <summary type="text"><![CDATA[看完就懂 useLayoutEffect]]></summary>
     </entry>
         <entry>
         <title>为什么公交车没有安全带</title>
@@ -1419,16 +1496,5 @@
             <uri>https://yuanchaofa.com</uri>
         </author>
         <summary type="text"><![CDATA[Agent 系统中的 Prompt Caching 设计（上）：Cache 破坏、Prompt 布局与工具管理]]></summary>
-    </entry>
-        <entry>
-        <title>教育部教育考试院网站探秘：英语四六级分数的公布相关代码</title>
-        <id>146936</id>
-        <link href="https://blog.mcenahle.org.cn/2026/02/22/430.html?utm_source=blogfinder" />
-        <published>2026-02-22T17:57:07+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[教育部教育考试院网站探秘：英语四六级分数的公布相关代码]]></summary>
     </entry>
     </feed>
