@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-25T23:02:33+08:00</updated>
+    <updated>2026-02-26T00:01:05+08:00</updated>
         <entry>
         <title>冬至（66、67/81）：感冒的恢复</title>
         <id>147120</id>
@@ -22,6 +22,28 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[冬至（66、67/81）：感冒的恢复]]></summary>
+    </entry>
+        <entry>
+        <title>Yiming&#039;s News 2026/02/25</title>
+        <id>147121</id>
+        <link href="https://www.wellobserve.com/?post=20260225220537&amp;utm_source=blogfinder" />
+        <published>2026-02-25T22:05:37+08:00</published>
+        <author>
+            <name>WellObserve</name>
+            <uri>https://www.wellobserve.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Yiming&#039;s News 2026/02/25]]></summary>
+    </entry>
+        <entry>
+        <title>重新认识体检的意义</title>
+        <id>147123</id>
+        <link href="https://blog.solazy.me/20260225/?utm_source=blogfinder" />
+        <published>2026-02-25T22:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[重新认识体检的意义]]></summary>
     </entry>
         <entry>
         <title>Ubuntu使用心得、应用分享</title>
@@ -55,6 +77,17 @@
             <uri>https://homer.sisubeny.space</uri>
         </author>
         <summary type="text"><![CDATA[☕ 别急着找咖啡，来一杯 418 牌“惊喜茶”！—— 谁是那个“我是一个茶壶”的状态码？]]></summary>
+    </entry>
+        <entry>
+        <title>新春当地游玩散记</title>
+        <id>147122</id>
+        <link href="https://www.jfsay.com/archives/3943.html?utm_source=blogfinder" />
+        <published>2026-02-25T18:42:16+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[新春当地游玩散记]]></summary>
     </entry>
         <entry>
         <title>使用电纸书阅读确实护眼</title>
@@ -1342,49 +1375,5 @@
             <uri>https://re.karlbaey.top</uri>
         </author>
         <summary type="text"><![CDATA[Astro 解决代码块的文件名重叠，附带测试工程师笑话]]></summary>
-    </entry>
-        <entry>
-        <title>稻草人周刊 Vol.69</title>
-        <id>146968</id>
-        <link href="https://www.geedea.pro/posts/weekly/69/?utm_source=blogfinder" />
-        <published>2026-02-23T00:00:43+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[稻草人周刊 Vol.69]]></summary>
-    </entry>
-        <entry>
-        <title>iOS APP 回退旧版本</title>
-        <id>146987</id>
-        <link href="https://hux.ink/posts/roll-back-to-previous-version/?utm_source=blogfinder" />
-        <published>2026-02-22T23:30:00+08:00</published>
-        <author>
-            <name>Counting Stars</name>
-            <uri>https://hux.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[iOS APP 回退旧版本]]></summary>
-    </entry>
-        <entry>
-        <title>春节小记</title>
-        <id>146985</id>
-        <link href="https://yinji.org/chinese-new-year-2026.html?utm_source=blogfinder" />
-        <published>2026-02-22T23:22:21+08:00</published>
-        <author>
-            <name>印记</name>
-            <uri>https://yinji.org</uri>
-        </author>
-        <summary type="text"><![CDATA[春节小记]]></summary>
-    </entry>
-        <entry>
-        <title>Agent 系统中的 Prompt Caching 设计（下）：上下文管理与子代理架构</title>
-        <id>146949</id>
-        <link href="https://yuanchaofa.com/post/agent-context-management-and-sub-agents?utm_source=blogfinder" />
-        <published>2026-02-22T23:06:00+08:00</published>
-        <author>
-            <name>Chaofa Yuan</name>
-            <uri>https://yuanchaofa.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Agent 系统中的 Prompt Caching 设计（下）：上下文管理与子代理架构]]></summary>
     </entry>
     </feed>
