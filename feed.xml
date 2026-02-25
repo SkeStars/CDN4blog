@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-25T20:00:21+08:00</updated>
+    <updated>2026-02-25T21:07:24+08:00</updated>
         <entry>
         <title>☕ 别急着找咖啡，来一杯 418 牌“惊喜茶”！—— 谁是那个“我是一个茶壶”的状态码？</title>
         <id>147116</id>
@@ -297,6 +297,17 @@
             <uri>https://hyx.ink</uri>
         </author>
         <summary type="text"><![CDATA[忙碌小一个月碎念念和新年寄语]]></summary>
+    </entry>
+        <entry>
+        <title>Windows 配置用户远程登录系统后执行脚本</title>
+        <id>147117</id>
+        <link href="https://www.51it.wang/ll/2163?utm_source=blogfinder" />
+        <published>2026-02-24T23:21:57+08:00</published>
+        <author>
+            <name>Lcry</name>
+            <uri>https://www.51it.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[Windows 配置用户远程登录系统后执行脚本]]></summary>
     </entry>
         <entry>
         <title>看完就懂 useLayoutEffect</title>
@@ -1430,27 +1441,5 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[冬至（63、64/81）：新番剧、学唱歌]]></summary>
-    </entry>
-        <entry>
-        <title>过年主厨记</title>
-        <id>146945</id>
-        <link href="https://www.weisay.com/blog/chef-for-new-year.html?utm_source=blogfinder" />
-        <published>2026-02-22T20:50:09+08:00</published>
-        <author>
-            <name>威言威语</name>
-            <uri>https://www.weisay.com/blog/</uri>
-        </author>
-        <summary type="text"><![CDATA[过年主厨记]]></summary>
-    </entry>
-        <entry>
-        <title>年味</title>
-        <id>146948</id>
-        <link href="https://blog.liushen.fun/posts/ed97d31c/?utm_source=blogfinder" />
-        <published>2026-02-22T20:31:00+08:00</published>
-        <author>
-            <name>LiuShen&#039;s Blog</name>
-            <uri>https://blog.liushen.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[年味]]></summary>
     </entry>
     </feed>
