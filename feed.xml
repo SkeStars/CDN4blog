@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-25T14:01:15+08:00</updated>
+    <updated>2026-02-25T16:00:33+08:00</updated>
+        <entry>
+        <title>读书笔记：图解大模型——生成式AI原理与实战</title>
+        <id>147100</id>
+        <link href="https://www.xuezhao.space/book-hands-on-llm.html?utm_source=blogfinder" />
+        <published>2026-02-25T15:04:02+08:00</published>
+        <author>
+            <name>海拉鲁打怪日记</name>
+            <uri>https://www.xuezhao.space</uri>
+        </author>
+        <summary type="text"><![CDATA[读书笔记：图解大模型——生成式AI原理与实战]]></summary>
+    </entry>
         <entry>
         <title>2026春节后第一个工作日，微信公众号粉丝数突破 5000</title>
         <id>147092</id>
@@ -46,6 +57,17 @@
         <summary type="text"><![CDATA[【回忆录】初中运动会：“红配绿”的我]]></summary>
     </entry>
         <entry>
+        <title>春节期间的睡眠遭遇挑战</title>
+        <id>147098</id>
+        <link href="https://joojen.com/archives/8841.html?utm_source=blogfinder" />
+        <published>2026-02-25T10:34:28+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[春节期间的睡眠遭遇挑战]]></summary>
+    </entry>
+        <entry>
         <title>赤裸恐惧</title>
         <id>147088</id>
         <link href="https://onojyun.com/2026/02/25/%e8%b5%a4%e8%a3%b8%e6%81%90%e6%83%a7/?utm_source=blogfinder" />
@@ -55,6 +77,17 @@
             <uri>https://onojyun.com</uri>
         </author>
         <summary type="text"><![CDATA[赤裸恐惧]]></summary>
+    </entry>
+        <entry>
+        <title>重启人生五年计划</title>
+        <id>147099</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1102&amp;utm_source=blogfinder" />
+        <published>2026-02-25T09:57:27+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[重启人生五年计划]]></summary>
     </entry>
         <entry>
         <title>年过完了，总结下来就一个字累</title>
@@ -1331,60 +1364,5 @@
             <uri>https://slykiten.com</uri>
         </author>
         <summary type="text"><![CDATA[【书评】读《台风眼》：被唤醒的旧时光]]></summary>
-    </entry>
-        <entry>
-        <title>上海迪士尼与魔都漫游✨</title>
-        <id>146928</id>
-        <link href="https://fxpai.com/article/shanghaidishiniyumodoumanyou?utm_source=blogfinder" />
-        <published>2026-02-22T15:56:57+08:00</published>
-        <author>
-            <name>非学·派</name>
-            <uri>https://fxpai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[上海迪士尼与魔都漫游✨]]></summary>
-    </entry>
-        <entry>
-        <title>自动刷必应 Microsoft Rewards 积分：一款 Chrome 插件介绍与使用指南</title>
-        <id>146942</id>
-        <link href="https://ygz.ink/archives/4430.html?utm_source=blogfinder" />
-        <published>2026-02-22T15:50:24+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[自动刷必应 Microsoft Rewards 积分：一款 Chrome 插件介绍与使用指南]]></summary>
-    </entry>
-        <entry>
-        <title>新的一年，新的篇章</title>
-        <id>146934</id>
-        <link href="http://99887766554433221100.cn/index.php/archives/181/?utm_source=blogfinder" />
-        <published>2026-02-22T14:56:26+08:00</published>
-        <author>
-            <name>南香香</name>
-            <uri>http://99887766554433221100.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[新的一年，新的篇章]]></summary>
-    </entry>
-        <entry>
-        <title>把运动统计写在 iPhone 锁屏上，还会自动切换</title>
-        <id>146931</id>
-        <link href="http://www.jinhuaiyao.com/posts/auto-rotating-workout-stats-for-your-iphone-lock-screen/?utm_source=blogfinder" />
-        <published>2026-02-22T14:56:07+08:00</published>
-        <author>
-            <name>Huaiyao Jin</name>
-            <uri>https://www.jinhuaiyao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[把运动统计写在 iPhone 锁屏上，还会自动切换]]></summary>
-    </entry>
-        <entry>
-        <title>《你行！你上！》——姜文还是那个姜文</title>
-        <id>146975</id>
-        <link href="https://dangeer.com/posts/jiang-wen-is-still-jiang-wen/?utm_source=blogfinder" />
-        <published>2026-02-22T14:04:04+08:00</published>
-        <author>
-            <name>丹格尔</name>
-            <uri>https://dangeer.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《你行！你上！》——姜文还是那个姜文]]></summary>
     </entry>
     </feed>
