@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-26T19:01:40+08:00</updated>
+    <updated>2026-02-26T20:00:56+08:00</updated>
+        <entry>
+        <title>如何无痛从假期模式切换到到工作模式</title>
+        <id>147253</id>
+        <link href="https://joojen.com/archives/8845.html?utm_source=blogfinder" />
+        <published>2026-02-26T18:29:09+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[如何无痛从假期模式切换到到工作模式]]></summary>
+    </entry>
         <entry>
         <title>未命名文档</title>
         <id>147250</id>
@@ -374,6 +385,17 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[亲爱的妹妹结婚了，祝福妹妹新婚快乐！]]></summary>
+    </entry>
+        <entry>
+        <title>使用浏览器的localStorage功能存储数据</title>
+        <id>147254</id>
+        <link href="https://www.xrbk.cn/post/61.html?utm_source=blogfinder" />
+        <published>2026-02-25T20:10:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://www.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[使用浏览器的localStorage功能存储数据]]></summary>
     </entry>
         <entry>
         <title>MC服务端打包（由客户端推导）</title>
