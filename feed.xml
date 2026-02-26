@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-26T17:00:38+08:00</updated>
+    <updated>2026-02-26T18:00:24+08:00</updated>
+        <entry>
+        <title>未命名文档</title>
+        <id>147250</id>
+        <link href="https://www.0731119.xyz/index.php/archives/540/?utm_source=blogfinder" />
+        <published>2026-02-26T17:40:20+08:00</published>
+        <author>
+            <name>多星宇博客</name>
+            <uri>http://www.0731119.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[未命名文档]]></summary>
+    </entry>
+        <entry>
+        <title>使用AI“一键复刻”宣传图，轻松搞定产品主图设计</title>
+        <id>147251</id>
+        <link href="https://www.0731119.xyz/index.php/archives/536/?utm_source=blogfinder" />
+        <published>2026-02-26T17:31:00+08:00</published>
+        <author>
+            <name>多星宇博客</name>
+            <uri>http://www.0731119.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[使用AI“一键复刻”宣传图，轻松搞定产品主图设计]]></summary>
+    </entry>
         <entry>
         <title>我用大模型写了一个Edge TTS图形化工具</title>
         <id>147247</id>
@@ -55,6 +77,17 @@
             <uri>http://www.yveji.com</uri>
         </author>
         <summary type="text"><![CDATA[2026，开工啦]]></summary>
+    </entry>
+        <entry>
+        <title>无限免费大模型 token, Github Copilot CLI SDK 安装及测试</title>
+        <id>147249</id>
+        <link href="https://www.sunzhongwei.com/github-copilot-cli-sdk?utm_source=blogfinder" />
+        <published>2026-02-26T12:09:25+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[无限免费大模型 token, Github Copilot CLI SDK 安装及测试]]></summary>
     </entry>
         <entry>
         <title>冯唐：记住真正的贵人，不是有钱人，不是有权人，不是遇事能帮你</title>
@@ -176,6 +209,17 @@
             <uri>https://blog.talen.top</uri>
         </author>
         <summary type="text"><![CDATA[Windows 注册表原理与实战指南]]></summary>
+    </entry>
+        <entry>
+        <title>通报IP 持续更新</title>
+        <id>147252</id>
+        <link href="https://zooyoo.top/article.php?id=38&amp;utm_source=blogfinder" />
+        <published>2026-02-26T00:40:31+08:00</published>
+        <author>
+            <name>热衷于的博客</name>
+            <uri>https://zooyoo.top</uri>
+        </author>
+        <summary type="text"><![CDATA[通报IP 持续更新]]></summary>
     </entry>
         <entry>
         <title>20260225</title>
@@ -1463,27 +1507,5 @@
             <uri>https://www.zhyok.cn</uri>
         </author>
         <summary type="text"><![CDATA[世界秩序已崩塌，买入黄金是最好的选择]]></summary>
-    </entry>
-        <entry>
-        <title>这个年，就这么过完了</title>
-        <id>147000</id>
-        <link href="https://blog.52hyjs.com/post-1257.html?utm_source=blogfinder" />
-        <published>2026-02-23T17:59:06+08:00</published>
-        <author>
-            <name>幻影博客</name>
-            <uri>https://blog.52hyjs.com</uri>
-        </author>
-        <summary type="text"><![CDATA[这个年，就这么过完了]]></summary>
-    </entry>
-        <entry>
-        <title>满满节日气氛的某银行红灯笼（20260219）</title>
-        <id>147004</id>
-        <link href="http://stuit.cn/Xiaolu/Post/1601.html?utm_source=blogfinder" />
-        <published>2026-02-23T17:19:47+08:00</published>
-        <author>
-            <name>风雨行者</name>
-            <uri>http://stuit.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[满满节日气氛的某银行红灯笼（20260219）]]></summary>
     </entry>
     </feed>
