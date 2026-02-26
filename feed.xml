@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-26T16:00:24+08:00</updated>
+    <updated>2026-02-26T17:00:38+08:00</updated>
+        <entry>
+        <title>我用大模型写了一个Edge TTS图形化工具</title>
+        <id>147247</id>
+        <link href="https://www.suiyan.cc/blog/20260226080637?utm_source=blogfinder" />
+        <published>2026-02-26T16:06:37+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[我用大模型写了一个Edge TTS图形化工具]]></summary>
+    </entry>
         <entry>
         <title>同村的小伙伴都长大了</title>
         <id>147244</id>
@@ -66,6 +77,17 @@
             <uri>https://jackie.openenet.cn</uri>
         </author>
         <summary type="text"><![CDATA[比特币长期持有优势解析・为什么我只选择长期持有比特币，而非股票、黄金等其他资产]]></summary>
+    </entry>
+        <entry>
+        <title>【补丁】找回高版本NX丢失的剖视图和基本视图</title>
+        <id>147248</id>
+        <link href="https://blog.moeworld.tech/2026/02/26/%e3%80%90%e8%a1%a5%e4%b8%81%e3%80%91%e6%89%be%e5%9b%9e%e9%ab%98%e7%89%88%e6%9c%acnx%e4%b8%a2%e5%a4%b1%e7%9a%84%e5%89%96%e8%a7%86%e5%9b%be%e5%92%8c%e5%9f%ba%e6%9c%ac%e8%a7%86%e5%9b%be/?utm_source=blogfinder" />
+        <published>2026-02-26T11:21:14+08:00</published>
+        <author>
+            <name>晓空 Blog</name>
+            <uri>https://blog.moeworld.tech</uri>
+        </author>
+        <summary type="text"><![CDATA[【补丁】找回高版本NX丢失的剖视图和基本视图]]></summary>
     </entry>
         <entry>
         <title>开源-QQ经典农场机器人，解放双手，支持Android ARM64/ARMv7/通用、macOS、Windows</title>
@@ -132,6 +154,17 @@
             <uri>https://fuxes.cn</uri>
         </author>
         <summary type="text"><![CDATA[仁王3体验]]></summary>
+    </entry>
+        <entry>
+        <title>2026 欧洲之旅 Day 11 ：大腿粉碎机#877号</title>
+        <id>147246</id>
+        <link href="https://www.ixiqin.com/2026/02/26/2026-european-tour-day-11-thigh-grinder-877/?utm_source=blogfinder" />
+        <published>2026-02-26T05:09:49+08:00</published>
+        <author>
+            <name>西秦公子</name>
+            <uri>https://www.ixiqin.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026 欧洲之旅 Day 11 ：大腿粉碎机#877号]]></summary>
     </entry>
         <entry>
         <title>Windows 注册表原理与实战指南</title>
@@ -1452,27 +1485,5 @@
             <uri>http://stuit.cn</uri>
         </author>
         <summary type="text"><![CDATA[满满节日气氛的某银行红灯笼（20260219）]]></summary>
-    </entry>
-        <entry>
-        <title>我为 Memos 做了一个图片渲染服务</title>
-        <id>146990</id>
-        <link href="https://www.edony.ink/wo-wei-memos-zuo-liao-yi-ge-tu-pian-xuan-ran-fu-wu/?utm_source=blogfinder" />
-        <published>2026-02-23T17:00:30+08:00</published>
-        <author>
-            <name>Shadow Walker</name>
-            <uri>https://www.edony.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[我为 Memos 做了一个图片渲染服务]]></summary>
-    </entry>
-        <entry>
-        <title>回阿里</title>
-        <id>146992</id>
-        <link href="https://www.skyue.com/26022316.html?utm_source=blogfinder" />
-        <published>2026-02-23T16:19:00+08:00</published>
-        <author>
-            <name>拾月</name>
-            <uri>https://www.skyue.com</uri>
-        </author>
-        <summary type="text"><![CDATA[回阿里]]></summary>
     </entry>
     </feed>
