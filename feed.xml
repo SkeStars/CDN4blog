@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-26T21:07:17+08:00</updated>
+    <updated>2026-02-26T23:04:25+08:00</updated>
+        <entry>
+        <title>隐藏式门把手，到底藏的是什么？</title>
+        <id>147260</id>
+        <link href="https://zhujay.com/blog/blog_view.asp?id=1203&amp;utm_source=blogfinder" />
+        <published>2026-02-26T20:21:21+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[隐藏式门把手，到底藏的是什么？]]></summary>
+    </entry>
+        <entry>
+        <title>手动编译耗子面板安装的OpenResty</title>
+        <id>147257</id>
+        <link href="https://blog.hzchu.top/2026/haozi-openresty-build/?utm_source=blogfinder" />
+        <published>2026-02-26T19:41:14+08:00</published>
+        <author>
+            <name>Thun888&#039;s Blog</name>
+            <uri>https://blog.hzchu.top</uri>
+        </author>
+        <summary type="text"><![CDATA[手动编译耗子面板安装的OpenResty]]></summary>
+    </entry>
         <entry>
         <title>如何无痛从假期模式切换到到工作模式</title>
         <id>147253</id>
@@ -66,6 +88,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[我用大模型写了一个Edge TTS图形化工具]]></summary>
+    </entry>
+        <entry>
+        <title>明水古城</title>
+        <id>147259</id>
+        <link href="https://ficor.net/2026/02/26/mingshui/?utm_source=blogfinder" />
+        <published>2026-02-26T15:32:17+08:00</published>
+        <author>
+            <name>荒野菲克</name>
+            <uri>https://ficor.net</uri>
+        </author>
+        <summary type="text"><![CDATA[明水古城]]></summary>
     </entry>
         <entry>
         <title>同村的小伙伴都长大了</title>
@@ -209,6 +242,28 @@
             <uri>https://fuxes.cn</uri>
         </author>
         <summary type="text"><![CDATA[仁王3体验]]></summary>
+    </entry>
+        <entry>
+        <title>Cloudpods Baremetal - 裸金属自动化</title>
+        <id>147256</id>
+        <link href="https://songxwn.com/Cloudpods-Baremetal-PXE/?utm_source=blogfinder" />
+        <published>2026-02-26T07:21:35+08:00</published>
+        <author>
+            <name>Song&#039;s Blog</name>
+            <uri>https://songxwn.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Cloudpods Baremetal - 裸金属自动化]]></summary>
+    </entry>
+        <entry>
+        <title>使用SAM3模型对视频元素动态打码</title>
+        <id>147258</id>
+        <link href="https://blog.hzchu.top/2026/sam3-blur-video/?utm_source=blogfinder" />
+        <published>2026-02-26T06:48:20+08:00</published>
+        <author>
+            <name>Thun888&#039;s Blog</name>
+            <uri>https://blog.hzchu.top</uri>
+        </author>
+        <summary type="text"><![CDATA[使用SAM3模型对视频元素动态打码]]></summary>
     </entry>
         <entry>
         <title>2026 欧洲之旅 Day 11 ：大腿粉碎机#877号</title>
@@ -1419,82 +1474,5 @@
             <uri>https://dangeer.com</uri>
         </author>
         <summary type="text"><![CDATA[我带眼镜了]]></summary>
-    </entry>
-        <entry>
-        <title>20260223</title>
-        <id>147001</id>
-        <link href="https://61.life/2026/0223?utm_source=blogfinder" />
-        <published>2026-02-23T22:30:08+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260223]]></summary>
-    </entry>
-        <entry>
-        <title>博客聚合有感</title>
-        <id>147005</id>
-        <link href="https://www.xiaozonglin.cn/reflections-on-blog-aggregation-projects/?utm_source=blogfinder" />
-        <published>2026-02-23T22:28:29+08:00</published>
-        <author>
-            <name>林林杂语</name>
-            <uri>https://www.xiaozonglin.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[博客聚合有感]]></summary>
-    </entry>
-        <entry>
-        <title>流光溢彩-商场（20260220）</title>
-        <id>147003</id>
-        <link href="http://stuit.cn/Xiaolu/Post/1602.html?utm_source=blogfinder" />
-        <published>2026-02-23T22:28:23+08:00</published>
-        <author>
-            <name>风雨行者</name>
-            <uri>http://stuit.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[流光溢彩-商场（20260220）]]></summary>
-    </entry>
-        <entry>
-        <title>20260222</title>
-        <id>147002</id>
-        <link href="https://61.life/2026/0222?utm_source=blogfinder" />
-        <published>2026-02-23T22:19:55+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260222]]></summary>
-    </entry>
-        <entry>
-        <title>冬至（65/81）：等待英语四六级出分公告，彻底关闭 Pycharm 的代码补全功能</title>
-        <id>146998</id>
-        <link href="https://blog.mcenahle.org.cn/2026/02/23/432.html?utm_source=blogfinder" />
-        <published>2026-02-23T22:15:38+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[冬至（65/81）：等待英语四六级出分公告，彻底关闭 Pycharm 的代码补全功能]]></summary>
-    </entry>
-        <entry>
-        <title>Ubuntu24.04 Docker安装|调试|编写镜像|运行第一个容器</title>
-        <id>147018</id>
-        <link href="https://www.suiyan.cc/blog/20260223140718?utm_source=blogfinder" />
-        <published>2026-02-23T22:07:18+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[Ubuntu24.04 Docker安装|调试|编写镜像|运行第一个容器]]></summary>
-    </entry>
-        <entry>
-        <title>2026年旅行记录之吉林</title>
-        <id>147245</id>
-        <link href="https://ouen.me/2026-yanji-changbaishan-changchun-winter-trip/?utm_source=blogfinder" />
-        <published>2026-02-23T21:30:00+08:00</published>
-        <author>
-            <name>Ouen</name>
-            <uri>https://ouen.me</uri>
-        </author>
-        <summary type="text"><![CDATA[2026年旅行记录之吉林]]></summary>
     </entry>
     </feed>
