@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-27T17:00:28+08:00</updated>
+    <updated>2026-02-27T18:00:27+08:00</updated>
+        <entry>
+        <title>积分抽奖降价啦！每日刮刮乐送积分！</title>
+        <id>147309</id>
+        <link href="https://zhujay.com/talking/?id=1204&amp;utm_source=blogfinder" />
+        <published>2026-02-27T16:45:45+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[积分抽奖降价啦！每日刮刮乐送积分！]]></summary>
+    </entry>
         <entry>
         <title>真的很好看</title>
         <id>147301</id>
@@ -24,6 +35,17 @@
         <summary type="text"><![CDATA[真的很好看]]></summary>
     </entry>
         <entry>
+        <title>似乎已经戒掉了咖啡</title>
+        <id>147310</id>
+        <link href="https://www.xiaocaoderijiben.online/archives/273?utm_source=blogfinder" />
+        <published>2026-02-27T14:08:32+08:00</published>
+        <author>
+            <name>小草的日记本</name>
+            <uri>https://www.xiaocaoderijiben.online</uri>
+        </author>
+        <summary type="text"><![CDATA[似乎已经戒掉了咖啡]]></summary>
+    </entry>
+        <entry>
         <title>今年解锁的新技能：打麻将</title>
         <id>147302</id>
         <link href="https://ygz.ink/archives/4455.html?utm_source=blogfinder" />
@@ -33,6 +55,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[今年解锁的新技能：打麻将]]></summary>
+    </entry>
+        <entry>
+        <title>正在考虑要不要继续维护公众号</title>
+        <id>147311</id>
+        <link href="https://www.xiaocaoderijiben.online/archives/271?utm_source=blogfinder" />
+        <published>2026-02-27T13:59:03+08:00</published>
+        <author>
+            <name>小草的日记本</name>
+            <uri>https://www.xiaocaoderijiben.online</uri>
+        </author>
+        <summary type="text"><![CDATA[正在考虑要不要继续维护公众号]]></summary>
     </entry>
         <entry>
         <title>MySql主从复制</title>
@@ -132,6 +165,17 @@
             <uri>http://www.ruanyifeng.com/blog</uri>
         </author>
         <summary type="text"><![CDATA[科技爱好者周刊（第 386 期）：当外卖员接入 AI]]></summary>
+    </entry>
+        <entry>
+        <title>身兼数任的长野之旅</title>
+        <id>147308</id>
+        <link href="https://shuiba.co/trip-to-nagano?utm_source=blogfinder" />
+        <published>2026-02-27T07:31:00+08:00</published>
+        <author>
+            <name>水八口的冥想盆</name>
+            <uri>https://shuiba.co</uri>
+        </author>
+        <summary type="text"><![CDATA[身兼数任的长野之旅]]></summary>
     </entry>
         <entry>
         <title>解决一些笔记本电脑更换主板后的问题</title>
@@ -1496,27 +1540,5 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[在Ubuntu24.04上运行《原神》]]></summary>
-    </entry>
-        <entry>
-        <title>去年春节感冒咳嗽，今年春节又是感冒咳嗽</title>
-        <id>147051</id>
-        <link href="https://www.bufanz.com/20260224462.html?utm_source=blogfinder" />
-        <published>2026-02-24T18:00:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[去年春节感冒咳嗽，今年春节又是感冒咳嗽]]></summary>
-    </entry>
-        <entry>
-        <title>这是一篇写在爬山路上的博文</title>
-        <id>147041</id>
-        <link href="https://www.suiyan.cc/blog/20260224090438?utm_source=blogfinder" />
-        <published>2026-02-24T17:04:38+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[这是一篇写在爬山路上的博文]]></summary>
     </entry>
     </feed>
