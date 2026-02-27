@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-27T18:00:27+08:00</updated>
+    <updated>2026-02-27T19:00:28+08:00</updated>
+        <entry>
+        <title>学习周刊-总第252期-2026年第09周</title>
+        <id>147312</id>
+        <link href="https://wiki.eryajf.net/pages/5d3e72/?utm_source=blogfinder" />
+        <published>2026-02-27T17:21:02+08:00</published>
+        <author>
+            <name>二丫讲梵</name>
+            <uri>https://wiki.eryajf.net</uri>
+        </author>
+        <summary type="text"><![CDATA[学习周刊-总第252期-2026年第09周]]></summary>
+    </entry>
         <entry>
         <title>积分抽奖降价啦！每日刮刮乐送积分！</title>
         <id>147309</id>
@@ -275,6 +286,17 @@
             <uri>https://zhujay.com</uri>
         </author>
         <summary type="text"><![CDATA[隐藏式门把手，到底藏的是什么？]]></summary>
+    </entry>
+        <entry>
+        <title>解读 Linux 系统负载：从查看命令到数值含义</title>
+        <id>147313</id>
+        <link href="https://homer.sisubeny.space/posts/c300522d.html?utm_source=blogfinder" />
+        <published>2026-02-26T20:11:15+08:00</published>
+        <author>
+            <name>Homer</name>
+            <uri>https://homer.sisubeny.space</uri>
+        </author>
+        <summary type="text"><![CDATA[解读 Linux 系统负载：从查看命令到数值含义]]></summary>
     </entry>
         <entry>
         <title>好奇心周刊第25期: 如何让AI写好代码</title>
@@ -1518,27 +1540,5 @@
             <uri>https://cuixiping.com</uri>
         </author>
         <summary type="text"><![CDATA[马年开工第一天]]></summary>
-    </entry>
-        <entry>
-        <title>好久不见</title>
-        <id>147128</id>
-        <link href="https://www.qqzmly.com/archives/2048/?utm_source=blogfinder" />
-        <published>2026-02-24T19:00:00+08:00</published>
-        <author>
-            <name>程志辉博客</name>
-            <uri>https://www.qqzmly.com</uri>
-        </author>
-        <summary type="text"><![CDATA[好久不见]]></summary>
-    </entry>
-        <entry>
-        <title>在Ubuntu24.04上运行《原神》</title>
-        <id>147040</id>
-        <link href="https://www.suiyan.cc/blog/20260224105059?utm_source=blogfinder" />
-        <published>2026-02-24T18:50:59+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[在Ubuntu24.04上运行《原神》]]></summary>
     </entry>
     </feed>
