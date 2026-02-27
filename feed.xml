@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-27T15:00:25+08:00</updated>
+    <updated>2026-02-27T16:00:28+08:00</updated>
         <entry>
         <title>真的很好看</title>
         <id>147301</id>
@@ -33,6 +33,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[今年解锁的新技能：打麻将]]></summary>
+    </entry>
+        <entry>
+        <title>提了离职就一定要走</title>
+        <id>147303</id>
+        <link href="https://blog.solazy.me/20260227/?utm_source=blogfinder" />
+        <published>2026-02-27T11:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[提了离职就一定要走]]></summary>
     </entry>
         <entry>
         <title>周杰伦演唱会</title>
@@ -374,6 +385,17 @@
             <uri>https://cuixiping.com</uri>
         </author>
         <summary type="text"><![CDATA[2026年春节散记 - 小地方也禁了烟花爆竹]]></summary>
+    </entry>
+        <entry>
+        <title>从番剧墙到一个 Go CLI 工具</title>
+        <id>147304</id>
+        <link href="https://hejunjie.life/blog/k9dut5nf?utm_source=blogfinder" />
+        <published>2026-02-26T12:58:27+08:00</published>
+        <author>
+            <name>星河避难所</name>
+            <uri>https://hejunjie.life</uri>
+        </author>
+        <summary type="text"><![CDATA[从番剧墙到一个 Go CLI 工具]]></summary>
     </entry>
         <entry>
         <title>2026，开工啦</title>
@@ -1485,115 +1507,5 @@
             <uri>https://blog.8866321.xyz</uri>
         </author>
         <summary type="text"><![CDATA[实战避坑：FastAPI用懒加载+Lifespan优雅管理重型依赖]]></summary>
-    </entry>
-        <entry>
-        <title>新增股票减仓计算功能，补仓计算器小程序升级</title>
-        <id>147033</id>
-        <link href="https://www.sunzhongwei.com/stock-reduction-calculation?utm_source=blogfinder" />
-        <published>2026-02-24T16:00:23+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[新增股票减仓计算功能，补仓计算器小程序升级]]></summary>
-    </entry>
-        <entry>
-        <title>从打字到动嘴：我的语音输入踩坑与探索</title>
-        <id>147043</id>
-        <link href="https://scottyeung.top/2026/voice-input-experience/?utm_source=blogfinder" />
-        <published>2026-02-24T15:52:18+08:00</published>
-        <author>
-            <name>YeungYeah 的乱写地</name>
-            <uri>https://scottyeung.top</uri>
-        </author>
-        <summary type="text"><![CDATA[从打字到动嘴：我的语音输入踩坑与探索]]></summary>
-    </entry>
-        <entry>
-        <title>07. Claude Code 集成：AI 写代码的正确姿势</title>
-        <id>147052</id>
-        <link href="https://www.xuezhao.space/openclaw_07.html?utm_source=blogfinder" />
-        <published>2026-02-24T15:16:00+08:00</published>
-        <author>
-            <name>海拉鲁打怪日记</name>
-            <uri>https://www.xuezhao.space</uri>
-        </author>
-        <summary type="text"><![CDATA[07. Claude Code 集成：AI 写代码的正确姿势]]></summary>
-    </entry>
-        <entry>
-        <title>06. 自动化工作流：Heartbeat、Cron 与备份</title>
-        <id>147053</id>
-        <link href="https://www.xuezhao.space/openclaw_06.html?utm_source=blogfinder" />
-        <published>2026-02-24T15:15:00+08:00</published>
-        <author>
-            <name>海拉鲁打怪日记</name>
-            <uri>https://www.xuezhao.space</uri>
-        </author>
-        <summary type="text"><![CDATA[06. 自动化工作流：Heartbeat、Cron 与备份]]></summary>
-    </entry>
-        <entry>
-        <title>05. 思源笔记联动：打造第二大脑</title>
-        <id>147054</id>
-        <link href="https://www.xuezhao.space/openclaw_05.html?utm_source=blogfinder" />
-        <published>2026-02-24T15:14:00+08:00</published>
-        <author>
-            <name>海拉鲁打怪日记</name>
-            <uri>https://www.xuezhao.space</uri>
-        </author>
-        <summary type="text"><![CDATA[05. 思源笔记联动：打造第二大脑]]></summary>
-    </entry>
-        <entry>
-        <title>03. Provider 与成本：从烧钱到精打细算</title>
-        <id>147055</id>
-        <link href="https://www.xuezhao.space/openclaw_03.html?utm_source=blogfinder" />
-        <published>2026-02-24T15:12:00+08:00</published>
-        <author>
-            <name>海拉鲁打怪日记</name>
-            <uri>https://www.xuezhao.space</uri>
-        </author>
-        <summary type="text"><![CDATA[03. Provider 与成本：从烧钱到精打细算]]></summary>
-    </entry>
-        <entry>
-        <title>02. 多 Agent 架构：让 AI 学会分工</title>
-        <id>147056</id>
-        <link href="https://www.xuezhao.space/openclaw_02.html?utm_source=blogfinder" />
-        <published>2026-02-24T15:11:00+08:00</published>
-        <author>
-            <name>海拉鲁打怪日记</name>
-            <uri>https://www.xuezhao.space</uri>
-        </author>
-        <summary type="text"><![CDATA[02. 多 Agent 架构：让 AI 学会分工]]></summary>
-    </entry>
-        <entry>
-        <title>01. 初见 OpenClaw：部署与第一次对话</title>
-        <id>147058</id>
-        <link href="https://www.xuezhao.space/openclaw_01.html?utm_source=blogfinder" />
-        <published>2026-02-24T15:10:00+08:00</published>
-        <author>
-            <name>海拉鲁打怪日记</name>
-            <uri>https://www.xuezhao.space</uri>
-        </author>
-        <summary type="text"><![CDATA[01. 初见 OpenClaw：部署与第一次对话]]></summary>
-    </entry>
-        <entry>
-        <title>04. 记忆系统：让 AI 记住你</title>
-        <id>147057</id>
-        <link href="https://www.xuezhao.space/openclaw_04.html?utm_source=blogfinder" />
-        <published>2026-02-24T15:10:00+08:00</published>
-        <author>
-            <name>海拉鲁打怪日记</name>
-            <uri>https://www.xuezhao.space</uri>
-        </author>
-        <summary type="text"><![CDATA[04. 记忆系统：让 AI 记住你]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1635】多和田叶子《白鹤亮翅》</title>
-        <id>147031</id>
-        <link href="http://www.qncd.com/?p=12515&amp;utm_source=blogfinder" />
-        <published>2026-02-24T15:03:14+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1635】多和田叶子《白鹤亮翅》]]></summary>
     </entry>
     </feed>
