@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-27T11:00:18+08:00</updated>
+    <updated>2026-02-27T13:00:18+08:00</updated>
+        <entry>
+        <title>Lesson 2 热力学定律</title>
+        <id>147295</id>
+        <link href="https://physnya.top/statistical-mechanics/lesson-2-laws/?utm_source=blogfinder" />
+        <published>2026-02-27T10:20:02+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 2 热力学定律]]></summary>
+    </entry>
+        <entry>
+        <title>2026年2月播客推荐</title>
+        <id>147293</id>
+        <link href="https://www.sunzhongwei.com/recommended-podcasts-february-2026?utm_source=blogfinder" />
+        <published>2026-02-27T09:55:06+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026年2月播客推荐]]></summary>
+    </entry>
         <entry>
         <title>哲学真的有用吗？</title>
         <id>147290</id>
@@ -55,6 +77,39 @@
             <uri>https://blog.hzchu.top</uri>
         </author>
         <summary type="text"><![CDATA[解决一些笔记本电脑更换主板后的问题]]></summary>
+    </entry>
+        <entry>
+        <title>Jack，你也健身吗？</title>
+        <id>147294</id>
+        <link href="https://www.geedea.pro/essays/jack-in-fitness/?utm_source=blogfinder" />
+        <published>2026-02-27T00:34:35+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[Jack，你也健身吗？]]></summary>
+    </entry>
+        <entry>
+        <title>Lesson 1 Introduction &amp; Light</title>
+        <id>147297</id>
+        <link href="https://physnya.top/star-planet/lesson-1-introduction-light/?utm_source=blogfinder" />
+        <published>2026-02-26T22:10:40+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 1 Introduction &amp; Light]]></summary>
+    </entry>
+        <entry>
+        <title>恒星与行星</title>
+        <id>147296</id>
+        <link href="https://physnya.top/star-planet/?utm_source=blogfinder" />
+        <published>2026-02-26T22:10:40+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[恒星与行星]]></summary>
     </entry>
         <entry>
         <title>假期余额归零，我已到校</title>
@@ -1573,27 +1628,5 @@
             <uri>https://jyblog.cn</uri>
         </author>
         <summary type="text"><![CDATA[赛博朋克2077 — 你会救一个欺骗你的人吗？]]></summary>
-    </entry>
-        <entry>
-        <title>留守成都“过年”</title>
-        <id>147024</id>
-        <link href="https://liuqingwushui.top/archives/137/?utm_source=blogfinder" />
-        <published>2026-02-24T11:13:00+08:00</published>
-        <author>
-            <name>流情的博客</name>
-            <uri>https://liuqingwushui.top</uri>
-        </author>
-        <summary type="text"><![CDATA[留守成都“过年”]]></summary>
-    </entry>
-        <entry>
-        <title>七不出门，春节杂记</title>
-        <id>147034</id>
-        <link href="https://airy.ink/daily/427?utm_source=blogfinder" />
-        <published>2026-02-24T11:09:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[七不出门，春节杂记]]></summary>
     </entry>
     </feed>
