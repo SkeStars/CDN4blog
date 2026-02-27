@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-27T13:00:18+08:00</updated>
+    <updated>2026-02-27T14:02:21+08:00</updated>
+        <entry>
+        <title>周杰伦演唱会</title>
+        <id>147299</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1106&amp;utm_source=blogfinder" />
+        <published>2026-02-27T10:20:35+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[周杰伦演唱会]]></summary>
+    </entry>
         <entry>
         <title>Lesson 2 热力学定律</title>
         <id>147295</id>
@@ -121,6 +132,17 @@
             <uri>https://hulatu.com</uri>
         </author>
         <summary type="text"><![CDATA[假期余额归零，我已到校]]></summary>
+    </entry>
+        <entry>
+        <title>2026年春节散记 - 回家的交通方式的变更</title>
+        <id>147300</id>
+        <link href="https://cuixiping.com/blog/others/obisvk?utm_source=blogfinder" />
+        <published>2026-02-26T21:28:00+08:00</published>
+        <author>
+            <name>崔话记</name>
+            <uri>https://cuixiping.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026年春节散记 - 回家的交通方式的变更]]></summary>
     </entry>
         <entry>
         <title>准备写「周刊」......</title>
@@ -1584,49 +1606,5 @@
             <uri>https://blog.8866321.xyz</uri>
         </author>
         <summary type="text"><![CDATA[实战选型：为什么新项目更推荐WebFlux而非Spring MVC？]]></summary>
-    </entry>
-        <entry>
-        <title>从 v1 到 v2，谈谈这个简单博客背后的架构演进与实现</title>
-        <id>147027</id>
-        <link href="https://blog.grtsinry43.com/posts/grtblog-v2-architecture?utm_source=blogfinder" />
-        <published>2026-02-24T13:56:28+08:00</published>
-        <author>
-            <name>Grtsinry43&#039;s Blog</name>
-            <uri>https://blog.grtsinry43.com</uri>
-        </author>
-        <summary type="text"><![CDATA[从 v1 到 v2，谈谈这个简单博客背后的架构演进与实现]]></summary>
-    </entry>
-        <entry>
-        <title>告别重复劳动！一键填充评论的神奇书签脚本</title>
-        <id>147026</id>
-        <link href="https://wuqishi.com/magical-bookmark-script-to-populate-comments-with-one-click/?utm_source=blogfinder" />
-        <published>2026-02-24T13:31:52+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[告别重复劳动！一键填充评论的神奇书签脚本]]></summary>
-    </entry>
-        <entry>
-        <title>购买了文石Poke6电纸书</title>
-        <id>147037</id>
-        <link href="https://www.xiaocaoderijiben.online/archives/260?utm_source=blogfinder" />
-        <published>2026-02-24T13:31:47+08:00</published>
-        <author>
-            <name>小草的日记本</name>
-            <uri>https://www.xiaocaoderijiben.online</uri>
-        </author>
-        <summary type="text"><![CDATA[购买了文石Poke6电纸书]]></summary>
-    </entry>
-        <entry>
-        <title>赛博朋克2077 — 你会救一个欺骗你的人吗？</title>
-        <id>147030</id>
-        <link href="https://jyblog.cn/4940/?utm_source=blogfinder" />
-        <published>2026-02-24T13:14:23+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[赛博朋克2077 — 你会救一个欺骗你的人吗？]]></summary>
     </entry>
     </feed>
