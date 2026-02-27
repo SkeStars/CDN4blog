@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-27T16:00:28+08:00</updated>
+    <updated>2026-02-27T17:00:28+08:00</updated>
         <entry>
         <title>真的很好看</title>
         <id>147301</id>
@@ -33,6 +33,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[今年解锁的新技能：打麻将]]></summary>
+    </entry>
+        <entry>
+        <title>MySql主从复制</title>
+        <id>147307</id>
+        <link href="https://www.golangblog.com/blog/mysql-master-slave-copy?utm_source=blogfinder" />
+        <published>2026-02-27T11:25:49+08:00</published>
+        <author>
+            <name>浩瀚星河</name>
+            <uri>https://www.golangblog.com</uri>
+        </author>
+        <summary type="text"><![CDATA[MySql主从复制]]></summary>
     </entry>
         <entry>
         <title>提了离职就一定要走</title>
@@ -112,6 +123,17 @@
         <summary type="text"><![CDATA[我这嗓子吞咽疼痛好几天了，咋回事啊！]]></summary>
     </entry>
         <entry>
+        <title>科技爱好者周刊（第 386 期）：当外卖员接入 AI</title>
+        <id>147305</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html?utm_source=blogfinder" />
+        <published>2026-02-27T08:07:08+08:00</published>
+        <author>
+            <name>阮一峰的网络日志</name>
+            <uri>http://www.ruanyifeng.com/blog</uri>
+        </author>
+        <summary type="text"><![CDATA[科技爱好者周刊（第 386 期）：当外卖员接入 AI]]></summary>
+    </entry>
+        <entry>
         <title>解决一些笔记本电脑更换主板后的问题</title>
         <id>147279</id>
         <link href="https://blog.hzchu.top/2026/solve-laptop-motherboard-problems/?utm_source=blogfinder" />
@@ -187,6 +209,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[准备写「周刊」......]]></summary>
+    </entry>
+        <entry>
+        <title>马年春节游的流水账</title>
+        <id>147306</id>
+        <link href="https://qfsyj.com/20260226-chunjie.html?utm_source=blogfinder" />
+        <published>2026-02-26T20:38:00+08:00</published>
+        <author>
+            <name>不曾长大</name>
+            <uri>https://qfsyj.com</uri>
+        </author>
+        <summary type="text"><![CDATA[马年春节游的流水账]]></summary>
     </entry>
         <entry>
         <title>隐藏式门把手，到底藏的是什么？</title>
@@ -1485,27 +1518,5 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[这是一篇写在爬山路上的博文]]></summary>
-    </entry>
-        <entry>
-        <title>最近怎么一直没看见军爸活跃啊</title>
-        <id>147061</id>
-        <link href="https://ygz.ink/archives/4444.html?utm_source=blogfinder" />
-        <published>2026-02-24T16:57:40+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[最近怎么一直没看见军爸活跃啊]]></summary>
-    </entry>
-        <entry>
-        <title>实战避坑：FastAPI用懒加载+Lifespan优雅管理重型依赖</title>
-        <id>147035</id>
-        <link href="https://blog.8866321.xyz/Python/1-FastAPILazyLoading.html?utm_source=blogfinder" />
-        <published>2026-02-24T16:55:31+08:00</published>
-        <author>
-            <name>Andy</name>
-            <uri>https://blog.8866321.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[实战避坑：FastAPI用懒加载+Lifespan优雅管理重型依赖]]></summary>
     </entry>
     </feed>
