@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-28T23:00:58+08:00</updated>
+    <updated>2026-03-01T00:00:44+08:00</updated>
+        <entry>
+        <title>基于 LlamaIndex ReAct 框架手搓全自动博客监控 Agent - 大模型实战 07 | 阿尔的代码屋</title>
+        <id>147579</id>
+        <link href="https://blog.algieba12.cn/llm07-rss-notification-react-agent/?utm_source=blogfinder" />
+        <published>2026-02-28T23:31:05+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[基于 LlamaIndex ReAct 框架手搓全自动博客监控 Agent - 大模型实战 07 | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
+        <title>买大米，认准这串数字就够了！</title>
+        <id>147578</id>
+        <link href="https://ygz.ink/archives/4464.html?utm_source=blogfinder" />
+        <published>2026-02-28T21:22:18+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[买大米，认准这串数字就够了！]]></summary>
+    </entry>
         <entry>
         <title>Ubuntu下docker部署安装MySQL和WordPress</title>
         <id>147574</id>
@@ -1276,16 +1298,5 @@
             <uri>https://61.life</uri>
         </author>
         <summary type="text"><![CDATA[20260224]]></summary>
-    </entry>
-        <entry>
-        <title>网络断断续续……</title>
-        <id>147126</id>
-        <link href="https://www.kawabangga.com/posts/7187?utm_source=blogfinder" />
-        <published>2026-02-25T23:10:49+08:00</published>
-        <author>
-            <name>卡瓦邦噶</name>
-            <uri>https://www.kawabangga.com</uri>
-        </author>
-        <summary type="text"><![CDATA[网络断断续续……]]></summary>
     </entry>
     </feed>
