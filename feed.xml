@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-02-28T15:00:40+08:00</updated>
+    <updated>2026-02-28T16:00:57+08:00</updated>
         <entry>
         <title>复活了我的华为watch4</title>
         <id>147552</id>
@@ -22,6 +22,28 @@
             <uri>https://www.xiaocaoderijiben.online</uri>
         </author>
         <summary type="text"><![CDATA[复活了我的华为watch4]]></summary>
+    </entry>
+        <entry>
+        <title>图片转码软件测试版发布</title>
+        <id>147563</id>
+        <link href="https://ilogs.cn/2026/02/28/367.html?utm_source=blogfinder" />
+        <published>2026-02-28T12:45:00+08:00</published>
+        <author>
+            <name>我的日志</name>
+            <uri>https://ilogs.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[图片转码软件测试版发布]]></summary>
+    </entry>
+        <entry>
+        <title>论无用的哲学</title>
+        <id>147553</id>
+        <link href="https://sliun.com/onnozhexue/?utm_source=blogfinder" />
+        <published>2026-02-28T12:44:00+08:00</published>
+        <author>
+            <name>理论派</name>
+            <uri>https://lilun.bearblog.dev</uri>
+        </author>
+        <summary type="text"><![CDATA[论无用的哲学]]></summary>
     </entry>
         <entry>
         <title>拿到了加拿大签证</title>
@@ -88,6 +110,17 @@
             <uri>http://www.yveji.com</uri>
         </author>
         <summary type="text"><![CDATA[style for ccthere]]></summary>
+    </entry>
+        <entry>
+        <title>代理 IP：『成为一分钟 IP 主人』的那些事</title>
+        <id>147564</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1075/?utm_source=blogfinder" />
+        <published>2026-02-27T22:59:00+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[代理 IP：『成为一分钟 IP 主人』的那些事]]></summary>
     </entry>
         <entry>
         <title>冬至（68、69/81）：如梦般苏醒，如天使般神圣</title>
@@ -1353,27 +1386,5 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[MES 系统中常见的缩写前缀汇总，如 MD、MO、LOT、AD、SM 等]]></summary>
-    </entry>
-        <entry>
-        <title>过年期间的事</title>
-        <id>147108</id>
-        <link href="https://b.ncii.cn/archives/SLL5jMCH?utm_source=blogfinder" />
-        <published>2026-02-25T15:20:02+08:00</published>
-        <author>
-            <name>卖烤肉博客</name>
-            <uri>https://b.ncii.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[过年期间的事]]></summary>
-    </entry>
-        <entry>
-        <title>读书笔记：图解大模型——生成式AI原理与实战</title>
-        <id>147100</id>
-        <link href="https://www.xuezhao.space/book-hands-on-llm.html?utm_source=blogfinder" />
-        <published>2026-02-25T15:04:02+08:00</published>
-        <author>
-            <name>海拉鲁打怪日记</name>
-            <uri>https://www.xuezhao.space</uri>
-        </author>
-        <summary type="text"><![CDATA[读书笔记：图解大模型——生成式AI原理与实战]]></summary>
     </entry>
     </feed>
