@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-01T13:00:35+08:00</updated>
+    <updated>2026-03-01T14:02:45+08:00</updated>
+        <entry>
+        <title>一个简洁高效的SVG图标库</title>
+        <id>147688</id>
+        <link href="https://wuqishi.com/a-concise-and-efficient-svg-icon-library/?utm_source=blogfinder" />
+        <published>2026-03-01T13:17:00+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[一个简洁高效的SVG图标库]]></summary>
+    </entry>
         <entry>
         <title>【发疯存档#007号】</title>
         <id>147687</id>
@@ -1408,27 +1419,5 @@
             <uri>https://blog.17lai.site</uri>
         </author>
         <summary type="text"><![CDATA[狭义相对论：时空的革命]]></summary>
-    </entry>
-        <entry>
-        <title>同村的小伙伴都长大了</title>
-        <id>147244</id>
-        <link href="https://ygz.ink/archives/4452.html?utm_source=blogfinder" />
-        <published>2026-02-26T13:39:02+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[同村的小伙伴都长大了]]></summary>
-    </entry>
-        <entry>
-        <title>2026年春节散记 - 小地方也禁了烟花爆竹</title>
-        <id>147240</id>
-        <link href="https://cuixiping.com/blog/others/usmcbi?utm_source=blogfinder" />
-        <published>2026-02-26T13:11:00+08:00</published>
-        <author>
-            <name>崔话记</name>
-            <uri>https://cuixiping.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026年春节散记 - 小地方也禁了烟花爆竹]]></summary>
     </entry>
     </feed>
