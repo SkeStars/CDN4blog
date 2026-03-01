@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-01T19:00:23+08:00</updated>
+    <updated>2026-03-01T21:01:44+08:00</updated>
+        <entry>
+        <title>开源 LLM 大模型知识库问答系统 FastGPT 部署教程</title>
+        <id>147743</id>
+        <link href="https://www.51it.wang/ll/2164?utm_source=blogfinder" />
+        <published>2026-03-01T20:26:00+08:00</published>
+        <author>
+            <name>Lcry</name>
+            <uri>https://www.51it.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[开源 LLM 大模型知识库问答系统 FastGPT 部署教程]]></summary>
+    </entry>
+        <entry>
+        <title>2026年春节散记 - 走亲戚</title>
+        <id>147742</id>
+        <link href="https://cuixiping.com/blog/think/ryybou?utm_source=blogfinder" />
+        <published>2026-03-01T18:55:00+08:00</published>
+        <author>
+            <name>崔话记</name>
+            <uri>https://cuixiping.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026年春节散记 - 走亲戚]]></summary>
+    </entry>
         <entry>
         <title>拆解 kimi-cli：Coding Agent 的能力上限，为什么在“模型之外”？</title>
         <id>147740</id>
@@ -22,6 +44,17 @@
             <uri>https://www.edony.ink</uri>
         </author>
         <summary type="text"><![CDATA[拆解 kimi-cli：Coding Agent 的能力上限，为什么在“模型之外”？]]></summary>
+    </entry>
+        <entry>
+        <title>完蛋</title>
+        <id>147744</id>
+        <link href="https://ficor.net/2026/03/wandan/?utm_source=blogfinder" />
+        <published>2026-03-01T17:28:55+08:00</published>
+        <author>
+            <name>荒野菲克</name>
+            <uri>https://ficor.net</uri>
+        </author>
+        <summary type="text"><![CDATA[完蛋]]></summary>
     </entry>
         <entry>
         <title>还是弃用了使用多年的全拼输入法</title>
@@ -1364,82 +1397,5 @@
             <uri>https://blog.storia.ren</uri>
         </author>
         <summary type="text"><![CDATA[2026-02小记]]></summary>
-    </entry>
-        <entry>
-        <title>马年春节游的流水账</title>
-        <id>147306</id>
-        <link href="https://qfsyj.com/20260226-chunjie.html?utm_source=blogfinder" />
-        <published>2026-02-26T20:38:00+08:00</published>
-        <author>
-            <name>不曾长大</name>
-            <uri>https://qfsyj.com</uri>
-        </author>
-        <summary type="text"><![CDATA[马年春节游的流水账]]></summary>
-    </entry>
-        <entry>
-        <title>对“吴表面”及其操作工具的研究的阶段性报告（一）</title>
-        <id>147321</id>
-        <link href="https://www.wellobserve.com/?post=20260226203313&amp;utm_source=blogfinder" />
-        <published>2026-02-26T20:33:13+08:00</published>
-        <author>
-            <name>WellObserve</name>
-            <uri>https://www.wellobserve.com</uri>
-        </author>
-        <summary type="text"><![CDATA[对“吴表面”及其操作工具的研究的阶段性报告（一）]]></summary>
-    </entry>
-        <entry>
-        <title>隐藏式门把手，到底藏的是什么？</title>
-        <id>147260</id>
-        <link href="https://zhujay.com/blog/blog_view.asp?id=1203&amp;utm_source=blogfinder" />
-        <published>2026-02-26T20:21:21+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[隐藏式门把手，到底藏的是什么？]]></summary>
-    </entry>
-        <entry>
-        <title>解读 Linux 系统负载：从查看命令到数值含义</title>
-        <id>147313</id>
-        <link href="https://homer.sisubeny.space/posts/c300522d.html?utm_source=blogfinder" />
-        <published>2026-02-26T20:11:15+08:00</published>
-        <author>
-            <name>Homer</name>
-            <uri>https://homer.sisubeny.space</uri>
-        </author>
-        <summary type="text"><![CDATA[解读 Linux 系统负载：从查看命令到数值含义]]></summary>
-    </entry>
-        <entry>
-        <title>好奇心周刊第25期: 如何让AI写好代码</title>
-        <id>147264</id>
-        <link href="https://hutusi.com/weeklies/25?utm_source=blogfinder" />
-        <published>2026-02-26T19:55:00+08:00</published>
-        <author>
-            <name>胡涂说</name>
-            <uri>https://hutusi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[好奇心周刊第25期: 如何让AI写好代码]]></summary>
-    </entry>
-        <entry>
-        <title>手动编译耗子面板安装的OpenResty</title>
-        <id>147257</id>
-        <link href="https://blog.hzchu.top/2026/haozi-openresty-build/?utm_source=blogfinder" />
-        <published>2026-02-26T19:41:14+08:00</published>
-        <author>
-            <name>Thun888&#039;s Blog</name>
-            <uri>https://blog.hzchu.top</uri>
-        </author>
-        <summary type="text"><![CDATA[手动编译耗子面板安装的OpenResty]]></summary>
-    </entry>
-        <entry>
-        <title>最后一篇关于 REDMI Watch 5 eSIM 固件修改的文章</title>
-        <id>147330</id>
-        <link href="https://luming.cool/posts/2026/02/the-last-about-o65m/?utm_source=blogfinder" />
-        <published>2026-02-26T19:03:57+08:00</published>
-        <author>
-            <name>路明笔记</name>
-            <uri>https://www.luming.cool</uri>
-        </author>
-        <summary type="text"><![CDATA[最后一篇关于 REDMI Watch 5 eSIM 固件修改的文章]]></summary>
     </entry>
     </feed>
