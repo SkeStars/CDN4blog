@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-01T14:02:45+08:00</updated>
+    <updated>2026-03-01T15:00:28+08:00</updated>
         <entry>
         <title>一个简洁高效的SVG图标库</title>
         <id>147688</id>
@@ -99,6 +99,17 @@
             <uri>https://loglib.cn</uri>
         </author>
         <summary type="text"><![CDATA[又加了个小功能]]></summary>
+    </entry>
+        <entry>
+        <title>松声｜廿六年·二月末·春衫薄</title>
+        <id>147689</id>
+        <link href="https://xyzbz.cn/archives/1519/?utm_source=blogfinder" />
+        <published>2026-03-01T03:40:00+08:00</published>
+        <author>
+            <name>网友小宋</name>
+            <uri>https://xyzbz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[松声｜廿六年·二月末·春衫薄]]></summary>
     </entry>
         <entry>
         <title>城市散步志：年前</title>
@@ -1397,27 +1408,5 @@
             <uri>https://ficor.net</uri>
         </author>
         <summary type="text"><![CDATA[明水古城]]></summary>
-    </entry>
-        <entry>
-        <title>广义相对论：弯曲的时空</title>
-        <id>147267</id>
-        <link href="https://blog.17lai.site/posts/b1a8aea/?utm_source=blogfinder" />
-        <published>2026-02-26T14:30:19+08:00</published>
-        <author>
-            <name>夜法之书</name>
-            <uri>https://blog.17lai.site</uri>
-        </author>
-        <summary type="text"><![CDATA[广义相对论：弯曲的时空]]></summary>
-    </entry>
-        <entry>
-        <title>狭义相对论：时空的革命</title>
-        <id>147268</id>
-        <link href="https://blog.17lai.site/posts/eb442223/?utm_source=blogfinder" />
-        <published>2026-02-26T14:29:50+08:00</published>
-        <author>
-            <name>夜法之书</name>
-            <uri>https://blog.17lai.site</uri>
-        </author>
-        <summary type="text"><![CDATA[狭义相对论：时空的革命]]></summary>
     </entry>
     </feed>
