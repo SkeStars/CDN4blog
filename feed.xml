@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-01T15:00:28+08:00</updated>
+    <updated>2026-03-01T16:10:10+08:00</updated>
         <entry>
         <title>一个简洁高效的SVG图标库</title>
         <id>147688</id>
@@ -22,6 +22,28 @@
             <uri>https://wuqishi.com</uri>
         </author>
         <summary type="text"><![CDATA[一个简洁高效的SVG图标库]]></summary>
+    </entry>
+        <entry>
+        <title>战争一响，黄金万两。美以对伊朗动手了，要不要买黄金避险呢？</title>
+        <id>147693</id>
+        <link href="https://www.zhyok.cn/index.php/archives/253/?utm_source=blogfinder" />
+        <published>2026-03-01T13:02:00+08:00</published>
+        <author>
+            <name>秋記 Autumn</name>
+            <uri>https://www.zhyok.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[战争一响，黄金万两。美以对伊朗动手了，要不要买黄金避险呢？]]></summary>
+    </entry>
+        <entry>
+        <title>世界，您好！</title>
+        <id>147691</id>
+        <link href="https://ficor.net/2026/03/hello-world/?utm_source=blogfinder" />
+        <published>2026-03-01T12:42:45+08:00</published>
+        <author>
+            <name>荒野菲克</name>
+            <uri>https://ficor.net</uri>
+        </author>
+        <summary type="text"><![CDATA[世界，您好！]]></summary>
     </entry>
         <entry>
         <title>【发疯存档#007号】</title>
@@ -297,6 +319,17 @@
             <uri>https://isming.me</uri>
         </author>
         <summary type="text"><![CDATA[#15 欢喜过年的二月月报]]></summary>
+    </entry>
+        <entry>
+        <title>香港散步</title>
+        <id>147690</id>
+        <link href="https://blog.pursuitus.com/walking-in-hong-kong.html?utm_source=blogfinder" />
+        <published>2026-02-28T20:34:21+08:00</published>
+        <author>
+            <name>Ouroboros</name>
+            <uri>https://blog.pursuitus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[香港散步]]></summary>
     </entry>
         <entry>
         <title>说说：#2026-02-28 20:21</title>
@@ -1375,38 +1408,5 @@
             <uri>http://www.0731119.xyz</uri>
         </author>
         <summary type="text"><![CDATA[使用AI“一键复刻”宣传图，轻松搞定产品主图设计]]></summary>
-    </entry>
-        <entry>
-        <title>我用大模型写了一个Edge TTS图形化工具</title>
-        <id>147247</id>
-        <link href="https://www.suiyan.cc/blog/20260226080637?utm_source=blogfinder" />
-        <published>2026-02-26T16:06:37+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[我用大模型写了一个Edge TTS图形化工具]]></summary>
-    </entry>
-        <entry>
-        <title>Minecraft 自建服：把 WordPress 当作登录服务器</title>
-        <id>147269</id>
-        <link href="https://blog.yang1120.com/archives/729?utm_source=blogfinder" />
-        <published>2026-02-26T15:56:13+08:00</published>
-        <author>
-            <name>氧化某人</name>
-            <uri>https://blog.yang1120.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Minecraft 自建服：把 WordPress 当作登录服务器]]></summary>
-    </entry>
-        <entry>
-        <title>明水古城</title>
-        <id>147259</id>
-        <link href="https://ficor.net/2026/02/26/mingshui/?utm_source=blogfinder" />
-        <published>2026-02-26T15:32:17+08:00</published>
-        <author>
-            <name>荒野菲克</name>
-            <uri>https://ficor.net</uri>
-        </author>
-        <summary type="text"><![CDATA[明水古城]]></summary>
     </entry>
     </feed>
