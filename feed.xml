@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-01T18:00:44+08:00</updated>
+    <updated>2026-03-01T19:00:23+08:00</updated>
+        <entry>
+        <title>拆解 kimi-cli：Coding Agent 的能力上限，为什么在“模型之外”？</title>
+        <id>147740</id>
+        <link href="https://www.edony.ink/chai-jie-kimi-cli-coding-agent-de-neng-li-shang-xian-wei-shi-yao-zai-mo-xing-zhi-wai/?utm_source=blogfinder" />
+        <published>2026-03-01T18:11:30+08:00</published>
+        <author>
+            <name>Shadow Walker</name>
+            <uri>https://www.edony.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[拆解 kimi-cli：Coding Agent 的能力上限，为什么在“模型之外”？]]></summary>
+    </entry>
         <entry>
         <title>还是弃用了使用多年的全拼输入法</title>
         <id>147699</id>
@@ -77,6 +88,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[玩cosplay的年轻人越来越多了]]></summary>
+    </entry>
+        <entry>
+        <title>K8s 和 Docker 到底是啥？它们之间是什么关系？</title>
+        <id>147741</id>
+        <link href="https://homer.sisubeny.space/posts/24366218.html?utm_source=blogfinder" />
+        <published>2026-03-01T13:47:04+08:00</published>
+        <author>
+            <name>Homer</name>
+            <uri>https://homer.sisubeny.space</uri>
+        </author>
+        <summary type="text"><![CDATA[K8s 和 Docker 到底是啥？它们之间是什么关系？]]></summary>
     </entry>
         <entry>
         <title>一个简洁高效的SVG图标库</title>
@@ -1419,60 +1441,5 @@
             <uri>https://www.luming.cool</uri>
         </author>
         <summary type="text"><![CDATA[最后一篇关于 REDMI Watch 5 eSIM 固件修改的文章]]></summary>
-    </entry>
-        <entry>
-        <title>不会说话就去学</title>
-        <id>147292</id>
-        <link href="https://blog.solazy.me/20260226/?utm_source=blogfinder" />
-        <published>2026-02-26T19:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[不会说话就去学]]></summary>
-    </entry>
-        <entry>
-        <title>网站备份迁移实战：从手动迁移到问题解决</title>
-        <id>147266</id>
-        <link href="https://www.886a.top/archives/837.html?utm_source=blogfinder" />
-        <published>2026-02-26T19:00:00+08:00</published>
-        <author>
-            <name>羽翼博客</name>
-            <uri>https://www.886a.top</uri>
-        </author>
-        <summary type="text"><![CDATA[网站备份迁移实战：从手动迁移到问题解决]]></summary>
-    </entry>
-        <entry>
-        <title>如何无痛从假期模式切换到到工作模式</title>
-        <id>147253</id>
-        <link href="https://joojen.com/archives/8845.html?utm_source=blogfinder" />
-        <published>2026-02-26T18:29:09+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[如何无痛从假期模式切换到到工作模式]]></summary>
-    </entry>
-        <entry>
-        <title>都市天际线2：通过优化设计路网解决拥堵</title>
-        <id>147261</id>
-        <link href="https://www.xiaozonglin.cn/solves-congestion-by-optimizing-road-network-design/?utm_source=blogfinder" />
-        <published>2026-02-26T18:17:05+08:00</published>
-        <author>
-            <name>林林杂语</name>
-            <uri>https://www.xiaozonglin.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[都市天际线2：通过优化设计路网解决拥堵]]></summary>
-    </entry>
-        <entry>
-        <title>60公里，两条狗，还有一个我！</title>
-        <id>147255</id>
-        <link href="https://www.puresky.top/archives/9CXue5d7?utm_source=blogfinder" />
-        <published>2026-02-26T18:02:24+08:00</published>
-        <author>
-            <name>轻雅阁</name>
-            <uri>https://www.puresky.top</uri>
-        </author>
-        <summary type="text"><![CDATA[60公里，两条狗，还有一个我！]]></summary>
     </entry>
     </feed>
