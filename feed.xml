@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-01T23:01:33+08:00</updated>
+    <updated>2026-03-02T00:00:24+08:00</updated>
         <entry>
         <title>DIY美味又营养的卷饼</title>
         <id>147756</id>
@@ -35,6 +35,17 @@
         <summary type="text"><![CDATA[美国与伊朗这两个国家的数据对比，国土面积，人口，经济数据等]]></summary>
     </entry>
         <entry>
+        <title>胡拉图的周刊-第九期</title>
+        <id>147761</id>
+        <link href="https://hulatu.com/posts/2026/03/01/newsletter-weekly/?utm_source=blogfinder" />
+        <published>2026-03-01T21:02:00+08:00</published>
+        <author>
+            <name>胡拉图的后花园</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[胡拉图的周刊-第九期]]></summary>
+    </entry>
+        <entry>
         <title>有些话不说憋得慌</title>
         <id>147757</id>
         <link href="https://blog.52hyjs.com/post-1259.html?utm_source=blogfinder" />
@@ -55,6 +66,17 @@
             <uri>https://www.51it.wang</uri>
         </author>
         <summary type="text"><![CDATA[开源 LLM 大模型知识库问答系统 FastGPT 部署教程]]></summary>
+    </entry>
+        <entry>
+        <title>周末流水账 0301</title>
+        <id>147760</id>
+        <link href="https://blog.solazy.me/20260301/?utm_source=blogfinder" />
+        <published>2026-03-01T20:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0301]]></summary>
     </entry>
         <entry>
         <title>智泊大屏直播v20260208：国内数百个频道资源</title>
@@ -90,6 +112,17 @@
         <summary type="text"><![CDATA[关于一个历史问题的哲学思考]]></summary>
     </entry>
         <entry>
+        <title>说得着与说不着——读刘震云的《一句顶一万句》</title>
+        <id>147759</id>
+        <link href="https://www.jfsay.com/archives/4014.html?utm_source=blogfinder" />
+        <published>2026-03-01T18:24:25+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[说得着与说不着——读刘震云的《一句顶一万句》]]></summary>
+    </entry>
+        <entry>
         <title>拆解 kimi-cli：Coding Agent 的能力上限，为什么在“模型之外”？</title>
         <id>147740</id>
         <link href="https://www.edony.ink/chai-jie-kimi-cli-coding-agent-de-neng-li-shang-xian-wei-shi-yao-zai-mo-xing-zhi-wai/?utm_source=blogfinder" />
@@ -99,6 +132,17 @@
             <uri>https://www.edony.ink</uri>
         </author>
         <summary type="text"><![CDATA[拆解 kimi-cli：Coding Agent 的能力上限，为什么在“模型之外”？]]></summary>
+    </entry>
+        <entry>
+        <title>周报 #13 – 2026 好久不见</title>
+        <id>147758</id>
+        <link href="https://yinji.org/weekly-report-13-2026.html?utm_source=blogfinder" />
+        <published>2026-03-01T17:46:24+08:00</published>
+        <author>
+            <name>印记</name>
+            <uri>https://yinji.org</uri>
+        </author>
+        <summary type="text"><![CDATA[周报 #13 – 2026 好久不见]]></summary>
     </entry>
         <entry>
         <title>完蛋</title>
@@ -1408,16 +1452,5 @@
             <uri>https://loglib.cn</uri>
         </author>
         <summary type="text"><![CDATA[博客上线自适应“标识+认证”]]></summary>
-    </entry>
-        <entry>
-        <title>设计原则</title>
-        <id>147597</id>
-        <link href="https://blog.uuanqin.top/p/a151c9f2/?utm_source=blogfinder" />
-        <published>2026-02-26T23:56:40+08:00</published>
-        <author>
-            <name>半方池水半方田</name>
-            <uri>https://blog.uuanqin.top</uri>
-        </author>
-        <summary type="text"><![CDATA[设计原则]]></summary>
     </entry>
     </feed>
