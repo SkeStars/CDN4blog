@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-02T13:00:29+08:00</updated>
+    <updated>2026-03-02T14:01:46+08:00</updated>
         <entry>
         <title>搭建seafile服务端，修改文件存储目录</title>
         <id>147793</id>
@@ -231,6 +231,17 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[Toots 408 2026 Feb.22 - Feb.28]]></summary>
+    </entry>
+        <entry>
+        <title>静态博客多语言架构设计：从“翻译问题”到“三层分离模型”</title>
+        <id>147800</id>
+        <link href="https://www.tortorse.com/archives/static-blog-bilingual-architecture-three-layer-model/?utm_source=blogfinder" />
+        <published>2026-03-01T19:25:22+08:00</published>
+        <author>
+            <name>愆伏</name>
+            <uri>https://www.tortorse.com</uri>
+        </author>
+        <summary type="text"><![CDATA[静态博客多语言架构设计：从“翻译问题”到“三层分离模型”]]></summary>
     </entry>
         <entry>
         <title>2026年春节散记 - 走亲戚</title>
@@ -1496,27 +1507,5 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[今年解锁的新技能：打麻将]]></summary>
-    </entry>
-        <entry>
-        <title>正在考虑要不要继续维护公众号</title>
-        <id>147311</id>
-        <link href="https://www.xiaocaoderijiben.online/archives/271?utm_source=blogfinder" />
-        <published>2026-02-27T13:59:03+08:00</published>
-        <author>
-            <name>小草的日记本</name>
-            <uri>https://www.xiaocaoderijiben.online</uri>
-        </author>
-        <summary type="text"><![CDATA[正在考虑要不要继续维护公众号]]></summary>
-    </entry>
-        <entry>
-        <title>寒假纪事</title>
-        <id>147394</id>
-        <link href="https://www.oatse.com/archives/han-jia-er-san-shi?utm_source=blogfinder" />
-        <published>2026-02-27T13:31:27+08:00</published>
-        <author>
-            <name>茨见手扎</name>
-            <uri>https://www.oatse.com</uri>
-        </author>
-        <summary type="text"><![CDATA[寒假纪事]]></summary>
     </entry>
     </feed>
