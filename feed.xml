@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-02T15:00:17+08:00</updated>
+    <updated>2026-03-02T17:00:37+08:00</updated>
+        <entry>
+        <title>Ubuntu连接老移动硬盘无法识别和挂载的解决过程</title>
+        <id>147807</id>
+        <link href="https://www.suiyan.cc/blog/20260302072453?utm_source=blogfinder" />
+        <published>2026-03-02T15:24:53+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[Ubuntu连接老移动硬盘无法识别和挂载的解决过程]]></summary>
+    </entry>
+        <entry>
+        <title>龙虾(openclaw)又红温了</title>
+        <id>147806</id>
+        <link href="https://liuqingwushui.top/archives/140/?utm_source=blogfinder" />
+        <published>2026-03-02T14:41:59+08:00</published>
+        <author>
+            <name>流情的博客</name>
+            <uri>https://liuqingwushui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[龙虾(openclaw)又红温了]]></summary>
+    </entry>
         <entry>
         <title>2026年二月小结</title>
         <id>147804</id>
@@ -1408,82 +1430,5 @@
             <uri>https://fxpai.com</uri>
         </author>
         <summary type="text"><![CDATA[GoPro自带软件Quik无法加载图片和视频的离谱问题]]></summary>
-    </entry>
-        <entry>
-        <title>积分抽奖降价啦！每日刮刮乐送积分！</title>
-        <id>147309</id>
-        <link href="https://zhujay.com/talking/?id=1204&amp;utm_source=blogfinder" />
-        <published>2026-02-27T16:45:45+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[积分抽奖降价啦！每日刮刮乐送积分！]]></summary>
-    </entry>
-        <entry>
-        <title>读《咸的玩笑》</title>
-        <id>147545</id>
-        <link href="https://www.feidaoboke.com/post/read-xian-de-wan-xiao.html?utm_source=blogfinder" />
-        <published>2026-02-27T16:36:29+08:00</published>
-        <author>
-            <name>飞刀博客</name>
-            <uri>https://www.feidaoboke.com</uri>
-        </author>
-        <summary type="text"><![CDATA[读《咸的玩笑》]]></summary>
-    </entry>
-        <entry>
-        <title>看完就懂 useSyncExternalStore</title>
-        <id>147322</id>
-        <link href="https://ssshooter.com/react-usesyncexternalstore/?utm_source=blogfinder" />
-        <published>2026-02-27T16:24:32+08:00</published>
-        <author>
-            <name>Usubeni Fantasy</name>
-            <uri>https://ssshooter.com</uri>
-        </author>
-        <summary type="text"><![CDATA[看完就懂 useSyncExternalStore]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 1 Lorentz 变换</title>
-        <id>147320</id>
-        <link href="https://physnya.top/GR/lesson-1-lorentz-transformation/?utm_source=blogfinder" />
-        <published>2026-02-27T15:40:50+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 1 Lorentz 变换]]></summary>
-    </entry>
-        <entry>
-        <title>广义相对论</title>
-        <id>147319</id>
-        <link href="https://physnya.top/GR/?utm_source=blogfinder" />
-        <published>2026-02-27T15:40:50+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[广义相对论]]></summary>
-    </entry>
-        <entry>
-        <title>酥米的碎碎念（12），最近的一些事</title>
-        <id>147316</id>
-        <link href="https://www.sumi233.top/%E9%85%A5%E7%B1%B3%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/%E9%85%A5%E7%B1%B3%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B512/?utm_source=blogfinder" />
-        <published>2026-02-27T15:18:00+08:00</published>
-        <author>
-            <name>酥米的小站</name>
-            <uri>https://www.sumi233.top</uri>
-        </author>
-        <summary type="text"><![CDATA[酥米的碎碎念（12），最近的一些事]]></summary>
-    </entry>
-        <entry>
-        <title>博客底部增加菜单栏</title>
-        <id>147639</id>
-        <link href="https://loglib.cn/104.html?utm_source=blogfinder" />
-        <published>2026-02-27T15:02:00+08:00</published>
-        <author>
-            <name>李文君 &#039;s Blog</name>
-            <uri>https://loglib.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[博客底部增加菜单栏]]></summary>
     </entry>
     </feed>
