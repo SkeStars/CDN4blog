@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-02T14:01:46+08:00</updated>
+    <updated>2026-03-02T15:00:17+08:00</updated>
+        <entry>
+        <title>2026年二月小结</title>
+        <id>147804</id>
+        <link href="http://ellenli.cc/posts/2026-february/?utm_source=blogfinder" />
+        <published>2026-03-02T13:00:00+08:00</published>
+        <author>
+            <name>Ellen&#039;s 自留地</name>
+            <uri>https://ellenli.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[2026年二月小结]]></summary>
+    </entry>
         <entry>
         <title>搭建seafile服务端，修改文件存储目录</title>
         <id>147793</id>
@@ -22,6 +33,28 @@
             <uri>https://wonse.info</uri>
         </author>
         <summary type="text"><![CDATA[搭建seafile服务端，修改文件存储目录]]></summary>
+    </entry>
+        <entry>
+        <title>不要问别人怎么办</title>
+        <id>147803</id>
+        <link href="https://www.dengxiaokang.com/1415/?utm_source=blogfinder" />
+        <published>2026-03-02T11:20:58+08:00</published>
+        <author>
+            <name>菜心言</name>
+            <uri>https://www.dengxiaokang.com</uri>
+        </author>
+        <summary type="text"><![CDATA[不要问别人怎么办]]></summary>
+    </entry>
+        <entry>
+        <title>新工作已找到</title>
+        <id>147805</id>
+        <link href="https://ygz.ink/archives/4469.html?utm_source=blogfinder" />
+        <published>2026-03-02T11:10:36+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[新工作已找到]]></summary>
     </entry>
         <entry>
         <title>人事管理系统增加续签无固定期限合同支持</title>
@@ -1452,60 +1485,5 @@
             <uri>https://loglib.cn</uri>
         </author>
         <summary type="text"><![CDATA[博客底部增加菜单栏]]></summary>
-    </entry>
-        <entry>
-        <title>真的很好看</title>
-        <id>147301</id>
-        <link href="https://ygz.ink/archives/4460.html?utm_source=blogfinder" />
-        <published>2026-02-27T14:45:41+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[真的很好看]]></summary>
-    </entry>
-        <entry>
-        <title>Claude Code使用心得</title>
-        <id>147549</id>
-        <link href="https://blog.xxbjf.com/archives/claude-codeshi-yong-xin-de?utm_source=blogfinder" />
-        <published>2026-02-27T14:27:00+08:00</published>
-        <author>
-            <name>小新笔记坊</name>
-            <uri>https://blog.xxbjf.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude Code使用心得]]></summary>
-    </entry>
-        <entry>
-        <title>推荐一款小而美的Windows剪贴板利器ElegantClipboard</title>
-        <id>147329</id>
-        <link href="https://qninq.cn/archives/elegantclipboard.html?utm_source=blogfinder" />
-        <published>2026-02-27T14:24:00+08:00</published>
-        <author>
-            <name>倾城于你</name>
-            <uri>https://qninq.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[推荐一款小而美的Windows剪贴板利器ElegantClipboard]]></summary>
-    </entry>
-        <entry>
-        <title>似乎已经戒掉了咖啡</title>
-        <id>147310</id>
-        <link href="https://www.xiaocaoderijiben.online/archives/273?utm_source=blogfinder" />
-        <published>2026-02-27T14:08:32+08:00</published>
-        <author>
-            <name>小草的日记本</name>
-            <uri>https://www.xiaocaoderijiben.online</uri>
-        </author>
-        <summary type="text"><![CDATA[似乎已经戒掉了咖啡]]></summary>
-    </entry>
-        <entry>
-        <title>今年解锁的新技能：打麻将</title>
-        <id>147302</id>
-        <link href="https://ygz.ink/archives/4455.html?utm_source=blogfinder" />
-        <published>2026-02-27T14:03:51+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[今年解锁的新技能：打麻将]]></summary>
     </entry>
     </feed>
