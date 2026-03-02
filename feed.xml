@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-02T11:00:30+08:00</updated>
+    <updated>2026-03-02T13:00:29+08:00</updated>
+        <entry>
+        <title>搭建seafile服务端，修改文件存储目录</title>
+        <id>147793</id>
+        <link href="https://wonse.info/seafile-data.html?utm_source=blogfinder" />
+        <published>2026-03-02T11:53:00+08:00</published>
+        <author>
+            <name>王鑫的小屋</name>
+            <uri>https://wonse.info</uri>
+        </author>
+        <summary type="text"><![CDATA[搭建seafile服务端，修改文件存储目录]]></summary>
+    </entry>
+        <entry>
+        <title>人事管理系统增加续签无固定期限合同支持</title>
+        <id>147789</id>
+        <link href="https://www.sunzhongwei.com/hr-management-system-adds-support-renewing-open-ended-contracts?utm_source=blogfinder" />
+        <published>2026-03-02T10:32:19+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[人事管理系统增加续签无固定期限合同支持]]></summary>
+    </entry>
         <entry>
         <title>表象的本质</title>
         <id>147787</id>
@@ -33,6 +55,17 @@
             <uri>https://www.vinking.top</uri>
         </author>
         <summary type="text"><![CDATA[从快捷指令到原生 App：免费开发者账号下的 HealthKit 自动同步解决方案]]></summary>
+    </entry>
+        <entry>
+        <title>稻草人周刊 Vol.70</title>
+        <id>147790</id>
+        <link href="https://www.geedea.pro/posts/weekly/70/?utm_source=blogfinder" />
+        <published>2026-03-02T00:18:59+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[稻草人周刊 Vol.70]]></summary>
     </entry>
         <entry>
         <title>一期一会</title>
@@ -440,6 +473,17 @@
             <uri>https://iliu.org</uri>
         </author>
         <summary type="text"><![CDATA[关于资本力量和噪音的一些思考]]></summary>
+    </entry>
+        <entry>
+        <title>《Weekly Insights》 - 总第 13 期 - 2026 年第 9 周</title>
+        <id>147799</id>
+        <link href="http://onlytl.com/archives/VrffZD3G?utm_source=blogfinder" />
+        <published>2026-03-01T12:34:00+08:00</published>
+        <author>
+            <name>OnlyTL</name>
+            <uri>https://onlytl.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《Weekly Insights》 - 总第 13 期 - 2026 年第 9 周]]></summary>
     </entry>
         <entry>
         <title>记一次k8s集群内业务问题排查思考</title>
@@ -1474,16 +1518,5 @@
             <uri>https://www.oatse.com</uri>
         </author>
         <summary type="text"><![CDATA[寒假纪事]]></summary>
-    </entry>
-        <entry>
-        <title>MySql主从复制</title>
-        <id>147307</id>
-        <link href="https://www.golangblog.com/blog/mysql-master-slave-copy?utm_source=blogfinder" />
-        <published>2026-02-27T11:25:49+08:00</published>
-        <author>
-            <name>浩瀚星河</name>
-            <uri>https://www.golangblog.com</uri>
-        </author>
-        <summary type="text"><![CDATA[MySql主从复制]]></summary>
     </entry>
     </feed>
