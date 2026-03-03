@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-03T23:04:50+08:00</updated>
+    <updated>2026-03-04T00:00:28+08:00</updated>
+        <entry>
+        <title>随思 - 2026-03-03</title>
+        <id>147911</id>
+        <link href="http://qthinker.net/content/59?utm_source=blogfinder" />
+        <published>2026-03-03T23:34:41+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[随思 - 2026-03-03]]></summary>
+    </entry>
         <entry>
         <title>答复几个读研时申请的发明专利一审意见记录以及XML压缩包的坑</title>
         <id>147907</id>
@@ -46,6 +57,17 @@
         <summary type="text"><![CDATA[个人小程序不备案无法访问，报错“该小程序仅支持由小程序开发团队体验，无法访问”]]></summary>
     </entry>
         <entry>
+        <title>随思 - 2026-03-03</title>
+        <id>147912</id>
+        <link href="http://qthinker.net/content/58?utm_source=blogfinder" />
+        <published>2026-03-03T20:58:46+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[随思 - 2026-03-03]]></summary>
+    </entry>
+        <entry>
         <title>元宵节快乐！</title>
         <id>147904</id>
         <link href="https://hjyl.org/happy-lantern-festival/?utm_source=blogfinder" />
@@ -77,6 +99,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[特喵的！终于下雪了。]]></summary>
+    </entry>
+        <entry>
+        <title>再聊永久服务</title>
+        <id>147913</id>
+        <link href="https://anotherdayu.com/lifetime-plan/?utm_source=blogfinder" />
+        <published>2026-03-03T20:13:00+08:00</published>
+        <author>
+            <name>Another Dayu</name>
+            <uri>https://anotherdayu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[再聊永久服务]]></summary>
     </entry>
         <entry>
         <title>如何使用 Rclone 下载 Google Drive 分享链接内的文件</title>
@@ -1441,38 +1474,5 @@
             <uri>https://www.haoyu233.com</uri>
         </author>
         <summary type="text"><![CDATA[【26年8-9周记】琐事和网站优化]]></summary>
-    </entry>
-        <entry>
-        <title>游戏玩后感：Kanon</title>
-        <id>147779</id>
-        <link href="https://vnyzm.top/html/%E6%B8%B8%E6%88%8F%E7%8E%A9%E5%90%8E%E6%84%9F%EF%BC%9AKanon.html?utm_source=blogfinder" />
-        <published>2026-03-01T00:00:00+08:00</published>
-        <author>
-            <name>VnYzm 的博客</name>
-            <uri>https://vnyzm.top</uri>
-        </author>
-        <summary type="text"><![CDATA[游戏玩后感：Kanon]]></summary>
-    </entry>
-        <entry>
-        <title>三月 – March</title>
-        <id>147637</id>
-        <link href="https://oheng.com/march-march/?utm_source=blogfinder" />
-        <published>2026-03-01T00:00:00+08:00</published>
-        <author>
-            <name>飞觞醉月</name>
-            <uri>https://oheng.com</uri>
-        </author>
-        <summary type="text"><![CDATA[三月 – March]]></summary>
-    </entry>
-        <entry>
-        <title>基于 LlamaIndex ReAct 框架手搓全自动博客监控 Agent - 大模型实战 07 | 阿尔的代码屋</title>
-        <id>147579</id>
-        <link href="https://blog.algieba12.cn/llm07-rss-notification-react-agent/?utm_source=blogfinder" />
-        <published>2026-02-28T23:31:05+08:00</published>
-        <author>
-            <name>阿尔的代码屋</name>
-            <uri>https://blog.algieba12.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[基于 LlamaIndex ReAct 框架手搓全自动博客监控 Agent - 大模型实战 07 | 阿尔的代码屋]]></summary>
     </entry>
     </feed>
