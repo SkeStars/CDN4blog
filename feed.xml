@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-03T14:00:42+08:00</updated>
+    <updated>2026-03-03T15:00:42+08:00</updated>
         <entry>
         <title>平昌白衣特产—白衣油炸鱼</title>
         <id>147846</id>
@@ -33,6 +33,17 @@
             <uri>https://blog.moeworld.tech</uri>
         </author>
         <summary type="text"><![CDATA[2026元宵节（上元节）x月食]]></summary>
+    </entry>
+        <entry>
+        <title>抖音给了我20W的浏览量</title>
+        <id>147852</id>
+        <link href="https://ygz.ink/archives/4474.html?utm_source=blogfinder" />
+        <published>2026-03-03T10:36:29+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[抖音给了我20W的浏览量]]></summary>
     </entry>
         <entry>
         <title>如何创作AI歌曲？从生成歌词、歌曲创作、专辑封面到音乐发行</title>
@@ -99,6 +110,17 @@
             <uri>https://anotherdayu.com</uri>
         </author>
         <summary type="text"><![CDATA[Hi Bear Blog]]></summary>
+    </entry>
+        <entry>
+        <title>记录一次用Skill给博客做的前端美化</title>
+        <id>147851</id>
+        <link href="http://qthinker.net/content/57?utm_source=blogfinder" />
+        <published>2026-03-03T02:04:39+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[记录一次用Skill给博客做的前端美化]]></summary>
     </entry>
         <entry>
         <title>人在美（Wu）国（Xi），用虚拟定位完成交我办校内定位新学期注册</title>
@@ -1485,16 +1507,5 @@
             <uri>https://www.zywvvd.com</uri>
         </author>
         <summary type="text"><![CDATA[大模型 AI 名词介绍]]></summary>
-    </entry>
-        <entry>
-        <title>复活了我的华为watch4</title>
-        <id>147552</id>
-        <link href="https://www.xiaocaoderijiben.online/archives/278?utm_source=blogfinder" />
-        <published>2026-02-28T14:01:20+08:00</published>
-        <author>
-            <name>小草的日记本</name>
-            <uri>https://www.xiaocaoderijiben.online</uri>
-        </author>
-        <summary type="text"><![CDATA[复活了我的华为watch4]]></summary>
     </entry>
     </feed>
