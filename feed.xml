@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-03T13:00:15+08:00</updated>
+    <updated>2026-03-03T14:00:42+08:00</updated>
         <entry>
         <title>平昌白衣特产—白衣油炸鱼</title>
         <id>147846</id>
@@ -132,6 +132,17 @@
             <uri>https://www.lihaoyu.cn</uri>
         </author>
         <summary type="text"><![CDATA[【转载】舞萌 DX 报错 8103 / 8106 以及 0949 问题原因分析和解决方案]]></summary>
+    </entry>
+        <entry>
+        <title>2026年春节散记 - 压岁钱与团圆饭</title>
+        <id>147850</id>
+        <link href="https://cuixiping.com/blog/think/jtowsp?utm_source=blogfinder" />
+        <published>2026-03-02T21:41:00+08:00</published>
+        <author>
+            <name>崔话记</name>
+            <uri>https://cuixiping.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026年春节散记 - 压岁钱与团圆饭]]></summary>
     </entry>
         <entry>
         <title>狗逼家长，当面一套背后一套！</title>
@@ -1485,27 +1496,5 @@
             <uri>https://www.xiaocaoderijiben.online</uri>
         </author>
         <summary type="text"><![CDATA[复活了我的华为watch4]]></summary>
-    </entry>
-        <entry>
-        <title>【转载】图片转码软件测试版，发布了</title>
-        <id>147811</id>
-        <link href="https://lilog.cn/archives/1227.html?utm_source=blogfinder" />
-        <published>2026-02-28T13:15:00+08:00</published>
-        <author>
-            <name>李的日志</name>
-            <uri>https://lilog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[【转载】图片转码软件测试版，发布了]]></summary>
-    </entry>
-        <entry>
-        <title>焦头烂额</title>
-        <id>147598</id>
-        <link href="https://97772.top/index.php/archives/272/?utm_source=blogfinder" />
-        <published>2026-02-28T13:13:00+08:00</published>
-        <author>
-            <name>苏清明的摆烂空间</name>
-            <uri>https://97772.top</uri>
-        </author>
-        <summary type="text"><![CDATA[焦头烂额]]></summary>
     </entry>
     </feed>
