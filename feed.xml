@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-03T17:00:48+08:00</updated>
+    <updated>2026-03-03T18:00:40+08:00</updated>
         <entry>
         <title>如何使用 Rclone 下载 Google Drive 分享链接内的文件</title>
         <id>147854</id>
@@ -22,6 +22,28 @@
             <uri>https://wuminboke.site</uri>
         </author>
         <summary type="text"><![CDATA[如何使用 Rclone 下载 Google Drive 分享链接内的文件]]></summary>
+    </entry>
+        <entry>
+        <title>变压器的故障分析及处理</title>
+        <id>147859</id>
+        <link href="https://www.aiwazi.com/2874.html?utm_source=blogfinder" />
+        <published>2026-03-03T15:59:16+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[变压器的故障分析及处理]]></summary>
+    </entry>
+        <entry>
+        <title>电动机接触器和热继电器怎么搭配选型</title>
+        <id>147860</id>
+        <link href="https://www.aiwazi.com/2872.html?utm_source=blogfinder" />
+        <published>2026-03-03T14:53:02+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[电动机接触器和热继电器怎么搭配选型]]></summary>
     </entry>
         <entry>
         <title>爱豆-蔡徐坤</title>
@@ -110,6 +132,17 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[理想的日常]]></summary>
+    </entry>
+        <entry>
+        <title>临时插播一条羊毛，免费领取450元大模型API代金券</title>
+        <id>147858</id>
+        <link href="https://wiki.eryajf.net/pages/f7788b/?utm_source=blogfinder" />
+        <published>2026-03-03T07:20:19+08:00</published>
+        <author>
+            <name>二丫讲梵</name>
+            <uri>https://wiki.eryajf.net</uri>
+        </author>
+        <summary type="text"><![CDATA[临时插播一条羊毛，免费领取450元大模型API代金券]]></summary>
     </entry>
         <entry>
         <title>养孩子是场修行</title>
@@ -209,6 +242,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[狗逼家长，当面一套背后一套！]]></summary>
+    </entry>
+        <entry>
+        <title>家的味道</title>
+        <id>147861</id>
+        <link href="https://d-d.design/single/18277?utm_source=blogfinder" />
+        <published>2026-03-02T20:29:34+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[家的味道]]></summary>
     </entry>
         <entry>
         <title>开学啦！</title>
@@ -1507,38 +1551,5 @@
             <uri>https://imgradeone.com</uri>
         </author>
         <summary type="text"><![CDATA[杂念 · 2026 年春晚]]></summary>
-    </entry>
-        <entry>
-        <title>张三的一天，许三观的猪肝</title>
-        <id>147672</id>
-        <link href="https://www.pgoj.top/archives/chencunyitian.html?utm_source=blogfinder" />
-        <published>2026-02-28T17:41:23+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[张三的一天，许三观的猪肝]]></summary>
-    </entry>
-        <entry>
-        <title>拒绝自欺欺人！给博客文章加上 AI 创作等级标识 (附完整 PHP+CSS 代码）</title>
-        <id>147677</id>
-        <link href="https://www.tjsky.net/tutorial/1397?utm_source=blogfinder" />
-        <published>2026-02-28T17:20:35+08:00</published>
-        <author>
-            <name>秋风于渭水</name>
-            <uri>https://www.tjsky.net</uri>
-        </author>
-        <summary type="text"><![CDATA[拒绝自欺欺人！给博客文章加上 AI 创作等级标识 (附完整 PHP+CSS 代码）]]></summary>
-    </entry>
-        <entry>
-        <title>Echo Chamber Vol.2 序</title>
-        <id>147674</id>
-        <link href="https://www.justzht.com/echo-chamber-vol-2-preface/?utm_source=blogfinder" />
-        <published>2026-02-28T17:16:20+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Echo Chamber Vol.2 序]]></summary>
     </entry>
     </feed>
