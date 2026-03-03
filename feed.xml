@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-03T19:00:42+08:00</updated>
+    <updated>2026-03-03T21:01:09+08:00</updated>
         <entry>
         <title>如何使用 Rclone 下载 Google Drive 分享链接内的文件</title>
         <id>147854</id>
@@ -44,6 +44,28 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[变压器的故障分析及处理]]></summary>
+    </entry>
+        <entry>
+        <title>关于乡村的一些新思考</title>
+        <id>147901</id>
+        <link href="https://joojen.com/archives/8853.html?utm_source=blogfinder" />
+        <published>2026-03-03T15:26:59+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[关于乡村的一些新思考]]></summary>
+    </entry>
+        <entry>
+        <title>2026 年 1 月房地产数据</title>
+        <id>147902</id>
+        <link href="https://joojen.com/archives/8850.html?utm_source=blogfinder" />
+        <published>2026-03-03T15:26:20+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026 年 1 月房地产数据]]></summary>
     </entry>
         <entry>
         <title>电动机接触器和热继电器怎么搭配选型</title>
@@ -1496,71 +1518,5 @@
             <uri>https://isming.me</uri>
         </author>
         <summary type="text"><![CDATA[#15 欢喜过年的二月月报]]></summary>
-    </entry>
-        <entry>
-        <title>香港散步</title>
-        <id>147690</id>
-        <link href="https://blog.pursuitus.com/walking-in-hong-kong.html?utm_source=blogfinder" />
-        <published>2026-02-28T20:34:21+08:00</published>
-        <author>
-            <name>Ouroboros</name>
-            <uri>https://blog.pursuitus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[香港散步]]></summary>
-    </entry>
-        <entry>
-        <title>说说：#2026-02-28 20:21</title>
-        <id>147595</id>
-        <link href="https://www.mmbkz.cn/c9f96cce.html?utm_source=blogfinder" />
-        <published>2026-02-28T20:21:49+08:00</published>
-        <author>
-            <name>绯色之喵</name>
-            <uri>https://www.mmbkz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[说说：#2026-02-28 20:21]]></summary>
-    </entry>
-        <entry>
-        <title>2026年春节散记 - 父母养鱼的艰难历程</title>
-        <id>147569</id>
-        <link href="https://cuixiping.com/blog/think/dphquj?utm_source=blogfinder" />
-        <published>2026-02-28T19:35:00+08:00</published>
-        <author>
-            <name>崔话记</name>
-            <uri>https://cuixiping.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026年春节散记 - 父母养鱼的艰难历程]]></summary>
-    </entry>
-        <entry>
-        <title>EdgeOne 日志分析软件</title>
-        <id>147577</id>
-        <link href="https://jyblog.cn/4968/?utm_source=blogfinder" />
-        <published>2026-02-28T19:33:47+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[EdgeOne 日志分析软件]]></summary>
-    </entry>
-        <entry>
-        <title>隐说 NO.14 真理必须是前进的</title>
-        <id>147678</id>
-        <link href="https://wangyurui.com/posts/yin-shuo-no-14-cong-zheng-zhi-xue-jiao-du-du-li-8630e17e?utm_source=blogfinder" />
-        <published>2026-02-28T19:26:55+08:00</published>
-        <author>
-            <name>太隐</name>
-            <uri>https://wangyurui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[隐说 NO.14 真理必须是前进的]]></summary>
-    </entry>
-        <entry>
-        <title>一个排座分组工具的寒假重生</title>
-        <id>147572</id>
-        <link href="https://www.puresky.top/archives/WqrXdXFt?utm_source=blogfinder" />
-        <published>2026-02-28T19:18:08+08:00</published>
-        <author>
-            <name>轻雅阁</name>
-            <uri>https://www.puresky.top</uri>
-        </author>
-        <summary type="text"><![CDATA[一个排座分组工具的寒假重生]]></summary>
     </entry>
     </feed>
