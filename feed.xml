@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-03T15:00:42+08:00</updated>
+    <updated>2026-03-03T17:00:48+08:00</updated>
+        <entry>
+        <title>如何使用 Rclone 下载 Google Drive 分享链接内的文件</title>
+        <id>147854</id>
+        <link href="https://wuminboke.site/uncategorized/rclone-download-google-drive-shared-link/?utm_source=blogfinder" />
+        <published>2026-03-03T16:42:32+08:00</published>
+        <author>
+            <name>无名博客</name>
+            <uri>https://wuminboke.site</uri>
+        </author>
+        <summary type="text"><![CDATA[如何使用 Rclone 下载 Google Drive 分享链接内的文件]]></summary>
+    </entry>
+        <entry>
+        <title>爱豆-蔡徐坤</title>
+        <id>147857</id>
+        <link href="https://www.biibii.cn/622.html?utm_source=blogfinder" />
+        <published>2026-03-03T14:49:00+08:00</published>
+        <author>
+            <name>BIIBII</name>
+            <uri>https://www.biibii.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[爱豆-蔡徐坤]]></summary>
+    </entry>
         <entry>
         <title>平昌白衣特产—白衣油炸鱼</title>
         <id>147846</id>
@@ -112,6 +134,17 @@
         <summary type="text"><![CDATA[Hi Bear Blog]]></summary>
     </entry>
         <entry>
+        <title>ESA-后记:热爱阿里云</title>
+        <id>147856</id>
+        <link href="https://xingwangzhe.fun/posts/esa-to-aliyun/?utm_source=blogfinder" />
+        <published>2026-03-03T02:52:30+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[ESA-后记:热爱阿里云]]></summary>
+    </entry>
+        <entry>
         <title>记录一次用Skill给博客做的前端美化</title>
         <id>147851</id>
         <link href="http://qthinker.net/content/57?utm_source=blogfinder" />
@@ -189,6 +222,17 @@
         <summary type="text"><![CDATA[开学啦！]]></summary>
     </entry>
         <entry>
+        <title>2026年2月阅读书摘</title>
+        <id>147855</id>
+        <link href="https://www.domon.cn/2026-2yue-yue-du-shu-zhai/?utm_source=blogfinder" />
+        <published>2026-03-02T20:23:43+08:00</published>
+        <author>
+            <name>Dennis</name>
+            <uri>https://www.domon.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[2026年2月阅读书摘]]></summary>
+    </entry>
+        <entry>
         <title>每夫吐槽（115）</title>
         <id>147822</id>
         <link href="https://pewae.com/2026/03/random_kuso_115.html?utm_source=blogfinder" />
@@ -209,6 +253,17 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[Magento 多店铺域名跳转错误问题，没想到居然是 DNS 配置问题]]></summary>
+    </entry>
+        <entry>
+        <title>数字仓鼠症 20 年，我走出了专属数据治理之道</title>
+        <id>147853</id>
+        <link href="https://ourai.ws/posts/data-governance-for-solopreneurs/?utm_source=blogfinder" />
+        <published>2026-03-02T18:15:08+08:00</published>
+        <author>
+            <name>欧雷流</name>
+            <uri>https://ourai.ws</uri>
+        </author>
+        <summary type="text"><![CDATA[数字仓鼠症 20 年，我走出了专属数据治理之道]]></summary>
     </entry>
         <entry>
         <title>回农村养老，只是想起来美好</title>
@@ -1485,27 +1540,5 @@
             <uri>https://www.justzht.com</uri>
         </author>
         <summary type="text"><![CDATA[Echo Chamber Vol.2 序]]></summary>
-    </entry>
-        <entry>
-        <title>为何在中国几乎没人讨论道路“降速”问题？</title>
-        <id>147568</id>
-        <link href="https://lawtee.com/article/traffic-slowing-china-2026/?utm_source=blogfinder" />
-        <published>2026-02-28T16:00:00+08:00</published>
-        <author>
-            <name>老 T 博客</name>
-            <uri>https://lawtee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为何在中国几乎没人讨论道路“降速”问题？]]></summary>
-    </entry>
-        <entry>
-        <title>大模型 AI 名词介绍</title>
-        <id>147592</id>
-        <link href="https://www.zywvvd.com/notes/study/llm/ai-noun-explanation/ai-noun-explanation/?utm_source=blogfinder" />
-        <published>2026-02-28T15:06:50+08:00</published>
-        <author>
-            <name>又见苍岚</name>
-            <uri>https://www.zywvvd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[大模型 AI 名词介绍]]></summary>
     </entry>
     </feed>
