@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-04T17:00:46+08:00</updated>
+    <updated>2026-03-04T18:00:24+08:00</updated>
+        <entry>
+        <title>配电柜指示灯的通电断电颜色怎么区分</title>
+        <id>147949</id>
+        <link href="https://www.aiwazi.com/2882.html?utm_source=blogfinder" />
+        <published>2026-03-04T16:31:25+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[配电柜指示灯的通电断电颜色怎么区分]]></summary>
+    </entry>
         <entry>
         <title>买了一个酷态科无线充电宝</title>
         <id>147944</id>
@@ -22,6 +33,17 @@
             <uri>https://www.xiaocaoderijiben.online</uri>
         </author>
         <summary type="text"><![CDATA[买了一个酷态科无线充电宝]]></summary>
+    </entry>
+        <entry>
+        <title>利用Python配合Blender把CAD高程点转化为3D地形模型</title>
+        <id>147950</id>
+        <link href="https://www.nekopara.uk/archives/Python_Convent_CAD_Terrain_To_Blender.html?utm_source=blogfinder" />
+        <published>2026-03-04T13:20:27+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[利用Python配合Blender把CAD高程点转化为3D地形模型]]></summary>
     </entry>
         <entry>
         <title>美团单车新版本，加了个手机架</title>
@@ -187,6 +209,17 @@
             <uri>https://ddw2019.com</uri>
         </author>
         <summary type="text"><![CDATA[226 学位论文锦囊——Word篇]]></summary>
+    </entry>
+        <entry>
+        <title>大模型GPU显存算力需求计算</title>
+        <id>147948</id>
+        <link href="https://chegva.com/6623.html?utm_source=blogfinder" />
+        <published>2026-03-03T23:00:06+08:00</published>
+        <author>
+            <name>安志合的学习博客</name>
+            <uri>https://chegva.com</uri>
+        </author>
+        <summary type="text"><![CDATA[大模型GPU显存算力需求计算]]></summary>
     </entry>
         <entry>
         <title>江门</title>
@@ -1386,38 +1419,5 @@
             <uri>https://www.edony.ink</uri>
         </author>
         <summary type="text"><![CDATA[拆解 kimi-cli：Coding Agent 的能力上限，为什么在“模型之外”？]]></summary>
-    </entry>
-        <entry>
-        <title>周报 #13 – 2026 好久不见</title>
-        <id>147758</id>
-        <link href="https://yinji.org/weekly-report-13-2026.html?utm_source=blogfinder" />
-        <published>2026-03-01T17:46:24+08:00</published>
-        <author>
-            <name>印记</name>
-            <uri>https://yinji.org</uri>
-        </author>
-        <summary type="text"><![CDATA[周报 #13 – 2026 好久不见]]></summary>
-    </entry>
-        <entry>
-        <title>自建 S3 兼容对象存储服务 Garage</title>
-        <id>147830</id>
-        <link href="https://atpx.com/blog/garage-s3/?utm_source=blogfinder" />
-        <published>2026-03-01T17:35:01+08:00</published>
-        <author>
-            <name>atpX</name>
-            <uri>https://atpx.com</uri>
-        </author>
-        <summary type="text"><![CDATA[自建 S3 兼容对象存储服务 Garage]]></summary>
-    </entry>
-        <entry>
-        <title>完蛋</title>
-        <id>147744</id>
-        <link href="https://ficor.net/2026/03/wandan/?utm_source=blogfinder" />
-        <published>2026-03-01T17:28:55+08:00</published>
-        <author>
-            <name>荒野菲克</name>
-            <uri>https://ficor.net</uri>
-        </author>
-        <summary type="text"><![CDATA[完蛋]]></summary>
     </entry>
     </feed>
