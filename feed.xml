@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-04T11:00:35+08:00</updated>
+    <updated>2026-03-04T12:00:39+08:00</updated>
         <entry>
         <title>非注意盲视的青春</title>
         <id>147935</id>
@@ -22,6 +22,17 @@
             <uri>https://onojyun.com</uri>
         </author>
         <summary type="text"><![CDATA[非注意盲视的青春]]></summary>
+    </entry>
+        <entry>
+        <title>分享一款电脑高效、彻底的专业卸载工具—Uninstall Tool</title>
+        <id>147937</id>
+        <link href="https://www.aiwazi.com/2878.html?utm_source=blogfinder" />
+        <published>2026-03-04T09:55:58+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[分享一款电脑高效、彻底的专业卸载工具—Uninstall Tool]]></summary>
     </entry>
         <entry>
         <title>植发后容易有毛囊炎，用康王或者采乐</title>
@@ -66,6 +77,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[唐小林的近期文评有些无趣]]></summary>
+    </entry>
+        <entry>
+        <title>Lesson 2 神经生物学基础</title>
+        <id>147938</id>
+        <link href="https://physnya.top/animal-behavior/lesson-2-neutral-physiology/?utm_source=blogfinder" />
+        <published>2026-03-04T00:07:27+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 2 神经生物学基础]]></summary>
     </entry>
         <entry>
         <title>随思 - 2026-03-03</title>
@@ -1485,27 +1507,5 @@
             <uri>https://onlytl.com</uri>
         </author>
         <summary type="text"><![CDATA[《Weekly Insights》 - 总第 13 期 - 2026 年第 9 周]]></summary>
-    </entry>
-        <entry>
-        <title>记一次k8s集群内业务问题排查思考</title>
-        <id>147777</id>
-        <link href="https://blog.likaikai.com/archives/1772336493027?utm_source=blogfinder" />
-        <published>2026-03-01T11:52:54+08:00</published>
-        <author>
-            <name>咸鱼星球</name>
-            <uri>https://blog.likaikai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[记一次k8s集群内业务问题排查思考]]></summary>
-    </entry>
-        <entry>
-        <title>临走前一份襄阳牛肉面</title>
-        <id>147700</id>
-        <link href="https://usj.cc/202603011133.html?utm_source=blogfinder" />
-        <published>2026-03-01T11:40:12+08:00</published>
-        <author>
-            <name>优世界</name>
-            <uri>https://usj.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[临走前一份襄阳牛肉面]]></summary>
     </entry>
     </feed>
