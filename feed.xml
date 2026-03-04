@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-04T23:01:00+08:00</updated>
+    <updated>2026-03-05T00:00:22+08:00</updated>
+        <entry>
+        <title>学习网络的一点经验</title>
+        <id>147963</id>
+        <link href="https://www.kawabangga.com/posts/6131?utm_source=blogfinder" />
+        <published>2026-03-04T23:45:20+08:00</published>
+        <author>
+            <name>卡瓦邦噶</name>
+            <uri>https://www.kawabangga.com</uri>
+        </author>
+        <summary type="text"><![CDATA[学习网络的一点经验]]></summary>
+    </entry>
         <entry>
         <title>冬至（74/81）：等待课表，准备开学</title>
         <id>147962</id>
@@ -33,6 +44,28 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[元宵节当头一棒，&quot;此小程序恶意注册，已被封号处理&quot;]]></summary>
+    </entry>
+        <entry>
+        <title>记下昨晚的梦 I</title>
+        <id>147965</id>
+        <link href="https://blog.solazy.me/20260304/?utm_source=blogfinder" />
+        <published>2026-03-04T20:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[记下昨晚的梦 I]]></summary>
+    </entry>
+        <entry>
+        <title>Show Random posts in Bear Blog</title>
+        <id>147964</id>
+        <link href="https://anotherdayu.com/random-posts/?utm_source=blogfinder" />
+        <published>2026-03-04T19:00:00+08:00</published>
+        <author>
+            <name>Another Dayu</name>
+            <uri>https://anotherdayu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Show Random posts in Bear Blog]]></summary>
     </entry>
         <entry>
         <title>配电柜指示灯的通电断电颜色怎么区分</title>
@@ -341,6 +374,17 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[冬至（72、73/81）：报名二级 Python、给 mcenahle.cn 备案]]></summary>
+    </entry>
+        <entry>
+        <title>从 ReAct 到 Workflow：基于云端 API 构建事件驱动的智能体 - 大模型实战 07 额外篇 | 阿尔的代码屋</title>
+        <id>147966</id>
+        <link href="https://blog.algieba12.cn/llm07-1-llama-index-workflow-groq/?utm_source=blogfinder" />
+        <published>2026-03-03T22:08:11+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[从 ReAct 到 Workflow：基于云端 API 构建事件驱动的智能体 - 大模型实战 07 额外篇 | 阿尔的代码屋]]></summary>
     </entry>
         <entry>
         <title>个人小程序不备案无法访问，报错“该小程序仅支持由小程序开发团队体验，无法访问”</title>
@@ -1221,27 +1265,5 @@
             <uri>https://innei.in</uri>
         </author>
         <summary type="text"><![CDATA[键盘上的春节]]></summary>
-    </entry>
-        <entry>
-        <title>ARP 问题诊断</title>
-        <id>147825</id>
-        <link href="https://www.kawabangga.com/posts/7190?utm_source=blogfinder" />
-        <published>2026-03-01T23:36:24+08:00</published>
-        <author>
-            <name>卡瓦邦噶</name>
-            <uri>https://www.kawabangga.com</uri>
-        </author>
-        <summary type="text"><![CDATA[ARP 问题诊断]]></summary>
-    </entry>
-        <entry>
-        <title>较早代iPhone更换新iPhone的一些小指南</title>
-        <id>147821</id>
-        <link href="https://nicksxs.me/2026/03/01/%E8%BE%83%E6%97%A9%E4%BB%A3iPhone%E6%9B%B4%E6%8D%A2%E6%96%B0iPhone%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E6%8C%87%E5%8D%97/?utm_source=blogfinder" />
-        <published>2026-03-01T23:18:45+08:00</published>
-        <author>
-            <name>Nicksxs&#039;s Blog</name>
-            <uri>https://nicksxs.me</uri>
-        </author>
-        <summary type="text"><![CDATA[较早代iPhone更换新iPhone的一些小指南]]></summary>
     </entry>
     </feed>
