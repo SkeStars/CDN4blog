@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-05T15:00:22+08:00</updated>
+    <updated>2026-03-05T16:00:38+08:00</updated>
         <entry>
         <title>什么是真正的专注？</title>
         <id>148056</id>
@@ -44,6 +44,17 @@
             <uri>https://jackie.openenet.cn</uri>
         </author>
         <summary type="text"><![CDATA[Meta Robots 标签优化全攻略・精准控制抓取，助力网站 SEO 排名]]></summary>
+    </entry>
+        <entry>
+        <title>门掉了</title>
+        <id>148058</id>
+        <link href="https://retire50blog.wang/invest/%e9%97%a8%e6%8e%89%e4%ba%86.html?utm_source=blogfinder" />
+        <published>2026-03-05T11:15:03+08:00</published>
+        <author>
+            <name>个人工作记录</name>
+            <uri>https://retire50blog.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[门掉了]]></summary>
     </entry>
         <entry>
         <title>现在的作息时间很健康啊</title>
@@ -88,6 +99,28 @@
             <uri>https://onojyun.com</uri>
         </author>
         <summary type="text"><![CDATA[养跟育]]></summary>
+    </entry>
+        <entry>
+        <title>姥姥</title>
+        <id>148059</id>
+        <link href="https://www.suiyan.cc/blog/20260305015805?utm_source=blogfinder" />
+        <published>2026-03-05T09:58:05+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[姥姥]]></summary>
+    </entry>
+        <entry>
+        <title>酥米系统聚合地上线啦！</title>
+        <id>148060</id>
+        <link href="https://www.sumi233.top/%E5%85%B6%E4%BB%96/sumi-wiki/?utm_source=blogfinder" />
+        <published>2026-03-05T09:50:13+08:00</published>
+        <author>
+            <name>酥米的小站</name>
+            <uri>https://www.sumi233.top</uri>
+        </author>
+        <summary type="text"><![CDATA[酥米系统聚合地上线啦！]]></summary>
     </entry>
         <entry>
         <title>清零重启，公平回归</title>
@@ -1298,38 +1331,5 @@
             <uri>https://wuminboke.site</uri>
         </author>
         <summary type="text"><![CDATA[WordPress 优化 – 后台禁用 Ctrl+K 快捷键控制面板]]></summary>
-    </entry>
-        <entry>
-        <title>2026年3月小宇宙播客推荐</title>
-        <id>147808</id>
-        <link href="https://www.sunzhongwei.com/recommended-podcast-march-2026?utm_source=blogfinder" />
-        <published>2026-03-02T15:57:28+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026年3月小宇宙播客推荐]]></summary>
-    </entry>
-        <entry>
-        <title>当Anthropic高管说“编程已死”，一个程序员的认知割裂</title>
-        <id>147824</id>
-        <link href="https://nocoding.life/archives/0FTFUtk5?utm_source=blogfinder" />
-        <published>2026-03-02T15:41:26+08:00</published>
-        <author>
-            <name>No Coding Life</name>
-            <uri>https://nocoding.life</uri>
-        </author>
-        <summary type="text"><![CDATA[当Anthropic高管说“编程已死”，一个程序员的认知割裂]]></summary>
-    </entry>
-        <entry>
-        <title>Ubuntu连接老移动硬盘无法识别和挂载的解决过程</title>
-        <id>147807</id>
-        <link href="https://www.suiyan.cc/blog/20260302072453?utm_source=blogfinder" />
-        <published>2026-03-02T15:24:53+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[Ubuntu连接老移动硬盘无法识别和挂载的解决过程]]></summary>
     </entry>
     </feed>
