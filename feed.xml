@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-05T16:00:38+08:00</updated>
+    <updated>2026-03-05T17:00:21+08:00</updated>
+        <entry>
+        <title>自动填充 PDF 交互式表单字段（AcroForms）</title>
+        <id>148061</id>
+        <link href="https://www.sunzhongwei.com/auto-fill-pdf-interactive-form-fields-acroforms?utm_source=blogfinder" />
+        <published>2026-03-05T14:54:11+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[自动填充 PDF 交互式表单字段（AcroForms）]]></summary>
+    </entry>
         <entry>
         <title>什么是真正的专注？</title>
         <id>148056</id>
@@ -1320,16 +1331,5 @@
             <uri>https://blog.8866321.xyz</uri>
         </author>
         <summary type="text"><![CDATA[编程常用Emoji速查手册]]></summary>
-    </entry>
-        <entry>
-        <title>WordPress 优化 – 后台禁用 Ctrl+K 快捷键控制面板</title>
-        <id>147819</id>
-        <link href="https://wuminboke.site/uncategorized/wordpress-disable-ctrl-k-shortcut-command-palette/?utm_source=blogfinder" />
-        <published>2026-03-02T16:10:22+08:00</published>
-        <author>
-            <name>无名博客</name>
-            <uri>https://wuminboke.site</uri>
-        </author>
-        <summary type="text"><![CDATA[WordPress 优化 – 后台禁用 Ctrl+K 快捷键控制面板]]></summary>
     </entry>
     </feed>
