@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-05T19:00:22+08:00</updated>
+    <updated>2026-03-05T21:00:35+08:00</updated>
+        <entry>
+        <title>水星冲浪日志 2 —— PT、换域名、约稿和建站机</title>
+        <id>148064</id>
+        <link href="https://blog.samhou.moe/aqua-surf-2/?utm_source=blogfinder" />
+        <published>2026-03-05T19:03:02+08:00</published>
+        <author>
+            <name>SamHou&#039;s Blog</name>
+            <uri>https://blog.samhou.moe</uri>
+        </author>
+        <summary type="text"><![CDATA[水星冲浪日志 2 —— PT、换域名、约稿和建站机]]></summary>
+    </entry>
         <entry>
         <title>立体性混乱里，努力只是螳臂当车</title>
         <id>148063</id>
@@ -1265,60 +1276,5 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[狗逼家长，当面一套背后一套！]]></summary>
-    </entry>
-        <entry>
-        <title>家的味道</title>
-        <id>147861</id>
-        <link href="https://d-d.design/single/18277?utm_source=blogfinder" />
-        <published>2026-03-02T20:29:34+08:00</published>
-        <author>
-            <name>孤斗</name>
-            <uri>https://d-d.design</uri>
-        </author>
-        <summary type="text"><![CDATA[家的味道]]></summary>
-    </entry>
-        <entry>
-        <title>开学啦！</title>
-        <id>147815</id>
-        <link href="https://nxxy335.top/archives/zF28oVoO?utm_source=blogfinder" />
-        <published>2026-03-02T20:24:35+08:00</published>
-        <author>
-            <name>暖心向阳</name>
-            <uri>https://nxxy335.top</uri>
-        </author>
-        <summary type="text"><![CDATA[开学啦！]]></summary>
-    </entry>
-        <entry>
-        <title>2026年2月阅读书摘</title>
-        <id>147855</id>
-        <link href="https://www.domon.cn/2026-2yue-yue-du-shu-zhai/?utm_source=blogfinder" />
-        <published>2026-03-02T20:23:43+08:00</published>
-        <author>
-            <name>Dennis</name>
-            <uri>https://www.domon.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[2026年2月阅读书摘]]></summary>
-    </entry>
-        <entry>
-        <title>每夫吐槽（115）</title>
-        <id>147822</id>
-        <link href="https://pewae.com/2026/03/random_kuso_115.html?utm_source=blogfinder" />
-        <published>2026-03-02T20:07:04+08:00</published>
-        <author>
-            <name>破袜子</name>
-            <uri>https://pewae.com</uri>
-        </author>
-        <summary type="text"><![CDATA[每夫吐槽（115）]]></summary>
-    </entry>
-        <entry>
-        <title>Magento 多店铺域名跳转错误问题，没想到居然是 DNS 配置问题</title>
-        <id>147816</id>
-        <link href="https://www.sunzhongwei.com/magento-multi-store-domain-redirection-error?utm_source=blogfinder" />
-        <published>2026-03-02T19:51:33+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Magento 多店铺域名跳转错误问题，没想到居然是 DNS 配置问题]]></summary>
     </entry>
     </feed>
