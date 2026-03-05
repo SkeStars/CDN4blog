@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-05T14:02:55+08:00</updated>
+    <updated>2026-03-05T15:00:22+08:00</updated>
+        <entry>
+        <title>什么是真正的专注？</title>
+        <id>148056</id>
+        <link href="https://www.xiaocaoderijiben.online/archives/296?utm_source=blogfinder" />
+        <published>2026-03-05T14:39:42+08:00</published>
+        <author>
+            <name>小草的日记本</name>
+            <uri>https://www.xiaocaoderijiben.online</uri>
+        </author>
+        <summary type="text"><![CDATA[什么是真正的专注？]]></summary>
+    </entry>
+        <entry>
+        <title>给自己留白就是对自己最大的解脱</title>
+        <id>148057</id>
+        <link href="https://www.xiaocaoderijiben.online/archives/292?utm_source=blogfinder" />
+        <published>2026-03-05T14:20:57+08:00</published>
+        <author>
+            <name>小草的日记本</name>
+            <uri>https://www.xiaocaoderijiben.online</uri>
+        </author>
+        <summary type="text"><![CDATA[给自己留白就是对自己最大的解脱]]></summary>
+    </entry>
         <entry>
         <title>Meta Robots 标签优化全攻略・精准控制抓取，助力网站 SEO 排名</title>
         <id>148050</id>
@@ -33,6 +55,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[现在的作息时间很健康啊]]></summary>
+    </entry>
+        <entry>
+        <title>AI干货系列：从数据接口到 MCP 服务完整的工具管理与部署方案</title>
+        <id>148054</id>
+        <link href="https://beltxman.com/4650.html?utm_source=blogfinder" />
+        <published>2026-03-05T10:35:18+08:00</published>
+        <author>
+            <name>行星带</name>
+            <uri>https://beltxman.com</uri>
+        </author>
+        <summary type="text"><![CDATA[AI干货系列：从数据接口到 MCP 服务完整的工具管理与部署方案]]></summary>
     </entry>
         <entry>
         <title>JH</title>
@@ -209,6 +242,17 @@
             <uri>https://blog.likaikai.com</uri>
         </author>
         <summary type="text"><![CDATA[我帮老大部署 AI 特工团队的 72 小时]]></summary>
+    </entry>
+        <entry>
+        <title>AI干货系列：在 AI 对话系统中实现长期记忆自主管理</title>
+        <id>148055</id>
+        <link href="https://beltxman.com/4642.html?utm_source=blogfinder" />
+        <published>2026-03-04T17:49:16+08:00</published>
+        <author>
+            <name>行星带</name>
+            <uri>https://beltxman.com</uri>
+        </author>
+        <summary type="text"><![CDATA[AI干货系列：在 AI 对话系统中实现长期记忆自主管理]]></summary>
     </entry>
         <entry>
         <title>所谓闭关</title>
@@ -1287,38 +1331,5 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[Ubuntu连接老移动硬盘无法识别和挂载的解决过程]]></summary>
-    </entry>
-        <entry>
-        <title>游子无家，便处处是家</title>
-        <id>147831</id>
-        <link href="https://shuspace.cn/archives/2318?utm_source=blogfinder" />
-        <published>2026-03-02T14:58:20+08:00</published>
-        <author>
-            <name>树的漫长岁月</name>
-            <uri>https://shuspace.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[游子无家，便处处是家]]></summary>
-    </entry>
-        <entry>
-        <title>龙虾(openclaw)又红温了</title>
-        <id>147806</id>
-        <link href="https://liuqingwushui.top/archives/140/?utm_source=blogfinder" />
-        <published>2026-03-02T14:41:59+08:00</published>
-        <author>
-            <name>流情的博客</name>
-            <uri>https://liuqingwushui.top</uri>
-        </author>
-        <summary type="text"><![CDATA[龙虾(openclaw)又红温了]]></summary>
-    </entry>
-        <entry>
-        <title>随思 - 2026-03-02</title>
-        <id>147826</id>
-        <link href="http://qthinker.net/content/56?utm_source=blogfinder" />
-        <published>2026-03-02T14:34:31+08:00</published>
-        <author>
-            <name>Qthinker</name>
-            <uri>https://qthinker.net</uri>
-        </author>
-        <summary type="text"><![CDATA[随思 - 2026-03-02]]></summary>
     </entry>
     </feed>
