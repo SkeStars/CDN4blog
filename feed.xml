@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-05T17:00:21+08:00</updated>
+    <updated>2026-03-05T18:00:21+08:00</updated>
+        <entry>
+        <title>立体性混乱里，努力只是螳臂当车</title>
+        <id>148063</id>
+        <link href="https://www.pgoj.top/archives/xitonghunluan.html?utm_source=blogfinder" />
+        <published>2026-03-05T16:11:05+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[立体性混乱里，努力只是螳臂当车]]></summary>
+    </entry>
         <entry>
         <title>自动填充 PDF 交互式表单字段（AcroForms）</title>
         <id>148061</id>
@@ -231,6 +242,17 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[冬至（74/81）：等待课表，准备开学]]></summary>
+    </entry>
+        <entry>
+        <title>3月周记一</title>
+        <id>148062</id>
+        <link href="https://ihaihe.cn/3517.htm?utm_source=blogfinder" />
+        <published>2026-03-04T21:58:02+08:00</published>
+        <author>
+            <name>三十里海河</name>
+            <uri>https://ihaihe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[3月周记一]]></summary>
     </entry>
         <entry>
         <title>Ardupilot设置MSP协议OSD</title>
@@ -1309,27 +1331,5 @@
             <uri>https://ourai.ws</uri>
         </author>
         <summary type="text"><![CDATA[数字仓鼠症 20 年，我走出了专属数据治理之道]]></summary>
-    </entry>
-        <entry>
-        <title>回农村养老，只是想起来美好</title>
-        <id>147813</id>
-        <link href="https://www.pgoj.top/archives/nongcunyanglao.html?utm_source=blogfinder" />
-        <published>2026-03-02T17:44:07+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[回农村养老，只是想起来美好]]></summary>
-    </entry>
-        <entry>
-        <title>编程常用Emoji速查手册</title>
-        <id>147812</id>
-        <link href="https://blog.8866321.xyz/Github/3-GitHubEmoji.html?utm_source=blogfinder" />
-        <published>2026-03-02T17:28:41+08:00</published>
-        <author>
-            <name>Andy</name>
-            <uri>https://blog.8866321.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[编程常用Emoji速查手册]]></summary>
     </entry>
     </feed>
