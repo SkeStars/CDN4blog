@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-06T21:00:20+08:00</updated>
+    <updated>2026-03-06T22:00:35+08:00</updated>
         <entry>
         <title>填写问卷抽奖中了送话费的坑</title>
         <id>148352</id>
@@ -33,6 +33,17 @@
             <uri>https://dujun.io</uri>
         </author>
         <summary type="text"><![CDATA[人生失速]]></summary>
+    </entry>
+        <entry>
+        <title>记一次省护网行动中重要成果挖掘</title>
+        <id>148360</id>
+        <link href="https://www.yunyanck.cn/index.php/archives/139/?utm_source=blogfinder" />
+        <published>2026-03-06T15:29:00+08:00</published>
+        <author>
+            <name>云烟博客</name>
+            <uri>https://www.yunyanck.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[记一次省护网行动中重要成果挖掘]]></summary>
     </entry>
         <entry>
         <title>Lesson 4 协变的物理定律</title>
@@ -1221,27 +1232,5 @@
             <uri>https://blog.algieba12.cn</uri>
         </author>
         <summary type="text"><![CDATA[从 ReAct 到 Workflow：基于云端 API 构建事件驱动的智能体 - 大模型实战 07 额外篇 | 阿尔的代码屋]]></summary>
-    </entry>
-        <entry>
-        <title>个人小程序不备案无法访问，报错“该小程序仅支持由小程序开发团队体验，无法访问”</title>
-        <id>147903</id>
-        <link href="https://www.sunzhongwei.com/personal-mini-program-cannot-be-accessed?utm_source=blogfinder" />
-        <published>2026-03-03T21:59:54+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[个人小程序不备案无法访问，报错“该小程序仅支持由小程序开发团队体验，无法访问”]]></summary>
-    </entry>
-        <entry>
-        <title>元宵节：灯谜+1，汤圆+2，月食+0</title>
-        <id>147942</id>
-        <link href="https://cuixiping.com/blog/life/idxnph?utm_source=blogfinder" />
-        <published>2026-03-03T21:26:00+08:00</published>
-        <author>
-            <name>崔话记</name>
-            <uri>https://cuixiping.com</uri>
-        </author>
-        <summary type="text"><![CDATA[元宵节：灯谜+1，汤圆+2，月食+0]]></summary>
     </entry>
     </feed>
