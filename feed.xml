@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-06T14:03:52+08:00</updated>
+    <updated>2026-03-06T15:00:20+08:00</updated>
         <entry>
         <title>Lesson 4 热力学第三定律</title>
         <id>148342</id>
@@ -55,6 +55,17 @@
             <uri>https://1900.live</uri>
         </author>
         <summary type="text"><![CDATA[279、惊蛰]]></summary>
+    </entry>
+        <entry>
+        <title>从零理解 RAG(二)：在 Mac mini 上跑本地 RAG demo——最小架构实战指南</title>
+        <id>148347</id>
+        <link href="http://blog.tangwudi.com/technology/homedatacenter14111/?utm_source=blogfinder" />
+        <published>2026-03-06T09:51:40+08:00</published>
+        <author>
+            <name>无敌的个人博客</name>
+            <uri>https://blog.tangwudi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[从零理解 RAG(二)：在 Mac mini 上跑本地 RAG demo——最小架构实战指南]]></summary>
     </entry>
         <entry>
         <title>错误部署千问 AI 大模型导致账户欠费了</title>
@@ -1298,38 +1309,5 @@
             <uri>https://joojen.com</uri>
         </author>
         <summary type="text"><![CDATA[2026 年 1 月房地产数据]]></summary>
-    </entry>
-        <entry>
-        <title>电动机接触器和热继电器怎么搭配选型</title>
-        <id>147860</id>
-        <link href="https://www.aiwazi.com/2872.html?utm_source=blogfinder" />
-        <published>2026-03-03T14:53:02+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[电动机接触器和热继电器怎么搭配选型]]></summary>
-    </entry>
-        <entry>
-        <title>爱豆-蔡徐坤</title>
-        <id>147857</id>
-        <link href="https://www.biibii.cn/622.html?utm_source=blogfinder" />
-        <published>2026-03-03T14:49:00+08:00</published>
-        <author>
-            <name>BIIBII</name>
-            <uri>https://www.biibii.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[爱豆-蔡徐坤]]></summary>
-    </entry>
-        <entry>
-        <title>一切恰到好处</title>
-        <id>147917</id>
-        <link href="https://www.latiao.org/2290.html?utm_source=blogfinder" />
-        <published>2026-03-03T14:17:55+08:00</published>
-        <author>
-            <name>辣条网</name>
-            <uri>https://www.latiao.org</uri>
-        </author>
-        <summary type="text"><![CDATA[一切恰到好处]]></summary>
     </entry>
     </feed>
