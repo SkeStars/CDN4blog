@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-06T22:00:35+08:00</updated>
+    <updated>2026-03-07T00:00:22+08:00</updated>
+        <entry>
+        <title>当 AI 替我读完一本书，我真的读过它吗？</title>
+        <id>148361</id>
+        <link href="https://www.tortorse.com/archives/did-i-really-read-it-if-ai-read-it-for-me/?utm_source=blogfinder" />
+        <published>2026-03-06T22:06:29+08:00</published>
+        <author>
+            <name>愆伏</name>
+            <uri>https://www.tortorse.com</uri>
+        </author>
+        <summary type="text"><![CDATA[当 AI 替我读完一本书，我真的读过它吗？]]></summary>
+    </entry>
+        <entry>
+        <title>冬至（75、76/81）：迎来寒假的最后一天，明确开学后的游玩和图书馆计划</title>
+        <id>148362</id>
+        <link href="https://blog.mcenahle.org.cn/2026/03/06/438.html?utm_source=blogfinder" />
+        <published>2026-03-06T22:02:03+08:00</published>
+        <author>
+            <name>梅之夏</name>
+            <uri>https://blog.mcenahle.org.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[冬至（75、76/81）：迎来寒假的最后一天，明确开学后的游玩和图书馆计划]]></summary>
+    </entry>
+        <entry>
+        <title>Plog 6 搬家啦</title>
+        <id>148363</id>
+        <link href="https://anotherdayu.com/plog-6/?utm_source=blogfinder" />
+        <published>2026-03-06T20:37:00+08:00</published>
+        <author>
+            <name>Another Dayu</name>
+            <uri>https://anotherdayu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Plog 6 搬家啦]]></summary>
+    </entry>
+        <entry>
+        <title>相反的你和我</title>
+        <id>148365</id>
+        <link href="https://xeonzilla.top/note/seihantai?utm_source=blogfinder" />
+        <published>2026-03-06T17:41:41+08:00</published>
+        <author>
+            <name>Xeonzilla’s Note</name>
+            <uri>https://xeonzilla.top</uri>
+        </author>
+        <summary type="text"><![CDATA[相反的你和我]]></summary>
+    </entry>
         <entry>
         <title>填写问卷抽奖中了送话费的坑</title>
         <id>148352</id>
@@ -187,6 +231,17 @@
             <uri>https://www.chenrui.com</uri>
         </author>
         <summary type="text"><![CDATA[以欢喜心，慢渡日常]]></summary>
+    </entry>
+        <entry>
+        <title>A Feature Image Generator For Bear Blog</title>
+        <id>148364</id>
+        <link href="https://anotherdayu.com/a-feature-image-generator-for-bear-blog/?utm_source=blogfinder" />
+        <published>2026-03-06T06:45:00+08:00</published>
+        <author>
+            <name>Another Dayu</name>
+            <uri>https://anotherdayu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[A Feature Image Generator For Bear Blog]]></summary>
     </entry>
         <entry>
         <title>PIVOT Vol.20 久违的更新</title>
@@ -1144,93 +1199,5 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 2 神经生物学基础]]></summary>
-    </entry>
-        <entry>
-        <title>近思录 2026-03-04</title>
-        <id>147967</id>
-        <link href="https://chriszheng.science/2026/03/04/Recent-thoughts-2026-03-04/?utm_source=blogfinder" />
-        <published>2026-03-04T00:00:00+08:00</published>
-        <author>
-            <name>M-x Chris-An-Emacser</name>
-            <uri>https://chriszheng.science</uri>
-        </author>
-        <summary type="text"><![CDATA[近思录 2026-03-04]]></summary>
-    </entry>
-        <entry>
-        <title>随思 - 2026-03-03</title>
-        <id>147911</id>
-        <link href="http://qthinker.net/content/59?utm_source=blogfinder" />
-        <published>2026-03-03T23:34:41+08:00</published>
-        <author>
-            <name>Qthinker</name>
-            <uri>https://qthinker.net</uri>
-        </author>
-        <summary type="text"><![CDATA[随思 - 2026-03-03]]></summary>
-    </entry>
-        <entry>
-        <title>226 学位论文锦囊——Word篇</title>
-        <id>147924</id>
-        <link href="http://ddw2019.com/226?utm_source=blogfinder" />
-        <published>2026-03-03T23:23:49+08:00</published>
-        <author>
-            <name>Dongdong&#039;s Blog</name>
-            <uri>https://ddw2019.com</uri>
-        </author>
-        <summary type="text"><![CDATA[226 学位论文锦囊——Word篇]]></summary>
-    </entry>
-        <entry>
-        <title>大模型GPU显存算力需求计算</title>
-        <id>147948</id>
-        <link href="https://chegva.com/6623.html?utm_source=blogfinder" />
-        <published>2026-03-03T23:00:06+08:00</published>
-        <author>
-            <name>安志合的学习博客</name>
-            <uri>https://chegva.com</uri>
-        </author>
-        <summary type="text"><![CDATA[大模型GPU显存算力需求计算]]></summary>
-    </entry>
-        <entry>
-        <title>江门</title>
-        <id>147915</id>
-        <link href="https://lenciel.com/2026/03/jiang-men/?utm_source=blogfinder" />
-        <published>2026-03-03T22:50:17+08:00</published>
-        <author>
-            <name>@Lenciel</name>
-            <uri>https://lenciel.com</uri>
-        </author>
-        <summary type="text"><![CDATA[江门]]></summary>
-    </entry>
-        <entry>
-        <title>答复几个读研时申请的发明专利一审意见记录以及XML压缩包的坑</title>
-        <id>147907</id>
-        <link href="https://www.52txr.cn/2026/famingxml.html?utm_source=blogfinder" />
-        <published>2026-03-03T22:44:00+08:00</published>
-        <author>
-            <name>陶小桃</name>
-            <uri>https://www.52txr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[答复几个读研时申请的发明专利一审意见记录以及XML压缩包的坑]]></summary>
-    </entry>
-        <entry>
-        <title>冬至（72、73/81）：报名二级 Python、给 mcenahle.cn 备案</title>
-        <id>147908</id>
-        <link href="https://blog.mcenahle.org.cn/2026/03/03/436.html?utm_source=blogfinder" />
-        <published>2026-03-03T22:18:14+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[冬至（72、73/81）：报名二级 Python、给 mcenahle.cn 备案]]></summary>
-    </entry>
-        <entry>
-        <title>从 ReAct 到 Workflow：基于云端 API 构建事件驱动的智能体 - 大模型实战 07 额外篇 | 阿尔的代码屋</title>
-        <id>147966</id>
-        <link href="https://blog.algieba12.cn/llm07-1-llama-index-workflow-groq/?utm_source=blogfinder" />
-        <published>2026-03-03T22:08:11+08:00</published>
-        <author>
-            <name>阿尔的代码屋</name>
-            <uri>https://blog.algieba12.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[从 ReAct 到 Workflow：基于云端 API 构建事件驱动的智能体 - 大模型实战 07 额外篇 | 阿尔的代码屋]]></summary>
     </entry>
     </feed>
