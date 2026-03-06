@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-06T15:00:20+08:00</updated>
+    <updated>2026-03-06T17:00:40+08:00</updated>
+        <entry>
+        <title>人生失速</title>
+        <id>148350</id>
+        <link href="https://dujun.io/when-life-stalls.html?utm_source=blogfinder" />
+        <published>2026-03-06T15:33:00+08:00</published>
+        <author>
+            <name>杜郎俊赏</name>
+            <uri>https://dujun.io</uri>
+        </author>
+        <summary type="text"><![CDATA[人生失速]]></summary>
+    </entry>
+        <entry>
+        <title>Lesson 4 协变的物理定律</title>
+        <id>148349</id>
+        <link href="https://physnya.top/GR/lesson-4-covariance/?utm_source=blogfinder" />
+        <published>2026-03-06T15:14:36+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 4 协变的物理定律]]></summary>
+    </entry>
+        <entry>
+        <title>养一个智能员工</title>
+        <id>148348</id>
+        <link href="https://joojen.com/archives/8860.html?utm_source=blogfinder" />
+        <published>2026-03-06T14:49:05+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[养一个智能员工]]></summary>
+    </entry>
         <entry>
         <title>Lesson 4 热力学第三定律</title>
         <id>148342</id>
@@ -1221,93 +1254,5 @@
             <uri>https://blog.grtsinry43.com</uri>
         </author>
         <summary type="text"><![CDATA[在焦虑与代码中缓慢前行]]></summary>
-    </entry>
-        <entry>
-        <title>如何使用 Rclone 下载 Google Drive 分享链接内的文件</title>
-        <id>147854</id>
-        <link href="https://wuminboke.site/uncategorized/rclone-download-google-drive-shared-link/?utm_source=blogfinder" />
-        <published>2026-03-03T16:42:32+08:00</published>
-        <author>
-            <name>无名博客</name>
-            <uri>https://wuminboke.site</uri>
-        </author>
-        <summary type="text"><![CDATA[如何使用 Rclone 下载 Google Drive 分享链接内的文件]]></summary>
-    </entry>
-        <entry>
-        <title>离职流水账 0303</title>
-        <id>147862</id>
-        <link href="https://blog.solazy.me/20260303/?utm_source=blogfinder" />
-        <published>2026-03-03T16:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[离职流水账 0303]]></summary>
-    </entry>
-        <entry>
-        <title>变压器的故障分析及处理</title>
-        <id>147859</id>
-        <link href="https://www.aiwazi.com/2874.html?utm_source=blogfinder" />
-        <published>2026-03-03T15:59:16+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[变压器的故障分析及处理]]></summary>
-    </entry>
-        <entry>
-        <title>这个春节，我们和狗子一起慢游云南</title>
-        <id>147918</id>
-        <link href="https://blog.veitzn.top/archives/1955?utm_source=blogfinder" />
-        <published>2026-03-03T15:57:02+08:00</published>
-        <author>
-            <name>Veitzn 的小屋</name>
-            <uri>https://blog.veitzn.top</uri>
-        </author>
-        <summary type="text"><![CDATA[这个春节，我们和狗子一起慢游云南]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 2 条件概率</title>
-        <id>147910</id>
-        <link href="https://physnya.top/probability/lesson-2/?utm_source=blogfinder" />
-        <published>2026-03-03T15:54:56+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 2 条件概率]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 3 等效原理 &amp; 广义协变性原理</title>
-        <id>147909</id>
-        <link href="https://physnya.top/GR/lesson-3/?utm_source=blogfinder" />
-        <published>2026-03-03T15:54:56+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 3 等效原理 &amp; 广义协变性原理]]></summary>
-    </entry>
-        <entry>
-        <title>关于乡村的一些新思考</title>
-        <id>147901</id>
-        <link href="https://joojen.com/archives/8853.html?utm_source=blogfinder" />
-        <published>2026-03-03T15:26:59+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[关于乡村的一些新思考]]></summary>
-    </entry>
-        <entry>
-        <title>2026 年 1 月房地产数据</title>
-        <id>147902</id>
-        <link href="https://joojen.com/archives/8850.html?utm_source=blogfinder" />
-        <published>2026-03-03T15:26:20+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026 年 1 月房地产数据]]></summary>
     </entry>
     </feed>
