@@ -11,7 +11,84 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-07T00:00:22+08:00</updated>
+    <updated>2026-03-07T11:00:55+08:00</updated>
+        <entry>
+        <title>我为什么关闭博客评论？</title>
+        <id>148406</id>
+        <link href="https://onojyun.com/2026/03/07/why-i-closed-my-blog-comments/?utm_source=blogfinder" />
+        <published>2026-03-07T09:36:59+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://onojyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我为什么关闭博客评论？]]></summary>
+    </entry>
+        <entry>
+        <title>自我介绍</title>
+        <id>148404</id>
+        <link href="https://www.immarcus.com/blog/self-introduction?utm_source=blogfinder" />
+        <published>2026-03-07T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[自我介绍]]></summary>
+    </entry>
+        <entry>
+        <title>少了憨厚拙直，却未必聪明了</title>
+        <id>148405</id>
+        <link href="https://www.pgoj.top/archives/without-simplicity-not-necessarily-smarter.html?utm_source=blogfinder" />
+        <published>2026-03-07T07:18:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[少了憨厚拙直，却未必聪明了]]></summary>
+    </entry>
+        <entry>
+        <title>Ubuntu 24.04 安装 Win10 虚拟机</title>
+        <id>148370</id>
+        <link href="https://xingwangzhe.fun/posts/ubuntu-24.04-install-win10-vm/?utm_source=blogfinder" />
+        <published>2026-03-07T01:40:01+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Ubuntu 24.04 安装 Win10 虚拟机]]></summary>
+    </entry>
+        <entry>
+        <title>Portal认证不弹窗故障排查案例</title>
+        <id>148368</id>
+        <link href="https://www.x8xx.cn/1024.html?utm_source=blogfinder" />
+        <published>2026-03-07T01:27:26+08:00</published>
+        <author>
+            <name>树洞笔记</name>
+            <uri>https://www.x8xx.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Portal认证不弹窗故障排查案例]]></summary>
+    </entry>
+        <entry>
+        <title>连龙虾都不会装的人，怎么会用龙虾呢?</title>
+        <id>148367</id>
+        <link href="https://tw93.fun/2026-03-07/openclaw.html?utm_source=blogfinder" />
+        <published>2026-03-07T00:00:00+08:00</published>
+        <author>
+            <name>Tw93</name>
+            <uri>https://tw93.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[连龙虾都不会装的人，怎么会用龙虾呢?]]></summary>
+    </entry>
+        <entry>
+        <title>温州旅游流水账 0306</title>
+        <id>148407</id>
+        <link href="https://blog.solazy.me/20260306/?utm_source=blogfinder" />
+        <published>2026-03-06T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[温州旅游流水账 0306]]></summary>
+    </entry>
         <entry>
         <title>当 AI 替我读完一本书，我真的读过它吗？</title>
         <id>148361</id>
@@ -35,6 +112,17 @@
         <summary type="text"><![CDATA[冬至（75、76/81）：迎来寒假的最后一天，明确开学后的游玩和图书馆计划]]></summary>
     </entry>
         <entry>
+        <title>OpenClaw与飞书的搭建始末</title>
+        <id>148369</id>
+        <link href="https://moontung.top/archives/openclaw_feishu.html?utm_source=blogfinder" />
+        <published>2026-03-06T20:48:00+08:00</published>
+        <author>
+            <name>Sheetung</name>
+            <uri>https://moontung.top</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenClaw与飞书的搭建始末]]></summary>
+    </entry>
+        <entry>
         <title>Plog 6 搬家啦</title>
         <id>148363</id>
         <link href="https://anotherdayu.com/plog-6/?utm_source=blogfinder" />
@@ -44,6 +132,17 @@
             <uri>https://anotherdayu.com</uri>
         </author>
         <summary type="text"><![CDATA[Plog 6 搬家啦]]></summary>
+    </entry>
+        <entry>
+        <title>把nanobot关进Docker后，如何同时保留浏览器可视化与自动化</title>
+        <id>148366</id>
+        <link href="https://ddadaal.me/articles/vnc-browser-from-nanobot-in-docker/cn?utm_source=blogfinder" />
+        <published>2026-03-06T18:50:00+08:00</published>
+        <author>
+            <name>ddadaal</name>
+            <uri>https://ddadaal.me</uri>
+        </author>
+        <summary type="text"><![CDATA[把nanobot关进Docker后，如何同时保留浏览器可视化与自动化]]></summary>
     </entry>
         <entry>
         <title>相反的你和我</title>
@@ -211,6 +310,28 @@
         <summary type="text"><![CDATA[错误部署千问 AI 大模型导致账户欠费了]]></summary>
     </entry>
         <entry>
+        <title>总算红了</title>
+        <id>148403</id>
+        <link href="https://ddbzhou.com/post/zongsuanhongle/?utm_source=blogfinder" />
+        <published>2026-03-06T08:00:00+08:00</published>
+        <author>
+            <name>兜兜爸投资笔记</name>
+            <uri>https://ddbzhou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[总算红了]]></summary>
+    </entry>
+        <entry>
+        <title>学习笔记30：恐龙脑到族群脑：人类行为背后的进化逻辑</title>
+        <id>148402</id>
+        <link href="http://www.zahui.top/posts/2026/03/06/zu-qun-nao.html?utm_source=blogfinder" />
+        <published>2026-03-06T08:00:00+08:00</published>
+        <author>
+            <name>涓滴意念汇成河</name>
+            <uri>https://www.zahui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[学习笔记30：恐龙脑到族群脑：人类行为背后的进化逻辑]]></summary>
+    </entry>
+        <entry>
         <title>养坏蛋</title>
         <id>148331</id>
         <link href="https://www.immarcus.com/blog/nurturing-villains?utm_source=blogfinder" />
@@ -242,6 +363,17 @@
             <uri>https://anotherdayu.com</uri>
         </author>
         <summary type="text"><![CDATA[A Feature Image Generator For Bear Blog]]></summary>
+    </entry>
+        <entry>
+        <title>第八期-Openclaw实现的运动/睡眠向导(非教程)</title>
+        <id>148400</id>
+        <link href="https://blog.asyncx.top/posts/2026-03-05/?utm_source=blogfinder" />
+        <published>2026-03-06T06:30:00+08:00</published>
+        <author>
+            <name>AsyncX&#039;s Blog</name>
+            <uri>https://blog.asyncx.top</uri>
+        </author>
+        <summary type="text"><![CDATA[第八期-Openclaw实现的运动/睡眠向导(非教程)]]></summary>
     </entry>
         <entry>
         <title>PIVOT Vol.20 久违的更新</title>
@@ -286,6 +418,17 @@
             <uri>https://blog.bxaw.name</uri>
         </author>
         <summary type="text"><![CDATA[立筊之后]]></summary>
+    </entry>
+        <entry>
+        <title>戴着罐头瓶的猫</title>
+        <id>148371</id>
+        <link href="https://jame.work/#/html/post/43.html?utm_source=blogfinder" />
+        <published>2026-03-06T00:00:00+08:00</published>
+        <author>
+            <name>Jame</name>
+            <uri>https://jame.work</uri>
+        </author>
+        <summary type="text"><![CDATA[戴着罐头瓶的猫]]></summary>
     </entry>
         <entry>
         <title>大方承认用了AI辅助写作有多难？个人博客的AI羞耻与数字诚信</title>
@@ -363,6 +506,17 @@
             <uri>https://www.liangduiban.com</uri>
         </author>
         <summary type="text"><![CDATA[解决拖把池过滤和排水问题]]></summary>
+    </entry>
+        <entry>
+        <title>互联网童年与照进现实</title>
+        <id>148401</id>
+        <link href="https://xuerback.com/archives/10/?utm_source=blogfinder" />
+        <published>2026-03-05T20:44:00+08:00</published>
+        <author>
+            <name>默默留叙</name>
+            <uri>https://xuerback.com</uri>
+        </author>
+        <summary type="text"><![CDATA[互联网童年与照进现实]]></summary>
     </entry>
         <entry>
         <title>读《一句顶一万句》——在琐碎孤独中与人生和解</title>
@@ -718,6 +872,17 @@
     </entry>
         <entry>
         <title>有时也是作者</title>
+        <id>148372</id>
+        <link href="https://jame.work/#/html/post/42.html?utm_source=blogfinder" />
+        <published>2026-03-05T00:00:00+08:00</published>
+        <author>
+            <name>Jame</name>
+            <uri>https://jame.work</uri>
+        </author>
+        <summary type="text"><![CDATA[有时也是作者]]></summary>
+    </entry>
+        <entry>
+        <title>有时也是作者</title>
         <id>148178</id>
         <link href="https://jame.work/#/html/post/42?utm_source=blogfinder" />
         <published>2026-03-05T00:00:00+08:00</published>
@@ -990,214 +1155,5 @@
             <uri>https://blog.zhecydn.asia</uri>
         </author>
         <summary type="text"><![CDATA[我的b站使用优化(弹幕+视频+动态优化)]]></summary>
-    </entry>
-        <entry>
-        <title>非注意盲视的青春</title>
-        <id>147935</id>
-        <link href="https://onojyun.com/2026/03/04/%e9%9d%9e%e6%b3%a8%e6%84%8f%e7%9b%b2%e8%a7%86%e7%9a%84%e9%9d%92%e6%98%a5/?utm_source=blogfinder" />
-        <published>2026-03-04T10:00:00+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://onojyun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[非注意盲视的青春]]></summary>
-    </entry>
-        <entry>
-        <title>分享一款电脑高效、彻底的专业卸载工具—Uninstall Tool</title>
-        <id>147937</id>
-        <link href="https://www.aiwazi.com/2878.html?utm_source=blogfinder" />
-        <published>2026-03-04T09:55:58+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[分享一款电脑高效、彻底的专业卸载工具—Uninstall Tool]]></summary>
-    </entry>
-        <entry>
-        <title>优化了一下</title>
-        <id>147946</id>
-        <link href="https://loglib.cn/174.html?utm_source=blogfinder" />
-        <published>2026-03-04T09:48:00+08:00</published>
-        <author>
-            <name>李文君 &#039;s Blog</name>
-            <uri>https://loglib.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[优化了一下]]></summary>
-    </entry>
-        <entry>
-        <title>为什么美国选择“史诗狂怒”这个名称发动对伊朗的战争？</title>
-        <id>147947</id>
-        <link href="https://lawtee.com/article/epic-fury-us-iran-2026/?utm_source=blogfinder" />
-        <published>2026-03-04T09:00:00+08:00</published>
-        <author>
-            <name>老 T 博客</name>
-            <uri>https://lawtee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么美国选择“史诗狂怒”这个名称发动对伊朗的战争？]]></summary>
-    </entry>
-        <entry>
-        <title>那一天，我们的孩子诞生了</title>
-        <id>147969</id>
-        <link href="https://www.gmcllp.cn/982.html?utm_source=blogfinder" />
-        <published>2026-03-04T08:51:00+08:00</published>
-        <author>
-            <name>关关和六六的 Blog</name>
-            <uri>https://www.gmcllp.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[那一天，我们的孩子诞生了]]></summary>
-    </entry>
-        <entry>
-        <title>植发后容易有毛囊炎，用康王或者采乐</title>
-        <id>147936</id>
-        <link href="https://www.liuzen.com/kangwang-zhifa.html?utm_source=blogfinder" />
-        <published>2026-03-04T08:49:47+08:00</published>
-        <author>
-            <name>刘明禅</name>
-            <uri>https://www.liuzen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[植发后容易有毛囊炎，用康王或者采乐]]></summary>
-    </entry>
-        <entry>
-        <title>Ubuntu 本地部署 Ollama + qwen3.5:9b + OpenWebUI 完全指北</title>
-        <id>147934</id>
-        <link href="https://www.suiyan.cc/blog/20260304002758?utm_source=blogfinder" />
-        <published>2026-03-04T08:27:58+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[Ubuntu 本地部署 Ollama + qwen3.5:9b + OpenWebUI 完全指北]]></summary>
-    </entry>
-        <entry>
-        <title>npm 与 npx：从一次报错说清楚两者的区别</title>
-        <id>148043</id>
-        <link href="https://www.juayohuang.top/blog/webfullstack/nodejs/npm-vs-npx?utm_source=blogfinder" />
-        <published>2026-03-04T08:00:00+08:00</published>
-        <author>
-            <name>Atri Website</name>
-            <uri>https://www.juayohuang.top</uri>
-        </author>
-        <summary type="text"><![CDATA[npm 与 npx：从一次报错说清楚两者的区别]]></summary>
-    </entry>
-        <entry>
-        <title>什么时候止跌</title>
-        <id>148041</id>
-        <link href="https://ddbzhou.com/post/shenmeshihouzhidie/?utm_source=blogfinder" />
-        <published>2026-03-04T08:00:00+08:00</published>
-        <author>
-            <name>兜兜爸投资笔记</name>
-            <uri>https://ddbzhou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[什么时候止跌]]></summary>
-    </entry>
-        <entry>
-        <title>「习俗」伪史</title>
-        <id>147930</id>
-        <link href="https://www.immarcus.com/blog/on-customs?utm_source=blogfinder" />
-        <published>2026-03-04T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[「习俗」伪史]]></summary>
-    </entry>
-        <entry>
-        <title>linuxqq在KDE Plasma下无法输入的问题。</title>
-        <id>147958</id>
-        <link href="https://loveapple.icu/linuxqq-fcitx5/?utm_source=blogfinder" />
-        <published>2026-03-04T07:57:38+08:00</published>
-        <author>
-            <name>LoveApple14434</name>
-            <uri>https://loveapple.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[linuxqq在KDE Plasma下无法输入的问题。]]></summary>
-    </entry>
-        <entry>
-        <title>唐小林的近期文评有些无趣</title>
-        <id>147933</id>
-        <link href="https://www.pgoj.top/archives/tangxiaolinwenping.html?utm_source=blogfinder" />
-        <published>2026-03-04T07:16:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[唐小林的近期文评有些无趣]]></summary>
-    </entry>
-        <entry>
-        <title>梦里念归</title>
-        <id>147954</id>
-        <link href="https://www.chenrui.com/post/3482.html?utm_source=blogfinder" />
-        <published>2026-03-04T07:09:08+08:00</published>
-        <author>
-            <name>陈锐</name>
-            <uri>https://www.chenrui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[梦里念归]]></summary>
-    </entry>
-        <entry>
-        <title>我的二月</title>
-        <id>147968</id>
-        <link href="https://hisherry.com/%e5%8a%a0%e5%9b%bd%e7%94%9f%e6%b4%bb/4942/?utm_source=blogfinder" />
-        <published>2026-03-04T06:26:43+08:00</published>
-        <author>
-            <name>燕渡寒潭</name>
-            <uri>https://hisherry.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我的二月]]></summary>
-    </entry>
-        <entry>
-        <title>随思 - 2026-03-03</title>
-        <id>147943</id>
-        <link href="http://qthinker.net/content/60?utm_source=blogfinder" />
-        <published>2026-03-04T06:06:27+08:00</published>
-        <author>
-            <name>Qthinker</name>
-            <uri>https://qthinker.net</uri>
-        </author>
-        <summary type="text"><![CDATA[随思 - 2026-03-03]]></summary>
-    </entry>
-        <entry>
-        <title>三十五岁，跟自己些许对话</title>
-        <id>148006</id>
-        <link href="https://6angel.com/257.html?utm_source=blogfinder" />
-        <published>2026-03-04T04:18:50+08:00</published>
-        <author>
-            <name>绝非善类</name>
-            <uri>https://6angel.com</uri>
-        </author>
-        <summary type="text"><![CDATA[三十五岁，跟自己些许对话]]></summary>
-    </entry>
-        <entry>
-        <title>请你带着边界感来「爱」我</title>
-        <id>147939</id>
-        <link href="https://blog.bxaw.name/archives/Love-Me-with-Boundaries-To-those-who-hide-invasion-behind-gentleness.html?utm_source=blogfinder" />
-        <published>2026-03-04T03:26:00+08:00</published>
-        <author>
-            <name>白熊阿丸的小屋</name>
-            <uri>https://blog.bxaw.name</uri>
-        </author>
-        <summary type="text"><![CDATA[请你带着边界感来「爱」我]]></summary>
-    </entry>
-        <entry>
-        <title>记人生中实际参加的第一次手术</title>
-        <id>147940</id>
-        <link href="https://www.david03.top/index.php/archives/436/?utm_source=blogfinder" />
-        <published>2026-03-04T01:58:00+08:00</published>
-        <author>
-            <name>David の 3 号基地</name>
-            <uri>https://www.david03.top</uri>
-        </author>
-        <summary type="text"><![CDATA[记人生中实际参加的第一次手术]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 2 神经生物学基础</title>
-        <id>147938</id>
-        <link href="https://physnya.top/animal-behavior/lesson-2-neutral-physiology/?utm_source=blogfinder" />
-        <published>2026-03-04T00:07:27+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 2 神经生物学基础]]></summary>
     </entry>
     </feed>
