@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-07T23:09:06+08:00</updated>
+    <updated>2026-03-08T00:00:21+08:00</updated>
         <entry>
         <title>迷失于图形界面</title>
         <id>148424</id>
@@ -88,6 +88,17 @@
             <uri>https://me.xu19.com</uri>
         </author>
         <summary type="text"><![CDATA[在家打印高质量证件照]]></summary>
+    </entry>
+        <entry>
+        <title>千问38节领无门槛立减红包</title>
+        <id>148428</id>
+        <link href="https://ygz.ink/archives/4480.html?utm_source=blogfinder" />
+        <published>2026-03-07T17:16:07+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[千问38节领无门槛立减红包]]></summary>
     </entry>
         <entry>
         <title>老狗满眼都是陈事旧影</title>
@@ -805,6 +816,17 @@
         <summary type="text"><![CDATA[7岁芭蕾舞发表会]]></summary>
     </entry>
         <entry>
+        <title>Hexo-Butterfly 主题中对 Algolia 搜索框 Power By 的定制</title>
+        <id>148427</id>
+        <link href="https://blog.uuanqin.top/p/679dc4eb/?utm_source=blogfinder" />
+        <published>2026-03-05T16:19:21+08:00</published>
+        <author>
+            <name>半方池水半方田</name>
+            <uri>https://blog.uuanqin.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Hexo-Butterfly 主题中对 Algolia 搜索框 Power By 的定制]]></summary>
+    </entry>
+        <entry>
         <title>立体性混乱里，努力只是螳臂当车</title>
         <id>148063</id>
         <link href="https://www.pgoj.top/archives/xitonghunluan.html?utm_source=blogfinder" />
@@ -1078,60 +1100,5 @@
             <uri>https://blog.bxaw.name</uri>
         </author>
         <summary type="text"><![CDATA[基于“神学”分类下的文章的讨论]]></summary>
-    </entry>
-        <entry>
-        <title>有时也是作者</title>
-        <id>148372</id>
-        <link href="https://jame.work/#/html/post/42.html?utm_source=blogfinder" />
-        <published>2026-03-05T00:00:00+08:00</published>
-        <author>
-            <name>Jame</name>
-            <uri>https://jame.work</uri>
-        </author>
-        <summary type="text"><![CDATA[有时也是作者]]></summary>
-    </entry>
-        <entry>
-        <title>有时也是作者</title>
-        <id>148178</id>
-        <link href="https://jame.work/#/html/post/42?utm_source=blogfinder" />
-        <published>2026-03-05T00:00:00+08:00</published>
-        <author>
-            <name>Jame</name>
-            <uri>https://jame.work</uri>
-        </author>
-        <summary type="text"><![CDATA[有时也是作者]]></summary>
-    </entry>
-        <entry>
-        <title>二十四节气 – 惊蛰</title>
-        <id>148007</id>
-        <link href="https://oheng.com/24-solar-terms-startling-insects/?utm_source=blogfinder" />
-        <published>2026-03-05T00:00:00+08:00</published>
-        <author>
-            <name>飞觞醉月</name>
-            <uri>https://oheng.com</uri>
-        </author>
-        <summary type="text"><![CDATA[二十四节气 – 惊蛰]]></summary>
-    </entry>
-        <entry>
-        <title>用阿里云oss自托管一个摄影相册afilmory</title>
-        <id>147984</id>
-        <link href="https://inkcodes.com/2026/03/04/%E7%94%A8%E9%98%BF%E9%87%8C%E4%BA%91oss%E8%87%AA%E6%89%98%E7%AE%A1%E4%B8%80%E4%B8%AA%E6%91%84%E5%BD%B1%E7%9B%B8%E5%86%8Cafilmory/?utm_source=blogfinder" />
-        <published>2026-03-04T23:50:00+08:00</published>
-        <author>
-            <name>InkCodes</name>
-            <uri>https://inkcodes.com</uri>
-        </author>
-        <summary type="text"><![CDATA[用阿里云oss自托管一个摄影相册afilmory]]></summary>
-    </entry>
-        <entry>
-        <title>学习网络的一点经验</title>
-        <id>147963</id>
-        <link href="https://www.kawabangga.com/posts/6131?utm_source=blogfinder" />
-        <published>2026-03-04T23:45:20+08:00</published>
-        <author>
-            <name>卡瓦邦噶</name>
-            <uri>https://www.kawabangga.com</uri>
-        </author>
-        <summary type="text"><![CDATA[学习网络的一点经验]]></summary>
     </entry>
     </feed>
