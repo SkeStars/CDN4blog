@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-07T21:00:23+08:00</updated>
+    <updated>2026-03-07T22:00:45+08:00</updated>
         <entry>
         <title>阿Q的死局</title>
         <id>148418</id>
@@ -1111,27 +1111,5 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[冬至（74/81）：等待课表，准备开学]]></summary>
-    </entry>
-        <entry>
-        <title>3月周记一</title>
-        <id>148062</id>
-        <link href="https://ihaihe.cn/3517.htm?utm_source=blogfinder" />
-        <published>2026-03-04T21:58:02+08:00</published>
-        <author>
-            <name>三十里海河</name>
-            <uri>https://ihaihe.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[3月周记一]]></summary>
-    </entry>
-        <entry>
-        <title>Ardupilot设置MSP协议OSD</title>
-        <id>148044</id>
-        <link href="https://xtxcool.com/archives/ardupilotshe-zhi-mspxie-yi-osd?utm_source=blogfinder" />
-        <published>2026-03-04T21:19:57+08:00</published>
-        <author>
-            <name>静水流深</name>
-            <uri>https://xtxcool.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Ardupilot设置MSP协议OSD]]></summary>
     </entry>
     </feed>
