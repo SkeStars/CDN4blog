@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-07T17:00:21+08:00</updated>
+    <updated>2026-03-07T18:00:45+08:00</updated>
+        <entry>
+        <title>2026.3.7</title>
+        <id>148413</id>
+        <link href="https://www.justzht.com/2026-3-7/?utm_source=blogfinder" />
+        <published>2026-03-07T17:45:10+08:00</published>
+        <author>
+            <name>JustZht</name>
+            <uri>https://www.justzht.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026.3.7]]></summary>
+    </entry>
+        <entry>
+        <title>老狗满眼都是陈事旧影</title>
+        <id>148414</id>
+        <link href="https://www.pgoj.top/archives/old-dog-eyes-filled-with-memories-of-bygone-days.html?utm_source=blogfinder" />
+        <published>2026-03-07T16:42:01+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[老狗满眼都是陈事旧影]]></summary>
+    </entry>
         <entry>
         <title>也来说说独立博客</title>
         <id>148412</id>
@@ -1056,27 +1078,5 @@
             <uri>https://blog.likaikai.com</uri>
         </author>
         <summary type="text"><![CDATA[我帮老大部署 AI 特工团队的 72 小时]]></summary>
-    </entry>
-        <entry>
-        <title>AI干货系列：在 AI 对话系统中实现长期记忆自主管理</title>
-        <id>148055</id>
-        <link href="https://beltxman.com/4642.html?utm_source=blogfinder" />
-        <published>2026-03-04T17:49:16+08:00</published>
-        <author>
-            <name>行星带</name>
-            <uri>https://beltxman.com</uri>
-        </author>
-        <summary type="text"><![CDATA[AI干货系列：在 AI 对话系统中实现长期记忆自主管理]]></summary>
-    </entry>
-        <entry>
-        <title>所谓闭关</title>
-        <id>148005</id>
-        <link href="https://airy.ink/daily/428?utm_source=blogfinder" />
-        <published>2026-03-04T17:33:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[所谓闭关]]></summary>
     </entry>
     </feed>
