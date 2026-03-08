@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-08T19:00:19+08:00</updated>
+    <updated>2026-03-08T21:00:19+08:00</updated>
         <entry>
         <title>辣鸡云闪付，谁教你这么搞活动的？</title>
         <id>148457</id>
@@ -134,6 +134,17 @@
         <summary type="text"><![CDATA[龙虾平替CoPaw初体验]]></summary>
     </entry>
         <entry>
+        <title>用最先进的技术找最原始的习惯</title>
+        <id>148459</id>
+        <link href="https://xuerback.com/archives/12/?utm_source=blogfinder" />
+        <published>2026-03-07T22:42:35+08:00</published>
+        <author>
+            <name>默默留叙</name>
+            <uri>https://xuerback.com</uri>
+        </author>
+        <summary type="text"><![CDATA[用最先进的技术找最原始的习惯]]></summary>
+    </entry>
+        <entry>
         <title>【也闲谈·第四季】三：熊猫与莎士比亚，冥想与战国，要做一个什么样的人</title>
         <id>148443</id>
         <link href="http://www.qncd.com/?p=12532&amp;utm_source=blogfinder" />
@@ -165,6 +176,17 @@
             <uri>https://wangyurui.com</uri>
         </author>
         <summary type="text"><![CDATA[阿Q的死局]]></summary>
+    </entry>
+        <entry>
+        <title>AI 时代的人类处境：科技、宗教与生命意义的重构</title>
+        <id>148458</id>
+        <link href="https://justgoidea.com/technology-religion-ai-human-condition/?utm_source=blogfinder" />
+        <published>2026-03-07T19:26:00+08:00</published>
+        <author>
+            <name>槿呈 Goidea</name>
+            <uri>https://justgoidea.com</uri>
+        </author>
+        <summary type="text"><![CDATA[AI 时代的人类处境：科技、宗教与生命意义的重构]]></summary>
     </entry>
         <entry>
         <title>几处早樱</title>
@@ -968,71 +990,5 @@
             <uri>https://www.liangduiban.com</uri>
         </author>
         <summary type="text"><![CDATA[解决拖把池过滤和排水问题]]></summary>
-    </entry>
-        <entry>
-        <title>生命与生活</title>
-        <id>148422</id>
-        <link href="https://ficor.net/2026/03/life/?utm_source=blogfinder" />
-        <published>2026-03-05T20:55:14+08:00</published>
-        <author>
-            <name>荒野菲克</name>
-            <uri>https://ficor.net</uri>
-        </author>
-        <summary type="text"><![CDATA[生命与生活]]></summary>
-    </entry>
-        <entry>
-        <title>互联网童年与照进现实</title>
-        <id>148401</id>
-        <link href="https://xuerback.com/archives/10/?utm_source=blogfinder" />
-        <published>2026-03-05T20:44:00+08:00</published>
-        <author>
-            <name>默默留叙</name>
-            <uri>https://xuerback.com</uri>
-        </author>
-        <summary type="text"><![CDATA[互联网童年与照进现实]]></summary>
-    </entry>
-        <entry>
-        <title>读《一句顶一万句》——在琐碎孤独中与人生和解</title>
-        <id>148337</id>
-        <link href="https://www.jfsay.com/archives/3964.html?utm_source=blogfinder" />
-        <published>2026-03-05T20:32:57+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[读《一句顶一万句》——在琐碎孤独中与人生和解]]></summary>
-    </entry>
-        <entry>
-        <title>三月，我的运动、写作习惯校准</title>
-        <id>148336</id>
-        <link href="https://joojen.com/archives/8856.html?utm_source=blogfinder" />
-        <published>2026-03-05T20:09:10+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[三月，我的运动、写作习惯校准]]></summary>
-    </entry>
-        <entry>
-        <title>春秋航空的行李体验</title>
-        <id>148209</id>
-        <link href="https://me.xu19.com/%e6%98%a5%e7%a7%8b%e8%88%aa%e7%a9%ba%e7%9a%84%e8%a1%8c%e6%9d%8e%e4%bd%93%e9%aa%8c/?utm_source=blogfinder" />
-        <published>2026-03-05T19:28:49+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[春秋航空的行李体验]]></summary>
-    </entry>
-        <entry>
-        <title>水星冲浪日志 2 —— PT、换域名、约稿和建站机</title>
-        <id>148064</id>
-        <link href="https://blog.samhou.moe/aqua-surf-2/?utm_source=blogfinder" />
-        <published>2026-03-05T19:03:02+08:00</published>
-        <author>
-            <name>SamHou&#039;s Blog</name>
-            <uri>https://blog.samhou.moe</uri>
-        </author>
-        <summary type="text"><![CDATA[水星冲浪日志 2 —— PT、换域名、约稿和建站机]]></summary>
     </entry>
     </feed>
