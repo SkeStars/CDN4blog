@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-08T23:00:30+08:00</updated>
+    <updated>2026-03-09T00:00:22+08:00</updated>
         <entry>
         <title>WebRTC IP 泄露问题</title>
         <id>148460</id>
@@ -22,6 +22,17 @@
             <uri>http://blog.devtang.com</uri>
         </author>
         <summary type="text"><![CDATA[WebRTC IP 泄露问题]]></summary>
+    </entry>
+        <entry>
+        <title>国际劳动妇女节快乐</title>
+        <id>148468</id>
+        <link href="https://blog.kfdzcoffee.cn/archives/IWD-2026?utm_source=blogfinder" />
+        <published>2026-03-08T22:04:33+08:00</published>
+        <author>
+            <name>咖啡豆子 coffee 的小站</name>
+            <uri>https://blog.kfdzcoffee.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[国际劳动妇女节快乐]]></summary>
     </entry>
         <entry>
         <title>冬至（77、78/81）：回归上海市区、克服一点不适应思绪</title>
@@ -35,6 +46,17 @@
         <summary type="text"><![CDATA[冬至（77、78/81）：回归上海市区、克服一点不适应思绪]]></summary>
     </entry>
         <entry>
+        <title>周末流水账 0308</title>
+        <id>148469</id>
+        <link href="https://blog.solazy.me/20260308/?utm_source=blogfinder" />
+        <published>2026-03-08T21:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0308]]></summary>
+    </entry>
+        <entry>
         <title>极客死亡计划书 V</title>
         <id>148462</id>
         <link href="https://www.geedea.pro/article/site-report-5/?utm_source=blogfinder" />
@@ -44,6 +66,28 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[极客死亡计划书 V]]></summary>
+    </entry>
+        <entry>
+        <title>PDF/Office互转工具 Python教程</title>
+        <id>148467</id>
+        <link href="https://xn--otsr53afot.com/posts/pdf-office-converter-python-tutorial/?utm_source=blogfinder" />
+        <published>2026-03-08T20:01:00+08:00</published>
+        <author>
+            <name>老朝奉</name>
+            <uri>https://xn--otsr53afot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[PDF/Office互转工具 Python教程]]></summary>
+    </entry>
+        <entry>
+        <title>复查</title>
+        <id>148466</id>
+        <link href="https://ltmltm.cn/bk/1433.html?utm_source=blogfinder" />
+        <published>2026-03-08T18:51:00+08:00</published>
+        <author>
+            <name>因为很想念</name>
+            <uri>https://ltmltm.cn/bk</uri>
+        </author>
+        <summary type="text"><![CDATA[复查]]></summary>
     </entry>
         <entry>
         <title>辣鸡云闪付，谁教你这么搞活动的？</title>
@@ -66,6 +110,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【与Mondo同行·第四季】1：勇猛精进]]></summary>
+    </entry>
+        <entry>
+        <title>胡拉图的周刊 第十期</title>
+        <id>148470</id>
+        <link href="https://hulatu.com/posts/2026/03/08/newsletter-weekly/?utm_source=blogfinder" />
+        <published>2026-03-08T15:48:17+08:00</published>
+        <author>
+            <name>胡拉图的后花园</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[胡拉图的周刊 第十期]]></summary>
     </entry>
         <entry>
         <title>毛姆《面纱》读后感</title>
@@ -946,27 +1001,5 @@
             <uri>https://blog.bxaw.name</uri>
         </author>
         <summary type="text"><![CDATA[立筊之后]]></summary>
-    </entry>
-        <entry>
-        <title>戴着罐头瓶的猫</title>
-        <id>148371</id>
-        <link href="https://jame.work/#/html/post/43.html?utm_source=blogfinder" />
-        <published>2026-03-06T00:00:00+08:00</published>
-        <author>
-            <name>Jame</name>
-            <uri>https://jame.work</uri>
-        </author>
-        <summary type="text"><![CDATA[戴着罐头瓶的猫]]></summary>
-    </entry>
-        <entry>
-        <title>大方承认用了AI辅助写作有多难？个人博客的AI羞耻与数字诚信</title>
-        <id>148338</id>
-        <link href="https://www.tjsky.net/natter/1409?utm_source=blogfinder" />
-        <published>2026-03-05T23:05:52+08:00</published>
-        <author>
-            <name>秋风于渭水</name>
-            <uri>https://www.tjsky.net</uri>
-        </author>
-        <summary type="text"><![CDATA[大方承认用了AI辅助写作有多难？个人博客的AI羞耻与数字诚信]]></summary>
     </entry>
     </feed>
