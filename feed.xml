@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-08T22:00:31+08:00</updated>
+    <updated>2026-03-08T23:00:30+08:00</updated>
+        <entry>
+        <title>WebRTC IP 泄露问题</title>
+        <id>148460</id>
+        <link href="https://blog.devtang.com/2026/03/08/WebRTC-ip-leak/?utm_source=blogfinder" />
+        <published>2026-03-08T22:37:28+08:00</published>
+        <author>
+            <name>唐巧的博客</name>
+            <uri>http://blog.devtang.com</uri>
+        </author>
+        <summary type="text"><![CDATA[WebRTC IP 泄露问题]]></summary>
+    </entry>
+        <entry>
+        <title>冬至（77、78/81）：回归上海市区、克服一点不适应思绪</title>
+        <id>148461</id>
+        <link href="https://blog.mcenahle.org.cn/2026/03/08/439.html?utm_source=blogfinder" />
+        <published>2026-03-08T22:04:00+08:00</published>
+        <author>
+            <name>梅之夏</name>
+            <uri>https://blog.mcenahle.org.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[冬至（77、78/81）：回归上海市区、克服一点不适应思绪]]></summary>
+    </entry>
+        <entry>
+        <title>极客死亡计划书 V</title>
+        <id>148462</id>
+        <link href="https://www.geedea.pro/article/site-report-5/?utm_source=blogfinder" />
+        <published>2026-03-08T20:27:07+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[极客死亡计划书 V]]></summary>
+    </entry>
         <entry>
         <title>辣鸡云闪付，谁教你这么搞活动的？</title>
         <id>148457</id>
@@ -57,6 +90,17 @@
         <summary type="text"><![CDATA[求婚的意义与中国人的商业化求婚]]></summary>
     </entry>
         <entry>
+        <title>受AI算力需求激增影响，内存条价格飙涨3倍左右</title>
+        <id>148465</id>
+        <link href="https://www.bufanz.com/20260308469.html?utm_source=blogfinder" />
+        <published>2026-03-08T11:43:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[受AI算力需求激增影响，内存条价格飙涨3倍左右]]></summary>
+    </entry>
+        <entry>
         <title>什么是服务器？服务器有什么用途。高防服务器与低防服务器区别</title>
         <id>148456</id>
         <link href="https://mojue88.com/index.php/archives/51.html?utm_source=blogfinder" />
@@ -99,6 +143,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[东西可以不用，功能不能没有]]></summary>
+    </entry>
+        <entry>
+        <title>🏕️ 二月末三月初 - 烧</title>
+        <id>148463</id>
+        <link href="https://terryhu.cn/posts/2026/%EF%B8%8F-%E4%BA%8C%E6%9C%88%E6%9C%AB%E4%B8%89%E6%9C%88%E5%88%9D-%E7%83%A7/?utm_source=blogfinder" />
+        <published>2026-03-08T07:48:32+08:00</published>
+        <author>
+            <name>Terry&#039;s Blog</name>
+            <uri>https://terryhu.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[🏕️ 二月末三月初 - 烧]]></summary>
     </entry>
         <entry>
         <title>不要急着成为谁</title>
@@ -913,49 +968,5 @@
             <uri>https://www.tjsky.net</uri>
         </author>
         <summary type="text"><![CDATA[大方承认用了AI辅助写作有多难？个人博客的AI羞耻与数字诚信]]></summary>
-    </entry>
-        <entry>
-        <title>劳力士Rolex126508</title>
-        <id>148208</id>
-        <link href="https://6angel.com/258.html?utm_source=blogfinder" />
-        <published>2026-03-05T22:43:52+08:00</published>
-        <author>
-            <name>绝非善类</name>
-            <uri>https://6angel.com</uri>
-        </author>
-        <summary type="text"><![CDATA[劳力士Rolex126508]]></summary>
-    </entry>
-        <entry>
-        <title>2026 博客修补日常</title>
-        <id>148430</id>
-        <link href="https://xingtu.org/671.html?utm_source=blogfinder" />
-        <published>2026-03-05T22:42:00+08:00</published>
-        <author>
-            <name>星图博客</name>
-            <uri>https://xingtu.org</uri>
-        </author>
-        <summary type="text"><![CDATA[2026 博客修补日常]]></summary>
-    </entry>
-        <entry>
-        <title>推荐WordPress极简AeroCore主题</title>
-        <id>148359</id>
-        <link href="https://www.xrbk.cn/post/62.html?utm_source=blogfinder" />
-        <published>2026-03-05T22:20:00+08:00</published>
-        <author>
-            <name>新锐博客</name>
-            <uri>https://www.xrbk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[推荐WordPress极简AeroCore主题]]></summary>
-    </entry>
-        <entry>
-        <title>【开发】NekoIPinfo：基于GO语言的高性能IP查询服务端</title>
-        <id>148346</id>
-        <link href="https://www.nekopara.uk/archives/NekoIPinfo.html?utm_source=blogfinder" />
-        <published>2026-03-05T22:17:14+08:00</published>
-        <author>
-            <name>GTX690 战术核显卡导弹</name>
-            <uri>https://www.nekopara.uk</uri>
-        </author>
-        <summary type="text"><![CDATA[【开发】NekoIPinfo：基于GO语言的高性能IP查询服务端]]></summary>
     </entry>
     </feed>
