@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-09T17:00:23+08:00</updated>
+    <updated>2026-03-09T18:00:22+08:00</updated>
+        <entry>
+        <title>狗子项目-OpenClaw初体验</title>
+        <id>148520</id>
+        <link href="https://blog.mboker.cn/archives/7jfQ1vIe?utm_source=blogfinder" />
+        <published>2026-03-09T17:21:59+08:00</published>
+        <author>
+            <name>蜉蝣手札</name>
+            <uri>https://blog.mboker.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[狗子项目-OpenClaw初体验]]></summary>
+    </entry>
         <entry>
         <title>【读书记1637】刘衍钢《上帝之鞭》</title>
         <id>148515</id>
@@ -22,6 +33,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1637】刘衍钢《上帝之鞭》]]></summary>
+    </entry>
+        <entry>
+        <title>忍痛割爱“负优化”腾讯云！年付不到200元，我换到了这台“真香”的香港前端机</title>
+        <id>148518</id>
+        <link href="https://www.tjsky.net/tutorial/1417?utm_source=blogfinder" />
+        <published>2026-03-09T15:46:10+08:00</published>
+        <author>
+            <name>秋风于渭水</name>
+            <uri>https://www.tjsky.net</uri>
+        </author>
+        <summary type="text"><![CDATA[忍痛割爱“负优化”腾讯云！年付不到200元，我换到了这台“真香”的香港前端机]]></summary>
     </entry>
         <entry>
         <title>自然风景Win10主题安装包 v1.0</title>
@@ -66,6 +88,17 @@
             <uri>https://liuqingwushui.top</uri>
         </author>
         <summary type="text"><![CDATA[【景点篇】成都东郊记忆]]></summary>
+    </entry>
+        <entry>
+        <title>3月周记二</title>
+        <id>148519</id>
+        <link href="https://ihaihe.cn/3521.htm?utm_source=blogfinder" />
+        <published>2026-03-09T10:42:10+08:00</published>
+        <author>
+            <name>三十里海河</name>
+            <uri>https://ihaihe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[3月周记二]]></summary>
     </entry>
         <entry>
         <title>golang 生成 word 文档，模板替换问题排查</title>
@@ -187,6 +220,17 @@
             <uri>http://blog.devtang.com</uri>
         </author>
         <summary type="text"><![CDATA[WebRTC IP 泄露问题]]></summary>
+    </entry>
+        <entry>
+        <title>为什么偏偏是“左耳进，右耳出”</title>
+        <id>148517</id>
+        <link href="https://www.edony.ink/why-does-left-come-before-right/?utm_source=blogfinder" />
+        <published>2026-03-08T22:10:43+08:00</published>
+        <author>
+            <name>Shadow Walker</name>
+            <uri>https://www.edony.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[为什么偏偏是“左耳进，右耳出”]]></summary>
     </entry>
         <entry>
         <title>国际劳动妇女节快乐</title>
@@ -1122,27 +1166,5 @@
             <uri>https://ddadaal.me</uri>
         </author>
         <summary type="text"><![CDATA[把nanobot关进Docker后，如何同时保留浏览器可视化与自动化]]></summary>
-    </entry>
-        <entry>
-        <title>相反的你和我</title>
-        <id>148365</id>
-        <link href="https://xeonzilla.top/note/seihantai?utm_source=blogfinder" />
-        <published>2026-03-06T17:41:41+08:00</published>
-        <author>
-            <name>Xeonzilla’s Note</name>
-            <uri>https://xeonzilla.top</uri>
-        </author>
-        <summary type="text"><![CDATA[相反的你和我]]></summary>
-    </entry>
-        <entry>
-        <title>填写问卷抽奖中了送话费的坑</title>
-        <id>148352</id>
-        <link href="https://www.aiwazi.com/2908.html?utm_source=blogfinder" />
-        <published>2026-03-06T17:37:34+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[填写问卷抽奖中了送话费的坑]]></summary>
     </entry>
     </feed>
