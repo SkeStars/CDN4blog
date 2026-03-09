@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-09T21:00:20+08:00</updated>
+    <updated>2026-03-09T23:01:01+08:00</updated>
+        <entry>
+        <title>老机伏枥，志在千里</title>
+        <id>148523</id>
+        <link href="https://cuixiping.com/blog/think/vunhuy?utm_source=blogfinder" />
+        <published>2026-03-09T20:42:00+08:00</published>
+        <author>
+            <name>崔话记</name>
+            <uri>https://cuixiping.com</uri>
+        </author>
+        <summary type="text"><![CDATA[老机伏枥，志在千里]]></summary>
+    </entry>
+        <entry>
+        <title>日祭 20260309</title>
+        <id>148521</id>
+        <link href="https://www.suiyan.cc/blog/20260309121332?utm_source=blogfinder" />
+        <published>2026-03-09T20:13:32+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[日祭 20260309]]></summary>
+    </entry>
         <entry>
         <title>狗子项目-OpenClaw初体验</title>
         <id>148520</id>
@@ -44,6 +66,17 @@
             <uri>https://www.tjsky.net</uri>
         </author>
         <summary type="text"><![CDATA[忍痛割爱“负优化”腾讯云！年付不到200元，我换到了这台“真香”的香港前端机]]></summary>
+    </entry>
+        <entry>
+        <title>Mission Planner地面站模拟飞行和MAVLINK消息UDP转发</title>
+        <id>148522</id>
+        <link href="https://xtxcool.com/archives/mission-plannerdi-mian-zhan-mo-ni-fei-xing-he-mavlinkxiao-xi-udpzhuan-fa?utm_source=blogfinder" />
+        <published>2026-03-09T15:02:02+08:00</published>
+        <author>
+            <name>静水流深</name>
+            <uri>https://xtxcool.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Mission Planner地面站模拟飞行和MAVLINK消息UDP转发]]></summary>
     </entry>
         <entry>
         <title>自然风景Win10主题安装包 v1.0</title>
@@ -220,6 +253,17 @@
             <uri>http://blog.devtang.com</uri>
         </author>
         <summary type="text"><![CDATA[WebRTC IP 泄露问题]]></summary>
+    </entry>
+        <entry>
+        <title>记录一下迁移服务器需要使用的一些命令</title>
+        <id>148524</id>
+        <link href="https://nicksxs.me/2026/03/08/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E8%BF%81%E7%A7%BB%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%9C%80%E8%A6%81%E4%BD%BF%E7%94%A8%E7%9A%84%E4%B8%80%E4%BA%9B%E5%91%BD%E4%BB%A4/?utm_source=blogfinder" />
+        <published>2026-03-08T22:37:19+08:00</published>
+        <author>
+            <name>Nicksxs&#039;s Blog</name>
+            <uri>https://nicksxs.me</uri>
+        </author>
+        <summary type="text"><![CDATA[记录一下迁移服务器需要使用的一些命令]]></summary>
     </entry>
         <entry>
         <title>为什么偏偏是“左耳进，右耳出”</title>
@@ -1067,49 +1111,5 @@
             <uri>https://www.luohuayu.cn</uri>
         </author>
         <summary type="text"><![CDATA[折磨人啊]]></summary>
-    </entry>
-        <entry>
-        <title>温州旅游流水账 0306</title>
-        <id>148407</id>
-        <link href="https://blog.solazy.me/20260306/?utm_source=blogfinder" />
-        <published>2026-03-06T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[温州旅游流水账 0306]]></summary>
-    </entry>
-        <entry>
-        <title>笔记本电脑超过半年没使用，内部长白霉了</title>
-        <id>148409</id>
-        <link href="https://www.bufanz.com/20260306466.html?utm_source=blogfinder" />
-        <published>2026-03-06T22:19:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[笔记本电脑超过半年没使用，内部长白霉了]]></summary>
-    </entry>
-        <entry>
-        <title>当 AI 替我读完一本书，我真的读过它吗？</title>
-        <id>148361</id>
-        <link href="https://www.tortorse.com/archives/did-i-really-read-it-if-ai-read-it-for-me/?utm_source=blogfinder" />
-        <published>2026-03-06T22:06:29+08:00</published>
-        <author>
-            <name>愆伏</name>
-            <uri>https://www.tortorse.com</uri>
-        </author>
-        <summary type="text"><![CDATA[当 AI 替我读完一本书，我真的读过它吗？]]></summary>
-    </entry>
-        <entry>
-        <title>冬至（75、76/81）：迎来寒假的最后一天，明确开学后的游玩和图书馆计划</title>
-        <id>148362</id>
-        <link href="https://blog.mcenahle.org.cn/2026/03/06/438.html?utm_source=blogfinder" />
-        <published>2026-03-06T22:02:03+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[冬至（75、76/81）：迎来寒假的最后一天，明确开学后的游玩和图书馆计划]]></summary>
     </entry>
     </feed>
