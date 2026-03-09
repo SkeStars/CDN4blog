@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-09T11:00:16+08:00</updated>
+    <updated>2026-03-09T13:00:25+08:00</updated>
+        <entry>
+        <title>【景点篇】成都东郊记忆</title>
+        <id>148503</id>
+        <link href="https://liuqingwushui.top/archives/142/?utm_source=blogfinder" />
+        <published>2026-03-09T11:14:06+08:00</published>
+        <author>
+            <name>流情的博客</name>
+            <uri>https://liuqingwushui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[【景点篇】成都东郊记忆]]></summary>
+    </entry>
+        <entry>
+        <title>golang 生成 word 文档，模板替换问题排查</title>
+        <id>148502</id>
+        <link href="https://www.sunzhongwei.com/golang-word-troubleshoot-template-replace-issue?utm_source=blogfinder" />
+        <published>2026-03-09T10:15:08+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[golang 生成 word 文档，模板替换问题排查]]></summary>
+    </entry>
+        <entry>
+        <title>OpenClaw 部署指南（Windows）</title>
+        <id>148505</id>
+        <link href="https://nxxy335.top/archives/EdLNd2KW?utm_source=blogfinder" />
+        <published>2026-03-09T08:51:48+08:00</published>
+        <author>
+            <name>暖心向阳</name>
+            <uri>https://nxxy335.top</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenClaw 部署指南（Windows）]]></summary>
+    </entry>
         <entry>
         <title>《三体》读后感：重新理解人类</title>
         <id>148498</id>
@@ -55,6 +88,17 @@
             <uri>https://hisherry.com</uri>
         </author>
         <summary type="text"><![CDATA[多年前的一部英剧]]></summary>
+    </entry>
+        <entry>
+        <title>换机</title>
+        <id>148504</id>
+        <link href="https://airy.ink/daily/430?utm_source=blogfinder" />
+        <published>2026-03-09T00:06:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[换机]]></summary>
     </entry>
         <entry>
         <title>稻草人周刊 Vol.71</title>
@@ -1045,16 +1089,5 @@
             <uri>https://kaix.in</uri>
         </author>
         <summary type="text"><![CDATA[认知的远点]]></summary>
-    </entry>
-        <entry>
-        <title>各取所需的猴子与人</title>
-        <id>148354</id>
-        <link href="https://www.pgoj.top/archives/monkey-and-man-each-take-what-they-need.html?utm_source=blogfinder" />
-        <published>2026-03-06T12:48:18+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[各取所需的猴子与人]]></summary>
     </entry>
     </feed>
