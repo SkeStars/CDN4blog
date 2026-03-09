@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-09T18:00:22+08:00</updated>
+    <updated>2026-03-09T19:01:22+08:00</updated>
         <entry>
         <title>狗子项目-OpenClaw初体验</title>
         <id>148520</id>
@@ -1155,16 +1155,5 @@
             <uri>https://me.xu19.com</uri>
         </author>
         <summary type="text"><![CDATA[推荐好用的图片转码软件]]></summary>
-    </entry>
-        <entry>
-        <title>把nanobot关进Docker后，如何同时保留浏览器可视化与自动化</title>
-        <id>148366</id>
-        <link href="https://ddadaal.me/articles/vnc-browser-from-nanobot-in-docker/cn?utm_source=blogfinder" />
-        <published>2026-03-06T18:50:00+08:00</published>
-        <author>
-            <name>ddadaal</name>
-            <uri>https://ddadaal.me</uri>
-        </author>
-        <summary type="text"><![CDATA[把nanobot关进Docker后，如何同时保留浏览器可视化与自动化]]></summary>
     </entry>
     </feed>
