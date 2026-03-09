@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-09T23:01:01+08:00</updated>
+    <updated>2026-03-10T00:00:21+08:00</updated>
+        <entry>
+        <title>关于偶遇的巧合 II</title>
+        <id>148525</id>
+        <link href="https://blog.solazy.me/20260309/?utm_source=blogfinder" />
+        <published>2026-03-09T22:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[关于偶遇的巧合 II]]></summary>
+    </entry>
         <entry>
         <title>老机伏枥，志在千里</title>
         <id>148523</id>
@@ -1078,38 +1089,5 @@
             <uri>https://www.x8xx.cn</uri>
         </author>
         <summary type="text"><![CDATA[Portal认证不弹窗故障排查案例]]></summary>
-    </entry>
-        <entry>
-        <title>连龙虾都不会装的人，怎么会用龙虾呢?</title>
-        <id>148367</id>
-        <link href="https://tw93.fun/2026-03-07/openclaw.html?utm_source=blogfinder" />
-        <published>2026-03-07T00:00:00+08:00</published>
-        <author>
-            <name>Tw93</name>
-            <uri>https://tw93.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[连龙虾都不会装的人，怎么会用龙虾呢?]]></summary>
-    </entry>
-        <entry>
-        <title>朋友你好，现在是 200X 年夏天吗</title>
-        <id>148410</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1138/?utm_source=blogfinder" />
-        <published>2026-03-06T23:59:00+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[朋友你好，现在是 200X 年夏天吗]]></summary>
-    </entry>
-        <entry>
-        <title>折磨人啊</title>
-        <id>148411</id>
-        <link href="https://www.luohuayu.cn/59.html?utm_source=blogfinder" />
-        <published>2026-03-06T23:07:00+08:00</published>
-        <author>
-            <name>落花雨记</name>
-            <uri>https://www.luohuayu.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[折磨人啊]]></summary>
     </entry>
     </feed>
