@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-09T13:00:25+08:00</updated>
+    <updated>2026-03-09T14:03:14+08:00</updated>
+        <entry>
+        <title>群晖 NAS 影音终极方案：Docker Rclone + OpenList 完美挂载 Plex 全攻略</title>
+        <id>148507</id>
+        <link href="https://wuqishi.com/synology-nas-audio-and-video-ultimate-solution-docker-rclone-openlist-perfect-mounting-plex/?utm_source=blogfinder" />
+        <published>2026-03-09T12:55:00+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[群晖 NAS 影音终极方案：Docker Rclone + OpenList 完美挂载 Plex 全攻略]]></summary>
+    </entry>
         <entry>
         <title>【景点篇】成都东郊记忆</title>
         <id>148503</id>
@@ -275,6 +286,17 @@
             <uri>https://lawtee.com</uri>
         </author>
         <summary type="text"><![CDATA[9年没用iPhone，如今再上手，我感觉已经不会用了]]></summary>
+    </entry>
+        <entry>
+        <title>从对话到知识：AI Agent 记忆系统的设计与实现</title>
+        <id>148506</id>
+        <link href="https://www.luozhiyun.com/archives/911?utm_source=blogfinder" />
+        <published>2026-03-08T16:07:08+08:00</published>
+        <author>
+            <name>luozhiyun`s Blog</name>
+            <uri>https://www.luozhiyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[从对话到知识：AI Agent 记忆系统的设计与实现]]></summary>
     </entry>
         <entry>
         <title>Vol.93 AI领域深度洞察：从智能体演进到设计变革与人生战略</title>
@@ -1078,16 +1100,5 @@
             <uri>https://www.evan.xin</uri>
         </author>
         <summary type="text"><![CDATA[AI 上战场？这档播客扒清了 Claude 参战的真相]]></summary>
-    </entry>
-        <entry>
-        <title>认知的远点</title>
-        <id>148358</id>
-        <link href="https://kaix.in/2026/0306/?utm_source=blogfinder" />
-        <published>2026-03-06T13:50:10+08:00</published>
-        <author>
-            <name>KAIX.IN</name>
-            <uri>https://kaix.in</uri>
-        </author>
-        <summary type="text"><![CDATA[认知的远点]]></summary>
     </entry>
     </feed>
