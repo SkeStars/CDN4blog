@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-10T11:00:28+08:00</updated>
+    <updated>2026-03-10T12:00:21+08:00</updated>
         <entry>
         <title>不怎么好摸鱼了啊</title>
         <id>148684</id>
@@ -33,6 +33,17 @@
             <uri>https://www.jfsay.com</uri>
         </author>
         <summary type="text"><![CDATA[使用Cloudflare R2作为免费图床]]></summary>
+    </entry>
+        <entry>
+        <title>20250310</title>
+        <id>148685</id>
+        <link href="https://61.life/2026/0310?utm_source=blogfinder" />
+        <published>2026-03-10T08:49:03+08:00</published>
+        <author>
+            <name>61’s life</name>
+            <uri>https://61.life</uri>
+        </author>
+        <summary type="text"><![CDATA[20250310]]></summary>
     </entry>
         <entry>
         <title>AI 不只是聊天：小龙虾背后的范式变化</title>
@@ -88,6 +99,17 @@
             <uri>https://zhujay.com</uri>
         </author>
         <summary type="text"><![CDATA[花开正好，人已中年]]></summary>
+    </entry>
+        <entry>
+        <title>26学1周杂记</title>
+        <id>148692</id>
+        <link href="https://nxxy335.top/archives/9P0WgoZG?utm_source=blogfinder" />
+        <published>2026-03-09T22:57:14+08:00</published>
+        <author>
+            <name>暖心向阳</name>
+            <uri>https://nxxy335.top</uri>
+        </author>
+        <summary type="text"><![CDATA[26学1周杂记]]></summary>
     </entry>
         <entry>
         <title>元宵节之后，再无不奋斗的理由</title>
@@ -189,6 +211,17 @@
         <summary type="text"><![CDATA[忍痛割爱“负优化”腾讯云！年付不到200元，我换到了这台“真香”的香港前端机]]></summary>
     </entry>
         <entry>
+        <title>汇丰中国信用卡权益</title>
+        <id>148686</id>
+        <link href="https://retire50blog.wang/invest/%e6%b1%87%e4%b8%b0%e4%b8%ad%e5%9b%bd%e4%bf%a1%e7%94%a8%e5%8d%a1%e6%9d%83%e7%9b%8a.html?utm_source=blogfinder" />
+        <published>2026-03-09T15:38:38+08:00</published>
+        <author>
+            <name>个人工作记录</name>
+            <uri>https://retire50blog.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[汇丰中国信用卡权益]]></summary>
+    </entry>
+        <entry>
         <title>Mission Planner地面站模拟飞行和MAVLINK消息UDP转发</title>
         <id>148522</id>
         <link href="https://xtxcool.com/archives/mission-plannerdi-mian-zhan-mo-ni-fei-xing-he-mavlinkxiao-xi-udpzhuan-fa?utm_source=blogfinder" />
@@ -209,6 +242,17 @@
             <uri>https://blog.clearligh.top</uri>
         </author>
         <summary type="text"><![CDATA[VSCode 插件、主题、字体分享]]></summary>
+    </entry>
+        <entry>
+        <title>使用 git-pkgs 管理你的历史包依赖</title>
+        <id>148689</id>
+        <link href="https://blog.liuzhen932.top/posts/git-pkgs-package-dependency-management/?utm_source=blogfinder" />
+        <published>2026-03-09T14:25:37+08:00</published>
+        <author>
+            <name>liuzhen932 的小窝</name>
+            <uri>https://blog.liuzhen932.top</uri>
+        </author>
+        <summary type="text"><![CDATA[使用 git-pkgs 管理你的历史包依赖]]></summary>
     </entry>
         <entry>
         <title>自然风景Win10主题安装包 v1.0</title>
@@ -275,6 +319,17 @@
             <uri>https://liuqingwushui.top</uri>
         </author>
         <summary type="text"><![CDATA[【景点篇】成都东郊记忆]]></summary>
+    </entry>
+        <entry>
+        <title>OpenClaw 配置多 Agents</title>
+        <id>148687</id>
+        <link href="https://www.zywvvd.com/notes/study/llm/openclaw-multi-agents/openclaw-multi-agents/?utm_source=blogfinder" />
+        <published>2026-03-09T11:09:43+08:00</published>
+        <author>
+            <name>又见苍岚</name>
+            <uri>https://www.zywvvd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenClaw 配置多 Agents]]></summary>
     </entry>
         <entry>
         <title>3月周记二</title>
