@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-10T18:00:44+08:00</updated>
+    <updated>2026-03-10T19:01:03+08:00</updated>
         <entry>
         <title>国内油价迎来大暴涨，油车该何去何从</title>
         <id>148704</id>
@@ -44,6 +44,17 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 5 Einstein 场方程]]></summary>
+    </entry>
+        <entry>
+        <title>重要提醒！工信部提示OpenClaw安全隐患</title>
+        <id>148708</id>
+        <link href="https://www.zhyok.cn/index.php/archives/260/?utm_source=blogfinder" />
+        <published>2026-03-10T14:47:00+08:00</published>
+        <author>
+            <name>秋記 Autumn</name>
+            <uri>https://www.zhyok.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[重要提醒！工信部提示OpenClaw安全隐患]]></summary>
     </entry>
         <entry>
         <title>一个插件让你在 Obsidian 画思维导图</title>
@@ -1166,38 +1177,5 @@
             <uri>https://justgoidea.com</uri>
         </author>
         <summary type="text"><![CDATA[AI 时代的人类处境：科技、宗教与生命意义的重构]]></summary>
-    </entry>
-        <entry>
-        <title>xTools：一个更适合日常维护的 WordPress 工具集插件</title>
-        <id>148655</id>
-        <link href="https://xifeng.net/wordpress/xtools/?utm_source=blogfinder" />
-        <published>2026-03-07T18:58:44+08:00</published>
-        <author>
-            <name>西城往事</name>
-            <uri>https://xifeng.net</uri>
-        </author>
-        <summary type="text"><![CDATA[xTools：一个更适合日常维护的 WordPress 工具集插件]]></summary>
-    </entry>
-        <entry>
-        <title>几处早樱</title>
-        <id>148426</id>
-        <link href="https://airy.ink/daily/429?utm_source=blogfinder" />
-        <published>2026-03-07T18:49:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[几处早樱]]></summary>
-    </entry>
-        <entry>
-        <title>做了一个适合于上班摸鱼玩的小游戏</title>
-        <id>148425</id>
-        <link href="https://jyblog.cn/4999/?utm_source=blogfinder" />
-        <published>2026-03-07T18:42:02+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[做了一个适合于上班摸鱼玩的小游戏]]></summary>
     </entry>
     </feed>
