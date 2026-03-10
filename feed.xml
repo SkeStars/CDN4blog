@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-10T21:01:01+08:00</updated>
+    <updated>2026-03-10T23:00:37+08:00</updated>
+        <entry>
+        <title>Lesson 3 动物的感知</title>
+        <id>148716</id>
+        <link href="https://physnya.top/animal-behavior/lesson-3-senses/?utm_source=blogfinder" />
+        <published>2026-03-10T21:00:05+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 3 动物的感知]]></summary>
+    </entry>
+        <entry>
+        <title>让博客的代码高亮适配主题</title>
+        <id>148715</id>
+        <link href="https://taxodium.ink/adapt-code-highlighting-to-the-blog-theme.html?utm_source=blogfinder" />
+        <published>2026-03-10T21:00:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[让博客的代码高亮适配主题]]></summary>
+    </entry>
+        <entry>
+        <title>WordPress 优化 – 把博客的图片挂载到免费的 Cloudflare R2 储存桶</title>
+        <id>148713</id>
+        <link href="https://wuminboke.site/uncategorized/wordpress-offload-images-to-cloudflare-r2-bucket-for-free/?utm_source=blogfinder" />
+        <published>2026-03-10T19:31:52+08:00</published>
+        <author>
+            <name>无名博客</name>
+            <uri>https://wuminboke.site</uri>
+        </author>
+        <summary type="text"><![CDATA[WordPress 优化 – 把博客的图片挂载到免费的 Cloudflare R2 储存桶]]></summary>
+    </entry>
+        <entry>
+        <title>我为什么要买小米股票：一个深度用户的选择</title>
+        <id>148717</id>
+        <link href="https://krya.com/archives/1323.html?utm_source=blogfinder" />
+        <published>2026-03-10T17:07:00+08:00</published>
+        <author>
+            <name>KRYA</name>
+            <uri>https://krya.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我为什么要买小米股票：一个深度用户的选择]]></summary>
+    </entry>
+        <entry>
+        <title>「十日后」Vol.1 · 起点</title>
+        <id>148712</id>
+        <link href="https://www.suiyan.cc/blog/20260310082211?utm_source=blogfinder" />
+        <published>2026-03-10T16:22:11+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[「十日后」Vol.1 · 起点]]></summary>
+    </entry>
         <entry>
         <title>国内油价迎来大暴涨，油车该何去何从</title>
         <id>148704</id>
@@ -121,6 +176,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[上帝与他的班子的日常]]></summary>
+    </entry>
+        <entry>
+        <title>OpenClaw中文版Windows下部署运行教程 - 属于你的超级龙虾打工人</title>
+        <id>148714</id>
+        <link href="https://songxwn.com/openclaw-cn-install/?utm_source=blogfinder" />
+        <published>2026-03-10T09:35:52+08:00</published>
+        <author>
+            <name>Song&#039;s Blog</name>
+            <uri>https://songxwn.com</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenClaw中文版Windows下部署运行教程 - 属于你的超级龙虾打工人]]></summary>
     </entry>
         <entry>
         <title>不怎么好摸鱼了啊</title>
@@ -1144,38 +1210,5 @@
             <uri>https://vnyzm.top</uri>
         </author>
         <summary type="text"><![CDATA[我的周边（谷子）分享]]></summary>
-    </entry>
-        <entry>
-        <title>求助｜博客迁移 + 低价服务器推荐</title>
-        <id>148514</id>
-        <link href="https://blog.veitzn.top/archives/1991?utm_source=blogfinder" />
-        <published>2026-03-07T22:57:50+08:00</published>
-        <author>
-            <name>Veitzn 的小屋</name>
-            <uri>https://blog.veitzn.top</uri>
-        </author>
-        <summary type="text"><![CDATA[求助｜博客迁移 + 低价服务器推荐]]></summary>
-    </entry>
-        <entry>
-        <title>用最先进的技术找最原始的习惯</title>
-        <id>148459</id>
-        <link href="https://xuerback.com/archives/12/?utm_source=blogfinder" />
-        <published>2026-03-07T22:42:35+08:00</published>
-        <author>
-            <name>默默留叙</name>
-            <uri>https://xuerback.com</uri>
-        </author>
-        <summary type="text"><![CDATA[用最先进的技术找最原始的习惯]]></summary>
-    </entry>
-        <entry>
-        <title>【也闲谈·第四季】三：熊猫与莎士比亚，冥想与战国，要做一个什么样的人</title>
-        <id>148443</id>
-        <link href="http://www.qncd.com/?p=12532&amp;utm_source=blogfinder" />
-        <published>2026-03-07T22:14:09+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【也闲谈·第四季】三：熊猫与莎士比亚，冥想与战国，要做一个什么样的人]]></summary>
     </entry>
     </feed>
