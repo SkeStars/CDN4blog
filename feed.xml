@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-10T23:00:37+08:00</updated>
+    <updated>2026-03-11T00:00:45+08:00</updated>
+        <entry>
+        <title>关于偶遇的巧合 III</title>
+        <id>148719</id>
+        <link href="https://blog.solazy.me/20260310/?utm_source=blogfinder" />
+        <published>2026-03-10T22:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[关于偶遇的巧合 III]]></summary>
+    </entry>
         <entry>
         <title>Lesson 3 动物的感知</title>
         <id>148716</id>
@@ -1199,16 +1210,5 @@
             <uri>https://blog.17lai.site</uri>
         </author>
         <summary type="text"><![CDATA[作为开发者为什么你必须学习开源Linux？]]></summary>
-    </entry>
-        <entry>
-        <title>我的周边（谷子）分享</title>
-        <id>148485</id>
-        <link href="https://vnyzm.top/html/%E6%88%91%E7%9A%84%E5%91%A8%E8%BE%B9%EF%BC%88%E8%B0%B7%E5%AD%90%EF%BC%89%E5%88%86%E4%BA%AB.html?utm_source=blogfinder" />
-        <published>2026-03-08T00:00:00+08:00</published>
-        <author>
-            <name>VnYzm 的博客</name>
-            <uri>https://vnyzm.top</uri>
-        </author>
-        <summary type="text"><![CDATA[我的周边（谷子）分享]]></summary>
     </entry>
     </feed>
