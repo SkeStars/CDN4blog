@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-10T17:00:43+08:00</updated>
+    <updated>2026-03-10T18:00:44+08:00</updated>
+        <entry>
+        <title>国内油价迎来大暴涨，油车该何去何从</title>
+        <id>148704</id>
+        <link href="https://www.aiwazi.com/2922.html?utm_source=blogfinder" />
+        <published>2026-03-10T15:52:47+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[国内油价迎来大暴涨，油车该何去何从]]></summary>
+    </entry>
         <entry>
         <title>千万级 Mysql 表结构变更实战</title>
         <id>148701</id>
@@ -44,6 +55,17 @@
             <uri>https://ssshooter.com</uri>
         </author>
         <summary type="text"><![CDATA[一个插件让你在 Obsidian 画思维导图]]></summary>
+    </entry>
+        <entry>
+        <title>对于闲不下来的上一辈人，失业了真的很难接受吗？</title>
+        <id>148705</id>
+        <link href="https://zhoutian.com/353.html?utm_source=blogfinder" />
+        <published>2026-03-10T13:42:26+08:00</published>
+        <author>
+            <name>周天记</name>
+            <uri>https://zhoutian.com</uri>
+        </author>
+        <summary type="text"><![CDATA[对于闲不下来的上一辈人，失业了真的很难接受吗？]]></summary>
     </entry>
         <entry>
         <title>A* 算法及其变种详解</title>
@@ -156,6 +178,17 @@
         <summary type="text"><![CDATA[随思 - 2026-03-09]]></summary>
     </entry>
         <entry>
+        <title>大模型推理资源需求计算及使用场景示例</title>
+        <id>148703</id>
+        <link href="https://chegva.com/6627.html?utm_source=blogfinder" />
+        <published>2026-03-10T01:43:45+08:00</published>
+        <author>
+            <name>安志合的学习博客</name>
+            <uri>https://chegva.com</uri>
+        </author>
+        <summary type="text"><![CDATA[大模型推理资源需求计算及使用场景示例]]></summary>
+    </entry>
+        <entry>
         <title>拔第二颗智齿</title>
         <id>148698</id>
         <link href="https://dujun.io/i-got-my-second-wisdom-tooth-extracted.html?utm_source=blogfinder" />
@@ -165,6 +198,28 @@
             <uri>https://dujun.io</uri>
         </author>
         <summary type="text"><![CDATA[拔第二颗智齿]]></summary>
+    </entry>
+        <entry>
+        <title>How to Automatically Track Newly Supported ESLint Rules in Oxlint</title>
+        <id>148706</id>
+        <link href="https://howiehz.top/archives/eslint-migration-auto-track-oxlint-rules-en?utm_source=blogfinder" />
+        <published>2026-03-09T23:57:04+08:00</published>
+        <author>
+            <name>皓子的小站</name>
+            <uri>https://howiehz.top</uri>
+        </author>
+        <summary type="text"><![CDATA[How to Automatically Track Newly Supported ESLint Rules in Oxlint]]></summary>
+    </entry>
+        <entry>
+        <title>How to Gradually Migrate from ESLint to Oxlint (Without Breaking Everything)</title>
+        <id>148707</id>
+        <link href="https://howiehz.top/archives/eslint-to-oxlint-gradual-migration-guide-en?utm_source=blogfinder" />
+        <published>2026-03-09T23:49:44+08:00</published>
+        <author>
+            <name>皓子的小站</name>
+            <uri>https://howiehz.top</uri>
+        </author>
+        <summary type="text"><![CDATA[How to Gradually Migrate from ESLint to Oxlint (Without Breaking Everything)]]></summary>
     </entry>
         <entry>
         <title>第二次行为艺术——耗时 88 天美团提现 50 元</title>
@@ -1144,49 +1199,5 @@
             <uri>https://jyblog.cn</uri>
         </author>
         <summary type="text"><![CDATA[做了一个适合于上班摸鱼玩的小游戏]]></summary>
-    </entry>
-        <entry>
-        <title>生活应该向哪看？</title>
-        <id>148423</id>
-        <link href="https://d-d.design/single/18288?utm_source=blogfinder" />
-        <published>2026-03-07T17:56:40+08:00</published>
-        <author>
-            <name>孤斗</name>
-            <uri>https://d-d.design</uri>
-        </author>
-        <summary type="text"><![CDATA[生活应该向哪看？]]></summary>
-    </entry>
-        <entry>
-        <title>2026.3.7</title>
-        <id>148413</id>
-        <link href="https://www.justzht.com/2026-3-7/?utm_source=blogfinder" />
-        <published>2026-03-07T17:45:10+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.3.7]]></summary>
-    </entry>
-        <entry>
-        <title>在家打印高质量证件照</title>
-        <id>148419</id>
-        <link href="https://me.xu19.com/%e5%9c%a8%e5%ae%b6%e6%89%93%e5%8d%b0%e9%ab%98%e8%b4%a8%e9%87%8f%e8%af%81%e4%bb%b6%e7%85%a7/?utm_source=blogfinder" />
-        <published>2026-03-07T17:25:18+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[在家打印高质量证件照]]></summary>
-    </entry>
-        <entry>
-        <title>千问38节领无门槛立减红包</title>
-        <id>148428</id>
-        <link href="https://ygz.ink/archives/4480.html?utm_source=blogfinder" />
-        <published>2026-03-07T17:16:07+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[千问38节领无门槛立减红包]]></summary>
     </entry>
     </feed>
