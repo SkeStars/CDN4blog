@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-11T19:02:45+08:00</updated>
+    <updated>2026-03-11T21:00:53+08:00</updated>
         <entry>
         <title>利用 n8n 工作流实现定时检测友链状态</title>
         <id>148954</id>
@@ -1276,82 +1276,5 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[冬至（77、78/81）：回归上海市区、克服一点不适应思绪]]></summary>
-    </entry>
-        <entry>
-        <title>周末流水账 0308</title>
-        <id>148469</id>
-        <link href="https://blog.solazy.me/20260308/?utm_source=blogfinder" />
-        <published>2026-03-08T21:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[周末流水账 0308]]></summary>
-    </entry>
-        <entry>
-        <title>最近惦念 20260213</title>
-        <id>148487</id>
-        <link href="https://z.arlmy.me/posts/TILs/thoughts/20260213_Recently/?utm_source=blogfinder" />
-        <published>2026-03-08T20:57:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[最近惦念 20260213]]></summary>
-    </entry>
-        <entry>
-        <title>Toots 409 2026 Mar.1 - Mar.7</title>
-        <id>148488</id>
-        <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260307/?utm_source=blogfinder" />
-        <published>2026-03-08T20:51:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[Toots 409 2026 Mar.1 - Mar.7]]></summary>
-    </entry>
-        <entry>
-        <title>信息的战场之传播媒介进化史</title>
-        <id>148510</id>
-        <link href="https://blog.17lai.site/posts/1707f76d/?utm_source=blogfinder" />
-        <published>2026-03-08T20:39:24+08:00</published>
-        <author>
-            <name>夜法之书</name>
-            <uri>https://blog.17lai.site</uri>
-        </author>
-        <summary type="text"><![CDATA[信息的战场之传播媒介进化史]]></summary>
-    </entry>
-        <entry>
-        <title>AI帝国诞生的未来畅想</title>
-        <id>148511</id>
-        <link href="https://blog.17lai.site/posts/5a85325f/?utm_source=blogfinder" />
-        <published>2026-03-08T20:38:50+08:00</published>
-        <author>
-            <name>夜法之书</name>
-            <uri>https://blog.17lai.site</uri>
-        </author>
-        <summary type="text"><![CDATA[AI帝国诞生的未来畅想]]></summary>
-    </entry>
-        <entry>
-        <title>极客死亡计划书 V</title>
-        <id>148462</id>
-        <link href="https://www.geedea.pro/article/site-report-5/?utm_source=blogfinder" />
-        <published>2026-03-08T20:27:07+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[极客死亡计划书 V]]></summary>
-    </entry>
-        <entry>
-        <title>PDF/Office互转工具 Python教程</title>
-        <id>148467</id>
-        <link href="https://xn--otsr53afot.com/posts/pdf-office-converter-python-tutorial/?utm_source=blogfinder" />
-        <published>2026-03-08T20:01:00+08:00</published>
-        <author>
-            <name>老朝奉</name>
-            <uri>https://xn--otsr53afot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[PDF/Office互转工具 Python教程]]></summary>
     </entry>
     </feed>
