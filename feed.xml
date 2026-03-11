@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-11T23:00:45+08:00</updated>
+    <updated>2026-03-12T00:00:20+08:00</updated>
+        <entry>
+        <title>随思 - 2026-03-11</title>
+        <id>148968</id>
+        <link href="http://qthinker.net/content/63?utm_source=blogfinder" />
+        <published>2026-03-11T23:10:49+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[随思 - 2026-03-11]]></summary>
+    </entry>
+        <entry>
+        <title>梦</title>
+        <id>148970</id>
+        <link href="https://yinji.org/dream.html?utm_source=blogfinder" />
+        <published>2026-03-11T22:58:38+08:00</published>
+        <author>
+            <name>印记</name>
+            <uri>https://yinji.org</uri>
+        </author>
+        <summary type="text"><![CDATA[梦]]></summary>
+    </entry>
+        <entry>
+        <title>小沙滩</title>
+        <id>148972</id>
+        <link href="https://ilogs.cn/2026/03/11/368.html?utm_source=blogfinder" />
+        <published>2026-03-11T22:52:07+08:00</published>
+        <author>
+            <name>我的日志</name>
+            <uri>https://ilogs.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[小沙滩]]></summary>
+    </entry>
         <entry>
         <title>MediaPages：一键在Cloudflare Pages存放媒体库</title>
         <id>148967</id>
@@ -77,6 +110,17 @@
             <uri>https://blog.moeworld.tech</uri>
         </author>
         <summary type="text"><![CDATA[关于Unity China偷偷更换了LTS的安装包的这档事]]></summary>
+    </entry>
+        <entry>
+        <title>提前还贷</title>
+        <id>148969</id>
+        <link href="https://dujun.io/d4b52e25-d184-53a9-877c-cb681562b045.html?utm_source=blogfinder" />
+        <published>2026-03-11T17:22:00+08:00</published>
+        <author>
+            <name>杜郎俊赏</name>
+            <uri>https://dujun.io</uri>
+        </author>
+        <summary type="text"><![CDATA[提前还贷]]></summary>
     </entry>
         <entry>
         <title>利用 n8n 工作流实现定时检测友链状态</title>
@@ -352,6 +396,17 @@
             <uri>https://feizhaojun.com</uri>
         </author>
         <summary type="text"><![CDATA[树犹如此：连树都这样…究竟是哪样？]]></summary>
+    </entry>
+        <entry>
+        <title>第一课：JavaScript发家史——一个“临时工”如何逆袭成宇宙级顶流？</title>
+        <id>148971</id>
+        <link href="http://aboss.top/js-101-history/?utm_source=blogfinder" />
+        <published>2026-03-10T22:51:00+08:00</published>
+        <author>
+            <name>三毛笔记</name>
+            <uri>https://aboss.top</uri>
+        </author>
+        <summary type="text"><![CDATA[第一课：JavaScript发家史——一个“临时工”如何逆袭成宇宙级顶流？]]></summary>
     </entry>
         <entry>
         <title>让你验证请求来自 CF —— Authenticated Origin Pulls 攻略</title>
@@ -1276,16 +1331,5 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[稻草人周刊 Vol.71]]></summary>
-    </entry>
-        <entry>
-        <title>2026年12个免费使用 Nano Banana 2 的渠道，亲测有用</title>
-        <id>148516</id>
-        <link href="https://www.wangdu.site/software/ai/2320.html?utm_source=blogfinder" />
-        <published>2026-03-08T23:16:38+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[2026年12个免费使用 Nano Banana 2 的渠道，亲测有用]]></summary>
     </entry>
     </feed>
