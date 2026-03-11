@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-11T17:04:44+08:00</updated>
+    <updated>2026-03-11T18:00:34+08:00</updated>
         <entry>
         <title>利用 n8n 工作流实现定时检测友链状态</title>
         <id>148954</id>
@@ -33,6 +33,28 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[8848 和小龙虾]]></summary>
+    </entry>
+        <entry>
+        <title>soluna 外挂 C 模块</title>
+        <id>148957</id>
+        <link href="https://blog.codingnow.com/2026/03/soluna_external_lib.html?utm_source=blogfinder" />
+        <published>2026-03-11T14:49:58+08:00</published>
+        <author>
+            <name>云风的 BLOG</name>
+            <uri>https://blog.codingnow.com</uri>
+        </author>
+        <summary type="text"><![CDATA[soluna 外挂 C 模块]]></summary>
+    </entry>
+        <entry>
+        <title>从宝宝出生到现在吃的罐罐口粮</title>
+        <id>148959</id>
+        <link href="https://www.aiwazi.com/2930.html?utm_source=blogfinder" />
+        <published>2026-03-11T14:33:33+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[从宝宝出生到现在吃的罐罐口粮]]></summary>
     </entry>
         <entry>
         <title>二十七年前的家书，信封里的慢时光</title>
@@ -200,6 +222,17 @@
         <summary type="text"><![CDATA[生產力 = 浪費多「少」時間]]></summary>
     </entry>
         <entry>
+        <title>全民养虾时代，别着急养&quot;龙虾&quot;</title>
+        <id>148960</id>
+        <link href="https://www.aiwazi.com/2925.html?utm_source=blogfinder" />
+        <published>2026-03-11T06:28:32+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[全民养虾时代，别着急养&quot;龙虾&quot;]]></summary>
+    </entry>
+        <entry>
         <title>生殖的诅咒与无字真经</title>
         <id>148806</id>
         <link href="https://www.infinite.moe/posts/1-894b77cf?utm_source=blogfinder" />
@@ -209,6 +242,17 @@
             <uri>https://www.infinite.moe</uri>
         </author>
         <summary type="text"><![CDATA[生殖的诅咒与无字真经]]></summary>
+    </entry>
+        <entry>
+        <title>macOS安装龙虾OpenClaw</title>
+        <id>148958</id>
+        <link href="https://chegva.com/6676.html?utm_source=blogfinder" />
+        <published>2026-03-11T01:23:40+08:00</published>
+        <author>
+            <name>安志合的学习博客</name>
+            <uri>https://chegva.com</uri>
+        </author>
+        <summary type="text"><![CDATA[macOS安装龙虾OpenClaw]]></summary>
     </entry>
         <entry>
         <title>Webmention 简明指南</title>
@@ -1320,16 +1364,5 @@
             <uri>https://ltmltm.cn/bk</uri>
         </author>
         <summary type="text"><![CDATA[复查]]></summary>
-    </entry>
-        <entry>
-        <title>如何将 Spring Statemachine 作为一个轻量级工作流引擎来使用？</title>
-        <id>148471</id>
-        <link href="https://leileiluoluo.com/posts/spring-statemachine-as-a-lightweight-workflow-engine.html?utm_source=blogfinder" />
-        <published>2026-03-08T18:00:00+08:00</published>
-        <author>
-            <name>磊磊落落</name>
-            <uri>https://leileiluoluo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[如何将 Spring Statemachine 作为一个轻量级工作流引擎来使用？]]></summary>
     </entry>
     </feed>
