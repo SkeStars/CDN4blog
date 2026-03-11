@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-11T16:00:40+08:00</updated>
+    <updated>2026-03-11T17:04:44+08:00</updated>
+        <entry>
+        <title>利用 n8n 工作流实现定时检测友链状态</title>
+        <id>148954</id>
+        <link href="https://wuminboke.site/uncategorized/n8n-workflow-blogroll-site-health-check/?utm_source=blogfinder" />
+        <published>2026-03-11T15:25:25+08:00</published>
+        <author>
+            <name>无名博客</name>
+            <uri>https://wuminboke.site</uri>
+        </author>
+        <summary type="text"><![CDATA[利用 n8n 工作流实现定时检测友链状态]]></summary>
+    </entry>
+        <entry>
+        <title>8848 和小龙虾</title>
+        <id>148956</id>
+        <link href="https://blog.solazy.me/20260311/?utm_source=blogfinder" />
+        <published>2026-03-11T15:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[8848 和小龙虾]]></summary>
+    </entry>
         <entry>
         <title>二十七年前的家书，信封里的慢时光</title>
         <id>148948</id>
@@ -22,6 +44,17 @@
             <uri>https://cuixiping.com</uri>
         </author>
         <summary type="text"><![CDATA[二十七年前的家书，信封里的慢时光]]></summary>
+    </entry>
+        <entry>
+        <title>青龙面板报高危漏洞：可任意登录</title>
+        <id>148953</id>
+        <link href="https://dujun.io/6e6cb299-49b9-5c04-9978-e61027b6ebbb.html?utm_source=blogfinder" />
+        <published>2026-03-11T11:45:00+08:00</published>
+        <author>
+            <name>杜郎俊赏</name>
+            <uri>https://dujun.io</uri>
+        </author>
+        <summary type="text"><![CDATA[青龙面板报高危漏洞：可任意登录]]></summary>
     </entry>
         <entry>
         <title>Lesson 5 Landau 相变理论</title>
@@ -209,6 +242,17 @@
             <uri>https://blog.samhou.moe</uri>
         </author>
         <summary type="text"><![CDATA[让你验证请求来自 CF —— Authenticated Origin Pulls 攻略]]></summary>
+    </entry>
+        <entry>
+        <title>从 SP 银狼不叫狼尊，而叫 银狼 LV.999 说起</title>
+        <id>148955</id>
+        <link href="https://sliun.com/swlv999/?utm_source=blogfinder" />
+        <published>2026-03-10T22:00:00+08:00</published>
+        <author>
+            <name>理论派</name>
+            <uri>https://lilun.bearblog.dev</uri>
+        </author>
+        <summary type="text"><![CDATA[从 SP 银狼不叫狼尊，而叫 银狼 LV.999 说起]]></summary>
     </entry>
         <entry>
         <title>关于偶遇的巧合 III</title>
@@ -1287,60 +1331,5 @@
             <uri>https://leileiluoluo.com</uri>
         </author>
         <summary type="text"><![CDATA[如何将 Spring Statemachine 作为一个轻量级工作流引擎来使用？]]></summary>
-    </entry>
-        <entry>
-        <title>辣鸡云闪付，谁教你这么搞活动的？</title>
-        <id>148457</id>
-        <link href="https://ssshooter.com/unionpay-sucks/?utm_source=blogfinder" />
-        <published>2026-03-08T16:46:39+08:00</published>
-        <author>
-            <name>Usubeni Fantasy</name>
-            <uri>https://ssshooter.com</uri>
-        </author>
-        <summary type="text"><![CDATA[辣鸡云闪付，谁教你这么搞活动的？]]></summary>
-    </entry>
-        <entry>
-        <title>【与Mondo同行·第四季】1：勇猛精进</title>
-        <id>148453</id>
-        <link href="http://www.qncd.com/?p=12535&amp;utm_source=blogfinder" />
-        <published>2026-03-08T16:32:47+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【与Mondo同行·第四季】1：勇猛精进]]></summary>
-    </entry>
-        <entry>
-        <title>SpCat：全新的AI截图+识别工具</title>
-        <id>148474</id>
-        <link href="https://bi1vmm.cn/index.php/archives/91/?utm_source=blogfinder" />
-        <published>2026-03-08T16:28:00+08:00</published>
-        <author>
-            <name>喂猫猫</name>
-            <uri>https://bi1vmm.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[SpCat：全新的AI截图+识别工具]]></summary>
-    </entry>
-        <entry>
-        <title>9年没用iPhone，如今再上手，我感觉已经不会用了</title>
-        <id>148499</id>
-        <link href="https://lawtee.com/article/relearning-iphone-after-9-years/?utm_source=blogfinder" />
-        <published>2026-03-08T16:20:00+08:00</published>
-        <author>
-            <name>老 T 博客</name>
-            <uri>https://lawtee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[9年没用iPhone，如今再上手，我感觉已经不会用了]]></summary>
-    </entry>
-        <entry>
-        <title>从对话到知识：AI Agent 记忆系统的设计与实现</title>
-        <id>148506</id>
-        <link href="https://www.luozhiyun.com/archives/911?utm_source=blogfinder" />
-        <published>2026-03-08T16:07:08+08:00</published>
-        <author>
-            <name>luozhiyun`s Blog</name>
-            <uri>https://www.luozhiyun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[从对话到知识：AI Agent 记忆系统的设计与实现]]></summary>
     </entry>
     </feed>
