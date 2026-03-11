@@ -11,7 +11,73 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-11T21:00:53+08:00</updated>
+    <updated>2026-03-11T23:00:45+08:00</updated>
+        <entry>
+        <title>MediaPages：一键在Cloudflare Pages存放媒体库</title>
+        <id>148967</id>
+        <link href="https://www.nekopara.uk/archives/MediaPages.html?utm_source=blogfinder" />
+        <published>2026-03-11T22:34:38+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[MediaPages：一键在Cloudflare Pages存放媒体库]]></summary>
+    </entry>
+        <entry>
+        <title>当原型都能直接交付了，谁还会为中间态买单</title>
+        <id>148965</id>
+        <link href="https://www.tortorse.com/archives/who-will-pay-for-intermediate-artifacts/?utm_source=blogfinder" />
+        <published>2026-03-11T22:27:44+08:00</published>
+        <author>
+            <name>愆伏</name>
+            <uri>https://www.tortorse.com</uri>
+        </author>
+        <summary type="text"><![CDATA[当原型都能直接交付了，谁还会为中间态买单]]></summary>
+    </entry>
+        <entry>
+        <title>泡沫与剃须刀</title>
+        <id>148964</id>
+        <link href="https://onojyun.com/2026/03/11/shaving-foam-and-razors/?utm_source=blogfinder" />
+        <published>2026-03-11T22:08:01+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://onojyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[泡沫与剃须刀]]></summary>
+    </entry>
+        <entry>
+        <title>巨坑？OpenClaw+Ollama+Qwen3.5:9b竟然无法读取本地文件!</title>
+        <id>148961</id>
+        <link href="https://www.suiyan.cc/blog/20260311125316?utm_source=blogfinder" />
+        <published>2026-03-11T20:53:16+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[巨坑？OpenClaw+Ollama+Qwen3.5:9b竟然无法读取本地文件!]]></summary>
+    </entry>
+        <entry>
+        <title>不值得可怜</title>
+        <id>148963</id>
+        <link href="https://ihaihe.cn/3524.htm?utm_source=blogfinder" />
+        <published>2026-03-11T18:28:53+08:00</published>
+        <author>
+            <name>三十里海河</name>
+            <uri>https://ihaihe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[不值得可怜]]></summary>
+    </entry>
+        <entry>
+        <title>关于Unity China偷偷更换了LTS的安装包的这档事</title>
+        <id>148966</id>
+        <link href="https://blog.moeworld.tech/2026/03/11/%e5%85%b3%e4%ba%8eunity-china%e5%81%b7%e5%81%b7%e6%9b%b4%e6%8d%a2%e4%ba%86lts%e7%9a%84%e5%ae%89%e8%a3%85%e5%8c%85%e7%9a%84%e8%bf%99%e6%a1%a3%e4%ba%8b/?utm_source=blogfinder" />
+        <published>2026-03-11T17:49:38+08:00</published>
+        <author>
+            <name>晓空 Blog</name>
+            <uri>https://blog.moeworld.tech</uri>
+        </author>
+        <summary type="text"><![CDATA[关于Unity China偷偷更换了LTS的安装包的这档事]]></summary>
+    </entry>
         <entry>
         <title>利用 n8n 工作流实现定时检测友链状态</title>
         <id>148954</id>
@@ -176,6 +242,17 @@
             <uri>https://chrison.cn</uri>
         </author>
         <summary type="text"><![CDATA[【Typecho插件】Blog Helper一款可以一键同步微信运动、快速发布说说|时光机|碎语|日记|心情|文章的插件]]></summary>
+    </entry>
+        <entry>
+        <title>VMware VCSA 8 修改主机名和重置证书</title>
+        <id>148962</id>
+        <link href="https://songxwn.com/vcsa8-resetCA/?utm_source=blogfinder" />
+        <published>2026-03-11T08:18:20+08:00</published>
+        <author>
+            <name>Song&#039;s Blog</name>
+            <uri>https://songxwn.com</uri>
+        </author>
+        <summary type="text"><![CDATA[VMware VCSA 8 修改主机名和重置证书]]></summary>
     </entry>
         <entry>
         <title>尝试了一下最近很火的openclaw</title>
@@ -1210,71 +1287,5 @@
             <uri>https://www.wangdu.site</uri>
         </author>
         <summary type="text"><![CDATA[2026年12个免费使用 Nano Banana 2 的渠道，亲测有用]]></summary>
-    </entry>
-        <entry>
-        <title>我用 OpenClaw 干了这些事</title>
-        <id>148475</id>
-        <link href="https://krya.com/archives/1319.html?utm_source=blogfinder" />
-        <published>2026-03-08T22:53:00+08:00</published>
-        <author>
-            <name>KRYA</name>
-            <uri>https://krya.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我用 OpenClaw 干了这些事]]></summary>
-    </entry>
-        <entry>
-        <title>WebRTC IP 泄露问题</title>
-        <id>148460</id>
-        <link href="https://blog.devtang.com/2026/03/08/WebRTC-ip-leak/?utm_source=blogfinder" />
-        <published>2026-03-08T22:37:28+08:00</published>
-        <author>
-            <name>唐巧的博客</name>
-            <uri>http://blog.devtang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[WebRTC IP 泄露问题]]></summary>
-    </entry>
-        <entry>
-        <title>记录一下迁移服务器需要使用的一些命令</title>
-        <id>148524</id>
-        <link href="https://nicksxs.me/2026/03/08/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E8%BF%81%E7%A7%BB%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%9C%80%E8%A6%81%E4%BD%BF%E7%94%A8%E7%9A%84%E4%B8%80%E4%BA%9B%E5%91%BD%E4%BB%A4/?utm_source=blogfinder" />
-        <published>2026-03-08T22:37:19+08:00</published>
-        <author>
-            <name>Nicksxs&#039;s Blog</name>
-            <uri>https://nicksxs.me</uri>
-        </author>
-        <summary type="text"><![CDATA[记录一下迁移服务器需要使用的一些命令]]></summary>
-    </entry>
-        <entry>
-        <title>为什么偏偏是“左耳进，右耳出”</title>
-        <id>148517</id>
-        <link href="https://www.edony.ink/why-does-left-come-before-right/?utm_source=blogfinder" />
-        <published>2026-03-08T22:10:43+08:00</published>
-        <author>
-            <name>Shadow Walker</name>
-            <uri>https://www.edony.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么偏偏是“左耳进，右耳出”]]></summary>
-    </entry>
-        <entry>
-        <title>国际劳动妇女节快乐</title>
-        <id>148468</id>
-        <link href="https://blog.kfdzcoffee.cn/archives/IWD-2026?utm_source=blogfinder" />
-        <published>2026-03-08T22:04:33+08:00</published>
-        <author>
-            <name>咖啡豆子 coffee 的小站</name>
-            <uri>https://blog.kfdzcoffee.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[国际劳动妇女节快乐]]></summary>
-    </entry>
-        <entry>
-        <title>冬至（77、78/81）：回归上海市区、克服一点不适应思绪</title>
-        <id>148461</id>
-        <link href="https://blog.mcenahle.org.cn/2026/03/08/439.html?utm_source=blogfinder" />
-        <published>2026-03-08T22:04:00+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[冬至（77、78/81）：回归上海市区、克服一点不适应思绪]]></summary>
     </entry>
     </feed>
