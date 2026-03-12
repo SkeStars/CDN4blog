@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-12T13:00:58+08:00</updated>
+    <updated>2026-03-12T14:03:13+08:00</updated>
         <entry>
         <title>《重生之我在阿里养&amp;quot;龙虾&amp;quot;Ⅱ》</title>
         <id>149249</id>
@@ -22,6 +22,17 @@
             <uri>https://liuqingwushui.top</uri>
         </author>
         <summary type="text"><![CDATA[《重生之我在阿里养&amp;quot;龙虾&amp;quot;Ⅱ》]]></summary>
+    </entry>
+        <entry>
+        <title>网页截图瞬间“赛博飞升”？手把手教你根治 Windows HDR 截图发白</title>
+        <id>149253</id>
+        <link href="https://wuqishi.com/fix-windows-hdr-screenshot-white/?utm_source=blogfinder" />
+        <published>2026-03-12T10:57:07+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[网页截图瞬间“赛博飞升”？手把手教你根治 Windows HDR 截图发白]]></summary>
     </entry>
         <entry>
         <title>你们带的什么品牌的智能手表？</title>
@@ -1397,16 +1408,5 @@
             <uri>https://blog.liuzhen932.top</uri>
         </author>
         <summary type="text"><![CDATA[使用 git-pkgs 管理你的历史包依赖]]></summary>
-    </entry>
-        <entry>
-        <title>自然风景Win10主题安装包 v1.0</title>
-        <id>148513</id>
-        <link href="https://jyblog.cn/5024/?utm_source=blogfinder" />
-        <published>2026-03-09T13:05:11+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[自然风景Win10主题安装包 v1.0]]></summary>
     </entry>
     </feed>
