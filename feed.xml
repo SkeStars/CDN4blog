@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-12T23:00:42+08:00</updated>
+    <updated>2026-03-13T00:00:22+08:00</updated>
         <entry>
         <title>谈谈，存在即合理</title>
         <id>149282</id>
@@ -55,6 +55,17 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[冬至系列完结]]></summary>
+    </entry>
+        <entry>
+        <title>久违的生活碎片记录</title>
+        <id>149288</id>
+        <link href="https://ssshooter.com/2026-03-12-diary/?utm_source=blogfinder" />
+        <published>2026-03-12T18:43:14+08:00</published>
+        <author>
+            <name>Usubeni Fantasy</name>
+            <uri>https://ssshooter.com</uri>
+        </author>
+        <summary type="text"><![CDATA[久违的生活碎片记录]]></summary>
     </entry>
         <entry>
         <title>外婆的甜酒</title>
@@ -121,6 +132,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[今天是下班最早的了]]></summary>
+    </entry>
+        <entry>
+        <title>豸山寺</title>
+        <id>149289</id>
+        <link href="http://www.yveji.com/Scenery/zhi-shan-si.html?utm_source=blogfinder" />
+        <published>2026-03-12T16:20:00+08:00</published>
+        <author>
+            <name>悦己</name>
+            <uri>http://www.yveji.com</uri>
+        </author>
+        <summary type="text"><![CDATA[豸山寺]]></summary>
     </entry>
         <entry>
         <title>Xiaomi 17 标准版刷机折腾记：解锁、官改ROM与必备模块</title>
@@ -387,6 +409,17 @@
         <summary type="text"><![CDATA[忍不住测量了一下]]></summary>
     </entry>
         <entry>
+        <title>3.5 秒的固定延迟问题</title>
+        <id>149287</id>
+        <link href="https://www.kawabangga.com/posts/7219?utm_source=blogfinder" />
+        <published>2026-03-12T04:53:31+08:00</published>
+        <author>
+            <name>卡瓦邦噶</name>
+            <uri>https://www.kawabangga.com</uri>
+        </author>
+        <summary type="text"><![CDATA[3.5 秒的固定延迟问题]]></summary>
+    </entry>
+        <entry>
         <title>Dify添加模型max_tokens_too_small异常</title>
         <id>149236</id>
         <link href="https://blog.yanqingshan.com/244.html?utm_source=blogfinder" />
@@ -528,6 +561,17 @@
             <uri>https://wangyurui.com</uri>
         </author>
         <summary type="text"><![CDATA[隐说 NO.15  官僚集团的运转逻辑]]></summary>
+    </entry>
+        <entry>
+        <title>AI Bridge 中转插件，适配 WordPress 7.0</title>
+        <id>149290</id>
+        <link href="https://xifeng.net/wordpress/global-ai-bridge-wp-plugins/?utm_source=blogfinder" />
+        <published>2026-03-11T22:13:44+08:00</published>
+        <author>
+            <name>西城往事</name>
+            <uri>https://xifeng.net</uri>
+        </author>
+        <summary type="text"><![CDATA[AI Bridge 中转插件，适配 WordPress 7.0]]></summary>
     </entry>
         <entry>
         <title>泡沫与剃须刀</title>
@@ -1496,82 +1540,5 @@
             <uri>https://chegva.com</uri>
         </author>
         <summary type="text"><![CDATA[大模型推理资源需求计算及使用场景示例]]></summary>
-    </entry>
-        <entry>
-        <title>拔第二颗智齿</title>
-        <id>148698</id>
-        <link href="https://dujun.io/i-got-my-second-wisdom-tooth-extracted.html?utm_source=blogfinder" />
-        <published>2026-03-09T23:59:00+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[拔第二颗智齿]]></summary>
-    </entry>
-        <entry>
-        <title>How to Automatically Track Newly Supported ESLint Rules in Oxlint</title>
-        <id>148706</id>
-        <link href="https://howiehz.top/archives/eslint-migration-auto-track-oxlint-rules-en?utm_source=blogfinder" />
-        <published>2026-03-09T23:57:04+08:00</published>
-        <author>
-            <name>皓子的小站</name>
-            <uri>https://howiehz.top</uri>
-        </author>
-        <summary type="text"><![CDATA[How to Automatically Track Newly Supported ESLint Rules in Oxlint]]></summary>
-    </entry>
-        <entry>
-        <title>How to Gradually Migrate from ESLint to Oxlint (Without Breaking Everything)</title>
-        <id>148707</id>
-        <link href="https://howiehz.top/archives/eslint-to-oxlint-gradual-migration-guide-en?utm_source=blogfinder" />
-        <published>2026-03-09T23:49:44+08:00</published>
-        <author>
-            <name>皓子的小站</name>
-            <uri>https://howiehz.top</uri>
-        </author>
-        <summary type="text"><![CDATA[How to Gradually Migrate from ESLint to Oxlint (Without Breaking Everything)]]></summary>
-    </entry>
-        <entry>
-        <title>第二次行为艺术——耗时 88 天美团提现 50 元</title>
-        <id>148699</id>
-        <link href="https://dujun.io/42c50455-9f47-5b39-b029-4b884cf608f0.html?utm_source=blogfinder" />
-        <published>2026-03-09T23:35:53+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[第二次行为艺术——耗时 88 天美团提现 50 元]]></summary>
-    </entry>
-        <entry>
-        <title>万事俱备，现在就差 app 还没写完了 |「法语记忆」 iOS 版还在写</title>
-        <id>148710</id>
-        <link href="https://xd.sh.cn/frmemo-ios-app-20260309/?utm_source=blogfinder" />
-        <published>2026-03-09T23:25:03+08:00</published>
-        <author>
-            <name>不淡定实验室</name>
-            <uri>https://xd.sh.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[万事俱备，现在就差 app 还没写完了 |「法语记忆」 iOS 版还在写]]></summary>
-    </entry>
-        <entry>
-        <title>三分钟部署自己的 OpenClaw 皮皮虾</title>
-        <id>148711</id>
-        <link href="https://www.51it.wang/ll/2166?utm_source=blogfinder" />
-        <published>2026-03-09T23:11:00+08:00</published>
-        <author>
-            <name>Lcry</name>
-            <uri>https://www.51it.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[三分钟部署自己的 OpenClaw 皮皮虾]]></summary>
-    </entry>
-        <entry>
-        <title>花开正好，人已中年</title>
-        <id>148683</id>
-        <link href="https://zhujay.com/blog/blog_view.asp?id=1211&amp;utm_source=blogfinder" />
-        <published>2026-03-09T23:07:54+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[花开正好，人已中年]]></summary>
     </entry>
     </feed>
