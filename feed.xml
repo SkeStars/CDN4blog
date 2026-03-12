@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-12T17:01:24+08:00</updated>
+    <updated>2026-03-12T18:00:22+08:00</updated>
         <entry>
         <title>迟到了 11 年的特效</title>
         <id>149260</id>
@@ -121,6 +121,17 @@
             <uri>https://blog.veitzn.top</uri>
         </author>
         <summary type="text"><![CDATA[WordPress迁移记录｜服务器到期，手把手完成博客搬家]]></summary>
+    </entry>
+        <entry>
+        <title>电容器配套接触器切换热继电器选用多大</title>
+        <id>149266</id>
+        <link href="https://www.aiwazi.com/2933.html?utm_source=blogfinder" />
+        <published>2026-03-12T11:30:44+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[电容器配套接触器切换热继电器选用多大]]></summary>
     </entry>
         <entry>
         <title>《重生之我在阿里养&amp;quot;龙虾&amp;quot;Ⅱ》</title>
@@ -1430,16 +1441,5 @@
             <uri>https://vrast.cn</uri>
         </author>
         <summary type="text"><![CDATA[在咖啡凉透前救回了博客数据]]></summary>
-    </entry>
-        <entry>
-        <title>狗子项目-OpenClaw初体验</title>
-        <id>148520</id>
-        <link href="https://blog.mboker.cn/archives/7jfQ1vIe?utm_source=blogfinder" />
-        <published>2026-03-09T17:21:59+08:00</published>
-        <author>
-            <name>蜉蝣手札</name>
-            <uri>https://blog.mboker.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[狗子项目-OpenClaw初体验]]></summary>
     </entry>
     </feed>
