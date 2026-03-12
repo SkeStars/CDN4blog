@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-12T16:00:36+08:00</updated>
+    <updated>2026-03-12T17:01:24+08:00</updated>
+        <entry>
+        <title>迟到了 11 年的特效</title>
+        <id>149260</id>
+        <link href="https://dujun.io/76f74d22-a321-5f30-bead-84c0d2cbdfa0.html?utm_source=blogfinder" />
+        <published>2026-03-12T16:57:24+08:00</published>
+        <author>
+            <name>杜郎俊赏</name>
+            <uri>https://dujun.io</uri>
+        </author>
+        <summary type="text"><![CDATA[迟到了 11 年的特效]]></summary>
+    </entry>
         <entry>
         <title>应急演练钓鱼场景-攻击—木马免杀 伪装pdf钓鱼</title>
         <id>149257</id>
@@ -22,6 +33,50 @@
             <uri>https://www.yunyanck.cn</uri>
         </author>
         <summary type="text"><![CDATA[应急演练钓鱼场景-攻击—木马免杀 伪装pdf钓鱼]]></summary>
+    </entry>
+        <entry>
+        <title>前端性能优化深度指南：从渲染原理到实际指标的全链路优化</title>
+        <id>149262</id>
+        <link href="https://www.aserver.cn/?post=34&amp;utm_source=blogfinder" />
+        <published>2026-03-12T15:42:37+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[前端性能优化深度指南：从渲染原理到实际指标的全链路优化]]></summary>
+    </entry>
+        <entry>
+        <title>云原生架构深度解析：从容器化到服务网格的全栈实践</title>
+        <id>149263</id>
+        <link href="https://www.aserver.cn/?post=33&amp;utm_source=blogfinder" />
+        <published>2026-03-12T15:42:35+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[云原生架构深度解析：从容器化到服务网格的全栈实践]]></summary>
+    </entry>
+        <entry>
+        <title>HTTP/3与QUIC协议深度解析：下一代Web传输技术的革命</title>
+        <id>149264</id>
+        <link href="https://www.aserver.cn/?post=32&amp;utm_source=blogfinder" />
+        <published>2026-03-12T15:42:33+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[HTTP/3与QUIC协议深度解析：下一代Web传输技术的革命]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1639】马健《草原霸主》</title>
+        <id>149259</id>
+        <link href="http://www.qncd.com/?p=12546&amp;utm_source=blogfinder" />
+        <published>2026-03-12T15:09:29+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1639】马健《草原霸主》]]></summary>
     </entry>
         <entry>
         <title>WapFooterNav底部导航插件发布</title>
@@ -44,6 +99,17 @@
             <uri>https://www.52txr.cn</uri>
         </author>
         <summary type="text"><![CDATA[SHIT Blog | 论亲昵称呼为什么不是更加对仗的“老公”和“老母”]]></summary>
+    </entry>
+        <entry>
+        <title>游天杰对贾平凹的支持软弱无力</title>
+        <id>149265</id>
+        <link href="https://www.pgoj.top/archives/you-tianjie-supports-jia-pingwa.html?utm_source=blogfinder" />
+        <published>2026-03-12T12:09:19+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[游天杰对贾平凹的支持软弱无力]]></summary>
     </entry>
         <entry>
         <title>WordPress迁移记录｜服务器到期，手把手完成博客搬家</title>
@@ -1375,16 +1441,5 @@
             <uri>https://blog.mboker.cn</uri>
         </author>
         <summary type="text"><![CDATA[狗子项目-OpenClaw初体验]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1637】刘衍钢《上帝之鞭》</title>
-        <id>148515</id>
-        <link href="http://www.qncd.com/?p=12538&amp;utm_source=blogfinder" />
-        <published>2026-03-09T16:46:59+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1637】刘衍钢《上帝之鞭》]]></summary>
     </entry>
     </feed>
