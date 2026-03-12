@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-12T15:00:58+08:00</updated>
+    <updated>2026-03-12T16:00:36+08:00</updated>
+        <entry>
+        <title>应急演练钓鱼场景-攻击—木马免杀 伪装pdf钓鱼</title>
+        <id>149257</id>
+        <link href="https://www.yunyanck.cn/index.php/archives/140/?utm_source=blogfinder" />
+        <published>2026-03-12T15:47:00+08:00</published>
+        <author>
+            <name>云烟博客</name>
+            <uri>https://www.yunyanck.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[应急演练钓鱼场景-攻击—木马免杀 伪装pdf钓鱼]]></summary>
+    </entry>
+        <entry>
+        <title>WapFooterNav底部导航插件发布</title>
+        <id>149258</id>
+        <link href="https://loglib.cn/188.html?utm_source=blogfinder" />
+        <published>2026-03-12T14:33:00+08:00</published>
+        <author>
+            <name>李文君 &#039;s Blog</name>
+            <uri>https://loglib.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[WapFooterNav底部导航插件发布]]></summary>
+    </entry>
         <entry>
         <title>SHIT Blog | 论亲昵称呼为什么不是更加对仗的“老公”和“老母”</title>
         <id>149254</id>
@@ -22,6 +44,17 @@
             <uri>https://www.52txr.cn</uri>
         </author>
         <summary type="text"><![CDATA[SHIT Blog | 论亲昵称呼为什么不是更加对仗的“老公”和“老母”]]></summary>
+    </entry>
+        <entry>
+        <title>WordPress迁移记录｜服务器到期，手把手完成博客搬家</title>
+        <id>149256</id>
+        <link href="https://blog.veitzn.top/archives/2002?utm_source=blogfinder" />
+        <published>2026-03-12T11:51:14+08:00</published>
+        <author>
+            <name>Veitzn 的小屋</name>
+            <uri>https://blog.veitzn.top</uri>
+        </author>
+        <summary type="text"><![CDATA[WordPress迁移记录｜服务器到期，手把手完成博客搬家]]></summary>
     </entry>
         <entry>
         <title>《重生之我在阿里养&amp;quot;龙虾&amp;quot;Ⅱ》</title>
@@ -1353,60 +1386,5 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1637】刘衍钢《上帝之鞭》]]></summary>
-    </entry>
-        <entry>
-        <title>忍痛割爱“负优化”腾讯云！年付不到200元，我换到了这台“真香”的香港前端机</title>
-        <id>148518</id>
-        <link href="https://www.tjsky.net/tutorial/1417?utm_source=blogfinder" />
-        <published>2026-03-09T15:46:10+08:00</published>
-        <author>
-            <name>秋风于渭水</name>
-            <uri>https://www.tjsky.net</uri>
-        </author>
-        <summary type="text"><![CDATA[忍痛割爱“负优化”腾讯云！年付不到200元，我换到了这台“真香”的香港前端机]]></summary>
-    </entry>
-        <entry>
-        <title>用 Publii 來免費架自己的部落格：不用處理麻煩的 Git，甚至不用寫一行 code！</title>
-        <id>148807</id>
-        <link href="https://blog.giveanornot.com/publii/?utm_source=blogfinder" />
-        <published>2026-03-09T15:43:51+08:00</published>
-        <author>
-            <name>資工小廢物  - JN</name>
-            <uri>https://blog.giveanornot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[用 Publii 來免費架自己的部落格：不用處理麻煩的 Git，甚至不用寫一行 code！]]></summary>
-    </entry>
-        <entry>
-        <title>汇丰中国信用卡权益</title>
-        <id>148686</id>
-        <link href="https://retire50blog.wang/invest/%e6%b1%87%e4%b8%b0%e4%b8%ad%e5%9b%bd%e4%bf%a1%e7%94%a8%e5%8d%a1%e6%9d%83%e7%9b%8a.html?utm_source=blogfinder" />
-        <published>2026-03-09T15:38:38+08:00</published>
-        <author>
-            <name>个人工作记录</name>
-            <uri>https://retire50blog.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[汇丰中国信用卡权益]]></summary>
-    </entry>
-        <entry>
-        <title>一次被封 IP 之后：从 Shadowsocks 到 Xray Reality</title>
-        <id>148697</id>
-        <link href="https://hejunjie.life/blog/jaai7bt0?utm_source=blogfinder" />
-        <published>2026-03-09T15:17:12+08:00</published>
-        <author>
-            <name>星河避难所</name>
-            <uri>https://hejunjie.life</uri>
-        </author>
-        <summary type="text"><![CDATA[一次被封 IP 之后：从 Shadowsocks 到 Xray Reality]]></summary>
-    </entry>
-        <entry>
-        <title>Mission Planner地面站模拟飞行和MAVLINK消息UDP转发</title>
-        <id>148522</id>
-        <link href="https://xtxcool.com/archives/mission-plannerdi-mian-zhan-mo-ni-fei-xing-he-mavlinkxiao-xi-udpzhuan-fa?utm_source=blogfinder" />
-        <published>2026-03-09T15:02:02+08:00</published>
-        <author>
-            <name>静水流深</name>
-            <uri>https://xtxcool.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Mission Planner地面站模拟飞行和MAVLINK消息UDP转发]]></summary>
     </entry>
     </feed>
