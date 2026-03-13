@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-13T11:00:39+08:00</updated>
+    <updated>2026-03-13T12:01:25+08:00</updated>
+        <entry>
+        <title>我们的身心是一个管道</title>
+        <id>149322</id>
+        <link href="https://rolen.wiki/we-are-just-a-pipeline/?utm_source=blogfinder" />
+        <published>2026-03-13T10:36:54+08:00</published>
+        <author>
+            <name>Rolen&#039;s Blog</name>
+            <uri>https://rolen.wiki</uri>
+        </author>
+        <summary type="text"><![CDATA[我们的身心是一个管道]]></summary>
+    </entry>
+        <entry>
+        <title>Lesson 6 Landau 相变理论 (二)</title>
+        <id>149323</id>
+        <link href="https://physnya.top/statistical-mechanics/lesson-6-landau-phase-transition-2/?utm_source=blogfinder" />
+        <published>2026-03-13T09:44:46+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 6 Landau 相变理论 (二)]]></summary>
+    </entry>
+        <entry>
+        <title>💨</title>
+        <id>149320</id>
+        <link href="https://xiangming.site/1108.html?utm_source=blogfinder" />
+        <published>2026-03-13T09:25:00+08:00</published>
+        <author>
+            <name>湘铭呀</name>
+            <uri>https://xiangming.site</uri>
+        </author>
+        <summary type="text"><![CDATA[💨]]></summary>
+    </entry>
         <entry>
         <title>删网</title>
         <id>149313</id>
@@ -66,6 +99,28 @@
             <uri>https://wiki.eryajf.net</uri>
         </author>
         <summary type="text"><![CDATA[学习周刊-总第254期-2026年第11周]]></summary>
+    </entry>
+        <entry>
+        <title>到底谁会在意《逐玉》的剧情？</title>
+        <id>149319</id>
+        <link href="https://dujun.io/c0a16690-80cc-55f6-b3de-7a83fba10140.html?utm_source=blogfinder" />
+        <published>2026-03-13T01:20:00+08:00</published>
+        <author>
+            <name>杜郎俊赏</name>
+            <uri>https://dujun.io</uri>
+        </author>
+        <summary type="text"><![CDATA[到底谁会在意《逐玉》的剧情？]]></summary>
+    </entry>
+        <entry>
+        <title>【深夜修 Bug 记：Typecho 升级翻车实录】</title>
+        <id>149321</id>
+        <link href="https://xiangming.site/1105.html?utm_source=blogfinder" />
+        <published>2026-03-13T01:19:00+08:00</published>
+        <author>
+            <name>湘铭呀</name>
+            <uri>https://xiangming.site</uri>
+        </author>
+        <summary type="text"><![CDATA[【深夜修 Bug 记：Typecho 升级翻车实录】]]></summary>
     </entry>
         <entry>
         <title>博客系统 FlecBlog 现已正式开源</title>
@@ -440,6 +495,17 @@
             <uri>https://www.52txr.cn</uri>
         </author>
         <summary type="text"><![CDATA[SHIT Blog | 论亲昵称呼为什么不是更加对仗的“老公”和“老母”]]></summary>
+    </entry>
+        <entry>
+        <title>我的5G路由器方案：中兴F50+cudy tr3000 256MB</title>
+        <id>149318</id>
+        <link href="https://usj.cc/202603111244.html?utm_source=blogfinder" />
+        <published>2026-03-12T12:45:02+08:00</published>
+        <author>
+            <name>优世界</name>
+            <uri>https://usj.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[我的5G路由器方案：中兴F50+cudy tr3000 256MB]]></summary>
     </entry>
         <entry>
         <title>《沉淀生活》</title>
@@ -1540,38 +1606,5 @@
             <uri>https://usj.cc</uri>
         </author>
         <summary type="text"><![CDATA[我的5G路由器方案：中兴F50+cudy tr3000 256MB]]></summary>
-    </entry>
-        <entry>
-        <title>A* 算法及其变种详解</title>
-        <id>148694</id>
-        <link href="https://www.zywvvd.com/notes/study/algorithm/graph/astar-variants/astar-variants/?utm_source=blogfinder" />
-        <published>2026-03-10T12:00:00+08:00</published>
-        <author>
-            <name>又见苍岚</name>
-            <uri>https://www.zywvvd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[A* 算法及其变种详解]]></summary>
-    </entry>
-        <entry>
-        <title>用虚拟机养龙虾，在Mac上通过Lume使用虚拟机的隔离环境安装OpenClaw</title>
-        <id>148942</id>
-        <link href="https://blog.zhheo.com/p/h6k74j9o.html?utm_source=blogfinder" />
-        <published>2026-03-10T11:30:41+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[用虚拟机养龙虾，在Mac上通过Lume使用虚拟机的隔离环境安装OpenClaw]]></summary>
-    </entry>
-        <entry>
-        <title>一代人有一代人的龙虾要养</title>
-        <id>148709</id>
-        <link href="https://vrast.cn/posts/61735/?utm_source=blogfinder" />
-        <published>2026-03-10T11:11:06+08:00</published>
-        <author>
-            <name>Keyle&#039;s Blog</name>
-            <uri>https://vrast.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[一代人有一代人的龙虾要养]]></summary>
     </entry>
     </feed>
