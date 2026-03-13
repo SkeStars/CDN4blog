@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-13T12:01:25+08:00</updated>
+    <updated>2026-03-13T14:03:22+08:00</updated>
+        <entry>
+        <title>梦见故人</title>
+        <id>149324</id>
+        <link href="https://ilogs.cn/2026/03/13/369.html?utm_source=blogfinder" />
+        <published>2026-03-13T12:15:49+08:00</published>
+        <author>
+            <name>我的日志</name>
+            <uri>https://ilogs.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[梦见故人]]></summary>
+    </entry>
         <entry>
         <title>我们的身心是一个管道</title>
         <id>149322</id>
@@ -154,6 +165,17 @@
             <uri>https://www.tortorse.com</uri>
         </author>
         <summary type="text"><![CDATA[城市没有变小，只是我们与它之间，多了一层赶路的视角]]></summary>
+    </entry>
+        <entry>
+        <title>[Python]多个图片自动生成“骑马订”排版的小册子 PDF</title>
+        <id>149326</id>
+        <link href="https://loneapex.cn/archives/5306?utm_source=blogfinder" />
+        <published>2026-03-12T22:54:00+08:00</published>
+        <author>
+            <name>Mimosa 的小屋</name>
+            <uri>https://loneapex.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[[Python]多个图片自动生成“骑马订”排版的小册子 PDF]]></summary>
     </entry>
         <entry>
         <title>谈谈，存在即合理</title>
@@ -1562,49 +1584,5 @@
             <uri>https://www.lisanwaier.cn</uri>
         </author>
         <summary type="text"><![CDATA[拟古 荏苒结香枝]]></summary>
-    </entry>
-        <entry>
-        <title>OpenClaw离线部署及使用心得</title>
-        <id>148944</id>
-        <link href="https://blog.xxbjf.com/archives/openclawan-zhuang-ji-shi-yong-xin-de?utm_source=blogfinder" />
-        <published>2026-03-10T13:52:45+08:00</published>
-        <author>
-            <name>小新笔记坊</name>
-            <uri>https://blog.xxbjf.com</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenClaw离线部署及使用心得]]></summary>
-    </entry>
-        <entry>
-        <title>一个插件让你在 Obsidian 画思维导图</title>
-        <id>148700</id>
-        <link href="https://ssshooter.com/obsidian-mindmap/?utm_source=blogfinder" />
-        <published>2026-03-10T13:42:32+08:00</published>
-        <author>
-            <name>Usubeni Fantasy</name>
-            <uri>https://ssshooter.com</uri>
-        </author>
-        <summary type="text"><![CDATA[一个插件让你在 Obsidian 画思维导图]]></summary>
-    </entry>
-        <entry>
-        <title>对于闲不下来的上一辈人，失业了真的很难接受吗？</title>
-        <id>148705</id>
-        <link href="https://zhoutian.com/353.html?utm_source=blogfinder" />
-        <published>2026-03-10T13:42:26+08:00</published>
-        <author>
-            <name>周天记</name>
-            <uri>https://zhoutian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[对于闲不下来的上一辈人，失业了真的很难接受吗？]]></summary>
-    </entry>
-        <entry>
-        <title>我的5G路由器方案：中兴F50+cudy tr3000 256MB</title>
-        <id>148940</id>
-        <link href="https://usj.cc/202603101244.html?utm_source=blogfinder" />
-        <published>2026-03-10T12:45:24+08:00</published>
-        <author>
-            <name>优世界</name>
-            <uri>https://usj.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[我的5G路由器方案：中兴F50+cudy tr3000 256MB]]></summary>
     </entry>
     </feed>
