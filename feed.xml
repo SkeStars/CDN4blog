@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-13T23:03:50+08:00</updated>
+    <updated>2026-03-14T00:00:22+08:00</updated>
         <entry>
         <title>呃~饱了</title>
         <id>149345</id>
@@ -22,6 +22,28 @@
             <uri>https://nxxy335.top</uri>
         </author>
         <summary type="text"><![CDATA[呃~饱了]]></summary>
+    </entry>
+        <entry>
+        <title>能量低谷日</title>
+        <id>149348</id>
+        <link href="https://blog.solazy.me/20260313/?utm_source=blogfinder" />
+        <published>2026-03-13T20:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[能量低谷日]]></summary>
+    </entry>
+        <entry>
+        <title>拒绝祖传垃圾代码！适配前端静态缓存的 WordPress 防垃圾评论纯代码方案（附源码）</title>
+        <id>149347</id>
+        <link href="https://www.tjsky.net/tutorial/1440?utm_source=blogfinder" />
+        <published>2026-03-13T18:03:59+08:00</published>
+        <author>
+            <name>秋风于渭水</name>
+            <uri>https://www.tjsky.net</uri>
+        </author>
+        <summary type="text"><![CDATA[拒绝祖传垃圾代码！适配前端静态缓存的 WordPress 防垃圾评论纯代码方案（附源码）]]></summary>
     </entry>
         <entry>
         <title>淘宝拍拍乐来领红包啦，每日打卡领现金</title>
@@ -220,6 +242,17 @@
             <uri>https://xiangming.site</uri>
         </author>
         <summary type="text"><![CDATA[💨]]></summary>
+    </entry>
+        <entry>
+        <title>周报：高二新学期的前两周</title>
+        <id>149349</id>
+        <link href="https://ryqi.top/p/weekly-summery-1-2/?utm_source=blogfinder" />
+        <published>2026-03-13T08:00:00+08:00</published>
+        <author>
+            <name>合荒小站</name>
+            <uri>https://ryqi.top</uri>
+        </author>
+        <summary type="text"><![CDATA[周报：高二新学期的前两周]]></summary>
     </entry>
         <entry>
         <title>删网</title>
@@ -517,6 +550,17 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[“借三不借二，救急不救穷”]]></summary>
+    </entry>
+        <entry>
+        <title>eTempMail-免费临时教育邮箱</title>
+        <id>149346</id>
+        <link href="http://aboss.top/free-temporary-email/?utm_source=blogfinder" />
+        <published>2026-03-12T17:04:00+08:00</published>
+        <author>
+            <name>三毛笔记</name>
+            <uri>https://aboss.top</uri>
+        </author>
+        <summary type="text"><![CDATA[eTempMail-免费临时教育邮箱]]></summary>
     </entry>
         <entry>
         <title>迟到了 11 年的特效</title>
@@ -1529,16 +1573,5 @@
             <uri>https://chegva.com</uri>
         </author>
         <summary type="text"><![CDATA[macOS安装龙虾OpenClaw]]></summary>
-    </entry>
-        <entry>
-        <title>Webmention 简明指南</title>
-        <id>148935</id>
-        <link href="https://www.geedea.pro/article/webmention/?utm_source=blogfinder" />
-        <published>2026-03-10T23:04:43+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[Webmention 简明指南]]></summary>
     </entry>
     </feed>
