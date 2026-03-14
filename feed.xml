@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-14T21:00:27+08:00</updated>
+    <updated>2026-03-14T22:00:42+08:00</updated>
+        <entry>
+        <title>Vite8 - 统一的基建开始</title>
+        <id>149400</id>
+        <link href="https://xingwangzhe.fun/posts/vite-voidzero-features/?utm_source=blogfinder" />
+        <published>2026-03-14T21:24:32+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Vite8 - 统一的基建开始]]></summary>
+    </entry>
         <entry>
         <title>手写 C++ Web 服务器：模板化中间件链设计</title>
         <id>149397</id>
