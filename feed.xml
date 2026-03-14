@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-14T22:00:42+08:00</updated>
+    <updated>2026-03-14T23:00:44+08:00</updated>
+        <entry>
+        <title>一篇简单的随笔</title>
+        <id>149403</id>
+        <link href="https://sliun.com/1jiandansuibi/?utm_source=blogfinder" />
+        <published>2026-03-14T22:49:00+08:00</published>
+        <author>
+            <name>理论派</name>
+            <uri>https://lilun.bearblog.dev</uri>
+        </author>
+        <summary type="text"><![CDATA[一篇简单的随笔]]></summary>
+    </entry>
+        <entry>
+        <title>醇香小记·第十八期</title>
+        <id>149404</id>
+        <link href="https://blog.kfdzcoffee.cn/archives/mellownote18?utm_source=blogfinder" />
+        <published>2026-03-14T22:42:10+08:00</published>
+        <author>
+            <name>咖啡豆子 coffee 的小站</name>
+            <uri>https://blog.kfdzcoffee.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[醇香小记·第十八期]]></summary>
+    </entry>
+        <entry>
+        <title>为网站启用 HSTS 支持</title>
+        <id>149402</id>
+        <link href="https://meledee.com/2026/03/4767.html?utm_source=blogfinder" />
+        <published>2026-03-14T22:31:55+08:00</published>
+        <author>
+            <name>美樂地</name>
+            <uri>https://meledee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[为网站启用 HSTS 支持]]></summary>
+    </entry>
         <entry>
         <title>Vite8 - 统一的基建开始</title>
         <id>149400</id>
@@ -22,6 +55,17 @@
             <uri>https://xingwangzhe.fun</uri>
         </author>
         <summary type="text"><![CDATA[Vite8 - 统一的基建开始]]></summary>
+    </entry>
+        <entry>
+        <title>运动的科学原理与健康价值 - 读《锻炼》</title>
+        <id>149401</id>
+        <link href="https://blog.devtang.com/2026/03/14/exercise-book-summary/?utm_source=blogfinder" />
+        <published>2026-03-14T20:44:55+08:00</published>
+        <author>
+            <name>唐巧的博客</name>
+            <uri>http://blog.devtang.com</uri>
+        </author>
+        <summary type="text"><![CDATA[运动的科学原理与健康价值 - 读《锻炼》]]></summary>
     </entry>
         <entry>
         <title>手写 C++ Web 服务器：模板化中间件链设计</title>
@@ -1441,104 +1485,5 @@
             <uri>https://lenciel.com</uri>
         </author>
         <summary type="text"><![CDATA[Valine to Waline]]></summary>
-    </entry>
-        <entry>
-        <title>梦</title>
-        <id>148970</id>
-        <link href="https://yinji.org/dream.html?utm_source=blogfinder" />
-        <published>2026-03-11T22:58:38+08:00</published>
-        <author>
-            <name>印记</name>
-            <uri>https://yinji.org</uri>
-        </author>
-        <summary type="text"><![CDATA[梦]]></summary>
-    </entry>
-        <entry>
-        <title>心向己，万事轻</title>
-        <id>149208</id>
-        <link href="https://www.icl.site/17732410719067.html?utm_source=blogfinder" />
-        <published>2026-03-11T22:57:51+08:00</published>
-        <author>
-            <name>谋生者</name>
-            <uri>https://www.icl.site</uri>
-        </author>
-        <summary type="text"><![CDATA[心向己，万事轻]]></summary>
-    </entry>
-        <entry>
-        <title>小沙滩</title>
-        <id>148972</id>
-        <link href="https://ilogs.cn/2026/03/11/368.html?utm_source=blogfinder" />
-        <published>2026-03-11T22:52:07+08:00</published>
-        <author>
-            <name>我的日志</name>
-            <uri>https://ilogs.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[小沙滩]]></summary>
-    </entry>
-        <entry>
-        <title>MediaPages：一键在Cloudflare Pages存放媒体库</title>
-        <id>148967</id>
-        <link href="https://www.nekopara.uk/archives/MediaPages.html?utm_source=blogfinder" />
-        <published>2026-03-11T22:34:38+08:00</published>
-        <author>
-            <name>GTX690 战术核显卡导弹</name>
-            <uri>https://www.nekopara.uk</uri>
-        </author>
-        <summary type="text"><![CDATA[MediaPages：一键在Cloudflare Pages存放媒体库]]></summary>
-    </entry>
-        <entry>
-        <title>当原型都能直接交付了，谁还会为中间态买单</title>
-        <id>148965</id>
-        <link href="https://www.tortorse.com/archives/who-will-pay-for-intermediate-artifacts/?utm_source=blogfinder" />
-        <published>2026-03-11T22:27:44+08:00</published>
-        <author>
-            <name>愆伏</name>
-            <uri>https://www.tortorse.com</uri>
-        </author>
-        <summary type="text"><![CDATA[当原型都能直接交付了，谁还会为中间态买单]]></summary>
-    </entry>
-        <entry>
-        <title>三月自白</title>
-        <id>149247</id>
-        <link href="https://ttio.cc/note/2026-03?utm_source=blogfinder" />
-        <published>2026-03-11T22:14:44+08:00</published>
-        <author>
-            <name>記緒漂流</name>
-            <uri>https://ttio.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[三月自白]]></summary>
-    </entry>
-        <entry>
-        <title>隐说 NO.15  官僚集团的运转逻辑</title>
-        <id>149269</id>
-        <link href="https://wangyurui.com/posts/yin-shuo-no-15-guan-liao-ji-tuan-de-yun-zhuan-lu-dff28a7c?utm_source=blogfinder" />
-        <published>2026-03-11T22:14:19+08:00</published>
-        <author>
-            <name>太隐</name>
-            <uri>https://wangyurui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[隐说 NO.15  官僚集团的运转逻辑]]></summary>
-    </entry>
-        <entry>
-        <title>AI Bridge 中转插件，适配 WordPress 7.0</title>
-        <id>149290</id>
-        <link href="https://xifeng.net/wordpress/global-ai-bridge-wp-plugins/?utm_source=blogfinder" />
-        <published>2026-03-11T22:13:44+08:00</published>
-        <author>
-            <name>西城往事</name>
-            <uri>https://xifeng.net</uri>
-        </author>
-        <summary type="text"><![CDATA[AI Bridge 中转插件，适配 WordPress 7.0]]></summary>
-    </entry>
-        <entry>
-        <title>泡沫与剃须刀</title>
-        <id>148964</id>
-        <link href="https://onojyun.com/2026/03/11/shaving-foam-and-razors/?utm_source=blogfinder" />
-        <published>2026-03-11T22:08:01+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://onojyun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[泡沫与剃须刀]]></summary>
     </entry>
     </feed>
