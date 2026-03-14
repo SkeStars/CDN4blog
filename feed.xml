@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-14T18:00:44+08:00</updated>
+    <updated>2026-03-14T19:01:01+08:00</updated>
         <entry>
         <title>今年的 315 晚会会曝光那些行业</title>
         <id>149388</id>
@@ -99,6 +99,39 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[云原生架构深度解析：从容器化到服务网格的全栈实践]]></summary>
+    </entry>
+        <entry>
+        <title>fork subgen实现纯本地AI视频字幕生成和翻译</title>
+        <id>149390</id>
+        <link href="https://ddadaal.me/articles/subgen-translate/cn?utm_source=blogfinder" />
+        <published>2026-03-14T11:53:00+08:00</published>
+        <author>
+            <name>ddadaal</name>
+            <uri>https://ddadaal.me</uri>
+        </author>
+        <summary type="text"><![CDATA[fork subgen实现纯本地AI视频字幕生成和翻译]]></summary>
+    </entry>
+        <entry>
+        <title>当下人人都在养龙虾，这龙虾（OpenClaw）为啥突然就火了？</title>
+        <id>149391</id>
+        <link href="https://leileiluoluo.com/posts/open-claw.html?utm_source=blogfinder" />
+        <published>2026-03-14T11:20:00+08:00</published>
+        <author>
+            <name>磊磊落落</name>
+            <uri>https://leileiluoluo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[当下人人都在养龙虾，这龙虾（OpenClaw）为啥突然就火了？]]></summary>
+    </entry>
+        <entry>
+        <title>春天来了 - 小记</title>
+        <id>149392</id>
+        <link href="https://hi.jeray.wang/L/208.html?utm_source=blogfinder" />
+        <published>2026-03-14T09:29:00+08:00</published>
+        <author>
+            <name>Jeray 大叔</name>
+            <uri>https://hi.jeray.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[春天来了 - 小记]]></summary>
     </entry>
         <entry>
         <title>20260313</title>
@@ -1452,27 +1485,5 @@
             <uri>https://koobai.com</uri>
         </author>
         <summary type="text"><![CDATA[💬 唠叨：2026-03-11 19:25]]></summary>
-    </entry>
-        <entry>
-        <title>不值得可怜</title>
-        <id>148963</id>
-        <link href="https://ihaihe.cn/3524.htm?utm_source=blogfinder" />
-        <published>2026-03-11T18:28:53+08:00</published>
-        <author>
-            <name>三十里海河</name>
-            <uri>https://ihaihe.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[不值得可怜]]></summary>
-    </entry>
-        <entry>
-        <title>wordpress友情链接自助申请插件</title>
-        <id>149207</id>
-        <link href="https://www.x8xx.cn/1036.html?utm_source=blogfinder" />
-        <published>2026-03-11T18:16:40+08:00</published>
-        <author>
-            <name>树洞笔记</name>
-            <uri>https://www.x8xx.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[wordpress友情链接自助申请插件]]></summary>
     </entry>
     </feed>
