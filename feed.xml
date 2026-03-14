@@ -11,7 +11,73 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-14T00:00:22+08:00</updated>
+    <updated>2026-03-14T11:00:29+08:00</updated>
+        <entry>
+        <title>HTTP/3与QUIC协议深度解析：下一代Web传输技术的革命</title>
+        <id>149375</id>
+        <link href="https://www.aserver.cn/?post=59&amp;utm_source=blogfinder" />
+        <published>2026-03-14T09:01:06+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[HTTP/3与QUIC协议深度解析：下一代Web传输技术的革命]]></summary>
+    </entry>
+        <entry>
+        <title>HTTP/3与QUIC协议深度解析：下一代Web传输技术的革命</title>
+        <id>149376</id>
+        <link href="https://www.aserver.cn/?post=58&amp;utm_source=blogfinder" />
+        <published>2026-03-14T09:00:02+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[HTTP/3与QUIC协议深度解析：下一代Web传输技术的革命]]></summary>
+    </entry>
+        <entry>
+        <title>天真的橡皮</title>
+        <id>149370</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1111&amp;utm_source=blogfinder" />
+        <published>2026-03-14T08:48:42+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[天真的橡皮]]></summary>
+    </entry>
+        <entry>
+        <title>修签名墙</title>
+        <id>149371</id>
+        <link href="https://www.immarcus.com/blog/fix-signature-wall?utm_source=blogfinder" />
+        <published>2026-03-14T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[修签名墙]]></summary>
+    </entry>
+        <entry>
+        <title>两年没见面，我们聊了什么</title>
+        <id>149368</id>
+        <link href="https://blog.gudong.site/2026/03/14/three-bottles.html?utm_source=blogfinder" />
+        <published>2026-03-14T08:00:00+08:00</published>
+        <author>
+            <name>咕咚同学</name>
+            <uri>https://blog.gudong.site</uri>
+        </author>
+        <summary type="text"><![CDATA[两年没见面，我们聊了什么]]></summary>
+    </entry>
+        <entry>
+        <title>读《面纱》——拨开面纱直视人性</title>
+        <id>149372</id>
+        <link href="https://www.jfsay.com/archives/3984.html?utm_source=blogfinder" />
+        <published>2026-03-13T21:54:52+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[读《面纱》——拨开面纱直视人性]]></summary>
+    </entry>
         <entry>
         <title>呃~饱了</title>
         <id>149345</id>
@@ -35,6 +101,17 @@
         <summary type="text"><![CDATA[能量低谷日]]></summary>
     </entry>
         <entry>
+        <title>前端性能优化深度指南：从渲染原理到实际指标的全链路优化</title>
+        <id>149377</id>
+        <link href="https://www.aserver.cn/?post=57&amp;utm_source=blogfinder" />
+        <published>2026-03-13T19:02:32+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[前端性能优化深度指南：从渲染原理到实际指标的全链路优化]]></summary>
+    </entry>
+        <entry>
         <title>拒绝祖传垃圾代码！适配前端静态缓存的 WordPress 防垃圾评论纯代码方案（附源码）</title>
         <id>149347</id>
         <link href="https://www.tjsky.net/tutorial/1440?utm_source=blogfinder" />
@@ -46,6 +123,17 @@
         <summary type="text"><![CDATA[拒绝祖传垃圾代码！适配前端静态缓存的 WordPress 防垃圾评论纯代码方案（附源码）]]></summary>
     </entry>
         <entry>
+        <title>前端性能优化深度指南：从渲染原理到实际指标的全链路优化</title>
+        <id>149378</id>
+        <link href="https://www.aserver.cn/?post=56&amp;utm_source=blogfinder" />
+        <published>2026-03-13T18:00:02+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[前端性能优化深度指南：从渲染原理到实际指标的全链路优化]]></summary>
+    </entry>
+        <entry>
         <title>淘宝拍拍乐来领红包啦，每日打卡领现金</title>
         <id>149338</id>
         <link href="https://www.aiwazi.com/2936.html?utm_source=blogfinder" />
@@ -55,6 +143,17 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[淘宝拍拍乐来领红包啦，每日打卡领现金]]></summary>
+    </entry>
+        <entry>
+        <title>The Memory Could Not Be Written</title>
+        <id>149351</id>
+        <link href="https://imzm.im/the-memory-could-not-be-written/?utm_source=blogfinder" />
+        <published>2026-03-13T16:13:58+08:00</published>
+        <author>
+            <name>陈仓颉</name>
+            <uri>https://imzm.im</uri>
+        </author>
+        <summary type="text"><![CDATA[The Memory Could Not Be Written]]></summary>
     </entry>
         <entry>
         <title>无常</title>
@@ -77,6 +176,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[为Lucy注册了Moltbook]]></summary>
+    </entry>
+        <entry>
+        <title>看，飞机……</title>
+        <id>149357</id>
+        <link href="https://ichov.com/blog/kanfeiji.html?utm_source=blogfinder" />
+        <published>2026-03-13T15:55:34+08:00</published>
+        <author>
+            <name>江子渔</name>
+            <uri>https://ichov.com</uri>
+        </author>
+        <summary type="text"><![CDATA[看，飞机……]]></summary>
     </entry>
         <entry>
         <title>推荐一款实用的起诉状生成器，模板齐全，填写即出</title>
@@ -132,6 +242,17 @@
             <uri>https://www.sunboy.ltd</uri>
         </author>
         <summary type="text"><![CDATA[冬日印象]]></summary>
+    </entry>
+        <entry>
+        <title>Final Cut Pro 如何正确使用代理模式，加快剪辑</title>
+        <id>149373</id>
+        <link href="https://www.liuzen.com/final-cut-pro2026.html?utm_source=blogfinder" />
+        <published>2026-03-13T13:57:36+08:00</published>
+        <author>
+            <name>刘明禅</name>
+            <uri>https://www.liuzen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Final Cut Pro 如何正确使用代理模式，加快剪辑]]></summary>
     </entry>
         <entry>
         <title>边缘计算：下一代分布式计算范式</title>
@@ -211,6 +332,17 @@
         <summary type="text"><![CDATA[WebTransport：基于QUIC的下一代实时通信协议]]></summary>
     </entry>
         <entry>
+        <title>【ISP】搭载海思自研CIS，骁途S7Pro运动相机系列亮相AWE</title>
+        <id>149374</id>
+        <link href="https://www.aomanhao.top/archives/439/?utm_source=blogfinder" />
+        <published>2026-03-13T10:08:00+08:00</published>
+        <author>
+            <name>AomanHao</name>
+            <uri>https://www.aomanhao.top</uri>
+        </author>
+        <summary type="text"><![CDATA[【ISP】搭载海思自研CIS，骁途S7Pro运动相机系列亮相AWE]]></summary>
+    </entry>
+        <entry>
         <title>让 Embedding 成为基础设施：在 PVE + LXC 中部署独立嵌入服务</title>
         <id>149341</id>
         <link href="http://blog.tangwudi.com/technology/homedatacenter14126/?utm_source=blogfinder" />
@@ -242,6 +374,39 @@
             <uri>https://xiangming.site</uri>
         </author>
         <summary type="text"><![CDATA[💨]]></summary>
+    </entry>
+        <entry>
+        <title>OpenClaw龙虾：Linux部署与QQBot对接体验</title>
+        <id>149352</id>
+        <link href="https://bluehe.cn/archives/openclaw-use?utm_source=blogfinder" />
+        <published>2026-03-13T09:20:00+08:00</published>
+        <author>
+            <name>云心怀鹤</name>
+            <uri>https://bluehe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenClaw龙虾：Linux部署与QQBot对接体验]]></summary>
+    </entry>
+        <entry>
+        <title>2010年的一束光</title>
+        <id>149358</id>
+        <link href="https://yishu-life.com/index.php/archives/321.html?utm_source=blogfinder" />
+        <published>2026-03-13T08:21:09+08:00</published>
+        <author>
+            <name>树下语</name>
+            <uri>https://yishu-life.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2010年的一束光]]></summary>
+    </entry>
+        <entry>
+        <title>使用 Peer Relay 提高 Tailscale 的速度</title>
+        <id>149350</id>
+        <link href="https://mebtte.com/tailscale_peer_relay?utm_source=blogfinder" />
+        <published>2026-03-13T08:00:00+08:00</published>
+        <author>
+            <name>动物的光合作用</name>
+            <uri>https://mebtte.com</uri>
+        </author>
+        <summary type="text"><![CDATA[使用 Peer Relay 提高 Tailscale 的速度]]></summary>
     </entry>
         <entry>
         <title>周报：高二新学期的前两周</title>
@@ -363,6 +528,17 @@
             <uri>https://taokeqing.com</uri>
         </author>
         <summary type="text"><![CDATA[菩薩蠻·詠溝中魚]]></summary>
+    </entry>
+        <entry>
+        <title>他说：“我是个……</title>
+        <id>149356</id>
+        <link href="https://jame.work/html/other/16r?utm_source=blogfinder" />
+        <published>2026-03-13T00:00:00+08:00</published>
+        <author>
+            <name>Jame</name>
+            <uri>https://jame.work</uri>
+        </author>
+        <summary type="text"><![CDATA[他说：“我是个……]]></summary>
     </entry>
         <entry>
         <title>被误解的“智商”</title>
@@ -836,6 +1012,17 @@
             <uri>https://wuqishi.com</uri>
         </author>
         <summary type="text"><![CDATA[网页截图瞬间“赛博飞升”？手把手教你根治 Windows HDR 截图发白]]></summary>
+    </entry>
+        <entry>
+        <title>风停在那年夏天</title>
+        <id>149359</id>
+        <link href="https://yishu-life.com/index.php/archives/319.html?utm_source=blogfinder" />
+        <published>2026-03-12T10:41:00+08:00</published>
+        <author>
+            <name>树下语</name>
+            <uri>https://yishu-life.com</uri>
+        </author>
+        <summary type="text"><![CDATA[风停在那年夏天]]></summary>
     </entry>
         <entry>
         <title>你们带的什么品牌的智能手表？</title>
@@ -1331,247 +1518,5 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 5 Landau 相变理论]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1638】尚永琪《莲花上的狮子》</title>
-        <id>148934</id>
-        <link href="http://www.qncd.com/?p=12542&amp;utm_source=blogfinder" />
-        <published>2026-03-11T10:58:23+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1638】尚永琪《莲花上的狮子》]]></summary>
-    </entry>
-        <entry>
-        <title>超级制图上手：图片上的文字如何用AI修改？无痕改字一键出图</title>
-        <id>148941</id>
-        <link href="https://blog.zhheo.com/p/yynnxi2c.html?utm_source=blogfinder" />
-        <published>2026-03-11T10:46:25+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[超级制图上手：图片上的文字如何用AI修改？无痕改字一键出图]]></summary>
-    </entry>
-        <entry>
-        <title>杂记 - 失踪人口回归</title>
-        <id>149250</id>
-        <link href="https://knay.net/note/untitled-20260311?utm_source=blogfinder" />
-        <published>2026-03-11T10:45:48+08:00</published>
-        <author>
-            <name>Yang&#039;s Blog</name>
-            <uri>https://knay.net</uri>
-        </author>
-        <summary type="text"><![CDATA[杂记 - 失踪人口回归]]></summary>
-    </entry>
-        <entry>
-        <title>搭建 OpenClaw 并关联 Github Copilot，实现无限免费大模型 token</title>
-        <id>148938</id>
-        <link href="https://www.sunzhongwei.com/install-openclaw-with-github-copilot?utm_source=blogfinder" />
-        <published>2026-03-11T10:33:33+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[搭建 OpenClaw 并关联 Github Copilot，实现无限免费大模型 token]]></summary>
-    </entry>
-        <entry>
-        <title>在重庆，比洪崖洞还难挤进去的，是周末双休的公司!</title>
-        <id>148936</id>
-        <link href="https://ygz.ink/archives/4485.html?utm_source=blogfinder" />
-        <published>2026-03-11T10:20:07+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[在重庆，比洪崖洞还难挤进去的，是周末双休的公司!]]></summary>
-    </entry>
-        <entry>
-        <title>克制</title>
-        <id>148952</id>
-        <link href="https://blog.veitzn.top/archives/1998?utm_source=blogfinder" />
-        <published>2026-03-11T10:11:11+08:00</published>
-        <author>
-            <name>Veitzn 的小屋</name>
-            <uri>https://blog.veitzn.top</uri>
-        </author>
-        <summary type="text"><![CDATA[克制]]></summary>
-    </entry>
-        <entry>
-        <title>《重生之我在阿里养&amp;quot;龙虾&amp;quot;Ⅰ》</title>
-        <id>148945</id>
-        <link href="https://liuqingwushui.top/archives/143/?utm_source=blogfinder" />
-        <published>2026-03-11T09:50:00+08:00</published>
-        <author>
-            <name>流情的博客</name>
-            <uri>https://liuqingwushui.top</uri>
-        </author>
-        <summary type="text"><![CDATA[《重生之我在阿里养&amp;quot;龙虾&amp;quot;Ⅰ》]]></summary>
-    </entry>
-        <entry>
-        <title>好因有好果，好人真的会有好报吗？</title>
-        <id>148947</id>
-        <link href="https://www.zhyok.cn/index.php/archives/263/?utm_source=blogfinder" />
-        <published>2026-03-11T08:46:00+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[好因有好果，好人真的会有好报吗？]]></summary>
-    </entry>
-        <entry>
-        <title>【Typecho插件】Blog Helper一款可以一键同步微信运动、快速发布说说|时光机|碎语|日记|心情|文章的插件</title>
-        <id>148930</id>
-        <link href="https://chrison.cn/work/369.html?utm_source=blogfinder" />
-        <published>2026-03-11T08:30:00+08:00</published>
-        <author>
-            <name>目的地</name>
-            <uri>https://chrison.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[【Typecho插件】Blog Helper一款可以一键同步微信运动、快速发布说说|时光机|碎语|日记|心情|文章的插件]]></summary>
-    </entry>
-        <entry>
-        <title>VMware VCSA 8 修改主机名和重置证书</title>
-        <id>148962</id>
-        <link href="https://songxwn.com/vcsa8-resetCA/?utm_source=blogfinder" />
-        <published>2026-03-11T08:18:20+08:00</published>
-        <author>
-            <name>Song&#039;s Blog</name>
-            <uri>https://songxwn.com</uri>
-        </author>
-        <summary type="text"><![CDATA[VMware VCSA 8 修改主机名和重置证书]]></summary>
-    </entry>
-        <entry>
-        <title>尝试了一下最近很火的openclaw</title>
-        <id>148937</id>
-        <link href="https://www.xiaocaoderijiben.online/archives/307?utm_source=blogfinder" />
-        <published>2026-03-11T08:15:55+08:00</published>
-        <author>
-            <name>小草的日记本</name>
-            <uri>https://www.xiaocaoderijiben.online</uri>
-        </author>
-        <summary type="text"><![CDATA[尝试了一下最近很火的openclaw]]></summary>
-    </entry>
-        <entry>
-        <title>2026 Mercury (水星银行) 开户完整教程</title>
-        <id>149243</id>
-        <link href="https://haydenbi.com/posts/mercury-register-in-2026?utm_source=blogfinder" />
-        <published>2026-03-11T08:00:00+08:00</published>
-        <author>
-            <name>HaydenBi</name>
-            <uri>https://haydenbi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026 Mercury (水星银行) 开户完整教程]]></summary>
-    </entry>
-        <entry>
-        <title>27考研总复习安排</title>
-        <id>149242</id>
-        <link href="https://www.juayohuang.top/blog/acknowledge/postgraduate-entrance-examination/prepare-summary?utm_source=blogfinder" />
-        <published>2026-03-11T08:00:00+08:00</published>
-        <author>
-            <name>Atri Website</name>
-            <uri>https://www.juayohuang.top</uri>
-        </author>
-        <summary type="text"><![CDATA[27考研总复习安排]]></summary>
-    </entry>
-        <entry>
-        <title>CPI创新高可能不是我们以为的那么回事</title>
-        <id>149239</id>
-        <link href="https://ddbzhou.com/post/cpichuangxingao/?utm_source=blogfinder" />
-        <published>2026-03-11T08:00:00+08:00</published>
-        <author>
-            <name>兜兜爸投资笔记</name>
-            <uri>https://ddbzhou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[CPI创新高可能不是我们以为的那么回事]]></summary>
-    </entry>
-        <entry>
-        <title>每次新机器都要重新配环境？试试这个 rig</title>
-        <id>149221</id>
-        <link href="https://catcat.blog/2026/03/rig-bootstrap-development-environment.html?utm_source=blogfinder" />
-        <published>2026-03-11T08:00:00+08:00</published>
-        <author>
-            <name>猫猫博客</name>
-            <uri>https://catcat.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[每次新机器都要重新配环境？试试这个 rig]]></summary>
-    </entry>
-        <entry>
-        <title>花两个月写的一首曲子🎵</title>
-        <id>148932</id>
-        <link href="https://www.immarcus.com/blog/a-song-which-took-two-months?utm_source=blogfinder" />
-        <published>2026-03-11T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[花两个月写的一首曲子🎵]]></summary>
-    </entry>
-        <entry>
-        <title>20260311</title>
-        <id>148939</id>
-        <link href="https://61.life/2026/0311?utm_source=blogfinder" />
-        <published>2026-03-11T07:58:10+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260311]]></summary>
-    </entry>
-        <entry>
-        <title>生產力 = 浪費多「少」時間</title>
-        <id>148950</id>
-        <link href="https://blog.giveanornot.com/productivity-happiness/?utm_source=blogfinder" />
-        <published>2026-03-11T07:40:00+08:00</published>
-        <author>
-            <name>資工小廢物  - JN</name>
-            <uri>https://blog.giveanornot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[生產力 = 浪費多「少」時間]]></summary>
-    </entry>
-        <entry>
-        <title>全民养虾时代，别着急养&quot;龙虾&quot;</title>
-        <id>148960</id>
-        <link href="https://www.aiwazi.com/2925.html?utm_source=blogfinder" />
-        <published>2026-03-11T06:28:32+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[全民养虾时代，别着急养&quot;龙虾&quot;]]></summary>
-    </entry>
-        <entry>
-        <title>为什么我们总是不擅长临场发挥</title>
-        <id>149212</id>
-        <link href="https://jt26wzz.com/posts/0015-why-we-struggle-with-improvised-speaking/?utm_source=blogfinder" />
-        <published>2026-03-11T05:34:12+08:00</published>
-        <author>
-            <name>从不说安全词</name>
-            <uri>https://jt26wzz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么我们总是不擅长临场发挥]]></summary>
-    </entry>
-        <entry>
-        <title>生殖的诅咒与无字真经</title>
-        <id>148806</id>
-        <link href="https://www.infinite.moe/posts/1-894b77cf?utm_source=blogfinder" />
-        <published>2026-03-11T02:46:02+08:00</published>
-        <author>
-            <name>jona 漫游宇宙</name>
-            <uri>https://www.infinite.moe</uri>
-        </author>
-        <summary type="text"><![CDATA[生殖的诅咒与无字真经]]></summary>
-    </entry>
-        <entry>
-        <title>macOS安装龙虾OpenClaw</title>
-        <id>148958</id>
-        <link href="https://chegva.com/6676.html?utm_source=blogfinder" />
-        <published>2026-03-11T01:23:40+08:00</published>
-        <author>
-            <name>安志合的学习博客</name>
-            <uri>https://chegva.com</uri>
-        </author>
-        <summary type="text"><![CDATA[macOS安装龙虾OpenClaw]]></summary>
     </entry>
     </feed>
