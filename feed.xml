@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-14T11:00:29+08:00</updated>
+    <updated>2026-03-14T12:01:00+08:00</updated>
+        <entry>
+        <title>20260313</title>
+        <id>149379</id>
+        <link href="https://61.life/2026/0313?utm_source=blogfinder" />
+        <published>2026-03-14T09:12:10+08:00</published>
+        <author>
+            <name>61’s life</name>
+            <uri>https://61.life</uri>
+        </author>
+        <summary type="text"><![CDATA[20260313]]></summary>
+    </entry>
+        <entry>
+        <title>20260312</title>
+        <id>149380</id>
+        <link href="https://61.life/2026/0312?utm_source=blogfinder" />
+        <published>2026-03-14T09:01:50+08:00</published>
+        <author>
+            <name>61’s life</name>
+            <uri>https://61.life</uri>
+        </author>
+        <summary type="text"><![CDATA[20260312]]></summary>
+    </entry>
         <entry>
         <title>HTTP/3与QUIC协议深度解析：下一代Web传输技术的革命</title>
         <id>149375</id>
@@ -66,6 +88,17 @@
             <uri>https://blog.gudong.site</uri>
         </author>
         <summary type="text"><![CDATA[两年没见面，我们聊了什么]]></summary>
+    </entry>
+        <entry>
+        <title>谁会去移动营业厅安装 OpenClaw ？</title>
+        <id>149381</id>
+        <link href="https://dujun.io/28c43a95-478f-5e2a-8805-510244c99494.html?utm_source=blogfinder" />
+        <published>2026-03-14T02:47:00+08:00</published>
+        <author>
+            <name>杜郎俊赏</name>
+            <uri>https://dujun.io</uri>
+        </author>
+        <summary type="text"><![CDATA[谁会去移动营业厅安装 OpenClaw ？]]></summary>
     </entry>
         <entry>
         <title>读《面纱》——拨开面纱直视人性</title>
@@ -1485,38 +1518,5 @@
             <uri>https://vjo.cc</uri>
         </author>
         <summary type="text"><![CDATA[三月杂记]]></summary>
-    </entry>
-        <entry>
-        <title>青龙面板报高危漏洞：可任意登录</title>
-        <id>148953</id>
-        <link href="https://dujun.io/6e6cb299-49b9-5c04-9978-e61027b6ebbb.html?utm_source=blogfinder" />
-        <published>2026-03-11T11:45:00+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[青龙面板报高危漏洞：可任意登录]]></summary>
-    </entry>
-        <entry>
-        <title>2026年的一些小目标</title>
-        <id>149246</id>
-        <link href="https://rolen.wiki/2026-goals/?utm_source=blogfinder" />
-        <published>2026-03-11T11:43:18+08:00</published>
-        <author>
-            <name>Rolen&#039;s Blog</name>
-            <uri>https://rolen.wiki</uri>
-        </author>
-        <summary type="text"><![CDATA[2026年的一些小目标]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 5 Landau 相变理论</title>
-        <id>148946</id>
-        <link href="https://physnya.top/statistical-mechanics/lesson-5-landau-phase-transition/?utm_source=blogfinder" />
-        <published>2026-03-11T11:28:27+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 5 Landau 相变理论]]></summary>
     </entry>
     </feed>
