@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-14T19:01:01+08:00</updated>
+    <updated>2026-03-14T21:00:27+08:00</updated>
+        <entry>
+        <title>手写 C++ Web 服务器：模板化中间件链设计</title>
+        <id>149397</id>
+        <link href="https://www.fallrain.cn/?p=1792&amp;utm_source=blogfinder" />
+        <published>2026-03-14T19:43:00+08:00</published>
+        <author>
+            <name>秋雨 De blog</name>
+            <uri>https://www.fallrain.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[手写 C++ Web 服务器：模板化中间件链设计]]></summary>
+    </entry>
+        <entry>
+        <title>手写 C++ Web 服务器：中间件系统设计</title>
+        <id>149398</id>
+        <link href="https://www.fallrain.cn/?p=1791&amp;utm_source=blogfinder" />
+        <published>2026-03-14T19:34:17+08:00</published>
+        <author>
+            <name>秋雨 De blog</name>
+            <uri>https://www.fallrain.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[手写 C++ Web 服务器：中间件系统设计]]></summary>
+    </entry>
+        <entry>
+        <title>前端性能优化深度指南：从渲染原理到实际指标的全链路优化</title>
+        <id>149395</id>
+        <link href="https://www.aserver.cn/?post=63&amp;utm_source=blogfinder" />
+        <published>2026-03-14T19:01:29+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[前端性能优化深度指南：从渲染原理到实际指标的全链路优化]]></summary>
+    </entry>
+        <entry>
+        <title>兰州水墨丹霞慕名揽胜</title>
+        <id>149393</id>
+        <link href="https://fxpai.com/article/lanzhoushuimodanxiamuminglansheng?utm_source=blogfinder" />
+        <published>2026-03-14T18:32:12+08:00</published>
+        <author>
+            <name>非学·派</name>
+            <uri>https://fxpai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[兰州水墨丹霞慕名揽胜]]></summary>
+    </entry>
+        <entry>
+        <title>前端性能优化深度指南：从渲染原理到实际指标的全链路优化</title>
+        <id>149396</id>
+        <link href="https://www.aserver.cn/?post=62&amp;utm_source=blogfinder" />
+        <published>2026-03-14T18:00:02+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[前端性能优化深度指南：从渲染原理到实际指标的全链路优化]]></summary>
+    </entry>
         <entry>
         <title>今年的 315 晚会会曝光那些行业</title>
         <id>149388</id>
@@ -209,6 +264,17 @@
             <uri>https://blog.gudong.site</uri>
         </author>
         <summary type="text"><![CDATA[两年没见面，我们聊了什么]]></summary>
+    </entry>
+        <entry>
+        <title>读《陶庵梦忆》（一、梦忆序）</title>
+        <id>149394</id>
+        <link href="https://justgoidea.com/du-tao-an-meng-yi-meng-yi-xu/?utm_source=blogfinder" />
+        <published>2026-03-14T05:46:00+08:00</published>
+        <author>
+            <name>槿呈 Goidea</name>
+            <uri>https://justgoidea.com</uri>
+        </author>
+        <summary type="text"><![CDATA[读《陶庵梦忆》（一、梦忆序）]]></summary>
     </entry>
         <entry>
         <title>谁会去移动营业厅安装 OpenClaw ？</title>
@@ -781,6 +847,17 @@
             <uri>https://www.fallrain.cn</uri>
         </author>
         <summary type="text"><![CDATA[《手写 C++ Web 服务器》：业务逻辑、Cookie 与 Session 管理]]></summary>
+    </entry>
+        <entry>
+        <title>手写 C++ Web 服务器：HTTP 请求解析</title>
+        <id>149399</id>
+        <link href="https://www.fallrain.cn/?p=1793&amp;utm_source=blogfinder" />
+        <published>2026-03-12T20:42:00+08:00</published>
+        <author>
+            <name>秋雨 De blog</name>
+            <uri>https://www.fallrain.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[手写 C++ Web 服务器：HTTP 请求解析]]></summary>
     </entry>
         <entry>
         <title>《手写 C++ Web 服务器》：从 TCP 套接字到请求处理</title>
@@ -1452,38 +1529,5 @@
             <uri>https://onojyun.com</uri>
         </author>
         <summary type="text"><![CDATA[泡沫与剃须刀]]></summary>
-    </entry>
-        <entry>
-        <title>巨坑？OpenClaw+Ollama+Qwen3.5:9b竟然无法读取本地文件!</title>
-        <id>148961</id>
-        <link href="https://www.suiyan.cc/blog/20260311125316?utm_source=blogfinder" />
-        <published>2026-03-11T20:53:16+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[巨坑？OpenClaw+Ollama+Qwen3.5:9b竟然无法读取本地文件!]]></summary>
-    </entry>
-        <entry>
-        <title>或许，快乐地曳尾涂中就挺好</title>
-        <id>149244</id>
-        <link href="https://www.pgoj.top/archives/happy-dragging-tail-in-mud.html?utm_source=blogfinder" />
-        <published>2026-03-11T19:46:19+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[或许，快乐地曳尾涂中就挺好]]></summary>
-    </entry>
-        <entry>
-        <title>💬 唠叨：2026-03-11 19:25</title>
-        <id>149000</id>
-        <link href="https://koobai.com/laodao/2026/03/20260311-192502/?utm_source=blogfinder" />
-        <published>2026-03-11T19:25:02+08:00</published>
-        <author>
-            <name>Koobai</name>
-            <uri>https://koobai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[💬 唠叨：2026-03-11 19:25]]></summary>
     </entry>
     </feed>
