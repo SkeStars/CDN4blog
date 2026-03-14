@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-14T17:01:50+08:00</updated>
+    <updated>2026-03-14T18:00:44+08:00</updated>
+        <entry>
+        <title>今年的 315 晚会会曝光那些行业</title>
+        <id>149388</id>
+        <link href="https://www.aiwazi.com/2942.html?utm_source=blogfinder" />
+        <published>2026-03-14T16:16:48+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[今年的 315 晚会会曝光那些行业]]></summary>
+    </entry>
         <entry>
         <title>养只龙虾（OpenClaw）而已，不是咕咚来了。</title>
         <id>149386</id>
@@ -22,6 +33,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[养只龙虾（OpenClaw）而已，不是咕咚来了。]]></summary>
+    </entry>
+        <entry>
+        <title>AI解读《我的青春三部曲》</title>
+        <id>149389</id>
+        <link href="https://yishu-life.com/index.php/archives/327.html?utm_source=blogfinder" />
+        <published>2026-03-14T14:58:17+08:00</published>
+        <author>
+            <name>树下语</name>
+            <uri>https://yishu-life.com</uri>
+        </author>
+        <summary type="text"><![CDATA[AI解读《我的青春三部曲》]]></summary>
     </entry>
         <entry>
         <title>OpenClaw 记忆管理与技能创建指南</title>
@@ -1452,38 +1474,5 @@
             <uri>https://www.x8xx.cn</uri>
         </author>
         <summary type="text"><![CDATA[wordpress友情链接自助申请插件]]></summary>
-    </entry>
-        <entry>
-        <title>关于Unity China偷偷更换了LTS的安装包的这档事</title>
-        <id>148966</id>
-        <link href="https://blog.moeworld.tech/2026/03/11/%e5%85%b3%e4%ba%8eunity-china%e5%81%b7%e5%81%b7%e6%9b%b4%e6%8d%a2%e4%ba%86lts%e7%9a%84%e5%ae%89%e8%a3%85%e5%8c%85%e7%9a%84%e8%bf%99%e6%a1%a3%e4%ba%8b/?utm_source=blogfinder" />
-        <published>2026-03-11T17:49:38+08:00</published>
-        <author>
-            <name>晓空 Blog</name>
-            <uri>https://blog.moeworld.tech</uri>
-        </author>
-        <summary type="text"><![CDATA[关于Unity China偷偷更换了LTS的安装包的这档事]]></summary>
-    </entry>
-        <entry>
-        <title>提前还贷</title>
-        <id>148969</id>
-        <link href="https://dujun.io/d4b52e25-d184-53a9-877c-cb681562b045.html?utm_source=blogfinder" />
-        <published>2026-03-11T17:22:00+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[提前还贷]]></summary>
-    </entry>
-        <entry>
-        <title>AI算法在实际应用中的挑战：从理论到生产环境的鸿沟</title>
-        <id>149213</id>
-        <link href="https://www.aserver.cn/?post=31&amp;utm_source=blogfinder" />
-        <published>2026-03-11T17:16:48+08:00</published>
-        <author>
-            <name>俞事</name>
-            <uri>https://www.aserver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[AI算法在实际应用中的挑战：从理论到生产环境的鸿沟]]></summary>
     </entry>
     </feed>
