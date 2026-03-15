@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-15T18:00:44+08:00</updated>
+    <updated>2026-03-15T19:00:22+08:00</updated>
+        <entry>
+        <title>我的快递，成了他们6000块债务的“人质”</title>
+        <id>149458</id>
+        <link href="https://ryqi.top/p/express-delivery/?utm_source=blogfinder" />
+        <published>2026-03-15T18:20:00+08:00</published>
+        <author>
+            <name>合荒小站</name>
+            <uri>https://ryqi.top</uri>
+        </author>
+        <summary type="text"><![CDATA[我的快递，成了他们6000块债务的“人质”]]></summary>
+    </entry>
         <entry>
         <title>跳上车的喵（20260308）</title>
         <id>149453</id>
@@ -352,6 +363,17 @@
             <uri>https://xiangming.site</uri>
         </author>
         <summary type="text"><![CDATA[typecho 图片上传又拍云插件]]></summary>
+    </entry>
+        <entry>
+        <title>乱评一下 MacBook Neo</title>
+        <id>149457</id>
+        <link href="https://imgradeone.com/thoughts/macbook-neo?utm_source=blogfinder" />
+        <published>2026-03-14T20:01:00+08:00</published>
+        <author>
+            <name>the real imgradeone</name>
+            <uri>https://imgradeone.com</uri>
+        </author>
+        <summary type="text"><![CDATA[乱评一下 MacBook Neo]]></summary>
     </entry>
         <entry>
         <title>手写 C++ Web 服务器：模板化中间件链设计</title>
@@ -1397,38 +1419,5 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[冬至系列完结]]></summary>
-    </entry>
-        <entry>
-        <title>久违的生活碎片记录</title>
-        <id>149288</id>
-        <link href="https://ssshooter.com/2026-03-12-diary/?utm_source=blogfinder" />
-        <published>2026-03-12T18:43:14+08:00</published>
-        <author>
-            <name>Usubeni Fantasy</name>
-            <uri>https://ssshooter.com</uri>
-        </author>
-        <summary type="text"><![CDATA[久违的生活碎片记录]]></summary>
-    </entry>
-        <entry>
-        <title>外婆的甜酒</title>
-        <id>149272</id>
-        <link href="https://airy.ink/times/431?utm_source=blogfinder" />
-        <published>2026-03-12T18:37:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[外婆的甜酒]]></summary>
-    </entry>
-        <entry>
-        <title>全员养龙虾时代到来</title>
-        <id>149270</id>
-        <link href="https://joojen.com/archives/8867.html?utm_source=blogfinder" />
-        <published>2026-03-12T18:24:40+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[全员养龙虾时代到来]]></summary>
     </entry>
     </feed>
