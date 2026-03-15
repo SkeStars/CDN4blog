@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-15T21:00:31+08:00</updated>
+    <updated>2026-03-15T22:00:43+08:00</updated>
+        <entry>
+        <title>博客二十一周年</title>
+        <id>149467</id>
+        <link href="https://shuiba.co/blog-21st-anniversary?utm_source=blogfinder" />
+        <published>2026-03-15T20:53:00+08:00</published>
+        <author>
+            <name>水八口的冥想盆</name>
+            <uri>https://shuiba.co</uri>
+        </author>
+        <summary type="text"><![CDATA[博客二十一周年]]></summary>
+    </entry>
         <entry>
         <title>前端性能优化深度指南：从渲染原理到实际指标的全链路优化</title>
         <id>149462</id>
@@ -385,6 +396,17 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[周末流水账 0314]]></summary>
+    </entry>
+        <entry>
+        <title>博客装修记：令人头疼的 Typecho 插件开发</title>
+        <id>149468</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1137/?utm_source=blogfinder" />
+        <published>2026-03-14T21:59:41+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[博客装修记：令人头疼的 Typecho 插件开发]]></summary>
     </entry>
         <entry>
         <title>随手记：VMware下的Win7无法安装tools驱动</title>
@@ -1441,16 +1463,5 @@
             <uri>https://jyblog.cn</uri>
         </author>
         <summary type="text"><![CDATA[开源、免费、好用的密码记录工具：倦意密码本 JyPassword 插件版 发布！]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 3 Lane - Emden Equation</title>
-        <id>149285</id>
-        <link href="https://physnya.top/star-planet/lesson-3-lane-emden-equ/?utm_source=blogfinder" />
-        <published>2026-03-12T21:53:54+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 3 Lane - Emden Equation]]></summary>
     </entry>
     </feed>
