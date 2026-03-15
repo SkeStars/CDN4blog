@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-15T16:00:16+08:00</updated>
+    <updated>2026-03-15T17:00:45+08:00</updated>
         <entry>
         <title>2026年2月总结</title>
         <id>149444</id>
@@ -68,6 +68,28 @@
         <summary type="text"><![CDATA[云原生架构深度解析：从容器化到服务网格的全栈实践]]></summary>
     </entry>
         <entry>
+        <title>注销了中信银行的信用卡</title>
+        <id>149449</id>
+        <link href="https://www.sunzhongwei.com/cancelled-credit-card-of-citic-bank?utm_source=blogfinder" />
+        <published>2026-03-15T11:14:52+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[注销了中信银行的信用卡]]></summary>
+    </entry>
+        <entry>
+        <title>由免费理财想到摸石看病</title>
+        <id>149451</id>
+        <link href="https://www.pgoj.top/archives/free-is-the-most-expensive.html?utm_source=blogfinder" />
+        <published>2026-03-15T11:05:21+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[由免费理财想到摸石看病]]></summary>
+    </entry>
+        <entry>
         <title>福瑞控狂喜！！！</title>
         <id>149436</id>
         <link href="https://zooyoo.top/article.php?id=40&amp;utm_source=blogfinder" />
@@ -121,6 +143,17 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[HTTP/3与QUIC协议深度解析：下一代Web传输技术的革命]]></summary>
+    </entry>
+        <entry>
+        <title>如何解决 Matomo 统计的历史数据突然变成 0 访客</title>
+        <id>149450</id>
+        <link href="https://wuminboke.site/uncategorized/how-to-fix-matomo-historical-visitor-suddenly-became-zero/?utm_source=blogfinder" />
+        <published>2026-03-15T08:33:03+08:00</published>
+        <author>
+            <name>无名博客</name>
+            <uri>https://wuminboke.site</uri>
+        </author>
+        <summary type="text"><![CDATA[如何解决 Matomo 统计的历史数据突然变成 0 访客]]></summary>
     </entry>
         <entry>
         <title>压抑与诱惑：中国教育摧残人性和人类本性的两种方式</title>
@@ -1397,60 +1430,5 @@
             <uri>https://aboss.top</uri>
         </author>
         <summary type="text"><![CDATA[eTempMail-免费临时教育邮箱]]></summary>
-    </entry>
-        <entry>
-        <title>迟到了 11 年的特效</title>
-        <id>149260</id>
-        <link href="https://dujun.io/76f74d22-a321-5f30-bead-84c0d2cbdfa0.html?utm_source=blogfinder" />
-        <published>2026-03-12T16:57:24+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[迟到了 11 年的特效]]></summary>
-    </entry>
-        <entry>
-        <title>今天是下班最早的了</title>
-        <id>149280</id>
-        <link href="https://ygz.ink/archives/4497.html?utm_source=blogfinder" />
-        <published>2026-03-12T16:46:30+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[今天是下班最早的了]]></summary>
-    </entry>
-        <entry>
-        <title>豸山寺</title>
-        <id>149289</id>
-        <link href="http://www.yveji.com/Scenery/zhi-shan-si.html?utm_source=blogfinder" />
-        <published>2026-03-12T16:20:00+08:00</published>
-        <author>
-            <name>悦己</name>
-            <uri>http://www.yveji.com</uri>
-        </author>
-        <summary type="text"><![CDATA[豸山寺]]></summary>
-    </entry>
-        <entry>
-        <title>Xiaomi 17 标准版刷机折腾记：解锁、官改ROM与必备模块</title>
-        <id>149271</id>
-        <link href="https://blog.grtsinry43.com/posts/xiaomi-17-bootloader-unlock-custom-rom?utm_source=blogfinder" />
-        <published>2026-03-12T16:14:26+08:00</published>
-        <author>
-            <name>Grtsinry43&#039;s Blog</name>
-            <uri>https://blog.grtsinry43.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Xiaomi 17 标准版刷机折腾记：解锁、官改ROM与必备模块]]></summary>
-    </entry>
-        <entry>
-        <title>零安装的&quot;云养虾&quot;：ArkClaw 使用指南</title>
-        <id>149268</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/03/arkclaw.html?utm_source=blogfinder" />
-        <published>2026-03-12T16:01:06+08:00</published>
-        <author>
-            <name>阮一峰的网络日志</name>
-            <uri>http://www.ruanyifeng.com/blog</uri>
-        </author>
-        <summary type="text"><![CDATA[零安装的&quot;云养虾&quot;：ArkClaw 使用指南]]></summary>
     </entry>
     </feed>
