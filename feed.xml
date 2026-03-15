@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-15T22:00:43+08:00</updated>
+    <updated>2026-03-15T23:01:07+08:00</updated>
         <entry>
         <title>博客二十一周年</title>
         <id>149467</id>
@@ -88,6 +88,17 @@
             <uri>https://www.justzht.com</uri>
         </author>
         <summary type="text"><![CDATA[2026.3.14]]></summary>
+    </entry>
+        <entry>
+        <title>不到两百元从北京富婆那淘了个全新投影仪，能买到心仪的电子垃圾也有成就感</title>
+        <id>149469</id>
+        <link href="https://www.52txr.cn/2026/touyingyi.html?utm_source=blogfinder" />
+        <published>2026-03-15T15:50:00+08:00</published>
+        <author>
+            <name>陶小桃</name>
+            <uri>https://www.52txr.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[不到两百元从北京富婆那淘了个全新投影仪，能买到心仪的电子垃圾也有成就感]]></summary>
     </entry>
         <entry>
         <title>闲游九峰山</title>
@@ -1419,49 +1430,5 @@
             <uri>https://www.tortorse.com</uri>
         </author>
         <summary type="text"><![CDATA[城市没有变小，只是我们与它之间，多了一层赶路的视角]]></summary>
-    </entry>
-        <entry>
-        <title>羡慕是一种本能，而尊重是一种选择</title>
-        <id>149336</id>
-        <link href="https://blog.solazy.me/20260312/?utm_source=blogfinder" />
-        <published>2026-03-12T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[羡慕是一种本能，而尊重是一种选择]]></summary>
-    </entry>
-        <entry>
-        <title>[Python]多个图片自动生成“骑马订”排版的小册子 PDF</title>
-        <id>149326</id>
-        <link href="https://loneapex.cn/archives/5306?utm_source=blogfinder" />
-        <published>2026-03-12T22:54:00+08:00</published>
-        <author>
-            <name>Mimosa 的小屋</name>
-            <uri>https://loneapex.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[[Python]多个图片自动生成“骑马订”排版的小册子 PDF]]></summary>
-    </entry>
-        <entry>
-        <title>谈谈，存在即合理</title>
-        <id>149282</id>
-        <link href="https://sliun.com/hushuoyiqi/?utm_source=blogfinder" />
-        <published>2026-03-12T22:33:00+08:00</published>
-        <author>
-            <name>理论派</name>
-            <uri>https://lilun.bearblog.dev</uri>
-        </author>
-        <summary type="text"><![CDATA[谈谈，存在即合理]]></summary>
-    </entry>
-        <entry>
-        <title>开源、免费、好用的密码记录工具：倦意密码本 JyPassword 插件版 发布！</title>
-        <id>149284</id>
-        <link href="https://jyblog.cn/5045/?utm_source=blogfinder" />
-        <published>2026-03-12T22:04:10+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[开源、免费、好用的密码记录工具：倦意密码本 JyPassword 插件版 发布！]]></summary>
     </entry>
     </feed>
