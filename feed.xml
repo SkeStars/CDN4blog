@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-15T19:00:22+08:00</updated>
+    <updated>2026-03-15T21:00:31+08:00</updated>
+        <entry>
+        <title>前端性能优化深度指南：从渲染原理到实际指标的全链路优化</title>
+        <id>149462</id>
+        <link href="https://www.aserver.cn/?post=69&amp;utm_source=blogfinder" />
+        <published>2026-03-15T19:02:21+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[前端性能优化深度指南：从渲染原理到实际指标的全链路优化]]></summary>
+    </entry>
+        <entry>
+        <title>OpenClaw劝退指南：这10类人，请放过工具也放过自己</title>
+        <id>149465</id>
+        <link href="https://www.suiyan.cc/blog/20260315104644?utm_source=blogfinder" />
+        <published>2026-03-15T18:46:44+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenClaw劝退指南：这10类人，请放过工具也放过自己]]></summary>
+    </entry>
         <entry>
         <title>我的快递，成了他们6000块债务的“人质”</title>
         <id>149458</id>
@@ -22,6 +44,17 @@
             <uri>https://ryqi.top</uri>
         </author>
         <summary type="text"><![CDATA[我的快递，成了他们6000块债务的“人质”]]></summary>
+    </entry>
+        <entry>
+        <title>前端性能优化深度指南：从渲染原理到实际指标的全链路优化</title>
+        <id>149463</id>
+        <link href="https://www.aserver.cn/?post=68&amp;utm_source=blogfinder" />
+        <published>2026-03-15T18:00:02+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[前端性能优化深度指南：从渲染原理到实际指标的全链路优化]]></summary>
     </entry>
         <entry>
         <title>跳上车的喵（20260308）</title>
@@ -66,6 +99,17 @@
             <uri>https://rolen.wiki</uri>
         </author>
         <summary type="text"><![CDATA[2026年2月总结]]></summary>
+    </entry>
+        <entry>
+        <title>🧰</title>
+        <id>149464</id>
+        <link href="https://xiangming.site/1125.html?utm_source=blogfinder" />
+        <published>2026-03-15T13:43:29+08:00</published>
+        <author>
+            <name>湘铭呀</name>
+            <uri>https://xiangming.site</uri>
+        </author>
+        <summary type="text"><![CDATA[🧰]]></summary>
     </entry>
         <entry>
         <title>WPS2023专业增强版:免激活、去水印、永久授权、完整功能优化增强版</title>
@@ -200,6 +244,17 @@
         <summary type="text"><![CDATA[如何解决 Matomo 统计的历史数据突然变成 0 访客]]></summary>
     </entry>
         <entry>
+        <title>填不满的锚点</title>
+        <id>149459</id>
+        <link href="https://justgoidea.com/tian-bu-man-de-mao-dian/?utm_source=blogfinder" />
+        <published>2026-03-15T04:40:00+08:00</published>
+        <author>
+            <name>槿呈 Goidea</name>
+            <uri>https://justgoidea.com</uri>
+        </author>
+        <summary type="text"><![CDATA[填不满的锚点]]></summary>
+    </entry>
+        <entry>
         <title>压抑与诱惑：中国教育摧残人性和人类本性的两种方式</title>
         <id>149439</id>
         <link href="https://stephenleng.com/cn/yayi-youhuo-zhongguo-jiaoyu/?utm_source=blogfinder" />
@@ -242,6 +297,17 @@
             <uri>https://dujun.io</uri>
         </author>
         <summary type="text"><![CDATA[王兴倡议公司内直呼其名]]></summary>
+    </entry>
+        <entry>
+        <title>报价，亏大了</title>
+        <id>149461</id>
+        <link href="https://blog.hantaotao.top/archives/199/?utm_source=blogfinder" />
+        <published>2026-03-14T23:49:00+08:00</published>
+        <author>
+            <name>一世繁华</name>
+            <uri>https://blog.hantaotao.top</uri>
+        </author>
+        <summary type="text"><![CDATA[报价，亏大了]]></summary>
     </entry>
         <entry>
         <title>捡漏Thinkpad笔记本电脑</title>
@@ -319,6 +385,17 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[周末流水账 0314]]></summary>
+    </entry>
+        <entry>
+        <title>随手记：VMware下的Win7无法安装tools驱动</title>
+        <id>149460</id>
+        <link href="https://www.imxb.de/new_archives/60.shtml?utm_source=blogfinder" />
+        <published>2026-03-14T21:27:39+08:00</published>
+        <author>
+            <name>Xiobb’s Blog</name>
+            <uri>https://www.imxb.de</uri>
+        </author>
+        <summary type="text"><![CDATA[随手记：VMware下的Win7无法安装tools驱动]]></summary>
     </entry>
         <entry>
         <title>Vite8 - 统一的基建开始</title>
@@ -627,6 +704,17 @@
             <uri>https://ddadaal.me</uri>
         </author>
         <summary type="text"><![CDATA[fork subgen实现纯本地AI视频字幕生成和翻译]]></summary>
+    </entry>
+        <entry>
+        <title>子言自语@2026-03-14 11:22</title>
+        <id>149466</id>
+        <link href="https://blog.zimoo.me/talk/1418.html?utm_source=blogfinder" />
+        <published>2026-03-14T11:22:00+08:00</published>
+        <author>
+            <name>Zimoo&#039;s Blog</name>
+            <uri>https://blog.zimoo.me</uri>
+        </author>
+        <summary type="text"><![CDATA[子言自语@2026-03-14 11:22]]></summary>
     </entry>
         <entry>
         <title>当下人人都在养龙虾，这龙虾（OpenClaw）为啥突然就火了？</title>
@@ -1364,60 +1452,5 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 3 Lane - Emden Equation]]></summary>
-    </entry>
-        <entry>
-        <title>《手写 C++ Web 服务器》：业务逻辑、Cookie 与 Session 管理</title>
-        <id>149298</id>
-        <link href="https://www.fallrain.cn/?p=1790&amp;utm_source=blogfinder" />
-        <published>2026-03-12T20:46:36+08:00</published>
-        <author>
-            <name>秋雨 De blog</name>
-            <uri>https://www.fallrain.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[《手写 C++ Web 服务器》：业务逻辑、Cookie 与 Session 管理]]></summary>
-    </entry>
-        <entry>
-        <title>手写 C++ Web 服务器：HTTP 请求解析</title>
-        <id>149399</id>
-        <link href="https://www.fallrain.cn/?p=1793&amp;utm_source=blogfinder" />
-        <published>2026-03-12T20:42:00+08:00</published>
-        <author>
-            <name>秋雨 De blog</name>
-            <uri>https://www.fallrain.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[手写 C++ Web 服务器：HTTP 请求解析]]></summary>
-    </entry>
-        <entry>
-        <title>《手写 C++ Web 服务器》：从 TCP 套接字到请求处理</title>
-        <id>149299</id>
-        <link href="https://www.fallrain.cn/?p=1789&amp;utm_source=blogfinder" />
-        <published>2026-03-12T20:40:00+08:00</published>
-        <author>
-            <name>秋雨 De blog</name>
-            <uri>https://www.fallrain.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[《手写 C++ Web 服务器》：从 TCP 套接字到请求处理]]></summary>
-    </entry>
-        <entry>
-        <title>记录我的第一次网恋奔现</title>
-        <id>149301</id>
-        <link href="https://blog.ybyq.wang/archives/1716.html?utm_source=blogfinder" />
-        <published>2026-03-12T20:08:21+08:00</published>
-        <author>
-            <name>Xuan&#039;s blog</name>
-            <uri>https://blog.ybyq.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[记录我的第一次网恋奔现]]></summary>
-    </entry>
-        <entry>
-        <title>冬至系列完结</title>
-        <id>149283</id>
-        <link href="https://blog.mcenahle.org.cn/2026/03/12/440.html?utm_source=blogfinder" />
-        <published>2026-03-12T19:43:18+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[冬至系列完结]]></summary>
     </entry>
     </feed>
