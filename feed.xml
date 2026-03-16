@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-16T14:03:45+08:00</updated>
+    <updated>2026-03-16T15:00:54+08:00</updated>
+        <entry>
+        <title>别信一见钟情，网站都是”养成系”</title>
+        <id>149607</id>
+        <link href="https://www.evan.xin/4421/?utm_source=blogfinder" />
+        <published>2026-03-16T13:22:53+08:00</published>
+        <author>
+            <name>Evan&#039;s Space</name>
+            <uri>https://www.evan.xin</uri>
+        </author>
+        <summary type="text"><![CDATA[别信一见钟情，网站都是”养成系”]]></summary>
+    </entry>
         <entry>
         <title>什么是交流</title>
         <id>149603</id>
@@ -363,6 +374,17 @@
             <uri>https://www.52txr.cn</uri>
         </author>
         <summary type="text"><![CDATA[不到两百元从北京富婆那淘了个全新投影仪，能买到心仪的电子垃圾也有成就感]]></summary>
+    </entry>
+        <entry>
+        <title>推荐 YaoYao 这个跳绳 app</title>
+        <id>149606</id>
+        <link href="http://www.jinhuaiyao.com/posts/recommend-the-yaoyao-jump-rope-app/?utm_source=blogfinder" />
+        <published>2026-03-15T15:30:34+08:00</published>
+        <author>
+            <name>Huaiyao Jin</name>
+            <uri>https://www.jinhuaiyao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[推荐 YaoYao 这个跳绳 app]]></summary>
     </entry>
         <entry>
         <title>闲游九峰山</title>
@@ -1441,27 +1463,5 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 6 Schwarzschild 解]]></summary>
-    </entry>
-        <entry>
-        <title>笔记本系统从deepin换回windows</title>
-        <id>149337</id>
-        <link href="https://www.pgoj.top/archives/from-deepin-back-to-windows.html?utm_source=blogfinder" />
-        <published>2026-03-13T14:35:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[笔记本系统从deepin换回windows]]></summary>
-    </entry>
-        <entry>
-        <title>冬日印象</title>
-        <id>149344</id>
-        <link href="https://www.sunboy.ltd/posts/175a2343/?utm_source=blogfinder" />
-        <published>2026-03-13T14:31:39+08:00</published>
-        <author>
-            <name>Sun Boy&#039;s Blog</name>
-            <uri>https://www.sunboy.ltd</uri>
-        </author>
-        <summary type="text"><![CDATA[冬日印象]]></summary>
     </entry>
     </feed>
