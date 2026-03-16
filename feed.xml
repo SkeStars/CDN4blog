@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-16T11:01:10+08:00</updated>
+    <updated>2026-03-16T14:03:45+08:00</updated>
+        <entry>
+        <title>什么是交流</title>
+        <id>149603</id>
+        <link href="https://kaix.in/2026/0316/?utm_source=blogfinder" />
+        <published>2026-03-16T12:18:10+08:00</published>
+        <author>
+            <name>KAIX.IN</name>
+            <uri>https://kaix.in</uri>
+        </author>
+        <summary type="text"><![CDATA[什么是交流]]></summary>
+    </entry>
+        <entry>
+        <title>云原生架构深度解析：从容器化到服务网格的全栈实践</title>
+        <id>149602</id>
+        <link href="https://www.aserver.cn/?post=71&amp;utm_source=blogfinder" />
+        <published>2026-03-16T12:03:38+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[云原生架构深度解析：从容器化到服务网格的全栈实践]]></summary>
+    </entry>
+        <entry>
+        <title>《怀柔水云间观景台》（1）</title>
+        <id>149600</id>
+        <link href="https://www.weiwenchao.com/2367.html?utm_source=blogfinder" />
+        <published>2026-03-16T11:33:00+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《怀柔水云间观景台》（1）]]></summary>
+    </entry>
+        <entry>
+        <title>周末的检查报告</title>
+        <id>149598</id>
+        <link href="https://knay.net/note/medical-examination-report-20260315?utm_source=blogfinder" />
+        <published>2026-03-16T11:15:16+08:00</published>
+        <author>
+            <name>Yang&#039;s Blog</name>
+            <uri>https://knay.net</uri>
+        </author>
+        <summary type="text"><![CDATA[周末的检查报告]]></summary>
+    </entry>
         <entry>
         <title>GEO 学习：Bing Webmaster 的 AI Performance 指标 Total Citations 和 Avg. Cited Pages 分别是什么意思</title>
         <id>149592</id>
@@ -22,6 +66,50 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[GEO 学习：Bing Webmaster 的 AI Performance 指标 Total Citations 和 Avg. Cited Pages 分别是什么意思]]></summary>
+    </entry>
+        <entry>
+        <title>同事的招聘广告：深圳 20-30k 招聘前端工程师</title>
+        <id>149605</id>
+        <link href="https://cuixiping.com/blog/others/traowp?utm_source=blogfinder" />
+        <published>2026-03-16T10:42:00+08:00</published>
+        <author>
+            <name>崔话记</name>
+            <uri>https://cuixiping.com</uri>
+        </author>
+        <summary type="text"><![CDATA[同事的招聘广告：深圳 20-30k 招聘前端工程师]]></summary>
+    </entry>
+        <entry>
+        <title>油菜花开</title>
+        <id>149597</id>
+        <link href="https://liuqingwushui.top/archives/145/?utm_source=blogfinder" />
+        <published>2026-03-16T10:38:55+08:00</published>
+        <author>
+            <name>流情的博客</name>
+            <uri>https://liuqingwushui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[油菜花开]]></summary>
+    </entry>
+        <entry>
+        <title>洪绘图标助手更新：获取应用图标、将你的图标对mac进行适配</title>
+        <id>149596</id>
+        <link href="https://blog.zhheo.com/p/z9rm5p4p.html?utm_source=blogfinder" />
+        <published>2026-03-16T10:17:56+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[洪绘图标助手更新：获取应用图标、将你的图标对mac进行适配]]></summary>
+    </entry>
+        <entry>
+        <title>完美生活</title>
+        <id>149604</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1112&amp;utm_source=blogfinder" />
+        <published>2026-03-16T10:16:43+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[完美生活]]></summary>
     </entry>
         <entry>
         <title>【读书记1640】亚历山大·拉布吕夫《加油站纪事》</title>
@@ -55,6 +143,17 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[HTTP/3与QUIC协议深度解析：下一代Web传输技术的革命]]></summary>
+    </entry>
+        <entry>
+        <title>杂记 - 放纵餐、念乡</title>
+        <id>149599</id>
+        <link href="https://knay.net/note/untitled-20260316?utm_source=blogfinder" />
+        <published>2026-03-16T08:57:10+08:00</published>
+        <author>
+            <name>Yang&#039;s Blog</name>
+            <uri>https://knay.net</uri>
+        </author>
+        <summary type="text"><![CDATA[杂记 - 放纵餐、念乡]]></summary>
     </entry>
         <entry>
         <title>随思 - 2026-03-15</title>
@@ -143,6 +242,17 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[前端性能优化深度指南：从渲染原理到实际指标的全链路优化]]></summary>
+    </entry>
+        <entry>
+        <title>如何在 CentOS Stream 9 上安装 OpenClaw，并接入企业微信？</title>
+        <id>149595</id>
+        <link href="https://leileiluoluo.com/posts/open-claw-installation-on-centos-and-wecom-integration.html?utm_source=blogfinder" />
+        <published>2026-03-15T19:00:00+08:00</published>
+        <author>
+            <name>磊磊落落</name>
+            <uri>https://leileiluoluo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[如何在 CentOS Stream 9 上安装 OpenClaw，并接入企业微信？]]></summary>
     </entry>
         <entry>
         <title>OpenClaw劝退指南：这10类人，请放过工具也放过自己</title>
@@ -1353,71 +1463,5 @@
             <uri>https://www.sunboy.ltd</uri>
         </author>
         <summary type="text"><![CDATA[冬日印象]]></summary>
-    </entry>
-        <entry>
-        <title>Final Cut Pro 如何正确使用代理模式，加快剪辑</title>
-        <id>149373</id>
-        <link href="https://www.liuzen.com/final-cut-pro2026.html?utm_source=blogfinder" />
-        <published>2026-03-13T13:57:36+08:00</published>
-        <author>
-            <name>刘明禅</name>
-            <uri>https://www.liuzen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Final Cut Pro 如何正确使用代理模式，加快剪辑]]></summary>
-    </entry>
-        <entry>
-        <title>边缘计算：下一代分布式计算范式</title>
-        <id>149328</id>
-        <link href="https://www.aserver.cn/?post=54&amp;utm_source=blogfinder" />
-        <published>2026-03-13T13:21:03+08:00</published>
-        <author>
-            <name>俞事</name>
-            <uri>https://www.aserver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[边缘计算：下一代分布式计算范式]]></summary>
-    </entry>
-        <entry>
-        <title>2026-03-13 12:46</title>
-        <id>149333</id>
-        <link href="https://koobai.com/laodao/2026/03/20260313-124656/?utm_source=blogfinder" />
-        <published>2026-03-13T12:46:56+08:00</published>
-        <author>
-            <name>Koobai</name>
-            <uri>https://koobai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-03-13 12:46]]></summary>
-    </entry>
-        <entry>
-        <title>准备抛弃宝塔面板</title>
-        <id>149332</id>
-        <link href="https://qfsyj.com/987.html?utm_source=blogfinder" />
-        <published>2026-03-13T12:16:54+08:00</published>
-        <author>
-            <name>不曾长大</name>
-            <uri>https://qfsyj.com</uri>
-        </author>
-        <summary type="text"><![CDATA[准备抛弃宝塔面板]]></summary>
-    </entry>
-        <entry>
-        <title>梦见故人</title>
-        <id>149324</id>
-        <link href="https://ilogs.cn/2026/03/13/369.html?utm_source=blogfinder" />
-        <published>2026-03-13T12:15:49+08:00</published>
-        <author>
-            <name>我的日志</name>
-            <uri>https://ilogs.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[梦见故人]]></summary>
-    </entry>
-        <entry>
-        <title>日祭20260313</title>
-        <id>149335</id>
-        <link href="https://www.suiyan.cc/blog/20260313031013?utm_source=blogfinder" />
-        <published>2026-03-13T11:10:13+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[日祭20260313]]></summary>
     </entry>
     </feed>
