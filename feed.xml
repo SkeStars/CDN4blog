@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-16T19:01:29+08:00</updated>
+    <updated>2026-03-16T20:00:26+08:00</updated>
+        <entry>
+        <title>前端性能优化深度指南：从渲染原理到实际指标的全链路优化</title>
+        <id>149624</id>
+        <link href="https://www.aserver.cn/?post=72&amp;utm_source=blogfinder" />
+        <published>2026-03-16T19:08:27+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[前端性能优化深度指南：从渲染原理到实际指标的全链路优化]]></summary>
+    </entry>
+        <entry>
+        <title>对远方指手画脚，对身边漠不关心</title>
+        <id>149625</id>
+        <link href="https://www.pgoj.top/archives/indifferent-to-surroundings.html?utm_source=blogfinder" />
+        <published>2026-03-16T17:14:27+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[对远方指手画脚，对身边漠不关心]]></summary>
+    </entry>
         <entry>
         <title>企业OLT命令行调优无线常用配置</title>
         <id>149620</id>
@@ -44,6 +66,17 @@
             <uri>http://www.yveji.com</uri>
         </author>
         <summary type="text"><![CDATA[瑶族长鼓和井头湾村]]></summary>
+    </entry>
+        <entry>
+        <title>从老活到小</title>
+        <id>149623</id>
+        <link href="https://vrast.cn/posts/57404/?utm_source=blogfinder" />
+        <published>2026-03-16T15:49:04+08:00</published>
+        <author>
+            <name>Keyle&#039;s Blog</name>
+            <uri>https://vrast.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[从老活到小]]></summary>
     </entry>
         <entry>
         <title>【资讯】离谱！某数字安全大厂 AI 客户端竟“附赠”自己泛域名的私钥？</title>
@@ -341,6 +374,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【与Mondo同行·第四季】2：在AI时代，越基本的能力越重要]]></summary>
+    </entry>
+        <entry>
+        <title>盛世的木偶</title>
+        <id>149622</id>
+        <link href="https://wangyurui.com/posts/sheng-shi-de-mu-ou-417a1f8c?utm_source=blogfinder" />
+        <published>2026-03-15T22:00:02+08:00</published>
+        <author>
+            <name>太隐</name>
+            <uri>https://wangyurui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[盛世的木偶]]></summary>
     </entry>
         <entry>
         <title>关于AI的一些形而上思考</title>
@@ -1485,27 +1529,5 @@
             <uri>https://nxxy335.top</uri>
         </author>
         <summary type="text"><![CDATA[呃~饱了]]></summary>
-    </entry>
-        <entry>
-        <title>能量低谷日</title>
-        <id>149348</id>
-        <link href="https://blog.solazy.me/20260313/?utm_source=blogfinder" />
-        <published>2026-03-13T20:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[能量低谷日]]></summary>
-    </entry>
-        <entry>
-        <title>前端性能优化深度指南：从渲染原理到实际指标的全链路优化</title>
-        <id>149377</id>
-        <link href="https://www.aserver.cn/?post=57&amp;utm_source=blogfinder" />
-        <published>2026-03-13T19:02:32+08:00</published>
-        <author>
-            <name>俞事</name>
-            <uri>https://www.aserver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[前端性能优化深度指南：从渲染原理到实际指标的全链路优化]]></summary>
     </entry>
     </feed>
