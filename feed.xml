@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-16T23:00:55+08:00</updated>
+    <updated>2026-03-17T00:00:20+08:00</updated>
+        <entry>
+        <title>第二课：工欲善其事，必先利其器——开发环境准备与Hello World</title>
+        <id>149641</id>
+        <link href="http://aboss.top/js-102-environment/?utm_source=blogfinder" />
+        <published>2026-03-16T22:22:00+08:00</published>
+        <author>
+            <name>三毛笔记</name>
+            <uri>https://aboss.top</uri>
+        </author>
+        <summary type="text"><![CDATA[第二课：工欲善其事，必先利其器——开发环境准备与Hello World]]></summary>
+    </entry>
         <entry>
         <title>20260315</title>
         <id>149636</id>
@@ -946,6 +957,17 @@
             <uri>https://justgoidea.com</uri>
         </author>
         <summary type="text"><![CDATA[填不满的锚点]]></summary>
+    </entry>
+        <entry>
+        <title>糟糕的 </title>
+        <id>149640</id>
+        <link href="https://howiehz.top/archives/theme-color-meta-tag-pitfalls?utm_source=blogfinder" />
+        <published>2026-03-15T03:35:41+08:00</published>
+        <author>
+            <name>皓子的小站</name>
+            <uri>https://howiehz.top</uri>
+        </author>
+        <summary type="text"><![CDATA[糟糕的 ]]></summary>
     </entry>
         <entry>
         <title>南京一日游碎念念</title>
