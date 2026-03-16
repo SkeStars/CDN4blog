@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-16T21:01:01+08:00</updated>
+    <updated>2026-03-16T23:00:55+08:00</updated>
+        <entry>
+        <title>20260315</title>
+        <id>149636</id>
+        <link href="https://61.life/2026/0315?utm_source=blogfinder" />
+        <published>2026-03-16T22:14:09+08:00</published>
+        <author>
+            <name>61’s life</name>
+            <uri>https://61.life</uri>
+        </author>
+        <summary type="text"><![CDATA[20260315]]></summary>
+    </entry>
+        <entry>
+        <title>谜之 450 MHz：用途到底是什么？</title>
+        <id>149635</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1174/?utm_source=blogfinder" />
+        <published>2026-03-16T21:57:21+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[谜之 450 MHz：用途到底是什么？]]></summary>
+    </entry>
         <entry>
         <title>老家又养了一条小狗</title>
         <id>149626</id>
@@ -35,6 +57,17 @@
         <summary type="text"><![CDATA[Lucy（我的OpenClaw）的自我进化风险]]></summary>
     </entry>
         <entry>
+        <title>2年的开发、博客与探索之旅：在梅之夏的2周年</title>
+        <id>149638</id>
+        <link href="https://blog.mcenahle.org.cn/2026/03/16/441.html?utm_source=blogfinder" />
+        <published>2026-03-16T19:24:00+08:00</published>
+        <author>
+            <name>梅之夏</name>
+            <uri>https://blog.mcenahle.org.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[2年的开发、博客与探索之旅：在梅之夏的2周年]]></summary>
+    </entry>
+        <entry>
         <title>前端性能优化深度指南：从渲染原理到实际指标的全链路优化</title>
         <id>149624</id>
         <link href="https://www.aserver.cn/?post=72&amp;utm_source=blogfinder" />
@@ -44,6 +77,17 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[前端性能优化深度指南：从渲染原理到实际指标的全链路优化]]></summary>
+    </entry>
+        <entry>
+        <title>沉痛悼念S先生</title>
+        <id>149631</id>
+        <link href="https://slykiten.com/life-note/s-passed-away/?utm_source=blogfinder" />
+        <published>2026-03-16T19:01:40+08:00</published>
+        <author>
+            <name>狡猫三窝</name>
+            <uri>https://slykiten.com</uri>
+        </author>
+        <summary type="text"><![CDATA[沉痛悼念S先生]]></summary>
     </entry>
         <entry>
         <title>我给我的本地龙虾开了博客！</title>
@@ -154,6 +198,17 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[宝宝耳聋基因筛查发现为遗传性耳聋基因携带者]]></summary>
+    </entry>
+        <entry>
+        <title>读《学期作业报告》</title>
+        <id>149634</id>
+        <link href="https://taxodium.ink/%E8%AF%BB%E3%80%8A%E5%AD%A6%E6%9C%9F%E4%BD%9C%E4%B8%9A%E6%8A%A5%E5%91%8A%E3%80%8B.html?utm_source=blogfinder" />
+        <published>2026-03-16T13:40:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[读《学期作业报告》]]></summary>
     </entry>
         <entry>
         <title>别信一见钟情，网站都是”养成系”</title>
@@ -387,6 +442,28 @@
         <summary type="text"><![CDATA[稻草人周刊 Vol.72]]></summary>
     </entry>
         <entry>
+        <title>OpenClaw 该熄火了</title>
+        <id>149633</id>
+        <link href="https://xingwangzhe.fun/posts/openclaw-no/?utm_source=blogfinder" />
+        <published>2026-03-16T00:00:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenClaw 该熄火了]]></summary>
+    </entry>
+        <entry>
+        <title>解答一下关于traefik的一点疑惑</title>
+        <id>149637</id>
+        <link href="https://nicksxs.me/2026/03/15/%E8%A7%A3%E7%AD%94%E4%B8%80%E4%B8%8B%E5%85%B3%E4%BA%8Etraefik%E7%9A%84%E4%B8%80%E7%82%B9%E7%96%91%E6%83%91/?utm_source=blogfinder" />
+        <published>2026-03-15T23:48:10+08:00</published>
+        <author>
+            <name>Nicksxs&#039;s Blog</name>
+            <uri>https://nicksxs.me</uri>
+        </author>
+        <summary type="text"><![CDATA[解答一下关于traefik的一点疑惑]]></summary>
+    </entry>
+        <entry>
         <title>26春学2周杂记</title>
         <id>149585</id>
         <link href="https://nxxy335.top/archives/be7GmeZ5?utm_source=blogfinder" />
@@ -396,6 +473,17 @@
             <uri>https://nxxy335.top</uri>
         </author>
         <summary type="text"><![CDATA[26春学2周杂记]]></summary>
+    </entry>
+        <entry>
+        <title>2026年春节小记</title>
+        <id>149632</id>
+        <link href="https://www.liangduiban.com/riji/651.html?utm_source=blogfinder" />
+        <published>2026-03-15T22:46:30+08:00</published>
+        <author>
+            <name>两对半</name>
+            <uri>https://www.liangduiban.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026年春节小记]]></summary>
     </entry>
         <entry>
         <title>【与Mondo同行·第四季】2：在AI时代，越基本的能力越重要</title>
@@ -1551,38 +1639,5 @@
             <uri>https://blog.uuanqin.top</uri>
         </author>
         <summary type="text"><![CDATA[Docker 镜像的制作、拉取与运行]]></summary>
-    </entry>
-        <entry>
-        <title>告别孤岛：拥抱 MCP 协议，为大模型打造标准“USB 接口”  - 大模型实战 08 完结篇 | 阿尔的代码屋</title>
-        <id>149414</id>
-        <link href="https://blog.algieba12.cn/llm08-mcp-intro/?utm_source=blogfinder" />
-        <published>2026-03-13T22:35:33+08:00</published>
-        <author>
-            <name>阿尔的代码屋</name>
-            <uri>https://blog.algieba12.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[告别孤岛：拥抱 MCP 协议，为大模型打造标准“USB 接口”  - 大模型实战 08 完结篇 | 阿尔的代码屋]]></summary>
-    </entry>
-        <entry>
-        <title>读《面纱》——拨开面纱直视人性</title>
-        <id>149372</id>
-        <link href="https://www.jfsay.com/archives/3984.html?utm_source=blogfinder" />
-        <published>2026-03-13T21:54:52+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[读《面纱》——拨开面纱直视人性]]></summary>
-    </entry>
-        <entry>
-        <title>呃~饱了</title>
-        <id>149345</id>
-        <link href="https://nxxy335.top/archives/CAUAojFJ?utm_source=blogfinder" />
-        <published>2026-03-13T21:03:04+08:00</published>
-        <author>
-            <name>暖心向阳</name>
-            <uri>https://nxxy335.top</uri>
-        </author>
-        <summary type="text"><![CDATA[呃~饱了]]></summary>
     </entry>
     </feed>
