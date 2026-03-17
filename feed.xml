@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-17T11:00:56+08:00</updated>
+    <updated>2026-03-17T13:00:51+08:00</updated>
+        <entry>
+        <title>云原生架构深度解析：从容器化到服务网格的全栈实践</title>
+        <id>150399</id>
+        <link href="https://www.aserver.cn/?post=75&amp;utm_source=blogfinder" />
+        <published>2026-03-17T12:03:55+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[云原生架构深度解析：从容器化到服务网格的全栈实践]]></summary>
+    </entry>
+        <entry>
+        <title>关于情感回避的一些感受、记录</title>
+        <id>150397</id>
+        <link href="https://rolen.wiki/learning-to-sit-with-what-i-feel/?utm_source=blogfinder" />
+        <published>2026-03-17T10:07:12+08:00</published>
+        <author>
+            <name>Rolen&#039;s Blog</name>
+            <uri>https://rolen.wiki</uri>
+        </author>
+        <summary type="text"><![CDATA[关于情感回避的一些感受、记录]]></summary>
+    </entry>
         <entry>
         <title>纯数字网址</title>
         <id>150330</id>
@@ -44,6 +66,17 @@
             <uri>https://baipin.pw</uri>
         </author>
         <summary type="text"><![CDATA[AI部署实践:Colab部署AI模型进行Fine Tuning]]></summary>
+    </entry>
+        <entry>
+        <title>我写了个插件让 AI 帮我管博客，结果她还给自己整了套主题</title>
+        <id>150396</id>
+        <link href="https://xiangming.site/1128.html?utm_source=blogfinder" />
+        <published>2026-03-16T23:05:00+08:00</published>
+        <author>
+            <name>湘铭呀</name>
+            <uri>https://xiangming.site</uri>
+        </author>
+        <summary type="text"><![CDATA[我写了个插件让 AI 帮我管博客，结果她还给自己整了套主题]]></summary>
     </entry>
         <entry>
         <title>用好你的 jj - 重新思考 Agent 时代的版本控制</title>
@@ -99,6 +132,17 @@
             <uri>https://blog.mfwt.top</uri>
         </author>
         <summary type="text"><![CDATA[谜之 450 MHz：用途到底是什么？]]></summary>
+    </entry>
+        <entry>
+        <title>三无（无工作、无社保、无纳税）港澳开户经验</title>
+        <id>150395</id>
+        <link href="https://retire50blog.wang/invest/%e4%b8%89%e6%97%a0%ef%bc%88%e6%97%a0%e4%b8%9a%e3%80%81%e6%97%a0%e7%a4%be%e4%bf%9d%e3%80%81%e6%97%a0%e7%ba%b3%e7%a8%8e%ef%bc%89%e6%b8%af%e6%be%b3%e5%bc%80%e6%88%b7%e7%bb%8f%e9%aa%8c.html?utm_source=blogfinder" />
+        <published>2026-03-16T21:54:41+08:00</published>
+        <author>
+            <name>个人工作记录</name>
+            <uri>https://retire50blog.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[三无（无工作、无社保、无纳税）港澳开户经验]]></summary>
     </entry>
         <entry>
         <title>工作日为什么还有那么多人在闲逛</title>
@@ -1047,6 +1091,17 @@
         <summary type="text"><![CDATA[🧰]]></summary>
     </entry>
         <entry>
+        <title>《Weekly Insights》 - 总第 15 期 - 2026 年第 11 周</title>
+        <id>150398</id>
+        <link href="http://onlytl.com/archives/kY90bT5n?utm_source=blogfinder" />
+        <published>2026-03-15T12:34:00+08:00</published>
+        <author>
+            <name>OnlyTL</name>
+            <uri>https://onlytl.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《Weekly Insights》 - 总第 15 期 - 2026 年第 11 周]]></summary>
+    </entry>
+        <entry>
         <title>云原生架构深度解析：从容器化到服务网格的全栈实践</title>
         <id>149445</id>
         <link href="https://www.aserver.cn/?post=67&amp;utm_source=blogfinder" />
@@ -1683,93 +1738,5 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[孑与2的文字让我想起了王小波的小说]]></summary>
-    </entry>
-        <entry>
-        <title>民主观念：谈少数人的权利如何得到重视</title>
-        <id>149413</id>
-        <link href="https://ryqi.top/p/democracy/?utm_source=blogfinder" />
-        <published>2026-03-14T12:27:00+08:00</published>
-        <author>
-            <name>合荒小站</name>
-            <uri>https://ryqi.top</uri>
-        </author>
-        <summary type="text"><![CDATA[民主观念：谈少数人的权利如何得到重视]]></summary>
-    </entry>
-        <entry>
-        <title>日本温泉完全指南：如何找、怎么泡、泡哪里？</title>
-        <id>149416</id>
-        <link href="https://song.al/onsen?utm_source=blogfinder" />
-        <published>2026-03-14T12:22:31+08:00</published>
-        <author>
-            <name>Simon&#039;s Blog</name>
-            <uri>https://song.al</uri>
-        </author>
-        <summary type="text"><![CDATA[日本温泉完全指南：如何找、怎么泡、泡哪里？]]></summary>
-    </entry>
-        <entry>
-        <title>云原生架构深度解析：从容器化到服务网格的全栈实践</title>
-        <id>149382</id>
-        <link href="https://www.aserver.cn/?post=61&amp;utm_source=blogfinder" />
-        <published>2026-03-14T12:01:47+08:00</published>
-        <author>
-            <name>俞事</name>
-            <uri>https://www.aserver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[云原生架构深度解析：从容器化到服务网格的全栈实践]]></summary>
-    </entry>
-        <entry>
-        <title>云原生架构深度解析：从容器化到服务网格的全栈实践</title>
-        <id>149383</id>
-        <link href="https://www.aserver.cn/?post=60&amp;utm_source=blogfinder" />
-        <published>2026-03-14T12:00:02+08:00</published>
-        <author>
-            <name>俞事</name>
-            <uri>https://www.aserver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[云原生架构深度解析：从容器化到服务网格的全栈实践]]></summary>
-    </entry>
-        <entry>
-        <title>fork subgen实现纯本地AI视频字幕生成和翻译</title>
-        <id>149390</id>
-        <link href="https://ddadaal.me/articles/subgen-translate/cn?utm_source=blogfinder" />
-        <published>2026-03-14T11:53:00+08:00</published>
-        <author>
-            <name>ddadaal</name>
-            <uri>https://ddadaal.me</uri>
-        </author>
-        <summary type="text"><![CDATA[fork subgen实现纯本地AI视频字幕生成和翻译]]></summary>
-    </entry>
-        <entry>
-        <title>子言自语@2026-03-14 11:22</title>
-        <id>149466</id>
-        <link href="https://blog.zimoo.me/talk/1418.html?utm_source=blogfinder" />
-        <published>2026-03-14T11:22:00+08:00</published>
-        <author>
-            <name>Zimoo&#039;s Blog</name>
-            <uri>https://blog.zimoo.me</uri>
-        </author>
-        <summary type="text"><![CDATA[子言自语@2026-03-14 11:22]]></summary>
-    </entry>
-        <entry>
-        <title>当下人人都在养龙虾，这龙虾（OpenClaw）为啥突然就火了？</title>
-        <id>149391</id>
-        <link href="https://leileiluoluo.com/posts/open-claw.html?utm_source=blogfinder" />
-        <published>2026-03-14T11:20:00+08:00</published>
-        <author>
-            <name>磊磊落落</name>
-            <uri>https://leileiluoluo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[当下人人都在养龙虾，这龙虾（OpenClaw）为啥突然就火了？]]></summary>
-    </entry>
-        <entry>
-        <title>一个集记账、基金、股票于一体的APP</title>
-        <id>149415</id>
-        <link href="https://blog.ops-coffee.com/s/ai-coding-integrated-finance-app.html?utm_source=blogfinder" />
-        <published>2026-03-14T11:12:01+08:00</published>
-        <author>
-            <name>运维咖啡吧</name>
-            <uri>https://blog.ops-coffee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[一个集记账、基金、股票于一体的APP]]></summary>
     </entry>
     </feed>
