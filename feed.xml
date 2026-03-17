@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-17T23:00:42+08:00</updated>
+    <updated>2026-03-18T00:00:42+08:00</updated>
+        <entry>
+        <title>今天我给茶茶上了把锁：AI 向外拓展时，别忘了保密性</title>
+        <id>150426</id>
+        <link href="https://xiangming.site/1130.html?utm_source=blogfinder" />
+        <published>2026-03-17T21:46:00+08:00</published>
+        <author>
+            <name>湘铭呀</name>
+            <uri>https://xiangming.site</uri>
+        </author>
+        <summary type="text"><![CDATA[今天我给茶茶上了把锁：AI 向外拓展时，别忘了保密性]]></summary>
+    </entry>
         <entry>
         <title>特种兵上课</title>
         <id>150424</id>
@@ -44,6 +55,17 @@
             <uri>https://blog.wanyijizi.com</uri>
         </author>
         <summary type="text"><![CDATA[在蓝莓里发现一个小小的茧]]></summary>
+    </entry>
+        <entry>
+        <title>反角度之博客用户体验不能做的 N 件事</title>
+        <id>150425</id>
+        <link href="https://koobai.com/blogux/?utm_source=blogfinder" />
+        <published>2026-03-17T19:23:06+08:00</published>
+        <author>
+            <name>Koobai</name>
+            <uri>https://koobai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[反角度之博客用户体验不能做的 N 件事]]></summary>
     </entry>
         <entry>
         <title>五年了</title>
@@ -264,6 +286,17 @@
             <uri>https://baipin.pw</uri>
         </author>
         <summary type="text"><![CDATA[AI部署实践:Colab部署AI模型进行Fine Tuning]]></summary>
+    </entry>
+        <entry>
+        <title>解决 Claude Code 报错 Error: InputValidationError: Write failed due to the following issues:</title>
+        <id>150427</id>
+        <link href="https://www.51it.wang/ll/2169?utm_source=blogfinder" />
+        <published>2026-03-16T23:19:00+08:00</published>
+        <author>
+            <name>Lcry</name>
+            <uri>https://www.51it.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[解决 Claude Code 报错 Error: InputValidationError: Write failed due to the following issues:]]></summary>
     </entry>
         <entry>
         <title>我写了个插件让 AI 帮我管博客，结果她还给自己整了套主题</title>
@@ -1584,49 +1617,5 @@
             <uri>https://tumutanzi.com</uri>
         </author>
         <summary type="text"><![CDATA[少和人类多和AI交流]]></summary>
-    </entry>
-        <entry>
-        <title>王兴倡议公司内直呼其名</title>
-        <id>149406</id>
-        <link href="https://dujun.io/6db16393-c041-5d49-bd4d-623ab693db99.html?utm_source=blogfinder" />
-        <published>2026-03-14T23:51:00+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[王兴倡议公司内直呼其名]]></summary>
-    </entry>
-        <entry>
-        <title>报价，亏大了</title>
-        <id>149461</id>
-        <link href="https://blog.hantaotao.top/archives/199/?utm_source=blogfinder" />
-        <published>2026-03-14T23:49:00+08:00</published>
-        <author>
-            <name>一世繁华</name>
-            <uri>https://blog.hantaotao.top</uri>
-        </author>
-        <summary type="text"><![CDATA[报价，亏大了]]></summary>
-    </entry>
-        <entry>
-        <title>捡漏Thinkpad笔记本电脑</title>
-        <id>149456</id>
-        <link href="https://me.xu19.com/thinkpad-sofmap-discount/?utm_source=blogfinder" />
-        <published>2026-03-14T23:44:05+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[捡漏Thinkpad笔记本电脑]]></summary>
-    </entry>
-        <entry>
-        <title>【也闲谈·第四季】四：好好做一个人，这不容易，所以才值得</title>
-        <id>149435</id>
-        <link href="http://www.qncd.com/?p=12550&amp;utm_source=blogfinder" />
-        <published>2026-03-14T23:07:58+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【也闲谈·第四季】四：好好做一个人，这不容易，所以才值得]]></summary>
     </entry>
     </feed>
