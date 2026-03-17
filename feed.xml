@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-17T14:03:47+08:00</updated>
+    <updated>2026-03-17T16:00:22+08:00</updated>
+        <entry>
+        <title>Lesson 7 Killing 矢量场和 Lie 导数</title>
+        <id>150405</id>
+        <link href="https://physnya.top/GR/lesson-7-killing-vector-and-lie-derivative/?utm_source=blogfinder" />
+        <published>2026-03-17T15:10:07+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 7 Killing 矢量场和 Lie 导数]]></summary>
+    </entry>
         <entry>
         <title>云原生架构深度解析：从容器化到服务网格的全栈实践</title>
         <id>150399</id>
@@ -24,6 +35,17 @@
         <summary type="text"><![CDATA[云原生架构深度解析：从容器化到服务网格的全栈实践]]></summary>
     </entry>
         <entry>
+        <title>人潮里的烽烟笺：虎门公交的湾畔漫游录</title>
+        <id>150406</id>
+        <link href="https://www.sumi233.top/%E9%85%A5%E7%B1%B3%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/humentravel/?utm_source=blogfinder" />
+        <published>2026-03-17T11:30:00+08:00</published>
+        <author>
+            <name>酥米的小站</name>
+            <uri>https://www.sumi233.top</uri>
+        </author>
+        <summary type="text"><![CDATA[人潮里的烽烟笺：虎门公交的湾畔漫游录]]></summary>
+    </entry>
+        <entry>
         <title>关于情感回避的一些感受、记录</title>
         <id>150397</id>
         <link href="https://rolen.wiki/learning-to-sit-with-what-i-feel/?utm_source=blogfinder" />
@@ -33,6 +55,17 @@
             <uri>https://rolen.wiki</uri>
         </author>
         <summary type="text"><![CDATA[关于情感回避的一些感受、记录]]></summary>
+    </entry>
+        <entry>
+        <title>Es muss sein?</title>
+        <id>150404</id>
+        <link href="https://www.geedea.pro/article/tarot-hanged-man/?utm_source=blogfinder" />
+        <published>2026-03-17T09:24:31+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[Es muss sein?]]></summary>
     </entry>
         <entry>
         <title>纯数字网址</title>
@@ -1661,71 +1694,5 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[今年的 315 晚会会曝光那些行业]]></summary>
-    </entry>
-        <entry>
-        <title>养只龙虾（OpenClaw）而已，不是咕咚来了。</title>
-        <id>149386</id>
-        <link href="https://www.suiyan.cc/blog/20260314075923?utm_source=blogfinder" />
-        <published>2026-03-14T15:59:23+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[养只龙虾（OpenClaw）而已，不是咕咚来了。]]></summary>
-    </entry>
-        <entry>
-        <title>杂谈：“紧日子”下的地方国资项目</title>
-        <id>149418</id>
-        <link href="https://alioth-ti.cc/posts/2026/03/ef55c7/?utm_source=blogfinder" />
-        <published>2026-03-14T15:53:12+08:00</published>
-        <author>
-            <name>方豆豆的小屋</name>
-            <uri>https://alioth-ti.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[杂谈：“紧日子”下的地方国资项目]]></summary>
-    </entry>
-        <entry>
-        <title>胡拉图的周刊-第十一期</title>
-        <id>149412</id>
-        <link href="https://hulatu.com/posts/2026/03/14/newsletter-weekly/?utm_source=blogfinder" />
-        <published>2026-03-14T15:13:28+08:00</published>
-        <author>
-            <name>胡拉图的后花园</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[胡拉图的周刊-第十一期]]></summary>
-    </entry>
-        <entry>
-        <title>AI解读《我的青春三部曲》</title>
-        <id>149389</id>
-        <link href="https://yishu-life.com/index.php/archives/327.html?utm_source=blogfinder" />
-        <published>2026-03-14T14:58:17+08:00</published>
-        <author>
-            <name>树下语</name>
-            <uri>https://yishu-life.com</uri>
-        </author>
-        <summary type="text"><![CDATA[AI解读《我的青春三部曲》]]></summary>
-    </entry>
-        <entry>
-        <title>OpenClaw 记忆管理与技能创建指南</title>
-        <id>149385</id>
-        <link href="https://www.zywvvd.com/notes/study/llm/openclaw-memory-skill/openclaw-memory-skill/?utm_source=blogfinder" />
-        <published>2026-03-14T14:56:00+08:00</published>
-        <author>
-            <name>又见苍岚</name>
-            <uri>https://www.zywvvd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenClaw 记忆管理与技能创建指南]]></summary>
-    </entry>
-        <entry>
-        <title>2026 春节躺赚副业：AI 红包封面副业保姆级攻略</title>
-        <id>149384</id>
-        <link href="https://www.wangdu.site/course/2321.html?utm_source=blogfinder" />
-        <published>2026-03-14T14:21:20+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[2026 春节躺赚副业：AI 红包封面副业保姆级攻略]]></summary>
     </entry>
     </feed>
