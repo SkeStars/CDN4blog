@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-17T19:01:46+08:00</updated>
+    <updated>2026-03-17T20:00:43+08:00</updated>
+        <entry>
+        <title>小姨寄来的兰州新鲜百合</title>
+        <id>150415</id>
+        <link href="https://chrison.cn/live/426.html?utm_source=blogfinder" />
+        <published>2026-03-17T19:02:00+08:00</published>
+        <author>
+            <name>目的地</name>
+            <uri>https://chrison.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[小姨寄来的兰州新鲜百合]]></summary>
+    </entry>
         <entry>
         <title>小游天桥立</title>
         <id>150411</id>
@@ -264,6 +275,17 @@
             <uri>https://joojen.com</uri>
         </author>
         <summary type="text"><![CDATA[工作日为什么还有那么多人在闲逛]]></summary>
+    </entry>
+        <entry>
+        <title>赛万宁与阿拉蕾</title>
+        <id>150416</id>
+        <link href="https://chuishen.xyz/01/Severin&amp;Arale.html?utm_source=blogfinder" />
+        <published>2026-03-16T21:23:00+08:00</published>
+        <author>
+            <name>Lafcadia&#039;s Blog</name>
+            <uri>https://chuishen.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[赛万宁与阿拉蕾]]></summary>
     </entry>
         <entry>
         <title>老家又养了一条小狗</title>
@@ -1661,60 +1683,5 @@
             <uri>https://imgradeone.com</uri>
         </author>
         <summary type="text"><![CDATA[乱评一下 MacBook Neo]]></summary>
-    </entry>
-        <entry>
-        <title>手写 C++ Web 服务器：模板化中间件链设计</title>
-        <id>149397</id>
-        <link href="https://www.fallrain.cn/?p=1792&amp;utm_source=blogfinder" />
-        <published>2026-03-14T19:43:00+08:00</published>
-        <author>
-            <name>秋雨 De blog</name>
-            <uri>https://www.fallrain.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[手写 C++ Web 服务器：模板化中间件链设计]]></summary>
-    </entry>
-        <entry>
-        <title>绿茶餐厅：油腻与解腻的博弈</title>
-        <id>149670</id>
-        <link href="https://www.sanji.one/life/lv-cha-can-ting-you-ni-yu-jie-ni-de-bo-yi/?utm_source=blogfinder" />
-        <published>2026-03-14T19:39:04+08:00</published>
-        <author>
-            <name>时光散记</name>
-            <uri>https://www.sanji.one</uri>
-        </author>
-        <summary type="text"><![CDATA[绿茶餐厅：油腻与解腻的博弈]]></summary>
-    </entry>
-        <entry>
-        <title>手写 C++ Web 服务器：中间件系统设计</title>
-        <id>149398</id>
-        <link href="https://www.fallrain.cn/?p=1791&amp;utm_source=blogfinder" />
-        <published>2026-03-14T19:34:17+08:00</published>
-        <author>
-            <name>秋雨 De blog</name>
-            <uri>https://www.fallrain.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[手写 C++ Web 服务器：中间件系统设计]]></summary>
-    </entry>
-        <entry>
-        <title>干饭人的速度~</title>
-        <id>149429</id>
-        <link href="https://chrison.cn/live/408.html?utm_source=blogfinder" />
-        <published>2026-03-14T19:25:00+08:00</published>
-        <author>
-            <name>目的地</name>
-            <uri>https://chrison.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[干饭人的速度~]]></summary>
-    </entry>
-        <entry>
-        <title>世界变大点吧！</title>
-        <id>149411</id>
-        <link href="https://www.glowisle.me/posts/i-have-uninstalled-twitter/?utm_source=blogfinder" />
-        <published>2026-03-14T19:17:35+08:00</published>
-        <author>
-            <name>映屿</name>
-            <uri>https://www.glowisle.me</uri>
-        </author>
-        <summary type="text"><![CDATA[世界变大点吧！]]></summary>
     </entry>
     </feed>
