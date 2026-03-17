@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-17T17:03:22+08:00</updated>
+    <updated>2026-03-17T18:00:33+08:00</updated>
+        <entry>
+        <title>小游天桥立</title>
+        <id>150411</id>
+        <link href="https://shuiba.co/amano-hashitate?utm_source=blogfinder" />
+        <published>2026-03-17T16:18:00+08:00</published>
+        <author>
+            <name>水八口的冥想盆</name>
+            <uri>https://shuiba.co</uri>
+        </author>
+        <summary type="text"><![CDATA[小游天桥立]]></summary>
+    </entry>
+        <entry>
+        <title>周末浅游·庐山</title>
+        <id>150414</id>
+        <link href="https://yishu-life.com/index.php/archives/329.html?utm_source=blogfinder" />
+        <published>2026-03-17T16:00:00+08:00</published>
+        <author>
+            <name>树下语</name>
+            <uri>https://yishu-life.com</uri>
+        </author>
+        <summary type="text"><![CDATA[周末浅游·庐山]]></summary>
+    </entry>
+        <entry>
+        <title>以苦难为师与孙子才画得圆</title>
+        <id>150413</id>
+        <link href="https://www.pgoj.top/archives/learn-from-suffering.html?utm_source=blogfinder" />
+        <published>2026-03-17T15:50:14+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[以苦难为师与孙子才画得圆]]></summary>
+    </entry>
         <entry>
         <title>Lesson 7 Killing 矢量场和 Lie 导数</title>
         <id>150405</id>
@@ -33,6 +66,17 @@
             <uri>https://buqi.cn</uri>
         </author>
         <summary type="text"><![CDATA[读《瓦尔登湖》：寻找内心的宁静]]></summary>
+    </entry>
+        <entry>
+        <title>人类的阿贝贝</title>
+        <id>150410</id>
+        <link href="https://onojyun.com/2026/03/17/transitional-objects-of-humans/?utm_source=blogfinder" />
+        <published>2026-03-17T13:11:17+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://onojyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[人类的阿贝贝]]></summary>
     </entry>
         <entry>
         <title>云原生架构深度解析：从容器化到服务网格的全栈实践</title>
@@ -99,6 +143,17 @@
             <uri>https://immarcus.com</uri>
         </author>
         <summary type="text"><![CDATA[纯数字网址]]></summary>
+    </entry>
+        <entry>
+        <title>松声｜廿六年·三月中·燕衔泥</title>
+        <id>150412</id>
+        <link href="https://xyzbz.cn/archives/1522/?utm_source=blogfinder" />
+        <published>2026-03-17T05:22:27+08:00</published>
+        <author>
+            <name>网友小宋</name>
+            <uri>https://xyzbz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[松声｜廿六年·三月中·燕衔泥]]></summary>
     </entry>
         <entry>
         <title>随思 - 2026-03-16</title>
@@ -1683,27 +1738,5 @@
             <uri>https://fxpai.com</uri>
         </author>
         <summary type="text"><![CDATA[兰州水墨丹霞慕名揽胜]]></summary>
-    </entry>
-        <entry>
-        <title>前端性能优化深度指南：从渲染原理到实际指标的全链路优化</title>
-        <id>149396</id>
-        <link href="https://www.aserver.cn/?post=62&amp;utm_source=blogfinder" />
-        <published>2026-03-14T18:00:02+08:00</published>
-        <author>
-            <name>俞事</name>
-            <uri>https://www.aserver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[前端性能优化深度指南：从渲染原理到实际指标的全链路优化]]></summary>
-    </entry>
-        <entry>
-        <title>vibeCoding初体验</title>
-        <id>149417</id>
-        <link href="https://numb.tech/2026/03/14/vibeCoding41stTime/?utm_source=blogfinder" />
-        <published>2026-03-14T17:12:31+08:00</published>
-        <author>
-            <name>双绞麻痹</name>
-            <uri>https://numb.tech</uri>
-        </author>
-        <summary type="text"><![CDATA[vibeCoding初体验]]></summary>
     </entry>
     </feed>
