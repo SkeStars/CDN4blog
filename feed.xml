@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-18T13:00:43+08:00</updated>
+    <updated>2026-03-18T14:03:53+08:00</updated>
         <entry>
         <title>Lesson 7 统计力学绪论</title>
         <id>150517</id>
@@ -22,6 +22,17 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 7 统计力学绪论]]></summary>
+    </entry>
+        <entry>
+        <title>议食品安全</title>
+        <id>150522</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1114&amp;utm_source=blogfinder" />
+        <published>2026-03-18T11:19:04+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[议食品安全]]></summary>
     </entry>
         <entry>
         <title>技术团队协作与管理</title>
@@ -88,6 +99,17 @@
             <uri>https://leileiluoluo.com</uri>
         </author>
         <summary type="text"><![CDATA[在日常生活中，可以用 OpenClaw 做哪些事？]]></summary>
+    </entry>
+        <entry>
+        <title>日常#12 - 苹果设备的联动、最近做的一些菜式、死亡搁浅、深圳美术馆看展</title>
+        <id>150521</id>
+        <link href="https://taxodium.ink/nichijou-12.html?utm_source=blogfinder" />
+        <published>2026-03-18T08:00:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[日常#12 - 苹果设备的联动、最近做的一些菜式、死亡搁浅、深圳美术馆看展]]></summary>
     </entry>
         <entry>
         <title>收银的小孩</title>
@@ -1573,27 +1595,5 @@
             <uri>https://rolen.wiki</uri>
         </author>
         <summary type="text"><![CDATA[2026年2月总结]]></summary>
-    </entry>
-        <entry>
-        <title>食谱: 玉米骨汤</title>
-        <id>149479</id>
-        <link href="https://www.vergilisme.com/index.php/2026/03/15/2392.html?utm_source=blogfinder" />
-        <published>2026-03-15T13:57:00+08:00</published>
-        <author>
-            <name>八咫乌</name>
-            <uri>https://www.vergilisme.com</uri>
-        </author>
-        <summary type="text"><![CDATA[食谱: 玉米骨汤]]></summary>
-    </entry>
-        <entry>
-        <title>🧰</title>
-        <id>149464</id>
-        <link href="https://xiangming.site/1125.html?utm_source=blogfinder" />
-        <published>2026-03-15T13:43:29+08:00</published>
-        <author>
-            <name>湘铭呀</name>
-            <uri>https://xiangming.site</uri>
-        </author>
-        <summary type="text"><![CDATA[🧰]]></summary>
     </entry>
     </feed>
