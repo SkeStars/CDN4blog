@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-18T21:08:21+08:00</updated>
+    <updated>2026-03-18T23:02:50+08:00</updated>
+        <entry>
+        <title>隐说 NO.16  “默认为假”的时代</title>
+        <id>150536</id>
+        <link href="https://wangyurui.com/posts/yin-shuo-no-16-mo-ren-wei-jia-de-shi-dai-faaa0863?utm_source=blogfinder" />
+        <published>2026-03-18T22:12:16+08:00</published>
+        <author>
+            <name>太隐</name>
+            <uri>https://wangyurui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[隐说 NO.16  “默认为假”的时代]]></summary>
+    </entry>
         <entry>
         <title>落日满春桥，桃花次第开</title>
         <id>150531</id>
@@ -24,6 +35,17 @@
         <summary type="text"><![CDATA[落日满春桥，桃花次第开]]></summary>
     </entry>
         <entry>
+        <title>第三课：变量与数据类型——让数据在内存里“安家落户”</title>
+        <id>150538</id>
+        <link href="http://aboss.top/js-103-variables-datatypes/?utm_source=blogfinder" />
+        <published>2026-03-18T20:12:00+08:00</published>
+        <author>
+            <name>三毛笔记</name>
+            <uri>https://aboss.top</uri>
+        </author>
+        <summary type="text"><![CDATA[第三课：变量与数据类型——让数据在内存里“安家落户”]]></summary>
+    </entry>
+        <entry>
         <title>白嫖党终极指南：四大免费静态博客托管平台</title>
         <id>150532</id>
         <link href="https://www.suiyan.cc/blog/20260318120541?utm_source=blogfinder" />
@@ -33,6 +55,39 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[白嫖党终极指南：四大免费静态博客托管平台]]></summary>
+    </entry>
+        <entry>
+        <title>新疆到山东自驾视频</title>
+        <id>150534</id>
+        <link href="https://ihaihe.cn/3541.htm?utm_source=blogfinder" />
+        <published>2026-03-18T19:50:53+08:00</published>
+        <author>
+            <name>三十里海河</name>
+            <uri>https://ihaihe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[新疆到山东自驾视频]]></summary>
+    </entry>
+        <entry>
+        <title>【知途·间隔年】1：去成为独一无二的自己</title>
+        <id>150537</id>
+        <link href="http://www.qncd.com/?p=12565&amp;utm_source=blogfinder" />
+        <published>2026-03-18T19:33:01+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【知途·间隔年】1：去成为独一无二的自己]]></summary>
+    </entry>
+        <entry>
+        <title>Git 配置代理</title>
+        <id>150535</id>
+        <link href="https://ouen.me/git-proxy-configuration-guide/?utm_source=blogfinder" />
+        <published>2026-03-18T19:00:00+08:00</published>
+        <author>
+            <name>Ouen</name>
+            <uri>https://ouen.me</uri>
+        </author>
+        <summary type="text"><![CDATA[Git 配置代理]]></summary>
     </entry>
         <entry>
         <title>我理解父母为什么不愿修缮老家的房子</title>
@@ -1408,71 +1463,5 @@
             <uri>https://nxxy335.top</uri>
         </author>
         <summary type="text"><![CDATA[26春学2周杂记]]></summary>
-    </entry>
-        <entry>
-        <title>2026年春节小记</title>
-        <id>149632</id>
-        <link href="https://www.liangduiban.com/riji/651.html?utm_source=blogfinder" />
-        <published>2026-03-15T22:46:30+08:00</published>
-        <author>
-            <name>两对半</name>
-            <uri>https://www.liangduiban.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026年春节小记]]></summary>
-    </entry>
-        <entry>
-        <title>【与Mondo同行·第四季】2：在AI时代，越基本的能力越重要</title>
-        <id>149471</id>
-        <link href="http://www.qncd.com/?p=12553&amp;utm_source=blogfinder" />
-        <published>2026-03-15T22:15:48+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【与Mondo同行·第四季】2：在AI时代，越基本的能力越重要]]></summary>
-    </entry>
-        <entry>
-        <title>第二次来玻璃栈桥</title>
-        <id>149845</id>
-        <link href="https://blog.tibtob.cn/archives/21/?utm_source=blogfinder" />
-        <published>2026-03-15T22:14:00+08:00</published>
-        <author>
-            <name>拾音博客</name>
-            <uri>https://blog.tibtob.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[第二次来玻璃栈桥]]></summary>
-    </entry>
-        <entry>
-        <title>盛世的木偶</title>
-        <id>149622</id>
-        <link href="https://wangyurui.com/posts/sheng-shi-de-mu-ou-417a1f8c?utm_source=blogfinder" />
-        <published>2026-03-15T22:00:02+08:00</published>
-        <author>
-            <name>太隐</name>
-            <uri>https://wangyurui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[盛世的木偶]]></summary>
-    </entry>
-        <entry>
-        <title>关于AI的一些形而上思考</title>
-        <id>149614</id>
-        <link href="https://idealclover.top/archives/647/?utm_source=blogfinder" />
-        <published>2026-03-15T21:37:00+08:00</published>
-        <author>
-            <name>idealclover</name>
-            <uri>https://idealclover.top</uri>
-        </author>
-        <summary type="text"><![CDATA[关于AI的一些形而上思考]]></summary>
-    </entry>
-        <entry>
-        <title>开学了，给自己吃个大饼！</title>
-        <id>149629</id>
-        <link href="https://www.puresky.top/archives/L6I94KyE?utm_source=blogfinder" />
-        <published>2026-03-15T21:31:57+08:00</published>
-        <author>
-            <name>轻雅阁</name>
-            <uri>https://www.puresky.top</uri>
-        </author>
-        <summary type="text"><![CDATA[开学了，给自己吃个大饼！]]></summary>
     </entry>
     </feed>
