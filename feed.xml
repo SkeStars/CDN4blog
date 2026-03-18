@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-18T11:00:34+08:00</updated>
+    <updated>2026-03-18T13:00:43+08:00</updated>
+        <entry>
+        <title>Lesson 7 统计力学绪论</title>
+        <id>150517</id>
+        <link href="https://physnya.top/statistical-mechanics/lesson-7-statistical-mechanics-intro/?utm_source=blogfinder" />
+        <published>2026-03-18T11:27:08+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 7 统计力学绪论]]></summary>
+    </entry>
+        <entry>
+        <title>技术团队协作与管理</title>
+        <id>150519</id>
+        <link href="https://www.aserver.cn/?post=80&amp;utm_source=blogfinder" />
+        <published>2026-03-18T11:07:32+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[技术团队协作与管理]]></summary>
+    </entry>
+        <entry>
+        <title>如何网申QClaw第二批内测邀请码</title>
+        <id>150516</id>
+        <link href="https://www.evan.xin/4429/?utm_source=blogfinder" />
+        <published>2026-03-18T10:56:10+08:00</published>
+        <author>
+            <name>Evan&#039;s Space</name>
+            <uri>https://www.evan.xin</uri>
+        </author>
+        <summary type="text"><![CDATA[如何网申QClaw第二批内测邀请码]]></summary>
+    </entry>
+        <entry>
+        <title>前端状态管理方案演进</title>
+        <id>150520</id>
+        <link href="https://www.aserver.cn/?post=79&amp;utm_source=blogfinder" />
+        <published>2026-03-18T10:53:33+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[前端状态管理方案演进]]></summary>
+    </entry>
+        <entry>
+        <title>《怀柔神堂峪自然风景区》</title>
+        <id>150518</id>
+        <link href="https://www.weiwenchao.com/2410.html?utm_source=blogfinder" />
+        <published>2026-03-18T09:12:05+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《怀柔神堂峪自然风景区》]]></summary>
+    </entry>
         <entry>
         <title>20260316</title>
         <id>150509</id>
@@ -22,6 +77,17 @@
             <uri>https://61.life</uri>
         </author>
         <summary type="text"><![CDATA[20260316]]></summary>
+    </entry>
+        <entry>
+        <title>在日常生活中，可以用 OpenClaw 做哪些事？</title>
+        <id>150515</id>
+        <link href="https://leileiluoluo.com/posts/open-claw-use-cases-in-daily-life.html?utm_source=blogfinder" />
+        <published>2026-03-18T08:30:00+08:00</published>
+        <author>
+            <name>磊磊落落</name>
+            <uri>https://leileiluoluo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[在日常生活中，可以用 OpenClaw 做哪些事？]]></summary>
     </entry>
         <entry>
         <title>收银的小孩</title>
@@ -1529,82 +1595,5 @@
             <uri>https://xiangming.site</uri>
         </author>
         <summary type="text"><![CDATA[🧰]]></summary>
-    </entry>
-        <entry>
-        <title>《Weekly Insights》 - 总第 15 期 - 2026 年第 11 周</title>
-        <id>150398</id>
-        <link href="http://onlytl.com/archives/kY90bT5n?utm_source=blogfinder" />
-        <published>2026-03-15T12:34:00+08:00</published>
-        <author>
-            <name>OnlyTL</name>
-            <uri>https://onlytl.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《Weekly Insights》 - 总第 15 期 - 2026 年第 11 周]]></summary>
-    </entry>
-        <entry>
-        <title>云原生架构深度解析：从容器化到服务网格的全栈实践</title>
-        <id>149445</id>
-        <link href="https://www.aserver.cn/?post=67&amp;utm_source=blogfinder" />
-        <published>2026-03-15T12:03:33+08:00</published>
-        <author>
-            <name>俞事</name>
-            <uri>https://www.aserver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[云原生架构深度解析：从容器化到服务网格的全栈实践]]></summary>
-    </entry>
-        <entry>
-        <title>云原生架构深度解析：从容器化到服务网格的全栈实践</title>
-        <id>149446</id>
-        <link href="https://www.aserver.cn/?post=66&amp;utm_source=blogfinder" />
-        <published>2026-03-15T12:00:01+08:00</published>
-        <author>
-            <name>俞事</name>
-            <uri>https://www.aserver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[云原生架构深度解析：从容器化到服务网格的全栈实践]]></summary>
-    </entry>
-        <entry>
-        <title>没有情人的情人节</title>
-        <id>150400</id>
-        <link href="https://blog.cytrogen.icu/posts/1572.html?utm_source=blogfinder" />
-        <published>2026-03-15T12:00:00+08:00</published>
-        <author>
-            <name>Cytrogen&#039;s Blog</name>
-            <uri>https://blog.cytrogen.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[没有情人的情人节]]></summary>
-    </entry>
-        <entry>
-        <title>注销了中信银行的信用卡</title>
-        <id>149449</id>
-        <link href="https://www.sunzhongwei.com/cancelled-credit-card-of-citic-bank?utm_source=blogfinder" />
-        <published>2026-03-15T11:14:52+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[注销了中信银行的信用卡]]></summary>
-    </entry>
-        <entry>
-        <title>PocketHugo：为告别在手机上用 IDE 工具写博客，我专门写了个 Hugo 发布工具</title>
-        <id>149590</id>
-        <link href="https://lawtee.com/article/pocket-hugo/?utm_source=blogfinder" />
-        <published>2026-03-15T11:11:17+08:00</published>
-        <author>
-            <name>老 T 博客</name>
-            <uri>https://lawtee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[PocketHugo：为告别在手机上用 IDE 工具写博客，我专门写了个 Hugo 发布工具]]></summary>
-    </entry>
-        <entry>
-        <title>由免费理财想到摸石看病</title>
-        <id>149451</id>
-        <link href="https://www.pgoj.top/archives/free-is-the-most-expensive.html?utm_source=blogfinder" />
-        <published>2026-03-15T11:05:21+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[由免费理财想到摸石看病]]></summary>
     </entry>
     </feed>
