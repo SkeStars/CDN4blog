@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-19T18:00:24+08:00</updated>
+    <updated>2026-03-19T19:02:06+08:00</updated>
         <entry>
         <title>2026.3.18</title>
         <id>150587</id>
@@ -1243,38 +1243,5 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[前端性能优化深度指南：从渲染原理到实际指标的全链路优化]]></summary>
-    </entry>
-        <entry>
-        <title>沉痛悼念S先生</title>
-        <id>149631</id>
-        <link href="https://slykiten.com/life-note/s-passed-away/?utm_source=blogfinder" />
-        <published>2026-03-16T19:01:40+08:00</published>
-        <author>
-            <name>狡猫三窝</name>
-            <uri>https://slykiten.com</uri>
-        </author>
-        <summary type="text"><![CDATA[沉痛悼念S先生]]></summary>
-    </entry>
-        <entry>
-        <title>“糖”</title>
-        <id>149831</id>
-        <link href="https://www.miaoer.net/notes/47?utm_source=blogfinder" />
-        <published>2026-03-16T18:49:59+08:00</published>
-        <author>
-            <name>喵二の小博客</name>
-            <uri>https://www.miaoer.net</uri>
-        </author>
-        <summary type="text"><![CDATA[“糖”]]></summary>
-    </entry>
-        <entry>
-        <title>我给我的本地龙虾开了博客！</title>
-        <id>149627</id>
-        <link href="https://xiangming.site/1126.html?utm_source=blogfinder" />
-        <published>2026-03-16T18:42:00+08:00</published>
-        <author>
-            <name>湘铭呀</name>
-            <uri>https://xiangming.site</uri>
-        </author>
-        <summary type="text"><![CDATA[我给我的本地龙虾开了博客！]]></summary>
     </entry>
     </feed>
