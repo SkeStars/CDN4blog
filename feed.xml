@@ -11,7 +11,84 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-19T21:04:26+08:00</updated>
+    <updated>2026-03-19T23:00:44+08:00</updated>
+        <entry>
+        <title>Lesson 4 Ignition of the Sun</title>
+        <id>150596</id>
+        <link href="https://physnya.top/star-planet/lesson-4-ignition-of-sun/?utm_source=blogfinder" />
+        <published>2026-03-19T21:53:24+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 4 Ignition of the Sun]]></summary>
+    </entry>
+        <entry>
+        <title>女儿学习成绩拉胯，老父亲也焦虑上了</title>
+        <id>150592</id>
+        <link href="https://cuixiping.com/blog/life/gzuiiu?utm_source=blogfinder" />
+        <published>2026-03-19T20:01:00+08:00</published>
+        <author>
+            <name>崔话记</name>
+            <uri>https://cuixiping.com</uri>
+        </author>
+        <summary type="text"><![CDATA[女儿学习成绩拉胯，老父亲也焦虑上了]]></summary>
+    </entry>
+        <entry>
+        <title>人事管理系统填不完的坑，入职员工与 HR 同时编辑简历信息的实现方案</title>
+        <id>150591</id>
+        <link href="https://www.sunzhongwei.com/hr-system-edit-sametime-sse?utm_source=blogfinder" />
+        <published>2026-03-19T19:39:55+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[人事管理系统填不完的坑，入职员工与 HR 同时编辑简历信息的实现方案]]></summary>
+    </entry>
+        <entry>
+        <title>个人与团队</title>
+        <id>150593</id>
+        <link href="https://blog.mcenahle.org.cn/2026/03/19/442.html?utm_source=blogfinder" />
+        <published>2026-03-19T19:15:27+08:00</published>
+        <author>
+            <name>梅之夏</name>
+            <uri>https://blog.mcenahle.org.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[个人与团队]]></summary>
+    </entry>
+        <entry>
+        <title>OPPO、vivo和荣耀手机大部分机型已涨价，目前华为手机更有竞争力</title>
+        <id>150597</id>
+        <link href="https://www.bufanz.com/20260319477.html?utm_source=blogfinder" />
+        <published>2026-03-19T18:15:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[OPPO、vivo和荣耀手机大部分机型已涨价，目前华为手机更有竞争力]]></summary>
+    </entry>
+        <entry>
+        <title>Motrix 一款开源且可以平替迅雷的下载器</title>
+        <id>150594</id>
+        <link href="https://jyblog.cn/5136/?utm_source=blogfinder" />
+        <published>2026-03-19T18:09:30+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Motrix 一款开源且可以平替迅雷的下载器]]></summary>
+    </entry>
+        <entry>
+        <title>ComfyUI对接Ollama——让AI全自动出图</title>
+        <id>150595</id>
+        <link href="https://www.nekopara.uk/archives/Auto_ComfyUI.html?utm_source=blogfinder" />
+        <published>2026-03-19T16:05:43+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[ComfyUI对接Ollama——让AI全自动出图]]></summary>
+    </entry>
         <entry>
         <title>2026.3.18</title>
         <id>150587</id>
@@ -33,6 +110,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1641】朱生豪译莎士比亚《麦克白》]]></summary>
+    </entry>
+        <entry>
+        <title>幸福是种技能，而非结果：读《纳瓦尔宝典》有感</title>
+        <id>150598</id>
+        <link href="https://blogwinter.top/%E5%B9%B8%E7%A6%8F%E6%98%AF%E7%A7%8D%E6%8A%80%E8%83%BD%E8%80%8C%E9%9D%9E%E7%BB%93%E6%9E%9C%E8%AF%BB%E7%BA%B3%E7%93%A6%E5%B0%94%E5%AE%9D%E5%85%B8%E6%9C%89%E6%84%9F/?utm_source=blogfinder" />
+        <published>2026-03-19T14:25:45+08:00</published>
+        <author>
+            <name>初冬个人小站</name>
+            <uri>https://blogwinter.top</uri>
+        </author>
+        <summary type="text"><![CDATA[幸福是种技能，而非结果：读《纳瓦尔宝典》有感]]></summary>
     </entry>
         <entry>
         <title>幸福是种技能，而非结果：读《纳瓦尔宝典》有感</title>
@@ -1078,104 +1166,5 @@
             <uri>https://xiangming.site</uri>
         </author>
         <summary type="text"><![CDATA[我写了个插件让 AI 帮我管博客，结果她还给自己整了套主题]]></summary>
-    </entry>
-        <entry>
-        <title>用好你的 jj - 重新思考 Agent 时代的版本控制</title>
-        <id>149643</id>
-        <link href="https://onevcat.com/2026/03/jj-for-agent-era/?utm_source=blogfinder" />
-        <published>2026-03-16T22:30:00+08:00</published>
-        <author>
-            <name>OneV&#039;s Den</name>
-            <uri>https://onevcat.com</uri>
-        </author>
-        <summary type="text"><![CDATA[用好你的 jj - 重新思考 Agent 时代的版本控制]]></summary>
-    </entry>
-        <entry>
-        <title>第二课：工欲善其事，必先利其器——开发环境准备与Hello World</title>
-        <id>149641</id>
-        <link href="http://aboss.top/js-102-environment/?utm_source=blogfinder" />
-        <published>2026-03-16T22:22:00+08:00</published>
-        <author>
-            <name>三毛笔记</name>
-            <uri>https://aboss.top</uri>
-        </author>
-        <summary type="text"><![CDATA[第二课：工欲善其事，必先利其器——开发环境准备与Hello World]]></summary>
-    </entry>
-        <entry>
-        <title>20260315</title>
-        <id>149636</id>
-        <link href="https://61.life/2026/0315?utm_source=blogfinder" />
-        <published>2026-03-16T22:14:09+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260315]]></summary>
-    </entry>
-        <entry>
-        <title>记录上课一刻</title>
-        <id>150394</id>
-        <link href="https://ygz.ink/archives/4515.html?utm_source=blogfinder" />
-        <published>2026-03-16T22:09:07+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[记录上课一刻]]></summary>
-    </entry>
-        <entry>
-        <title>iPhone 日历同步钉钉考勤</title>
-        <id>150418</id>
-        <link href="https://hjyl.org/dingding-to-iphone-calendar/?utm_source=blogfinder" />
-        <published>2026-03-16T22:06:15+08:00</published>
-        <author>
-            <name>皇家元林</name>
-            <uri>https://hjyl.org</uri>
-        </author>
-        <summary type="text"><![CDATA[iPhone 日历同步钉钉考勤]]></summary>
-    </entry>
-        <entry>
-        <title>谜之 450 MHz：用途到底是什么？</title>
-        <id>149635</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1174/?utm_source=blogfinder" />
-        <published>2026-03-16T21:57:21+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[谜之 450 MHz：用途到底是什么？]]></summary>
-    </entry>
-        <entry>
-        <title>三无（无工作、无社保、无纳税）港澳开户经验</title>
-        <id>150395</id>
-        <link href="https://retire50blog.wang/invest/%e4%b8%89%e6%97%a0%ef%bc%88%e6%97%a0%e4%b8%9a%e3%80%81%e6%97%a0%e7%a4%be%e4%bf%9d%e3%80%81%e6%97%a0%e7%ba%b3%e7%a8%8e%ef%bc%89%e6%b8%af%e6%be%b3%e5%bc%80%e6%88%b7%e7%bb%8f%e9%aa%8c.html?utm_source=blogfinder" />
-        <published>2026-03-16T21:54:41+08:00</published>
-        <author>
-            <name>个人工作记录</name>
-            <uri>https://retire50blog.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[三无（无工作、无社保、无纳税）港澳开户经验]]></summary>
-    </entry>
-        <entry>
-        <title>工作日为什么还有那么多人在闲逛</title>
-        <id>150392</id>
-        <link href="https://joojen.com/archives/8872.html?utm_source=blogfinder" />
-        <published>2026-03-16T21:54:23+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[工作日为什么还有那么多人在闲逛]]></summary>
-    </entry>
-        <entry>
-        <title>赛万宁与阿拉蕾</title>
-        <id>150416</id>
-        <link href="https://chuishen.xyz/01/Severin&amp;Arale.html?utm_source=blogfinder" />
-        <published>2026-03-16T21:23:00+08:00</published>
-        <author>
-            <name>Lafcadia&#039;s Blog</name>
-            <uri>https://chuishen.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[赛万宁与阿拉蕾]]></summary>
     </entry>
     </feed>
