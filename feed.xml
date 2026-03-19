@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-19T16:00:34+08:00</updated>
+    <updated>2026-03-19T17:00:22+08:00</updated>
         <entry>
         <title>【读书记1641】朱生豪译莎士比亚《麦克白》</title>
         <id>150584</id>
@@ -66,6 +66,17 @@
             <uri>https://blog.tibtob.cn</uri>
         </author>
         <summary type="text"><![CDATA[2026年油价调整日历]]></summary>
+    </entry>
+        <entry>
+        <title>罢免小区业委会之后续</title>
+        <id>150586</id>
+        <link href="https://koobai.com/bamianhouxu/?utm_source=blogfinder" />
+        <published>2026-03-19T10:52:24+08:00</published>
+        <author>
+            <name>Koobai</name>
+            <uri>https://koobai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[罢免小区业委会之后续]]></summary>
     </entry>
         <entry>
         <title>OpenClaw 改变了我线上的生活</title>
@@ -1243,16 +1254,5 @@
             <uri>https://www.x8xx.cn</uri>
         </author>
         <summary type="text"><![CDATA[企业OLT命令行调优无线常用配置]]></summary>
-    </entry>
-        <entry>
-        <title>晚霞 . 烟花 . 小记</title>
-        <id>149621</id>
-        <link href="https://hi.jeray.wang/L/209.html?utm_source=blogfinder" />
-        <published>2026-03-16T16:36:00+08:00</published>
-        <author>
-            <name>Jeray 大叔</name>
-            <uri>https://hi.jeray.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[晚霞 . 烟花 . 小记]]></summary>
     </entry>
     </feed>
