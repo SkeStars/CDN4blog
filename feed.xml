@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-19T14:06:07+08:00</updated>
+    <updated>2026-03-19T16:00:34+08:00</updated>
+        <entry>
+        <title>【读书记1641】朱生豪译莎士比亚《麦克白》</title>
+        <id>150584</id>
+        <link href="http://www.qncd.com/?p=12573&amp;utm_source=blogfinder" />
+        <published>2026-03-19T14:57:28+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1641】朱生豪译莎士比亚《麦克白》]]></summary>
+    </entry>
+        <entry>
+        <title>尝试了雀巢的生椰拿铁</title>
+        <id>150583</id>
+        <link href="https://www.xiaocaoderijiben.online/archives/312?utm_source=blogfinder" />
+        <published>2026-03-19T14:17:31+08:00</published>
+        <author>
+            <name>小草的日记本</name>
+            <uri>https://www.xiaocaoderijiben.online</uri>
+        </author>
+        <summary type="text"><![CDATA[尝试了雀巢的生椰拿铁]]></summary>
+    </entry>
         <entry>
         <title>MiMo-V2系列模型（MiMo-V2-Pro &amp; MiMo Claw）</title>
         <id>150579</id>
@@ -24,6 +46,17 @@
         <summary type="text"><![CDATA[MiMo-V2系列模型（MiMo-V2-Pro &amp; MiMo Claw）]]></summary>
     </entry>
         <entry>
+        <title>看了无数遍《士兵突击》，我心中也有个从军梦！</title>
+        <id>150582</id>
+        <link href="https://ygz.ink/archives/4519.html?utm_source=blogfinder" />
+        <published>2026-03-19T11:42:06+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[看了无数遍《士兵突击》，我心中也有个从军梦！]]></summary>
+    </entry>
+        <entry>
         <title>2026年油价调整日历</title>
         <id>150581</id>
         <link href="https://blog.tibtob.cn/archives/35/?utm_source=blogfinder" />
@@ -33,6 +66,17 @@
             <uri>https://blog.tibtob.cn</uri>
         </author>
         <summary type="text"><![CDATA[2026年油价调整日历]]></summary>
+    </entry>
+        <entry>
+        <title>OpenClaw 改变了我线上的生活</title>
+        <id>150585</id>
+        <link href="https://www.suiyan.cc/blog/20260319025149?utm_source=blogfinder" />
+        <published>2026-03-19T10:51:49+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenClaw 改变了我线上的生活]]></summary>
     </entry>
         <entry>
         <title>日志分析与可视化</title>
@@ -1210,93 +1254,5 @@
             <uri>https://hi.jeray.wang</uri>
         </author>
         <summary type="text"><![CDATA[晚霞 . 烟花 . 小记]]></summary>
-    </entry>
-        <entry>
-        <title>瑶族长鼓和井头湾村</title>
-        <id>149611</id>
-        <link href="http://www.yveji.com/Scenery/jiang-hua-county.html?utm_source=blogfinder" />
-        <published>2026-03-16T15:50:00+08:00</published>
-        <author>
-            <name>悦己</name>
-            <uri>http://www.yveji.com</uri>
-        </author>
-        <summary type="text"><![CDATA[瑶族长鼓和井头湾村]]></summary>
-    </entry>
-        <entry>
-        <title>从老活到小</title>
-        <id>149623</id>
-        <link href="https://vrast.cn/posts/57404/?utm_source=blogfinder" />
-        <published>2026-03-16T15:49:04+08:00</published>
-        <author>
-            <name>Keyle&#039;s Blog</name>
-            <uri>https://vrast.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[从老活到小]]></summary>
-    </entry>
-        <entry>
-        <title>阿里 JVS Claw 上手：都这么多天了，养虾的门槛被打下来了吗？</title>
-        <id>150391</id>
-        <link href="https://blog.zhheo.com/p/ey4573gn.html?utm_source=blogfinder" />
-        <published>2026-03-16T15:36:30+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[阿里 JVS Claw 上手：都这么多天了，养虾的门槛被打下来了吗？]]></summary>
-    </entry>
-        <entry>
-        <title>一些旧诗</title>
-        <id>150407</id>
-        <link href="https://www.lisanwaier.cn/text/poems/%e4%b8%80%e4%ba%9b%e6%97%a7%e8%af%97/?utm_source=blogfinder" />
-        <published>2026-03-16T15:34:54+08:00</published>
-        <author>
-            <name>山花园</name>
-            <uri>https://www.lisanwaier.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[一些旧诗]]></summary>
-    </entry>
-        <entry>
-        <title>【资讯】离谱！某数字安全大厂 AI 客户端竟“附赠”自己泛域名的私钥？</title>
-        <id>149609</id>
-        <link href="https://www.tjsky.net/news/1451?utm_source=blogfinder" />
-        <published>2026-03-16T15:25:47+08:00</published>
-        <author>
-            <name>秋风于渭水</name>
-            <uri>https://www.tjsky.net</uri>
-        </author>
-        <summary type="text"><![CDATA[【资讯】离谱！某数字安全大厂 AI 客户端竟“附赠”自己泛域名的私钥？]]></summary>
-    </entry>
-        <entry>
-        <title>密码保护：一封信 20260316</title>
-        <id>149830</id>
-        <link href="https://jdzhao.com/oneletter-20260316/?utm_source=blogfinder" />
-        <published>2026-03-16T15:16:51+08:00</published>
-        <author>
-            <name>重光阁</name>
-            <uri>https://jdzhao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[密码保护：一封信 20260316]]></summary>
-    </entry>
-        <entry>
-        <title>养龙虾（OpenClaw使用）感受</title>
-        <id>149608</id>
-        <link href="https://www.suiyan.cc/blog/20260316065533?utm_source=blogfinder" />
-        <published>2026-03-16T14:55:33+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[养龙虾（OpenClaw使用）感受]]></summary>
-    </entry>
-        <entry>
-        <title>目前处于 BUG 天梯状态的低效率 Claw 还不值得作为 Gatway 使用，需及时止损。</title>
-        <id>149665</id>
-        <link href="https://i.lckiss.com/?p=9595&amp;utm_source=blogfinder" />
-        <published>2026-03-16T14:45:50+08:00</published>
-        <author>
-            <name>伪斜杠青年</name>
-            <uri>https://i.lckiss.com</uri>
-        </author>
-        <summary type="text"><![CDATA[目前处于 BUG 天梯状态的低效率 Claw 还不值得作为 Gatway 使用，需及时止损。]]></summary>
     </entry>
     </feed>
