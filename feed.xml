@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-19T17:00:22+08:00</updated>
+    <updated>2026-03-19T18:00:24+08:00</updated>
+        <entry>
+        <title>2026.3.18</title>
+        <id>150587</id>
+        <link href="https://www.justzht.com/2026-3-18/?utm_source=blogfinder" />
+        <published>2026-03-19T15:15:47+08:00</published>
+        <author>
+            <name>JustZht</name>
+            <uri>https://www.justzht.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026.3.18]]></summary>
+    </entry>
         <entry>
         <title>【读书记1641】朱生豪译莎士比亚《麦克白》</title>
         <id>150584</id>
@@ -22,6 +33,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1641】朱生豪译莎士比亚《麦克白》]]></summary>
+    </entry>
+        <entry>
+        <title>幸福是种技能，而非结果：读《纳瓦尔宝典》有感</title>
+        <id>150590</id>
+        <link href="https://blogwinter.top/%e5%b9%b8%e7%a6%8f%e6%98%af%e7%a7%8d%e6%8a%80%e8%83%bd%ef%bc%8c%e8%80%8c%e9%9d%9e%e7%bb%93%e6%9e%9c%ef%bc%9a%e8%af%bb%e3%80%8a%e7%ba%b3%e7%93%a6%e5%b0%94%e5%ae%9d%e5%85%b8%e3%80%8b%e6%9c%89%e6%84%9f/?utm_source=blogfinder" />
+        <published>2026-03-19T14:25:45+08:00</published>
+        <author>
+            <name>初冬个人小站</name>
+            <uri>https://blogwinter.top</uri>
+        </author>
+        <summary type="text"><![CDATA[幸福是种技能，而非结果：读《纳瓦尔宝典》有感]]></summary>
     </entry>
         <entry>
         <title>尝试了雀巢的生椰拿铁</title>
@@ -55,6 +77,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[看了无数遍《士兵突击》，我心中也有个从军梦！]]></summary>
+    </entry>
+        <entry>
+        <title>霸凌者，是如何被制造出来的？</title>
+        <id>150588</id>
+        <link href="https://onojyun.com/2026/03/19/how-bullies-are-created/?utm_source=blogfinder" />
+        <published>2026-03-19T11:10:40+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://onojyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[霸凌者，是如何被制造出来的？]]></summary>
     </entry>
         <entry>
         <title>2026年油价调整日历</title>
@@ -187,6 +220,17 @@
             <uri>https://lomus.cc</uri>
         </author>
         <summary type="text"><![CDATA[被冤枉和不被信任的 PTSD]]></summary>
+    </entry>
+        <entry>
+        <title>解决 Nautilus 自定义终端插件安装依赖问题</title>
+        <id>150589</id>
+        <link href="https://xingwangzhe.fun/posts/nautilus-open-any-terminal/?utm_source=blogfinder" />
+        <published>2026-03-18T22:40:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[解决 Nautilus 自定义终端插件安装依赖问题]]></summary>
     </entry>
         <entry>
         <title>隐说 NO.16  “默认为假”的时代</title>
@@ -1232,27 +1276,5 @@
             <uri>https://xiangming.site</uri>
         </author>
         <summary type="text"><![CDATA[我给我的本地龙虾开了博客！]]></summary>
-    </entry>
-        <entry>
-        <title>对远方指手画脚，对身边漠不关心</title>
-        <id>149625</id>
-        <link href="https://www.pgoj.top/archives/indifferent-to-surroundings.html?utm_source=blogfinder" />
-        <published>2026-03-16T17:14:27+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[对远方指手画脚，对身边漠不关心]]></summary>
-    </entry>
-        <entry>
-        <title>企业OLT命令行调优无线常用配置</title>
-        <id>149620</id>
-        <link href="https://www.x8xx.cn/1055.html?utm_source=blogfinder" />
-        <published>2026-03-16T17:01:10+08:00</published>
-        <author>
-            <name>树洞笔记</name>
-            <uri>https://www.x8xx.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[企业OLT命令行调优无线常用配置]]></summary>
     </entry>
     </feed>
