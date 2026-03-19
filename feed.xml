@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-19T23:00:44+08:00</updated>
+    <updated>2026-03-20T00:00:44+08:00</updated>
         <entry>
         <title>Lesson 4 Ignition of the Sun</title>
         <id>150596</id>
@@ -57,6 +57,39 @@
         <summary type="text"><![CDATA[个人与团队]]></summary>
     </entry>
         <entry>
+        <title>博客二十年定制T恤出炉</title>
+        <id>150603</id>
+        <link href="https://zhujay.com/talking/?id=1213&amp;utm_source=blogfinder" />
+        <published>2026-03-19T19:09:57+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[博客二十年定制T恤出炉]]></summary>
+    </entry>
+        <entry>
+        <title>入职两周：在 35 岁这一年重新 Landing</title>
+        <id>150602</id>
+        <link href="https://blog.solazy.me/20260319/?utm_source=blogfinder" />
+        <published>2026-03-19T19:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[入职两周：在 35 岁这一年重新 Landing]]></summary>
+    </entry>
+        <entry>
+        <title>Ready, Steady, Go...?</title>
+        <id>150601</id>
+        <link href="https://www.geedea.pro/article/ready-steady-go/?utm_source=blogfinder" />
+        <published>2026-03-19T18:29:28+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[Ready, Steady, Go...?]]></summary>
+    </entry>
+        <entry>
         <title>OPPO、vivo和荣耀手机大部分机型已涨价，目前华为手机更有竞争力</title>
         <id>150597</id>
         <link href="https://www.bufanz.com/20260319477.html?utm_source=blogfinder" />
@@ -77,6 +110,17 @@
             <uri>https://jyblog.cn</uri>
         </author>
         <summary type="text"><![CDATA[Motrix 一款开源且可以平替迅雷的下载器]]></summary>
+    </entry>
+        <entry>
+        <title>Waline 自建 Auth 认证</title>
+        <id>150600</id>
+        <link href="https://blog.uuanqin.top/p/c7d4d021/?utm_source=blogfinder" />
+        <published>2026-03-19T17:25:03+08:00</published>
+        <author>
+            <name>半方池水半方田</name>
+            <uri>https://blog.uuanqin.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Waline 自建 Auth 认证]]></summary>
     </entry>
         <entry>
         <title>ComfyUI对接Ollama——让AI全自动出图</title>
@@ -1144,27 +1188,5 @@
             <uri>https://baipin.pw</uri>
         </author>
         <summary type="text"><![CDATA[AI部署实践:Colab部署AI模型进行Fine Tuning]]></summary>
-    </entry>
-        <entry>
-        <title>解决 Claude Code 报错 Error: InputValidationError: Write failed due to the following issues:</title>
-        <id>150427</id>
-        <link href="https://www.51it.wang/ll/2169?utm_source=blogfinder" />
-        <published>2026-03-16T23:19:00+08:00</published>
-        <author>
-            <name>Lcry</name>
-            <uri>https://www.51it.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[解决 Claude Code 报错 Error: InputValidationError: Write failed due to the following issues:]]></summary>
-    </entry>
-        <entry>
-        <title>我写了个插件让 AI 帮我管博客，结果她还给自己整了套主题</title>
-        <id>150396</id>
-        <link href="https://xiangming.site/1128.html?utm_source=blogfinder" />
-        <published>2026-03-16T23:05:00+08:00</published>
-        <author>
-            <name>湘铭呀</name>
-            <uri>https://xiangming.site</uri>
-        </author>
-        <summary type="text"><![CDATA[我写了个插件让 AI 帮我管博客，结果她还给自己整了套主题]]></summary>
     </entry>
     </feed>
