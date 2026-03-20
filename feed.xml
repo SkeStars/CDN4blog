@@ -11,7 +11,84 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-20T00:00:44+08:00</updated>
+    <updated>2026-03-20T11:03:32+08:00</updated>
+        <entry>
+        <title>Markdown 长文本分割为小段内容，发送给 Github Copilot SDK 逐个处理，规避 context deadline exceeded</title>
+        <id>150633</id>
+        <link href="https://www.sunzhongwei.com/split-markdown-long-text-github-copilot-sdk?utm_source=blogfinder" />
+        <published>2026-03-20T10:29:21+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Markdown 长文本分割为小段内容，发送给 Github Copilot SDK 逐个处理，规避 context deadline exceeded]]></summary>
+    </entry>
+        <entry>
+        <title>MySQL查询优化器原理与实践</title>
+        <id>150630</id>
+        <link href="https://www.aserver.cn/?post=86&amp;utm_source=blogfinder" />
+        <published>2026-03-20T10:00:02+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[MySQL查询优化器原理与实践]]></summary>
+    </entry>
+        <entry>
+        <title>带着孩子去芝加哥零元购</title>
+        <id>150628</id>
+        <link href="https://www.immarcus.com/blog/books4cause-chicago?utm_source=blogfinder" />
+        <published>2026-03-20T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[带着孩子去芝加哥零元购]]></summary>
+    </entry>
+        <entry>
+        <title>学习周刊-总第255期-2026年第12周</title>
+        <id>150623</id>
+        <link href="https://wiki.eryajf.net/pages/5f9192/?utm_source=blogfinder" />
+        <published>2026-03-20T06:42:43+08:00</published>
+        <author>
+            <name>二丫讲梵</name>
+            <uri>https://wiki.eryajf.net</uri>
+        </author>
+        <summary type="text"><![CDATA[学习周刊-总第255期-2026年第12周]]></summary>
+    </entry>
+        <entry>
+        <title>深度学习训练优化技巧</title>
+        <id>150631</id>
+        <link href="https://www.aserver.cn/?post=85&amp;utm_source=blogfinder" />
+        <published>2026-03-20T04:00:02+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[深度学习训练优化技巧]]></summary>
+    </entry>
+        <entry>
+        <title>机器学习模型部署工程化实践</title>
+        <id>150632</id>
+        <link href="https://www.aserver.cn/?post=84&amp;utm_source=blogfinder" />
+        <published>2026-03-20T01:00:02+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[机器学习模型部署工程化实践]]></summary>
+    </entry>
+        <entry>
+        <title>SealDice 免费部署指北</title>
+        <id>150610</id>
+        <link href="https://fiammanda.com/notes/sealdice-on-gcp/?utm_source=blogfinder" />
+        <published>2026-03-20T00:00:00+08:00</published>
+        <author>
+            <name>The F Word</name>
+            <uri>https://fiammanda.com</uri>
+        </author>
+        <summary type="text"><![CDATA[SealDice 免费部署指北]]></summary>
+    </entry>
         <entry>
         <title>Lesson 4 Ignition of the Sun</title>
         <id>150596</id>
@@ -156,6 +233,17 @@
         <summary type="text"><![CDATA[【读书记1641】朱生豪译莎士比亚《麦克白》]]></summary>
     </entry>
         <entry>
+        <title>给OpenList和Alist加上液态玻璃效果，颜值直接拉满！</title>
+        <id>150634</id>
+        <link href="https://wuqishi.com/liquid-glass-theme-for-openlist-alist/?utm_source=blogfinder" />
+        <published>2026-03-19T14:46:00+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[给OpenList和Alist加上液态玻璃效果，颜值直接拉满！]]></summary>
+    </entry>
+        <entry>
         <title>幸福是种技能，而非结果：读《纳瓦尔宝典》有感</title>
         <id>150598</id>
         <link href="https://blogwinter.top/%E5%B9%B8%E7%A6%8F%E6%98%AF%E7%A7%8D%E6%8A%80%E8%83%BD%E8%80%8C%E9%9D%9E%E7%BB%93%E6%9E%9C%E8%AF%BB%E7%BA%B3%E7%93%A6%E5%B0%94%E5%AE%9D%E5%85%B8%E6%9C%89%E6%84%9F/?utm_source=blogfinder" />
@@ -200,6 +288,17 @@
         <summary type="text"><![CDATA[MiMo-V2系列模型（MiMo-V2-Pro &amp; MiMo Claw）]]></summary>
     </entry>
         <entry>
+        <title>童童第一次生病</title>
+        <id>150605</id>
+        <link href="https://www.webersongao.com/baby/2026/4713.html?utm_source=blogfinder" />
+        <published>2026-03-19T12:08:03+08:00</published>
+        <author>
+            <name>卫博生</name>
+            <uri>https://www.webersongao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[童童第一次生病]]></summary>
+    </entry>
+        <entry>
         <title>看了无数遍《士兵突击》，我心中也有个从军梦！</title>
         <id>150582</id>
         <link href="https://ygz.ink/archives/4519.html?utm_source=blogfinder" />
@@ -209,6 +308,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[看了无数遍《士兵突击》，我心中也有个从军梦！]]></summary>
+    </entry>
+        <entry>
+        <title>当大家都在用 OpenClaw 时，我潜下心来用 OpenCode 做了两个开源项目</title>
+        <id>150629</id>
+        <link href="https://lawtee.com/article/pocket-hugo-theme/?utm_source=blogfinder" />
+        <published>2026-03-19T11:16:20+08:00</published>
+        <author>
+            <name>老 T 博客</name>
+            <uri>https://lawtee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[当大家都在用 OpenClaw 时，我潜下心来用 OpenCode 做了两个开源项目]]></summary>
     </entry>
         <entry>
         <title>霸凌者，是如何被制造出来的？</title>
@@ -288,6 +398,50 @@
         <summary type="text"><![CDATA[20260317]]></summary>
     </entry>
         <entry>
+        <title>收到QClaw的邀请码了，立刻上手测试，免费Token量大管饱？</title>
+        <id>150627</id>
+        <link href="https://maplezz.com/blog/收到qclaw的邀请码了_立刻上手测试/?utm_source=blogfinder" />
+        <published>2026-03-19T08:00:00+08:00</published>
+        <author>
+            <name>猫普的精神世界</name>
+            <uri>https://maplezz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[收到QClaw的邀请码了，立刻上手测试，免费Token量大管饱？]]></summary>
+    </entry>
+        <entry>
+        <title>被利空吓破胆</title>
+        <id>150626</id>
+        <link href="https://ddbzhou.com/post/beilikongxiapodan/?utm_source=blogfinder" />
+        <published>2026-03-19T08:00:00+08:00</published>
+        <author>
+            <name>兜兜爸投资笔记</name>
+            <uri>https://ddbzhou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[被利空吓破胆]]></summary>
+    </entry>
+        <entry>
+        <title>没有 Bug 的代码，就像没有波折的人生，让人发慌</title>
+        <id>150625</id>
+        <link href="https://blog.gudong.site/2026/03/19/article.html?utm_source=blogfinder" />
+        <published>2026-03-19T08:00:00+08:00</published>
+        <author>
+            <name>咕咚同学</name>
+            <uri>https://blog.gudong.site</uri>
+        </author>
+        <summary type="text"><![CDATA[没有 Bug 的代码，就像没有波折的人生，让人发慌]]></summary>
+    </entry>
+        <entry>
+        <title>没有 bug 不正常</title>
+        <id>150624</id>
+        <link href="https://blog.gudong.site/2026/03/19/no-bug-is-normal.html?utm_source=blogfinder" />
+        <published>2026-03-19T08:00:00+08:00</published>
+        <author>
+            <name>咕咚同学</name>
+            <uri>https://blog.gudong.site</uri>
+        </author>
+        <summary type="text"><![CDATA[没有 bug 不正常]]></summary>
+    </entry>
+        <entry>
         <title>现在大概三点钟</title>
         <id>150568</id>
         <link href="https://www.immarcus.com/blog/about-three-oclock?utm_source=blogfinder" />
@@ -341,6 +495,17 @@
             <uri>https://luszy.com/home</uri>
         </author>
         <summary type="text"><![CDATA[拼豆图纸生成。]]></summary>
+    </entry>
+        <entry>
+        <title>黄杨</title>
+        <id>150609</id>
+        <link href="https://jame.work/html/other/17r?utm_source=blogfinder" />
+        <published>2026-03-19T00:00:00+08:00</published>
+        <author>
+            <name>Jame</name>
+            <uri>https://jame.work</uri>
+        </author>
+        <summary type="text"><![CDATA[黄杨]]></summary>
     </entry>
         <entry>
         <title>被冤枉和不被信任的 PTSD</title>
@@ -517,6 +682,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[我理解父母为什么不愿修缮老家的房子]]></summary>
+    </entry>
+        <entry>
+        <title>长安灯火，少年如初，天元西游游戏超详细图文架设教程</title>
+        <id>150604</id>
+        <link href="https://echeverra.cn/tyxy?utm_source=blogfinder" />
+        <published>2026-03-18T16:25:20+08:00</published>
+        <author>
+            <name>echeverra</name>
+            <uri>https://echeverra.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[长安灯火，少年如初，天元西游游戏超详细图文架设教程]]></summary>
     </entry>
         <entry>
         <title>彻底重构了博客的豆瓣观影同步机制</title>
@@ -1034,159 +1210,5 @@
             <uri>https://www.sumi233.top</uri>
         </author>
         <summary type="text"><![CDATA[人潮里的烽烟笺：虎门公交的湾畔漫游录]]></summary>
-    </entry>
-        <entry>
-        <title>MTU Probe 引起的初始延迟</title>
-        <id>150539</id>
-        <link href="https://www.kawabangga.com/posts/7221?utm_source=blogfinder" />
-        <published>2026-03-17T10:53:03+08:00</published>
-        <author>
-            <name>卡瓦邦噶</name>
-            <uri>https://www.kawabangga.com</uri>
-        </author>
-        <summary type="text"><![CDATA[MTU Probe 引起的初始延迟]]></summary>
-    </entry>
-        <entry>
-        <title>LLM Agent 常用范式详解</title>
-        <id>150428</id>
-        <link href="https://www.imalun.com/agent?utm_source=blogfinder" />
-        <published>2026-03-17T10:35:09+08:00</published>
-        <author>
-            <name>白云苍狗</name>
-            <uri>https://www.imalun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[LLM Agent 常用范式详解]]></summary>
-    </entry>
-        <entry>
-        <title>关于情感回避的一些感受、记录</title>
-        <id>150397</id>
-        <link href="https://rolen.wiki/learning-to-sit-with-what-i-feel/?utm_source=blogfinder" />
-        <published>2026-03-17T10:07:12+08:00</published>
-        <author>
-            <name>Rolen&#039;s Blog</name>
-            <uri>https://rolen.wiki</uri>
-        </author>
-        <summary type="text"><![CDATA[关于情感回避的一些感受、记录]]></summary>
-    </entry>
-        <entry>
-        <title>Es muss sein?</title>
-        <id>150404</id>
-        <link href="https://www.geedea.pro/article/tarot-hanged-man/?utm_source=blogfinder" />
-        <published>2026-03-17T09:24:31+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[Es muss sein?]]></summary>
-    </entry>
-        <entry>
-        <title>生命远比所看到、所了解的更顽强——《冬牧场》读后感</title>
-        <id>150510</id>
-        <link href="https://www.jfsay.com/archives/4027.html?utm_source=blogfinder" />
-        <published>2026-03-17T08:50:24+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[生命远比所看到、所了解的更顽强——《冬牧场》读后感]]></summary>
-    </entry>
-        <entry>
-        <title>一个高开低走不知道埋了多少人</title>
-        <id>150486</id>
-        <link href="https://ddbzhou.com/post/yigegaokadizou/?utm_source=blogfinder" />
-        <published>2026-03-17T08:00:00+08:00</published>
-        <author>
-            <name>兜兜爸投资笔记</name>
-            <uri>https://ddbzhou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[一个高开低走不知道埋了多少人]]></summary>
-    </entry>
-        <entry>
-        <title>澳洲油价已经疯了</title>
-        <id>150485</id>
-        <link href="https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/03/17/australian-fuel-prices-are-going-insane.html?utm_source=blogfinder" />
-        <published>2026-03-17T08:00:00+08:00</published>
-        <author>
-            <name>Oz Explorer</name>
-            <uri>https://www.ozexplorers.com</uri>
-        </author>
-        <summary type="text"><![CDATA[澳洲油价已经疯了]]></summary>
-    </entry>
-        <entry>
-        <title>代码正在加速贬值</title>
-        <id>150484</id>
-        <link href="https://blog.gudong.site/2026/03/17/code-depreciation.html?utm_source=blogfinder" />
-        <published>2026-03-17T08:00:00+08:00</published>
-        <author>
-            <name>咕咚同学</name>
-            <uri>https://blog.gudong.site</uri>
-        </author>
-        <summary type="text"><![CDATA[代码正在加速贬值]]></summary>
-    </entry>
-        <entry>
-        <title>不用翻教程了，OpenCode帮你装好Openclaw小龙虾！</title>
-        <id>150431</id>
-        <link href="https://maplezz.com/blog/不用翻教程了_opencode帮你装好openclaw小龙虾/?utm_source=blogfinder" />
-        <published>2026-03-17T08:00:00+08:00</published>
-        <author>
-            <name>猫普的精神世界</name>
-            <uri>https://maplezz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[不用翻教程了，OpenCode帮你装好Openclaw小龙虾！]]></summary>
-    </entry>
-        <entry>
-        <title>纯数字网址</title>
-        <id>150330</id>
-        <link href="https://www.immarcus.com/blog/numerical-website?utm_source=blogfinder" />
-        <published>2026-03-17T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[纯数字网址]]></summary>
-    </entry>
-        <entry>
-        <title>🎵 AudioDock（声仓）：音乐 + 有声书，一个 App 全搞定，NAS 党的音频神器来了！</title>
-        <id>150430</id>
-        <link href="https://www.huluohu.com/posts/2054/?utm_source=blogfinder" />
-        <published>2026-03-17T07:30:41+08:00</published>
-        <author>
-            <name>胡萝虎的博客</name>
-            <uri>https://www.huluohu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[🎵 AudioDock（声仓）：音乐 + 有声书，一个 App 全搞定，NAS 党的音频神器来了！]]></summary>
-    </entry>
-        <entry>
-        <title>松声｜廿六年·三月中·燕衔泥</title>
-        <id>150412</id>
-        <link href="https://xyzbz.cn/archives/1522/?utm_source=blogfinder" />
-        <published>2026-03-17T05:22:27+08:00</published>
-        <author>
-            <name>网友小宋</name>
-            <uri>https://xyzbz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[松声｜廿六年·三月中·燕衔泥]]></summary>
-    </entry>
-        <entry>
-        <title>随思 - 2026-03-16</title>
-        <id>150325</id>
-        <link href="http://qthinker.net/content/65?utm_source=blogfinder" />
-        <published>2026-03-17T00:33:46+08:00</published>
-        <author>
-            <name>Qthinker</name>
-            <uri>https://qthinker.net</uri>
-        </author>
-        <summary type="text"><![CDATA[随思 - 2026-03-16]]></summary>
-    </entry>
-        <entry>
-        <title>AI部署实践:Colab部署AI模型进行Fine Tuning</title>
-        <id>149668</id>
-        <link href="https://baipin.pw/tech-study/ai-fine-tuning.html?utm_source=blogfinder" />
-        <published>2026-03-17T00:30:20+08:00</published>
-        <author>
-            <name>百品博客</name>
-            <uri>https://baipin.pw</uri>
-        </author>
-        <summary type="text"><![CDATA[AI部署实践:Colab部署AI模型进行Fine Tuning]]></summary>
     </entry>
     </feed>
