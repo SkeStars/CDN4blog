@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-20T21:04:11+08:00</updated>
+    <updated>2026-03-20T23:01:47+08:00</updated>
+        <entry>
+        <title>Linux下NVIDIA计算卡打游戏指南，以V100为例</title>
+        <id>150690</id>
+        <link href="https://www.nekopara.uk/archives/V100_Gaming.html?utm_source=blogfinder" />
+        <published>2026-03-20T22:49:00+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[Linux下NVIDIA计算卡打游戏指南，以V100为例]]></summary>
+    </entry>
+        <entry>
+        <title>生活碎碎念：三重因素交织的戒断反应</title>
+        <id>150688</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1185/?utm_source=blogfinder" />
+        <published>2026-03-20T21:59:33+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[生活碎碎念：三重因素交织的戒断反应]]></summary>
+    </entry>
+        <entry>
+        <title>爸妈与宝宝的可爱瞬间，值得记录</title>
+        <id>150686</id>
+        <link href="https://www.aiwazi.com/2971.html?utm_source=blogfinder" />
+        <published>2026-03-20T19:53:55+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[爸妈与宝宝的可爱瞬间，值得记录]]></summary>
+    </entry>
+        <entry>
+        <title>高考押题</title>
+        <id>150689</id>
+        <link href="https://onojyun.com/2026/03/20/%e9%ab%98%e8%80%83%e6%8a%bc%e9%a2%98/?utm_source=blogfinder" />
+        <published>2026-03-20T19:08:02+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://onojyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[高考押题]]></summary>
+    </entry>
         <entry>
         <title>OpenClaw 必装 10 大技能：让你的龙虾从能用变好用</title>
         <id>150684</id>
@@ -22,6 +66,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[OpenClaw 必装 10 大技能：让你的龙虾从能用变好用]]></summary>
+    </entry>
+        <entry>
+        <title>Bing收录没了？亲测有效的快速恢复指南</title>
+        <id>150687</id>
+        <link href="https://xingwangzhe.fun/posts/bing-re-index/?utm_source=blogfinder" />
+        <published>2026-03-20T18:30:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Bing收录没了？亲测有效的快速恢复指南]]></summary>
     </entry>
         <entry>
         <title>安装了 QClaw Windows 版本，体验差到让人怀疑人生</title>
@@ -1309,38 +1364,5 @@
             <uri>https://i.lckiss.com</uri>
         </author>
         <summary type="text"><![CDATA[简单部署你的 Zeroclaw with Docker 喂饭版]]></summary>
-    </entry>
-        <entry>
-        <title>我为什么坚持自己生产内容</title>
-        <id>150514</id>
-        <link href="https://joojen.com/archives/8876.html?utm_source=blogfinder" />
-        <published>2026-03-17T22:33:53+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我为什么坚持自己生产内容]]></summary>
-    </entry>
-        <entry>
-        <title>今天我给茶茶上了把锁：AI 向外拓展时，别忘了保密性</title>
-        <id>150426</id>
-        <link href="https://xiangming.site/1130.html?utm_source=blogfinder" />
-        <published>2026-03-17T21:46:00+08:00</published>
-        <author>
-            <name>湘铭呀</name>
-            <uri>https://xiangming.site</uri>
-        </author>
-        <summary type="text"><![CDATA[今天我给茶茶上了把锁：AI 向外拓展时，别忘了保密性]]></summary>
-    </entry>
-        <entry>
-        <title>特种兵上课</title>
-        <id>150424</id>
-        <link href="https://blog.tibtob.cn/archives/29/?utm_source=blogfinder" />
-        <published>2026-03-17T21:39:00+08:00</published>
-        <author>
-            <name>拾音博客</name>
-            <uri>https://blog.tibtob.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[特种兵上课]]></summary>
     </entry>
     </feed>
