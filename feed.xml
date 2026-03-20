@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-20T16:00:28+08:00</updated>
+    <updated>2026-03-20T17:01:53+08:00</updated>
+        <entry>
+        <title>安装了 QClaw Windows 版本，体验差到让人怀疑人生</title>
+        <id>150661</id>
+        <link href="https://www.sunzhongwei.com/qclaw-windows-wechat-version?utm_source=blogfinder" />
+        <published>2026-03-20T16:33:12+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[安装了 QClaw Windows 版本，体验差到让人怀疑人生]]></summary>
+    </entry>
+        <entry>
+        <title>安静的孩子疏松的骨头</title>
+        <id>150669</id>
+        <link href="https://www.pgoj.top/archives/loose-bones.html?utm_source=blogfinder" />
+        <published>2026-03-20T14:52:55+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[安静的孩子疏松的骨头]]></summary>
+    </entry>
         <entry>
         <title>当我听到愤世嫉俗的键盘声，一定是某个研究生在和AI疯狂输出或dis</title>
         <id>150656</id>
@@ -35,6 +57,17 @@
         <summary type="text"><![CDATA[腾讯云EdgeOne+存储桶防盗链踩坑实录]]></summary>
     </entry>
         <entry>
+        <title>2026-03-20 11:48</title>
+        <id>150667</id>
+        <link href="https://koobai.com/laodao/2026/03/20260320-114836/?utm_source=blogfinder" />
+        <published>2026-03-20T11:48:36+08:00</published>
+        <author>
+            <name>Koobai</name>
+            <uri>https://koobai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-03-20 11:48]]></summary>
+    </entry>
+        <entry>
         <title>我的第一个ClawHub技能：Flash Thoughts（闪念）已发布</title>
         <id>150659</id>
         <link href="https://www.suiyan.cc/blog/20260320113900?utm_source=blogfinder" />
@@ -44,6 +77,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[我的第一个ClawHub技能：Flash Thoughts（闪念）已发布]]></summary>
+    </entry>
+        <entry>
+        <title>如何更早下班</title>
+        <id>150665</id>
+        <link href="https://www.sanji.one/posts/ru-he-geng-zao-xia-ban/?utm_source=blogfinder" />
+        <published>2026-03-20T11:15:14+08:00</published>
+        <author>
+            <name>时光散记</name>
+            <uri>https://www.sanji.one</uri>
+        </author>
+        <summary type="text"><![CDATA[如何更早下班]]></summary>
     </entry>
         <entry>
         <title>Markdown 长文本分割为小段内容，发送给 Github Copilot SDK 逐个处理，规避 context deadline exceeded</title>
@@ -101,6 +145,17 @@
         <summary type="text"><![CDATA[带着孩子去芝加哥零元购]]></summary>
     </entry>
         <entry>
+        <title>科技爱好者周刊（第 389 期）：未来如何招聘程序员</title>
+        <id>150662</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html?utm_source=blogfinder" />
+        <published>2026-03-20T07:59:16+08:00</published>
+        <author>
+            <name>阮一峰的网络日志</name>
+            <uri>http://www.ruanyifeng.com/blog</uri>
+        </author>
+        <summary type="text"><![CDATA[科技爱好者周刊（第 389 期）：未来如何招聘程序员]]></summary>
+    </entry>
+        <entry>
         <title>学习周刊-总第255期-2026年第12周</title>
         <id>150623</id>
         <link href="https://wiki.eryajf.net/pages/5f9192/?utm_source=blogfinder" />
@@ -121,6 +176,17 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[深度学习训练优化技巧]]></summary>
+    </entry>
+        <entry>
+        <title>技术博客可能已经走到尽头</title>
+        <id>150668</id>
+        <link href="https://lawtee.com/article/tech-blog/?utm_source=blogfinder" />
+        <published>2026-03-20T02:32:49+08:00</published>
+        <author>
+            <name>老 T 博客</name>
+            <uri>https://lawtee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[技术博客可能已经走到尽头]]></summary>
     </entry>
         <entry>
         <title>机器学习模型部署工程化实践</title>
@@ -255,6 +321,17 @@
         <summary type="text"><![CDATA[Motrix 一款开源且可以平替迅雷的下载器]]></summary>
     </entry>
         <entry>
+        <title>路径插值方法深度对比研究</title>
+        <id>150663</id>
+        <link href="https://www.zywvvd.com/notes/study/algorithm/path-interpolation-comparison/path-interpolation-comparison/?utm_source=blogfinder" />
+        <published>2026-03-19T17:45:00+08:00</published>
+        <author>
+            <name>又见苍岚</name>
+            <uri>https://www.zywvvd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[路径插值方法深度对比研究]]></summary>
+    </entry>
+        <entry>
         <title>Waline 自建 Auth 认证</title>
         <id>150600</id>
         <link href="https://blog.uuanqin.top/p/c7d4d021/?utm_source=blogfinder" />
@@ -308,6 +385,17 @@
             <uri>https://wuqishi.com</uri>
         </author>
         <summary type="text"><![CDATA[给OpenList和Alist加上液态玻璃效果，颜值直接拉满！]]></summary>
+    </entry>
+        <entry>
+        <title>Claude Code 使用指南</title>
+        <id>150664</id>
+        <link href="https://www.zywvvd.com/notes/study/llm/claude-code/claude-code/?utm_source=blogfinder" />
+        <published>2026-03-19T14:40:00+08:00</published>
+        <author>
+            <name>又见苍岚</name>
+            <uri>https://www.zywvvd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Claude Code 使用指南]]></summary>
     </entry>
         <entry>
         <title>幸福是种技能，而非结果：读《纳瓦尔宝典》有感</title>
@@ -849,6 +937,17 @@
         <summary type="text"><![CDATA[Lesson 7 统计力学绪论]]></summary>
     </entry>
         <entry>
+        <title>一场 30 分钟怪诞梦 Ⅱ</title>
+        <id>150666</id>
+        <link href="https://www.sanji.one/journals/yi-chang-30-fen-zhong-guai-dan-meng-2/?utm_source=blogfinder" />
+        <published>2026-03-18T11:25:52+08:00</published>
+        <author>
+            <name>时光散记</name>
+            <uri>https://www.sanji.one</uri>
+        </author>
+        <summary type="text"><![CDATA[一场 30 分钟怪诞梦 Ⅱ]]></summary>
+    </entry>
+        <entry>
         <title>议食品安全</title>
         <id>150522</id>
         <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1114&amp;utm_source=blogfinder" />
@@ -1144,16 +1243,5 @@
             <uri>https://anotherdayu.com</uri>
         </author>
         <summary type="text"><![CDATA[甩出一杆，然后把世界关在门外]]></summary>
-    </entry>
-        <entry>
-        <title>小游天桥立</title>
-        <id>150411</id>
-        <link href="https://shuiba.co/amano-hashitate?utm_source=blogfinder" />
-        <published>2026-03-17T16:18:00+08:00</published>
-        <author>
-            <name>水八口的冥想盆</name>
-            <uri>https://shuiba.co</uri>
-        </author>
-        <summary type="text"><![CDATA[小游天桥立]]></summary>
     </entry>
     </feed>
