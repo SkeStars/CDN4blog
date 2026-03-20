@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-20T14:03:33+08:00</updated>
+    <updated>2026-03-20T15:00:32+08:00</updated>
+        <entry>
+        <title>当我听到愤世嫉俗的键盘声，一定是某个研究生在和AI疯狂输出或dis</title>
+        <id>150656</id>
+        <link href="https://www.52txr.cn/2026/jianpanshengai.html?utm_source=blogfinder" />
+        <published>2026-03-20T12:52:00+08:00</published>
+        <author>
+            <name>陶小桃</name>
+            <uri>https://www.52txr.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[当我听到愤世嫉俗的键盘声，一定是某个研究生在和AI疯狂输出或dis]]></summary>
+    </entry>
         <entry>
         <title>Markdown 长文本分割为小段内容，发送给 Github Copilot SDK 逐个处理，规避 context deadline exceeded</title>
         <id>150633</id>
@@ -88,6 +99,17 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[机器学习模型部署工程化实践]]></summary>
+    </entry>
+        <entry>
+        <title>315 和电影</title>
+        <id>150657</id>
+        <link href="https://dangeer.com/posts/march-15th-and-films/?utm_source=blogfinder" />
+        <published>2026-03-20T00:41:37+08:00</published>
+        <author>
+            <name>丹格尔</name>
+            <uri>https://dangeer.com</uri>
+        </author>
+        <summary type="text"><![CDATA[315 和电影]]></summary>
     </entry>
         <entry>
         <title>SealDice 免费部署指北</title>
@@ -1166,16 +1188,5 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 7 Killing 矢量场和 Lie 导数]]></summary>
-    </entry>
-        <entry>
-        <title>读《瓦尔登湖》：寻找内心的宁静</title>
-        <id>150408</id>
-        <link href="https://buqi.cn/archives/161?utm_source=blogfinder" />
-        <published>2026-03-17T14:18:29+08:00</published>
-        <author>
-            <name>不器之器</name>
-            <uri>https://buqi.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[读《瓦尔登湖》：寻找内心的宁静]]></summary>
     </entry>
     </feed>
