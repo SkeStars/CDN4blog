@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-20T15:00:32+08:00</updated>
+    <updated>2026-03-20T16:00:28+08:00</updated>
         <entry>
         <title>当我听到愤世嫉俗的键盘声，一定是某个研究生在和AI疯狂输出或dis</title>
         <id>150656</id>
@@ -24,6 +24,28 @@
         <summary type="text"><![CDATA[当我听到愤世嫉俗的键盘声，一定是某个研究生在和AI疯狂输出或dis]]></summary>
     </entry>
         <entry>
+        <title>腾讯云EdgeOne+存储桶防盗链踩坑实录</title>
+        <id>150660</id>
+        <link href="https://loglib.cn/204.html?utm_source=blogfinder" />
+        <published>2026-03-20T12:23:00+08:00</published>
+        <author>
+            <name>李文君 &#039;s Blog</name>
+            <uri>https://loglib.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[腾讯云EdgeOne+存储桶防盗链踩坑实录]]></summary>
+    </entry>
+        <entry>
+        <title>我的第一个ClawHub技能：Flash Thoughts（闪念）已发布</title>
+        <id>150659</id>
+        <link href="https://www.suiyan.cc/blog/20260320113900?utm_source=blogfinder" />
+        <published>2026-03-20T11:39:00+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[我的第一个ClawHub技能：Flash Thoughts（闪念）已发布]]></summary>
+    </entry>
+        <entry>
         <title>Markdown 长文本分割为小段内容，发送给 Github Copilot SDK 逐个处理，规避 context deadline exceeded</title>
         <id>150633</id>
         <link href="https://www.sunzhongwei.com/split-markdown-long-text-github-copilot-sdk?utm_source=blogfinder" />
@@ -33,6 +55,17 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[Markdown 长文本分割为小段内容，发送给 Github Copilot SDK 逐个处理，规避 context deadline exceeded]]></summary>
+    </entry>
+        <entry>
+        <title>洪绘星空发布：一个值得逛的博客友链朋友圈</title>
+        <id>150658</id>
+        <link href="https://blog.zhheo.com/p/iu5f3hvj.html?utm_source=blogfinder" />
+        <published>2026-03-20T10:12:20+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[洪绘星空发布：一个值得逛的博客友链朋友圈]]></summary>
     </entry>
         <entry>
         <title>MySQL查询优化器原理与实践</title>
@@ -1122,71 +1155,5 @@
             <uri>https://shuiba.co</uri>
         </author>
         <summary type="text"><![CDATA[小游天桥立]]></summary>
-    </entry>
-        <entry>
-        <title>周末浅游·庐山</title>
-        <id>150414</id>
-        <link href="https://yishu-life.com/index.php/archives/329.html?utm_source=blogfinder" />
-        <published>2026-03-17T16:00:00+08:00</published>
-        <author>
-            <name>树下语</name>
-            <uri>https://yishu-life.com</uri>
-        </author>
-        <summary type="text"><![CDATA[周末浅游·庐山]]></summary>
-    </entry>
-        <entry>
-        <title>以苦难为师与孙子才画得圆</title>
-        <id>150413</id>
-        <link href="https://www.pgoj.top/archives/learn-from-suffering.html?utm_source=blogfinder" />
-        <published>2026-03-17T15:50:14+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[以苦难为师与孙子才画得圆]]></summary>
-    </entry>
-        <entry>
-        <title>当博客失去人类的灵魂，请给博客一个诚实的标签</title>
-        <id>150419</id>
-        <link href="https://www.suiyan.cc/blog/20260317074500?utm_source=blogfinder" />
-        <published>2026-03-17T15:45:00+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[当博客失去人类的灵魂，请给博客一个诚实的标签]]></summary>
-    </entry>
-        <entry>
-        <title>腾讯QClaw上手：打通微信很方便，但是性能上略有不足</title>
-        <id>150513</id>
-        <link href="https://blog.zhheo.com/p/bn8aror2.html?utm_source=blogfinder" />
-        <published>2026-03-17T15:44:54+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[腾讯QClaw上手：打通微信很方便，但是性能上略有不足]]></summary>
-    </entry>
-        <entry>
-        <title>请善待身边的电商人，真的！</title>
-        <id>150511</id>
-        <link href="https://lawtee.com/article/e-commerce/?utm_source=blogfinder" />
-        <published>2026-03-17T15:38:43+08:00</published>
-        <author>
-            <name>老 T 博客</name>
-            <uri>https://lawtee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[请善待身边的电商人，真的！]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 7 Killing 矢量场和 Lie 导数</title>
-        <id>150405</id>
-        <link href="https://physnya.top/GR/lesson-7-killing-vector-and-lie-derivative/?utm_source=blogfinder" />
-        <published>2026-03-17T15:10:07+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 7 Killing 矢量场和 Lie 导数]]></summary>
     </entry>
     </feed>
