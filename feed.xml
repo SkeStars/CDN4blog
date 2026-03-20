@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-20T11:03:32+08:00</updated>
+    <updated>2026-03-20T13:00:27+08:00</updated>
         <entry>
         <title>Markdown 长文本分割为小段内容，发送给 Github Copilot SDK 逐个处理，规避 context deadline exceeded</title>
         <id>150633</id>
@@ -33,6 +33,17 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[MySQL查询优化器原理与实践]]></summary>
+    </entry>
+        <entry>
+        <title>中国象棋专业版html原码，采用纯 HTML5 Canvas 实现</title>
+        <id>150655</id>
+        <link href="https://www.zhyok.cn/index.php/archives/276/?utm_source=blogfinder" />
+        <published>2026-03-20T09:24:00+08:00</published>
+        <author>
+            <name>秋記 Autumn</name>
+            <uri>https://www.zhyok.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[中国象棋专业版html原码，采用纯 HTML5 Canvas 实现]]></summary>
     </entry>
         <entry>
         <title>带着孩子去芝加哥零元购</title>
@@ -1177,38 +1188,5 @@
             <uri>https://onojyun.com</uri>
         </author>
         <summary type="text"><![CDATA[人类的阿贝贝]]></summary>
-    </entry>
-        <entry>
-        <title>云原生架构深度解析：从容器化到服务网格的全栈实践</title>
-        <id>150399</id>
-        <link href="https://www.aserver.cn/?post=75&amp;utm_source=blogfinder" />
-        <published>2026-03-17T12:03:55+08:00</published>
-        <author>
-            <name>俞事</name>
-            <uri>https://www.aserver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[云原生架构深度解析：从容器化到服务网格的全栈实践]]></summary>
-    </entry>
-        <entry>
-        <title>写作的存证与回响</title>
-        <id>150409</id>
-        <link href="https://blog.solazy.me/20260317/?utm_source=blogfinder" />
-        <published>2026-03-17T12:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[写作的存证与回响]]></summary>
-    </entry>
-        <entry>
-        <title>人潮里的烽烟笺：虎门公交的湾畔漫游录</title>
-        <id>150406</id>
-        <link href="https://www.sumi233.top/%E9%85%A5%E7%B1%B3%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/humentravel/?utm_source=blogfinder" />
-        <published>2026-03-17T11:30:00+08:00</published>
-        <author>
-            <name>酥米的小站</name>
-            <uri>https://www.sumi233.top</uri>
-        </author>
-        <summary type="text"><![CDATA[人潮里的烽烟笺：虎门公交的湾畔漫游录]]></summary>
     </entry>
     </feed>
