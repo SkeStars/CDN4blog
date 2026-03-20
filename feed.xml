@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-20T19:00:59+08:00</updated>
+    <updated>2026-03-20T21:04:11+08:00</updated>
+        <entry>
+        <title>OpenClaw 必装 10 大技能：让你的龙虾从能用变好用</title>
+        <id>150684</id>
+        <link href="https://www.suiyan.cc/blog/20260320190747?utm_source=blogfinder" />
+        <published>2026-03-20T19:07:47+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenClaw 必装 10 大技能：让你的龙虾从能用变好用]]></summary>
+    </entry>
         <entry>
         <title>安装了 QClaw Windows 版本，体验差到让人怀疑人生</title>
         <id>150661</id>
@@ -22,6 +33,127 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[安装了 QClaw Windows 版本，体验差到让人怀疑人生]]></summary>
+    </entry>
+        <entry>
+        <title>「十日后」Vol.2 · 春天</title>
+        <id>150685</id>
+        <link href="https://www.suiyan.cc/blog/20260320161757?utm_source=blogfinder" />
+        <published>2026-03-20T16:17:57+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[「十日后」Vol.2 · 春天]]></summary>
+    </entry>
+        <entry>
+        <title>DevOps流水线设计与持续交付实践</title>
+        <id>150674</id>
+        <link href="https://www.aserver.cn/?post=107&amp;utm_source=blogfinder" />
+        <published>2026-03-20T16:00:34+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[DevOps流水线设计与持续交付实践]]></summary>
+    </entry>
+        <entry>
+        <title>数据库索引设计与查询性能优化实战</title>
+        <id>150675</id>
+        <link href="https://www.aserver.cn/?post=106&amp;utm_source=blogfinder" />
+        <published>2026-03-20T16:00:30+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[数据库索引设计与查询性能优化实战]]></summary>
+    </entry>
+        <entry>
+        <title>技术团队协作流程与项目管理最佳实践</title>
+        <id>150676</id>
+        <link href="https://www.aserver.cn/?post=105&amp;utm_source=blogfinder" />
+        <published>2026-03-20T16:00:27+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[技术团队协作流程与项目管理最佳实践]]></summary>
+    </entry>
+        <entry>
+        <title>分布式系统算法设计与一致性实现</title>
+        <id>150677</id>
+        <link href="https://www.aserver.cn/?post=104&amp;utm_source=blogfinder" />
+        <published>2026-03-20T16:00:24+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[分布式系统算法设计与一致性实现]]></summary>
+    </entry>
+        <entry>
+        <title>TCP/IP网络协议栈性能优化与故障排查</title>
+        <id>150678</id>
+        <link href="https://www.aserver.cn/?post=103&amp;utm_source=blogfinder" />
+        <published>2026-03-20T16:00:21+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[TCP/IP网络协议栈性能优化与故障排查]]></summary>
+    </entry>
+        <entry>
+        <title>Kubernetes容器编排架构设计与运维实践</title>
+        <id>150679</id>
+        <link href="https://www.aserver.cn/?post=102&amp;utm_source=blogfinder" />
+        <published>2026-03-20T16:00:17+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Kubernetes容器编排架构设计与运维实践]]></summary>
+    </entry>
+        <entry>
+        <title>现代前端框架架构设计与性能优化策略</title>
+        <id>150680</id>
+        <link href="https://www.aserver.cn/?post=101&amp;utm_source=blogfinder" />
+        <published>2026-03-20T16:00:14+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[现代前端框架架构设计与性能优化策略]]></summary>
+    </entry>
+        <entry>
+        <title>深度学习模型训练优化技巧与实践案例</title>
+        <id>150681</id>
+        <link href="https://www.aserver.cn/?post=100&amp;utm_source=blogfinder" />
+        <published>2026-03-20T16:00:11+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[深度学习模型训练优化技巧与实践案例]]></summary>
+    </entry>
+        <entry>
+        <title>Linux系统性能监控与故障诊断实战指南</title>
+        <id>150682</id>
+        <link href="https://www.aserver.cn/?post=99&amp;utm_source=blogfinder" />
+        <published>2026-03-20T16:00:08+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Linux系统性能监控与故障诊断实战指南]]></summary>
+    </entry>
+        <entry>
+        <title>MySQL InnoDB存储引擎深度解析与性能优化</title>
+        <id>150683</id>
+        <link href="https://www.aserver.cn/?post=98&amp;utm_source=blogfinder" />
+        <published>2026-03-20T16:00:04+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[MySQL InnoDB存储引擎深度解析与性能优化]]></summary>
     </entry>
         <entry>
         <title>郫都区人民政府旁海棠花开啦！</title>
@@ -1210,60 +1342,5 @@
             <uri>https://blog.tibtob.cn</uri>
         </author>
         <summary type="text"><![CDATA[特种兵上课]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 4 讲座：乌贼和章鱼的行为与智能</title>
-        <id>150423</id>
-        <link href="https://physnya.top/animal-behavior/lesson-4-lecture/?utm_source=blogfinder" />
-        <published>2026-03-17T20:58:11+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 4 讲座：乌贼和章鱼的行为与智能]]></summary>
-    </entry>
-        <entry>
-        <title>在蓝莓里发现一个小小的茧</title>
-        <id>150422</id>
-        <link href="https://blog.wanyijizi.com/2026/03/17/666?utm_source=blogfinder" />
-        <published>2026-03-17T20:54:00+08:00</published>
-        <author>
-            <name>peachRL Blog</name>
-            <uri>https://blog.wanyijizi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[在蓝莓里发现一个小小的茧]]></summary>
-    </entry>
-        <entry>
-        <title>反角度之博客用户体验不能做的 N 件事</title>
-        <id>150425</id>
-        <link href="https://koobai.com/blogux/?utm_source=blogfinder" />
-        <published>2026-03-17T19:23:06+08:00</published>
-        <author>
-            <name>Koobai</name>
-            <uri>https://koobai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[反角度之博客用户体验不能做的 N 件事]]></summary>
-    </entry>
-        <entry>
-        <title>五年了</title>
-        <id>150421</id>
-        <link href="https://retire50blog.wang/invest/%e4%ba%94%e5%b9%b4%e4%ba%86.html?utm_source=blogfinder" />
-        <published>2026-03-17T19:12:17+08:00</published>
-        <author>
-            <name>个人工作记录</name>
-            <uri>https://retire50blog.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[五年了]]></summary>
-    </entry>
-        <entry>
-        <title>小姨寄来的兰州新鲜百合</title>
-        <id>150415</id>
-        <link href="https://chrison.cn/live/426.html?utm_source=blogfinder" />
-        <published>2026-03-17T19:02:00+08:00</published>
-        <author>
-            <name>目的地</name>
-            <uri>https://chrison.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[小姨寄来的兰州新鲜百合]]></summary>
     </entry>
     </feed>
