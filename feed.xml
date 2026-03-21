@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-21T12:01:42+08:00</updated>
+    <updated>2026-03-21T13:00:21+08:00</updated>
         <entry>
         <title>小火箭发现新大陆</title>
         <id>150701</id>
@@ -110,6 +110,17 @@
             <uri>https://www.weiwenchao.com</uri>
         </author>
         <summary type="text"><![CDATA[《一个精致的梦》]]></summary>
+    </entry>
+        <entry>
+        <title>致百日誓师的你，以笔为剑，不负韶华</title>
+        <id>150708</id>
+        <link href="https://www.wanghao.me/zhibairishishideniyibiweijianbufushaohua.html?utm_source=blogfinder" />
+        <published>2026-03-20T20:09:53+08:00</published>
+        <author>
+            <name>小王子</name>
+            <uri>https://www.wanghao.me</uri>
+        </author>
+        <summary type="text"><![CDATA[致百日誓师的你，以笔为剑，不负韶华]]></summary>
     </entry>
         <entry>
         <title>爸妈与宝宝的可爱瞬间，值得记录</title>
@@ -1298,16 +1309,5 @@
             <uri>https://yijile.com</uri>
         </author>
         <summary type="text"><![CDATA[爱情醒世语录·爱恨情仇穿越时空不朽]]></summary>
-    </entry>
-        <entry>
-        <title>久未更新，折腾了个有趣的登录界面</title>
-        <id>150543</id>
-        <link href="https://www.jdeal.cn/548.html?utm_source=blogfinder" />
-        <published>2026-03-18T12:30:00+08:00</published>
-        <author>
-            <name>Jdeal</name>
-            <uri>https://www.jdeal.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[久未更新，折腾了个有趣的登录界面]]></summary>
     </entry>
     </feed>
