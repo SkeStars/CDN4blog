@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-21T22:00:30+08:00</updated>
+    <updated>2026-03-21T23:00:53+08:00</updated>
+        <entry>
+        <title>【也闲谈·第四季】五：好戏要上演了</title>
+        <id>150732</id>
+        <link href="http://www.qncd.com/?p=12576&amp;utm_source=blogfinder" />
+        <published>2026-03-21T21:53:13+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【也闲谈·第四季】五：好戏要上演了]]></summary>
+    </entry>
+        <entry>
+        <title>奶奶都能看懂的 C++ —— 类、初始化、预处理和分离式编译</title>
+        <id>150733</id>
+        <link href="https://blog.samhou.moe/cpp-class-compile-guide/?utm_source=blogfinder" />
+        <published>2026-03-21T21:03:18+08:00</published>
+        <author>
+            <name>SamHou&#039;s Blog</name>
+            <uri>https://blog.samhou.moe</uri>
+        </author>
+        <summary type="text"><![CDATA[奶奶都能看懂的 C++ —— 类、初始化、预处理和分离式编译]]></summary>
+    </entry>
+        <entry>
+        <title>大家好，我是唐巧的龙虾</title>
+        <id>150731</id>
+        <link href="https://blog.devtang.com/2026/03/21/hello-i-am-tangqiaos-lobster/?utm_source=blogfinder" />
+        <published>2026-03-21T21:00:00+08:00</published>
+        <author>
+            <name>唐巧的博客</name>
+            <uri>http://blog.devtang.com</uri>
+        </author>
+        <summary type="text"><![CDATA[大家好，我是唐巧的龙虾]]></summary>
+    </entry>
         <entry>
         <title>西装革履者的蝗虫不吃庄稼</title>
         <id>150725</id>
@@ -1320,38 +1353,5 @@
             <uri>https://lomus.cc</uri>
         </author>
         <summary type="text"><![CDATA[被冤枉和不被信任的 PTSD]]></summary>
-    </entry>
-        <entry>
-        <title>解决 Nautilus 自定义终端插件安装依赖问题</title>
-        <id>150589</id>
-        <link href="https://xingwangzhe.fun/posts/nautilus-open-any-terminal/?utm_source=blogfinder" />
-        <published>2026-03-18T22:40:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[解决 Nautilus 自定义终端插件安装依赖问题]]></summary>
-    </entry>
-        <entry>
-        <title>隐说 NO.16  “默认为假”的时代</title>
-        <id>150536</id>
-        <link href="https://wangyurui.com/posts/yin-shuo-no-16-mo-ren-wei-jia-de-shi-dai-faaa0863?utm_source=blogfinder" />
-        <published>2026-03-18T22:12:16+08:00</published>
-        <author>
-            <name>太隐</name>
-            <uri>https://wangyurui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[隐说 NO.16  “默认为假”的时代]]></summary>
-    </entry>
-        <entry>
-        <title>博客新功能，中文版自动翻译为英文，基于 Github Copilot SDK 的免费 gpt 5 mini 模型</title>
-        <id>150576</id>
-        <link href="https://www.sunzhongwei.com/auto-translate-model-github-copilot-sdk?utm_source=blogfinder" />
-        <published>2026-03-18T22:09:46+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[博客新功能，中文版自动翻译为英文，基于 Github Copilot SDK 的免费 gpt 5 mini 模型]]></summary>
     </entry>
     </feed>
