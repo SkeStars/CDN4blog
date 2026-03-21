@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-21T00:00:33+08:00</updated>
+    <updated>2026-03-21T11:01:05+08:00</updated>
+        <entry>
+        <title>年代感发型</title>
+        <id>150695</id>
+        <link href="https://www.immarcus.com/blog/dated-hairstyles?utm_source=blogfinder" />
+        <published>2026-03-21T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[年代感发型]]></summary>
+    </entry>
+        <entry>
+        <title>创纪录出金 250 万美金！顶级交易员浓缩 14 年的 5 个交易心理学法则</title>
+        <id>150692</id>
+        <link href="https://blog.forecho.com/14-years-trading-psychology.html?utm_source=blogfinder" />
+        <published>2026-03-21T00:10:00+08:00</published>
+        <author>
+            <name>forecho&#039;s Blog</name>
+            <uri>https://blog.forecho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[创纪录出金 250 万美金！顶级交易员浓缩 14 年的 5 个交易心理学法则]]></summary>
+    </entry>
+        <entry>
+        <title>世界睡眠日 – 不放假</title>
+        <id>150694</id>
+        <link href="https://oheng.com/world-sleep-day-no-holidays/?utm_source=blogfinder" />
+        <published>2026-03-21T00:00:00+08:00</published>
+        <author>
+            <name>飞觞醉月</name>
+            <uri>https://oheng.com</uri>
+        </author>
+        <summary type="text"><![CDATA[世界睡眠日 – 不放假]]></summary>
+    </entry>
+        <entry>
+        <title>交易员的 5 个阶段：你现在处于哪一层？</title>
+        <id>150693</id>
+        <link href="https://blog.forecho.com/five-levels-of-trader.html?utm_source=blogfinder" />
+        <published>2026-03-20T23:45:00+08:00</published>
+        <author>
+            <name>forecho&#039;s Blog</name>
+            <uri>https://blog.forecho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[交易员的 5 个阶段：你现在处于哪一层？]]></summary>
+    </entry>
         <entry>
         <title>Linux下NVIDIA计算卡打游戏指南，以V100为例</title>
         <id>150690</id>
@@ -77,6 +121,17 @@
             <uri>https://xingwangzhe.fun</uri>
         </author>
         <summary type="text"><![CDATA[Bing收录没了？亲测有效的快速恢复指南]]></summary>
+    </entry>
+        <entry>
+        <title>280、春分</title>
+        <id>150699</id>
+        <link href="https://1900.live/280-chun-fen/?utm_source=blogfinder" />
+        <published>2026-03-20T18:09:45+08:00</published>
+        <author>
+            <name>我道</name>
+            <uri>https://1900.live</uri>
+        </author>
+        <summary type="text"><![CDATA[280、春分]]></summary>
     </entry>
         <entry>
         <title>泼冷水：在 Agent 浪潮里谈谈生存与进化</title>
@@ -321,6 +376,17 @@
         <summary type="text"><![CDATA[Markdown 长文本分割为小段内容，发送给 Github Copilot SDK 逐个处理，规避 context deadline exceeded]]></summary>
     </entry>
         <entry>
+        <title>从局部到整体：站在”系统”视角看世界</title>
+        <id>150698</id>
+        <link href="http://blog.tangwudi.com/technology/cognition14136/?utm_source=blogfinder" />
+        <published>2026-03-20T10:19:09+08:00</published>
+        <author>
+            <name>无敌的个人博客</name>
+            <uri>https://blog.tangwudi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[从局部到整体：站在”系统”视角看世界]]></summary>
+    </entry>
+        <entry>
         <title>洪绘星空发布：一个值得逛的博客友链朋友圈</title>
         <id>150658</id>
         <link href="https://blog.zhheo.com/p/iu5f3hvj.html?utm_source=blogfinder" />
@@ -352,6 +418,28 @@
             <uri>https://www.zhyok.cn</uri>
         </author>
         <summary type="text"><![CDATA[中国象棋专业版html原码，采用纯 HTML5 Canvas 实现]]></summary>
+    </entry>
+        <entry>
+        <title>ASS Subtitle Font Subsetting: From Theory to Practice</title>
+        <id>150697</id>
+        <link href="https://catcat.blog/2026/03/ass-font-subsetting-fontinass-en/?utm_source=blogfinder" />
+        <published>2026-03-20T08:00:00+08:00</published>
+        <author>
+            <name>猫猫博客</name>
+            <uri>https://catcat.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[ASS Subtitle Font Subsetting: From Theory to Practice]]></summary>
+    </entry>
+        <entry>
+        <title>ASS 字幕字体子集化：从原理到实践</title>
+        <id>150696</id>
+        <link href="https://catcat.blog/2026/03/ass-font-subsetting-fontinass/?utm_source=blogfinder" />
+        <published>2026-03-20T08:00:00+08:00</published>
+        <author>
+            <name>猫猫博客</name>
+            <uri>https://catcat.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[ASS 字幕字体子集化：从原理到实践]]></summary>
     </entry>
         <entry>
         <title>带着孩子去芝加哥零元购</title>
@@ -1210,159 +1298,5 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[技术团队协作与管理]]></summary>
-    </entry>
-        <entry>
-        <title>如何网申QClaw第二批内测邀请码</title>
-        <id>150516</id>
-        <link href="https://www.evan.xin/4429/?utm_source=blogfinder" />
-        <published>2026-03-18T10:56:10+08:00</published>
-        <author>
-            <name>Evan&#039;s Space</name>
-            <uri>https://www.evan.xin</uri>
-        </author>
-        <summary type="text"><![CDATA[如何网申QClaw第二批内测邀请码]]></summary>
-    </entry>
-        <entry>
-        <title>前端状态管理方案演进</title>
-        <id>150520</id>
-        <link href="https://www.aserver.cn/?post=79&amp;utm_source=blogfinder" />
-        <published>2026-03-18T10:53:33+08:00</published>
-        <author>
-            <name>俞事</name>
-            <uri>https://www.aserver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[前端状态管理方案演进]]></summary>
-    </entry>
-        <entry>
-        <title>OpenClaw自动同步博客发布Mastodon的嘟文</title>
-        <id>150526</id>
-        <link href="https://www.suiyan.cc/blog/20260318012451?utm_source=blogfinder" />
-        <published>2026-03-18T09:24:51+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenClaw自动同步博客发布Mastodon的嘟文]]></summary>
-    </entry>
-        <entry>
-        <title>《怀柔神堂峪自然风景区》</title>
-        <id>150518</id>
-        <link href="https://www.weiwenchao.com/2410.html?utm_source=blogfinder" />
-        <published>2026-03-18T09:12:05+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《怀柔神堂峪自然风景区》]]></summary>
-    </entry>
-        <entry>
-        <title>20260316</title>
-        <id>150509</id>
-        <link href="https://61.life/2026/0316?utm_source=blogfinder" />
-        <published>2026-03-18T08:39:55+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260316]]></summary>
-    </entry>
-        <entry>
-        <title>在日常生活中，可以用 OpenClaw 做哪些事？</title>
-        <id>150515</id>
-        <link href="https://leileiluoluo.com/posts/open-claw-use-cases-in-daily-life.html?utm_source=blogfinder" />
-        <published>2026-03-18T08:30:00+08:00</published>
-        <author>
-            <name>磊磊落落</name>
-            <uri>https://leileiluoluo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[在日常生活中，可以用 OpenClaw 做哪些事？]]></summary>
-    </entry>
-        <entry>
-        <title>IEEE754 浮点数</title>
-        <id>150569</id>
-        <link href="https://www.juayohuang.top/blog/acknowledge/computer_organization/session-2-数据的表示与计算/23-ieee754浮点数/ieee浮点数?utm_source=blogfinder" />
-        <published>2026-03-18T08:00:00+08:00</published>
-        <author>
-            <name>Atri Website</name>
-            <uri>https://www.juayohuang.top</uri>
-        </author>
-        <summary type="text"><![CDATA[IEEE754 浮点数]]></summary>
-    </entry>
-        <entry>
-        <title>还是靠后半夜</title>
-        <id>150567</id>
-        <link href="https://ddbzhou.com/post/haishikaohoubanye/?utm_source=blogfinder" />
-        <published>2026-03-18T08:00:00+08:00</published>
-        <author>
-            <name>兜兜爸投资笔记</name>
-            <uri>https://ddbzhou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[还是靠后半夜]]></summary>
-    </entry>
-        <entry>
-        <title>可能是最后一次更换博客引擎</title>
-        <id>150566</id>
-        <link href="https://jw1.dev/blog-engine?utm_source=blogfinder" />
-        <published>2026-03-18T08:00:00+08:00</published>
-        <author>
-            <name>Jacky&#039;s Blog</name>
-            <uri>https://jw1.dev</uri>
-        </author>
-        <summary type="text"><![CDATA[可能是最后一次更换博客引擎]]></summary>
-    </entry>
-        <entry>
-        <title>日常#12 - 苹果设备的联动、最近做的一些菜式、死亡搁浅、深圳美术馆看展</title>
-        <id>150521</id>
-        <link href="https://taxodium.ink/nichijou-12.html?utm_source=blogfinder" />
-        <published>2026-03-18T08:00:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[日常#12 - 苹果设备的联动、最近做的一些菜式、死亡搁浅、深圳美术馆看展]]></summary>
-    </entry>
-        <entry>
-        <title>收银的小孩</title>
-        <id>150488</id>
-        <link href="https://www.immarcus.com/blog/kid-cashier?utm_source=blogfinder" />
-        <published>2026-03-18T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[收银的小孩]]></summary>
-    </entry>
-        <entry>
-        <title>相比Openclaw，能连微信的腾讯版小龙虾，到底好不好用？</title>
-        <id>150487</id>
-        <link href="https://maplezz.com/blog/相比openclaw_能连微信的腾讯版小龙虾_到底好不好用/?utm_source=blogfinder" />
-        <published>2026-03-18T08:00:00+08:00</published>
-        <author>
-            <name>猫普的精神世界</name>
-            <uri>https://maplezz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[相比Openclaw，能连微信的腾讯版小龙虾，到底好不好用？]]></summary>
-    </entry>
-        <entry>
-        <title>315晚会</title>
-        <id>150525</id>
-        <link href="https://dangeer.com/posts/march-15th/?utm_source=blogfinder" />
-        <published>2026-03-18T02:52:15+08:00</published>
-        <author>
-            <name>丹格尔</name>
-            <uri>https://dangeer.com</uri>
-        </author>
-        <summary type="text"><![CDATA[315晚会]]></summary>
-    </entry>
-        <entry>
-        <title>计算无穷</title>
-        <id>150512</id>
-        <link href="https://www.geedea.pro/article/compute-infinity/?utm_source=blogfinder" />
-        <published>2026-03-18T00:22:11+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[计算无穷]]></summary>
     </entry>
     </feed>
