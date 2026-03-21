@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-21T13:00:21+08:00</updated>
+    <updated>2026-03-21T15:02:45+08:00</updated>
+        <entry>
+        <title>水火无情</title>
+        <id>150709</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1115&amp;utm_source=blogfinder" />
+        <published>2026-03-21T13:52:42+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[水火无情]]></summary>
+    </entry>
         <entry>
         <title>小火箭发现新大陆</title>
         <id>150701</id>
@@ -1276,38 +1287,5 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[彻底重构了博客的豆瓣观影同步机制]]></summary>
-    </entry>
-        <entry>
-        <title>Github Copilot CLI 升级到最新版本</title>
-        <id>150527</id>
-        <link href="https://www.sunzhongwei.com/github-copilot-cli-upgrade-latest-version?utm_source=blogfinder" />
-        <published>2026-03-18T13:44:56+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Github Copilot CLI 升级到最新版本]]></summary>
-    </entry>
-        <entry>
-        <title>SSL.CAB：让HTTPS证书像空气一样存在，却从不过期</title>
-        <id>150524</id>
-        <link href="https://www.evan.xin/4436/?utm_source=blogfinder" />
-        <published>2026-03-18T13:44:43+08:00</published>
-        <author>
-            <name>Evan&#039;s Space</name>
-            <uri>https://www.evan.xin</uri>
-        </author>
-        <summary type="text"><![CDATA[SSL.CAB：让HTTPS证书像空气一样存在，却从不过期]]></summary>
-    </entry>
-        <entry>
-        <title>爱情醒世语录·爱恨情仇穿越时空不朽</title>
-        <id>150533</id>
-        <link href="https://yijile.com/zh/love-awakening-quotes/?utm_source=blogfinder" />
-        <published>2026-03-18T13:26:48+08:00</published>
-        <author>
-            <name>一极乐</name>
-            <uri>https://yijile.com</uri>
-        </author>
-        <summary type="text"><![CDATA[爱情醒世语录·爱恨情仇穿越时空不朽]]></summary>
     </entry>
     </feed>
