@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-21T18:00:26+08:00</updated>
+    <updated>2026-03-21T19:02:16+08:00</updated>
         <entry>
         <title>2026-03-21 16:55</title>
         <id>150715</id>
@@ -187,6 +187,17 @@
             <uri>https://blog.forecho.com</uri>
         </author>
         <summary type="text"><![CDATA[交易员的 5 个阶段：你现在处于哪一层？]]></summary>
+    </entry>
+        <entry>
+        <title>面对嘲笑</title>
+        <id>150724</id>
+        <link href="https://ltmltm.cn/bk/1435.html?utm_source=blogfinder" />
+        <published>2026-03-20T23:39:00+08:00</published>
+        <author>
+            <name>因为很想念</name>
+            <uri>https://ltmltm.cn/bk</uri>
+        </author>
+        <summary type="text"><![CDATA[面对嘲笑]]></summary>
     </entry>
         <entry>
         <title>Linux下NVIDIA计算卡打游戏指南，以V100为例</title>
@@ -1386,16 +1397,5 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【知途·间隔年】1：去成为独一无二的自己]]></summary>
-    </entry>
-        <entry>
-        <title>Git 配置代理</title>
-        <id>150535</id>
-        <link href="https://ouen.me/git-proxy-configuration-guide/?utm_source=blogfinder" />
-        <published>2026-03-18T19:00:00+08:00</published>
-        <author>
-            <name>Ouen</name>
-            <uri>https://ouen.me</uri>
-        </author>
-        <summary type="text"><![CDATA[Git 配置代理]]></summary>
     </entry>
     </feed>
