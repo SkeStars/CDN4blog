@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-21T21:04:46+08:00</updated>
+    <updated>2026-03-21T22:00:30+08:00</updated>
         <entry>
         <title>西装革履者的蝗虫不吃庄稼</title>
         <id>150725</id>
@@ -33,6 +33,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[马可·奥勒留和他的《沉思录》]]></summary>
+    </entry>
+        <entry>
+        <title>如何手动查询电话号码标记</title>
+        <id>150728</id>
+        <link href="https://lklog.cn/chat/1391.html?utm_source=blogfinder" />
+        <published>2026-03-21T18:32:55+08:00</published>
+        <author>
+            <name>龙鲲博客</name>
+            <uri>https://lklog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[如何手动查询电话号码标记]]></summary>
     </entry>
         <entry>
         <title>复盘本博客，计划博客未来</title>
@@ -79,6 +90,17 @@
         <summary type="text"><![CDATA[第五课：流程控制——如果…就…，否则…（if/else、switch）]]></summary>
     </entry>
         <entry>
+        <title>在 Emacs 中用 Elfeed 阅读订阅流</title>
+        <id>150729</id>
+        <link href="https://taxodium.ink/use-elfeed-to-read-feed-in-emacs.html?utm_source=blogfinder" />
+        <published>2026-03-21T15:00:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[在 Emacs 中用 Elfeed 阅读订阅流]]></summary>
+    </entry>
+        <entry>
         <title>亲测可用｜影视动漫网站大全（持续更新中）</title>
         <id>150719</id>
         <link href="http://aboss.top/yingshi-dongman-wangzhan-daquan/?utm_source=blogfinder" />
@@ -121,6 +143,17 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[四川育儿补贴发放时间终于明确了]]></summary>
+    </entry>
+        <entry>
+        <title>高频信标：海盗们的无线电『灯塔』</title>
+        <id>150730</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1188/?utm_source=blogfinder" />
+        <published>2026-03-21T13:25:54+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[高频信标：海盗们的无线电『灯塔』]]></summary>
     </entry>
         <entry>
         <title>谁还在用Joplin笔记</title>
@@ -1320,38 +1353,5 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[博客新功能，中文版自动翻译为英文，基于 Github Copilot SDK 的免费 gpt 5 mini 模型]]></summary>
-    </entry>
-        <entry>
-        <title>关于对跖点</title>
-        <id>150571</id>
-        <link href="https://ficor.net/2026/03/%e5%85%b3%e4%ba%8e%e5%af%b9%e8%b7%96%e7%82%b9/?utm_source=blogfinder" />
-        <published>2026-03-18T21:33:15+08:00</published>
-        <author>
-            <name>荒野菲克</name>
-            <uri>https://ficor.net</uri>
-        </author>
-        <summary type="text"><![CDATA[关于对跖点]]></summary>
-    </entry>
-        <entry>
-        <title>干了几件大事 也忙于三两小事</title>
-        <id>150542</id>
-        <link href="https://zhuo.re/writings/growths/gan-le-ji-jian-da-shi-ye-mang-yu-san-liang-xiao-shi.html?utm_source=blogfinder" />
-        <published>2026-03-18T21:26:11+08:00</published>
-        <author>
-            <name>灼热</name>
-            <uri>https://zhuo.re</uri>
-        </author>
-        <summary type="text"><![CDATA[干了几件大事 也忙于三两小事]]></summary>
-    </entry>
-        <entry>
-        <title>中年人何以再就业</title>
-        <id>150577</id>
-        <link href="https://joojen.com/archives/8879.html?utm_source=blogfinder" />
-        <published>2026-03-18T21:18:04+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[中年人何以再就业]]></summary>
     </entry>
     </feed>
