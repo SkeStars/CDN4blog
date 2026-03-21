@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-21T11:01:05+08:00</updated>
+    <updated>2026-03-21T12:01:42+08:00</updated>
+        <entry>
+        <title>小火箭发现新大陆</title>
+        <id>150701</id>
+        <link href="https://hux.ink/posts/tips-for-shadowrocket/?utm_source=blogfinder" />
+        <published>2026-03-21T10:18:00+08:00</published>
+        <author>
+            <name>Counting Stars</name>
+            <uri>https://hux.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[小火箭发现新大陆]]></summary>
+    </entry>
         <entry>
         <title>年代感发型</title>
         <id>150695</id>
@@ -68,6 +79,17 @@
         <summary type="text"><![CDATA[Linux下NVIDIA计算卡打游戏指南，以V100为例]]></summary>
     </entry>
         <entry>
+        <title>《响水湖长城风景区》</title>
+        <id>150705</id>
+        <link href="https://www.weiwenchao.com/2466.html?utm_source=blogfinder" />
+        <published>2026-03-20T22:06:00+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《响水湖长城风景区》]]></summary>
+    </entry>
+        <entry>
         <title>生活碎碎念：三重因素交织的戒断反应</title>
         <id>150688</id>
         <link href="https://blog.mfwt.top/index.php/archives/1185/?utm_source=blogfinder" />
@@ -77,6 +99,17 @@
             <uri>https://blog.mfwt.top</uri>
         </author>
         <summary type="text"><![CDATA[生活碎碎念：三重因素交织的戒断反应]]></summary>
+    </entry>
+        <entry>
+        <title>《一个精致的梦》</title>
+        <id>150706</id>
+        <link href="https://www.weiwenchao.com/2412.html?utm_source=blogfinder" />
+        <published>2026-03-20T21:48:00+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《一个精致的梦》]]></summary>
     </entry>
         <entry>
         <title>爸妈与宝宝的可爱瞬间，值得记录</title>
@@ -110,6 +143,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[OpenClaw 必装 10 大技能：让你的龙虾从能用变好用]]></summary>
+    </entry>
+        <entry>
+        <title>我妈最近在沉迷类似连连看的小游戏，一玩就是三四个小时</title>
+        <id>150704</id>
+        <link href="https://www.bufanz.com/20260320485.html?utm_source=blogfinder" />
+        <published>2026-03-20T19:02:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我妈最近在沉迷类似连连看的小游戏，一玩就是三四个小时]]></summary>
     </entry>
         <entry>
         <title>Bing收录没了？亲测有效的快速恢复指南</title>
@@ -299,6 +343,17 @@
         <summary type="text"><![CDATA[安静的孩子疏松的骨头]]></summary>
     </entry>
         <entry>
+        <title>《小狗钱钱》观后感</title>
+        <id>150700</id>
+        <link href="https://www.sanji.one/journals/xiao-gou-qian-qian-guang-hou-gan/?utm_source=blogfinder" />
+        <published>2026-03-20T14:27:29+08:00</published>
+        <author>
+            <name>时光散记</name>
+            <uri>https://www.sanji.one</uri>
+        </author>
+        <summary type="text"><![CDATA[《小狗钱钱》观后感]]></summary>
+    </entry>
+        <entry>
         <title>当我听到愤世嫉俗的键盘声，一定是某个研究生在和AI疯狂输出或dis</title>
         <id>150656</id>
         <link href="https://www.52txr.cn/2026/jianpanshengai.html?utm_source=blogfinder" />
@@ -365,6 +420,17 @@
         <summary type="text"><![CDATA[如何更早下班]]></summary>
     </entry>
         <entry>
+        <title>特朗普说的“纸老虎”最早的出处到底是哪里？</title>
+        <id>150702</id>
+        <link href="https://lawtee.com/article/paper-tiger/?utm_source=blogfinder" />
+        <published>2026-03-20T10:39:38+08:00</published>
+        <author>
+            <name>老 T 博客</name>
+            <uri>https://lawtee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[特朗普说的“纸老虎”最早的出处到底是哪里？]]></summary>
+    </entry>
+        <entry>
         <title>Markdown 长文本分割为小段内容，发送给 Github Copilot SDK 逐个处理，规避 context deadline exceeded</title>
         <id>150633</id>
         <link href="https://www.sunzhongwei.com/split-markdown-long-text-github-copilot-sdk?utm_source=blogfinder" />
@@ -418,6 +484,17 @@
             <uri>https://www.zhyok.cn</uri>
         </author>
         <summary type="text"><![CDATA[中国象棋专业版html原码，采用纯 HTML5 Canvas 实现]]></summary>
+    </entry>
+        <entry>
+        <title>Windows系统常见问题指南</title>
+        <id>150703</id>
+        <link href="https://blog.xxbjf.com/archives/windowsxi-tong-chang-jian-wen-ti-zhi-nan?utm_source=blogfinder" />
+        <published>2026-03-20T09:22:58+08:00</published>
+        <author>
+            <name>小新笔记坊</name>
+            <uri>https://blog.xxbjf.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Windows系统常见问题指南]]></summary>
     </entry>
         <entry>
         <title>ASS Subtitle Font Subsetting: From Theory to Practice</title>
@@ -1232,71 +1309,5 @@
             <uri>https://www.jdeal.cn</uri>
         </author>
         <summary type="text"><![CDATA[久未更新，折腾了个有趣的登录界面]]></summary>
-    </entry>
-        <entry>
-        <title>DeGoogling and DeMicrosoft is a new start for me</title>
-        <id>150580</id>
-        <link href="https://blog.cytrogen.icu/posts/ccb5.html?utm_source=blogfinder" />
-        <published>2026-03-18T12:00:00+08:00</published>
-        <author>
-            <name>Cytrogen&#039;s Blog</name>
-            <uri>https://blog.cytrogen.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[DeGoogling and DeMicrosoft is a new start for me]]></summary>
-    </entry>
-        <entry>
-        <title>徽章猎人首位“季度先锋”诞生！</title>
-        <id>150528</id>
-        <link href="https://zhujay.com/talking/?id=1212&amp;utm_source=blogfinder" />
-        <published>2026-03-18T11:30:10+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[徽章猎人首位“季度先锋”诞生！]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 7 统计力学绪论</title>
-        <id>150517</id>
-        <link href="https://physnya.top/statistical-mechanics/lesson-7-statistical-mechanics-intro/?utm_source=blogfinder" />
-        <published>2026-03-18T11:27:08+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 7 统计力学绪论]]></summary>
-    </entry>
-        <entry>
-        <title>一场 30 分钟怪诞梦 Ⅱ</title>
-        <id>150666</id>
-        <link href="https://www.sanji.one/journals/yi-chang-30-fen-zhong-guai-dan-meng-2/?utm_source=blogfinder" />
-        <published>2026-03-18T11:25:52+08:00</published>
-        <author>
-            <name>时光散记</name>
-            <uri>https://www.sanji.one</uri>
-        </author>
-        <summary type="text"><![CDATA[一场 30 分钟怪诞梦 Ⅱ]]></summary>
-    </entry>
-        <entry>
-        <title>议食品安全</title>
-        <id>150522</id>
-        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1114&amp;utm_source=blogfinder" />
-        <published>2026-03-18T11:19:04+08:00</published>
-        <author>
-            <name>徐建伟</name>
-            <uri>http://www.xulog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[议食品安全]]></summary>
-    </entry>
-        <entry>
-        <title>技术团队协作与管理</title>
-        <id>150519</id>
-        <link href="https://www.aserver.cn/?post=80&amp;utm_source=blogfinder" />
-        <published>2026-03-18T11:07:32+08:00</published>
-        <author>
-            <name>俞事</name>
-            <uri>https://www.aserver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[技术团队协作与管理]]></summary>
     </entry>
     </feed>
