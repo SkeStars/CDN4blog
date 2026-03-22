@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-22T23:00:44+08:00</updated>
+    <updated>2026-03-23T00:00:16+08:00</updated>
         <entry>
         <title>STC8H8K64U_点灯</title>
         <id>150793</id>
@@ -44,6 +44,17 @@
             <uri>https://xingwangzhe.fun</uri>
         </author>
         <summary type="text"><![CDATA[为了自由Android]]></summary>
+    </entry>
+        <entry>
+        <title>一些架构师知识点的记录</title>
+        <id>150796</id>
+        <link href="https://nicksxs.me/2026/03/22/%E4%B8%80%E4%BA%9B%E6%9E%B6%E6%9E%84%E5%B8%88%E7%9F%A5%E8%AF%86%E7%82%B9%E7%9A%84%E8%AE%B0%E5%BD%95/?utm_source=blogfinder" />
+        <published>2026-03-22T21:35:04+08:00</published>
+        <author>
+            <name>Nicksxs&#039;s Blog</name>
+            <uri>https://nicksxs.me</uri>
+        </author>
+        <summary type="text"><![CDATA[一些架构师知识点的记录]]></summary>
     </entry>
         <entry>
         <title>台灯坏了</title>
@@ -101,6 +112,17 @@
         <summary type="text"><![CDATA[GPL&quot;2,3&quot;事]]></summary>
     </entry>
         <entry>
+        <title>周末流水账 0322</title>
+        <id>150797</id>
+        <link href="https://blog.solazy.me/20260322/?utm_source=blogfinder" />
+        <published>2026-03-22T18:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0322]]></summary>
+    </entry>
+        <entry>
         <title>免费才是最贵的：为什么不推荐使用中科院数据胶囊</title>
         <id>150784</id>
         <link href="https://lklog.cn/share/1392.html?utm_source=blogfinder" />
@@ -132,6 +154,17 @@
             <uri>https://nocoding.life</uri>
         </author>
         <summary type="text"><![CDATA[世界的孩子，父母的宝贝]]></summary>
+    </entry>
+        <entry>
+        <title>痛风</title>
+        <id>150798</id>
+        <link href="https://xifeng.net/life/gout/?utm_source=blogfinder" />
+        <published>2026-03-22T15:49:45+08:00</published>
+        <author>
+            <name>西城往事</name>
+            <uri>https://xifeng.net</uri>
+        </author>
+        <summary type="text"><![CDATA[痛风]]></summary>
     </entry>
         <entry>
         <title>DeepSeek这样评价本博</title>
@@ -1375,16 +1408,5 @@
             <uri>https://dangeer.com</uri>
         </author>
         <summary type="text"><![CDATA[315 和电影]]></summary>
-    </entry>
-        <entry>
-        <title>SealDice 免费部署指北</title>
-        <id>150610</id>
-        <link href="https://fiammanda.com/notes/sealdice-on-gcp/?utm_source=blogfinder" />
-        <published>2026-03-20T00:00:00+08:00</published>
-        <author>
-            <name>The F Word</name>
-            <uri>https://fiammanda.com</uri>
-        </author>
-        <summary type="text"><![CDATA[SealDice 免费部署指北]]></summary>
     </entry>
     </feed>
