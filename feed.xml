@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-22T13:00:17+08:00</updated>
+    <updated>2026-03-22T15:01:48+08:00</updated>
         <entry>
         <title>老头</title>
         <id>150766</id>
@@ -88,6 +88,17 @@
             <uri>https://cyrus19.cc</uri>
         </author>
         <summary type="text"><![CDATA[日寄 三十一]]></summary>
+    </entry>
+        <entry>
+        <title>「近步报告」#12：猫猫、内存条与四十六朵花</title>
+        <id>150775</id>
+        <link href="https://loneapex.cn/archives/5389?utm_source=blogfinder" />
+        <published>2026-03-22T01:23:00+08:00</published>
+        <author>
+            <name>Mimosa 的小屋</name>
+            <uri>https://loneapex.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[「近步报告」#12：猫猫、内存条与四十六朵花]]></summary>
     </entry>
         <entry>
         <title>迷上了写油猴脚本</title>
@@ -209,6 +220,17 @@
             <uri>https://usj.cc</uri>
         </author>
         <summary type="text"><![CDATA[Claude Code 启动脚本]]></summary>
+    </entry>
+        <entry>
+        <title>数据备份再检查 + 新的冷备</title>
+        <id>150776</id>
+        <link href="http://www.jinhuaiyao.com/posts/data-backup-recheck-and-new-cold-backup/?utm_source=blogfinder" />
+        <published>2026-03-21T20:13:58+08:00</published>
+        <author>
+            <name>Huaiyao Jin</name>
+            <uri>https://www.jinhuaiyao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[数据备份再检查 + 新的冷备]]></summary>
     </entry>
         <entry>
         <title>西装革履者的蝗虫不吃庄稼</title>
@@ -1320,82 +1342,5 @@
             <uri>https://www.justzht.com</uri>
         </author>
         <summary type="text"><![CDATA[2026.3.18]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1641】朱生豪译莎士比亚《麦克白》</title>
-        <id>150584</id>
-        <link href="http://www.qncd.com/?p=12573&amp;utm_source=blogfinder" />
-        <published>2026-03-19T14:57:28+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1641】朱生豪译莎士比亚《麦克白》]]></summary>
-    </entry>
-        <entry>
-        <title>给OpenList和Alist加上液态玻璃效果，颜值直接拉满！</title>
-        <id>150634</id>
-        <link href="https://wuqishi.com/liquid-glass-theme-for-openlist-alist/?utm_source=blogfinder" />
-        <published>2026-03-19T14:46:00+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[给OpenList和Alist加上液态玻璃效果，颜值直接拉满！]]></summary>
-    </entry>
-        <entry>
-        <title>Claude Code 使用指南</title>
-        <id>150664</id>
-        <link href="https://www.zywvvd.com/notes/study/llm/claude-code/claude-code/?utm_source=blogfinder" />
-        <published>2026-03-19T14:40:00+08:00</published>
-        <author>
-            <name>又见苍岚</name>
-            <uri>https://www.zywvvd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude Code 使用指南]]></summary>
-    </entry>
-        <entry>
-        <title>Hexo 增加热力图</title>
-        <id>150764</id>
-        <link href="https://z.arlmy.me/posts/hexo/Hexo_Heatmap/?utm_source=blogfinder" />
-        <published>2026-03-19T14:34:36+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[Hexo 增加热力图]]></summary>
-    </entry>
-        <entry>
-        <title>幸福是种技能，而非结果：读《纳瓦尔宝典》有感</title>
-        <id>150598</id>
-        <link href="https://blogwinter.top/%E5%B9%B8%E7%A6%8F%E6%98%AF%E7%A7%8D%E6%8A%80%E8%83%BD%E8%80%8C%E9%9D%9E%E7%BB%93%E6%9E%9C%E8%AF%BB%E7%BA%B3%E7%93%A6%E5%B0%94%E5%AE%9D%E5%85%B8%E6%9C%89%E6%84%9F/?utm_source=blogfinder" />
-        <published>2026-03-19T14:25:45+08:00</published>
-        <author>
-            <name>初冬个人小站</name>
-            <uri>https://blogwinter.top</uri>
-        </author>
-        <summary type="text"><![CDATA[幸福是种技能，而非结果：读《纳瓦尔宝典》有感]]></summary>
-    </entry>
-        <entry>
-        <title>幸福是种技能，而非结果：读《纳瓦尔宝典》有感</title>
-        <id>150590</id>
-        <link href="https://blogwinter.top/%e5%b9%b8%e7%a6%8f%e6%98%af%e7%a7%8d%e6%8a%80%e8%83%bd%ef%bc%8c%e8%80%8c%e9%9d%9e%e7%bb%93%e6%9e%9c%ef%bc%9a%e8%af%bb%e3%80%8a%e7%ba%b3%e7%93%a6%e5%b0%94%e5%ae%9d%e5%85%b8%e3%80%8b%e6%9c%89%e6%84%9f/?utm_source=blogfinder" />
-        <published>2026-03-19T14:25:45+08:00</published>
-        <author>
-            <name>初冬个人小站</name>
-            <uri>https://blogwinter.top</uri>
-        </author>
-        <summary type="text"><![CDATA[幸福是种技能，而非结果：读《纳瓦尔宝典》有感]]></summary>
-    </entry>
-        <entry>
-        <title>尝试了雀巢的生椰拿铁</title>
-        <id>150583</id>
-        <link href="https://www.xiaocaoderijiben.online/archives/312?utm_source=blogfinder" />
-        <published>2026-03-19T14:17:31+08:00</published>
-        <author>
-            <name>小草的日记本</name>
-            <uri>https://www.xiaocaoderijiben.online</uri>
-        </author>
-        <summary type="text"><![CDATA[尝试了雀巢的生椰拿铁]]></summary>
     </entry>
     </feed>
