@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-22T16:00:21+08:00</updated>
+    <updated>2026-03-22T17:00:48+08:00</updated>
         <entry>
         <title>【与Mondo同行·第四季】3：君子以德立身，智者因思而独</title>
         <id>150777</id>
@@ -22,6 +22,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【与Mondo同行·第四季】3：君子以德立身，智者因思而独]]></summary>
+    </entry>
+        <entry>
+        <title>建议把 Ai 的 Tokens 翻译为“爱信”，这东西跟“短信”“彩信”真没区别</title>
+        <id>150778</id>
+        <link href="https://lawtee.com/article/openclaw-mms/?utm_source=blogfinder" />
+        <published>2026-03-22T13:13:01+08:00</published>
+        <author>
+            <name>老 T 博客</name>
+            <uri>https://lawtee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[建议把 Ai 的 Tokens 翻译为“爱信”，这东西跟“短信”“彩信”真没区别]]></summary>
     </entry>
         <entry>
         <title>老头</title>
@@ -1331,16 +1342,5 @@
             <uri>https://blog.uuanqin.top</uri>
         </author>
         <summary type="text"><![CDATA[Waline 自建 Auth 认证]]></summary>
-    </entry>
-        <entry>
-        <title>ComfyUI对接Ollama——让AI全自动出图</title>
-        <id>150595</id>
-        <link href="https://www.nekopara.uk/archives/Auto_ComfyUI.html?utm_source=blogfinder" />
-        <published>2026-03-19T16:05:43+08:00</published>
-        <author>
-            <name>GTX690 战术核显卡导弹</name>
-            <uri>https://www.nekopara.uk</uri>
-        </author>
-        <summary type="text"><![CDATA[ComfyUI对接Ollama——让AI全自动出图]]></summary>
     </entry>
     </feed>
