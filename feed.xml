@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-22T15:01:48+08:00</updated>
+    <updated>2026-03-22T16:00:21+08:00</updated>
+        <entry>
+        <title>【与Mondo同行·第四季】3：君子以德立身，智者因思而独</title>
+        <id>150777</id>
+        <link href="http://www.qncd.com/?p=12580&amp;utm_source=blogfinder" />
+        <published>2026-03-22T14:07:16+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【与Mondo同行·第四季】3：君子以德立身，智者因思而独]]></summary>
+    </entry>
         <entry>
         <title>老头</title>
         <id>150766</id>
@@ -1331,16 +1342,5 @@
             <uri>https://www.nekopara.uk</uri>
         </author>
         <summary type="text"><![CDATA[ComfyUI对接Ollama——让AI全自动出图]]></summary>
-    </entry>
-        <entry>
-        <title>2026.3.18</title>
-        <id>150587</id>
-        <link href="https://www.justzht.com/2026-3-18/?utm_source=blogfinder" />
-        <published>2026-03-19T15:15:47+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.3.18]]></summary>
     </entry>
     </feed>
