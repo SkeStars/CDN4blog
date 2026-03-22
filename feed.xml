@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-22T17:00:48+08:00</updated>
+    <updated>2026-03-22T18:00:43+08:00</updated>
+        <entry>
+        <title>DeepSeek这样评价本博</title>
+        <id>150780</id>
+        <link href="https://zooyoo.top/article.php?id=42&amp;utm_source=blogfinder" />
+        <published>2026-03-22T14:58:50+08:00</published>
+        <author>
+            <name>热衷于的博客</name>
+            <uri>https://zooyoo.top</uri>
+        </author>
+        <summary type="text"><![CDATA[DeepSeek这样评价本博]]></summary>
+    </entry>
         <entry>
         <title>【与Mondo同行·第四季】3：君子以德立身，智者因思而独</title>
         <id>150777</id>
@@ -121,6 +132,17 @@
             <uri>https://loneapex.cn</uri>
         </author>
         <summary type="text"><![CDATA[「近步报告」#12：猫猫、内存条与四十六朵花]]></summary>
+    </entry>
+        <entry>
+        <title>短文-对VitePlus的一点🤏小贡献</title>
+        <id>150779</id>
+        <link href="https://xingwangzhe.fun/posts/contribute-vite-plus/?utm_source=blogfinder" />
+        <published>2026-03-22T01:09:55+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[短文-对VitePlus的一点🤏小贡献]]></summary>
     </entry>
         <entry>
         <title>迷上了写油猴脚本</title>
@@ -1320,27 +1342,5 @@
             <uri>https://jyblog.cn</uri>
         </author>
         <summary type="text"><![CDATA[Motrix 一款开源且可以平替迅雷的下载器]]></summary>
-    </entry>
-        <entry>
-        <title>路径插值方法深度对比研究</title>
-        <id>150663</id>
-        <link href="https://www.zywvvd.com/notes/study/algorithm/path-interpolation-comparison/path-interpolation-comparison/?utm_source=blogfinder" />
-        <published>2026-03-19T17:45:00+08:00</published>
-        <author>
-            <name>又见苍岚</name>
-            <uri>https://www.zywvvd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[路径插值方法深度对比研究]]></summary>
-    </entry>
-        <entry>
-        <title>Waline 自建 Auth 认证</title>
-        <id>150600</id>
-        <link href="https://blog.uuanqin.top/p/c7d4d021/?utm_source=blogfinder" />
-        <published>2026-03-19T17:25:03+08:00</published>
-        <author>
-            <name>半方池水半方田</name>
-            <uri>https://blog.uuanqin.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Waline 自建 Auth 认证]]></summary>
     </entry>
     </feed>
