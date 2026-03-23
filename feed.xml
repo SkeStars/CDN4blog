@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-23T21:00:24+08:00</updated>
+    <updated>2026-03-23T23:00:45+08:00</updated>
+        <entry>
+        <title>微信小游戏开发，Cocos Creator 安装</title>
+        <id>150836</id>
+        <link href="https://www.sunzhongwei.com/cocos-creator-install?utm_source=blogfinder" />
+        <published>2026-03-23T21:22:10+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[微信小游戏开发，Cocos Creator 安装]]></summary>
+    </entry>
+        <entry>
+        <title>被工某某行私自开通西南证券后，决定换家银行就开了建行社保卡，服务很好！</title>
+        <id>150840</id>
+        <link href="https://www.bufanz.com/20260323495.html?utm_source=blogfinder" />
+        <published>2026-03-23T20:23:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[被工某某行私自开通西南证券后，决定换家银行就开了建行社保卡，服务很好！]]></summary>
+    </entry>
         <entry>
         <title>熵增的Agent</title>
         <id>150835</id>
@@ -24,6 +46,28 @@
         <summary type="text"><![CDATA[熵增的Agent]]></summary>
     </entry>
         <entry>
+        <title>众安银行</title>
+        <id>150838</id>
+        <link href="https://retire50blog.wang/invest/%e4%bc%97%e5%ae%89%e9%93%b6%e8%a1%8c.html?utm_source=blogfinder" />
+        <published>2026-03-23T19:03:04+08:00</published>
+        <author>
+            <name>个人工作记录</name>
+            <uri>https://retire50blog.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[众安银行]]></summary>
+    </entry>
+        <entry>
+        <title>《去月球》后的新游戏：《Rakuen》</title>
+        <id>150839</id>
+        <link href="https://blog.mcenahle.org.cn/2026/03/23/443.html?utm_source=blogfinder" />
+        <published>2026-03-23T18:37:00+08:00</published>
+        <author>
+            <name>梅之夏</name>
+            <uri>https://blog.mcenahle.org.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[《去月球》后的新游戏：《Rakuen》]]></summary>
+    </entry>
+        <entry>
         <title>在工某某行办理换新卡，被工作人员私自开通西南证券账户</title>
         <id>150833</id>
         <link href="https://www.bufanz.com/20260323490.html?utm_source=blogfinder" />
@@ -33,6 +77,17 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[在工某某行办理换新卡，被工作人员私自开通西南证券账户]]></summary>
+    </entry>
+        <entry>
+        <title>高压计量电度表报逆相序问题</title>
+        <id>150837</id>
+        <link href="https://www.aiwazi.com/2989.html?utm_source=blogfinder" />
+        <published>2026-03-23T17:37:24+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[高压计量电度表报逆相序问题]]></summary>
     </entry>
         <entry>
         <title>LiMhy v2.0 正式上线，原生PHP博客系统</title>
@@ -58,6 +113,17 @@
     </entry>
         <entry>
         <title>复盘：记录一次wordpress的优化</title>
+        <id>150842</id>
+        <link href="https://blogwinter.top/20260323/?utm_source=blogfinder" />
+        <published>2026-03-23T14:43:05+08:00</published>
+        <author>
+            <name>初冬个人小站</name>
+            <uri>https://blogwinter.top</uri>
+        </author>
+        <summary type="text"><![CDATA[复盘：记录一次wordpress的优化]]></summary>
+    </entry>
+        <entry>
+        <title>复盘：记录一次wordpress的优化</title>
         <id>150823</id>
         <link href="https://blogwinter.top/%E5%A4%8D%E7%9B%98%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1wordpress%E7%9A%84%E4%BC%98%E5%8C%96/?utm_source=blogfinder" />
         <published>2026-03-23T14:43:05+08:00</published>
@@ -66,6 +132,17 @@
             <uri>https://blogwinter.top</uri>
         </author>
         <summary type="text"><![CDATA[复盘：记录一次wordpress的优化]]></summary>
+    </entry>
+        <entry>
+        <title>今天你的车加油了吗？</title>
+        <id>150841</id>
+        <link href="https://blog.tibtob.cn/archives/37/?utm_source=blogfinder" />
+        <published>2026-03-23T14:32:00+08:00</published>
+        <author>
+            <name>拾音博客</name>
+            <uri>https://blog.tibtob.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[今天你的车加油了吗？]]></summary>
     </entry>
         <entry>
         <title>分段五次多项式插值原理详解</title>
@@ -1232,49 +1309,5 @@
             <uri>https://ltmltm.cn/bk</uri>
         </author>
         <summary type="text"><![CDATA[面对嘲笑]]></summary>
-    </entry>
-        <entry>
-        <title>Linux下NVIDIA计算卡打游戏指南，以V100为例</title>
-        <id>150690</id>
-        <link href="https://www.nekopara.uk/archives/V100_Gaming.html?utm_source=blogfinder" />
-        <published>2026-03-20T22:49:00+08:00</published>
-        <author>
-            <name>GTX690 战术核显卡导弹</name>
-            <uri>https://www.nekopara.uk</uri>
-        </author>
-        <summary type="text"><![CDATA[Linux下NVIDIA计算卡打游戏指南，以V100为例]]></summary>
-    </entry>
-        <entry>
-        <title>《响水湖长城风景区》</title>
-        <id>150705</id>
-        <link href="https://www.weiwenchao.com/2466.html?utm_source=blogfinder" />
-        <published>2026-03-20T22:06:00+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《响水湖长城风景区》]]></summary>
-    </entry>
-        <entry>
-        <title>生活碎碎念：三重因素交织的戒断反应</title>
-        <id>150688</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1185/?utm_source=blogfinder" />
-        <published>2026-03-20T21:59:33+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[生活碎碎念：三重因素交织的戒断反应]]></summary>
-    </entry>
-        <entry>
-        <title>《一个精致的梦》</title>
-        <id>150706</id>
-        <link href="https://www.weiwenchao.com/2412.html?utm_source=blogfinder" />
-        <published>2026-03-20T21:48:00+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《一个精致的梦》]]></summary>
     </entry>
     </feed>
