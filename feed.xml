@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-23T17:00:35+08:00</updated>
+    <updated>2026-03-23T19:03:00+08:00</updated>
+        <entry>
+        <title>在工某某行办理换新卡，被工作人员私自开通西南证券账户</title>
+        <id>150833</id>
+        <link href="https://www.bufanz.com/20260323490.html?utm_source=blogfinder" />
+        <published>2026-03-23T17:47:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[在工某某行办理换新卡，被工作人员私自开通西南证券账户]]></summary>
+    </entry>
         <entry>
         <title>LiMhy v2.0 正式上线，原生PHP博客系统</title>
         <id>150828</id>
@@ -167,6 +178,17 @@
         <summary type="text"><![CDATA[《生死疲劳》读后记]]></summary>
     </entry>
         <entry>
+        <title>行者微评论221-征求意见建议</title>
+        <id>150829</id>
+        <link href="http://stuit.cn/Xiaolu/Post/1605.html?utm_source=blogfinder" />
+        <published>2026-03-23T07:07:34+08:00</published>
+        <author>
+            <name>风雨行者</name>
+            <uri>http://stuit.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[行者微评论221-征求意见建议]]></summary>
+    </entry>
+        <entry>
         <title>228 Typora vs Trae，撰写博客效率对比</title>
         <id>150805</id>
         <link href="http://ddw2019.com/228?utm_source=blogfinder" />
@@ -200,6 +222,17 @@
         <summary type="text"><![CDATA[稻草人周刊 Vol.73]]></summary>
     </entry>
         <entry>
+        <title>偶遇小鸟</title>
+        <id>150832</id>
+        <link href="https://siwei.li/ou-yu-xiao-niao/?utm_source=blogfinder" />
+        <published>2026-03-22T23:47:52+08:00</published>
+        <author>
+            <name>Siwei Li</name>
+            <uri>https://siwei.li</uri>
+        </author>
+        <summary type="text"><![CDATA[偶遇小鸟]]></summary>
+    </entry>
+        <entry>
         <title>20260318</title>
         <id>150811</id>
         <link href="https://61.life/2026/0318?utm_source=blogfinder" />
@@ -220,6 +253,17 @@
             <uri>https://innei.in</uri>
         </author>
         <summary type="text"><![CDATA[单调里的褶皱]]></summary>
+    </entry>
+        <entry>
+        <title>三分之二的时间</title>
+        <id>150831</id>
+        <link href="https://numb.tech/2026/03/22/2in3/?utm_source=blogfinder" />
+        <published>2026-03-22T22:17:13+08:00</published>
+        <author>
+            <name>双绞麻痹</name>
+            <uri>https://numb.tech</uri>
+        </author>
+        <summary type="text"><![CDATA[三分之二的时间]]></summary>
     </entry>
         <entry>
         <title>STC8H8K64U_点灯</title>
@@ -1234,6 +1278,17 @@
         <summary type="text"><![CDATA[爸妈与宝宝的可爱瞬间，值得记录]]></summary>
     </entry>
         <entry>
+        <title>Authentik 的部署记录</title>
+        <id>150830</id>
+        <link href="https://blog.uuanqin.top/p/7146cec9/?utm_source=blogfinder" />
+        <published>2026-03-20T19:49:53+08:00</published>
+        <author>
+            <name>半方池水半方田</name>
+            <uri>https://blog.uuanqin.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Authentik 的部署记录]]></summary>
+    </entry>
+        <entry>
         <title>高考押题</title>
         <id>150689</id>
         <link href="https://onojyun.com/2026/03/20/%e9%ab%98%e8%80%83%e6%8a%bc%e9%a2%98/?utm_source=blogfinder" />
@@ -1254,49 +1309,5 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[OpenClaw 必装 10 大技能：让你的龙虾从能用变好用]]></summary>
-    </entry>
-        <entry>
-        <title>我妈最近在沉迷类似连连看的小游戏，一玩就是三四个小时</title>
-        <id>150704</id>
-        <link href="https://www.bufanz.com/20260320485.html?utm_source=blogfinder" />
-        <published>2026-03-20T19:02:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我妈最近在沉迷类似连连看的小游戏，一玩就是三四个小时]]></summary>
-    </entry>
-        <entry>
-        <title>Bing收录没了？亲测有效的快速恢复指南</title>
-        <id>150687</id>
-        <link href="https://xingwangzhe.fun/posts/bing-re-index/?utm_source=blogfinder" />
-        <published>2026-03-20T18:30:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[Bing收录没了？亲测有效的快速恢复指南]]></summary>
-    </entry>
-        <entry>
-        <title>280、春分</title>
-        <id>150699</id>
-        <link href="https://1900.live/280-chun-fen/?utm_source=blogfinder" />
-        <published>2026-03-20T18:09:45+08:00</published>
-        <author>
-            <name>我道</name>
-            <uri>https://1900.live</uri>
-        </author>
-        <summary type="text"><![CDATA[280、春分]]></summary>
-    </entry>
-        <entry>
-        <title>泼冷水：在 Agent 浪潮里谈谈生存与进化</title>
-        <id>150691</id>
-        <link href="https://blog.solazy.me/20260320/?utm_source=blogfinder" />
-        <published>2026-03-20T18:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[泼冷水：在 Agent 浪潮里谈谈生存与进化]]></summary>
     </entry>
     </feed>
