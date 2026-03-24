@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-24T14:01:17+08:00</updated>
+    <updated>2026-03-24T16:01:05+08:00</updated>
+        <entry>
+        <title>Lesson 8 近独立子体系分布</title>
+        <id>150897</id>
+        <link href="https://physnya.top/statistical-mechanics/lesson-8-independent-particle-distribution/?utm_source=blogfinder" />
+        <published>2026-03-24T15:29:52+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 8 近独立子体系分布]]></summary>
+    </entry>
+        <entry>
+        <title>Lesson 9 Schwarzschild 黑洞 (2)</title>
+        <id>150896</id>
+        <link href="https://physnya.top/GR/lesson-9-schwarzschild-black-hole/?utm_source=blogfinder" />
+        <published>2026-03-24T15:29:52+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 9 Schwarzschild 黑洞 (2)]]></summary>
+    </entry>
+        <entry>
+        <title>Lesson 8 Schwarzschild 黑洞</title>
+        <id>150895</id>
+        <link href="https://physnya.top/GR/lesson-8-schwarzschild-black-hole/?utm_source=blogfinder" />
+        <published>2026-03-24T15:29:52+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 8 Schwarzschild 黑洞]]></summary>
+    </entry>
+        <entry>
+        <title>【景点篇】望江楼公园</title>
+        <id>150894</id>
+        <link href="https://liuqingwushui.top/archives/146/?utm_source=blogfinder" />
+        <published>2026-03-24T13:55:21+08:00</published>
+        <author>
+            <name>流情的博客</name>
+            <uri>https://liuqingwushui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[【景点篇】望江楼公园]]></summary>
+    </entry>
         <entry>
         <title>26周记 | 寻找记录想法的笔记 app</title>
         <id>150893</id>
@@ -286,6 +330,17 @@
             <uri>https://imqi1.com</uri>
         </author>
         <summary type="text"><![CDATA[尝试从情绪中走出]]></summary>
+    </entry>
+        <entry>
+        <title>换了新的笔记本，旧的丢？</title>
+        <id>150898</id>
+        <link href="https://b.ncii.cn/archives/s9yCixnq?utm_source=blogfinder" />
+        <published>2026-03-23T17:00:44+08:00</published>
+        <author>
+            <name>卖烤肉博客</name>
+            <uri>https://b.ncii.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[换了新的笔记本，旧的丢？]]></summary>
     </entry>
         <entry>
         <title>有了工位之后：重新运转的日常</title>
@@ -1397,49 +1452,5 @@
             <uri>https://www.skyue.com</uri>
         </author>
         <summary type="text"><![CDATA[通用Agent能搞定购物吗？]]></summary>
-    </entry>
-        <entry>
-        <title>第五课：流程控制——如果…就…，否则…（if/else、switch）</title>
-        <id>150718</id>
-        <link href="http://aboss.top/js-105-control-flow/?utm_source=blogfinder" />
-        <published>2026-03-21T15:50:00+08:00</published>
-        <author>
-            <name>三毛笔记</name>
-            <uri>https://aboss.top</uri>
-        </author>
-        <summary type="text"><![CDATA[第五课：流程控制——如果…就…，否则…（if/else、switch）]]></summary>
-    </entry>
-        <entry>
-        <title>在 Emacs 中用 Elfeed 阅读订阅流</title>
-        <id>150729</id>
-        <link href="https://taxodium.ink/use-elfeed-to-read-feed-in-emacs.html?utm_source=blogfinder" />
-        <published>2026-03-21T15:00:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[在 Emacs 中用 Elfeed 阅读订阅流]]></summary>
-    </entry>
-        <entry>
-        <title>亲测可用｜影视动漫网站大全（持续更新中）</title>
-        <id>150719</id>
-        <link href="http://aboss.top/yingshi-dongman-wangzhan-daquan/?utm_source=blogfinder" />
-        <published>2026-03-21T14:32:00+08:00</published>
-        <author>
-            <name>三毛笔记</name>
-            <uri>https://aboss.top</uri>
-        </author>
-        <summary type="text"><![CDATA[亲测可用｜影视动漫网站大全（持续更新中）]]></summary>
-    </entry>
-        <entry>
-        <title>LibTV免费能用吗？我花了170万Token试了一下</title>
-        <id>150714</id>
-        <link href="https://www.wangdu.site/software/ai/2324.html?utm_source=blogfinder" />
-        <published>2026-03-21T14:08:06+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[LibTV免费能用吗？我花了170万Token试了一下]]></summary>
     </entry>
     </feed>
