@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-24T19:02:46+08:00</updated>
+    <updated>2026-03-24T20:00:44+08:00</updated>
+        <entry>
+        <title>不要为了自己人生以外的事情内耗</title>
+        <id>150924</id>
+        <link href="https://joojen.com/archives/8886.html?utm_source=blogfinder" />
+        <published>2026-03-24T19:29:34+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[不要为了自己人生以外的事情内耗]]></summary>
+    </entry>
+        <entry>
+        <title>穿越不过是心中的妄念罢了</title>
+        <id>150926</id>
+        <link href="https://www.pgoj.top/archives/chuanyuexiaoshuo.html?utm_source=blogfinder" />
+        <published>2026-03-24T19:15:24+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[穿越不过是心中的妄念罢了]]></summary>
+    </entry>
         <entry>
         <title>2026.3.24</title>
         <id>150901</id>
@@ -495,6 +517,17 @@
             <uri>https://blogwinter.top</uri>
         </author>
         <summary type="text"><![CDATA[复盘：记录一次wordpress的优化]]></summary>
+    </entry>
+        <entry>
+        <title>jVectorMap番外篇：用 GeoJSON 补全未竟的足迹地图</title>
+        <id>150925</id>
+        <link href="https://www.youdiandongxi.com/article/jVectorMap-map-fixed.html?utm_source=blogfinder" />
+        <published>2026-03-23T14:33:24+08:00</published>
+        <author>
+            <name>有点东西</name>
+            <uri>https://www.youdiandongxi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[jVectorMap番外篇：用 GeoJSON 补全未竟的足迹地图]]></summary>
     </entry>
         <entry>
         <title>今天你的车加油了吗？</title>
@@ -1419,27 +1452,5 @@
             <uri>https://www.jinhuaiyao.com</uri>
         </author>
         <summary type="text"><![CDATA[数据备份再检查 + 新的冷备]]></summary>
-    </entry>
-        <entry>
-        <title>西装革履者的蝗虫不吃庄稼</title>
-        <id>150725</id>
-        <link href="https://www.pgoj.top/archives/high-quality-human-nonsense.html?utm_source=blogfinder" />
-        <published>2026-03-21T19:53:45+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[西装革履者的蝗虫不吃庄稼]]></summary>
-    </entry>
-        <entry>
-        <title>不能承受的生命之轻</title>
-        <id>150736</id>
-        <link href="https://www.geedea.pro/library/2026/the-unbearable-lightness-of-being/?utm_source=blogfinder" />
-        <published>2026-03-21T19:22:40+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[不能承受的生命之轻]]></summary>
     </entry>
     </feed>
