@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-24T21:00:15+08:00</updated>
+    <updated>2026-03-24T23:00:40+08:00</updated>
+        <entry>
+        <title>【知途·间隔年】2：学习的拼图游戏</title>
+        <id>150929</id>
+        <link href="http://www.qncd.com/?p=12596&amp;utm_source=blogfinder" />
+        <published>2026-03-24T22:20:59+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【知途·间隔年】2：学习的拼图游戏]]></summary>
+    </entry>
+        <entry>
+        <title>Windows下Git error: open(xxxx) Filename too long - 排坑笔记 | 阿尔的代码屋</title>
+        <id>150932</id>
+        <link href="https://blog.algieba12.cn/record01-git-long-file/?utm_source=blogfinder" />
+        <published>2026-03-24T22:00:00+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Windows下Git error: open(xxxx) Filename too long - 排坑笔记 | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
+        <title>Lesson 5 捕食行为</title>
+        <id>150931</id>
+        <link href="https://physnya.top/animal-behavior/lesson-5-predator/?utm_source=blogfinder" />
+        <published>2026-03-24T21:00:21+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 5 捕食行为]]></summary>
+    </entry>
         <entry>
         <title>不要为了自己人生以外的事情内耗</title>
         <id>150924</id>
@@ -33,6 +66,39 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[穿越不过是心中的妄念罢了]]></summary>
+    </entry>
+        <entry>
+        <title>跨越一周的历程</title>
+        <id>150930</id>
+        <link href="https://blog.mcenahle.org.cn/2026/03/24/444.html?utm_source=blogfinder" />
+        <published>2026-03-24T19:06:02+08:00</published>
+        <author>
+            <name>梅之夏</name>
+            <uri>https://blog.mcenahle.org.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[跨越一周的历程]]></summary>
+    </entry>
+        <entry>
+        <title>请正确设置 HTML 的『页面语言』属性</title>
+        <id>150928</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1197/?utm_source=blogfinder" />
+        <published>2026-03-24T17:33:48+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[请正确设置 HTML 的『页面语言』属性]]></summary>
+    </entry>
+        <entry>
+        <title>Kagi Translate 使用分享</title>
+        <id>150927</id>
+        <link href="https://taxodium.ink/my-experience-with-kagi-translate.html?utm_source=blogfinder" />
+        <published>2026-03-24T16:40:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[Kagi Translate 使用分享]]></summary>
     </entry>
         <entry>
         <title>2026.3.24</title>
@@ -1364,49 +1430,5 @@
             <uri>https://ayayy.com</uri>
         </author>
         <summary type="text"><![CDATA[血战篇-再战低压电工]]></summary>
-    </entry>
-        <entry>
-        <title>OMSI2香港地圖下載整合</title>
-        <id>150738</id>
-        <link href="https://baipin.pw/station-affairs/omsi2-hk.html?utm_source=blogfinder" />
-        <published>2026-03-21T22:34:10+08:00</published>
-        <author>
-            <name>百品博客</name>
-            <uri>https://baipin.pw</uri>
-        </author>
-        <summary type="text"><![CDATA[OMSI2香港地圖下載整合]]></summary>
-    </entry>
-        <entry>
-        <title>我什么都会一点，但哪里都不属于</title>
-        <id>150786</id>
-        <link href="https://xn--otsr53afot.com/posts/ndbusy/?utm_source=blogfinder" />
-        <published>2026-03-21T22:18:00+08:00</published>
-        <author>
-            <name>老朝奉</name>
-            <uri>https://xn--otsr53afot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我什么都会一点，但哪里都不属于]]></summary>
-    </entry>
-        <entry>
-        <title>【也闲谈·第四季】五：好戏要上演了</title>
-        <id>150732</id>
-        <link href="http://www.qncd.com/?p=12576&amp;utm_source=blogfinder" />
-        <published>2026-03-21T21:53:13+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【也闲谈·第四季】五：好戏要上演了]]></summary>
-    </entry>
-        <entry>
-        <title>奶奶都能看懂的 C++ —— 类、初始化、预处理和分离式编译</title>
-        <id>150733</id>
-        <link href="https://blog.samhou.moe/cpp-class-compile-guide/?utm_source=blogfinder" />
-        <published>2026-03-21T21:03:18+08:00</published>
-        <author>
-            <name>SamHou&#039;s Blog</name>
-            <uri>https://blog.samhou.moe</uri>
-        </author>
-        <summary type="text"><![CDATA[奶奶都能看懂的 C++ —— 类、初始化、预处理和分离式编译]]></summary>
     </entry>
     </feed>
