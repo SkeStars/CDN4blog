@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-24T17:00:44+08:00</updated>
+    <updated>2026-03-24T18:00:44+08:00</updated>
+        <entry>
+        <title>2026.3.24</title>
+        <id>150901</id>
+        <link href="https://www.justzht.com/2026-3-24/?utm_source=blogfinder" />
+        <published>2026-03-24T16:15:45+08:00</published>
+        <author>
+            <name>JustZht</name>
+            <uri>https://www.justzht.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026.3.24]]></summary>
+    </entry>
         <entry>
         <title>Lesson 8 近独立子体系分布</title>
         <id>150897</id>
@@ -57,6 +68,17 @@
         <summary type="text"><![CDATA[Word 文档经 golang  nguyenthenguyen/docx 处理后，表格单元格行高变小]]></summary>
     </entry>
         <entry>
+        <title>一切从头来过</title>
+        <id>150905</id>
+        <link href="https://airy.ink/daily/434?utm_source=blogfinder" />
+        <published>2026-03-24T14:07:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[一切从头来过]]></summary>
+    </entry>
+        <entry>
         <title>【景点篇】望江楼公园</title>
         <id>150894</id>
         <link href="https://liuqingwushui.top/archives/146/?utm_source=blogfinder" />
@@ -77,6 +99,28 @@
             <uri>https://koobai.com</uri>
         </author>
         <summary type="text"><![CDATA[2026-03-24 13:12]]></summary>
+    </entry>
+        <entry>
+        <title>wordpress友情链接自助申请插件-更新版</title>
+        <id>150903</id>
+        <link href="https://www.x8xx.cn/1069.html?utm_source=blogfinder" />
+        <published>2026-03-24T13:01:30+08:00</published>
+        <author>
+            <name>树洞笔记</name>
+            <uri>https://www.x8xx.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[wordpress友情链接自助申请插件-更新版]]></summary>
+    </entry>
+        <entry>
+        <title>话多</title>
+        <id>150902</id>
+        <link href="https://shuiba.co/too-many-words?utm_source=blogfinder" />
+        <published>2026-03-24T11:58:00+08:00</published>
+        <author>
+            <name>水八口的冥想盆</name>
+            <uri>https://shuiba.co</uri>
+        </author>
+        <summary type="text"><![CDATA[话多]]></summary>
     </entry>
         <entry>
         <title>26周记 | 寻找记录想法的笔记 app</title>
@@ -189,6 +233,17 @@
         <summary type="text"><![CDATA[给博客增加一个说说模块]]></summary>
     </entry>
         <entry>
+        <title>关于本人曾用域名 cunzher.cn 的风险提醒与声明</title>
+        <id>150906</id>
+        <link href="https://bi1vmm.cn/index.php/archives/112/?utm_source=blogfinder" />
+        <published>2026-03-23T23:09:00+08:00</published>
+        <author>
+            <name>喂猫猫</name>
+            <uri>https://bi1vmm.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[关于本人曾用域名 cunzher.cn 的风险提醒与声明]]></summary>
+    </entry>
+        <entry>
         <title>cs2之敌我不分</title>
         <id>150886</id>
         <link href="https://blog.tibtob.cn/archives/45/?utm_source=blogfinder" />
@@ -286,6 +341,17 @@
             <uri>https://dujun.io</uri>
         </author>
         <summary type="text"><![CDATA[违停免罚]]></summary>
+    </entry>
+        <entry>
+        <title>重要通知-请更新我的GPG公钥</title>
+        <id>150904</id>
+        <link href="https://xingwangzhe.fun/posts/2026-3-gpg-update/?utm_source=blogfinder" />
+        <published>2026-03-23T19:19:20+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[重要通知-请更新我的GPG公钥]]></summary>
     </entry>
         <entry>
         <title>活着</title>
@@ -1430,27 +1496,5 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[觉得会离不开的供应商盘点（2026年3月）]]></summary>
-    </entry>
-        <entry>
-        <title>复盘本博客，计划博客未来</title>
-        <id>150727</id>
-        <link href="https://jackie.openenet.cn/blog-future/?utm_source=blogfinder" />
-        <published>2026-03-21T17:20:16+08:00</published>
-        <author>
-            <name>Jackie&#039;s Blog</name>
-            <uri>https://jackie.openenet.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[复盘本博客，计划博客未来]]></summary>
-    </entry>
-        <entry>
-        <title>添添同学怀旧摄影</title>
-        <id>150742</id>
-        <link href="https://siwei.li/tian-tian-tong-xue-huai-jiu-she-ying/?utm_source=blogfinder" />
-        <published>2026-03-21T17:03:27+08:00</published>
-        <author>
-            <name>Siwei Li</name>
-            <uri>https://siwei.li</uri>
-        </author>
-        <summary type="text"><![CDATA[添添同学怀旧摄影]]></summary>
     </entry>
     </feed>
