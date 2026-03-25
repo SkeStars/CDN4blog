@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-25T18:00:44+08:00</updated>
+    <updated>2026-03-25T19:03:53+08:00</updated>
         <entry>
         <title>Phoenix监控平台技术解析（二）：HTTP通信通道——请求/响应模型与RestTemplate封装</title>
         <id>151047</id>
@@ -1331,27 +1331,5 @@
             <uri>https://hjyl.org</uri>
         </author>
         <summary type="text"><![CDATA[加油没熄火]]></summary>
-    </entry>
-        <entry>
-        <title>再逼我，就真的要摆烂了</title>
-        <id>150789</id>
-        <link href="https://www.puresky.top/archives/YvByExfJ?utm_source=blogfinder" />
-        <published>2026-03-22T18:26:22+08:00</published>
-        <author>
-            <name>轻雅阁</name>
-            <uri>https://www.puresky.top</uri>
-        </author>
-        <summary type="text"><![CDATA[再逼我，就真的要摆烂了]]></summary>
-    </entry>
-        <entry>
-        <title>GPL&quot;2,3&quot;事</title>
-        <id>150788</id>
-        <link href="https://xingwangzhe.fun/posts/gpl-2-3-thing/?utm_source=blogfinder" />
-        <published>2026-03-22T18:10:34+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[GPL&quot;2,3&quot;事]]></summary>
     </entry>
     </feed>
