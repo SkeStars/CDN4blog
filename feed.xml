@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-25T16:00:54+08:00</updated>
+    <updated>2026-03-25T17:00:49+08:00</updated>
+        <entry>
+        <title>Phoenix监控平台技术解析（二）：HTTP通信通道——请求/响应模型与RestTemplate封装</title>
+        <id>151047</id>
+        <link href="https://kacper.fun/blog/140?utm_source=blogfinder" />
+        <published>2026-03-25T16:30:38+08:00</published>
+        <author>
+            <name>知录</name>
+            <uri>https://kacper.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Phoenix监控平台技术解析（二）：HTTP通信通道——请求/响应模型与RestTemplate封装]]></summary>
+    </entry>
+        <entry>
+        <title>Phoenix监控平台技术解析（一）：全景概览与架构设计</title>
+        <id>151048</id>
+        <link href="https://kacper.fun/blog/139?utm_source=blogfinder" />
+        <published>2026-03-25T14:28:03+08:00</published>
+        <author>
+            <name>知录</name>
+            <uri>https://kacper.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Phoenix监控平台技术解析（一）：全景概览与架构设计]]></summary>
+    </entry>
         <entry>
         <title>张雪峰猝死于41岁，比我还年轻几岁</title>
         <id>151042</id>
@@ -77,6 +99,17 @@
             <uri>https://liuqingwushui.top</uri>
         </author>
         <summary type="text"><![CDATA[记一次与AI的对话]]></summary>
+    </entry>
+        <entry>
+        <title>日祭20260325</title>
+        <id>151046</id>
+        <link href="https://www.suiyan.cc/blog/20260325020021?utm_source=blogfinder" />
+        <published>2026-03-25T10:00:21+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[日祭20260325]]></summary>
     </entry>
         <entry>
         <title>《第一次跑范崎路》</title>
@@ -154,6 +187,17 @@
             <uri>https://fiammanda.com</uri>
         </author>
         <summary type="text"><![CDATA[Koofr WebDAV 初尝试]]></summary>
+    </entry>
+        <entry>
+        <title>2026 年的「金三银四」</title>
+        <id>151049</id>
+        <link href="https://blog.solazy.me/20260324/?utm_source=blogfinder" />
+        <published>2026-03-24T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[2026 年的「金三银四」]]></summary>
     </entry>
         <entry>
         <title>【知途·间隔年】2：学习的拼图游戏</title>
@@ -1320,27 +1364,5 @@
             <uri>https://www.qqzmly.com</uri>
         </author>
         <summary type="text"><![CDATA[博客11年]]></summary>
-    </entry>
-        <entry>
-        <title>胡拉图的周刊-第十二期</title>
-        <id>150790</id>
-        <link href="https://hulatu.com/posts/2026/03/22/newsletter-weekly/?utm_source=blogfinder" />
-        <published>2026-03-22T16:37:16+08:00</published>
-        <author>
-            <name>胡拉图的后花园</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[胡拉图的周刊-第十二期]]></summary>
-    </entry>
-        <entry>
-        <title>服务器“炸毁”😭😡无地自容</title>
-        <id>150801</id>
-        <link href="https://note.redcha.cn/archives/fu-wu-qi-zha-hui-wu-di-zi-rong?utm_source=blogfinder" />
-        <published>2026-03-22T16:14:01+08:00</published>
-        <author>
-            <name>彬红茶日记</name>
-            <uri>https://note.redcha.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[服务器“炸毁”😭😡无地自容]]></summary>
     </entry>
     </feed>
