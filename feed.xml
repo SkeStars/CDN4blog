@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-25T23:01:16+08:00</updated>
+    <updated>2026-03-26T00:00:23+08:00</updated>
         <entry>
         <title>心理学治不了时代的病</title>
         <id>151056</id>
@@ -22,6 +22,17 @@
             <uri>https://wangyurui.com</uri>
         </author>
         <summary type="text"><![CDATA[心理学治不了时代的病]]></summary>
+    </entry>
+        <entry>
+        <title>20周年纪念T恤+帽子兑换活动说明</title>
+        <id>151062</id>
+        <link href="https://zhujay.com/talking/?id=1215&amp;utm_source=blogfinder" />
+        <published>2026-03-25T21:57:36+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[20周年纪念T恤+帽子兑换活动说明]]></summary>
     </entry>
         <entry>
         <title>成为了重庆轻轨合作伙伴</title>
@@ -55,6 +66,28 @@
             <uri>https://javis.me</uri>
         </author>
         <summary type="text"><![CDATA[第3 封信：和小夏的特殊时刻]]></summary>
+    </entry>
+        <entry>
+        <title>校园里的“寄宿楼”</title>
+        <id>151063</id>
+        <link href="https://zhujay.com/blog/blog_view.asp?id=1214&amp;utm_source=blogfinder" />
+        <published>2026-03-25T21:10:57+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[校园里的“寄宿楼”]]></summary>
+    </entry>
+        <entry>
+        <title>这两天终于把「法语记忆」iOS 版 app 提交审核了</title>
+        <id>151061</id>
+        <link href="https://xd.sh.cn/frmemo-ios-app-20260325/?utm_source=blogfinder" />
+        <published>2026-03-25T20:59:48+08:00</published>
+        <author>
+            <name>不淡定实验室</name>
+            <uri>https://xd.sh.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[这两天终于把「法语记忆」iOS 版 app 提交审核了]]></summary>
     </entry>
         <entry>
         <title>保持节奏</title>
@@ -321,6 +354,17 @@
         <summary type="text"><![CDATA[Windows下Git error: open(xxxx) Filename too long - 排坑笔记 | 阿尔的代码屋]]></summary>
     </entry>
         <entry>
+        <title>Thoughts On AI In Early 2026 (1)</title>
+        <id>151060</id>
+        <link href="https://lenciel.com/2026/03/my-thoughts-on-ai-in-early-2026-part-1/?utm_source=blogfinder" />
+        <published>2026-03-24T21:24:59+08:00</published>
+        <author>
+            <name>@Lenciel</name>
+            <uri>https://lenciel.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Thoughts On AI In Early 2026 (1)]]></summary>
+    </entry>
+        <entry>
         <title>把“表达”当成交差，就已经没什么表达了</title>
         <id>150939</id>
         <link href="https://www.ntiy.com/2348.html?utm_source=blogfinder" />
@@ -517,6 +561,17 @@
             <uri>https://shuiba.co</uri>
         </author>
         <summary type="text"><![CDATA[话多]]></summary>
+    </entry>
+        <entry>
+        <title>特斯拉第一次长途驾驶体验</title>
+        <id>151059</id>
+        <link href="https://blog.forecho.com/first-tesla-long-distance-driving.html?utm_source=blogfinder" />
+        <published>2026-03-24T11:48:00+08:00</published>
+        <author>
+            <name>forecho&#039;s Blog</name>
+            <uri>https://blog.forecho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[特斯拉第一次长途驾驶体验]]></summary>
     </entry>
         <entry>
         <title>26周记 | 寻找记录想法的笔记 app</title>
@@ -1210,38 +1265,5 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[稻草人周刊 Vol.73]]></summary>
-    </entry>
-        <entry>
-        <title>游戏玩后感：ReLief：献给亲爱的你</title>
-        <id>150853</id>
-        <link href="https://vnyzm.top/html/%E6%B8%B8%E6%88%8F%E7%8E%A9%E5%90%8E%E6%84%9F%EF%BC%9AReLief%EF%BC%9A%E7%8C%AE%E7%BB%99%E4%BA%B2%E7%88%B1%E7%9A%84%E4%BD%A0.html?utm_source=blogfinder" />
-        <published>2026-03-23T00:00:00+08:00</published>
-        <author>
-            <name>VnYzm 的博客</name>
-            <uri>https://vnyzm.top</uri>
-        </author>
-        <summary type="text"><![CDATA[游戏玩后感：ReLief：献给亲爱的你]]></summary>
-    </entry>
-        <entry>
-        <title>偶遇小鸟</title>
-        <id>150832</id>
-        <link href="https://siwei.li/ou-yu-xiao-niao/?utm_source=blogfinder" />
-        <published>2026-03-22T23:47:52+08:00</published>
-        <author>
-            <name>Siwei Li</name>
-            <uri>https://siwei.li</uri>
-        </author>
-        <summary type="text"><![CDATA[偶遇小鸟]]></summary>
-    </entry>
-        <entry>
-        <title>20260318</title>
-        <id>150811</id>
-        <link href="https://61.life/2026/0318?utm_source=blogfinder" />
-        <published>2026-03-22T23:18:32+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260318]]></summary>
     </entry>
     </feed>
