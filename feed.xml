@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-25T14:03:52+08:00</updated>
+    <updated>2026-03-25T16:00:54+08:00</updated>
         <entry>
         <title>张雪峰猝死于41岁，比我还年轻几岁</title>
         <id>151042</id>
@@ -57,6 +57,17 @@
         <summary type="text"><![CDATA[Lesson 9 微观量与宏观量的联系]]></summary>
     </entry>
         <entry>
+        <title>🚀 AI 摘要插件发布 | 智能提取文章摘要，支持 OpenAI &amp;amp; 阿里通义</title>
+        <id>151045</id>
+        <link href="https://loglib.cn/207.html?utm_source=blogfinder" />
+        <published>2026-03-25T10:50:00+08:00</published>
+        <author>
+            <name>李文君 &#039;s Blog</name>
+            <uri>https://loglib.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[🚀 AI 摘要插件发布 | 智能提取文章摘要，支持 OpenAI &amp;amp; 阿里通义]]></summary>
+    </entry>
+        <entry>
         <title>记一次与AI的对话</title>
         <id>151037</id>
         <link href="https://liuqingwushui.top/archives/147/?utm_source=blogfinder" />
@@ -90,6 +101,17 @@
         <summary type="text"><![CDATA[丙午马年三月]]></summary>
     </entry>
         <entry>
+        <title>致张雪峰老师，您未谋面的学生</title>
+        <id>151044</id>
+        <link href="https://hulatu.com/posts/2026/03/25/teacher-zhang-xue-feng/?utm_source=blogfinder" />
+        <published>2026-03-25T09:01:11+08:00</published>
+        <author>
+            <name>胡拉图的后花园</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[致张雪峰老师，您未谋面的学生]]></summary>
+    </entry>
+        <entry>
         <title>「教宗都叫好」破产了</title>
         <id>151032</id>
         <link href="https://www.immarcus.com/blog/pope-yes-bankruptcy?utm_source=blogfinder" />
@@ -99,6 +121,17 @@
             <uri>https://immarcus.com</uri>
         </author>
         <summary type="text"><![CDATA[「教宗都叫好」破产了]]></summary>
+    </entry>
+        <entry>
+        <title>我老了</title>
+        <id>151043</id>
+        <link href="https://nocoding.life/archives/0sUYo4Bi?utm_source=blogfinder" />
+        <published>2026-03-25T00:23:18+08:00</published>
+        <author>
+            <name>No Coding Life</name>
+            <uri>https://nocoding.life</uri>
+        </author>
+        <summary type="text"><![CDATA[我老了]]></summary>
     </entry>
         <entry>
         <title>张雪峰去世，终年41岁</title>
@@ -1309,104 +1342,5 @@
             <uri>https://note.redcha.cn</uri>
         </author>
         <summary type="text"><![CDATA[服务器“炸毁”😭😡无地自容]]></summary>
-    </entry>
-        <entry>
-        <title>Vol.95 AI智能体技术架构与开源框架深度解析：从OpenClaw到LangChain</title>
-        <id>150808</id>
-        <link href="https://liduos.com/weekly/the-weekly-gradient-95?utm_source=blogfinder" />
-        <published>2026-03-22T16:00:00+08:00</published>
-        <author>
-            <name>莫尔索</name>
-            <uri>https://liduos.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Vol.95 AI智能体技术架构与开源框架深度解析：从OpenClaw到LangChain]]></summary>
-    </entry>
-        <entry>
-        <title>世界的孩子，父母的宝贝</title>
-        <id>150794</id>
-        <link href="https://nocoding.life/archives/IVWzpA7G?utm_source=blogfinder" />
-        <published>2026-03-22T15:59:23+08:00</published>
-        <author>
-            <name>No Coding Life</name>
-            <uri>https://nocoding.life</uri>
-        </author>
-        <summary type="text"><![CDATA[世界的孩子，父母的宝贝]]></summary>
-    </entry>
-        <entry>
-        <title>痛风</title>
-        <id>150798</id>
-        <link href="https://xifeng.net/life/gout/?utm_source=blogfinder" />
-        <published>2026-03-22T15:49:45+08:00</published>
-        <author>
-            <name>西城往事</name>
-            <uri>https://xifeng.net</uri>
-        </author>
-        <summary type="text"><![CDATA[痛风]]></summary>
-    </entry>
-        <entry>
-        <title>手机壁纸分享-自然风光</title>
-        <id>150813</id>
-        <link href="https://www.biibii.cn/641.html?utm_source=blogfinder" />
-        <published>2026-03-22T15:08:00+08:00</published>
-        <author>
-            <name>BIIBII</name>
-            <uri>https://www.biibii.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[手机壁纸分享-自然风光]]></summary>
-    </entry>
-        <entry>
-        <title>DeepSeek这样评价本博</title>
-        <id>150780</id>
-        <link href="https://zooyoo.top/article.php?id=42&amp;utm_source=blogfinder" />
-        <published>2026-03-22T14:58:50+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[DeepSeek这样评价本博]]></summary>
-    </entry>
-        <entry>
-        <title>Cron 表达式</title>
-        <id>150802</id>
-        <link href="https://www.gaicas.com/cron.html?utm_source=blogfinder" />
-        <published>2026-03-22T14:20:58+08:00</published>
-        <author>
-            <name>草东日记</name>
-            <uri>https://www.gaicas.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Cron 表达式]]></summary>
-    </entry>
-        <entry>
-        <title>摘：《How to Do Nothing》</title>
-        <id>150881</id>
-        <link href="https://z.arlmy.me/posts/Note/Note_JennyOdell_HowToDoNothing/?utm_source=blogfinder" />
-        <published>2026-03-22T14:10:46+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[摘：《How to Do Nothing》]]></summary>
-    </entry>
-        <entry>
-        <title>摘：《How to Do Nothing》</title>
-        <id>150781</id>
-        <link href="https://z.arlmy.me/posts/Note/Note_HowToDoNothing/?utm_source=blogfinder" />
-        <published>2026-03-22T14:10:46+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[摘：《How to Do Nothing》]]></summary>
-    </entry>
-        <entry>
-        <title>【与Mondo同行·第四季】3：君子以德立身，智者因思而独</title>
-        <id>150777</id>
-        <link href="http://www.qncd.com/?p=12580&amp;utm_source=blogfinder" />
-        <published>2026-03-22T14:07:16+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【与Mondo同行·第四季】3：君子以德立身，智者因思而独]]></summary>
     </entry>
     </feed>
