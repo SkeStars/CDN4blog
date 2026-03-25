@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-25T00:00:17+08:00</updated>
+    <updated>2026-03-25T11:01:05+08:00</updated>
+        <entry>
+        <title>丙午马年三月</title>
+        <id>151034</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1117&amp;utm_source=blogfinder" />
+        <published>2026-03-25T09:13:36+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[丙午马年三月]]></summary>
+    </entry>
+        <entry>
+        <title>「教宗都叫好」破产了</title>
+        <id>151032</id>
+        <link href="https://www.immarcus.com/blog/pope-yes-bankruptcy?utm_source=blogfinder" />
+        <published>2026-03-25T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[「教宗都叫好」破产了]]></summary>
+    </entry>
+        <entry>
+        <title>张雪峰去世，终年41岁</title>
+        <id>151035</id>
+        <link href="https://blog.tibtob.cn/archives/52/?utm_source=blogfinder" />
+        <published>2026-03-25T00:16:00+08:00</published>
+        <author>
+            <name>拾音博客</name>
+            <uri>https://blog.tibtob.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[张雪峰去世，终年41岁]]></summary>
+    </entry>
+        <entry>
+        <title>Koofr WebDAV 初尝试</title>
+        <id>150943</id>
+        <link href="https://fiammanda.com/notes/koofr-via-deno/?utm_source=blogfinder" />
+        <published>2026-03-25T00:00:00+08:00</published>
+        <author>
+            <name>The F Word</name>
+            <uri>https://fiammanda.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Koofr WebDAV 初尝试]]></summary>
+    </entry>
         <entry>
         <title>【知途·间隔年】2：学习的拼图游戏</title>
         <id>150929</id>
@@ -33,6 +77,17 @@
             <uri>https://blog.algieba12.cn</uri>
         </author>
         <summary type="text"><![CDATA[Windows下Git error: open(xxxx) Filename too long - 排坑笔记 | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
+        <title>把“表达”当成交差，就已经没什么表达了</title>
+        <id>150939</id>
+        <link href="https://www.ntiy.com/2348.html?utm_source=blogfinder" />
+        <published>2026-03-24T21:02:05+08:00</published>
+        <author>
+            <name>非理勿试</name>
+            <uri>https://www.ntiy.com</uri>
+        </author>
+        <summary type="text"><![CDATA[把“表达”当成交差，就已经没什么表达了]]></summary>
     </entry>
         <entry>
         <title>Lesson 5 捕食行为</title>
@@ -88,6 +143,17 @@
             <uri>https://blog.mfwt.top</uri>
         </author>
         <summary type="text"><![CDATA[请正确设置 HTML 的『页面语言』属性]]></summary>
+    </entry>
+        <entry>
+        <title>phoenix云监控平台动态线程池使用文档</title>
+        <id>150940</id>
+        <link href="https://kacper.fun/blog/138?utm_source=blogfinder" />
+        <published>2026-03-24T16:50:49+08:00</published>
+        <author>
+            <name>知录</name>
+            <uri>https://kacper.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[phoenix云监控平台动态线程池使用文档]]></summary>
     </entry>
         <entry>
         <title>Kagi Translate 使用分享</title>
@@ -253,6 +319,39 @@
             <uri>https://chegva.com</uri>
         </author>
         <summary type="text"><![CDATA[生成式AI、机器学习课程学习]]></summary>
+    </entry>
+        <entry>
+        <title>OpenClaw接入微信ClawBot</title>
+        <id>150941</id>
+        <link href="https://blog.meekdai.com/post/OpenClaw-jie-ru-wei-xin-ClawBot.html?utm_source=blogfinder" />
+        <published>2026-03-24T08:42:34+08:00</published>
+        <author>
+            <name>Meekdai</name>
+            <uri>https://blog.meekdai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenClaw接入微信ClawBot]]></summary>
+    </entry>
+        <entry>
+        <title>用手机操作电脑，用了就回不去</title>
+        <id>150945</id>
+        <link href="https://blog.gudong.site/2026/03/24/article.html?utm_source=blogfinder" />
+        <published>2026-03-24T08:00:00+08:00</published>
+        <author>
+            <name>咕咚同学</name>
+            <uri>https://blog.gudong.site</uri>
+        </author>
+        <summary type="text"><![CDATA[用手机操作电脑，用了就回不去]]></summary>
+    </entry>
+        <entry>
+        <title>写完这句话我停下笔</title>
+        <id>150942</id>
+        <link href="https://jame.work/html/post/44?utm_source=blogfinder" />
+        <published>2026-03-24T08:00:00+08:00</published>
+        <author>
+            <name>Jame</name>
+            <uri>https://jame.work</uri>
+        </author>
+        <summary type="text"><![CDATA[写完这句话我停下笔]]></summary>
     </entry>
         <entry>
         <title>最近对各种资产价格的看法</title>
@@ -992,6 +1091,17 @@
         <summary type="text"><![CDATA[最近有点讨厌京东的快递员]]></summary>
     </entry>
         <entry>
+        <title>计算机体系结构群星闪耀时</title>
+        <id>150934</id>
+        <link href="https://blog.kingfish404.cn/posts/2026/moments-in-arch/?utm_source=blogfinder" />
+        <published>2026-03-22T21:20:03+08:00</published>
+        <author>
+            <name>Kingfish404</name>
+            <uri>https://blog.kingfish404.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[计算机体系结构群星闪耀时]]></summary>
+    </entry>
+        <entry>
         <title>春天的一次短途旅行：在江南的风景里，等待一场相遇</title>
         <id>150800</id>
         <link href="https://www.friendcc.com/607.html?utm_source=blogfinder" />
@@ -1243,159 +1353,5 @@
             <uri>https://lawtee.com</uri>
         </author>
         <summary type="text"><![CDATA[建议把 Ai 的 Tokens 翻译为“爱信”，这东西跟“短信”“彩信”真没区别]]></summary>
-    </entry>
-        <entry>
-        <title>老头</title>
-        <id>150766</id>
-        <link href="https://onojyun.com/2026/03/22/%e8%80%81%e5%a4%b4/?utm_source=blogfinder" />
-        <published>2026-03-22T09:43:17+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://onojyun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[老头]]></summary>
-    </entry>
-        <entry>
-        <title>世界越乱，黄金越贵，但为何这轮中东战火烧旺了美元，却冷落了黄金呢？</title>
-        <id>150774</id>
-        <link href="https://www.zhyok.cn/index.php/archives/282/?utm_source=blogfinder" />
-        <published>2026-03-22T09:27:28+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[世界越乱，黄金越贵，但为何这轮中东战火烧旺了美元，却冷落了黄金呢？]]></summary>
-    </entry>
-        <entry>
-        <title>手机扫码或 NFC 碰一碰自动分享到社交平台，例如小红书、抖音</title>
-        <id>150762</id>
-        <link href="https://www.sunzhongwei.com/mobile-nfc-touch-share-social-platform?utm_source=blogfinder" />
-        <published>2026-03-22T09:14:11+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[手机扫码或 NFC 碰一碰自动分享到社交平台，例如小红书、抖音]]></summary>
-    </entry>
-        <entry>
-        <title>OneKey Classic 1S 系列硬件钱包用了三个月，我最喜欢和最烦的几个点</title>
-        <id>150773</id>
-        <link href="https://jackie.openenet.cn/onekey-used-3m/?utm_source=blogfinder" />
-        <published>2026-03-22T09:12:54+08:00</published>
-        <author>
-            <name>Jackie&#039;s Blog</name>
-            <uri>https://jackie.openenet.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[OneKey Classic 1S 系列硬件钱包用了三个月，我最喜欢和最烦的几个点]]></summary>
-    </entry>
-        <entry>
-        <title>云梯</title>
-        <id>150804</id>
-        <link href="https://www.chenrui.com/post/3485.html?utm_source=blogfinder" />
-        <published>2026-03-22T08:02:35+08:00</published>
-        <author>
-            <name>陈锐</name>
-            <uri>https://www.chenrui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[云梯]]></summary>
-    </entry>
-        <entry>
-        <title>我用AI助手这几周的感悟</title>
-        <id>150806</id>
-        <link href="https://blog.gudong.site/2026/03/22/article.html?utm_source=blogfinder" />
-        <published>2026-03-22T08:00:00+08:00</published>
-        <author>
-            <name>咕咚同学</name>
-            <uri>https://blog.gudong.site</uri>
-        </author>
-        <summary type="text"><![CDATA[我用AI助手这几周的感悟]]></summary>
-    </entry>
-        <entry>
-        <title>2026.03.22 博客阅读周记</title>
-        <id>150756</id>
-        <link href="https://www.immarcus.com/blog/weekly-20260322?utm_source=blogfinder" />
-        <published>2026-03-22T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.03.22 博客阅读周记]]></summary>
-    </entry>
-        <entry>
-        <title>给博客加个返回顶部又取消了</title>
-        <id>150759</id>
-        <link href="https://ayayy.com/Dmz/124.html?utm_source=blogfinder" />
-        <published>2026-03-22T06:24:00+08:00</published>
-        <author>
-            <name>哎呀哎呀呀</name>
-            <uri>https://ayayy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[给博客加个返回顶部又取消了]]></summary>
-    </entry>
-        <entry>
-        <title>最近惦念 20260228</title>
-        <id>150783</id>
-        <link href="https://z.arlmy.me/posts/TILs/thoughts/20260314_Recently/?utm_source=blogfinder" />
-        <published>2026-03-22T02:46:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[最近惦念 20260228]]></summary>
-    </entry>
-        <entry>
-        <title>日寄 三十一</title>
-        <id>150741</id>
-        <link href="https://cyrus19.cc/archives/1832?utm_source=blogfinder" />
-        <published>2026-03-22T01:26:39+08:00</published>
-        <author>
-            <name>CC 的数字花园</name>
-            <uri>https://cyrus19.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[日寄 三十一]]></summary>
-    </entry>
-        <entry>
-        <title>「近步报告」#12：猫猫、内存条与四十六朵花</title>
-        <id>150775</id>
-        <link href="https://loneapex.cn/archives/5389?utm_source=blogfinder" />
-        <published>2026-03-22T01:23:00+08:00</published>
-        <author>
-            <name>Mimosa 的小屋</name>
-            <uri>https://loneapex.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[「近步报告」#12：猫猫、内存条与四十六朵花]]></summary>
-    </entry>
-        <entry>
-        <title>短文-对VitePlus的一点🤏小贡献</title>
-        <id>150779</id>
-        <link href="https://xingwangzhe.fun/posts/contribute-vite-plus/?utm_source=blogfinder" />
-        <published>2026-03-22T01:09:55+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[短文-对VitePlus的一点🤏小贡献]]></summary>
-    </entry>
-        <entry>
-        <title>迷上了写油猴脚本</title>
-        <id>150768</id>
-        <link href="https://zooyoo.top/article.php?id=41&amp;utm_source=blogfinder" />
-        <published>2026-03-22T00:30:42+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[迷上了写油猴脚本]]></summary>
-    </entry>
-        <entry>
-        <title>打卡南京王红军龙虾</title>
-        <id>150767</id>
-        <link href="https://blog.tibtob.cn/archives/36/?utm_source=blogfinder" />
-        <published>2026-03-22T00:28:00+08:00</published>
-        <author>
-            <name>拾音博客</name>
-            <uri>https://blog.tibtob.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[打卡南京王红军龙虾]]></summary>
     </entry>
     </feed>
