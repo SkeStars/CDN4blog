@@ -11,7 +11,73 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-26T20:00:20+08:00</updated>
+    <updated>2026-03-26T22:00:40+08:00</updated>
+        <entry>
+        <title>同一篇文章，同时存在中文版本和英文版本，如何设置页面 SEO 信息，防止被搜索引擎认定为重复内容</title>
+        <id>151128</id>
+        <link href="https://www.sunzhongwei.com/how-set-page-seo-information-same-article-multi-languages?utm_source=blogfinder" />
+        <published>2026-03-26T20:54:24+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[同一篇文章，同时存在中文版本和英文版本，如何设置页面 SEO 信息，防止被搜索引擎认定为重复内容]]></summary>
+    </entry>
+        <entry>
+        <title>杭州一日行，西湖半日人间半程</title>
+        <id>151129</id>
+        <link href="https://www.friendcc.com/609.html?utm_source=blogfinder" />
+        <published>2026-03-26T20:54:00+08:00</published>
+        <author>
+            <name>梦不见的梦</name>
+            <uri>https://www.friendcc.com</uri>
+        </author>
+        <summary type="text"><![CDATA[杭州一日行，西湖半日人间半程]]></summary>
+    </entry>
+        <entry>
+        <title>这一口，还是那个味儿</title>
+        <id>151131</id>
+        <link href="https://zhujay.com/talking/?id=1216&amp;utm_source=blogfinder" />
+        <published>2026-03-26T20:18:58+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[这一口，还是那个味儿]]></summary>
+    </entry>
+        <entry>
+        <title>还是要准备迁移到Astro</title>
+        <id>151127</id>
+        <link href="https://www.suiyan.cc/blog/20260326121351?utm_source=blogfinder" />
+        <published>2026-03-26T20:13:51+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[还是要准备迁移到Astro]]></summary>
+    </entry>
+        <entry>
+        <title>好好活着</title>
+        <id>151130</id>
+        <link href="https://ihaihe.cn/3545.htm?utm_source=blogfinder" />
+        <published>2026-03-26T19:55:26+08:00</published>
+        <author>
+            <name>三十里海河</name>
+            <uri>https://ihaihe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[好好活着]]></summary>
+    </entry>
+        <entry>
+        <title>4天烧掉1亿Token，我的OpenClaw龙虾&quot;死&quot;了教我的事</title>
+        <id>151126</id>
+        <link href="https://www.wangdu.site/course/2326.html?utm_source=blogfinder" />
+        <published>2026-03-26T15:44:26+08:00</published>
+        <author>
+            <name>文武科技柜</name>
+            <uri>https://www.wangdu.site</uri>
+        </author>
+        <summary type="text"><![CDATA[4天烧掉1亿Token，我的OpenClaw龙虾&quot;死&quot;了教我的事]]></summary>
+    </entry>
         <entry>
         <title>《我改变的事物》让我想起《杀生》</title>
         <id>151119</id>
@@ -198,6 +264,17 @@
             <uri>https://blog.xxbjf.com</uri>
         </author>
         <summary type="text"><![CDATA[Uni-API（AI 接口聚合网关）部署与学习心得]]></summary>
+    </entry>
+        <entry>
+        <title>无人岛物语</title>
+        <id>151125</id>
+        <link href="https://pewae.com/2026/03/mujintou-monogatari.html?utm_source=blogfinder" />
+        <published>2026-03-25T23:10:13+08:00</published>
+        <author>
+            <name>破袜子</name>
+            <uri>https://pewae.com</uri>
+        </author>
+        <summary type="text"><![CDATA[无人岛物语]]></summary>
     </entry>
         <entry>
         <title>盒马午餐便当推荐 I</title>
@@ -1089,60 +1166,5 @@
             <uri>https://javis.me</uri>
         </author>
         <summary type="text"><![CDATA[第2封信：考古过去]]></summary>
-    </entry>
-        <entry>
-        <title>运动真的能改造大脑</title>
-        <id>150883</id>
-        <link href="https://joojen.com/archives/8882.html?utm_source=blogfinder" />
-        <published>2026-03-23T22:00:14+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[运动真的能改造大脑]]></summary>
-    </entry>
-        <entry>
-        <title>职场里的「认主」情节</title>
-        <id>150888</id>
-        <link href="https://blog.solazy.me/20260323/?utm_source=blogfinder" />
-        <published>2026-03-23T22:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[职场里的「认主」情节]]></summary>
-    </entry>
-        <entry>
-        <title>微信小游戏开发，Cocos Creator 安装</title>
-        <id>150836</id>
-        <link href="https://www.sunzhongwei.com/cocos-creator-install?utm_source=blogfinder" />
-        <published>2026-03-23T21:22:10+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[微信小游戏开发，Cocos Creator 安装]]></summary>
-    </entry>
-        <entry>
-        <title>被工某某行私自开通西南证券后，决定换家银行就开了建行社保卡，服务很好！</title>
-        <id>150840</id>
-        <link href="https://www.bufanz.com/20260323495.html?utm_source=blogfinder" />
-        <published>2026-03-23T20:23:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[被工某某行私自开通西南证券后，决定换家银行就开了建行社保卡，服务很好！]]></summary>
-    </entry>
-        <entry>
-        <title>熵增的Agent</title>
-        <id>150835</id>
-        <link href="https://www.suiyan.cc/blog/20260323121828?utm_source=blogfinder" />
-        <published>2026-03-23T20:18:28+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[熵增的Agent]]></summary>
     </entry>
     </feed>
