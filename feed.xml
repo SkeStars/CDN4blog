@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-26T22:00:40+08:00</updated>
+    <updated>2026-03-26T23:00:53+08:00</updated>
+        <entry>
+        <title>网站在 SSL Labs 测试中获得 A+ 评级的教程</title>
+        <id>151132</id>
+        <link href="https://meledee.com/2026/03/4774.html?utm_source=blogfinder" />
+        <published>2026-03-26T22:20:10+08:00</published>
+        <author>
+            <name>美樂地</name>
+            <uri>https://meledee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[网站在 SSL Labs 测试中获得 A+ 评级的教程]]></summary>
+    </entry>
+        <entry>
+        <title>第六课：循环——重复的力量（for、while）</title>
+        <id>151133</id>
+        <link href="http://aboss.top/js-106-loops/?utm_source=blogfinder" />
+        <published>2026-03-26T21:47:00+08:00</published>
+        <author>
+            <name>三毛笔记</name>
+            <uri>https://aboss.top</uri>
+        </author>
+        <summary type="text"><![CDATA[第六课：循环——重复的力量（for、while）]]></summary>
+    </entry>
+        <entry>
+        <title>秩序重建</title>
+        <id>151135</id>
+        <link href="https://xuerback.com/archives/15/?utm_source=blogfinder" />
+        <published>2026-03-26T21:22:00+08:00</published>
+        <author>
+            <name>默默留叙</name>
+            <uri>https://xuerback.com</uri>
+        </author>
+        <summary type="text"><![CDATA[秩序重建]]></summary>
+    </entry>
         <entry>
         <title>同一篇文章，同时存在中文版本和英文版本，如何设置页面 SEO 信息，防止被搜索引擎认定为重复内容</title>
         <id>151128</id>
@@ -264,6 +297,17 @@
             <uri>https://blog.xxbjf.com</uri>
         </author>
         <summary type="text"><![CDATA[Uni-API（AI 接口聚合网关）部署与学习心得]]></summary>
+    </entry>
+        <entry>
+        <title>OpenClaw是什么？又值不值得安装？</title>
+        <id>151134</id>
+        <link href="https://www.xrbk.cn/post/63.html?utm_source=blogfinder" />
+        <published>2026-03-26T00:30:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://www.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenClaw是什么？又值不值得安装？]]></summary>
     </entry>
         <entry>
         <title>无人岛物语</title>
@@ -1144,27 +1188,5 @@
             <uri>https://blog.tibtob.cn</uri>
         </author>
         <summary type="text"><![CDATA[cs2之敌我不分]]></summary>
-    </entry>
-        <entry>
-        <title>盛世修典：广西美术馆特展</title>
-        <id>150884</id>
-        <link href="https://bluehe.cn/archives/shengshi-xiudian-guangxi?utm_source=blogfinder" />
-        <published>2026-03-23T22:50:00+08:00</published>
-        <author>
-            <name>云心怀鹤</name>
-            <uri>https://bluehe.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[盛世修典：广西美术馆特展]]></summary>
-    </entry>
-        <entry>
-        <title>第2封信：考古过去</title>
-        <id>150847</id>
-        <link href="https://www.javis.me/make-up-stories-of-past/?utm_source=blogfinder" />
-        <published>2026-03-23T22:30:00+08:00</published>
-        <author>
-            <name>查令十字街 84 号</name>
-            <uri>https://javis.me</uri>
-        </author>
-        <summary type="text"><![CDATA[第2封信：考古过去]]></summary>
     </entry>
     </feed>
