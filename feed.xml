@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-26T23:00:53+08:00</updated>
+    <updated>2026-03-27T00:00:18+08:00</updated>
+        <entry>
+        <title>张雪峰猝死</title>
+        <id>151139</id>
+        <link href="https://dujun.io/28f7f56d-9cd1-57ba-a86d-5342112d1eb6.html?utm_source=blogfinder" />
+        <published>2026-03-26T23:44:47+08:00</published>
+        <author>
+            <name>杜郎俊赏</name>
+            <uri>https://dujun.io</uri>
+        </author>
+        <summary type="text"><![CDATA[张雪峰猝死]]></summary>
+    </entry>
+        <entry>
+        <title>20260321</title>
+        <id>151136</id>
+        <link href="https://61.life/2026/0321?utm_source=blogfinder" />
+        <published>2026-03-26T22:23:58+08:00</published>
+        <author>
+            <name>61’s life</name>
+            <uri>https://61.life</uri>
+        </author>
+        <summary type="text"><![CDATA[20260321]]></summary>
+    </entry>
         <entry>
         <title>网站在 SSL Labs 测试中获得 A+ 评级的教程</title>
         <id>151132</id>
@@ -46,6 +68,17 @@
         <summary type="text"><![CDATA[秩序重建]]></summary>
     </entry>
         <entry>
+        <title>Linux上df和du统计磁盘占用大小差异分析</title>
+        <id>151138</id>
+        <link href="https://chegva.com/6509.html?utm_source=blogfinder" />
+        <published>2026-03-26T20:59:28+08:00</published>
+        <author>
+            <name>安志合的学习博客</name>
+            <uri>https://chegva.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Linux上df和du统计磁盘占用大小差异分析]]></summary>
+    </entry>
+        <entry>
         <title>同一篇文章，同时存在中文版本和英文版本，如何设置页面 SEO 信息，防止被搜索引擎认定为重复内容</title>
         <id>151128</id>
         <link href="https://www.sunzhongwei.com/how-set-page-seo-information-same-article-multi-languages?utm_source=blogfinder" />
@@ -66,6 +99,17 @@
             <uri>https://www.friendcc.com</uri>
         </author>
         <summary type="text"><![CDATA[杭州一日行，西湖半日人间半程]]></summary>
+    </entry>
+        <entry>
+        <title>20260320</title>
+        <id>151137</id>
+        <link href="https://61.life/2026/0320?utm_source=blogfinder" />
+        <published>2026-03-26T20:35:34+08:00</published>
+        <author>
+            <name>61’s life</name>
+            <uri>https://61.life</uri>
+        </author>
+        <summary type="text"><![CDATA[20260320]]></summary>
     </entry>
         <entry>
         <title>这一口，还是那个味儿</title>
@@ -1166,27 +1210,5 @@
             <uri>https://yourlai.icu</uri>
         </author>
         <summary type="text"><![CDATA[给博客增加一个说说模块]]></summary>
-    </entry>
-        <entry>
-        <title>关于本人曾用域名 cunzher.cn 的风险提醒与声明</title>
-        <id>150906</id>
-        <link href="https://bi1vmm.cn/index.php/archives/112/?utm_source=blogfinder" />
-        <published>2026-03-23T23:09:00+08:00</published>
-        <author>
-            <name>喂猫猫</name>
-            <uri>https://bi1vmm.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[关于本人曾用域名 cunzher.cn 的风险提醒与声明]]></summary>
-    </entry>
-        <entry>
-        <title>cs2之敌我不分</title>
-        <id>150886</id>
-        <link href="https://blog.tibtob.cn/archives/45/?utm_source=blogfinder" />
-        <published>2026-03-23T23:02:00+08:00</published>
-        <author>
-            <name>拾音博客</name>
-            <uri>https://blog.tibtob.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[cs2之敌我不分]]></summary>
     </entry>
     </feed>
