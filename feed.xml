@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-26T19:02:28+08:00</updated>
+    <updated>2026-03-26T20:00:20+08:00</updated>
         <entry>
         <title>《我改变的事物》让我想起《杀生》</title>
         <id>151119</id>
@@ -55,6 +55,17 @@
             <uri>https://jyblog.cn</uri>
         </author>
         <summary type="text"><![CDATA[Github将使用用户数据来训练AI大模型]]></summary>
+    </entry>
+        <entry>
+        <title>去营地整点 FLAC</title>
+        <id>151124</id>
+        <link href="https://www.geedea.pro/article/got-flac/?utm_source=blogfinder" />
+        <published>2026-03-26T12:38:33+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[去营地整点 FLAC]]></summary>
     </entry>
         <entry>
         <title>从张雪峰聊到认知水平</title>
@@ -363,6 +374,17 @@
             <uri>https://www.dao.js.cn</uri>
         </author>
         <summary type="text"><![CDATA[李懋和：我认为AI中文名应该叫做太监]]></summary>
+    </entry>
+        <entry>
+        <title>6岁生日</title>
+        <id>151123</id>
+        <link href="https://shuiba.co/popo-6th-birthday?utm_source=blogfinder" />
+        <published>2026-03-25T17:34:00+08:00</published>
+        <author>
+            <name>水八口的冥想盆</name>
+            <uri>https://shuiba.co</uri>
+        </author>
+        <summary type="text"><![CDATA[6岁生日]]></summary>
     </entry>
         <entry>
         <title>Phoenix监控平台技术解析（二）：HTTP通信通道——请求/响应模型与RestTemplate封装</title>
@@ -1122,49 +1144,5 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[熵增的Agent]]></summary>
-    </entry>
-        <entry>
-        <title>违停免罚</title>
-        <id>150844</id>
-        <link href="https://dujun.io/f9349af6-8dc3-5a86-ae5f-0e2ee2dfd5b4.html?utm_source=blogfinder" />
-        <published>2026-03-23T19:25:00+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[违停免罚]]></summary>
-    </entry>
-        <entry>
-        <title>重要通知-请更新我的GPG公钥</title>
-        <id>150904</id>
-        <link href="https://xingwangzhe.fun/posts/2026-3-gpg-update/?utm_source=blogfinder" />
-        <published>2026-03-23T19:19:20+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[重要通知-请更新我的GPG公钥]]></summary>
-    </entry>
-        <entry>
-        <title>活着</title>
-        <id>150887</id>
-        <link href="https://shuiba.co/just-to-live?utm_source=blogfinder" />
-        <published>2026-03-23T19:15:00+08:00</published>
-        <author>
-            <name>水八口的冥想盆</name>
-            <uri>https://shuiba.co</uri>
-        </author>
-        <summary type="text"><![CDATA[活着]]></summary>
-    </entry>
-        <entry>
-        <title>众安银行</title>
-        <id>150838</id>
-        <link href="https://retire50blog.wang/invest/%e4%bc%97%e5%ae%89%e9%93%b6%e8%a1%8c.html?utm_source=blogfinder" />
-        <published>2026-03-23T19:03:04+08:00</published>
-        <author>
-            <name>个人工作记录</name>
-            <uri>https://retire50blog.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[众安银行]]></summary>
     </entry>
     </feed>
