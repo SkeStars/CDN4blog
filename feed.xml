@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-26T11:02:01+08:00</updated>
+    <updated>2026-03-26T13:03:18+08:00</updated>
+        <entry>
+        <title>xmlrpc.php 是什么？为什么它成了黑客的最爱？</title>
+        <id>151113</id>
+        <link href="https://www.evan.xin/4896/?utm_source=blogfinder" />
+        <published>2026-03-26T10:59:57+08:00</published>
+        <author>
+            <name>Evan&#039;s Space</name>
+            <uri>https://www.evan.xin</uri>
+        </author>
+        <summary type="text"><![CDATA[xmlrpc.php 是什么？为什么它成了黑客的最爱？]]></summary>
+    </entry>
         <entry>
         <title>禁止 Github Copilot 把我的代码用于训练 AI 模型</title>
         <id>151109</id>
@@ -165,6 +176,17 @@
             <uri>https://zhujay.com</uri>
         </author>
         <summary type="text"><![CDATA[校园里的“寄宿楼”]]></summary>
+    </entry>
+        <entry>
+        <title>香港资金回国方案比较</title>
+        <id>151112</id>
+        <link href="https://retire50blog.wang/invest/%e9%a6%99%e6%b8%af%e8%b5%84%e9%87%91%e5%9b%9e%e5%9b%bd%e6%96%b9%e6%a1%88%e6%af%94%e8%be%83.html?utm_source=blogfinder" />
+        <published>2026-03-25T21:09:58+08:00</published>
+        <author>
+            <name>个人工作记录</name>
+            <uri>https://retire50blog.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[香港资金回国方案比较]]></summary>
     </entry>
         <entry>
         <title>这两天终于把「法语记忆」iOS 版 app 提交审核了</title>
@@ -1199,49 +1221,5 @@
             <uri>https://www.zywvvd.com</uri>
         </author>
         <summary type="text"><![CDATA[分段五次多项式插值原理详解]]></summary>
-    </entry>
-        <entry>
-        <title>第一次用快手差点弄成零元购</title>
-        <id>150822</id>
-        <link href="https://www.pgoj.top/archives/kuaishou-zero-yuan-shopping.html?utm_source=blogfinder" />
-        <published>2026-03-23T12:10:25+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[第一次用快手差点弄成零元购]]></summary>
-    </entry>
-        <entry>
-        <title>那些不受欢迎的想法・贰</title>
-        <id>151041</id>
-        <link href="https://blog.cytrogen.icu/posts/eac7.html?utm_source=blogfinder" />
-        <published>2026-03-23T12:00:00+08:00</published>
-        <author>
-            <name>Cytrogen&#039;s Blog</name>
-            <uri>https://blog.cytrogen.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[那些不受欢迎的想法・贰]]></summary>
-    </entry>
-        <entry>
-        <title>巨婴的现世报</title>
-        <id>150820</id>
-        <link href="https://onojyun.com/2026/03/23/karma-of-man-child/?utm_source=blogfinder" />
-        <published>2026-03-23T11:24:37+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://onojyun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[巨婴的现世报]]></summary>
-    </entry>
-        <entry>
-        <title>微信小游戏开发，技术选型 Cocos 对比 Godot</title>
-        <id>150824</id>
-        <link href="https://www.sunzhongwei.com/wechat-mini-game-dev-cocos-vs-godot?utm_source=blogfinder" />
-        <published>2026-03-23T11:16:22+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[微信小游戏开发，技术选型 Cocos 对比 Godot]]></summary>
     </entry>
     </feed>
