@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-26T17:00:22+08:00</updated>
+    <updated>2026-03-26T19:02:28+08:00</updated>
         <entry>
         <title>《我改变的事物》让我想起《杀生》</title>
         <id>151119</id>
@@ -77,6 +77,17 @@
             <uri>https://www.youdiandongxi.com</uri>
         </author>
         <summary type="text"><![CDATA[在Nuxt4中集成Drizzle ORM + SQLite加密]]></summary>
+    </entry>
+        <entry>
+        <title>Copilot将使用交互数据来训练</title>
+        <id>151122</id>
+        <link href="https://xingwangzhe.fun/posts/copilot-train/?utm_source=blogfinder" />
+        <published>2026-03-26T11:30:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Copilot将使用交互数据来训练]]></summary>
     </entry>
         <entry>
         <title>xmlrpc.php 是什么？为什么它成了黑客的最爱？</title>
@@ -1155,60 +1166,5 @@
             <uri>https://retire50blog.wang</uri>
         </author>
         <summary type="text"><![CDATA[众安银行]]></summary>
-    </entry>
-        <entry>
-        <title>《去月球》后的新游戏：《Rakuen》</title>
-        <id>150839</id>
-        <link href="https://blog.mcenahle.org.cn/2026/03/23/443.html?utm_source=blogfinder" />
-        <published>2026-03-23T18:37:00+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[《去月球》后的新游戏：《Rakuen》]]></summary>
-    </entry>
-        <entry>
-        <title>在工某某行办理换新卡，被工作人员私自开通西南证券账户</title>
-        <id>150833</id>
-        <link href="https://www.bufanz.com/20260323490.html?utm_source=blogfinder" />
-        <published>2026-03-23T17:47:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[在工某某行办理换新卡，被工作人员私自开通西南证券账户]]></summary>
-    </entry>
-        <entry>
-        <title>高压计量电度表报逆相序问题</title>
-        <id>150837</id>
-        <link href="https://www.aiwazi.com/2989.html?utm_source=blogfinder" />
-        <published>2026-03-23T17:37:24+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[高压计量电度表报逆相序问题]]></summary>
-    </entry>
-        <entry>
-        <title>尝试从情绪中走出</title>
-        <id>150885</id>
-        <link href="https://imqi1.com/note/998?utm_source=blogfinder" />
-        <published>2026-03-23T17:13:01+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[尝试从情绪中走出]]></summary>
-    </entry>
-        <entry>
-        <title>换了新的笔记本，旧的丢？</title>
-        <id>150898</id>
-        <link href="https://b.ncii.cn/archives/s9yCixnq?utm_source=blogfinder" />
-        <published>2026-03-23T17:00:44+08:00</published>
-        <author>
-            <name>卖烤肉博客</name>
-            <uri>https://b.ncii.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[换了新的笔记本，旧的丢？]]></summary>
     </entry>
     </feed>
