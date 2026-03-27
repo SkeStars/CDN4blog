@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-27T19:02:51+08:00</updated>
+    <updated>2026-03-27T20:00:25+08:00</updated>
         <entry>
         <title>童年游戏</title>
         <id>151249</id>
@@ -33,6 +33,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[告别 iFlow CLI，用 Qwen Code 继续撸免费的羊毛]]></summary>
+    </entry>
+        <entry>
+        <title>Blog近期更新：Hexo升级至8.1.0，同步功能失效调整，代码高亮完善...</title>
+        <id>151250</id>
+        <link href="https://www.youdiandongxi.com/article/blog-new-upgrade.html?utm_source=blogfinder" />
+        <published>2026-03-27T14:49:45+08:00</published>
+        <author>
+            <name>有点东西</name>
+            <uri>https://www.youdiandongxi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Blog近期更新：Hexo升级至8.1.0，同步功能失效调整，代码高亮完善...]]></summary>
     </entry>
         <entry>
         <title>被 HR 上了一课，原来我的全日制第一学历理解是错的</title>
@@ -1331,38 +1342,5 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 5 捕食行为]]></summary>
-    </entry>
-        <entry>
-        <title>不要为了自己人生以外的事情内耗</title>
-        <id>150924</id>
-        <link href="https://joojen.com/archives/8886.html?utm_source=blogfinder" />
-        <published>2026-03-24T19:29:34+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[不要为了自己人生以外的事情内耗]]></summary>
-    </entry>
-        <entry>
-        <title>穿越不过是心中的妄念罢了</title>
-        <id>150926</id>
-        <link href="https://www.pgoj.top/archives/chuanyuexiaoshuo.html?utm_source=blogfinder" />
-        <published>2026-03-24T19:15:24+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[穿越不过是心中的妄念罢了]]></summary>
-    </entry>
-        <entry>
-        <title>跨越一周的历程</title>
-        <id>150930</id>
-        <link href="https://blog.mcenahle.org.cn/2026/03/24/444.html?utm_source=blogfinder" />
-        <published>2026-03-24T19:06:02+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[跨越一周的历程]]></summary>
     </entry>
     </feed>
