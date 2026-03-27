@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-27T13:02:51+08:00</updated>
+    <updated>2026-03-27T15:06:36+08:00</updated>
+        <entry>
+        <title>看不懂就去问问 AI 吧！</title>
+        <id>151236</id>
+        <link href="https://onojyun.com/2026/03/27/i-dont-understand-is-the-real-answer/?utm_source=blogfinder" />
+        <published>2026-03-27T13:37:47+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://onojyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[看不懂就去问问 AI 吧！]]></summary>
+    </entry>
         <entry>
         <title>前段时间因吃了辣白菜导致口水增多、有嗳气，后来靠AI的建议恢复得不错</title>
         <id>151225</id>
@@ -143,6 +154,17 @@
             <uri>https://hisherry.com</uri>
         </author>
         <summary type="text"><![CDATA[桃林镇（1）]]></summary>
+    </entry>
+        <entry>
+        <title>Zed 编辑器 — 可以平替VSCode并支持AICoding的编辑器</title>
+        <id>151237</id>
+        <link href="https://jyblog.cn/5171/?utm_source=blogfinder" />
+        <published>2026-03-27T01:26:59+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Zed 编辑器 — 可以平替VSCode并支持AICoding的编辑器]]></summary>
     </entry>
         <entry>
         <title>前端工程化与DevOps实践</title>
@@ -1298,38 +1320,5 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[Word 文档经 golang  nguyenthenguyen/docx 处理后，表格单元格行高变小]]></summary>
-    </entry>
-        <entry>
-        <title>一切从头来过</title>
-        <id>150905</id>
-        <link href="https://airy.ink/daily/434?utm_source=blogfinder" />
-        <published>2026-03-24T14:07:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[一切从头来过]]></summary>
-    </entry>
-        <entry>
-        <title>【景点篇】望江楼公园</title>
-        <id>150894</id>
-        <link href="https://liuqingwushui.top/archives/146/?utm_source=blogfinder" />
-        <published>2026-03-24T13:55:21+08:00</published>
-        <author>
-            <name>流情的博客</name>
-            <uri>https://liuqingwushui.top</uri>
-        </author>
-        <summary type="text"><![CDATA[【景点篇】望江楼公园]]></summary>
-    </entry>
-        <entry>
-        <title>2026-03-24 13:12</title>
-        <id>150900</id>
-        <link href="https://koobai.com/laodao/2026/03/20260324-131232/?utm_source=blogfinder" />
-        <published>2026-03-24T13:12:32+08:00</published>
-        <author>
-            <name>Koobai</name>
-            <uri>https://koobai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-03-24 13:12]]></summary>
     </entry>
     </feed>
