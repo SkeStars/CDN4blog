@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-27T15:06:36+08:00</updated>
+    <updated>2026-03-27T17:00:21+08:00</updated>
+        <entry>
+        <title>告别 iFlow CLI，用 Qwen Code 继续撸免费的羊毛</title>
+        <id>151242</id>
+        <link href="https://www.suiyan.cc/blog/20260327084101/?utm_source=blogfinder" />
+        <published>2026-03-27T16:41:01+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[告别 iFlow CLI，用 Qwen Code 继续撸免费的羊毛]]></summary>
+    </entry>
+        <entry>
+        <title>被 HR 上了一课，原来我的全日制第一学历理解是错的</title>
+        <id>151238</id>
+        <link href="https://www.sunzhongwei.com/full-time-first-degree?utm_source=blogfinder" />
+        <published>2026-03-27T14:47:59+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[被 HR 上了一课，原来我的全日制第一学历理解是错的]]></summary>
+    </entry>
+        <entry>
+        <title>不出钱就闭嘴</title>
+        <id>151244</id>
+        <link href="https://blog.solazy.me/20260327/?utm_source=blogfinder" />
+        <published>2026-03-27T14:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[不出钱就闭嘴]]></summary>
+    </entry>
         <entry>
         <title>看不懂就去问问 AI 吧！</title>
         <id>151236</id>
@@ -24,6 +57,28 @@
         <summary type="text"><![CDATA[看不懂就去问问 AI 吧！]]></summary>
     </entry>
         <entry>
+        <title>读博随笔 | 其实这个世界上没有多少所谓高能量人，只是被成功学过度神话罢了</title>
+        <id>151239</id>
+        <link href="https://www.52txr.cn/2026/gaonengliang.html?utm_source=blogfinder" />
+        <published>2026-03-27T12:59:00+08:00</published>
+        <author>
+            <name>陶小桃</name>
+            <uri>https://www.52txr.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[读博随笔 | 其实这个世界上没有多少所谓高能量人，只是被成功学过度神话罢了]]></summary>
+    </entry>
+        <entry>
+        <title>起伏不定的多巴胺，梳不直的粗硬髮</title>
+        <id>151241</id>
+        <link href="https://blog.giveanornot.com/dopamine-curly-hair/?utm_source=blogfinder" />
+        <published>2026-03-27T12:29:00+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[起伏不定的多巴胺，梳不直的粗硬髮]]></summary>
+    </entry>
+        <entry>
         <title>前段时间因吃了辣白菜导致口水增多、有嗳气，后来靠AI的建议恢复得不错</title>
         <id>151225</id>
         <link href="https://www.bufanz.com/20260327499.html?utm_source=blogfinder" />
@@ -33,6 +88,28 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[前段时间因吃了辣白菜导致口水增多、有嗳气，后来靠AI的建议恢复得不错]]></summary>
+    </entry>
+        <entry>
+        <title>挖矿GPU CMP 90HX Linux下可玩性测试报告</title>
+        <id>151243</id>
+        <link href="https://www.nekopara.uk/archives/90HX_Test.html?utm_source=blogfinder" />
+        <published>2026-03-27T11:39:25+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[挖矿GPU CMP 90HX Linux下可玩性测试报告]]></summary>
+    </entry>
+        <entry>
+        <title>三月更加重要</title>
+        <id>151240</id>
+        <link href="https://joojen.com/archives/8889.html?utm_source=blogfinder" />
+        <published>2026-03-27T11:21:06+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[三月更加重要]]></summary>
     </entry>
         <entry>
         <title>2026-03-27 11:10</title>
@@ -1243,82 +1320,5 @@
             <uri>https://blog.mfwt.top</uri>
         </author>
         <summary type="text"><![CDATA[请正确设置 HTML 的『页面语言』属性]]></summary>
-    </entry>
-        <entry>
-        <title>phoenix云监控平台动态线程池使用文档</title>
-        <id>150940</id>
-        <link href="https://kacper.fun/blog/138?utm_source=blogfinder" />
-        <published>2026-03-24T16:50:49+08:00</published>
-        <author>
-            <name>知录</name>
-            <uri>https://kacper.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[phoenix云监控平台动态线程池使用文档]]></summary>
-    </entry>
-        <entry>
-        <title>Kagi Translate 使用分享</title>
-        <id>150927</id>
-        <link href="https://taxodium.ink/my-experience-with-kagi-translate.html?utm_source=blogfinder" />
-        <published>2026-03-24T16:40:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[Kagi Translate 使用分享]]></summary>
-    </entry>
-        <entry>
-        <title>2026.3.24</title>
-        <id>150901</id>
-        <link href="https://www.justzht.com/2026-3-24/?utm_source=blogfinder" />
-        <published>2026-03-24T16:15:45+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.3.24]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 8 近独立子体系分布</title>
-        <id>150897</id>
-        <link href="https://physnya.top/statistical-mechanics/lesson-8-independent-particle-distribution/?utm_source=blogfinder" />
-        <published>2026-03-24T15:29:52+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 8 近独立子体系分布]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 9 Schwarzschild 黑洞 (2)</title>
-        <id>150896</id>
-        <link href="https://physnya.top/GR/lesson-9-schwarzschild-black-hole/?utm_source=blogfinder" />
-        <published>2026-03-24T15:29:52+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 9 Schwarzschild 黑洞 (2)]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 8 Schwarzschild 黑洞</title>
-        <id>150895</id>
-        <link href="https://physnya.top/GR/lesson-8-schwarzschild-black-hole/?utm_source=blogfinder" />
-        <published>2026-03-24T15:29:52+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 8 Schwarzschild 黑洞]]></summary>
-    </entry>
-        <entry>
-        <title>Word 文档经 golang  nguyenthenguyen/docx 处理后，表格单元格行高变小</title>
-        <id>150899</id>
-        <link href="https://www.sunzhongwei.com/word-table-cell-height?utm_source=blogfinder" />
-        <published>2026-03-24T15:29:27+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Word 文档经 golang  nguyenthenguyen/docx 处理后，表格单元格行高变小]]></summary>
     </entry>
     </feed>
