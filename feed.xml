@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-28T15:01:57+08:00</updated>
+    <updated>2026-03-28T17:00:24+08:00</updated>
+        <entry>
+        <title>中国移动，叫我如何再爱你？</title>
+        <id>151306</id>
+        <link href="https://www.aiwazi.com/3034.html?utm_source=blogfinder" />
+        <published>2026-03-28T12:59:13+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[中国移动，叫我如何再爱你？]]></summary>
+    </entry>
+        <entry>
+        <title>寓言：糊房子</title>
+        <id>151304</id>
+        <link href="https://blog.deepchirp.com/2026/03/28/A-Fable-Papering-the-House/?utm_source=blogfinder" />
+        <published>2026-03-28T12:13:43+08:00</published>
+        <author>
+            <name>空鸣深语</name>
+            <uri>https://blog.deepchirp.com</uri>
+        </author>
+        <summary type="text"><![CDATA[寓言：糊房子]]></summary>
+    </entry>
         <entry>
         <title>国宝的前世今生：痛惜《江南春》的命运</title>
         <id>151302</id>
@@ -319,6 +341,17 @@
             <uri>https://www.52txr.cn</uri>
         </author>
         <summary type="text"><![CDATA[读博随笔 | 读研时手搓的第一个发明专利终于授权了，根本不需要花冤枉钱找代理机构]]></summary>
+    </entry>
+        <entry>
+        <title>裝</title>
+        <id>151305</id>
+        <link href="https://blog.giveanornot.com/fake-it/?utm_source=blogfinder" />
+        <published>2026-03-27T16:36:47+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[裝]]></summary>
     </entry>
         <entry>
         <title>正点原子串口例程中开发板无法收信问题</title>
@@ -1452,38 +1485,5 @@
             <uri>https://shuiba.co</uri>
         </author>
         <summary type="text"><![CDATA[6岁生日]]></summary>
-    </entry>
-        <entry>
-        <title>Phoenix监控平台技术解析（二）：HTTP通信通道——请求/响应模型与RestTemplate封装</title>
-        <id>151047</id>
-        <link href="https://kacper.fun/blog/140?utm_source=blogfinder" />
-        <published>2026-03-25T16:30:38+08:00</published>
-        <author>
-            <name>知录</name>
-            <uri>https://kacper.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[Phoenix监控平台技术解析（二）：HTTP通信通道——请求/响应模型与RestTemplate封装]]></summary>
-    </entry>
-        <entry>
-        <title>张雪峰老师走了，该拼命工作还是该珍惜身体</title>
-        <id>151050</id>
-        <link href="https://www.aiwazi.com/3011.html?utm_source=blogfinder" />
-        <published>2026-03-25T16:14:50+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[张雪峰老师走了，该拼命工作还是该珍惜身体]]></summary>
-    </entry>
-        <entry>
-        <title>JSZJK-10Q 抗谐振电压互感器怎么选型和接线</title>
-        <id>151051</id>
-        <link href="https://www.aiwazi.com/3005.html?utm_source=blogfinder" />
-        <published>2026-03-25T15:15:47+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[JSZJK-10Q 抗谐振电压互感器怎么选型和接线]]></summary>
     </entry>
     </feed>
