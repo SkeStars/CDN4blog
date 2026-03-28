@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-28T19:02:42+08:00</updated>
+    <updated>2026-03-28T21:00:23+08:00</updated>
+        <entry>
+        <title>眼不见心不烦的设置</title>
+        <id>151315</id>
+        <link href="https://ihaihe.cn/3557.htm?utm_source=blogfinder" />
+        <published>2026-03-28T19:43:00+08:00</published>
+        <author>
+            <name>三十里海河</name>
+            <uri>https://ihaihe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[眼不见心不烦的设置]]></summary>
+    </entry>
         <entry>
         <title>活着挺好！</title>
         <id>151313</id>
@@ -22,6 +33,28 @@
             <uri>https://www.luohuayu.cn</uri>
         </author>
         <summary type="text"><![CDATA[活着挺好！]]></summary>
+    </entry>
+        <entry>
+        <title>阅读文学如何帮我欣赏摇滚乐？</title>
+        <id>151316</id>
+        <link href="https://www.geedea.pro/article/rock-and-literature/?utm_source=blogfinder" />
+        <published>2026-03-28T17:08:56+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[阅读文学如何帮我欣赏摇滚乐？]]></summary>
+    </entry>
+        <entry>
+        <title>2026-03-28 16:43</title>
+        <id>151314</id>
+        <link href="https://koobai.com/laodao/2026/03/20260328-164327/?utm_source=blogfinder" />
+        <published>2026-03-28T16:43:27+08:00</published>
+        <author>
+            <name>Koobai</name>
+            <uri>https://koobai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-03-28 16:43]]></summary>
     </entry>
         <entry>
         <title>发布了Typecho主题:Netsuko</title>
@@ -55,6 +88,17 @@
             <uri>https://xingwangzhe.fun</uri>
         </author>
         <summary type="text"><![CDATA[Ubuntu26.04-beta体验:坚毅浣熊!]]></summary>
+    </entry>
+        <entry>
+        <title>我如何使用我的电子设备</title>
+        <id>151317</id>
+        <link href="https://www.glowisle.me/posts/how-i-do-my-computing/?utm_source=blogfinder" />
+        <published>2026-03-28T13:30:05+08:00</published>
+        <author>
+            <name>映屿</name>
+            <uri>https://www.glowisle.me</uri>
+        </author>
+        <summary type="text"><![CDATA[我如何使用我的电子设备]]></summary>
     </entry>
         <entry>
         <title>中国移动，叫我如何再爱你？</title>
@@ -1474,71 +1518,5 @@
             <uri>https://retire50blog.wang</uri>
         </author>
         <summary type="text"><![CDATA[香港资金回国方案比较]]></summary>
-    </entry>
-        <entry>
-        <title>这两天终于把「法语记忆」iOS 版 app 提交审核了</title>
-        <id>151061</id>
-        <link href="https://xd.sh.cn/frmemo-ios-app-20260325/?utm_source=blogfinder" />
-        <published>2026-03-25T20:59:48+08:00</published>
-        <author>
-            <name>不淡定实验室</name>
-            <uri>https://xd.sh.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[这两天终于把「法语记忆」iOS 版 app 提交审核了]]></summary>
-    </entry>
-        <entry>
-        <title>放学打球</title>
-        <id>151077</id>
-        <link href="https://blog.418121.xyz/posts/5aef4efe.html?utm_source=blogfinder" />
-        <published>2026-03-25T20:54:39+08:00</published>
-        <author>
-            <name>叶泯希</name>
-            <uri>https://blog.418121.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[放学打球]]></summary>
-    </entry>
-        <entry>
-        <title>因 LeanCloud 停止对外服务，对数据迁移至 Vercel 。</title>
-        <id>151078</id>
-        <link href="https://blog.418121.xyz/posts/88731518.html?utm_source=blogfinder" />
-        <published>2026-03-25T20:53:35+08:00</published>
-        <author>
-            <name>叶泯希</name>
-            <uri>https://blog.418121.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[因 LeanCloud 停止对外服务，对数据迁移至 Vercel 。]]></summary>
-    </entry>
-        <entry>
-        <title>保持节奏</title>
-        <id>151054</id>
-        <link href="https://hateonion.me/zh/posts/keep-pace/?utm_source=blogfinder" />
-        <published>2026-03-25T20:00:00+08:00</published>
-        <author>
-            <name>OnionTalk</name>
-            <uri>https://hateonion.me/zh/</uri>
-        </author>
-        <summary type="text"><![CDATA[保持节奏]]></summary>
-    </entry>
-        <entry>
-        <title>可托管CF的免费域名注册</title>
-        <id>151053</id>
-        <link href="https://me.xu19.com/free-domain-name/?utm_source=blogfinder" />
-        <published>2026-03-25T19:24:23+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[可托管CF的免费域名注册]]></summary>
-    </entry>
-        <entry>
-        <title>AB 工作法</title>
-        <id>151064</id>
-        <link href="https://oldj.net/article/2026/03/25/the-ab-method?utm_source=blogfinder" />
-        <published>2026-03-25T19:20:00+08:00</published>
-        <author>
-            <name>oldj&#039;s blog</name>
-            <uri>https://oldj.net</uri>
-        </author>
-        <summary type="text"><![CDATA[AB 工作法]]></summary>
     </entry>
     </feed>
