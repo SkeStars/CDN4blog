@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-28T17:00:24+08:00</updated>
+    <updated>2026-03-28T18:00:23+08:00</updated>
+        <entry>
+        <title>活着挺好！</title>
+        <id>151313</id>
+        <link href="https://www.luohuayu.cn/65.html?utm_source=blogfinder" />
+        <published>2026-03-28T17:47:00+08:00</published>
+        <author>
+            <name>落花雨记</name>
+            <uri>https://www.luohuayu.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[活着挺好！]]></summary>
+    </entry>
+        <entry>
+        <title>发布了Typecho主题:Netsuko</title>
+        <id>151310</id>
+        <link href="https://i.duckxu.com/archives/netsuko_typecho_theme.html?utm_source=blogfinder" />
+        <published>2026-03-28T15:48:34+08:00</published>
+        <author>
+            <name>DuckXu&#039;s Site</name>
+            <uri>https://i.duckxu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[发布了Typecho主题:Netsuko]]></summary>
+    </entry>
+        <entry>
+        <title>个人毕业设计展</title>
+        <id>151311</id>
+        <link href="https://imqi1.com/shot/1005?utm_source=blogfinder" />
+        <published>2026-03-28T14:45:00+08:00</published>
+        <author>
+            <name>ImQi1</name>
+            <uri>https://imqi1.com</uri>
+        </author>
+        <summary type="text"><![CDATA[个人毕业设计展]]></summary>
+    </entry>
+        <entry>
+        <title>Ubuntu26.04-beta体验:坚毅浣熊!</title>
+        <id>151312</id>
+        <link href="https://xingwangzhe.fun/posts/ubuntu-26-04-beta/?utm_source=blogfinder" />
+        <published>2026-03-28T14:17:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Ubuntu26.04-beta体验:坚毅浣熊!]]></summary>
+    </entry>
         <entry>
         <title>中国移动，叫我如何再爱你？</title>
         <id>151306</id>
@@ -22,6 +66,17 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[中国移动，叫我如何再爱你？]]></summary>
+    </entry>
+        <entry>
+        <title>上班就犯困俱乐部 徽章</title>
+        <id>151309</id>
+        <link href="http://stuit.cn/Xiaolu/Post/1604.html?utm_source=blogfinder" />
+        <published>2026-03-28T12:25:09+08:00</published>
+        <author>
+            <name>风雨行者</name>
+            <uri>http://stuit.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[上班就犯困俱乐部 徽章]]></summary>
     </entry>
         <entry>
         <title>寓言：糊房子</title>
@@ -165,6 +220,28 @@
             <uri>https://blog.tsoo.net</uri>
         </author>
         <summary type="text"><![CDATA[首次备案成功并进行服务器迁移小记]]></summary>
+    </entry>
+        <entry>
+        <title>微说 | 春天来了</title>
+        <id>151307</id>
+        <link href="https://www.xiabingbao.com/talk/t/mn915y97.html?utm_source=blogfinder" />
+        <published>2026-03-27T23:02:36+08:00</published>
+        <author>
+            <name>蚊子</name>
+            <uri>https://www.xiabingbao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[微说 | 春天来了]]></summary>
+    </entry>
+        <entry>
+        <title>明天和意外不知道哪个先来</title>
+        <id>151308</id>
+        <link href="https://www.xiabingbao.com/post/for-the-zhangxuefeng-tckc96.html?utm_source=blogfinder" />
+        <published>2026-03-27T22:58:18+08:00</published>
+        <author>
+            <name>蚊子</name>
+            <uri>https://www.xiabingbao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[明天和意外不知道哪个先来]]></summary>
     </entry>
         <entry>
         <title>Typecho优化： Mysql添加索引提高查询速度</title>
@@ -1474,16 +1551,5 @@
             <uri>https://www.dao.js.cn</uri>
         </author>
         <summary type="text"><![CDATA[李懋和：我认为AI中文名应该叫做太监]]></summary>
-    </entry>
-        <entry>
-        <title>6岁生日</title>
-        <id>151123</id>
-        <link href="https://shuiba.co/popo-6th-birthday?utm_source=blogfinder" />
-        <published>2026-03-25T17:34:00+08:00</published>
-        <author>
-            <name>水八口的冥想盆</name>
-            <uri>https://shuiba.co</uri>
-        </author>
-        <summary type="text"><![CDATA[6岁生日]]></summary>
     </entry>
     </feed>
