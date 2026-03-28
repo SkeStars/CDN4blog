@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-28T14:00:26+08:00</updated>
+    <updated>2026-03-28T15:01:57+08:00</updated>
         <entry>
         <title>国宝的前世今生：痛惜《江南春》的命运</title>
         <id>151302</id>
@@ -286,6 +286,17 @@
             <uri>https://loveapple.icu</uri>
         </author>
         <summary type="text"><![CDATA[hexo脚本：部署后自动刷新Cloudflare缓存]]></summary>
+    </entry>
+        <entry>
+        <title>[UltraVPS] UltraVPS-25Y-Special-2 德国</title>
+        <id>151303</id>
+        <link href="https://blog.yeqing.net/UltraVPS-25Y-Special-2-de/?utm_source=blogfinder" />
+        <published>2026-03-27T16:47:47+08:00</published>
+        <author>
+            <name>夜轻 Blog</name>
+            <uri>https://blog.yeqing.net</uri>
+        </author>
+        <summary type="text"><![CDATA[[UltraVPS] UltraVPS-25Y-Special-2 德国]]></summary>
     </entry>
         <entry>
         <title>告别 iFlow CLI，用 Qwen Code 继续撸免费的羊毛</title>
@@ -1474,38 +1485,5 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[JSZJK-10Q 抗谐振电压互感器怎么选型和接线]]></summary>
-    </entry>
-        <entry>
-        <title>[Geelinx] GB.LON.BGP.Darwin 英国伦敦9929 CMIN2线路机</title>
-        <id>151079</id>
-        <link href="https://blog.yeqing.net/Geelinx-uk-Darwin/?utm_source=blogfinder" />
-        <published>2026-03-25T14:44:47+08:00</published>
-        <author>
-            <name>夜轻 Blog</name>
-            <uri>https://blog.yeqing.net</uri>
-        </author>
-        <summary type="text"><![CDATA[[Geelinx] GB.LON.BGP.Darwin 英国伦敦9929 CMIN2线路机]]></summary>
-    </entry>
-        <entry>
-        <title>周末出发巴中光雾山更换高压环网柜</title>
-        <id>151052</id>
-        <link href="https://www.aiwazi.com/2998.html?utm_source=blogfinder" />
-        <published>2026-03-25T14:28:04+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[周末出发巴中光雾山更换高压环网柜]]></summary>
-    </entry>
-        <entry>
-        <title>Phoenix监控平台技术解析（一）：全景概览与架构设计</title>
-        <id>151048</id>
-        <link href="https://kacper.fun/blog/139?utm_source=blogfinder" />
-        <published>2026-03-25T14:28:03+08:00</published>
-        <author>
-            <name>知录</name>
-            <uri>https://kacper.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[Phoenix监控平台技术解析（一）：全景概览与架构设计]]></summary>
     </entry>
     </feed>
