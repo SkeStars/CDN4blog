@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-29T11:00:30+08:00</updated>
+    <updated>2026-03-29T13:02:54+08:00</updated>
+        <entry>
+        <title>我觉得医生有嫌弃我嘴馋的成份</title>
+        <id>151364</id>
+        <link href="https://chrison.cn/live/431.html?utm_source=blogfinder" />
+        <published>2026-03-29T12:04:00+08:00</published>
+        <author>
+            <name>目的地</name>
+            <uri>https://chrison.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[我觉得医生有嫌弃我嘴馋的成份]]></summary>
+    </entry>
+        <entry>
+        <title>那个集记账、基金、股票于一体的APP有了新进展</title>
+        <id>151360</id>
+        <link href="https://blog.ops-coffee.com/fire/ai-coding-integrated-finance-app-update.html?utm_source=blogfinder" />
+        <published>2026-03-29T11:15:44+08:00</published>
+        <author>
+            <name>运维咖啡吧</name>
+            <uri>https://blog.ops-coffee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[那个集记账、基金、股票于一体的APP有了新进展]]></summary>
+    </entry>
+        <entry>
+        <title>还是成品NAS好+徒步散心</title>
+        <id>151358</id>
+        <link href="https://1900.live/huan-shi-cheng-pin-nashao-tu-bu-san-xin/?utm_source=blogfinder" />
+        <published>2026-03-29T10:41:09+08:00</published>
+        <author>
+            <name>我道</name>
+            <uri>https://1900.live</uri>
+        </author>
+        <summary type="text"><![CDATA[还是成品NAS好+徒步散心]]></summary>
+    </entry>
         <entry>
         <title>微服务架构设计与治理</title>
         <id>151353</id>
@@ -44,6 +77,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[你有多久没有看过那片海]]></summary>
+    </entry>
+        <entry>
+        <title>桃林镇（2）</title>
+        <id>151359</id>
+        <link href="https://hisherry.com/storytime/4959/?utm_source=blogfinder" />
+        <published>2026-03-29T07:16:30+08:00</published>
+        <author>
+            <name>燕渡寒潭</name>
+            <uri>https://hisherry.com</uri>
+        </author>
+        <summary type="text"><![CDATA[桃林镇（2）]]></summary>
     </entry>
         <entry>
         <title>一个故事</title>
@@ -134,6 +178,17 @@
         <summary type="text"><![CDATA[三月记]]></summary>
     </entry>
         <entry>
+        <title>周末流水账 0328</title>
+        <id>151363</id>
+        <link href="https://blog.solazy.me/20260328/?utm_source=blogfinder" />
+        <published>2026-03-28T22:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0328]]></summary>
+    </entry>
+        <entry>
         <title>上课的趣事</title>
         <id>151318</id>
         <link href="https://ygz.ink/archives/4556.html?utm_source=blogfinder" />
@@ -176,6 +231,17 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[【不凡摄影作品 | 2026.3.28】]]></summary>
+    </entry>
+        <entry>
+        <title>苏州｜用一天时间，走完一整个金鸡湖</title>
+        <id>151361</id>
+        <link href="https://blog.ops-coffee.com/r/city-china-jiangsu-suzhou-jinjihu.html?utm_source=blogfinder" />
+        <published>2026-03-28T20:00:16+08:00</published>
+        <author>
+            <name>运维咖啡吧</name>
+            <uri>https://blog.ops-coffee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[苏州｜用一天时间，走完一整个金鸡湖]]></summary>
     </entry>
         <entry>
         <title>眼不见心不烦的设置</title>
@@ -1529,82 +1595,5 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[告诉你箱变内部都由那些配套组成]]></summary>
-    </entry>
-        <entry>
-        <title>Github将使用用户数据来训练AI大模型</title>
-        <id>151115</id>
-        <link href="https://jyblog.cn/5165/?utm_source=blogfinder" />
-        <published>2026-03-26T12:46:18+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Github将使用用户数据来训练AI大模型]]></summary>
-    </entry>
-        <entry>
-        <title>去营地整点 FLAC</title>
-        <id>151124</id>
-        <link href="https://www.geedea.pro/article/got-flac/?utm_source=blogfinder" />
-        <published>2026-03-26T12:38:33+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[去营地整点 FLAC]]></summary>
-    </entry>
-        <entry>
-        <title>从张雪峰聊到认知水平</title>
-        <id>151114</id>
-        <link href="https://onojyun.com/2026/03/26/the-problem-of-binary-thinking/?utm_source=blogfinder" />
-        <published>2026-03-26T11:51:47+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://onojyun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[从张雪峰聊到认知水平]]></summary>
-    </entry>
-        <entry>
-        <title>在Nuxt4中集成Drizzle ORM + SQLite加密</title>
-        <id>151116</id>
-        <link href="https://www.youdiandongxi.com/article/nuxt-with-drizzle-and-turso.html?utm_source=blogfinder" />
-        <published>2026-03-26T11:32:21+08:00</published>
-        <author>
-            <name>有点东西</name>
-            <uri>https://www.youdiandongxi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[在Nuxt4中集成Drizzle ORM + SQLite加密]]></summary>
-    </entry>
-        <entry>
-        <title>Copilot将使用交互数据来训练</title>
-        <id>151122</id>
-        <link href="https://xingwangzhe.fun/posts/copilot-train/?utm_source=blogfinder" />
-        <published>2026-03-26T11:30:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[Copilot将使用交互数据来训练]]></summary>
-    </entry>
-        <entry>
-        <title>医学之外，我在折腾些什么</title>
-        <id>151141</id>
-        <link href="https://www.david03.top/index.php/archives/448/?utm_source=blogfinder" />
-        <published>2026-03-26T11:04:00+08:00</published>
-        <author>
-            <name>David の 3 号基地</name>
-            <uri>https://www.david03.top</uri>
-        </author>
-        <summary type="text"><![CDATA[医学之外，我在折腾些什么]]></summary>
-    </entry>
-        <entry>
-        <title>三句话400万tokens，难怪这么多厂商都去搞OpenClaw</title>
-        <id>151224</id>
-        <link href="https://lawtee.com/article/ai-tokens/?utm_source=blogfinder" />
-        <published>2026-03-26T11:02:06+08:00</published>
-        <author>
-            <name>老 T 博客</name>
-            <uri>https://lawtee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[三句话400万tokens，难怪这么多厂商都去搞OpenClaw]]></summary>
     </entry>
     </feed>
