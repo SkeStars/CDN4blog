@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-29T15:16:50+08:00</updated>
+    <updated>2026-03-29T17:00:35+08:00</updated>
+        <entry>
+        <title>胡拉图的周刊 第十三期</title>
+        <id>151373</id>
+        <link href="https://hulatu.com/posts/2026/03/29/newsletter-weekly/?utm_source=blogfinder" />
+        <published>2026-03-29T13:21:37+08:00</published>
+        <author>
+            <name>胡拉图的后花园</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[胡拉图的周刊 第十三期]]></summary>
+    </entry>
         <entry>
         <title>微信聊天记录查看导出工具 WeFlow v4.2.1</title>
         <id>151367</id>
@@ -33,6 +44,17 @@
             <uri>https://www.zhyok.cn</uri>
         </author>
         <summary type="text"><![CDATA[火绒强力卸载工具Beta版 Huorong Uninstaller v1.0.0.3]]></summary>
+    </entry>
+        <entry>
+        <title>第一次用 AI 开发 Cocos 小游戏，我才认识到 MCP 的重要性</title>
+        <id>151370</id>
+        <link href="https://www.sunzhongwei.com/cocos-mcp?utm_source=blogfinder" />
+        <published>2026-03-29T12:30:32+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[第一次用 AI 开发 Cocos 小游戏，我才认识到 MCP 的重要性]]></summary>
     </entry>
         <entry>
         <title>我觉得医生有嫌弃我嘴馋的成份</title>
@@ -165,6 +187,17 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[动态规划与贪心算法高级应用]]></summary>
+    </entry>
+        <entry>
+        <title>OpenClaw 连接微信教程：手机端直接用AI助手</title>
+        <id>151371</id>
+        <link href="https://www.wangdu.site/course/2327.html?utm_source=blogfinder" />
+        <published>2026-03-28T23:47:23+08:00</published>
+        <author>
+            <name>文武科技柜</name>
+            <uri>https://www.wangdu.site</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenClaw 连接微信教程：手机端直接用AI助手]]></summary>
     </entry>
         <entry>
         <title>抄都抄不来</title>
@@ -385,6 +418,17 @@
             <uri>https://imqi1.com</uri>
         </author>
         <summary type="text"><![CDATA[个人毕业设计展]]></summary>
+    </entry>
+        <entry>
+        <title>花一小时，我和 AI 做了个错题本 app</title>
+        <id>151372</id>
+        <link href="http://www.jinhuaiyao.com/posts/spent-an-hour-creating-a-wrong-question-book-app-with-ai/?utm_source=blogfinder" />
+        <published>2026-03-28T14:23:43+08:00</published>
+        <author>
+            <name>Huaiyao Jin</name>
+            <uri>https://www.jinhuaiyao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[花一小时，我和 AI 做了个错题本 app]]></summary>
     </entry>
         <entry>
         <title>Ubuntu26.04-beta体验:坚毅浣熊!</title>
@@ -1573,49 +1617,5 @@
             <uri>https://mojue88.com</uri>
         </author>
         <summary type="text"><![CDATA[大哥别爆破我后台密码了！！]]></summary>
-    </entry>
-        <entry>
-        <title>一直坚持的副业，有起色了</title>
-        <id>151165</id>
-        <link href="https://zhoutian.com/355.html?utm_source=blogfinder" />
-        <published>2026-03-26T16:10:00+08:00</published>
-        <author>
-            <name>周天记</name>
-            <uri>https://zhoutian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[一直坚持的副业，有起色了]]></summary>
-    </entry>
-        <entry>
-        <title>4天烧掉1亿Token，我的OpenClaw龙虾&quot;死&quot;了教我的事</title>
-        <id>151126</id>
-        <link href="https://www.wangdu.site/course/2326.html?utm_source=blogfinder" />
-        <published>2026-03-26T15:44:26+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[4天烧掉1亿Token，我的OpenClaw龙虾&quot;死&quot;了教我的事]]></summary>
-    </entry>
-        <entry>
-        <title>鱼论：穿越知识的坠落与诅咒，寻找锚点与未来</title>
-        <id>151158</id>
-        <link href="https://loveapple.icu/view-2/?utm_source=blogfinder" />
-        <published>2026-03-26T15:28:47+08:00</published>
-        <author>
-            <name>LoveApple14434</name>
-            <uri>https://loveapple.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[鱼论：穿越知识的坠落与诅咒，寻找锚点与未来]]></summary>
-    </entry>
-        <entry>
-        <title>使用fMRIPrep对功能磁共振数据进行预处理</title>
-        <id>151140</id>
-        <link href="https://alexbrain.cn/?p=884&amp;utm_source=blogfinder" />
-        <published>2026-03-26T15:25:03+08:00</published>
-        <author>
-            <name>Alex 的学习笔记</name>
-            <uri>https://alexbrain.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[使用fMRIPrep对功能磁共振数据进行预处理]]></summary>
     </entry>
     </feed>
