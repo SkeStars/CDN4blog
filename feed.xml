@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-29T17:00:35+08:00</updated>
+    <updated>2026-03-29T18:00:44+08:00</updated>
         <entry>
         <title>胡拉图的周刊 第十三期</title>
         <id>151373</id>
@@ -176,6 +176,17 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[技术文档编写与知识管理]]></summary>
+    </entry>
+        <entry>
+        <title>松声｜廿六年·三月花·海棠开</title>
+        <id>151374</id>
+        <link href="https://xyzbz.cn/archives/1523/?utm_source=blogfinder" />
+        <published>2026-03-29T03:32:22+08:00</published>
+        <author>
+            <name>网友小宋</name>
+            <uri>https://xyzbz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[松声｜廿六年·三月花·海棠开]]></summary>
     </entry>
         <entry>
         <title>动态规划与贪心算法高级应用</title>
@@ -1606,16 +1617,5 @@
             <uri>https://xeonzilla.top</uri>
         </author>
         <summary type="text"><![CDATA[现在多闻君是哪一面！？]]></summary>
-    </entry>
-        <entry>
-        <title>大哥别爆破我后台密码了！！</title>
-        <id>151281</id>
-        <link href="https://mojue88.com/110/?utm_source=blogfinder" />
-        <published>2026-03-26T17:09:52+08:00</published>
-        <author>
-            <name>墨觉の日记</name>
-            <uri>https://mojue88.com</uri>
-        </author>
-        <summary type="text"><![CDATA[大哥别爆破我后台密码了！！]]></summary>
     </entry>
     </feed>
