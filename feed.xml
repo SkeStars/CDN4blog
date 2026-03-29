@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-29T21:00:24+08:00</updated>
+    <updated>2026-03-29T22:00:46+08:00</updated>
+        <entry>
+        <title>呆了这么久还是不愿离开的杭州</title>
+        <id>151378</id>
+        <link href="https://www.friendcc.com/615.html?utm_source=blogfinder" />
+        <published>2026-03-29T21:45:08+08:00</published>
+        <author>
+            <name>梦不见的梦</name>
+            <uri>https://www.friendcc.com</uri>
+        </author>
+        <summary type="text"><![CDATA[呆了这么久还是不愿离开的杭州]]></summary>
+    </entry>
+        <entry>
+        <title>一碗红烧牛肉面，和它串起的几十年</title>
+        <id>151380</id>
+        <link href="https://iliu.org/posts/red-braised-beef-noodles-and-the-twenty-years-they-connect/?utm_source=blogfinder" />
+        <published>2026-03-29T20:09:00+08:00</published>
+        <author>
+            <name>老刘博客</name>
+            <uri>https://iliu.org</uri>
+        </author>
+        <summary type="text"><![CDATA[一碗红烧牛肉面，和它串起的几十年]]></summary>
+    </entry>
+        <entry>
+        <title>突发：GitHub 正遭受大规模 Issue 赌博广告轰炸</title>
+        <id>151379</id>
+        <link href="https://xingwangzhe.fun/posts/github-issue-spam-bombing-20260329/?utm_source=blogfinder" />
+        <published>2026-03-29T19:29:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[突发：GitHub 正遭受大规模 Issue 赌博广告轰炸]]></summary>
+    </entry>
         <entry>
         <title>考了个计算机二级，想了很多</title>
         <id>151375</id>
@@ -1496,49 +1529,5 @@
             <uri>https://meledee.com</uri>
         </author>
         <summary type="text"><![CDATA[网站在 SSL Labs 测试中获得 A+ 评级的教程]]></summary>
-    </entry>
-        <entry>
-        <title>换宽带记（下）：继续的续费</title>
-        <id>151246</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1203/?utm_source=blogfinder" />
-        <published>2026-03-26T22:00:00+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[换宽带记（下）：继续的续费]]></summary>
-    </entry>
-        <entry>
-        <title>禁用 GitHub Copilot 交互数据进行 AI 模型训练</title>
-        <id>151264</id>
-        <link href="https://www.51it.wang/ll/2171?utm_source=blogfinder" />
-        <published>2026-03-26T21:49:00+08:00</published>
-        <author>
-            <name>Lcry</name>
-            <uri>https://www.51it.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[禁用 GitHub Copilot 交互数据进行 AI 模型训练]]></summary>
-    </entry>
-        <entry>
-        <title>第六课：循环——重复的力量（for、while）</title>
-        <id>151133</id>
-        <link href="http://aboss.top/js-106-loops/?utm_source=blogfinder" />
-        <published>2026-03-26T21:47:00+08:00</published>
-        <author>
-            <name>三毛笔记</name>
-            <uri>https://aboss.top</uri>
-        </author>
-        <summary type="text"><![CDATA[第六课：循环——重复的力量（for、while）]]></summary>
-    </entry>
-        <entry>
-        <title>秩序重建</title>
-        <id>151135</id>
-        <link href="https://xuerback.com/archives/15/?utm_source=blogfinder" />
-        <published>2026-03-26T21:22:00+08:00</published>
-        <author>
-            <name>默默留叙</name>
-            <uri>https://xuerback.com</uri>
-        </author>
-        <summary type="text"><![CDATA[秩序重建]]></summary>
     </entry>
     </feed>
