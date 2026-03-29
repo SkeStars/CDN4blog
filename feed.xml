@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-29T19:01:02+08:00</updated>
+    <updated>2026-03-29T21:00:24+08:00</updated>
         <entry>
         <title>考了个计算机二级，想了很多</title>
         <id>151375</id>
@@ -66,6 +66,17 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[第一次用 AI 开发 Cocos 小游戏，我才认识到 MCP 的重要性]]></summary>
+    </entry>
+        <entry>
+        <title>折腾了十年，我的博客被判定为“低价值”</title>
+        <id>151377</id>
+        <link href="https://www.colinjiang.com/archives/blog-low-value-content.html?utm_source=blogfinder" />
+        <published>2026-03-29T12:28:30+08:00</published>
+        <author>
+            <name>君子不器</name>
+            <uri>https://www.colinjiang.com</uri>
+        </author>
+        <summary type="text"><![CDATA[折腾了十年，我的博客被判定为“低价值”]]></summary>
     </entry>
         <entry>
         <title>我觉得医生有嫌弃我嘴馋的成份</title>
@@ -275,6 +286,17 @@
             <uri>https://blog.hantaotao.top</uri>
         </author>
         <summary type="text"><![CDATA[三月记]]></summary>
+    </entry>
+        <entry>
+        <title>S的家</title>
+        <id>151376</id>
+        <link href="https://slykiten.com/life-note/s-home/?utm_source=blogfinder" />
+        <published>2026-03-28T22:49:24+08:00</published>
+        <author>
+            <name>狡猫三窝</name>
+            <uri>https://slykiten.com</uri>
+        </author>
+        <summary type="text"><![CDATA[S的家]]></summary>
     </entry>
         <entry>
         <title>周末流水账 0328</title>
@@ -1518,104 +1540,5 @@
             <uri>https://xuerback.com</uri>
         </author>
         <summary type="text"><![CDATA[秩序重建]]></summary>
-    </entry>
-        <entry>
-        <title>Linux上df和du统计磁盘占用大小差异分析</title>
-        <id>151138</id>
-        <link href="https://chegva.com/6509.html?utm_source=blogfinder" />
-        <published>2026-03-26T20:59:28+08:00</published>
-        <author>
-            <name>安志合的学习博客</name>
-            <uri>https://chegva.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Linux上df和du统计磁盘占用大小差异分析]]></summary>
-    </entry>
-        <entry>
-        <title>同一篇文章，同时存在中文版本和英文版本，如何设置页面 SEO 信息，防止被搜索引擎认定为重复内容</title>
-        <id>151128</id>
-        <link href="https://www.sunzhongwei.com/how-set-page-seo-information-same-article-multi-languages?utm_source=blogfinder" />
-        <published>2026-03-26T20:54:24+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[同一篇文章，同时存在中文版本和英文版本，如何设置页面 SEO 信息，防止被搜索引擎认定为重复内容]]></summary>
-    </entry>
-        <entry>
-        <title>杭州一日行，西湖半日人间半程</title>
-        <id>151129</id>
-        <link href="https://www.friendcc.com/609.html?utm_source=blogfinder" />
-        <published>2026-03-26T20:54:00+08:00</published>
-        <author>
-            <name>梦不见的梦</name>
-            <uri>https://www.friendcc.com</uri>
-        </author>
-        <summary type="text"><![CDATA[杭州一日行，西湖半日人间半程]]></summary>
-    </entry>
-        <entry>
-        <title>下班回家路上想到的</title>
-        <id>151222</id>
-        <link href="https://shuiba.co/on-the-way-home?utm_source=blogfinder" />
-        <published>2026-03-26T20:41:00+08:00</published>
-        <author>
-            <name>水八口的冥想盆</name>
-            <uri>https://shuiba.co</uri>
-        </author>
-        <summary type="text"><![CDATA[下班回家路上想到的]]></summary>
-    </entry>
-        <entry>
-        <title>20260320</title>
-        <id>151137</id>
-        <link href="https://61.life/2026/0320?utm_source=blogfinder" />
-        <published>2026-03-26T20:35:34+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260320]]></summary>
-    </entry>
-        <entry>
-        <title>这一口，还是那个味儿</title>
-        <id>151131</id>
-        <link href="https://zhujay.com/talking/?id=1216&amp;utm_source=blogfinder" />
-        <published>2026-03-26T20:18:58+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[这一口，还是那个味儿]]></summary>
-    </entry>
-        <entry>
-        <title>还是要准备迁移到Astro</title>
-        <id>151170</id>
-        <link href="https://www.suiyan.cc/blog/20260326121351/?utm_source=blogfinder" />
-        <published>2026-03-26T20:13:51+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[还是要准备迁移到Astro]]></summary>
-    </entry>
-        <entry>
-        <title>还是要准备迁移到Astro</title>
-        <id>151127</id>
-        <link href="https://www.suiyan.cc/blog/20260326121351?utm_source=blogfinder" />
-        <published>2026-03-26T20:13:51+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[还是要准备迁移到Astro]]></summary>
-    </entry>
-        <entry>
-        <title>好好活着</title>
-        <id>151130</id>
-        <link href="https://ihaihe.cn/3545.htm?utm_source=blogfinder" />
-        <published>2026-03-26T19:55:26+08:00</published>
-        <author>
-            <name>三十里海河</name>
-            <uri>https://ihaihe.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[好好活着]]></summary>
     </entry>
     </feed>
