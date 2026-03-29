@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-29T23:00:39+08:00</updated>
+    <updated>2026-03-30T00:00:20+08:00</updated>
         <entry>
         <title>【不凡摄影作品 | 2026.3.29】</title>
         <id>151385</id>
@@ -22,6 +22,17 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[【不凡摄影作品 | 2026.3.29】]]></summary>
+    </entry>
+        <entry>
+        <title>周末流水账 0329</title>
+        <id>151387</id>
+        <link href="https://blog.solazy.me/20260329/?utm_source=blogfinder" />
+        <published>2026-03-29T22:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0329]]></summary>
     </entry>
         <entry>
         <title>呆了这么久还是不愿离开的杭州</title>
@@ -506,6 +517,28 @@
             <uri>https://zooyoo.top</uri>
         </author>
         <summary type="text"><![CDATA[1.5KB，你的英文站！]]></summary>
+    </entry>
+        <entry>
+        <title>我中招了 Apifox 供应链投毒攻击,附修复步骤</title>
+        <id>151386</id>
+        <link href="https://www.51it.wang/ll/2172?utm_source=blogfinder" />
+        <published>2026-03-28T17:31:00+08:00</published>
+        <author>
+            <name>Lcry</name>
+            <uri>https://www.51it.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[我中招了 Apifox 供应链投毒攻击,附修复步骤]]></summary>
+    </entry>
+        <entry>
+        <title>三月第三周</title>
+        <id>151388</id>
+        <link href="https://terryhu.cn/posts/2026/%E4%B8%89%E6%9C%88%E7%AC%AC%E4%B8%89%E5%91%A8/?utm_source=blogfinder" />
+        <published>2026-03-28T17:09:03+08:00</published>
+        <author>
+            <name>Terry&#039;s Blog</name>
+            <uri>https://terryhu.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[三月第三周]]></summary>
     </entry>
         <entry>
         <title>阅读文学如何帮我欣赏摇滚乐？</title>
@@ -1529,16 +1562,5 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[前端工程化与DevOps实践]]></summary>
-    </entry>
-        <entry>
-        <title>张雪峰猝死</title>
-        <id>151139</id>
-        <link href="https://dujun.io/28f7f56d-9cd1-57ba-a86d-5342112d1eb6.html?utm_source=blogfinder" />
-        <published>2026-03-26T23:44:47+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[张雪峰猝死]]></summary>
     </entry>
     </feed>
