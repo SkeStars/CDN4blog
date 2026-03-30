@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-30T14:00:47+08:00</updated>
+    <updated>2026-03-30T16:00:54+08:00</updated>
+        <entry>
+        <title>Go + Vue 打包成一个单二进制的后台系统，我做了个后台脚手架</title>
+        <id>151425</id>
+        <link href="https://hejunjie.life/blog/c9fu5hnq?utm_source=blogfinder" />
+        <published>2026-03-30T12:49:33+08:00</published>
+        <author>
+            <name>星河避难所</name>
+            <uri>https://hejunjie.life</uri>
+        </author>
+        <summary type="text"><![CDATA[Go + Vue 打包成一个单二进制的后台系统，我做了个后台脚手架]]></summary>
+    </entry>
         <entry>
         <title>用鸵鸟毛逗猫</title>
         <id>151422</id>
@@ -1463,27 +1474,5 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[天正 CAD 图纸 T3 格式转换器分享]]></summary>
-    </entry>
-        <entry>
-        <title>Blog近期更新：Hexo升级至8.1.0，同步功能失效调整，代码高亮完善...</title>
-        <id>151250</id>
-        <link href="https://www.youdiandongxi.com/article/blog-new-upgrade.html?utm_source=blogfinder" />
-        <published>2026-03-27T14:49:45+08:00</published>
-        <author>
-            <name>有点东西</name>
-            <uri>https://www.youdiandongxi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Blog近期更新：Hexo升级至8.1.0，同步功能失效调整，代码高亮完善...]]></summary>
-    </entry>
-        <entry>
-        <title>被 HR 上了一课，原来我的全日制第一学历理解是错的</title>
-        <id>151238</id>
-        <link href="https://www.sunzhongwei.com/full-time-first-degree?utm_source=blogfinder" />
-        <published>2026-03-27T14:47:59+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[被 HR 上了一课，原来我的全日制第一学历理解是错的]]></summary>
     </entry>
     </feed>
