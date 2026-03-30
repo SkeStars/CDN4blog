@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-30T16:00:54+08:00</updated>
+    <updated>2026-03-30T17:01:03+08:00</updated>
         <entry>
         <title>Go + Vue 打包成一个单二进制的后台系统，我做了个后台脚手架</title>
         <id>151425</id>
@@ -44,6 +44,17 @@
             <uri>https://onojyun.com</uri>
         </author>
         <summary type="text"><![CDATA[谈论「认知」就是在羞辱他人吗？]]></summary>
+    </entry>
+        <entry>
+        <title>Phoenix监控平台技术解析（五）：WebSocket 客户端连接与重连机制</title>
+        <id>151427</id>
+        <link href="https://kacper.fun/blog/162?utm_source=blogfinder" />
+        <published>2026-03-30T10:06:52+08:00</published>
+        <author>
+            <name>知录</name>
+            <uri>https://kacper.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Phoenix监控平台技术解析（五）：WebSocket 客户端连接与重连机制]]></summary>
     </entry>
         <entry>
         <title>小呆的明星片</title>
@@ -244,6 +255,17 @@
         <summary type="text"><![CDATA[黑白练习]]></summary>
     </entry>
         <entry>
+        <title>我们订婚啦</title>
+        <id>151426</id>
+        <link href="http://99887766554433221100.cn/index.php/archives/183/?utm_source=blogfinder" />
+        <published>2026-03-29T20:20:00+08:00</published>
+        <author>
+            <name>南香香</name>
+            <uri>http://99887766554433221100.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[我们订婚啦]]></summary>
+    </entry>
+        <entry>
         <title>一碗红烧牛肉面，和它串起的几十年</title>
         <id>151380</id>
         <link href="https://iliu.org/posts/red-braised-beef-noodles-and-the-twenty-years-they-connect/?utm_source=blogfinder" />
@@ -297,6 +319,17 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[Toots 412 2026 Mar.22 - Mar.28]]></summary>
+    </entry>
+        <entry>
+        <title>Vol.96 AI智能体架构演进：从OpenClaw到Paperclip的编排实践</title>
+        <id>151430</id>
+        <link href="https://liduos.com/weekly/the-weekly-gradient-96?utm_source=blogfinder" />
+        <published>2026-03-29T16:00:00+08:00</published>
+        <author>
+            <name>莫尔索</name>
+            <uri>https://liduos.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Vol.96 AI智能体架构演进：从OpenClaw到Paperclip的编排实践]]></summary>
     </entry>
         <entry>
         <title>【与Mondo同行·第四季】4：既见君子，云胡不喜</title>
@@ -649,6 +682,17 @@
             <uri>https://slykiten.com</uri>
         </author>
         <summary type="text"><![CDATA[S的家]]></summary>
+    </entry>
+        <entry>
+        <title>Phoenix监控平台技术解析（四）：Netty WebSocket 服务端启动与初始化流程</title>
+        <id>151428</id>
+        <link href="https://kacper.fun/blog/161?utm_source=blogfinder" />
+        <published>2026-03-28T22:48:55+08:00</published>
+        <author>
+            <name>知录</name>
+            <uri>https://kacper.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Phoenix监控平台技术解析（四）：Netty WebSocket 服务端启动与初始化流程]]></summary>
     </entry>
         <entry>
         <title>周末流水账 0328</title>
@@ -1408,71 +1452,5 @@
             <uri>https://loveapple.icu</uri>
         </author>
         <summary type="text"><![CDATA[hexo脚本：部署后自动刷新Cloudflare缓存]]></summary>
-    </entry>
-        <entry>
-        <title>[UltraVPS] UltraVPS-25Y-Special-2 德国</title>
-        <id>151303</id>
-        <link href="https://blog.yeqing.net/UltraVPS-25Y-Special-2-de/?utm_source=blogfinder" />
-        <published>2026-03-27T16:47:47+08:00</published>
-        <author>
-            <name>夜轻 Blog</name>
-            <uri>https://blog.yeqing.net</uri>
-        </author>
-        <summary type="text"><![CDATA[[UltraVPS] UltraVPS-25Y-Special-2 德国]]></summary>
-    </entry>
-        <entry>
-        <title>告别 iFlow CLI，用 Qwen Code 继续撸免费的羊毛</title>
-        <id>151242</id>
-        <link href="https://www.suiyan.cc/blog/20260327084101/?utm_source=blogfinder" />
-        <published>2026-03-27T16:41:01+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[告别 iFlow CLI，用 Qwen Code 继续撸免费的羊毛]]></summary>
-    </entry>
-        <entry>
-        <title>读博随笔 | 读研时手搓的第一个发明专利终于授权了，根本不需要花冤枉钱找代理机构</title>
-        <id>151257</id>
-        <link href="https://www.52txr.cn/2026/zhuanlishouquan.html?utm_source=blogfinder" />
-        <published>2026-03-27T16:37:00+08:00</published>
-        <author>
-            <name>陶小桃</name>
-            <uri>https://www.52txr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[读博随笔 | 读研时手搓的第一个发明专利终于授权了，根本不需要花冤枉钱找代理机构]]></summary>
-    </entry>
-        <entry>
-        <title>裝</title>
-        <id>151305</id>
-        <link href="https://blog.giveanornot.com/fake-it/?utm_source=blogfinder" />
-        <published>2026-03-27T16:36:47+08:00</published>
-        <author>
-            <name>資工小廢物  - JN</name>
-            <uri>https://blog.giveanornot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[裝]]></summary>
-    </entry>
-        <entry>
-        <title>正点原子串口例程中开发板无法收信问题</title>
-        <id>151286</id>
-        <link href="https://loveapple.icu/STM32-USART-Alientek/?utm_source=blogfinder" />
-        <published>2026-03-27T16:35:38+08:00</published>
-        <author>
-            <name>LoveApple14434</name>
-            <uri>https://loveapple.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[正点原子串口例程中开发板无法收信问题]]></summary>
-    </entry>
-        <entry>
-        <title>天正 CAD 图纸 T3 格式转换器分享</title>
-        <id>151252</id>
-        <link href="https://www.aiwazi.com/3027.html?utm_source=blogfinder" />
-        <published>2026-03-27T16:26:51+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[天正 CAD 图纸 T3 格式转换器分享]]></summary>
     </entry>
     </feed>
