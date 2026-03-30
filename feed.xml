@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-30T17:01:03+08:00</updated>
+    <updated>2026-03-30T19:01:08+08:00</updated>
+        <entry>
+        <title>速逛黄鹤楼</title>
+        <id>151432</id>
+        <link href="https://airy.ink/daily/437?utm_source=blogfinder" />
+        <published>2026-03-30T15:52:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[速逛黄鹤楼]]></summary>
+    </entry>
+        <entry>
+        <title>2026.3.29</title>
+        <id>151431</id>
+        <link href="https://www.justzht.com/2026-3-29/?utm_source=blogfinder" />
+        <published>2026-03-30T13:36:39+08:00</published>
+        <author>
+            <name>JustZht</name>
+            <uri>https://www.justzht.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026.3.29]]></summary>
+    </entry>
         <entry>
         <title>Go + Vue 打包成一个单二进制的后台系统，我做了个后台脚手架</title>
         <id>151425</id>
@@ -22,6 +44,28 @@
             <uri>https://hejunjie.life</uri>
         </author>
         <summary type="text"><![CDATA[Go + Vue 打包成一个单二进制的后台系统，我做了个后台脚手架]]></summary>
+    </entry>
+        <entry>
+        <title>可怜的动物</title>
+        <id>151434</id>
+        <link href="https://ficor.net/2026/03/%e5%8f%af%e6%80%9c%e7%9a%84%e5%8a%a8%e7%89%a9/?utm_source=blogfinder" />
+        <published>2026-03-30T12:26:31+08:00</published>
+        <author>
+            <name>荒野菲克</name>
+            <uri>https://ficor.net</uri>
+        </author>
+        <summary type="text"><![CDATA[可怜的动物]]></summary>
+    </entry>
+        <entry>
+        <title>搞这个论文把我头搞疼了！</title>
+        <id>151436</id>
+        <link href="https://ygz.ink/archives/4571.html?utm_source=blogfinder" />
+        <published>2026-03-30T12:19:34+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[搞这个论文把我头搞疼了！]]></summary>
     </entry>
         <entry>
         <title>用鸵鸟毛逗猫</title>
@@ -110,6 +154,17 @@
             <uri>https://fuxes.cn</uri>
         </author>
         <summary type="text"><![CDATA[《额尔古纳河右岸》读后记]]></summary>
+    </entry>
+        <entry>
+        <title>泰国｜曼谷｜考山路</title>
+        <id>151435</id>
+        <link href="https://d-d.design/single/18305?utm_source=blogfinder" />
+        <published>2026-03-30T04:58:21+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[泰国｜曼谷｜考山路]]></summary>
     </entry>
         <entry>
         <title>HTTP/3与QUIC协议深度解析</title>
@@ -231,6 +286,17 @@
             <uri>https://ihaihe.cn</uri>
         </author>
         <summary type="text"><![CDATA[卖房记]]></summary>
+    </entry>
+        <entry>
+        <title>并不善良</title>
+        <id>151433</id>
+        <link href="https://airy.ink/daily/436?utm_source=blogfinder" />
+        <published>2026-03-29T21:24:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[并不善良]]></summary>
     </entry>
         <entry>
         <title>隐说 NO.17  曹雪芹之后</title>
@@ -726,6 +792,17 @@
             <uri>https://www.codesky.me</uri>
         </author>
         <summary type="text"><![CDATA[AI 浪潮下的新时代开发模式—AI Coding 的快速成长]]></summary>
+    </entry>
+        <entry>
+        <title>折腾-新家的布网</title>
+        <id>151437</id>
+        <link href="https://blog.mboker.cn/archives/s0ZmUSIK?utm_source=blogfinder" />
+        <published>2026-03-28T21:05:36+08:00</published>
+        <author>
+            <name>蜉蝣手札</name>
+            <uri>https://blog.mboker.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[折腾-新家的布网]]></summary>
     </entry>
         <entry>
         <title>好久没吃南瓜洋芋了</title>
@@ -1386,71 +1463,5 @@
             <uri>https://www.wanghao.me</uri>
         </author>
         <summary type="text"><![CDATA[编程赛变“文艺创作赛”，真没必要硬卷！]]></summary>
-    </entry>
-        <entry>
-        <title>fakeclaw装作龙虾发贴吧</title>
-        <id>151253</id>
-        <link href="https://xingwangzhe.fun/posts/fakeclaw-tieba/?utm_source=blogfinder" />
-        <published>2026-03-27T19:00:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[fakeclaw装作龙虾发贴吧]]></summary>
-    </entry>
-        <entry>
-        <title>闪存价格与我无关</title>
-        <id>151300</id>
-        <link href="https://catlyingroof.top/index.php/2026/03/27/12.html?utm_source=blogfinder" />
-        <published>2026-03-27T18:05:00+08:00</published>
-        <author>
-            <name>Ethan 在网上耕田</name>
-            <uri>https://catlyingroof.top</uri>
-        </author>
-        <summary type="text"><![CDATA[闪存价格与我无关]]></summary>
-    </entry>
-        <entry>
-        <title>反脆弱：如何在混乱中获益的3个实操手册</title>
-        <id>151260</id>
-        <link href="https://blogwinter.top/20260327/?utm_source=blogfinder" />
-        <published>2026-03-27T18:00:12+08:00</published>
-        <author>
-            <name>初冬个人小站</name>
-            <uri>https://blogwinter.top</uri>
-        </author>
-        <summary type="text"><![CDATA[反脆弱：如何在混乱中获益的3个实操手册]]></summary>
-    </entry>
-        <entry>
-        <title>童年游戏</title>
-        <id>151249</id>
-        <link href="https://airy.ink/daily/435?utm_source=blogfinder" />
-        <published>2026-03-27T17:52:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[童年游戏]]></summary>
-    </entry>
-        <entry>
-        <title>公告</title>
-        <id>151267</id>
-        <link href="https://i.duckxu.com/archives/announcement_260327.html?utm_source=blogfinder" />
-        <published>2026-03-27T17:21:52+08:00</published>
-        <author>
-            <name>DuckXu&#039;s Site</name>
-            <uri>https://i.duckxu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[公告]]></summary>
-    </entry>
-        <entry>
-        <title>hexo脚本：部署后自动刷新Cloudflare缓存</title>
-        <id>151285</id>
-        <link href="https://loveapple.icu/cloudflare-purge-cache/?utm_source=blogfinder" />
-        <published>2026-03-27T17:06:24+08:00</published>
-        <author>
-            <name>LoveApple14434</name>
-            <uri>https://loveapple.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[hexo脚本：部署后自动刷新Cloudflare缓存]]></summary>
     </entry>
     </feed>
