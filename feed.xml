@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-03-31T14:00:25+08:00</updated>
+    <updated>2026-03-31T15:01:22+08:00</updated>
+        <entry>
+        <title>体验了一下国行“Apple智能”</title>
+        <id>151571</id>
+        <link href="https://www.xiaocaoderijiben.online/archives/339?utm_source=blogfinder" />
+        <published>2026-03-31T14:08:22+08:00</published>
+        <author>
+            <name>小草的日记本</name>
+            <uri>https://www.xiaocaoderijiben.online</uri>
+        </author>
+        <summary type="text"><![CDATA[体验了一下国行“Apple智能”]]></summary>
+    </entry>
+        <entry>
+        <title>新买了Apple Watch S11</title>
+        <id>151572</id>
+        <link href="https://www.xiaocaoderijiben.online/archives/335?utm_source=blogfinder" />
+        <published>2026-03-31T13:25:27+08:00</published>
+        <author>
+            <name>小草的日记本</name>
+            <uri>https://www.xiaocaoderijiben.online</uri>
+        </author>
+        <summary type="text"><![CDATA[新买了Apple Watch S11]]></summary>
+    </entry>
         <entry>
         <title>如何呢，又能怎？</title>
         <id>151570</id>
@@ -1617,49 +1639,5 @@
             <uri>https://i.duckxu.com</uri>
         </author>
         <summary type="text"><![CDATA[发布了Typecho主题:Netsuko]]></summary>
-    </entry>
-        <entry>
-        <title>个人毕业设计展</title>
-        <id>151311</id>
-        <link href="https://imqi1.com/shot/1005?utm_source=blogfinder" />
-        <published>2026-03-28T14:45:00+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[个人毕业设计展]]></summary>
-    </entry>
-        <entry>
-        <title>花一小时，我和 AI 做了个错题本 app</title>
-        <id>151372</id>
-        <link href="http://www.jinhuaiyao.com/posts/spent-an-hour-creating-a-wrong-question-book-app-with-ai/?utm_source=blogfinder" />
-        <published>2026-03-28T14:23:43+08:00</published>
-        <author>
-            <name>Huaiyao Jin</name>
-            <uri>https://www.jinhuaiyao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[花一小时，我和 AI 做了个错题本 app]]></summary>
-    </entry>
-        <entry>
-        <title>Ubuntu26.04-beta体验:坚毅浣熊!</title>
-        <id>151312</id>
-        <link href="https://xingwangzhe.fun/posts/ubuntu-26-04-beta/?utm_source=blogfinder" />
-        <published>2026-03-28T14:17:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[Ubuntu26.04-beta体验:坚毅浣熊!]]></summary>
-    </entry>
-        <entry>
-        <title>刷存在感：用魔法來對付魔法</title>
-        <id>151357</id>
-        <link href="https://blog.giveanornot.com/presence/?utm_source=blogfinder" />
-        <published>2026-03-28T14:14:11+08:00</published>
-        <author>
-            <name>資工小廢物  - JN</name>
-            <uri>https://blog.giveanornot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[刷存在感：用魔法來對付魔法]]></summary>
     </entry>
     </feed>
