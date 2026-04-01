@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-01T17:00:37+08:00</updated>
+    <updated>2026-04-01T19:02:11+08:00</updated>
         <entry>
         <title>Phoenix监控平台技术解析（七）：数据压缩与传输优化——Gzip 策略与 CiphertextPackage 设计</title>
         <id>151627</id>
@@ -22,6 +22,17 @@
             <uri>https://kacper.fun</uri>
         </author>
         <summary type="text"><![CDATA[Phoenix监控平台技术解析（七）：数据压缩与传输优化——Gzip 策略与 CiphertextPackage 设计]]></summary>
+    </entry>
+        <entry>
+        <title>初见情深，不见余生</title>
+        <id>151632</id>
+        <link href="https://mojue88.com/120/?utm_source=blogfinder" />
+        <published>2026-04-01T14:40:29+08:00</published>
+        <author>
+            <name>墨觉の日记</name>
+            <uri>https://mojue88.com</uri>
+        </author>
+        <summary type="text"><![CDATA[初见情深，不见余生]]></summary>
     </entry>
         <entry>
         <title>与其说是「把外星人写成宠物」，不如说是人类难以放下傲慢</title>
@@ -132,6 +143,17 @@
             <uri>https://me.xu19.com</uri>
         </author>
         <summary type="text"><![CDATA[我的网站也被镜像了]]></summary>
+    </entry>
+        <entry>
+        <title>松声｜廿六年·三月末·花满城</title>
+        <id>151630</id>
+        <link href="https://xyzbz.cn/archives/1524/?utm_source=blogfinder" />
+        <published>2026-04-01T05:40:00+08:00</published>
+        <author>
+            <name>网友小宋</name>
+            <uri>https://xyzbz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[松声｜廿六年·三月末·花满城]]></summary>
     </entry>
         <entry>
         <title>一个倔老头的申辩</title>
@@ -330,6 +352,17 @@
             <uri>https://blog.forecho.com</uri>
         </author>
         <summary type="text"><![CDATA[A2、1PB、1Rev 实战手册：怎么入场，止损放哪，什么情况直接放弃]]></summary>
+    </entry>
+        <entry>
+        <title>房子差点被烧：为什么插座都烧没了空气开关没有跳闸</title>
+        <id>151631</id>
+        <link href="https://lklog.cn/chat/1396.html?utm_source=blogfinder" />
+        <published>2026-03-31T20:14:23+08:00</published>
+        <author>
+            <name>龙鲲博客</name>
+            <uri>https://lklog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[房子差点被烧：为什么插座都烧没了空气开关没有跳闸]]></summary>
     </entry>
         <entry>
         <title>纠结了一下，还是把钱给退了</title>
@@ -1584,38 +1617,5 @@
             <uri>https://xingwangzhe.fun</uri>
         </author>
         <summary type="text"><![CDATA[突发：GitHub 正遭受大规模 Issue 赌博广告轰炸]]></summary>
-    </entry>
-        <entry>
-        <title>考了个计算机二级，想了很多</title>
-        <id>151375</id>
-        <link href="https://catlyingroof.top/index.php/2026/03/29/14.html?utm_source=blogfinder" />
-        <published>2026-03-29T18:37:57+08:00</published>
-        <author>
-            <name>Ethan 在网上耕田</name>
-            <uri>https://catlyingroof.top</uri>
-        </author>
-        <summary type="text"><![CDATA[考了个计算机二级，想了很多]]></summary>
-    </entry>
-        <entry>
-        <title>一个公司效率可以低到什么地步？</title>
-        <id>151392</id>
-        <link href="https://blog.fueis.com/26-0329?utm_source=blogfinder" />
-        <published>2026-03-29T18:16:37+08:00</published>
-        <author>
-            <name>当下</name>
-            <uri>https://blog.fueis.com</uri>
-        </author>
-        <summary type="text"><![CDATA[一个公司效率可以低到什么地步？]]></summary>
-    </entry>
-        <entry>
-        <title>Toots 412 2026 Mar.22 - Mar.28</title>
-        <id>151414</id>
-        <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260328/?utm_source=blogfinder" />
-        <published>2026-03-29T17:37:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[Toots 412 2026 Mar.22 - Mar.28]]></summary>
     </entry>
     </feed>
