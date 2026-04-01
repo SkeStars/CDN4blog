@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-01T22:01:07+08:00</updated>
+    <updated>2026-04-01T23:00:20+08:00</updated>
+        <entry>
+        <title>关于“习惯性吐槽”的一些思考</title>
+        <id>151635</id>
+        <link href="https://www.evan.xin/4912/?utm_source=blogfinder" />
+        <published>2026-04-01T20:32:50+08:00</published>
+        <author>
+            <name>Evan&#039;s Space</name>
+            <uri>https://www.evan.xin</uri>
+        </author>
+        <summary type="text"><![CDATA[关于“习惯性吐槽”的一些思考]]></summary>
+    </entry>
         <entry>
         <title>糟糕！我的 OpenClaw 中了病毒</title>
         <id>151633</id>
@@ -1463,49 +1474,5 @@
             <uri>https://jyblog.cn</uri>
         </author>
         <summary type="text"><![CDATA[记一次高速开车险些熄火的经历]]></summary>
-    </entry>
-        <entry>
-        <title>来自沉船的爱意</title>
-        <id>151412</id>
-        <link href="https://www.geedea.pro/library/2026/from-a-sinking-ship-with-love/?utm_source=blogfinder" />
-        <published>2026-03-29T22:47:15+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[来自沉船的爱意]]></summary>
-    </entry>
-        <entry>
-        <title>EvanMi 全新升级：米表从此更好用</title>
-        <id>151420</id>
-        <link href="https://www.evan.xin/4902/?utm_source=blogfinder" />
-        <published>2026-03-29T22:35:50+08:00</published>
-        <author>
-            <name>Evan&#039;s Space</name>
-            <uri>https://www.evan.xin</uri>
-        </author>
-        <summary type="text"><![CDATA[EvanMi 全新升级：米表从此更好用]]></summary>
-    </entry>
-        <entry>
-        <title>Cocos 4 及 PinK 与 Cocos Creator 3.8.8 的关系</title>
-        <id>151413</id>
-        <link href="https://www.sunzhongwei.com/relationship-cocos-4-pink-cocos-creator?utm_source=blogfinder" />
-        <published>2026-03-29T22:13:40+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Cocos 4 及 PinK 与 Cocos Creator 3.8.8 的关系]]></summary>
-    </entry>
-        <entry>
-        <title>【不凡摄影作品 | 2026.3.29】</title>
-        <id>151385</id>
-        <link href="https://www.bufanz.com/20260329518.html?utm_source=blogfinder" />
-        <published>2026-03-29T22:12:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【不凡摄影作品 | 2026.3.29】]]></summary>
     </entry>
     </feed>
