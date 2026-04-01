@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-01T14:00:27+08:00</updated>
+    <updated>2026-04-01T16:01:11+08:00</updated>
         <entry>
         <title>灵魂工程师</title>
         <id>151623</id>
@@ -1584,38 +1584,5 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[Toots 412 2026 Mar.22 - Mar.28]]></summary>
-    </entry>
-        <entry>
-        <title>Vol.96 AI智能体架构演进：从OpenClaw到Paperclip的编排实践</title>
-        <id>151430</id>
-        <link href="https://liduos.com/weekly/the-weekly-gradient-96?utm_source=blogfinder" />
-        <published>2026-03-29T16:00:00+08:00</published>
-        <author>
-            <name>莫尔索</name>
-            <uri>https://liduos.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Vol.96 AI智能体架构演进：从OpenClaw到Paperclip的编排实践]]></summary>
-    </entry>
-        <entry>
-        <title>【与Mondo同行·第四季】4：既见君子，云胡不喜</title>
-        <id>151382</id>
-        <link href="http://www.qncd.com/?p=12603&amp;utm_source=blogfinder" />
-        <published>2026-03-29T15:54:10+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【与Mondo同行·第四季】4：既见君子，云胡不喜]]></summary>
-    </entry>
-        <entry>
-        <title>洪绘存图发布：保存浏览器图片为指定格式、提取网页所有图片、屏幕截图插件</title>
-        <id>151573</id>
-        <link href="https://blog.zhheo.com/p/drqm39ob.html?utm_source=blogfinder" />
-        <published>2026-03-29T14:41:52+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[洪绘存图发布：保存浏览器图片为指定格式、提取网页所有图片、屏幕截图插件]]></summary>
     </entry>
     </feed>
