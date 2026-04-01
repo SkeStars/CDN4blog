@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-01T16:01:11+08:00</updated>
+    <updated>2026-04-01T17:00:37+08:00</updated>
+        <entry>
+        <title>Phoenix监控平台技术解析（七）：数据压缩与传输优化——Gzip 策略与 CiphertextPackage 设计</title>
+        <id>151627</id>
+        <link href="https://kacper.fun/blog/164?utm_source=blogfinder" />
+        <published>2026-04-01T15:16:59+08:00</published>
+        <author>
+            <name>知录</name>
+            <uri>https://kacper.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Phoenix监控平台技术解析（七）：数据压缩与传输优化——Gzip 策略与 CiphertextPackage 设计]]></summary>
+    </entry>
+        <entry>
+        <title>与其说是「把外星人写成宠物」，不如说是人类难以放下傲慢</title>
+        <id>151628</id>
+        <link href="https://blog.solazy.me/20260401/?utm_source=blogfinder" />
+        <published>2026-04-01T13:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[与其说是「把外星人写成宠物」，不如说是人类难以放下傲慢]]></summary>
+    </entry>
         <entry>
         <title>灵魂工程师</title>
         <id>151623</id>
@@ -187,6 +209,17 @@
             <uri>https://tetsuhannah.blog</uri>
         </author>
         <summary type="text"><![CDATA[二零二六年三月]]></summary>
+    </entry>
+        <entry>
+        <title>清明将至，关于独自出游的一些新想法</title>
+        <id>151629</id>
+        <link href="https://blog.solazy.me/20260331/?utm_source=blogfinder" />
+        <published>2026-03-31T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[清明将至，关于独自出游的一些新想法]]></summary>
     </entry>
         <entry>
         <title>趋势日怎么做：硬趋势、软趋势与 Spike and Channel</title>
