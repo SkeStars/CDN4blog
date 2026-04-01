@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-01T20:00:23+08:00</updated>
+    <updated>2026-04-01T22:01:07+08:00</updated>
+        <entry>
+        <title>糟糕！我的 OpenClaw 中了病毒</title>
+        <id>151633</id>
+        <link href="https://kanchuan.com/blog/239?utm_source=blogfinder" />
+        <published>2026-04-01T17:40:00+08:00</published>
+        <author>
+            <name>陈看川博客</name>
+            <uri>https://kanchuan.com/blog</uri>
+        </author>
+        <summary type="text"><![CDATA[糟糕！我的 OpenClaw 中了病毒]]></summary>
+    </entry>
         <entry>
         <title>Phoenix监控平台技术解析（七）：数据压缩与传输优化——Gzip 策略与 CiphertextPackage 设计</title>
         <id>151627</id>
@@ -55,6 +66,17 @@
             <uri>https://ficor.net</uri>
         </author>
         <summary type="text"><![CDATA[灵魂工程师]]></summary>
+    </entry>
+        <entry>
+        <title>三月的碎碎念</title>
+        <id>151634</id>
+        <link href="https://zhujay.com/blog/blog_view.asp?id=1218&amp;utm_source=blogfinder" />
+        <published>2026-04-01T12:28:44+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[三月的碎碎念]]></summary>
     </entry>
         <entry>
         <title>张雪机车WSBK两连冠：中国高端制造的时代宣言</title>
@@ -1485,126 +1507,5 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[【不凡摄影作品 | 2026.3.29】]]></summary>
-    </entry>
-        <entry>
-        <title>周末流水账 0329</title>
-        <id>151387</id>
-        <link href="https://blog.solazy.me/20260329/?utm_source=blogfinder" />
-        <published>2026-03-29T22:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[周末流水账 0329]]></summary>
-    </entry>
-        <entry>
-        <title>呆了这么久还是不愿离开的杭州</title>
-        <id>151378</id>
-        <link href="https://www.friendcc.com/615.html?utm_source=blogfinder" />
-        <published>2026-03-29T21:45:08+08:00</published>
-        <author>
-            <name>梦不见的梦</name>
-            <uri>https://www.friendcc.com</uri>
-        </author>
-        <summary type="text"><![CDATA[呆了这么久还是不愿离开的杭州]]></summary>
-    </entry>
-        <entry>
-        <title>卖房记</title>
-        <id>151416</id>
-        <link href="https://ihaihe.cn/3581.htm?utm_source=blogfinder" />
-        <published>2026-03-29T21:39:06+08:00</published>
-        <author>
-            <name>三十里海河</name>
-            <uri>https://ihaihe.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[卖房记]]></summary>
-    </entry>
-        <entry>
-        <title>北宫新绿</title>
-        <id>151446</id>
-        <link href="https://fxpai.com/article/beigongxinlu?utm_source=blogfinder" />
-        <published>2026-03-29T21:31:46+08:00</published>
-        <author>
-            <name>非学·派</name>
-            <uri>https://fxpai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[北宫新绿]]></summary>
-    </entry>
-        <entry>
-        <title>并不善良</title>
-        <id>151433</id>
-        <link href="https://airy.ink/daily/436?utm_source=blogfinder" />
-        <published>2026-03-29T21:24:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[并不善良]]></summary>
-    </entry>
-        <entry>
-        <title>前半生都没能跑出去的圈，辉县话（盘上话）、安阳话（林州话）、呼市方言组成的一个方言圈</title>
-        <id>151530</id>
-        <link href="https://zb2026.top/article/article-1774790294072?utm_source=blogfinder" />
-        <published>2026-03-29T21:18:14+08:00</published>
-        <author>
-            <name>纸杯的自留地</name>
-            <uri>https://zb2026.top</uri>
-        </author>
-        <summary type="text"><![CDATA[前半生都没能跑出去的圈，辉县话（盘上话）、安阳话（林州话）、呼市方言组成的一个方言圈]]></summary>
-    </entry>
-        <entry>
-        <title>我患上了 token 的瘾</title>
-        <id>151442</id>
-        <link href="https://blog.grtsinry43.com/posts/token-addiction?utm_source=blogfinder" />
-        <published>2026-03-29T20:54:12+08:00</published>
-        <author>
-            <name>Grtsinry43&#039;s Blog</name>
-            <uri>https://blog.grtsinry43.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我患上了 token 的瘾]]></summary>
-    </entry>
-        <entry>
-        <title>隐说 NO.17  曹雪芹之后</title>
-        <id>151381</id>
-        <link href="https://wangyurui.com/posts/yin-shuo-no-17-wei-shi-yao-xu-xie-ming-zhu-zhe-y-9cde2cd0?utm_source=blogfinder" />
-        <published>2026-03-29T20:35:38+08:00</published>
-        <author>
-            <name>太隐</name>
-            <uri>https://wangyurui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[隐说 NO.17  曹雪芹之后]]></summary>
-    </entry>
-        <entry>
-        <title>黑白练习</title>
-        <id>151391</id>
-        <link href="https://yayu.net/6213.html?utm_source=blogfinder" />
-        <published>2026-03-29T20:34:37+08:00</published>
-        <author>
-            <name>雅余</name>
-            <uri>https://yayu.net</uri>
-        </author>
-        <summary type="text"><![CDATA[黑白练习]]></summary>
-    </entry>
-        <entry>
-        <title>我们订婚啦</title>
-        <id>151426</id>
-        <link href="http://99887766554433221100.cn/index.php/archives/183/?utm_source=blogfinder" />
-        <published>2026-03-29T20:20:00+08:00</published>
-        <author>
-            <name>南香香</name>
-            <uri>http://99887766554433221100.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[我们订婚啦]]></summary>
-    </entry>
-        <entry>
-        <title>一碗红烧牛肉面，和它串起的几十年</title>
-        <id>151380</id>
-        <link href="https://iliu.org/posts/red-braised-beef-noodles-and-the-twenty-years-they-connect/?utm_source=blogfinder" />
-        <published>2026-03-29T20:09:00+08:00</published>
-        <author>
-            <name>老刘博客</name>
-            <uri>https://iliu.org</uri>
-        </author>
-        <summary type="text"><![CDATA[一碗红烧牛肉面，和它串起的几十年]]></summary>
     </entry>
     </feed>
