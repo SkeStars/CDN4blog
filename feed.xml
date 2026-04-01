@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-01T11:03:19+08:00</updated>
+    <updated>2026-04-01T14:00:27+08:00</updated>
+        <entry>
+        <title>灵魂工程师</title>
+        <id>151623</id>
+        <link href="https://ficor.net/2026/04/%e7%81%b5%e9%ad%82%e5%b7%a5%e7%a8%8b%e5%b8%88/?utm_source=blogfinder" />
+        <published>2026-04-01T12:39:53+08:00</published>
+        <author>
+            <name>荒野菲克</name>
+            <uri>https://ficor.net</uri>
+        </author>
+        <summary type="text"><![CDATA[灵魂工程师]]></summary>
+    </entry>
+        <entry>
+        <title>张雪机车WSBK两连冠：中国高端制造的时代宣言</title>
+        <id>151625</id>
+        <link href="https://www.zhyok.cn/index.php/archives/308/?utm_source=blogfinder" />
+        <published>2026-04-01T11:10:00+08:00</published>
+        <author>
+            <name>秋記 Autumn</name>
+            <uri>https://www.zhyok.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[张雪机车WSBK两连冠：中国高端制造的时代宣言]]></summary>
+    </entry>
         <entry>
         <title>网站被镜像怎么办？2026年反镜像攻防实战指南</title>
         <id>151606</id>
@@ -79,6 +101,17 @@
         <summary type="text"><![CDATA[下课铃响了]]></summary>
     </entry>
         <entry>
+        <title>我的网站也被镜像了</title>
+        <id>151621</id>
+        <link href="https://me.xu19.com/mirror-blog/?utm_source=blogfinder" />
+        <published>2026-04-01T07:59:57+08:00</published>
+        <author>
+            <name>我是军爸</name>
+            <uri>https://me.xu19.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我的网站也被镜像了]]></summary>
+    </entry>
+        <entry>
         <title>一个倔老头的申辩</title>
         <id>151607</id>
         <link href="https://www.suiyan.cc/blog/20260331201357/?utm_source=blogfinder" />
@@ -112,6 +145,17 @@
         <summary type="text"><![CDATA[Linux系统服务与自动化运维]]></summary>
     </entry>
         <entry>
+        <title>搜个微信客服被骗1900块，315曝光的“AI投毒”套路防不胜防</title>
+        <id>151620</id>
+        <link href="https://www.xhhao.com/archives/LGqbX5FE?utm_source=blogfinder" />
+        <published>2026-04-01T00:04:16+08:00</published>
+        <author>
+            <name>林间拾语</name>
+            <uri>https://www.xhhao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[搜个微信客服被骗1900块，315曝光的“AI投毒”套路防不胜防]]></summary>
+    </entry>
+        <entry>
         <title>20260331</title>
         <id>151587</id>
         <link href="https://61.life/2026/0331?utm_source=blogfinder" />
@@ -123,6 +167,17 @@
         <summary type="text"><![CDATA[20260331]]></summary>
     </entry>
         <entry>
+        <title>为什么你看对了方向，还是赚不到钱</title>
+        <id>151611</id>
+        <link href="https://blog.forecho.com/why-you-still-cant-make-money-even-if-you-read-the-market-right.html?utm_source=blogfinder" />
+        <published>2026-03-31T23:10:00+08:00</published>
+        <author>
+            <name>forecho&#039;s Blog</name>
+            <uri>https://blog.forecho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[为什么你看对了方向，还是赚不到钱]]></summary>
+    </entry>
+        <entry>
         <title>二零二六年三月</title>
         <id>151593</id>
         <link href="https://tetsuhannah.blog/2026/03/31/%e4%ba%8c%e9%9b%b6%e4%ba%8c%e5%85%ad%e5%b9%b4%e4%b8%89%e6%9c%88/?utm_source=blogfinder" />
@@ -132,6 +187,83 @@
             <uri>https://tetsuhannah.blog</uri>
         </author>
         <summary type="text"><![CDATA[二零二六年三月]]></summary>
+    </entry>
+        <entry>
+        <title>趋势日怎么做：硬趋势、软趋势与 Spike and Channel</title>
+        <id>151612</id>
+        <link href="https://blog.forecho.com/trend-day-hard-trend-soft-trend-playbook.html?utm_source=blogfinder" />
+        <published>2026-03-31T22:55:00+08:00</published>
+        <author>
+            <name>forecho&#039;s Blog</name>
+            <uri>https://blog.forecho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[趋势日怎么做：硬趋势、软趋势与 Spike and Channel]]></summary>
+    </entry>
+        <entry>
+        <title>大多数突破都会失败：区间行情里真正值得做的机会</title>
+        <id>151613</id>
+        <link href="https://blog.forecho.com/most-breakouts-fail-trading-range-playbook.html?utm_source=blogfinder" />
+        <published>2026-03-31T22:40:00+08:00</published>
+        <author>
+            <name>forecho&#039;s Blog</name>
+            <uri>https://blog.forecho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[大多数突破都会失败：区间行情里真正值得做的机会]]></summary>
+    </entry>
+        <entry>
+        <title>A2 是什么：最值得先练的价格行为 setup</title>
+        <id>151614</id>
+        <link href="https://blog.forecho.com/what-is-a2-price-action-setup.html?utm_source=blogfinder" />
+        <published>2026-03-31T22:25:00+08:00</published>
+        <author>
+            <name>forecho&#039;s Blog</name>
+            <uri>https://blog.forecho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[A2 是什么：最值得先练的价格行为 setup]]></summary>
+    </entry>
+        <entry>
+        <title>2026年3月：油价、猝死与双人成行</title>
+        <id>151622</id>
+        <link href="https://www.colinjiang.com/archives/2026-03-gas-prices-and-gaming.html?utm_source=blogfinder" />
+        <published>2026-03-31T22:21:21+08:00</published>
+        <author>
+            <name>君子不器</name>
+            <uri>https://www.colinjiang.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026年3月：油价、猝死与双人成行]]></summary>
+    </entry>
+        <entry>
+        <title>主流JavaScript库Axios被投毒 NPM你怎么又出事了？</title>
+        <id>151624</id>
+        <link href="https://jyblog.cn/5190/?utm_source=blogfinder" />
+        <published>2026-03-31T22:11:14+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[主流JavaScript库Axios被投毒 NPM你怎么又出事了？]]></summary>
+    </entry>
+        <entry>
+        <title>1Rev 与 1PB：开盘后最重要的两类机会</title>
+        <id>151615</id>
+        <link href="https://blog.forecho.com/first-reversal-and-first-pullback.html?utm_source=blogfinder" />
+        <published>2026-03-31T22:05:00+08:00</published>
+        <author>
+            <name>forecho&#039;s Blog</name>
+            <uri>https://blog.forecho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[1Rev 与 1PB：开盘后最重要的两类机会]]></summary>
+    </entry>
+        <entry>
+        <title>开盘 30 分钟怎么读盘：跳空、第一根 K 线与当天主方向</title>
+        <id>151616</id>
+        <link href="https://blog.forecho.com/how-to-read-the-open-first-30-minutes.html?utm_source=blogfinder" />
+        <published>2026-03-31T21:40:00+08:00</published>
+        <author>
+            <name>forecho&#039;s Blog</name>
+            <uri>https://blog.forecho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[开盘 30 分钟怎么读盘：跳空、第一根 K 线与当天主方向]]></summary>
     </entry>
         <entry>
         <title>巴斯克蛋糕，最近爱吃的甜食</title>
@@ -156,6 +288,17 @@
         <summary type="text"><![CDATA[二〇二六年三月总结：混沌中略显章法，习惯会成为人生底色]]></summary>
     </entry>
         <entry>
+        <title>A2、1PB、1Rev 实战手册：怎么入场，止损放哪，什么情况直接放弃</title>
+        <id>151617</id>
+        <link href="https://blog.forecho.com/a2-1pb-1rev-trading-playbook.html?utm_source=blogfinder" />
+        <published>2026-03-31T21:10:00+08:00</published>
+        <author>
+            <name>forecho&#039;s Blog</name>
+            <uri>https://blog.forecho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[A2、1PB、1Rev 实战手册：怎么入场，止损放哪，什么情况直接放弃]]></summary>
+    </entry>
+        <entry>
         <title>纠结了一下，还是把钱给退了</title>
         <id>151582</id>
         <link href="https://blog.ops-coffee.com/fire/integrated-finance-refund-ethics-app-update.html?utm_source=blogfinder" />
@@ -178,6 +321,17 @@
         <summary type="text"><![CDATA[谁懂啊！开年三个月的糟心全在这了]]></summary>
     </entry>
         <entry>
+        <title>小型纯 CPU 环境的中文命名实体识别模型选择</title>
+        <id>151619</id>
+        <link href="https://lawtee.com/article/chineses-ner-chosen/?utm_source=blogfinder" />
+        <published>2026-03-31T17:12:28+08:00</published>
+        <author>
+            <name>老 T 博客</name>
+            <uri>https://lawtee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[小型纯 CPU 环境的中文命名实体识别模型选择]]></summary>
+    </entry>
+        <entry>
         <title>26年3月总结-感冒了哦🤧</title>
         <id>151580</id>
         <link href="https://blog.lichenghao.cn/article/74t0aa3mmhq8?utm_source=blogfinder" />
@@ -198,6 +352,17 @@
             <uri>https://www.gaotianchi.com</uri>
         </author>
         <summary type="text"><![CDATA[关于弱关系、双缝干涉、吸引原则、眼泪以及贫穷]]></summary>
+    </entry>
+        <entry>
+        <title>交易心理学深度剖析：真正决定盈亏的，不是技术而是你怎么面对亏损</title>
+        <id>151618</id>
+        <link href="https://blog.forecho.com/trading-psychology-deep-analysis.html?utm_source=blogfinder" />
+        <published>2026-03-31T16:30:00+08:00</published>
+        <author>
+            <name>forecho&#039;s Blog</name>
+            <uri>https://blog.forecho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[交易心理学深度剖析：真正决定盈亏的，不是技术而是你怎么面对亏损]]></summary>
     </entry>
         <entry>
         <title>龙城的月光</title>
@@ -1452,104 +1617,5 @@
             <uri>https://blog.zhheo.com</uri>
         </author>
         <summary type="text"><![CDATA[洪绘存图发布：保存浏览器图片为指定格式、提取网页所有图片、屏幕截图插件]]></summary>
-    </entry>
-        <entry>
-        <title>使用Astro制作了一个小项目：biliVManga 用于快速检索B站有声漫画汉化视频。</title>
-        <id>151393</id>
-        <link href="https://blog.moeqy.com/tweets/20260329/post-1/?utm_source=blogfinder" />
-        <published>2026-03-29T13:35:00+08:00</published>
-        <author>
-            <name>MqyGalaxy</name>
-            <uri>https://blog.moeqy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[使用Astro制作了一个小项目：biliVManga 用于快速检索B站有声漫画汉化视频。]]></summary>
-    </entry>
-        <entry>
-        <title>胡拉图的周刊 第十三期</title>
-        <id>151373</id>
-        <link href="https://hulatu.com/posts/2026/03/29/newsletter-weekly/?utm_source=blogfinder" />
-        <published>2026-03-29T13:21:37+08:00</published>
-        <author>
-            <name>胡拉图的后花园</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[胡拉图的周刊 第十三期]]></summary>
-    </entry>
-        <entry>
-        <title>微信聊天记录查看导出工具 WeFlow v4.2.1</title>
-        <id>151367</id>
-        <link href="https://www.zhyok.cn/index.php/archives/292/?utm_source=blogfinder" />
-        <published>2026-03-29T13:20:00+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[微信聊天记录查看导出工具 WeFlow v4.2.1]]></summary>
-    </entry>
-        <entry>
-        <title>火绒强力卸载工具Beta版 Huorong Uninstaller v1.0.0.3</title>
-        <id>151368</id>
-        <link href="https://www.zhyok.cn/index.php/archives/290/?utm_source=blogfinder" />
-        <published>2026-03-29T13:05:00+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[火绒强力卸载工具Beta版 Huorong Uninstaller v1.0.0.3]]></summary>
-    </entry>
-        <entry>
-        <title>第一次用 AI 开发 Cocos 小游戏，我才认识到 MCP 的重要性</title>
-        <id>151370</id>
-        <link href="https://www.sunzhongwei.com/cocos-mcp?utm_source=blogfinder" />
-        <published>2026-03-29T12:30:32+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[第一次用 AI 开发 Cocos 小游戏，我才认识到 MCP 的重要性]]></summary>
-    </entry>
-        <entry>
-        <title>折腾了十年，我的博客被判定为“低价值”</title>
-        <id>151377</id>
-        <link href="https://www.colinjiang.com/archives/blog-low-value-content.html?utm_source=blogfinder" />
-        <published>2026-03-29T12:28:30+08:00</published>
-        <author>
-            <name>君子不器</name>
-            <uri>https://www.colinjiang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[折腾了十年，我的博客被判定为“低价值”]]></summary>
-    </entry>
-        <entry>
-        <title>我觉得医生有嫌弃我嘴馋的成份</title>
-        <id>151364</id>
-        <link href="https://chrison.cn/live/431.html?utm_source=blogfinder" />
-        <published>2026-03-29T12:04:00+08:00</published>
-        <author>
-            <name>目的地</name>
-            <uri>https://chrison.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[我觉得医生有嫌弃我嘴馋的成份]]></summary>
-    </entry>
-        <entry>
-        <title>我觉得我们更该关注学生吸烟现象</title>
-        <id>151369</id>
-        <link href="https://www.pgoj.top/archives/xueshengxiyan.html?utm_source=blogfinder" />
-        <published>2026-03-29T11:57:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[我觉得我们更该关注学生吸烟现象]]></summary>
-    </entry>
-        <entry>
-        <title>那个集记账、基金、股票于一体的APP有了新进展</title>
-        <id>151360</id>
-        <link href="https://blog.ops-coffee.com/fire/ai-coding-integrated-finance-app-update.html?utm_source=blogfinder" />
-        <published>2026-03-29T11:15:44+08:00</published>
-        <author>
-            <name>运维咖啡吧</name>
-            <uri>https://blog.ops-coffee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[那个集记账、基金、股票于一体的APP有了新进展]]></summary>
     </entry>
     </feed>
