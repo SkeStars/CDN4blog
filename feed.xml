@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-02T19:16:37+08:00</updated>
+    <updated>2026-04-02T20:00:46+08:00</updated>
         <entry>
         <title>读完《中间人经济》：重新理解连接的价值</title>
         <id>151691</id>
@@ -165,6 +165,17 @@
             <uri>https://jyblog.cn</uri>
         </author>
         <summary type="text"><![CDATA[关于我用4块钱薅了马斯克130个生成视频的羊毛这件事]]></summary>
+    </entry>
+        <entry>
+        <title>里斯本的春天</title>
+        <id>151692</id>
+        <link href="https://justgoidea.com/lisbon-spring/?utm_source=blogfinder" />
+        <published>2026-04-02T00:15:00+08:00</published>
+        <author>
+            <name>槿呈 Goidea</name>
+            <uri>https://justgoidea.com</uri>
+        </author>
+        <summary type="text"><![CDATA[里斯本的春天]]></summary>
     </entry>
         <entry>
         <title>#16 被AI卷死的三月月报</title>
@@ -1441,16 +1452,5 @@
             <uri>https://anotherdayu.com</uri>
         </author>
         <summary type="text"><![CDATA[GeForce NOW review]]></summary>
-    </entry>
-        <entry>
-        <title>重新理解运动</title>
-        <id>151449</id>
-        <link href="https://joojen.com/archives/8894.html?utm_source=blogfinder" />
-        <published>2026-03-30T19:44:33+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[重新理解运动]]></summary>
     </entry>
     </feed>
