@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-02T23:00:39+08:00</updated>
+    <updated>2026-04-03T00:00:36+08:00</updated>
+        <entry>
+        <title>230 我的一个好习惯，写日记</title>
+        <id>151702</id>
+        <link href="http://ddw2019.com/230?utm_source=blogfinder" />
+        <published>2026-04-02T22:04:17+08:00</published>
+        <author>
+            <name>Dongdong&#039;s Blog</name>
+            <uri>https://ddw2019.com</uri>
+        </author>
+        <summary type="text"><![CDATA[230 我的一个好习惯，写日记]]></summary>
+    </entry>
         <entry>
         <title>人治的尽头</title>
         <id>151697</id>
@@ -22,6 +33,17 @@
             <uri>https://wangyurui.com</uri>
         </author>
         <summary type="text"><![CDATA[人治的尽头]]></summary>
+    </entry>
+        <entry>
+        <title>无主之地2 MacOS 1.8.5 天邈汉化补丁与一键安装脚本</title>
+        <id>151700</id>
+        <link href="https://i.lckiss.com/?p=9738&amp;utm_source=blogfinder" />
+        <published>2026-04-02T21:29:54+08:00</published>
+        <author>
+            <name>伪斜杠青年</name>
+            <uri>https://i.lckiss.com</uri>
+        </author>
+        <summary type="text"><![CDATA[无主之地2 MacOS 1.8.5 天邈汉化补丁与一键安装脚本]]></summary>
     </entry>
         <entry>
         <title>Lesson 11 配分函数</title>
@@ -418,6 +440,17 @@
             <uri>https://rolen.wiki</uri>
         </author>
         <summary type="text"><![CDATA[我们就是光的本身]]></summary>
+    </entry>
+        <entry>
+        <title>看《哈姆奈特》：难以共情的文艺片</title>
+        <id>151701</id>
+        <link href="https://www.jfsay.com/archives/3954.html?utm_source=blogfinder" />
+        <published>2026-04-01T16:04:36+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[看《哈姆奈特》：难以共情的文艺片]]></summary>
     </entry>
         <entry>
         <title>Phoenix监控平台技术解析（七）：数据压缩与传输优化——Gzip 策略与 CiphertextPackage 设计</title>
@@ -1331,38 +1364,5 @@
             <uri>https://hux.ink</uri>
         </author>
         <summary type="text"><![CDATA[悦动增加点新特性]]></summary>
-    </entry>
-        <entry>
-        <title>[狐蒂云]德国8C8G 1Gbps 99两年付</title>
-        <id>151577</id>
-        <link href="https://blog.yeqing.net/hudiyun-de-99/?utm_source=blogfinder" />
-        <published>2026-03-30T23:52:08+08:00</published>
-        <author>
-            <name>夜轻 Blog</name>
-            <uri>https://blog.yeqing.net</uri>
-        </author>
-        <summary type="text"><![CDATA[[狐蒂云]德国8C8G 1Gbps 99两年付]]></summary>
-    </entry>
-        <entry>
-        <title>20260322</title>
-        <id>151552</id>
-        <link href="https://61.life/2026/0322?utm_source=blogfinder" />
-        <published>2026-03-30T23:49:32+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260322]]></summary>
-    </entry>
-        <entry>
-        <title>26春学4周杂记</title>
-        <id>151550</id>
-        <link href="https://nxxy335.top/archives/slXtOpCS?utm_source=blogfinder" />
-        <published>2026-03-30T23:42:57+08:00</published>
-        <author>
-            <name>暖心向阳</name>
-            <uri>https://nxxy335.top</uri>
-        </author>
-        <summary type="text"><![CDATA[26春学4周杂记]]></summary>
     </entry>
     </feed>
