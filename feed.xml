@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-02T20:00:46+08:00</updated>
+    <updated>2026-04-02T22:01:09+08:00</updated>
+        <entry>
+        <title>Lesson 11 配分函数</title>
+        <id>151695</id>
+        <link href="https://physnya.top/statistical-mechanics/lesson-11/?utm_source=blogfinder" />
+        <published>2026-04-02T20:53:01+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 11 配分函数]]></summary>
+    </entry>
+        <entry>
+        <title>Lesson 6 进食行为</title>
+        <id>151694</id>
+        <link href="https://physnya.top/animal-behavior/lesson-6-eat/?utm_source=blogfinder" />
+        <published>2026-04-02T20:53:01+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 6 进食行为]]></summary>
+    </entry>
+        <entry>
+        <title>Lesson 11 带电荷和旋转的黑洞</title>
+        <id>151693</id>
+        <link href="https://physnya.top/GR/lesson-11-rn-and-kerr-black-holes/?utm_source=blogfinder" />
+        <published>2026-04-02T20:53:01+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 11 带电荷和旋转的黑洞]]></summary>
+    </entry>
+        <entry>
+        <title>没开始的故事，闯进梦里</title>
+        <id>151696</id>
+        <link href="https://www.puresky.top/archives/ga973Dr3?utm_source=blogfinder" />
+        <published>2026-04-02T20:22:37+08:00</published>
+        <author>
+            <name>轻雅阁</name>
+            <uri>https://www.puresky.top</uri>
+        </author>
+        <summary type="text"><![CDATA[没开始的故事，闯进梦里]]></summary>
+    </entry>
         <entry>
         <title>读完《中间人经济》：重新理解连接的价值</title>
         <id>151691</id>
@@ -1364,93 +1408,5 @@
             <uri>https://xn--otsr53afot.com</uri>
         </author>
         <summary type="text"><![CDATA[拙劣的表演]]></summary>
-    </entry>
-        <entry>
-        <title>406MHz 共用对讲机 确实不收频占费</title>
-        <id>151448</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1211/?utm_source=blogfinder" />
-        <published>2026-03-30T21:59:00+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[406MHz 共用对讲机 确实不收频占费]]></summary>
-    </entry>
-        <entry>
-        <title>只有野兽才会张牙舞爪</title>
-        <id>151454</id>
-        <link href="https://xn--otsr53afot.com/posts/zyyschzywz/?utm_source=blogfinder" />
-        <published>2026-03-30T21:58:00+08:00</published>
-        <author>
-            <name>老朝奉</name>
-            <uri>https://xn--otsr53afot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[只有野兽才会张牙舞爪]]></summary>
-    </entry>
-        <entry>
-        <title>今天你用了多少词元？</title>
-        <id>151461</id>
-        <link href="https://kanchuan.com/blog/238?utm_source=blogfinder" />
-        <published>2026-03-30T21:30:00+08:00</published>
-        <author>
-            <name>陈看川博客</name>
-            <uri>https://kanchuan.com/blog</uri>
-        </author>
-        <summary type="text"><![CDATA[今天你用了多少词元？]]></summary>
-    </entry>
-        <entry>
-        <title>2026-03小记</title>
-        <id>151522</id>
-        <link href="https://blog.storia.ren/posts/write-202603/?utm_source=blogfinder" />
-        <published>2026-03-30T21:09:51+08:00</published>
-        <author>
-            <name>绘星里</name>
-            <uri>https://blog.storia.ren</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-03小记]]></summary>
-    </entry>
-        <entry>
-        <title>你相信光吗</title>
-        <id>151458</id>
-        <link href="https://hux.ink/posts/the-dark-of-light/?utm_source=blogfinder" />
-        <published>2026-03-30T20:50:00+08:00</published>
-        <author>
-            <name>Counting Stars</name>
-            <uri>https://hux.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[你相信光吗]]></summary>
-    </entry>
-        <entry>
-        <title>Pensieve: 2603</title>
-        <id>151543</id>
-        <link href="https://xiaket.github.io/2026/pensieve-2603.html?utm_source=blogfinder" />
-        <published>2026-03-30T20:29:00+08:00</published>
-        <author>
-            <name>年华转瞬</name>
-            <uri>https://blog.xiaket.org</uri>
-        </author>
-        <summary type="text"><![CDATA[Pensieve: 2603]]></summary>
-    </entry>
-        <entry>
-        <title>群晖宕机10小时</title>
-        <id>151459</id>
-        <link href="https://hux.ink/posts/nas-was-down/?utm_source=blogfinder" />
-        <published>2026-03-30T20:06:00+08:00</published>
-        <author>
-            <name>Counting Stars</name>
-            <uri>https://hux.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[群晖宕机10小时]]></summary>
-    </entry>
-        <entry>
-        <title>GeForce NOW review</title>
-        <id>151444</id>
-        <link href="https://anotherdayu.com/geforce-now/?utm_source=blogfinder" />
-        <published>2026-03-30T20:03:00+08:00</published>
-        <author>
-            <name>Another Dayu</name>
-            <uri>https://anotherdayu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[GeForce NOW review]]></summary>
     </entry>
     </feed>
