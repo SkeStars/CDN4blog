@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-02T13:04:54+08:00</updated>
+    <updated>2026-04-02T15:02:12+08:00</updated>
+        <entry>
+        <title>装机</title>
+        <id>151683</id>
+        <link href="https://ltmltm.cn/bk/1437.html?utm_source=blogfinder" />
+        <published>2026-04-02T13:44:10+08:00</published>
+        <author>
+            <name>因为很想念</name>
+            <uri>https://ltmltm.cn/bk</uri>
+        </author>
+        <summary type="text"><![CDATA[装机]]></summary>
+    </entry>
+        <entry>
+        <title>分享一下去公园拍的照片</title>
+        <id>151686</id>
+        <link href="https://www.xiaocaoderijiben.online/archives/349?utm_source=blogfinder" />
+        <published>2026-04-02T12:30:30+08:00</published>
+        <author>
+            <name>小草的日记本</name>
+            <uri>https://www.xiaocaoderijiben.online</uri>
+        </author>
+        <summary type="text"><![CDATA[分享一下去公园拍的照片]]></summary>
+    </entry>
         <entry>
         <title>查看一加手机电池循环次数</title>
         <id>151679</id>
@@ -44,6 +66,17 @@
             <uri>https://immarcus.com</uri>
         </author>
         <summary type="text"><![CDATA[逻辑的边界是底线]]></summary>
+    </entry>
+        <entry>
+        <title>再次给博客添加两个返回顶部</title>
+        <id>151685</id>
+        <link href="https://ayayy.com/Dmz/154.html?utm_source=blogfinder" />
+        <published>2026-04-02T07:34:00+08:00</published>
+        <author>
+            <name>哎呀哎呀呀</name>
+            <uri>https://ayayy.com</uri>
+        </author>
+        <summary type="text"><![CDATA[再次给博客添加两个返回顶部]]></summary>
     </entry>
         <entry>
         <title>PWA与Web App技术实践（技术深度解析）</title>
@@ -88,6 +121,17 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[图论算法与网络流优化]]></summary>
+    </entry>
+        <entry>
+        <title>关于我用4块钱薅了马斯克130个生成视频的羊毛这件事</title>
+        <id>151684</id>
+        <link href="https://jyblog.cn/5194/?utm_source=blogfinder" />
+        <published>2026-04-02T00:21:41+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[关于我用4块钱薅了马斯克130个生成视频的羊毛这件事]]></summary>
     </entry>
         <entry>
         <title>#16 被AI卷死的三月月报</title>
@@ -1452,71 +1496,5 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1643】万翔《映像与幻想：古代西方作家笔下的中国》]]></summary>
-    </entry>
-        <entry>
-        <title>年赚 5000 万美元的交易团队，在一顿晚餐上说了什么？</title>
-        <id>151456</id>
-        <link href="https://blog.forecho.com/top-trading-team-dinner-lessons.html?utm_source=blogfinder" />
-        <published>2026-03-30T15:00:00+08:00</published>
-        <author>
-            <name>forecho&#039;s Blog</name>
-            <uri>https://blog.forecho.com</uri>
-        </author>
-        <summary type="text"><![CDATA[年赚 5000 万美元的交易团队，在一顿晚餐上说了什么？]]></summary>
-    </entry>
-        <entry>
-        <title>LLM 工程化在福 uu 中的落地实践 —— 假期自动调课的智能解析</title>
-        <id>151462</id>
-        <link href="https://blog.baoshuo.ren/post/fzuhelper-llm-as-function/?utm_source=blogfinder" />
-        <published>2026-03-30T14:55:00+08:00</published>
-        <author>
-            <name>宝硕博客</name>
-            <uri>https://blog.baoshuo.ren</uri>
-        </author>
-        <summary type="text"><![CDATA[LLM 工程化在福 uu 中的落地实践 —— 假期自动调课的智能解析]]></summary>
-    </entry>
-        <entry>
-        <title>考摩托车本，C1增驾D</title>
-        <id>151553</id>
-        <link href="https://www.kqwq.com/richang/3434.html?utm_source=blogfinder" />
-        <published>2026-03-30T14:45:10+08:00</published>
-        <author>
-            <name>ts 小陈</name>
-            <uri>https://www.kqwq.com</uri>
-        </author>
-        <summary type="text"><![CDATA[考摩托车本，C1增驾D]]></summary>
-    </entry>
-        <entry>
-        <title>2026.3.29</title>
-        <id>151431</id>
-        <link href="https://www.justzht.com/2026-3-29/?utm_source=blogfinder" />
-        <published>2026-03-30T13:36:39+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.3.29]]></summary>
-    </entry>
-        <entry>
-        <title>用 AI 生成了两个契合博客图标的小视频</title>
-        <id>151438</id>
-        <link href="https://www.aiwazi.com/3045.html?utm_source=blogfinder" />
-        <published>2026-03-30T13:33:18+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[用 AI 生成了两个契合博客图标的小视频]]></summary>
-    </entry>
-        <entry>
-        <title>【WordPress插件】Blog Helper-设置心情状态、同步微信运动、快速发布说说、时光机、碎语、日记、心情</title>
-        <id>151441</id>
-        <link href="https://chrison.cn/work/433.html?utm_source=blogfinder" />
-        <published>2026-03-30T13:11:00+08:00</published>
-        <author>
-            <name>目的地</name>
-            <uri>https://chrison.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[【WordPress插件】Blog Helper-设置心情状态、同步微信运动、快速发布说说、时光机、碎语、日记、心情]]></summary>
     </entry>
     </feed>
