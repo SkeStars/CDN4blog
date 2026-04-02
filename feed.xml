@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-02T15:02:12+08:00</updated>
+    <updated>2026-04-02T17:00:32+08:00</updated>
+        <entry>
+        <title>手把手修复RSS 403：从PHP警告到Cloudflare拦截的全链路排查</title>
+        <id>151690</id>
+        <link href="https://wuqishi.com/rss-403-error-php8-cloudflare-waf-fix/?utm_source=blogfinder" />
+        <published>2026-04-02T14:49:00+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[手把手修复RSS 403：从PHP警告到Cloudflare拦截的全链路排查]]></summary>
+    </entry>
         <entry>
         <title>装机</title>
         <id>151683</id>
@@ -44,6 +55,17 @@
             <uri>https://www.gujishe.com</uri>
         </author>
         <summary type="text"><![CDATA[查看一加手机电池循环次数]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记】唐朝的四次“玄武门之变”</title>
+        <id>151689</id>
+        <link href="http://www.qncd.com/?p=12609&amp;utm_source=blogfinder" />
+        <published>2026-04-02T10:28:57+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记】唐朝的四次“玄武门之变”]]></summary>
     </entry>
         <entry>
         <title>图神经网络与知识图谱应用</title>
@@ -1441,60 +1463,5 @@
             <uri>https://www.evan.xin</uri>
         </author>
         <summary type="text"><![CDATA[设计AI双生子：选星流还是Lovart，取决于你的需求而非价格]]></summary>
-    </entry>
-        <entry>
-        <title>汝之佳肴彼之毒药的杨笠</title>
-        <id>151443</id>
-        <link href="https://www.pgoj.top/archives/yanglireyi.html?utm_source=blogfinder" />
-        <published>2026-03-30T16:33:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[汝之佳肴彼之毒药的杨笠]]></summary>
-    </entry>
-        <entry>
-        <title>「十日后」Vol.3 · 三十天</title>
-        <id>151447</id>
-        <link href="https://www.suiyan.cc/blog/20260330162400/?utm_source=blogfinder" />
-        <published>2026-03-30T16:24:00+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[「十日后」Vol.3 · 三十天]]></summary>
-    </entry>
-        <entry>
-        <title>速逛黄鹤楼</title>
-        <id>151432</id>
-        <link href="https://airy.ink/daily/437?utm_source=blogfinder" />
-        <published>2026-03-30T15:52:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[速逛黄鹤楼]]></summary>
-    </entry>
-        <entry>
-        <title>VLESS + Reality + Vision：2026 极致隐蔽节点搭建全解析</title>
-        <id>151559</id>
-        <link href="https://wuqishi.com/vless-reality-vision-2026-ultimate-hide-node-guide/?utm_source=blogfinder" />
-        <published>2026-03-30T15:46:00+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[VLESS + Reality + Vision：2026 极致隐蔽节点搭建全解析]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1643】万翔《映像与幻想：古代西方作家笔下的中国》</title>
-        <id>151450</id>
-        <link href="http://www.qncd.com/?p=12587&amp;utm_source=blogfinder" />
-        <published>2026-03-30T15:19:23+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1643】万翔《映像与幻想：古代西方作家笔下的中国》]]></summary>
     </entry>
     </feed>
