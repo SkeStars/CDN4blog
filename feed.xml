@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-02T17:00:32+08:00</updated>
+    <updated>2026-04-02T19:16:37+08:00</updated>
+        <entry>
+        <title>读完《中间人经济》：重新理解连接的价值</title>
+        <id>151691</id>
+        <link href="https://www.gaotianchi.com/rethinking-value-connection-middleman-economy/?utm_source=blogfinder" />
+        <published>2026-04-02T17:35:10+08:00</published>
+        <author>
+            <name>高天驰</name>
+            <uri>https://www.gaotianchi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[读完《中间人经济》：重新理解连接的价值]]></summary>
+    </entry>
         <entry>
         <title>手把手修复RSS 403：从PHP警告到Cloudflare拦截的全链路排查</title>
         <id>151690</id>
@@ -1441,27 +1452,5 @@
             <uri>https://joojen.com</uri>
         </author>
         <summary type="text"><![CDATA[重新理解运动]]></summary>
-    </entry>
-        <entry>
-        <title>关于小学</title>
-        <id>151445</id>
-        <link href="https://shuiba.co/notes-on-primary-school?utm_source=blogfinder" />
-        <published>2026-03-30T17:33:00+08:00</published>
-        <author>
-            <name>水八口的冥想盆</name>
-            <uri>https://shuiba.co</uri>
-        </author>
-        <summary type="text"><![CDATA[关于小学]]></summary>
-    </entry>
-        <entry>
-        <title>设计AI双生子：选星流还是Lovart，取决于你的需求而非价格</title>
-        <id>151452</id>
-        <link href="https://www.evan.xin/4903/?utm_source=blogfinder" />
-        <published>2026-03-30T17:09:45+08:00</published>
-        <author>
-            <name>Evan&#039;s Space</name>
-            <uri>https://www.evan.xin</uri>
-        </author>
-        <summary type="text"><![CDATA[设计AI双生子：选星流还是Lovart，取决于你的需求而非价格]]></summary>
     </entry>
     </feed>
