@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-03T11:01:15+08:00</updated>
+    <updated>2026-04-03T13:05:08+08:00</updated>
         <entry>
         <title>又拍云插件 UpyunFile v1.2 更新：修复 Typecho 1.3.0 兼容性问题</title>
         <id>151740</id>
@@ -33,6 +33,28 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[云原生网络与Service Mesh]]></summary>
+    </entry>
+        <entry>
+        <title>gogogo，准备出发啦~《药师岩》</title>
+        <id>151748</id>
+        <link href="https://liuqingwushui.top/archives/149/?utm_source=blogfinder" />
+        <published>2026-04-03T09:54:00+08:00</published>
+        <author>
+            <name>流情的博客</name>
+            <uri>https://liuqingwushui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[gogogo，准备出发啦~《药师岩》]]></summary>
+    </entry>
+        <entry>
+        <title>第一百六十万字</title>
+        <id>151746</id>
+        <link href="https://mobius.blog/2026/04/03/one-million-six-hundred-thousand-words/?utm_source=blogfinder" />
+        <published>2026-04-03T09:44:32+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[第一百六十万字]]></summary>
     </entry>
         <entry>
         <title>直播聚合工具 - 观潮台v2.0</title>
@@ -99,6 +121,28 @@
             <uri>https://blog.giveanornot.com</uri>
         </author>
         <summary type="text"><![CDATA[嘸蝦米使用七個月成果，要怎麼樣才能打快？簡碼要怎麼記？]]></summary>
+    </entry>
+        <entry>
+        <title>2026-04-02 22:38</title>
+        <id>151747</id>
+        <link href="https://koobai.com/laodao/2026/04/20260402-223837/?utm_source=blogfinder" />
+        <published>2026-04-02T22:38:37+08:00</published>
+        <author>
+            <name>Koobai</name>
+            <uri>https://koobai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-04-02 22:38]]></summary>
+    </entry>
+        <entry>
+        <title>别拿研学当幌子，春秋假更像普通家庭的消费负担</title>
+        <id>151749</id>
+        <link href="https://zhujay.com/blog/blog_view.asp?id=1219&amp;utm_source=blogfinder" />
+        <published>2026-04-02T22:34:44+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[别拿研学当幌子，春秋假更像普通家庭的消费负担]]></summary>
     </entry>
         <entry>
         <title>230 我的一个好习惯，写日记</title>
@@ -1331,38 +1375,5 @@
             <uri>https://krya.com</uri>
         </author>
         <summary type="text"><![CDATA[你的胃里，还住着那个穷孩子]]></summary>
-    </entry>
-        <entry>
-        <title>如何呢，又能怎？</title>
-        <id>151646</id>
-        <link href="https://mobius.blog/2026/03/31/how-so-what-now/?utm_source=blogfinder" />
-        <published>2026-03-31T11:45:08+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[如何呢，又能怎？]]></summary>
-    </entry>
-        <entry>
-        <title>“以读养读”的可能</title>
-        <id>151574</id>
-        <link href="http://www.qncd.com/?p=12612&amp;utm_source=blogfinder" />
-        <published>2026-03-31T11:33:07+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[“以读养读”的可能]]></summary>
-    </entry>
-        <entry>
-        <title>以清醒赴时代，以理想赴未来——写给当代年轻人的成长与希望</title>
-        <id>151597</id>
-        <link href="https://www.mxr612.io/index.php/archives/219/?utm_source=blogfinder" />
-        <published>2026-03-31T11:31:42+08:00</published>
-        <author>
-            <name>mxr612</name>
-            <uri>https://www.mxr612.io</uri>
-        </author>
-        <summary type="text"><![CDATA[以清醒赴时代，以理想赴未来——写给当代年轻人的成长与希望]]></summary>
     </entry>
     </feed>
