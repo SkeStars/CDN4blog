@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-03T23:00:29+08:00</updated>
+    <updated>2026-04-04T00:00:22+08:00</updated>
+        <entry>
+        <title>4月的哈尔滨又下雪了</title>
+        <id>151785</id>
+        <link href="https://siwei.li/4yue-de-ha-er-bin-you-xia-xue-liao/?utm_source=blogfinder" />
+        <published>2026-04-03T23:59:28+08:00</published>
+        <author>
+            <name>Siwei Li</name>
+            <uri>https://siwei.li</uri>
+        </author>
+        <summary type="text"><![CDATA[4月的哈尔滨又下雪了]]></summary>
+    </entry>
         <entry>
         <title>近闻电动车涨价，买了五星钻豹品牌电动车，以旧换新价2600元</title>
         <id>151783</id>
@@ -90,6 +101,17 @@
         <summary type="text"><![CDATA[关于Unity China的后续记录]]></summary>
     </entry>
         <entry>
+        <title>跟OpenClaw从零开发一个WordPress插件：把飞书多维表格数据搬到网站</title>
+        <id>151784</id>
+        <link href="https://www.wangdu.site/course/2331.html?utm_source=blogfinder" />
+        <published>2026-04-03T17:00:05+08:00</published>
+        <author>
+            <name>文武科技柜</name>
+            <uri>https://www.wangdu.site</uri>
+        </author>
+        <summary type="text"><![CDATA[跟OpenClaw从零开发一个WordPress插件：把飞书多维表格数据搬到网站]]></summary>
+    </entry>
+        <entry>
         <title>等放假</title>
         <id>151770</id>
         <link href="https://chrison.cn/live/437.html?utm_source=blogfinder" />
@@ -143,6 +165,28 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 12 Penrose 过程与 Hawking 辐射]]></summary>
+    </entry>
+        <entry>
+        <title>使用 Claude Pro 一個月的心得：滿有幫助的，但我想退訂了</title>
+        <id>151786</id>
+        <link href="https://blog.giveanornot.com/i-want-to-unsubscribe-claude-pro/?utm_source=blogfinder" />
+        <published>2026-04-03T15:33:49+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[使用 Claude Pro 一個月的心得：滿有幫助的，但我想退訂了]]></summary>
+    </entry>
+        <entry>
+        <title>JN 最近在幹嘛</title>
+        <id>151787</id>
+        <link href="https://blog.giveanornot.com/now/20260402/?utm_source=blogfinder" />
+        <published>2026-04-03T14:49:24+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[JN 最近在幹嘛]]></summary>
     </entry>
         <entry>
         <title>生肖定制款明信片今日开兑！120呆币换全套+徽章</title>
@@ -1342,38 +1386,5 @@
             <uri>https://www.xhhao.com</uri>
         </author>
         <summary type="text"><![CDATA[搜个微信客服被骗1900块，315曝光的“AI投毒”套路防不胜防]]></summary>
-    </entry>
-        <entry>
-        <title>20260331</title>
-        <id>151587</id>
-        <link href="https://61.life/2026/0331?utm_source=blogfinder" />
-        <published>2026-03-31T23:20:54+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260331]]></summary>
-    </entry>
-        <entry>
-        <title>为什么你看对了方向，还是赚不到钱</title>
-        <id>151611</id>
-        <link href="https://blog.forecho.com/why-you-still-cant-make-money-even-if-you-read-the-market-right.html?utm_source=blogfinder" />
-        <published>2026-03-31T23:10:00+08:00</published>
-        <author>
-            <name>forecho&#039;s Blog</name>
-            <uri>https://blog.forecho.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么你看对了方向，还是赚不到钱]]></summary>
-    </entry>
-        <entry>
-        <title>二零二六年三月</title>
-        <id>151593</id>
-        <link href="https://tetsuhannah.blog/2026/03/31/%e4%ba%8c%e9%9b%b6%e4%ba%8c%e5%85%ad%e5%b9%b4%e4%b8%89%e6%9c%88/?utm_source=blogfinder" />
-        <published>2026-03-31T23:07:07+08:00</published>
-        <author>
-            <name>菜昂纳少</name>
-            <uri>https://tetsuhannah.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[二零二六年三月]]></summary>
     </entry>
     </feed>
