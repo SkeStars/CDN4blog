@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-03T20:00:55+08:00</updated>
+    <updated>2026-04-03T21:00:47+08:00</updated>
+        <entry>
+        <title>堆豆子</title>
+        <id>151778</id>
+        <link href="https://hjyl.org/pile-coffee-beans/?utm_source=blogfinder" />
+        <published>2026-04-03T20:33:21+08:00</published>
+        <author>
+            <name>皇家元林</name>
+            <uri>https://hjyl.org</uri>
+        </author>
+        <summary type="text"><![CDATA[堆豆子]]></summary>
+    </entry>
         <entry>
         <title>2026-04-03 11:57</title>
         <id>151769</id>
@@ -385,6 +396,17 @@
             <uri>https://wangyurui.com</uri>
         </author>
         <summary type="text"><![CDATA[人治的尽头]]></summary>
+    </entry>
+        <entry>
+        <title>昨天晚上“意外”加餐了</title>
+        <id>151777</id>
+        <link href="http://99887766554433221100.cn/index.php/archives/184/?utm_source=blogfinder" />
+        <published>2026-04-02T21:42:03+08:00</published>
+        <author>
+            <name>南香香</name>
+            <uri>http://99887766554433221100.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[昨天晚上“意外”加餐了]]></summary>
     </entry>
         <entry>
         <title>无主之地2 MacOS 1.8.5 天邈汉化补丁与一键安装脚本</title>
@@ -1419,16 +1441,5 @@
             <uri>https://blog.forecho.com</uri>
         </author>
         <summary type="text"><![CDATA[A2、1PB、1Rev 实战手册：怎么入场，止损放哪，什么情况直接放弃]]></summary>
-    </entry>
-        <entry>
-        <title>房子差点被烧：为什么插座都烧没了空气开关没有跳闸</title>
-        <id>151631</id>
-        <link href="https://lklog.cn/chat/1396.html?utm_source=blogfinder" />
-        <published>2026-03-31T20:14:23+08:00</published>
-        <author>
-            <name>龙鲲博客</name>
-            <uri>https://lklog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[房子差点被烧：为什么插座都烧没了空气开关没有跳闸]]></summary>
     </entry>
     </feed>
