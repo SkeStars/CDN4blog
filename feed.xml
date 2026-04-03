@@ -11,7 +11,95 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-03T00:00:36+08:00</updated>
+    <updated>2026-04-03T11:01:15+08:00</updated>
+        <entry>
+        <title>又拍云插件 UpyunFile v1.2 更新：修复 Typecho 1.3.0 兼容性问题</title>
+        <id>151740</id>
+        <link href="https://wuqishi.com/upyunfile-v1-2-update-fixes-typecho-1-3-0-compatibility/?utm_source=blogfinder" />
+        <published>2026-04-03T10:23:00+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[又拍云插件 UpyunFile v1.2 更新：修复 Typecho 1.3.0 兼容性问题]]></summary>
+    </entry>
+        <entry>
+        <title>云原生网络与Service Mesh</title>
+        <id>151741</id>
+        <link href="https://www.aserver.cn/?post=146&amp;utm_source=blogfinder" />
+        <published>2026-04-03T10:00:01+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[云原生网络与Service Mesh]]></summary>
+    </entry>
+        <entry>
+        <title>直播聚合工具 - 观潮台v2.0</title>
+        <id>151737</id>
+        <link href="https://www.zhyok.cn/index.php/archives/315/?utm_source=blogfinder" />
+        <published>2026-04-03T09:34:00+08:00</published>
+        <author>
+            <name>秋記 Autumn</name>
+            <uri>https://www.zhyok.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[直播聚合工具 - 观潮台v2.0]]></summary>
+    </entry>
+        <entry>
+        <title>20260402</title>
+        <id>151736</id>
+        <link href="https://61.life/2026/0402?utm_source=blogfinder" />
+        <published>2026-04-03T09:17:08+08:00</published>
+        <author>
+            <name>61’s life</name>
+            <uri>https://61.life</uri>
+        </author>
+        <summary type="text"><![CDATA[20260402]]></summary>
+    </entry>
+        <entry>
+        <title>挂画</title>
+        <id>151734</id>
+        <link href="https://www.immarcus.com/blog/hanging-a-picture?utm_source=blogfinder" />
+        <published>2026-04-03T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[挂画]]></summary>
+    </entry>
+        <entry>
+        <title>网络安全攻防技术与实践</title>
+        <id>151742</id>
+        <link href="https://www.aserver.cn/?post=145&amp;utm_source=blogfinder" />
+        <published>2026-04-03T04:00:01+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[网络安全攻防技术与实践]]></summary>
+    </entry>
+        <entry>
+        <title>Linux Shell脚本编程高级技巧（技术深度解析）</title>
+        <id>151743</id>
+        <link href="https://www.aserver.cn/?post=144&amp;utm_source=blogfinder" />
+        <published>2026-04-03T01:00:02+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Linux Shell脚本编程高级技巧（技术深度解析）]]></summary>
+    </entry>
+        <entry>
+        <title>嘸蝦米使用七個月成果，要怎麼樣才能打快？簡碼要怎麼記？</title>
+        <id>151745</id>
+        <link href="https://blog.giveanornot.com/boshiamy-shorthands/?utm_source=blogfinder" />
+        <published>2026-04-02T23:46:03+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[嘸蝦米使用七個月成果，要怎麼樣才能打快？簡碼要怎麼記？]]></summary>
+    </entry>
         <entry>
         <title>230 我的一个好习惯，写日记</title>
         <id>151702</id>
@@ -44,6 +132,17 @@
             <uri>https://i.lckiss.com</uri>
         </author>
         <summary type="text"><![CDATA[无主之地2 MacOS 1.8.5 天邈汉化补丁与一键安装脚本]]></summary>
+    </entry>
+        <entry>
+        <title>刨根问底啥？Just remember！</title>
+        <id>151735</id>
+        <link href="https://www.pgoj.top/archives/shuxuepaogenwendi.html?utm_source=blogfinder" />
+        <published>2026-04-02T21:15:20+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[刨根问底啥？Just remember！]]></summary>
     </entry>
         <entry>
         <title>Lesson 11 配分函数</title>
@@ -90,6 +189,39 @@
         <summary type="text"><![CDATA[没开始的故事，闯进梦里]]></summary>
     </entry>
         <entry>
+        <title>一催就出错，再催变一坨</title>
+        <id>151730</id>
+        <link href="http://stuit.cn/Xiaolu/Post/1606.html?utm_source=blogfinder" />
+        <published>2026-04-02T20:11:17+08:00</published>
+        <author>
+            <name>风雨行者</name>
+            <uri>http://stuit.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[一催就出错，再催变一坨]]></summary>
+    </entry>
+        <entry>
+        <title>3.16望仙谷</title>
+        <id>151709</id>
+        <link href="https://mmcl.net/archives/128.html?utm_source=blogfinder" />
+        <published>2026-04-02T18:19:00+08:00</published>
+        <author>
+            <name>漫漫长路</name>
+            <uri>https://mmcl.net</uri>
+        </author>
+        <summary type="text"><![CDATA[3.16望仙谷]]></summary>
+    </entry>
+        <entry>
+        <title>遗物盒子</title>
+        <id>151744</id>
+        <link href="https://zooyoo.top/article.php?id=44&amp;utm_source=blogfinder" />
+        <published>2026-04-02T18:01:21+08:00</published>
+        <author>
+            <name>热衷于的博客</name>
+            <uri>https://zooyoo.top</uri>
+        </author>
+        <summary type="text"><![CDATA[遗物盒子]]></summary>
+    </entry>
+        <entry>
         <title>读完《中间人经济》：重新理解连接的价值</title>
         <id>151691</id>
         <link href="https://www.gaotianchi.com/rethinking-value-connection-middleman-economy/?utm_source=blogfinder" />
@@ -99,6 +231,28 @@
             <uri>https://www.gaotianchi.com</uri>
         </author>
         <summary type="text"><![CDATA[读完《中间人经济》：重新理解连接的价值]]></summary>
+    </entry>
+        <entry>
+        <title>直击痛点！搜狗输入法-纯净精简化尊享版，全面拦截各类弹窗广告</title>
+        <id>151738</id>
+        <link href="https://www.zhyok.cn/index.php/archives/311/?utm_source=blogfinder" />
+        <published>2026-04-02T17:03:00+08:00</published>
+        <author>
+            <name>秋記 Autumn</name>
+            <uri>https://www.zhyok.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[直击痛点！搜狗输入法-纯净精简化尊享版，全面拦截各类弹窗广告]]></summary>
+    </entry>
+        <entry>
+        <title>OpenClaw喧嚣过后，我最终选择了QClaw</title>
+        <id>151739</id>
+        <link href="https://blog.zhheo.com/p/bublpdof.html?utm_source=blogfinder" />
+        <published>2026-04-02T15:13:58+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenClaw喧嚣过后，我最终选择了QClaw]]></summary>
     </entry>
         <entry>
         <title>手把手修复RSS 403：从PHP警告到Cloudflare拦截的全链路排查</title>
@@ -112,6 +266,17 @@
         <summary type="text"><![CDATA[手把手修复RSS 403：从PHP警告到Cloudflare拦截的全链路排查]]></summary>
     </entry>
         <entry>
+        <title>使用wayvnc远程访问无头Wayfire会话</title>
+        <id>151703</id>
+        <link href="https://blog.lilydjwg.me/posts/217020.html?utm_source=blogfinder" />
+        <published>2026-04-02T13:59:32+08:00</published>
+        <author>
+            <name>依云&#039;s Blog</name>
+            <uri>https://blog.lilydjwg.me</uri>
+        </author>
+        <summary type="text"><![CDATA[使用wayvnc远程访问无头Wayfire会话]]></summary>
+    </entry>
+        <entry>
         <title>装机</title>
         <id>151683</id>
         <link href="https://ltmltm.cn/bk/1437.html?utm_source=blogfinder" />
@@ -121,6 +286,17 @@
             <uri>https://ltmltm.cn/bk</uri>
         </author>
         <summary type="text"><![CDATA[装机]]></summary>
+    </entry>
+        <entry>
+        <title>人活着一定要善待自己</title>
+        <id>151712</id>
+        <link href="https://blog.yiyou.bj.cn/archives/ren-huo-zhao-yi-ding-yao-shan-dai-zi-ji?utm_source=blogfinder" />
+        <published>2026-04-02T13:21:52+08:00</published>
+        <author>
+            <name>益友网站</name>
+            <uri>https://blog.yiyou.bj.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[人活着一定要善待自己]]></summary>
     </entry>
         <entry>
         <title>分享一下去公园拍的照片</title>
@@ -167,6 +343,39 @@
         <summary type="text"><![CDATA[图神经网络与知识图谱应用]]></summary>
     </entry>
         <entry>
+        <title>再次迷上了买宜家的东西</title>
+        <id>151710</id>
+        <link href="https://batora.ushiromiya.com/archives/Getting-Hooked-on-IKEA-Again.html?utm_source=blogfinder" />
+        <published>2026-04-02T08:17:00+08:00</published>
+        <author>
+            <name>猫箱内の六軒島</name>
+            <uri>https://batora.ushiromiya.com</uri>
+        </author>
+        <summary type="text"><![CDATA[再次迷上了买宜家的东西]]></summary>
+    </entry>
+        <entry>
+        <title>雨后多云</title>
+        <id>151733</id>
+        <link href="https://www.mioz.life/Mlog/20260402a?utm_source=blogfinder" />
+        <published>2026-04-02T08:00:00+08:00</published>
+        <author>
+            <name>猫酣</name>
+            <uri>https://mioz.life</uri>
+        </author>
+        <summary type="text"><![CDATA[雨后多云]]></summary>
+    </entry>
+        <entry>
+        <title>我的写作流程,经历了三个阶段</title>
+        <id>151732</id>
+        <link href="https://blog.gudong.site/2026/04/02/wo-de-xie-zuo-liu-cheng-jing-li-le-san-ge-jie-duan.html?utm_source=blogfinder" />
+        <published>2026-04-02T08:00:00+08:00</published>
+        <author>
+            <name>咕咚同学</name>
+            <uri>https://blog.gudong.site</uri>
+        </author>
+        <summary type="text"><![CDATA[我的写作流程,经历了三个阶段]]></summary>
+    </entry>
+        <entry>
         <title>逻辑的边界是底线</title>
         <id>151671</id>
         <link href="https://www.immarcus.com/blog/boundary-of-logic?utm_source=blogfinder" />
@@ -187,6 +396,17 @@
             <uri>https://ayayy.com</uri>
         </author>
         <summary type="text"><![CDATA[再次给博客添加两个返回顶部]]></summary>
+    </entry>
+        <entry>
+        <title>2026年三月 读国际关系 活着 2本</title>
+        <id>151705</id>
+        <link href="https://conge.livingwithfcs.org/2026/04/01/reading_summary/?utm_source=blogfinder" />
+        <published>2026-04-02T06:17:00+08:00</published>
+        <author>
+            <name>Conge</name>
+            <uri>https://conge.livingwithfcs.org</uri>
+        </author>
+        <summary type="text"><![CDATA[2026年三月 读国际关系 活着 2本]]></summary>
     </entry>
         <entry>
         <title>PWA与Web App技术实践（技术深度解析）</title>
@@ -431,6 +651,17 @@
         <summary type="text"><![CDATA[糟糕！我的 OpenClaw 中了病毒]]></summary>
     </entry>
         <entry>
+        <title>从杭州到汴州</title>
+        <id>151704</id>
+        <link href="https://blog.xulihang.me/travel-to-henan/?utm_source=blogfinder" />
+        <published>2026-04-01T16:55:50+08:00</published>
+        <author>
+            <name>xulihang&#039;s blog</name>
+            <uri>https://blog.xulihang.me</uri>
+        </author>
+        <summary type="text"><![CDATA[从杭州到汴州]]></summary>
+    </entry>
+        <entry>
         <title>我们就是光的本身</title>
         <id>151675</id>
         <link href="https://rolen.wiki/nothing-to-become/?utm_source=blogfinder" />
@@ -539,6 +770,17 @@
             <uri>https://blog.cytrogen.icu</uri>
         </author>
         <summary type="text"><![CDATA[想法在丙午蚕月迭代]]></summary>
+    </entry>
+        <entry>
+        <title>🤖 AI 评论自动回复插件 — 让每条评论都得到温暖的回应</title>
+        <id>151723</id>
+        <link href="https://www.oszz.cn/post/7?utm_source=blogfinder" />
+        <published>2026-04-01T11:45:00+08:00</published>
+        <author>
+            <name>李文君 &#039;s Blog</name>
+            <uri>https://www.oszz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[🤖 AI 评论自动回复插件 — 让每条评论都得到温暖的回应]]></summary>
     </entry>
         <entry>
         <title>张雪机车WSBK两连冠：中国高端制造的时代宣言</title>
@@ -695,6 +937,17 @@
         <summary type="text"><![CDATA[一个倔老头的申辩]]></summary>
     </entry>
         <entry>
+        <title>年长，亦有棱角</title>
+        <id>151713</id>
+        <link href="https://www.jianker.cn/264.html?utm_source=blogfinder" />
+        <published>2026-04-01T04:07:50+08:00</published>
+        <author>
+            <name>魏德龙博客</name>
+            <uri>https://www.jianker.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[年长，亦有棱角]]></summary>
+    </entry>
+        <entry>
         <title>前端工程化与DevOps实践（技术深度解析）</title>
         <id>151609</id>
         <link href="https://www.aserver.cn/?post=139&amp;utm_source=blogfinder" />
@@ -715,6 +968,17 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[Linux系统服务与自动化运维]]></summary>
+    </entry>
+        <entry>
+        <title>🛡️ AI 评论审核插件 —— 让违规评论无处遁形</title>
+        <id>151724</id>
+        <link href="https://www.oszz.cn/post/8?utm_source=blogfinder" />
+        <published>2026-04-01T00:14:00+08:00</published>
+        <author>
+            <name>李文君 &#039;s Blog</name>
+            <uri>https://www.oszz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[🛡️ AI 评论审核插件 —— 让违规评论无处遁形]]></summary>
     </entry>
         <entry>
         <title>搜个微信客服被骗1900块，315曝光的“AI投毒”套路防不胜防</title>
@@ -1100,269 +1364,5 @@
             <uri>https://www.mxr612.io</uri>
         </author>
         <summary type="text"><![CDATA[以清醒赴时代，以理想赴未来——写给当代年轻人的成长与希望]]></summary>
-    </entry>
-        <entry>
-        <title>26 周记 | 13</title>
-        <id>151568</id>
-        <link href="http://ellenli.cc/posts/26-13/?utm_source=blogfinder" />
-        <published>2026-03-31T11:00:00+08:00</published>
-        <author>
-            <name>Ellen&#039;s 自留地</name>
-            <uri>https://ellenli.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[26 周记 | 13]]></summary>
-    </entry>
-        <entry>
-        <title>深度学习模型训练与优化实战（技术深度解析）</title>
-        <id>151561</id>
-        <link href="https://www.aserver.cn/?post=137&amp;utm_source=blogfinder" />
-        <published>2026-03-31T10:00:01+08:00</published>
-        <author>
-            <name>俞事</name>
-            <uri>https://www.aserver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[深度学习模型训练与优化实战（技术深度解析）]]></summary>
-    </entry>
-        <entry>
-        <title>慎思堂记</title>
-        <id>151555</id>
-        <link href="https://www.zhyok.cn/index.php/archives/304/?utm_source=blogfinder" />
-        <published>2026-03-31T09:46:00+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[慎思堂记]]></summary>
-    </entry>
-        <entry>
-        <title>身在泥沼，心向光明</title>
-        <id>151564</id>
-        <link href="https://yishu-life.com/index.php/archives/349.html?utm_source=blogfinder" />
-        <published>2026-03-31T09:25:14+08:00</published>
-        <author>
-            <name>树下语</name>
-            <uri>https://yishu-life.com</uri>
-        </author>
-        <summary type="text"><![CDATA[身在泥沼，心向光明]]></summary>
-    </entry>
-        <entry>
-        <title>单依纯与李荣浩的版权争议引爆全网</title>
-        <id>151556</id>
-        <link href="https://www.zhyok.cn/index.php/archives/300/?utm_source=blogfinder" />
-        <published>2026-03-31T09:23:00+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[单依纯与李荣浩的版权争议引爆全网]]></summary>
-    </entry>
-        <entry>
-        <title>《我的摩旅心得》（1）</title>
-        <id>151554</id>
-        <link href="https://www.weiwenchao.com/2479.html?utm_source=blogfinder" />
-        <published>2026-03-31T09:14:00+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《我的摩旅心得》（1）]]></summary>
-    </entry>
-        <entry>
-        <title>解决钉钉Dingtalk无法在Linux新版内核上启动问题-修复可执行栈错误</title>
-        <id>151565</id>
-        <link href="https://xingwangzhe.fun/posts/dingtalk-linux-fix-execstack/?utm_source=blogfinder" />
-        <published>2026-03-31T09:00:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[解决钉钉Dingtalk无法在Linux新版内核上启动问题-修复可执行栈错误]]></summary>
-    </entry>
-        <entry>
-        <title>五子棋专业版 - HTML源码</title>
-        <id>151557</id>
-        <link href="https://www.zhyok.cn/index.php/archives/297/?utm_source=blogfinder" />
-        <published>2026-03-31T09:00:00+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[五子棋专业版 - HTML源码]]></summary>
-    </entry>
-        <entry>
-        <title>中国象棋 · 完美居中版- HTML5源码</title>
-        <id>151558</id>
-        <link href="https://www.zhyok.cn/index.php/archives/295/?utm_source=blogfinder" />
-        <published>2026-03-31T08:15:00+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[中国象棋 · 完美居中版- HTML5源码]]></summary>
-    </entry>
-        <entry>
-        <title>报废的三月终于结束了</title>
-        <id>151670</id>
-        <link href="https://ddbzhou.com/post/baofeidesanyue/?utm_source=blogfinder" />
-        <published>2026-03-31T08:00:00+08:00</published>
-        <author>
-            <name>兜兜爸投资笔记</name>
-            <uri>https://ddbzhou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[报废的三月终于结束了]]></summary>
-    </entry>
-        <entry>
-        <title>在威联通NAS中安装V2RayA和V2Ray</title>
-        <id>151665</id>
-        <link href="https://songlin.me/2026/03/31/v2ray-nas/?utm_source=blogfinder" />
-        <published>2026-03-31T08:00:00+08:00</published>
-        <author>
-            <name>SongLin Blog</name>
-            <uri>https://songlin.me</uri>
-        </author>
-        <summary type="text"><![CDATA[在威联通NAS中安装V2RayA和V2Ray]]></summary>
-    </entry>
-        <entry>
-        <title>「整齐划一」与「熵」</title>
-        <id>151602</id>
-        <link href="https://www.immarcus.com/blog/uniformity-and-entropy?utm_source=blogfinder" />
-        <published>2026-03-31T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[「整齐划一」与「熵」]]></summary>
-    </entry>
-        <entry>
-        <title>咚记 0331 | 36 岁，本命年</title>
-        <id>151600</id>
-        <link href="https://blog.gudong.site/2026/03/31/dong-ji-033136-sui-ben-ming-nian.html?utm_source=blogfinder" />
-        <published>2026-03-31T08:00:00+08:00</published>
-        <author>
-            <name>咕咚同学</name>
-            <uri>https://blog.gudong.site</uri>
-        </author>
-        <summary type="text"><![CDATA[咚记 0331 | 36 岁，本命年]]></summary>
-    </entry>
-        <entry>
-        <title>如果音乐也是一种表达方式</title>
-        <id>151599</id>
-        <link href="https://blog.gudong.site/2026/03/31/ru-guo-yin-yue-ye-shi-yi-zhong-biao-da-fang-shi.html?utm_source=blogfinder" />
-        <published>2026-03-31T08:00:00+08:00</published>
-        <author>
-            <name>咕咚同学</name>
-            <uri>https://blog.gudong.site</uri>
-        </author>
-        <summary type="text"><![CDATA[如果音乐也是一种表达方式]]></summary>
-    </entry>
-        <entry>
-        <title>Claude-code爆了!?</title>
-        <id>151598</id>
-        <link href="https://fuwari.oh1.top/posts/Essay/claude-code-sourcemap/?utm_source=blogfinder" />
-        <published>2026-03-31T08:00:00+08:00</published>
-        <author>
-            <name>yCENzh&#039;s Blog</name>
-            <uri>https://fuwari.oh1.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude-code爆了!?]]></summary>
-    </entry>
-        <entry>
-        <title>在威联通NAS中安装OpenClaw</title>
-        <id>151591</id>
-        <link href="https://songlin.me/2026/03/31/nas-openclaw/?utm_source=blogfinder" />
-        <published>2026-03-31T08:00:00+08:00</published>
-        <author>
-            <name>SongLin Blog</name>
-            <uri>https://songlin.me</uri>
-        </author>
-        <summary type="text"><![CDATA[在威联通NAS中安装OpenClaw]]></summary>
-    </entry>
-        <entry>
-        <title>229 AI时代，多写日记，让AI辅助你了解自己</title>
-        <id>151545</id>
-        <link href="http://ddw2019.com/229?utm_source=blogfinder" />
-        <published>2026-03-31T07:00:55+08:00</published>
-        <author>
-            <name>Dongdong&#039;s Blog</name>
-            <uri>https://ddw2019.com</uri>
-        </author>
-        <summary type="text"><![CDATA[229 AI时代，多写日记，让AI辅助你了解自己]]></summary>
-    </entry>
-        <entry>
-        <title>云安全与合规性管理</title>
-        <id>151562</id>
-        <link href="https://www.aserver.cn/?post=136&amp;utm_source=blogfinder" />
-        <published>2026-03-31T04:00:02+08:00</published>
-        <author>
-            <name>俞事</name>
-            <uri>https://www.aserver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[云安全与合规性管理]]></summary>
-    </entry>
-        <entry>
-        <title>sify-gist</title>
-        <id>151529</id>
-        <link href="https://santisify.top/blog/other/sifygist?utm_source=blogfinder" />
-        <published>2026-03-31T04:00:00+08:00</published>
-        <author>
-            <name>santisify site</name>
-            <uri>https://santisify.top</uri>
-        </author>
-        <summary type="text"><![CDATA[sify-gist]]></summary>
-    </entry>
-        <entry>
-        <title>本文为 100% AI 生成：2024 新年游戏的题解（AI 代劳版）</title>
-        <id>151524</id>
-        <link href="https://imkero.net/posts/2024-new-year-game-answered-by-codex/?utm_source=blogfinder" />
-        <published>2026-03-31T01:53:00+08:00</published>
-        <author>
-            <name>电脑星人</name>
-            <uri>https://imkero.net</uri>
-        </author>
-        <summary type="text"><![CDATA[本文为 100% AI 生成：2024 新年游戏的题解（AI 代劳版）]]></summary>
-    </entry>
-        <entry>
-        <title>“说人话”提示词，适用于 GPT-5.4, GPT-5.3-Codex</title>
-        <id>151525</id>
-        <link href="https://imkero.net/posts/gpt5-please-shuo-ren-hua/?utm_source=blogfinder" />
-        <published>2026-03-31T01:23:00+08:00</published>
-        <author>
-            <name>电脑星人</name>
-            <uri>https://imkero.net</uri>
-        </author>
-        <summary type="text"><![CDATA[“说人话”提示词，适用于 GPT-5.4, GPT-5.3-Codex]]></summary>
-    </entry>
-        <entry>
-        <title>多云管理与混合云架构</title>
-        <id>151563</id>
-        <link href="https://www.aserver.cn/?post=135&amp;utm_source=blogfinder" />
-        <published>2026-03-31T01:00:01+08:00</published>
-        <author>
-            <name>俞事</name>
-            <uri>https://www.aserver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[多云管理与混合云架构]]></summary>
-    </entry>
-        <entry>
-        <title>1fun Meiquo-zen siele di Ladinhua Tzunquo tzr sien</title>
-        <id>151527</id>
-        <link href="https://cloud.sd.cn/archives/121/?utm_source=blogfinder" />
-        <published>2026-03-31T00:37:00+08:00</published>
-        <author>
-            <name>网络一隅</name>
-            <uri>https://cloud.sd.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[1fun Meiquo-zen siele di Ladinhua Tzunquo tzr sien]]></summary>
-    </entry>
-        <entry>
-        <title>悦动增加点新特性</title>
-        <id>151560</id>
-        <link href="https://hux.ink/posts/add-exercise-feature/?utm_source=blogfinder" />
-        <published>2026-03-31T00:30:00+08:00</published>
-        <author>
-            <name>Counting Stars</name>
-            <uri>https://hux.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[悦动增加点新特性]]></summary>
     </entry>
     </feed>
