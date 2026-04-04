@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-04T19:09:33+08:00</updated>
+    <updated>2026-04-04T21:00:28+08:00</updated>
+        <entry>
+        <title>独立博客博主自恋这件小事</title>
+        <id>151833</id>
+        <link href="https://www.suiyan.cc/blog/20260404183827/?utm_source=blogfinder" />
+        <published>2026-04-04T18:38:27+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[独立博客博主自恋这件小事]]></summary>
+    </entry>
         <entry>
         <title>高中作文的八股化运动</title>
         <id>151831</id>
@@ -132,6 +143,17 @@
             <uri>https://immarcus.com</uri>
         </author>
         <summary type="text"><![CDATA[敏感话题⭕错误言论❌]]></summary>
+    </entry>
+        <entry>
+        <title>跟着AI学编译原理</title>
+        <id>151832</id>
+        <link href="https://xiaket.github.io/2026/writing-a-toy-compiler-in-go.html?utm_source=blogfinder" />
+        <published>2026-04-04T04:07:00+08:00</published>
+        <author>
+            <name>年华转瞬</name>
+            <uri>https://blog.xiaket.org</uri>
+        </author>
+        <summary type="text"><![CDATA[跟着AI学编译原理]]></summary>
     </entry>
         <entry>
         <title>MySQL备份恢复与数据安全策略（技术深度解析）</title>
@@ -1397,49 +1419,5 @@
             <uri>https://ihaihe.cn</uri>
         </author>
         <summary type="text"><![CDATA[房子卖出去了]]></summary>
-    </entry>
-        <entry>
-        <title>关于“习惯性吐槽”的一些思考</title>
-        <id>151635</id>
-        <link href="https://www.evan.xin/4912/?utm_source=blogfinder" />
-        <published>2026-04-01T20:32:50+08:00</published>
-        <author>
-            <name>Evan&#039;s Space</name>
-            <uri>https://www.evan.xin</uri>
-        </author>
-        <summary type="text"><![CDATA[关于“习惯性吐槽”的一些思考]]></summary>
-    </entry>
-        <entry>
-        <title>从张雪机车的故事聊人生，相同之处是同是湖南人。</title>
-        <id>151641</id>
-        <link href="https://i.lckiss.com/?p=9734&amp;utm_source=blogfinder" />
-        <published>2026-04-01T20:28:57+08:00</published>
-        <author>
-            <name>伪斜杠青年</name>
-            <uri>https://i.lckiss.com</uri>
-        </author>
-        <summary type="text"><![CDATA[从张雪机车的故事聊人生，相同之处是同是湖南人。]]></summary>
-    </entry>
-        <entry>
-        <title>2026年VMiss便宜VPS优惠活动整理 美国/日本/香港/韩国/英国7折起多线路可选</title>
-        <id>151642</id>
-        <link href="https://www.wangdu.site/fuliyouhui/guowai-vps/2329.html?utm_source=blogfinder" />
-        <published>2026-04-01T19:38:39+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[2026年VMiss便宜VPS优惠活动整理 美国/日本/香港/韩国/英国7折起多线路可选]]></summary>
-    </entry>
-        <entry>
-        <title>活着本身就是一种幸福</title>
-        <id>151656</id>
-        <link href="https://blog.bxaw.name/archives/Being-Alive-Is-Already-a-Blessing.html?utm_source=blogfinder" />
-        <published>2026-04-01T19:37:29+08:00</published>
-        <author>
-            <name>白熊阿丸的小屋</name>
-            <uri>https://blog.bxaw.name</uri>
-        </author>
-        <summary type="text"><![CDATA[活着本身就是一种幸福]]></summary>
     </entry>
     </feed>
