@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-04T11:01:04+08:00</updated>
+    <updated>2026-04-04T13:04:29+08:00</updated>
+        <entry>
+        <title>鸟窝</title>
+        <id>151816</id>
+        <link href="https://mobius.blog/2026/04/04/bird_nest/?utm_source=blogfinder" />
+        <published>2026-04-04T11:25:05+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[鸟窝]]></summary>
+    </entry>
         <entry>
         <title>Comment2Bark：Typecho评论推送到Bark插件</title>
         <id>151809</id>
@@ -77,6 +88,17 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[MySQL备份恢复与数据安全策略（技术深度解析）]]></summary>
+    </entry>
+        <entry>
+        <title>忆童年+找重软件分享</title>
+        <id>151819</id>
+        <link href="https://ilogs.cn/2026/04/04/373.html?utm_source=blogfinder" />
+        <published>2026-04-04T01:30:00+08:00</published>
+        <author>
+            <name>我的日志</name>
+            <uri>https://ilogs.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[忆童年+找重软件分享]]></summary>
     </entry>
         <entry>
         <title>云成本优化与资源管理</title>
@@ -332,6 +354,17 @@
         <summary type="text"><![CDATA[使用 Claude Pro 一個月的心得：滿有幫助的，但我想退訂了]]></summary>
     </entry>
         <entry>
+        <title>夏蝉 | 少爷</title>
+        <id>151818</id>
+        <link href="https://blog.veitzn.top/archives/2022?utm_source=blogfinder" />
+        <published>2026-04-03T14:57:31+08:00</published>
+        <author>
+            <name>Veitzn 的小屋</name>
+            <uri>https://blog.veitzn.top</uri>
+        </author>
+        <summary type="text"><![CDATA[夏蝉 | 少爷]]></summary>
+    </entry>
+        <entry>
         <title>JN 最近在幹嘛</title>
         <id>151787</id>
         <link href="https://blog.giveanornot.com/now/20260402/?utm_source=blogfinder" />
@@ -385,6 +418,17 @@
             <uri>https://kacper.fun</uri>
         </author>
         <summary type="text"><![CDATA[Phoenix监控平台技术解析（九）：配置加载机制——properties 文件与 SpringBoot 配置的双轨制]]></summary>
+    </entry>
+        <entry>
+        <title>Phoenix监控平台技术解析（十）：心跳机制——HeartbeatTaskScheduler 的设计与实现</title>
+        <id>151817</id>
+        <link href="https://kacper.fun/blog/165?utm_source=blogfinder" />
+        <published>2026-04-03T11:38:45+08:00</published>
+        <author>
+            <name>知录</name>
+            <uri>https://kacper.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Phoenix监控平台技术解析（十）：心跳机制——HeartbeatTaskScheduler 的设计与实现]]></summary>
     </entry>
         <entry>
         <title>巴中红苕稀饭：刻在老一辈骨血里的生存记忆与最深乡愁</title>
@@ -1386,82 +1430,5 @@
             <uri>https://jiashejianyan.com</uri>
         </author>
         <summary type="text"><![CDATA[GL iNet MT6000 路由器]]></summary>
-    </entry>
-        <entry>
-        <title>与其说是「把外星人写成宠物」，不如说是人类难以放下傲慢</title>
-        <id>151628</id>
-        <link href="https://blog.solazy.me/20260401/?utm_source=blogfinder" />
-        <published>2026-04-01T13:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[与其说是「把外星人写成宠物」，不如说是人类难以放下傲慢]]></summary>
-    </entry>
-        <entry>
-        <title>灵魂工程师</title>
-        <id>151623</id>
-        <link href="https://ficor.net/2026/04/%e7%81%b5%e9%ad%82%e5%b7%a5%e7%a8%8b%e5%b8%88/?utm_source=blogfinder" />
-        <published>2026-04-01T12:39:53+08:00</published>
-        <author>
-            <name>荒野菲克</name>
-            <uri>https://ficor.net</uri>
-        </author>
-        <summary type="text"><![CDATA[灵魂工程师]]></summary>
-    </entry>
-        <entry>
-        <title>三月的碎碎念</title>
-        <id>151634</id>
-        <link href="https://zhujay.com/blog/blog_view.asp?id=1218&amp;utm_source=blogfinder" />
-        <published>2026-04-01T12:28:44+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[三月的碎碎念]]></summary>
-    </entry>
-        <entry>
-        <title>地狱十八层，为何没有你？</title>
-        <id>151645</id>
-        <link href="https://mobius.blog/2026/04/01/why-not-you-in-hell/?utm_source=blogfinder" />
-        <published>2026-04-01T12:04:23+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[地狱十八层，为何没有你？]]></summary>
-    </entry>
-        <entry>
-        <title>想法在丙午蚕月迭代</title>
-        <id>151682</id>
-        <link href="https://blog.cytrogen.icu/posts/a4c0.html?utm_source=blogfinder" />
-        <published>2026-04-01T12:00:00+08:00</published>
-        <author>
-            <name>Cytrogen&#039;s Blog</name>
-            <uri>https://blog.cytrogen.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[想法在丙午蚕月迭代]]></summary>
-    </entry>
-        <entry>
-        <title>🤖 AI 评论自动回复插件 — 让每条评论都得到温暖的回应</title>
-        <id>151723</id>
-        <link href="https://www.oszz.cn/post/7?utm_source=blogfinder" />
-        <published>2026-04-01T11:45:00+08:00</published>
-        <author>
-            <name>李文君 &#039;s Blog</name>
-            <uri>https://www.oszz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[🤖 AI 评论自动回复插件 — 让每条评论都得到温暖的回应]]></summary>
-    </entry>
-        <entry>
-        <title>张雪机车WSBK两连冠：中国高端制造的时代宣言</title>
-        <id>151625</id>
-        <link href="https://www.zhyok.cn/index.php/archives/308/?utm_source=blogfinder" />
-        <published>2026-04-01T11:10:00+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[张雪机车WSBK两连冠：中国高端制造的时代宣言]]></summary>
     </entry>
     </feed>
