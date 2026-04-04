@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-04T17:00:51+08:00</updated>
+    <updated>2026-04-04T18:00:44+08:00</updated>
+        <entry>
+        <title>又新增了一个表情包，经典人物</title>
+        <id>151830</id>
+        <link href="https://b.ncii.cn/archives/QyMo5exZ?utm_source=blogfinder" />
+        <published>2026-04-04T15:37:50+08:00</published>
+        <author>
+            <name>卖烤肉博客</name>
+            <uri>https://b.ncii.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[又新增了一个表情包，经典人物]]></summary>
+    </entry>
         <entry>
         <title>读《人生的枷锁》</title>
         <id>151824</id>
@@ -264,6 +275,17 @@
             <uri>https://koobai.com</uri>
         </author>
         <summary type="text"><![CDATA[2026-04-03 11:57]]></summary>
+    </entry>
+        <entry>
+        <title>赠人玫瑰，手有余香</title>
+        <id>151826</id>
+        <link href="https://shuiba.co/helped-a-stranger?utm_source=blogfinder" />
+        <published>2026-04-03T18:31:00+08:00</published>
+        <author>
+            <name>水八口的冥想盆</name>
+            <uri>https://shuiba.co</uri>
+        </author>
+        <summary type="text"><![CDATA[赠人玫瑰，手有余香]]></summary>
     </entry>
         <entry>
         <title>为骑电动车带不带头盔打嘴仗</title>
@@ -1419,16 +1441,5 @@
             <uri>https://nanxa.top</uri>
         </author>
         <summary type="text"><![CDATA[计算机本科自学完全路线]]></summary>
-    </entry>
-        <entry>
-        <title>糟糕！我的 OpenClaw 中了病毒</title>
-        <id>151633</id>
-        <link href="https://kanchuan.com/blog/239?utm_source=blogfinder" />
-        <published>2026-04-01T17:40:00+08:00</published>
-        <author>
-            <name>陈看川博客</name>
-            <uri>https://kanchuan.com/blog</uri>
-        </author>
-        <summary type="text"><![CDATA[糟糕！我的 OpenClaw 中了病毒]]></summary>
     </entry>
     </feed>
