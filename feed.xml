@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-04T13:04:29+08:00</updated>
+    <updated>2026-04-04T14:01:01+08:00</updated>
         <entry>
         <title>鸟窝</title>
         <id>151816</id>
@@ -242,6 +242,17 @@
             <uri>https://blog.yang1120.com</uri>
         </author>
         <summary type="text"><![CDATA[《洛克王国：世界》摘录]]></summary>
+    </entry>
+        <entry>
+        <title>人生无常</title>
+        <id>151820</id>
+        <link href="https://blog.yiyou.bj.cn/archives/ren-sheng-wu-chang?utm_source=blogfinder" />
+        <published>2026-04-03T17:59:00+08:00</published>
+        <author>
+            <name>益友网站</name>
+            <uri>https://blog.yiyou.bj.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[人生无常]]></summary>
     </entry>
         <entry>
         <title>关于Unity China的后续记录</title>
