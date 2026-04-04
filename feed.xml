@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-04T21:00:28+08:00</updated>
+    <updated>2026-04-04T22:01:03+08:00</updated>
         <entry>
         <title>独立博客博主自恋这件小事</title>
         <id>151833</id>
@@ -231,6 +231,17 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[近闻电动车涨价，买了五星钻豹品牌电动车，以旧换新价2600元]]></summary>
+    </entry>
+        <entry>
+        <title>【图册】温州·永嘉·百丈瀑 2026.03.30</title>
+        <id>151834</id>
+        <link href="https://www.imxb.de/new_archives/61.shtml?utm_source=blogfinder" />
+        <published>2026-04-03T22:22:00+08:00</published>
+        <author>
+            <name>Xiobb’s Blog</name>
+            <uri>https://www.imxb.de</uri>
+        </author>
+        <summary type="text"><![CDATA[【图册】温州·永嘉·百丈瀑 2026.03.30]]></summary>
     </entry>
         <entry>
         <title>4 月开始</title>
@@ -1397,27 +1408,5 @@
             <uri>https://ayayy.com</uri>
         </author>
         <summary type="text"><![CDATA[给博客添加一个便签页面]]></summary>
-    </entry>
-        <entry>
-        <title>用AI做了一个动态页面</title>
-        <id>151644</id>
-        <link href="https://ayayy.com/Dmz/149.html?utm_source=blogfinder" />
-        <published>2026-04-01T21:39:00+08:00</published>
-        <author>
-            <name>哎呀哎呀呀</name>
-            <uri>https://ayayy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[用AI做了一个动态页面]]></summary>
-    </entry>
-        <entry>
-        <title>房子卖出去了</title>
-        <id>151674</id>
-        <link href="https://ihaihe.cn/3602.htm?utm_source=blogfinder" />
-        <published>2026-04-01T21:14:50+08:00</published>
-        <author>
-            <name>三十里海河</name>
-            <uri>https://ihaihe.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[房子卖出去了]]></summary>
     </entry>
     </feed>
