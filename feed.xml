@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-04T16:00:53+08:00</updated>
+    <updated>2026-04-04T17:00:51+08:00</updated>
+        <entry>
+        <title>读《人生的枷锁》</title>
+        <id>151824</id>
+        <link href="https://www.jfsay.com/archives/4021.html?utm_source=blogfinder" />
+        <published>2026-04-04T15:11:20+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[读《人生的枷锁》]]></summary>
+    </entry>
         <entry>
         <title>Home Assistant 绑定米家账号后怎么刷新设备列表</title>
         <id>151821</id>
@@ -187,6 +198,17 @@
             <uri>https://ficor.net</uri>
         </author>
         <summary type="text"><![CDATA[4 月开始]]></summary>
+    </entry>
+        <entry>
+        <title>市中鬻鸡行</title>
+        <id>151825</id>
+        <link href="https://www.lisanwaier.cn/text/classical/%e5%b8%82%e4%b8%ad%e9%ac%bb%e9%b8%a1%e8%a1%8c/?utm_source=blogfinder" />
+        <published>2026-04-03T21:36:17+08:00</published>
+        <author>
+            <name>山花园</name>
+            <uri>https://www.lisanwaier.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[市中鬻鸡行]]></summary>
     </entry>
         <entry>
         <title>盘点开发者眼里的赛博大善人（一）</title>
@@ -1408,38 +1430,5 @@
             <uri>https://kanchuan.com/blog</uri>
         </author>
         <summary type="text"><![CDATA[糟糕！我的 OpenClaw 中了病毒]]></summary>
-    </entry>
-        <entry>
-        <title>从杭州到汴州</title>
-        <id>151704</id>
-        <link href="https://blog.xulihang.me/travel-to-henan/?utm_source=blogfinder" />
-        <published>2026-04-01T16:55:50+08:00</published>
-        <author>
-            <name>xulihang&#039;s blog</name>
-            <uri>https://blog.xulihang.me</uri>
-        </author>
-        <summary type="text"><![CDATA[从杭州到汴州]]></summary>
-    </entry>
-        <entry>
-        <title>我们就是光的本身</title>
-        <id>151675</id>
-        <link href="https://rolen.wiki/nothing-to-become/?utm_source=blogfinder" />
-        <published>2026-04-01T16:39:18+08:00</published>
-        <author>
-            <name>Rolen&#039;s Blog</name>
-            <uri>https://rolen.wiki</uri>
-        </author>
-        <summary type="text"><![CDATA[我们就是光的本身]]></summary>
-    </entry>
-        <entry>
-        <title>看《哈姆奈特》：难以共情的文艺片</title>
-        <id>151701</id>
-        <link href="https://www.jfsay.com/archives/3954.html?utm_source=blogfinder" />
-        <published>2026-04-01T16:04:36+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[看《哈姆奈特》：难以共情的文艺片]]></summary>
     </entry>
     </feed>
