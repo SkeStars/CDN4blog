@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-04T14:01:01+08:00</updated>
+    <updated>2026-04-04T16:00:53+08:00</updated>
+        <entry>
+        <title>Home Assistant 绑定米家账号后怎么刷新设备列表</title>
+        <id>151821</id>
+        <link href="https://wuminboke.site/uncategorized/home-assistant-refresh-xiaomi-devices-list/?utm_source=blogfinder" />
+        <published>2026-04-04T14:52:33+08:00</published>
+        <author>
+            <name>无名博客</name>
+            <uri>https://wuminboke.site</uri>
+        </author>
+        <summary type="text"><![CDATA[Home Assistant 绑定米家账号后怎么刷新设备列表]]></summary>
+    </entry>
+        <entry>
+        <title>密码保护：关于1.4.9</title>
+        <id>151822</id>
+        <link href="https://jdzhao.com/about149/?utm_source=blogfinder" />
+        <published>2026-04-04T13:32:56+08:00</published>
+        <author>
+            <name>重光阁</name>
+            <uri>https://jdzhao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[密码保护：关于1.4.9]]></summary>
+    </entry>
         <entry>
         <title>鸟窝</title>
         <id>151816</id>
@@ -176,6 +198,17 @@
             <uri>https://blog.talen.top</uri>
         </author>
         <summary type="text"><![CDATA[盘点开发者眼里的赛博大善人（一）]]></summary>
+    </entry>
+        <entry>
+        <title>浪潮NF5280M4服务器BMC的KVM无法启动排查过程</title>
+        <id>151823</id>
+        <link href="https://www.biibii.cn/668.html?utm_source=blogfinder" />
+        <published>2026-04-03T21:25:00+08:00</published>
+        <author>
+            <name>BIIBII</name>
+            <uri>https://www.biibii.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[浪潮NF5280M4服务器BMC的KVM无法启动排查过程]]></summary>
     </entry>
         <entry>
         <title>堆豆子</title>
@@ -1408,38 +1441,5 @@
             <uri>https://www.jfsay.com</uri>
         </author>
         <summary type="text"><![CDATA[看《哈姆奈特》：难以共情的文艺片]]></summary>
-    </entry>
-        <entry>
-        <title>Phoenix监控平台技术解析（七）：数据压缩与传输优化——Gzip 策略与 CiphertextPackage 设计</title>
-        <id>151627</id>
-        <link href="https://kacper.fun/blog/164?utm_source=blogfinder" />
-        <published>2026-04-01T15:16:59+08:00</published>
-        <author>
-            <name>知录</name>
-            <uri>https://kacper.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[Phoenix监控平台技术解析（七）：数据压缩与传输优化——Gzip 策略与 CiphertextPackage 设计]]></summary>
-    </entry>
-        <entry>
-        <title>初见情深，不见余生</title>
-        <id>151632</id>
-        <link href="https://mojue88.com/120/?utm_source=blogfinder" />
-        <published>2026-04-01T14:40:29+08:00</published>
-        <author>
-            <name>墨觉の日记</name>
-            <uri>https://mojue88.com</uri>
-        </author>
-        <summary type="text"><![CDATA[初见情深，不见余生]]></summary>
-    </entry>
-        <entry>
-        <title>GL iNet MT6000 路由器</title>
-        <id>151655</id>
-        <link href="https://jiashejianyan.com/gl_inet_mt6000/?utm_source=blogfinder" />
-        <published>2026-04-01T14:25:55+08:00</published>
-        <author>
-            <name>假设检验</name>
-            <uri>https://jiashejianyan.com</uri>
-        </author>
-        <summary type="text"><![CDATA[GL iNet MT6000 路由器]]></summary>
     </entry>
     </feed>
