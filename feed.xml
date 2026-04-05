@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-05T13:04:47+08:00</updated>
+    <updated>2026-04-05T15:01:24+08:00</updated>
+        <entry>
+        <title>折腾了一个多小时做了无用功</title>
+        <id>151888</id>
+        <link href="https://ayayy.com/173.html?utm_source=blogfinder" />
+        <published>2026-04-05T13:48:49+08:00</published>
+        <author>
+            <name>哎呀哎呀呀</name>
+            <uri>https://ayayy.com</uri>
+        </author>
+        <summary type="text"><![CDATA[折腾了一个多小时做了无用功]]></summary>
+    </entry>
+        <entry>
+        <title>酒驾被扣车了</title>
+        <id>151898</id>
+        <link href="https://hux.ink/posts/cost-of-ebike-dui/?utm_source=blogfinder" />
+        <published>2026-04-05T11:02:00+08:00</published>
+        <author>
+            <name>Counting Stars</name>
+            <uri>https://hux.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[酒驾被扣车了]]></summary>
+    </entry>
         <entry>
         <title>酥米碎念站上线啦~</title>
         <id>151883</id>
@@ -190,6 +212,17 @@
     </entry>
         <entry>
         <title>一道独属于安阳人的浪漫</title>
+        <id>151889</id>
+        <link href="https://ayayy.com/169.html?utm_source=blogfinder" />
+        <published>2026-04-04T22:13:00+08:00</published>
+        <author>
+            <name>哎呀哎呀呀</name>
+            <uri>https://ayayy.com</uri>
+        </author>
+        <summary type="text"><![CDATA[一道独属于安阳人的浪漫]]></summary>
+    </entry>
+        <entry>
+        <title>一道独属于安阳人的浪漫</title>
         <id>151845</id>
         <link href="https://ayayy.com/Zhf/169.html?utm_source=blogfinder" />
         <published>2026-04-04T22:13:00+08:00</published>
@@ -253,6 +286,28 @@
             <uri>https://www.liangduiban.com</uri>
         </author>
         <summary type="text"><![CDATA[24小时尿蛋白检查步骤及肾脏相关尿液检查记录]]></summary>
+    </entry>
+        <entry>
+        <title>给主题上了Turbo（涡轮增压）</title>
+        <id>151890</id>
+        <link href="https://ayayy.com/168.html?utm_source=blogfinder" />
+        <published>2026-04-04T20:03:00+08:00</published>
+        <author>
+            <name>哎呀哎呀呀</name>
+            <uri>https://ayayy.com</uri>
+        </author>
+        <summary type="text"><![CDATA[给主题上了Turbo（涡轮增压）]]></summary>
+    </entry>
+        <entry>
+        <title>越走越远的人 Ⅱ 飞飞飞</title>
+        <id>151887</id>
+        <link href="https://www.vergilisme.com/index.php/2026/04/04/2393.html?utm_source=blogfinder" />
+        <published>2026-04-04T20:03:00+08:00</published>
+        <author>
+            <name>八咫乌</name>
+            <uri>https://www.vergilisme.com</uri>
+        </author>
+        <summary type="text"><![CDATA[越走越远的人 Ⅱ 飞飞飞]]></summary>
     </entry>
         <entry>
         <title>给主题上了Turbo（涡轮增压）</title>
@@ -1092,6 +1147,17 @@
     </entry>
         <entry>
         <title>展示一下我的手工作品</title>
+        <id>151891</id>
+        <link href="https://ayayy.com/159.html?utm_source=blogfinder" />
+        <published>2026-04-03T09:07:00+08:00</published>
+        <author>
+            <name>哎呀哎呀呀</name>
+            <uri>https://ayayy.com</uri>
+        </author>
+        <summary type="text"><![CDATA[展示一下我的手工作品]]></summary>
+    </entry>
+        <entry>
+        <title>展示一下我的手工作品</title>
         <id>151751</id>
         <link href="https://ayayy.com/Zhf/159.html?utm_source=blogfinder" />
         <published>2026-04-03T09:07:00+08:00</published>
@@ -1485,60 +1551,5 @@
             <uri>https://blog.zhheo.com</uri>
         </author>
         <summary type="text"><![CDATA[OpenClaw喧嚣过后，我最终选择了QClaw]]></summary>
-    </entry>
-        <entry>
-        <title>手把手修复RSS 403：从PHP警告到Cloudflare拦截的全链路排查</title>
-        <id>151690</id>
-        <link href="https://wuqishi.com/rss-403-error-php8-cloudflare-waf-fix/?utm_source=blogfinder" />
-        <published>2026-04-02T14:49:00+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[手把手修复RSS 403：从PHP警告到Cloudflare拦截的全链路排查]]></summary>
-    </entry>
-        <entry>
-        <title>我的2025飞行日记</title>
-        <id>151795</id>
-        <link href="https://limaomao810.com/archives/959?utm_source=blogfinder" />
-        <published>2026-04-02T14:11:40+08:00</published>
-        <author>
-            <name>李毛毛</name>
-            <uri>https://limaomao810.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我的2025飞行日记]]></summary>
-    </entry>
-        <entry>
-        <title>使用wayvnc远程访问无头Wayfire会话</title>
-        <id>151703</id>
-        <link href="https://blog.lilydjwg.me/posts/217020.html?utm_source=blogfinder" />
-        <published>2026-04-02T13:59:32+08:00</published>
-        <author>
-            <name>依云&#039;s Blog</name>
-            <uri>https://blog.lilydjwg.me</uri>
-        </author>
-        <summary type="text"><![CDATA[使用wayvnc远程访问无头Wayfire会话]]></summary>
-    </entry>
-        <entry>
-        <title>装机</title>
-        <id>151683</id>
-        <link href="https://ltmltm.cn/bk/1437.html?utm_source=blogfinder" />
-        <published>2026-04-02T13:44:10+08:00</published>
-        <author>
-            <name>因为很想念</name>
-            <uri>https://ltmltm.cn/bk</uri>
-        </author>
-        <summary type="text"><![CDATA[装机]]></summary>
-    </entry>
-        <entry>
-        <title>人活着一定要善待自己</title>
-        <id>151712</id>
-        <link href="https://blog.yiyou.bj.cn/archives/ren-huo-zhao-yi-ding-yao-shan-dai-zi-ji?utm_source=blogfinder" />
-        <published>2026-04-02T13:21:52+08:00</published>
-        <author>
-            <name>益友网站</name>
-            <uri>https://blog.yiyou.bj.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[人活着一定要善待自己]]></summary>
     </entry>
     </feed>
