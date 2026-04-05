@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-05T15:01:24+08:00</updated>
+    <updated>2026-04-05T17:00:32+08:00</updated>
+        <entry>
+        <title>Home Assistant 配合小米人体传感器 2s 实现人走关灯</title>
+        <id>151902</id>
+        <link href="https://wuminboke.site/uncategorized/home-assistant-xiaomi-motion-sensor-turn-off-lights-when-leaving-room/?utm_source=blogfinder" />
+        <published>2026-04-05T13:53:30+08:00</published>
+        <author>
+            <name>无名博客</name>
+            <uri>https://wuminboke.site</uri>
+        </author>
+        <summary type="text"><![CDATA[Home Assistant 配合小米人体传感器 2s 实现人走关灯]]></summary>
+    </entry>
         <entry>
         <title>折腾了一个多小时做了无用功</title>
         <id>151888</id>
@@ -22,6 +33,28 @@
             <uri>https://ayayy.com</uri>
         </author>
         <summary type="text"><![CDATA[折腾了一个多小时做了无用功]]></summary>
+    </entry>
+        <entry>
+        <title>44，清明</title>
+        <id>151899</id>
+        <link href="http://www.lopwon.com/4105.html?utm_source=blogfinder" />
+        <published>2026-04-05T12:00:00+08:00</published>
+        <author>
+            <name>立云图志</name>
+            <uri>http://www.lopwon.com</uri>
+        </author>
+        <summary type="text"><![CDATA[44，清明]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1644】成一农《欧亚大陆上的城市：一部生命史》</title>
+        <id>151901</id>
+        <link href="http://www.qncd.com/?p=12606&amp;utm_source=blogfinder" />
+        <published>2026-04-05T11:29:53+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1644】成一农《欧亚大陆上的城市：一部生命史》]]></summary>
     </entry>
         <entry>
         <title>酒驾被扣车了</title>
@@ -44,6 +77,17 @@
             <uri>https://www.sumi233.top</uri>
         </author>
         <summary type="text"><![CDATA[酥米碎念站上线啦~]]></summary>
+    </entry>
+        <entry>
+        <title>胡拉图的周刊 第十四期</title>
+        <id>151903</id>
+        <link href="https://hulatu.com/posts/2026/04/05/newsletter-weekly/?utm_source=blogfinder" />
+        <published>2026-04-05T10:47:17+08:00</published>
+        <author>
+            <name>胡拉图的后花园</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[胡拉图的周刊 第十四期]]></summary>
     </entry>
         <entry>
         <title>人工智能时代的布雷顿森林体系</title>
@@ -79,6 +123,17 @@
         <summary type="text"><![CDATA[互联网还是需要人味]]></summary>
     </entry>
         <entry>
+        <title>DevOps与持续交付实践（技术深度解析）</title>
+        <id>151905</id>
+        <link href="https://www.aserver.cn/?post=152&amp;utm_source=blogfinder" />
+        <published>2026-04-05T10:00:01+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[DevOps与持续交付实践（技术深度解析）]]></summary>
+    </entry>
+        <entry>
         <title>落红就是无情物</title>
         <id>151878</id>
         <link href="https://mobius.blog/2026/04/05/fallen-petals-beyond-emotion/?utm_source=blogfinder" />
@@ -110,6 +165,17 @@
             <uri>https://shuiba.co</uri>
         </author>
         <summary type="text"><![CDATA[重整厨房]]></summary>
+    </entry>
+        <entry>
+        <title>使用 Magsafe 磁吸保护壳，但是磁力比较低，怎么办</title>
+        <id>151900</id>
+        <link href="https://blog.zhheo.com/p/idp0qt15.html?utm_source=blogfinder" />
+        <published>2026-04-05T08:41:04+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[使用 Magsafe 磁吸保护壳，但是磁力比较低，怎么办]]></summary>
     </entry>
         <entry>
         <title>渐渐丧失的能力</title>
@@ -156,6 +222,28 @@
         <summary type="text"><![CDATA[231 “学位论文审查系统”更新到v3.0，可以审查PDF文档啦]]></summary>
     </entry>
         <entry>
+        <title>PWA与Web App技术实践（技术深度解析）（技术深度解析）</title>
+        <id>151906</id>
+        <link href="https://www.aserver.cn/?post=151&amp;utm_source=blogfinder" />
+        <published>2026-04-05T04:00:02+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[PWA与Web App技术实践（技术深度解析）（技术深度解析）]]></summary>
+    </entry>
+        <entry>
+        <title>SDN与网络功能虚拟化（技术深度解析）</title>
+        <id>151907</id>
+        <link href="https://www.aserver.cn/?post=150&amp;utm_source=blogfinder" />
+        <published>2026-04-05T01:00:01+08:00</published>
+        <author>
+            <name>俞事</name>
+            <uri>https://www.aserver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[SDN与网络功能虚拟化（技术深度解析）]]></summary>
+    </entry>
+        <entry>
         <title>ChronoFrame - 一款优雅的瀑布流相册系统</title>
         <id>151853</id>
         <link href="https://blog.liushen.fun/posts/381a41ac/?utm_source=blogfinder" />
@@ -176,6 +264,17 @@
             <uri>https://blog.yeqing.net</uri>
         </author>
         <summary type="text"><![CDATA[[AndNode] 香港云-标准型 50Mbps]]></summary>
+    </entry>
+        <entry>
+        <title>清明流水账  0404</title>
+        <id>151904</id>
+        <link href="https://blog.solazy.me/20260404/?utm_source=blogfinder" />
+        <published>2026-04-04T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[清明流水账  0404]]></summary>
     </entry>
         <entry>
         <title>20260403</title>
@@ -1529,27 +1628,5 @@
             <uri>https://www.zhyok.cn</uri>
         </author>
         <summary type="text"><![CDATA[直击痛点！搜狗输入法-纯净精简化尊享版，全面拦截各类弹窗广告]]></summary>
-    </entry>
-        <entry>
-        <title>今天增驾了摩托车D本</title>
-        <id>151752</id>
-        <link href="https://www.yssk.cn/riji/599b5375.html?utm_source=blogfinder" />
-        <published>2026-04-02T15:24:47+08:00</published>
-        <author>
-            <name>一时三刻の记忆</name>
-            <uri>https://www.yssk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[今天增驾了摩托车D本]]></summary>
-    </entry>
-        <entry>
-        <title>OpenClaw喧嚣过后，我最终选择了QClaw</title>
-        <id>151739</id>
-        <link href="https://blog.zhheo.com/p/bublpdof.html?utm_source=blogfinder" />
-        <published>2026-04-02T15:13:58+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenClaw喧嚣过后，我最终选择了QClaw]]></summary>
     </entry>
     </feed>
