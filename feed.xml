@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-05T23:00:34+08:00</updated>
+    <updated>2026-04-06T00:00:44+08:00</updated>
+        <entry>
+        <title>语雀文档批量下载工具 yuque-dl</title>
+        <id>151919</id>
+        <link href="https://www.51it.wang/ll/2174?utm_source=blogfinder" />
+        <published>2026-04-05T22:54:00+08:00</published>
+        <author>
+            <name>Lcry</name>
+            <uri>https://www.51it.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[语雀文档批量下载工具 yuque-dl]]></summary>
+    </entry>
+        <entry>
+        <title>清明流水账 0405</title>
+        <id>151920</id>
+        <link href="https://blog.solazy.me/20260405/?utm_source=blogfinder" />
+        <published>2026-04-05T22:04:45+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[清明流水账 0405]]></summary>
+    </entry>
         <entry>
         <title>ollama调用各大模型</title>
         <id>151915</id>
@@ -616,6 +638,17 @@
             <uri>https://www.jfsay.com</uri>
         </author>
         <summary type="text"><![CDATA[读《人生的枷锁》]]></summary>
+    </entry>
+        <entry>
+        <title>网站字体应用之坑——font-family 篇</title>
+        <id>151918</id>
+        <link href="https://howiehz.top/archives/web-font-pitfalls-font-family?utm_source=blogfinder" />
+        <published>2026-04-04T15:03:01+08:00</published>
+        <author>
+            <name>皓子的小站</name>
+            <uri>https://howiehz.top</uri>
+        </author>
+        <summary type="text"><![CDATA[网站字体应用之坑——font-family 篇]]></summary>
     </entry>
         <entry>
         <title>Home Assistant 绑定米家账号后怎么刷新设备列表</title>
@@ -1529,27 +1562,5 @@
             <uri>https://blog.grtsinry43.com</uri>
         </author>
         <summary type="text"><![CDATA[二十一岁，然后......]]></summary>
-    </entry>
-        <entry>
-        <title>你不知道的大模型训练：原理、路径与新实践</title>
-        <id>151790</id>
-        <link href="https://tw93.fun/2026-04-03/llm.html?utm_source=blogfinder" />
-        <published>2026-04-03T00:00:00+08:00</published>
-        <author>
-            <name>Tw93</name>
-            <uri>https://tw93.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[你不知道的大模型训练：原理、路径与新实践]]></summary>
-    </entry>
-        <entry>
-        <title>嘸蝦米使用七個月成果，要怎麼樣才能打快？簡碼要怎麼記？</title>
-        <id>151745</id>
-        <link href="https://blog.giveanornot.com/boshiamy-shorthands/?utm_source=blogfinder" />
-        <published>2026-04-02T23:46:03+08:00</published>
-        <author>
-            <name>資工小廢物  - JN</name>
-            <uri>https://blog.giveanornot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[嘸蝦米使用七個月成果，要怎麼樣才能打快？簡碼要怎麼記？]]></summary>
     </entry>
     </feed>
