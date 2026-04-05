@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-05T17:00:32+08:00</updated>
+    <updated>2026-04-05T18:00:29+08:00</updated>
+        <entry>
+        <title>垃圾</title>
+        <id>151908</id>
+        <link href="https://www.geedea.pro/fiction/garbage/?utm_source=blogfinder" />
+        <published>2026-04-05T16:57:19+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[垃圾]]></summary>
+    </entry>
         <entry>
         <title>Home Assistant 配合小米人体传感器 2s 实现人走关灯</title>
         <id>151902</id>
@@ -35,6 +46,28 @@
         <summary type="text"><![CDATA[折腾了一个多小时做了无用功]]></summary>
     </entry>
         <entry>
+        <title>40元捡漏华为Watch D成功</title>
+        <id>151910</id>
+        <link href="https://ygz.ink/archives/4602.html?utm_source=blogfinder" />
+        <published>2026-04-05T13:17:41+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[40元捡漏华为Watch D成功]]></summary>
+    </entry>
+        <entry>
+        <title>这两天看短剧有点上头</title>
+        <id>151911</id>
+        <link href="https://ygz.ink/archives/4599.html?utm_source=blogfinder" />
+        <published>2026-04-05T12:35:17+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[这两天看短剧有点上头]]></summary>
+    </entry>
+        <entry>
         <title>44，清明</title>
         <id>151899</id>
         <link href="http://www.lopwon.com/4105.html?utm_source=blogfinder" />
@@ -55,6 +88,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1644】成一农《欧亚大陆上的城市：一部生命史》]]></summary>
+    </entry>
+        <entry>
+        <title>OneBlog主题增加多表情包教程</title>
+        <id>151912</id>
+        <link href="https://blog.52hyjs.com/post-1266.html?utm_source=blogfinder" />
+        <published>2026-04-05T11:29:48+08:00</published>
+        <author>
+            <name>幻影博客</name>
+            <uri>https://blog.52hyjs.com</uri>
+        </author>
+        <summary type="text"><![CDATA[OneBlog主题增加多表情包教程]]></summary>
     </entry>
         <entry>
         <title>酒驾被扣车了</title>
@@ -759,6 +803,17 @@
             <uri>https://www.rua.ink</uri>
         </author>
         <summary type="text"><![CDATA[三月小记 | 勇闯中城市！焦虑和孤独共存]]></summary>
+    </entry>
+        <entry>
+        <title>观影小结 2026年冬</title>
+        <id>151909</id>
+        <link href="https://xeonzilla.top/jotting/anime-impressions-winter2026?utm_source=blogfinder" />
+        <published>2026-04-03T23:12:27+08:00</published>
+        <author>
+            <name>Xeonzilla’s Note</name>
+            <uri>https://xeonzilla.top</uri>
+        </author>
+        <summary type="text"><![CDATA[观影小结 2026年冬]]></summary>
     </entry>
         <entry>
         <title>学会做自己</title>
@@ -1606,27 +1661,5 @@
             <uri>https://zooyoo.top</uri>
         </author>
         <summary type="text"><![CDATA[遗物盒子]]></summary>
-    </entry>
-        <entry>
-        <title>读完《中间人经济》：重新理解连接的价值</title>
-        <id>151691</id>
-        <link href="https://www.gaotianchi.com/rethinking-value-connection-middleman-economy/?utm_source=blogfinder" />
-        <published>2026-04-02T17:35:10+08:00</published>
-        <author>
-            <name>高天驰</name>
-            <uri>https://www.gaotianchi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[读完《中间人经济》：重新理解连接的价值]]></summary>
-    </entry>
-        <entry>
-        <title>直击痛点！搜狗输入法-纯净精简化尊享版，全面拦截各类弹窗广告</title>
-        <id>151738</id>
-        <link href="https://www.zhyok.cn/index.php/archives/311/?utm_source=blogfinder" />
-        <published>2026-04-02T17:03:00+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[直击痛点！搜狗输入法-纯净精简化尊享版，全面拦截各类弹窗广告]]></summary>
     </entry>
     </feed>
