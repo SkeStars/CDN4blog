@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-05T19:02:13+08:00</updated>
+    <updated>2026-04-05T21:00:22+08:00</updated>
         <entry>
         <title>垃圾</title>
         <id>151908</id>
@@ -55,6 +55,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[40元捡漏华为Watch D成功]]></summary>
+    </entry>
+        <entry>
+        <title>从RSS订阅器到知识库：我的网站整合之路</title>
+        <id>151913</id>
+        <link href="https://www.wanghao.me/congrssdingyueqidaozhishikuwodewangzhanzhenghezhilu.html?utm_source=blogfinder" />
+        <published>2026-04-05T12:40:47+08:00</published>
+        <author>
+            <name>小王子</name>
+            <uri>https://www.wanghao.me</uri>
+        </author>
+        <summary type="text"><![CDATA[从RSS订阅器到知识库：我的网站整合之路]]></summary>
     </entry>
         <entry>
         <title>这两天看短剧有点上头</title>
@@ -1584,60 +1595,5 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[刨根问底啥？Just remember！]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 11 配分函数</title>
-        <id>151695</id>
-        <link href="https://physnya.top/statistical-mechanics/lesson-11/?utm_source=blogfinder" />
-        <published>2026-04-02T20:53:01+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 11 配分函数]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 6 进食行为</title>
-        <id>151694</id>
-        <link href="https://physnya.top/animal-behavior/lesson-6-eat/?utm_source=blogfinder" />
-        <published>2026-04-02T20:53:01+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 6 进食行为]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 11 带电荷和旋转的黑洞</title>
-        <id>151693</id>
-        <link href="https://physnya.top/GR/lesson-11-rn-and-kerr-black-holes/?utm_source=blogfinder" />
-        <published>2026-04-02T20:53:01+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 11 带电荷和旋转的黑洞]]></summary>
-    </entry>
-        <entry>
-        <title>没开始的故事，闯进梦里</title>
-        <id>151696</id>
-        <link href="https://www.puresky.top/archives/ga973Dr3?utm_source=blogfinder" />
-        <published>2026-04-02T20:22:37+08:00</published>
-        <author>
-            <name>轻雅阁</name>
-            <uri>https://www.puresky.top</uri>
-        </author>
-        <summary type="text"><![CDATA[没开始的故事，闯进梦里]]></summary>
-    </entry>
-        <entry>
-        <title>一催就出错，再催变一坨</title>
-        <id>151730</id>
-        <link href="http://stuit.cn/Xiaolu/Post/1606.html?utm_source=blogfinder" />
-        <published>2026-04-02T20:11:17+08:00</published>
-        <author>
-            <name>风雨行者</name>
-            <uri>http://stuit.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[一催就出错，再催变一坨]]></summary>
     </entry>
     </feed>
