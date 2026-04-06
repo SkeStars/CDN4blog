@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-06T16:00:43+08:00</updated>
+    <updated>2026-04-06T17:00:31+08:00</updated>
+        <entry>
+        <title>个人在战争机器前的无力——《西线无战事》读后感</title>
+        <id>151958</id>
+        <link href="https://www.jfsay.com/archives/4033.html?utm_source=blogfinder" />
+        <published>2026-04-06T15:49:57+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[个人在战争机器前的无力——《西线无战事》读后感]]></summary>
+    </entry>
+        <entry>
+        <title>【日常】拿下了MIKUPARA.COM！</title>
+        <id>151960</id>
+        <link href="https://www.nekopara.uk/archives/Get_MIKUPARA.html?utm_source=blogfinder" />
+        <published>2026-04-06T13:11:18+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[【日常】拿下了MIKUPARA.COM！]]></summary>
+    </entry>
         <entry>
         <title>推荐一个开源的多线程下载器 — Motrix</title>
         <id>151956</id>
@@ -22,6 +44,17 @@
             <uri>https://jyblog.cn</uri>
         </author>
         <summary type="text"><![CDATA[推荐一个开源的多线程下载器 — Motrix]]></summary>
+    </entry>
+        <entry>
+        <title>2026-04-06 12:25</title>
+        <id>151957</id>
+        <link href="https://koobai.com/laodao/2026/04/20260406-042544/?utm_source=blogfinder" />
+        <published>2026-04-06T12:25:44+08:00</published>
+        <author>
+            <name>Koobai</name>
+            <uri>https://koobai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-04-06 12:25]]></summary>
     </entry>
         <entry>
         <title>爱没有标准，但是不爱有</title>
@@ -253,6 +286,17 @@
             <uri>https://cyrus19.cc</uri>
         </author>
         <summary type="text"><![CDATA[日寄 三十二]]></summary>
+    </entry>
+        <entry>
+        <title>Vol.97 AI领域前沿动态：从智能体工程化到开源模型演进</title>
+        <id>151959</id>
+        <link href="https://liduos.com/weekly/the-weekly-gradient-97?utm_source=blogfinder" />
+        <published>2026-04-05T16:00:00+08:00</published>
+        <author>
+            <name>莫尔索</name>
+            <uri>https://liduos.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Vol.97 AI领域前沿动态：从智能体工程化到开源模型演进]]></summary>
     </entry>
         <entry>
         <title>Home Assistant 配合小米人体传感器 2s 实现人走关灯</title>
@@ -1397,71 +1441,5 @@
             <uri>https://blog.moeworld.tech</uri>
         </author>
         <summary type="text"><![CDATA[关于Unity China的后续记录]]></summary>
-    </entry>
-        <entry>
-        <title>跟OpenClaw从零开发一个WordPress插件：把飞书多维表格数据搬到网站</title>
-        <id>151784</id>
-        <link href="https://www.wangdu.site/course/2331.html?utm_source=blogfinder" />
-        <published>2026-04-03T17:00:05+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[跟OpenClaw从零开发一个WordPress插件：把飞书多维表格数据搬到网站]]></summary>
-    </entry>
-        <entry>
-        <title>失业在清明</title>
-        <id>151811</id>
-        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1121&amp;utm_source=blogfinder" />
-        <published>2026-04-03T16:53:33+08:00</published>
-        <author>
-            <name>徐建伟</name>
-            <uri>http://www.xulog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[失业在清明]]></summary>
-    </entry>
-        <entry>
-        <title>等放假</title>
-        <id>151770</id>
-        <link href="https://chrison.cn/live/437.html?utm_source=blogfinder" />
-        <published>2026-04-03T16:49:06+08:00</published>
-        <author>
-            <name>目的地</name>
-            <uri>https://chrison.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[等放假]]></summary>
-    </entry>
-        <entry>
-        <title>自动导出任意软件自己数据的通用方法</title>
-        <id>151763</id>
-        <link href="https://lklog.cn/course/1397.html?utm_source=blogfinder" />
-        <published>2026-04-03T16:43:37+08:00</published>
-        <author>
-            <name>龙鲲博客</name>
-            <uri>https://lklog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[自动导出任意软件自己数据的通用方法]]></summary>
-    </entry>
-        <entry>
-        <title>学习周刊-总第257期-2026年第14周</title>
-        <id>151799</id>
-        <link href="https://wiki.eryajf.net/pages/22ef3d/?utm_source=blogfinder" />
-        <published>2026-04-03T16:32:49+08:00</published>
-        <author>
-            <name>二丫讲梵</name>
-            <uri>https://wiki.eryajf.net</uri>
-        </author>
-        <summary type="text"><![CDATA[学习周刊-总第257期-2026年第14周]]></summary>
-    </entry>
-        <entry>
-        <title>向外求索的情绪稳定：一场注定疲惫的追逐</title>
-        <id>151782</id>
-        <link href="https://www.evan.xin/4917/?utm_source=blogfinder" />
-        <published>2026-04-03T16:05:28+08:00</published>
-        <author>
-            <name>Evan&#039;s Space</name>
-            <uri>https://www.evan.xin</uri>
-        </author>
-        <summary type="text"><![CDATA[向外求索的情绪稳定：一场注定疲惫的追逐]]></summary>
     </entry>
     </feed>
