@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-06T11:03:15+08:00</updated>
+    <updated>2026-04-06T14:00:19+08:00</updated>
+        <entry>
+        <title>推荐一个开源的多线程下载器 — Motrix</title>
+        <id>151956</id>
+        <link href="https://jyblog.cn/5216/?utm_source=blogfinder" />
+        <published>2026-04-06T13:04:26+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[推荐一个开源的多线程下载器 — Motrix]]></summary>
+    </entry>
+        <entry>
+        <title>爱没有标准，但是不爱有</title>
+        <id>151942</id>
+        <link href="https://mobius.blog/22377.html?utm_source=blogfinder" />
+        <published>2026-04-06T11:49:49+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[爱没有标准，但是不爱有]]></summary>
+    </entry>
         <entry>
         <title>强化学习原理与实战案例（技术深度解析）</title>
         <id>151938</id>
@@ -24,6 +46,28 @@
         <summary type="text"><![CDATA[强化学习原理与实战案例（技术深度解析）]]></summary>
     </entry>
         <entry>
+        <title>Phoenix监控平台技术解析（十二）：线程池信息采集——MonitoredExecutor 注册表与定时上报机制</title>
+        <id>151952</id>
+        <link href="https://kacper.fun/blog/169?utm_source=blogfinder" />
+        <published>2026-04-06T09:05:20+08:00</published>
+        <author>
+            <name>知录</name>
+            <uri>https://kacper.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Phoenix监控平台技术解析（十二）：线程池信息采集——MonitoredExecutor 注册表与定时上报机制]]></summary>
+    </entry>
+        <entry>
+        <title>Phoenix监控平台技术解析（十一）：JVM 信息采集——内存、线程、GC、类加载数据的收集</title>
+        <id>151953</id>
+        <link href="https://kacper.fun/blog/168?utm_source=blogfinder" />
+        <published>2026-04-06T09:01:46+08:00</published>
+        <author>
+            <name>知录</name>
+            <uri>https://kacper.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Phoenix监控平台技术解析（十一）：JVM 信息采集——内存、线程、GC、类加载数据的收集]]></summary>
+    </entry>
+        <entry>
         <title>黄金的金融地位</title>
         <id>151934</id>
         <link href="https://www.immarcus.com/blog/financial-role-of-gold?utm_source=blogfinder" />
@@ -33,6 +77,17 @@
             <uri>https://immarcus.com</uri>
         </author>
         <summary type="text"><![CDATA[黄金的金融地位]]></summary>
+    </entry>
+        <entry>
+        <title>莊河青堆子古鎮</title>
+        <id>151941</id>
+        <link href="https://leileiluoluo.com/posts/qing-dui-gu-zhen.html?utm_source=blogfinder" />
+        <published>2026-04-06T07:00:00+08:00</published>
+        <author>
+            <name>磊磊落落</name>
+            <uri>https://leileiluoluo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[莊河青堆子古鎮]]></summary>
     </entry>
         <entry>
         <title>算法竞赛技巧与实战经验</title>
@@ -77,6 +132,17 @@
             <uri>https://blog.hpcesia.com</uri>
         </author>
         <summary type="text"><![CDATA[Hello, Astro With Typst]]></summary>
+    </entry>
+        <entry>
+        <title>清明短途游｜印象胶东，藏着胶东烟火与春日浪漫✨</title>
+        <id>151954</id>
+        <link href="https://www.oszz.cn/post/10?utm_source=blogfinder" />
+        <published>2026-04-05T22:59:00+08:00</published>
+        <author>
+            <name>李文君 &#039;s Blog</name>
+            <uri>https://www.oszz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[清明短途游｜印象胶东，藏着胶东烟火与春日浪漫✨]]></summary>
     </entry>
         <entry>
         <title>语雀文档批量下载工具 yuque-dl</title>
@@ -396,6 +462,17 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[DevOps与持续交付实践（技术深度解析）]]></summary>
+    </entry>
+        <entry>
+        <title>落红就是无情物</title>
+        <id>151943</id>
+        <link href="https://mobius.blog/22117.html?utm_source=blogfinder" />
+        <published>2026-04-05T09:51:20+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[落红就是无情物]]></summary>
     </entry>
         <entry>
         <title>落红就是无情物</title>
@@ -902,6 +979,28 @@
             <uri>https://jdzhao.com</uri>
         </author>
         <summary type="text"><![CDATA[密码保护：关于1.4.9]]></summary>
+    </entry>
+        <entry>
+        <title>了解 Kagi 的历史</title>
+        <id>151955</id>
+        <link href="https://blog.cytrogen.icu/posts/c2db.html?utm_source=blogfinder" />
+        <published>2026-04-04T12:00:00+08:00</published>
+        <author>
+            <name>Cytrogen&#039;s Blog</name>
+            <uri>https://blog.cytrogen.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[了解 Kagi 的历史]]></summary>
+    </entry>
+        <entry>
+        <title>鸟窝</title>
+        <id>151944</id>
+        <link href="https://mobius.blog/21951.html?utm_source=blogfinder" />
+        <published>2026-04-04T11:25:05+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[鸟窝]]></summary>
     </entry>
         <entry>
         <title>鸟窝</title>
@@ -1419,71 +1518,5 @@
             <uri>https://blog.giveanornot.com</uri>
         </author>
         <summary type="text"><![CDATA[JN 最近在幹嘛]]></summary>
-    </entry>
-        <entry>
-        <title>生肖定制款明信片今日开兑！120呆币换全套+徽章</title>
-        <id>151780</id>
-        <link href="https://zhujay.com/talking/?id=1220&amp;utm_source=blogfinder" />
-        <published>2026-04-03T13:20:30+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[生肖定制款明信片今日开兑！120呆币换全套+徽章]]></summary>
-    </entry>
-        <entry>
-        <title>Phoenix监控平台技术解析（八）：Monitor 入口类——客户端启动全流程解析</title>
-        <id>151756</id>
-        <link href="https://kacper.fun/blog/167?utm_source=blogfinder" />
-        <published>2026-04-03T11:45:04+08:00</published>
-        <author>
-            <name>知录</name>
-            <uri>https://kacper.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[Phoenix监控平台技术解析（八）：Monitor 入口类——客户端启动全流程解析]]></summary>
-    </entry>
-        <entry>
-        <title>这周发生的有趣事情[周记]</title>
-        <id>151767</id>
-        <link href="https://ygz.ink/archives/4577.html?utm_source=blogfinder" />
-        <published>2026-04-03T11:44:38+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[这周发生的有趣事情[周记]]]></summary>
-    </entry>
-        <entry>
-        <title>Phoenix监控平台技术解析（九）：配置加载机制——properties 文件与 SpringBoot 配置的双轨制</title>
-        <id>151757</id>
-        <link href="https://kacper.fun/blog/166?utm_source=blogfinder" />
-        <published>2026-04-03T11:42:54+08:00</published>
-        <author>
-            <name>知录</name>
-            <uri>https://kacper.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[Phoenix监控平台技术解析（九）：配置加载机制——properties 文件与 SpringBoot 配置的双轨制]]></summary>
-    </entry>
-        <entry>
-        <title>Phoenix监控平台技术解析（十）：心跳机制——HeartbeatTaskScheduler 的设计与实现</title>
-        <id>151817</id>
-        <link href="https://kacper.fun/blog/165?utm_source=blogfinder" />
-        <published>2026-04-03T11:38:45+08:00</published>
-        <author>
-            <name>知录</name>
-            <uri>https://kacper.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[Phoenix监控平台技术解析（十）：心跳机制——HeartbeatTaskScheduler 的设计与实现]]></summary>
-    </entry>
-        <entry>
-        <title>巴中红苕稀饭：刻在老一辈骨血里的生存记忆与最深乡愁</title>
-        <id>151750</id>
-        <link href="https://www.aiwazi.com/3049.html?utm_source=blogfinder" />
-        <published>2026-04-03T11:31:15+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[巴中红苕稀饭：刻在老一辈骨血里的生存记忆与最深乡愁]]></summary>
     </entry>
     </feed>
