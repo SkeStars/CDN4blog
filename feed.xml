@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-07T17:02:28+08:00</updated>
+    <updated>2026-04-07T19:02:01+08:00</updated>
+        <entry>
+        <title>武汉三日游</title>
+        <id>152052</id>
+        <link href="https://airy.ink/travel/440?utm_source=blogfinder" />
+        <published>2026-04-07T15:56:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[武汉三日游]]></summary>
+    </entry>
         <entry>
         <title>放假哪儿也没去</title>
         <id>152042</id>
@@ -319,6 +330,17 @@
             <uri>https://www.wangdu.site</uri>
         </author>
         <summary type="text"><![CDATA[OpenClaw 2026.4.5 Telegram 和飞书无法回复问题的修复指南]]></summary>
+    </entry>
+        <entry>
+        <title>拆解一下 opencode context 做了哪些优化</title>
+        <id>152050</id>
+        <link href="https://www.luozhiyun.com/archives/918?utm_source=blogfinder" />
+        <published>2026-04-06T22:47:01+08:00</published>
+        <author>
+            <name>luozhiyun`s Blog</name>
+            <uri>https://www.luozhiyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[拆解一下 opencode context 做了哪些优化]]></summary>
     </entry>
         <entry>
         <title>Web 性能优化实战</title>
@@ -1749,49 +1771,5 @@
             <uri>https://ayayy.com</uri>
         </author>
         <summary type="text"><![CDATA[给主题上了Turbo（涡轮增压）]]></summary>
-    </entry>
-        <entry>
-        <title>清明节-哈尔滨-野鸭湾</title>
-        <id>151842</id>
-        <link href="https://siwei.li/qing-ming-jie-ha-er-bin-ye-ya-wan/?utm_source=blogfinder" />
-        <published>2026-04-04T18:51:34+08:00</published>
-        <author>
-            <name>Siwei Li</name>
-            <uri>https://siwei.li</uri>
-        </author>
-        <summary type="text"><![CDATA[清明节-哈尔滨-野鸭湾]]></summary>
-    </entry>
-        <entry>
-        <title>独立博客博主自恋这件小事</title>
-        <id>152043</id>
-        <link href="https://www.suiyan.cc/blog/20260404183827?utm_source=blogfinder" />
-        <published>2026-04-04T18:38:27+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[独立博客博主自恋这件小事]]></summary>
-    </entry>
-        <entry>
-        <title>独立博客博主自恋这件小事</title>
-        <id>151833</id>
-        <link href="https://www.suiyan.cc/blog/20260404183827/?utm_source=blogfinder" />
-        <published>2026-04-04T18:38:27+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[独立博客博主自恋这件小事]]></summary>
-    </entry>
-        <entry>
-        <title>四月四日记：砖贴完了，酒没停，五险一金被人吹上了天</title>
-        <id>151856</id>
-        <link href="https://blog.52hyjs.com/post-1265.html?utm_source=blogfinder" />
-        <published>2026-04-04T17:14:00+08:00</published>
-        <author>
-            <name>幻影博客</name>
-            <uri>https://blog.52hyjs.com</uri>
-        </author>
-        <summary type="text"><![CDATA[四月四日记：砖贴完了，酒没停，五险一金被人吹上了天]]></summary>
     </entry>
     </feed>
