@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-07T23:00:31+08:00</updated>
+    <updated>2026-04-08T00:01:03+08:00</updated>
         <entry>
         <title>希望你是一个聪明的女人</title>
         <id>152059</id>
@@ -33,6 +33,17 @@
             <uri>https://meledee.com</uri>
         </author>
         <summary type="text"><![CDATA[已撤牌的本地五星级豪华酒店]]></summary>
+    </entry>
+        <entry>
+        <title>还在手写？Nano Banana Pro 白板提示词来了，信息密度大3倍！</title>
+        <id>152061</id>
+        <link href="https://www.wangdu.site/course/prompts/2335.html?utm_source=blogfinder" />
+        <published>2026-04-07T21:40:40+08:00</published>
+        <author>
+            <name>文武科技柜</name>
+            <uri>https://www.wangdu.site</uri>
+        </author>
+        <summary type="text"><![CDATA[还在手写？Nano Banana Pro 白板提示词来了，信息密度大3倍！]]></summary>
     </entry>
         <entry>
         <title>WordPress新站要注意 有一种可以越过验证码发布垃圾评论漏洞</title>
@@ -132,6 +143,17 @@
             <uri>https://blog.tibtob.cn</uri>
         </author>
         <summary type="text"><![CDATA[打卡无锡南长街步行街]]></summary>
+    </entry>
+        <entry>
+        <title>还在手写？Nano Banana Pro 完美解决 AI 中文乱码，这套「学霸笔记」咒语绝了！</title>
+        <id>152062</id>
+        <link href="https://www.wangdu.site/course/prompts/2334.html?utm_source=blogfinder" />
+        <published>2026-04-07T13:55:31+08:00</published>
+        <author>
+            <name>文武科技柜</name>
+            <uri>https://www.wangdu.site</uri>
+        </author>
+        <summary type="text"><![CDATA[还在手写？Nano Banana Pro 完美解决 AI 中文乱码，这套「学霸笔记」咒语绝了！]]></summary>
     </entry>
         <entry>
         <title>Apple Watch + AirPods 真实体验分享：那些意外里的小惊喜与小教训</title>
@@ -352,6 +374,17 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[CDN与边缘计算网络优化]]></summary>
+    </entry>
+        <entry>
+        <title>仿生人会梦见电子羊吗？AI意识觉醒的一点思考</title>
+        <id>152060</id>
+        <link href="http://qthinker.net/content/68?utm_source=blogfinder" />
+        <published>2026-04-06T23:06:03+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[仿生人会梦见电子羊吗？AI意识觉醒的一点思考]]></summary>
     </entry>
         <entry>
         <title>忙忙碌碌，也别错过生活本身</title>
@@ -1661,38 +1694,5 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[SDN与网络功能虚拟化（技术深度解析）]]></summary>
-    </entry>
-        <entry>
-        <title>只是更难了：关于境外券商的一点观察</title>
-        <id>151921</id>
-        <link href="https://tumutanzi.com/archives/17584?utm_source=blogfinder" />
-        <published>2026-04-05T00:00:14+08:00</published>
-        <author>
-            <name>土木坛子</name>
-            <uri>https://tumutanzi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[只是更难了：关于境外券商的一点观察]]></summary>
-    </entry>
-        <entry>
-        <title>ChronoFrame - 一款优雅的瀑布流相册系统</title>
-        <id>151853</id>
-        <link href="https://blog.liushen.fun/posts/381a41ac/?utm_source=blogfinder" />
-        <published>2026-04-05T00:00:00+08:00</published>
-        <author>
-            <name>LiuShen&#039;s Blog</name>
-            <uri>https://blog.liushen.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[ChronoFrame - 一款优雅的瀑布流相册系统]]></summary>
-    </entry>
-        <entry>
-        <title>[AndNode] 香港云-标准型 50Mbps</title>
-        <id>151843</id>
-        <link href="https://blog.yeqing.net/AndNode-hk-standard/?utm_source=blogfinder" />
-        <published>2026-04-04T23:33:57+08:00</published>
-        <author>
-            <name>夜轻 Blog</name>
-            <uri>https://blog.yeqing.net</uri>
-        </author>
-        <summary type="text"><![CDATA[[AndNode] 香港云-标准型 50Mbps]]></summary>
     </entry>
     </feed>
