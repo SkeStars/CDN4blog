@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-07T14:00:32+08:00</updated>
+    <updated>2026-04-07T15:01:59+08:00</updated>
+        <entry>
+        <title>打卡无锡南长街步行街</title>
+        <id>152032</id>
+        <link href="https://blog.tibtob.cn/archives/54/?utm_source=blogfinder" />
+        <published>2026-04-07T13:56:00+08:00</published>
+        <author>
+            <name>拾音博客</name>
+            <uri>https://blog.tibtob.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[打卡无锡南长街步行街]]></summary>
+    </entry>
+        <entry>
+        <title>沉默不是贾平凹和贾浅浅最好的选择</title>
+        <id>152033</id>
+        <link href="https://www.pgoj.top/archives/jiapingwachenmo.html?utm_source=blogfinder" />
+        <published>2026-04-07T12:06:53+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[沉默不是贾平凹和贾浅浅最好的选择]]></summary>
+    </entry>
+        <entry>
+        <title>知见立知即无明本</title>
+        <id>152030</id>
+        <link href="https://rolen.wiki/nothing-to-know/?utm_source=blogfinder" />
+        <published>2026-04-07T11:46:30+08:00</published>
+        <author>
+            <name>Rolen&#039;s Blog</name>
+            <uri>https://rolen.wiki</uri>
+        </author>
+        <summary type="text"><![CDATA[知见立知即无明本]]></summary>
+    </entry>
         <entry>
         <title>血压忽高事件</title>
         <id>152026</id>
@@ -176,6 +209,17 @@
             <uri>https://hiwannz.com</uri>
         </author>
         <summary type="text"><![CDATA[忙忙碌碌，也别错过生活本身]]></summary>
+    </entry>
+        <entry>
+        <title>清明流水账 0406</title>
+        <id>152031</id>
+        <link href="https://blog.solazy.me/20260406/?utm_source=blogfinder" />
+        <published>2026-04-06T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[清明流水账 0406]]></summary>
     </entry>
         <entry>
         <title>玩魔方</title>
@@ -1716,49 +1760,5 @@
             <uri>https://howiehz.top</uri>
         </author>
         <summary type="text"><![CDATA[网站字体应用之坑——font-family 篇]]></summary>
-    </entry>
-        <entry>
-        <title>Home Assistant 绑定米家账号后怎么刷新设备列表</title>
-        <id>151821</id>
-        <link href="https://wuminboke.site/uncategorized/home-assistant-refresh-xiaomi-devices-list/?utm_source=blogfinder" />
-        <published>2026-04-04T14:52:33+08:00</published>
-        <author>
-            <name>无名博客</name>
-            <uri>https://wuminboke.site</uri>
-        </author>
-        <summary type="text"><![CDATA[Home Assistant 绑定米家账号后怎么刷新设备列表]]></summary>
-    </entry>
-        <entry>
-        <title>不务正业？我的家庭服务器藏着 AI 创业新思路！</title>
-        <id>151849</id>
-        <link href="https://ourai.ws/posts/home-server-as-digital-life-infrastructure/?utm_source=blogfinder" />
-        <published>2026-04-04T14:38:52+08:00</published>
-        <author>
-            <name>欧雷流</name>
-            <uri>https://ourai.ws</uri>
-        </author>
-        <summary type="text"><![CDATA[不务正业？我的家庭服务器藏着 AI 创业新思路！]]></summary>
-    </entry>
-        <entry>
-        <title>《四月随感（1）》</title>
-        <id>151840</id>
-        <link href="https://www.weiwenchao.com/2481.html?utm_source=blogfinder" />
-        <published>2026-04-04T14:24:00+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《四月随感（1）》]]></summary>
-    </entry>
-        <entry>
-        <title>CVE-2019-5736浅析</title>
-        <id>151885</id>
-        <link href="https://blog.deepchirp.com/2026/04/04/CVE-2019-5736-Notes/?utm_source=blogfinder" />
-        <published>2026-04-04T14:18:21+08:00</published>
-        <author>
-            <name>空鸣深语</name>
-            <uri>https://blog.deepchirp.com</uri>
-        </author>
-        <summary type="text"><![CDATA[CVE-2019-5736浅析]]></summary>
     </entry>
     </feed>
