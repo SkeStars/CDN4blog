@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-08T19:03:24+08:00</updated>
+    <updated>2026-04-08T22:00:44+08:00</updated>
+        <entry>
+        <title>测试</title>
+        <id>152151</id>
+        <link href="https://www.friendcc.com/625.html?utm_source=blogfinder" />
+        <published>2026-04-08T21:36:00+08:00</published>
+        <author>
+            <name>梦不见的梦</name>
+            <uri>https://www.friendcc.com</uri>
+        </author>
+        <summary type="text"><![CDATA[测试]]></summary>
+    </entry>
+        <entry>
+        <title>阴雨天的随笔</title>
+        <id>152149</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1124&amp;utm_source=blogfinder" />
+        <published>2026-04-08T19:28:22+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[阴雨天的随笔]]></summary>
+    </entry>
+        <entry>
+        <title>高效沟通(四)：沟通技术</title>
+        <id>152150</id>
+        <link href="https://chegva.com/6274.html?utm_source=blogfinder" />
+        <published>2026-04-08T17:18:05+08:00</published>
+        <author>
+            <name>安志合的学习博客</name>
+            <uri>https://chegva.com</uri>
+        </author>
+        <summary type="text"><![CDATA[高效沟通(四)：沟通技术]]></summary>
+    </entry>
         <entry>
         <title>春假游洛阳</title>
         <id>152146</id>
@@ -275,6 +308,17 @@
             <uri>https://blog.mfwt.top</uri>
         </author>
         <summary type="text"><![CDATA[2026 年的第一场空调]]></summary>
+    </entry>
+        <entry>
+        <title>新系列预告</title>
+        <id>152148</id>
+        <link href="https://blog.mcenahle.org.cn/2026/04/07/445.html?utm_source=blogfinder" />
+        <published>2026-04-07T22:34:43+08:00</published>
+        <author>
+            <name>梅之夏</name>
+            <uri>https://blog.mcenahle.org.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[新系列预告]]></summary>
     </entry>
         <entry>
         <title>希望你是一个聪明的女人</title>
@@ -1135,6 +1179,17 @@
         <summary type="text"><![CDATA[b站首页回到旧版+搜索页回到旧版]]></summary>
     </entry>
         <entry>
+        <title>坐高铁读书是发达，我先前比他们阔</title>
+        <id>152152</id>
+        <link href="https://www.pgoj.top/archives/gaotiedushu.html?utm_source=blogfinder" />
+        <published>2026-04-06T18:37:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[坐高铁读书是发达，我先前比他们阔]]></summary>
+    </entry>
+        <entry>
         <title>久违的本社之行</title>
         <id>151962</id>
         <link href="https://shuiba.co/return-to-head-office?utm_source=blogfinder" />
@@ -1606,60 +1661,5 @@
             <uri>https://blog.share888.top</uri>
         </author>
         <summary type="text"><![CDATA[go整合向量数据库ChromaDB]]></summary>
-    </entry>
-        <entry>
-        <title>生活碎碎念：考试已毕，下大雨，木头窗户，弹珠区</title>
-        <id>151965</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1209/?utm_source=blogfinder" />
-        <published>2026-04-05T22:00:00+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[生活碎碎念：考试已毕，下大雨，木头窗户，弹珠区]]></summary>
-    </entry>
-        <entry>
-        <title>如何用深度学习做目标识别？—— 完整工具链详解</title>
-        <id>151925</id>
-        <link href="https://xtxcool.com/archives/02-ru-he-yong-shen-du-xue-xi-zuo-mu-biao-shi-bie------wan-zheng-gong-ju-lian-xiang-jie?utm_source=blogfinder" />
-        <published>2026-04-05T20:45:00+08:00</published>
-        <author>
-            <name>静水流深</name>
-            <uri>https://xtxcool.com</uri>
-        </author>
-        <summary type="text"><![CDATA[如何用深度学习做目标识别？—— 完整工具链详解]]></summary>
-    </entry>
-        <entry>
-        <title>手机铃声依然是《新长征路上的摇滚》</title>
-        <id>151935</id>
-        <link href="https://www.pgoj.top/archives/cuijianyaogunxinchangzheng.html?utm_source=blogfinder" />
-        <published>2026-04-05T20:41:28+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[手机铃声依然是《新长征路上的摇滚》]]></summary>
-    </entry>
-        <entry>
-        <title>十里东城</title>
-        <id>151937</id>
-        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1122&amp;utm_source=blogfinder" />
-        <published>2026-04-05T20:15:00+08:00</published>
-        <author>
-            <name>徐建伟</name>
-            <uri>http://www.xulog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[十里东城]]></summary>
-    </entry>
-        <entry>
-        <title>三花猫生了七只小奶猫</title>
-        <id>151917</id>
-        <link href="https://www.bufanz.com/20260405545.html?utm_source=blogfinder" />
-        <published>2026-04-05T19:34:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[三花猫生了七只小奶猫]]></summary>
     </entry>
     </feed>
