@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-08T22:00:44+08:00</updated>
+    <updated>2026-04-08T23:00:44+08:00</updated>
         <entry>
         <title>测试</title>
         <id>152151</id>
@@ -24,6 +24,17 @@
         <summary type="text"><![CDATA[测试]]></summary>
     </entry>
         <entry>
+        <title>不问自坐，刚买几天的电动车被人当凳子坐，你的屁股坐出了对别人财产的轻视</title>
+        <id>152154</id>
+        <link href="https://www.bufanz.com/20260408546.html?utm_source=blogfinder" />
+        <published>2026-04-08T20:31:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[不问自坐，刚买几天的电动车被人当凳子坐，你的屁股坐出了对别人财产的轻视]]></summary>
+    </entry>
+        <entry>
         <title>阴雨天的随笔</title>
         <id>152149</id>
         <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1124&amp;utm_source=blogfinder" />
@@ -33,6 +44,17 @@
             <uri>http://www.xulog.cn</uri>
         </author>
         <summary type="text"><![CDATA[阴雨天的随笔]]></summary>
+    </entry>
+        <entry>
+        <title>VS Code Remote Tunnels本地连接调试Kaggle GPU - 开发技巧| 阿尔的代码屋</title>
+        <id>152155</id>
+        <link href="https://blog.algieba12.cn/connect-kaggle-on-vscode/?utm_source=blogfinder" />
+        <published>2026-04-08T19:20:10+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[VS Code Remote Tunnels本地连接调试Kaggle GPU - 开发技巧| 阿尔的代码屋]]></summary>
     </entry>
         <entry>
         <title>高效沟通(四)：沟通技术</title>
@@ -57,6 +79,17 @@
         <summary type="text"><![CDATA[春假游洛阳]]></summary>
     </entry>
         <entry>
+        <title>2026年第一个项目正式开工了</title>
+        <id>152156</id>
+        <link href="https://ayayy.com/178.html?utm_source=blogfinder" />
+        <published>2026-04-08T16:06:00+08:00</published>
+        <author>
+            <name>哎呀哎呀呀</name>
+            <uri>https://ayayy.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026年第一个项目正式开工了]]></summary>
+    </entry>
+        <entry>
         <title>Phoenix监控平台技术解析（十四）：SpringMVC Integrator 适配——Listener 机制集成方案</title>
         <id>152144</id>
         <link href="https://kacper.fun/blog/171?utm_source=blogfinder" />
@@ -66,6 +99,17 @@
             <uri>https://kacper.fun</uri>
         </author>
         <summary type="text"><![CDATA[Phoenix监控平台技术解析（十四）：SpringMVC Integrator 适配——Listener 机制集成方案]]></summary>
+    </entry>
+        <entry>
+        <title>职场里要远离夸夸其谈者</title>
+        <id>152153</id>
+        <link href="https://joojen.com/archives/8915.html?utm_source=blogfinder" />
+        <published>2026-04-08T13:49:34+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[职场里要远离夸夸其谈者]]></summary>
     </entry>
         <entry>
         <title>西西弗斯会想操他推的巨石吗？</title>
@@ -1595,71 +1639,5 @@
             <uri>https://www.codesky.me</uri>
         </author>
         <summary type="text"><![CDATA[AI 浪潮下真实诉求的想象空间—同志仍需努力]]></summary>
-    </entry>
-        <entry>
-        <title>清明短途游｜印象胶东，藏着胶东烟火与春日浪漫✨</title>
-        <id>151954</id>
-        <link href="https://www.oszz.cn/post/10?utm_source=blogfinder" />
-        <published>2026-04-05T22:59:00+08:00</published>
-        <author>
-            <name>李文君 &#039;s Blog</name>
-            <uri>https://www.oszz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[清明短途游｜印象胶东，藏着胶东烟火与春日浪漫✨]]></summary>
-    </entry>
-        <entry>
-        <title>语雀文档批量下载工具 yuque-dl</title>
-        <id>151919</id>
-        <link href="https://www.51it.wang/ll/2174?utm_source=blogfinder" />
-        <published>2026-04-05T22:54:00+08:00</published>
-        <author>
-            <name>Lcry</name>
-            <uri>https://www.51it.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[语雀文档批量下载工具 yuque-dl]]></summary>
-    </entry>
-        <entry>
-        <title>体验下微软开源的Markdown转换工具Markitdown</title>
-        <id>151970</id>
-        <link href="https://nicksxs.me/2026/04/05/%E4%BD%93%E9%AA%8C%E4%B8%8B%E5%BE%AE%E8%BD%AF%E5%BC%80%E6%BA%90%E7%9A%84Markdown%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7Markitdown/?utm_source=blogfinder" />
-        <published>2026-04-05T22:11:22+08:00</published>
-        <author>
-            <name>Nicksxs&#039;s Blog</name>
-            <uri>https://nicksxs.me</uri>
-        </author>
-        <summary type="text"><![CDATA[体验下微软开源的Markdown转换工具Markitdown]]></summary>
-    </entry>
-        <entry>
-        <title>清明流水账 0405</title>
-        <id>151920</id>
-        <link href="https://blog.solazy.me/20260405/?utm_source=blogfinder" />
-        <published>2026-04-05T22:04:45+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[清明流水账 0405]]></summary>
-    </entry>
-        <entry>
-        <title>ollama调用各大模型</title>
-        <id>151915</id>
-        <link href="https://blog.share888.top/note/ai/ai/ollama调用各大模型.html?utm_source=blogfinder" />
-        <published>2026-04-05T22:03:27+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[ollama调用各大模型]]></summary>
-    </entry>
-        <entry>
-        <title>go整合向量数据库ChromaDB</title>
-        <id>151914</id>
-        <link href="https://blog.share888.top/note/ai/ai/go整合向量数据库ChromaDB.html?utm_source=blogfinder" />
-        <published>2026-04-05T22:03:27+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[go整合向量数据库ChromaDB]]></summary>
     </entry>
     </feed>
