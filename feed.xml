@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-08T15:01:11+08:00</updated>
+    <updated>2026-04-08T17:02:47+08:00</updated>
+        <entry>
+        <title>Phoenix监控平台技术解析（十四）：SpringMVC Integrator 适配——Listener 机制集成方案</title>
+        <id>152144</id>
+        <link href="https://kacper.fun/blog/171?utm_source=blogfinder" />
+        <published>2026-04-08T16:01:45+08:00</published>
+        <author>
+            <name>知录</name>
+            <uri>https://kacper.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Phoenix监控平台技术解析（十四）：SpringMVC Integrator 适配——Listener 机制集成方案]]></summary>
+    </entry>
         <entry>
         <title>西西弗斯会想操他推的巨石吗？</title>
         <id>152133</id>
@@ -22,6 +33,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[西西弗斯会想操他推的巨石吗？]]></summary>
+    </entry>
+        <entry>
+        <title>还是考虑升级了Typecho1.3</title>
+        <id>152143</id>
+        <link href="https://zhoutian.com/360.html?utm_source=blogfinder" />
+        <published>2026-04-08T11:21:00+08:00</published>
+        <author>
+            <name>周天记</name>
+            <uri>https://zhoutian.com</uri>
+        </author>
+        <summary type="text"><![CDATA[还是考虑升级了Typecho1.3]]></summary>
     </entry>
         <entry>
         <title>给 AI 装了个&amp;quot;龙虾图书馆&amp;quot;</title>
@@ -35,6 +57,28 @@
         <summary type="text"><![CDATA[给 AI 装了个&amp;quot;龙虾图书馆&amp;quot;]]></summary>
     </entry>
         <entry>
+        <title>说说：#1775617589</title>
+        <id>152142</id>
+        <link href="https://www.yssk.cn/riji/11491226.html?utm_source=blogfinder" />
+        <published>2026-04-08T11:07:00+08:00</published>
+        <author>
+            <name>一时三刻の记忆</name>
+            <uri>https://www.yssk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[说说：#1775617589]]></summary>
+    </entry>
+        <entry>
+        <title>工亚内地取现实例</title>
+        <id>152140</id>
+        <link href="https://retire50blog.wang/invest/%e5%b7%a5%e4%ba%9a%e5%8f%96%e7%8e%b0%e5%ae%9e%e4%be%8b.html?utm_source=blogfinder" />
+        <published>2026-04-08T10:35:03+08:00</published>
+        <author>
+            <name>个人工作记录</name>
+            <uri>https://retire50blog.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[工亚内地取现实例]]></summary>
+    </entry>
+        <entry>
         <title>TCP/IP协议栈与网络编程实战</title>
         <id>152130</id>
         <link href="https://www.aserver.cn/?post=161&amp;utm_source=blogfinder" />
@@ -44,6 +88,17 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[TCP/IP协议栈与网络编程实战]]></summary>
+    </entry>
+        <entry>
+        <title>一次医院睡眠监测记录</title>
+        <id>152141</id>
+        <link href="https://www.jfsay.com/archives/3966.html?utm_source=blogfinder" />
+        <published>2026-04-08T09:38:49+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[一次医院睡眠监测记录]]></summary>
     </entry>
         <entry>
         <title>初高中物理化学生物实验的变迁</title>
@@ -1573,38 +1628,5 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[三花猫生了七只小奶猫]]></summary>
-    </entry>
-        <entry>
-        <title>垃圾</title>
-        <id>151908</id>
-        <link href="https://www.geedea.pro/fiction/garbage/?utm_source=blogfinder" />
-        <published>2026-04-05T16:57:19+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[垃圾]]></summary>
-    </entry>
-        <entry>
-        <title>日寄 三十二</title>
-        <id>151923</id>
-        <link href="https://cyrus19.cc/archives/1838?utm_source=blogfinder" />
-        <published>2026-04-05T16:26:39+08:00</published>
-        <author>
-            <name>CC 的数字花园</name>
-            <uri>https://cyrus19.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[日寄 三十二]]></summary>
-    </entry>
-        <entry>
-        <title>Vol.97 AI领域前沿动态：从智能体工程化到开源模型演进</title>
-        <id>151959</id>
-        <link href="https://liduos.com/weekly/the-weekly-gradient-97?utm_source=blogfinder" />
-        <published>2026-04-05T16:00:00+08:00</published>
-        <author>
-            <name>莫尔索</name>
-            <uri>https://liduos.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Vol.97 AI领域前沿动态：从智能体工程化到开源模型演进]]></summary>
     </entry>
     </feed>
