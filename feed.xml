@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-09T11:03:07+08:00</updated>
+    <updated>2026-04-09T14:00:26+08:00</updated>
+        <entry>
+        <title>电压</title>
+        <id>152226</id>
+        <link href="https://ltmltm.cn/bk/1439.html?utm_source=blogfinder" />
+        <published>2026-04-09T13:02:37+08:00</published>
+        <author>
+            <name>因为很想念</name>
+            <uri>https://ltmltm.cn/bk</uri>
+        </author>
+        <summary type="text"><![CDATA[电压]]></summary>
+    </entry>
+        <entry>
+        <title>不消耗是什么感觉？</title>
+        <id>152220</id>
+        <link href="https://rolen.wiki/nothing-to-drain/?utm_source=blogfinder" />
+        <published>2026-04-09T11:12:20+08:00</published>
+        <author>
+            <name>Rolen&#039;s Blog</name>
+            <uri>https://rolen.wiki</uri>
+        </author>
+        <summary type="text"><![CDATA[不消耗是什么感觉？]]></summary>
+    </entry>
         <entry>
         <title>我将我最初接触 Vibe Coding 的飞机大战重写了，飞机大战2.0登场</title>
         <id>152207</id>
@@ -90,6 +112,17 @@
         <summary type="text"><![CDATA[测试更新标题]]></summary>
     </entry>
         <entry>
+        <title>Phoenix监控平台技术解析（十五）：业务埋点——同步与异步告警发送 API 设计</title>
+        <id>152219</id>
+        <link href="https://kacper.fun/blog/172?utm_source=blogfinder" />
+        <published>2026-04-09T09:23:27+08:00</published>
+        <author>
+            <name>知录</name>
+            <uri>https://kacper.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Phoenix监控平台技术解析（十五）：业务埋点——同步与异步告警发送 API 设计]]></summary>
+    </entry>
+        <entry>
         <title>【读书记1647】丰子恺《小孩的哲学是大人的解药：丰子恺的人生漫笔》</title>
         <id>152200</id>
         <link href="http://www.qncd.com/?p=12627&amp;utm_source=blogfinder" />
@@ -110,6 +143,17 @@
             <uri>https://immarcus.com</uri>
         </author>
         <summary type="text"><![CDATA[K. 522]]></summary>
+    </entry>
+        <entry>
+        <title>实现友链订阅与微博功能调整</title>
+        <id>152225</id>
+        <link href="https://www.pgoj.top/archives/weibodingyue.html?utm_source=blogfinder" />
+        <published>2026-04-09T07:42:02+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[实现友链订阅与微博功能调整]]></summary>
     </entry>
         <entry>
         <title>OpenClaw Memory Wiki 技术文档</title>
@@ -189,6 +233,39 @@
         <summary type="text"><![CDATA[233 换季了，请洗所有衣服、打扫藏污纳垢之处后，舒服多了呀]]></summary>
     </entry>
         <entry>
+        <title>Lesson 13 配分函数的一些应用</title>
+        <id>152223</id>
+        <link href="https://physnya.top/statistical-mechanics/lesson-13/?utm_source=blogfinder" />
+        <published>2026-04-08T22:51:34+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 13 配分函数的一些应用]]></summary>
+    </entry>
+        <entry>
+        <title>Lesson 7 传粉的力量</title>
+        <id>152222</id>
+        <link href="https://physnya.top/animal-behavior/lesson-7-pollen/?utm_source=blogfinder" />
+        <published>2026-04-08T22:51:34+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 7 传粉的力量]]></summary>
+    </entry>
+        <entry>
+        <title>Lesson 13 作用量原理</title>
+        <id>152221</id>
+        <link href="https://physnya.top/GR/lesson-13-action/?utm_source=blogfinder" />
+        <published>2026-04-08T22:51:34+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 13 作用量原理]]></summary>
+    </entry>
+        <entry>
         <title>解决 openwrt passwall 升级 singbox 组件报错。sing-box__/tmp/sing-box_extract.lIpkKJ/sing-box</title>
         <id>152158</id>
         <link href="https://www.51it.wang/ll/2176?utm_source=blogfinder" />
@@ -231,6 +308,17 @@
             <uri>https://61.life</uri>
         </author>
         <summary type="text"><![CDATA[20260404]]></summary>
+    </entry>
+        <entry>
+        <title>她们在聊啥？</title>
+        <id>152224</id>
+        <link href="https://ygz.ink/archives/4607.html?utm_source=blogfinder" />
+        <published>2026-04-08T22:03:22+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[她们在聊啥？]]></summary>
     </entry>
         <entry>
         <title>测试</title>
@@ -1727,71 +1815,5 @@
             <uri>https://blog.devtang.com</uri>
         </author>
         <summary type="text"><![CDATA[利用 AI Agent, 将域名从 Godaddy 迁移到 Cloudflare]]></summary>
-    </entry>
-        <entry>
-        <title>AI 还没重构组织，焦虑先重构了管理</title>
-        <id>151975</id>
-        <link href="https://www.edony.ink/ai-huan-mei-zhong-gou-zu-zhi-jiao-lu-xian-zhong-gou-liao-guan-li/?utm_source=blogfinder" />
-        <published>2026-04-06T13:58:10+08:00</published>
-        <author>
-            <name>Shadow Walker</name>
-            <uri>https://www.edony.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[AI 还没重构组织，焦虑先重构了管理]]></summary>
-    </entry>
-        <entry>
-        <title>【日常】拿下了MIKUPARA.COM！</title>
-        <id>151960</id>
-        <link href="https://www.nekopara.uk/archives/Get_MIKUPARA.html?utm_source=blogfinder" />
-        <published>2026-04-06T13:11:18+08:00</published>
-        <author>
-            <name>GTX690 战术核显卡导弹</name>
-            <uri>https://www.nekopara.uk</uri>
-        </author>
-        <summary type="text"><![CDATA[【日常】拿下了MIKUPARA.COM！]]></summary>
-    </entry>
-        <entry>
-        <title>推荐一个开源的多线程下载器 — Motrix</title>
-        <id>151956</id>
-        <link href="https://jyblog.cn/5216/?utm_source=blogfinder" />
-        <published>2026-04-06T13:04:26+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[推荐一个开源的多线程下载器 — Motrix]]></summary>
-    </entry>
-        <entry>
-        <title>2026-04-06 12:25</title>
-        <id>151957</id>
-        <link href="https://koobai.com/laodao/2026/04/20260406-042544/?utm_source=blogfinder" />
-        <published>2026-04-06T12:25:44+08:00</published>
-        <author>
-            <name>Koobai</name>
-            <uri>https://koobai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-04-06 12:25]]></summary>
-    </entry>
-        <entry>
-        <title>爱没有标准，但是不爱有</title>
-        <id>151942</id>
-        <link href="https://mobius.blog/22377.html?utm_source=blogfinder" />
-        <published>2026-04-06T11:49:49+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[爱没有标准，但是不爱有]]></summary>
-    </entry>
-        <entry>
-        <title>2026年3月阅读书摘</title>
-        <id>151981</id>
-        <link href="https://www.domon.cn/2026-3yue-yue-du-shu-zhai/?utm_source=blogfinder" />
-        <published>2026-04-06T11:22:24+08:00</published>
-        <author>
-            <name>Dennis</name>
-            <uri>https://www.domon.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[2026年3月阅读书摘]]></summary>
     </entry>
     </feed>
