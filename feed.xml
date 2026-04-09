@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-09T22:01:03+08:00</updated>
+    <updated>2026-04-10T00:00:38+08:00</updated>
+        <entry>
+        <title>士，死了吗？</title>
+        <id>152244</id>
+        <link href="https://wangyurui.com/posts/xian-dai-she-hui-huan-you-shi-jing-shen-ma-064d4b06?utm_source=blogfinder" />
+        <published>2026-04-09T21:58:14+08:00</published>
+        <author>
+            <name>太隐</name>
+            <uri>https://wangyurui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[士，死了吗？]]></summary>
+    </entry>
+        <entry>
+        <title>【不凡摄影作品 | 2026.4.9】</title>
+        <id>152248</id>
+        <link href="https://www.bufanz.com/20260409548.html?utm_source=blogfinder" />
+        <published>2026-04-09T21:51:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【不凡摄影作品 | 2026.4.9】]]></summary>
+    </entry>
         <entry>
         <title>不知所云，这篇文章不值一看</title>
         <id>152239</id>
@@ -66,6 +88,17 @@
             <uri>https://www.dao.js.cn</uri>
         </author>
         <summary type="text"><![CDATA[玄门关于全球大变紧急预警通告]]></summary>
+    </entry>
+        <entry>
+        <title>尝试我的第一个 Github Copilot instruction, 告别重复输入编码提示词</title>
+        <id>152243</id>
+        <link href="https://www.sunzhongwei.com/github-copilot-instruction?utm_source=blogfinder" />
+        <published>2026-04-09T17:17:09+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[尝试我的第一个 Github Copilot instruction, 告别重复输入编码提示词]]></summary>
     </entry>
         <entry>
         <title>仿佛间像回到了老家</title>
@@ -266,6 +299,17 @@
         <summary type="text"><![CDATA[K. 522]]></summary>
     </entry>
         <entry>
+        <title>早睡早起的真相：遠沒有你想象的光鮮亮麗，更不是什麼成功人士</title>
+        <id>152249</id>
+        <link href="https://blog.giveanornot.com/behind-the-scene-9-to-6/?utm_source=blogfinder" />
+        <published>2026-04-09T07:49:00+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[早睡早起的真相：遠沒有你想象的光鮮亮麗，更不是什麼成功人士]]></summary>
+    </entry>
+        <entry>
         <title>实现友链订阅与微博功能调整</title>
         <id>152225</id>
         <link href="https://www.pgoj.top/archives/weibodingyue.html?utm_source=blogfinder" />
@@ -341,6 +385,39 @@
             <uri>https://www.jianker.cn</uri>
         </author>
         <summary type="text"><![CDATA[一刷喜峰口长城]]></summary>
+    </entry>
+        <entry>
+        <title>react自定义组件</title>
+        <id>152247</id>
+        <link href="https://blog.share888.top/note/front-end/react/react自定义组件.html?utm_source=blogfinder" />
+        <published>2026-04-08T23:35:37+08:00</published>
+        <author>
+            <name>卡卡罗特</name>
+            <uri>https://blog.share888.top</uri>
+        </author>
+        <summary type="text"><![CDATA[react自定义组件]]></summary>
+    </entry>
+        <entry>
+        <title>react脚手架开发</title>
+        <id>152246</id>
+        <link href="https://blog.share888.top/note/front-end/react/react脚手架开发.html?utm_source=blogfinder" />
+        <published>2026-04-08T23:35:37+08:00</published>
+        <author>
+            <name>卡卡罗特</name>
+            <uri>https://blog.share888.top</uri>
+        </author>
+        <summary type="text"><![CDATA[react脚手架开发]]></summary>
+    </entry>
+        <entry>
+        <title>react数据监听</title>
+        <id>152245</id>
+        <link href="https://blog.share888.top/note/front-end/react/react数据监听.html?utm_source=blogfinder" />
+        <published>2026-04-08T23:35:37+08:00</published>
+        <author>
+            <name>卡卡罗特</name>
+            <uri>https://blog.share888.top</uri>
+        </author>
+        <summary type="text"><![CDATA[react数据监听]]></summary>
     </entry>
         <entry>
         <title>远离消耗自己的人和事</title>
@@ -1441,335 +1518,5 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[CDN与边缘计算网络优化]]></summary>
-    </entry>
-        <entry>
-        <title>可复现不沾铁锅</title>
-        <id>152076</id>
-        <link href="https://cyrusyip.org/zh-cn/posts/2026/04/07/reproducible-non-stick-surface/?utm_source=blogfinder" />
-        <published>2026-04-07T00:00:00+08:00</published>
-        <author>
-            <name>叶寻的博客</name>
-            <uri>https://cyrusyip.org</uri>
-        </author>
-        <summary type="text"><![CDATA[可复现不沾铁锅]]></summary>
-    </entry>
-        <entry>
-        <title>仿生人会梦见电子羊吗？AI意识觉醒的一点思考</title>
-        <id>152060</id>
-        <link href="http://qthinker.net/content/68?utm_source=blogfinder" />
-        <published>2026-04-06T23:06:03+08:00</published>
-        <author>
-            <name>Qthinker</name>
-            <uri>https://qthinker.net</uri>
-        </author>
-        <summary type="text"><![CDATA[仿生人会梦见电子羊吗？AI意识觉醒的一点思考]]></summary>
-    </entry>
-        <entry>
-        <title>忙忙碌碌，也别错过生活本身</title>
-        <id>151977</id>
-        <link href="https://hiwannz.com/archives/1243.html?utm_source=blogfinder" />
-        <published>2026-04-06T23:04:46+08:00</published>
-        <author>
-            <name>见字如面</name>
-            <uri>https://hiwannz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[忙忙碌碌，也别错过生活本身]]></summary>
-    </entry>
-        <entry>
-        <title>清明流水账 0406</title>
-        <id>152031</id>
-        <link href="https://blog.solazy.me/20260406/?utm_source=blogfinder" />
-        <published>2026-04-06T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[清明流水账 0406]]></summary>
-    </entry>
-        <entry>
-        <title>玩魔方</title>
-        <id>151982</id>
-        <link href="https://kaffa.im/play-rubik-cube.html?utm_source=blogfinder" />
-        <published>2026-04-06T22:55:00+08:00</published>
-        <author>
-            <name>Kaffa</name>
-            <uri>https://kaffa.im</uri>
-        </author>
-        <summary type="text"><![CDATA[玩魔方]]></summary>
-    </entry>
-        <entry>
-        <title>OpenClaw 2026.4.5 Telegram 和飞书无法回复问题的修复指南</title>
-        <id>151976</id>
-        <link href="https://www.wangdu.site/course/2332.html?utm_source=blogfinder" />
-        <published>2026-04-06T22:49:19+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenClaw 2026.4.5 Telegram 和飞书无法回复问题的修复指南]]></summary>
-    </entry>
-        <entry>
-        <title>拆解一下 opencode context 做了哪些优化</title>
-        <id>152050</id>
-        <link href="https://www.luozhiyun.com/archives/918?utm_source=blogfinder" />
-        <published>2026-04-06T22:47:01+08:00</published>
-        <author>
-            <name>luozhiyun`s Blog</name>
-            <uri>https://www.luozhiyun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[拆解一下 opencode context 做了哪些优化]]></summary>
-    </entry>
-        <entry>
-        <title>关于蓝光刻录的一些调查</title>
-        <id>152063</id>
-        <link href="https://blog.heysh.xyz/2026/04/06/info-about-bluray-r/?utm_source=blogfinder" />
-        <published>2026-04-06T22:14:46+08:00</published>
-        <author>
-            <name>林中阴影</name>
-            <uri>https://blog.heysh.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[关于蓝光刻录的一些调查]]></summary>
-    </entry>
-        <entry>
-        <title>贵州春假连休日常—《你是迟来的欢喜》&amp;amp;《家事法庭》观剧有感</title>
-        <id>152054</id>
-        <link href="https://blog.1edg.cn/686?utm_source=blogfinder" />
-        <published>2026-04-06T22:13:00+08:00</published>
-        <author>
-            <name>小林先森</name>
-            <uri>https://blog.1edg.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[贵州春假连休日常—《你是迟来的欢喜》&amp;amp;《家事法庭》观剧有感]]></summary>
-    </entry>
-        <entry>
-        <title>Web 性能优化实战</title>
-        <id>152020</id>
-        <link href="https://imqi1.com:443/content/11?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Web 性能优化实战]]></summary>
-    </entry>
-        <entry>
-        <title>React Hooks 深入解析</title>
-        <id>152019</id>
-        <link href="https://imqi1.com:443/content/12?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[React Hooks 深入解析]]></summary>
-    </entry>
-        <entry>
-        <title>Node.js 异步编程</title>
-        <id>152018</id>
-        <link href="https://imqi1.com:443/content/13?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Node.js 异步编程]]></summary>
-    </entry>
-        <entry>
-        <title>Tailwind CSS 实战教程</title>
-        <id>152017</id>
-        <link href="https://imqi1.com:443/content/14?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Tailwind CSS 实战教程]]></summary>
-    </entry>
-        <entry>
-        <title>微前端架构实践</title>
-        <id>152016</id>
-        <link href="https://imqi1.com:443/content/15?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[微前端架构实践]]></summary>
-    </entry>
-        <entry>
-        <title>Markdown 语法完全指南</title>
-        <id>152015</id>
-        <link href="https://imqi1.com:443/content/16?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Markdown 语法完全指南]]></summary>
-    </entry>
-        <entry>
-        <title>WebSocket 实时通信实战</title>
-        <id>152014</id>
-        <link href="https://imqi1.com:443/content/17?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[WebSocket 实时通信实战]]></summary>
-    </entry>
-        <entry>
-        <title>CSS 动画入门教程</title>
-        <id>152013</id>
-        <link href="https://imqi1.com:443/content/18?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[CSS 动画入门教程]]></summary>
-    </entry>
-        <entry>
-        <title>JavaScript 闭包详解</title>
-        <id>152012</id>
-        <link href="https://imqi1.com:443/content/19?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[JavaScript 闭包详解]]></summary>
-    </entry>
-        <entry>
-        <title>Webpack 配置指南</title>
-        <id>152011</id>
-        <link href="https://imqi1.com:443/content/20?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Webpack 配置指南]]></summary>
-    </entry>
-        <entry>
-        <title>HTTP 缓存策略</title>
-        <id>152010</id>
-        <link href="https://imqi1.com:443/content/21?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[HTTP 缓存策略]]></summary>
-    </entry>
-        <entry>
-        <title>Vue 组件通信方式</title>
-        <id>152009</id>
-        <link href="https://imqi1.com:443/content/22?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Vue 组件通信方式]]></summary>
-    </entry>
-        <entry>
-        <title>CSS 预处理器对比</title>
-        <id>152008</id>
-        <link href="https://imqi1.com:443/content/23?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[CSS 预处理器对比]]></summary>
-    </entry>
-        <entry>
-        <title>前端安全防护</title>
-        <id>152007</id>
-        <link href="https://imqi1.com:443/content/24?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[前端安全防护]]></summary>
-    </entry>
-        <entry>
-        <title>移动端适配方案</title>
-        <id>152006</id>
-        <link href="https://imqi1.com:443/content/25?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[移动端适配方案]]></summary>
-    </entry>
-        <entry>
-        <title>JavaScript 异步处理</title>
-        <id>152005</id>
-        <link href="https://imqi1.com:443/content/26?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[JavaScript 异步处理]]></summary>
-    </entry>
-        <entry>
-        <title>Git 常用命令总结</title>
-        <id>152004</id>
-        <link href="https://imqi1.com:443/content/27?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Git 常用命令总结]]></summary>
-    </entry>
-        <entry>
-        <title>CSS BEM 命名规范</title>
-        <id>152003</id>
-        <link href="https://imqi1.com:443/content/28?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[CSS BEM 命名规范]]></summary>
-    </entry>
-        <entry>
-        <title>正则表达式入门</title>
-        <id>152002</id>
-        <link href="https://imqi1.com:443/content/29?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[正则表达式入门]]></summary>
-    </entry>
-        <entry>
-        <title>前端性能监控</title>
-        <id>152001</id>
-        <link href="https://imqi1.com:443/content/30?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:50+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[前端性能监控]]></summary>
-    </entry>
-        <entry>
-        <title>隐说 NO.18  善举未必会有善报</title>
-        <id>151973</id>
-        <link href="https://wangyurui.com/posts/yin-shuo-no-18-shan-ju-wei-bi-hui-you-shan-bao-2cbf9f45?utm_source=blogfinder" />
-        <published>2026-04-06T22:09:17+08:00</published>
-        <author>
-            <name>太隐</name>
-            <uri>https://wangyurui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[隐说 NO.18  善举未必会有善报]]></summary>
     </entry>
     </feed>
