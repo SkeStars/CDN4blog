@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-09T16:00:44+08:00</updated>
+    <updated>2026-04-09T17:01:11+08:00</updated>
+        <entry>
+        <title>换地方了</title>
+        <id>152229</id>
+        <link href="https://imzm.im/moved/?utm_source=blogfinder" />
+        <published>2026-04-09T15:22:27+08:00</published>
+        <author>
+            <name>陈仓颉</name>
+            <uri>https://imzm.im</uri>
+        </author>
+        <summary type="text"><![CDATA[换地方了]]></summary>
+    </entry>
         <entry>
         <title>电压</title>
         <id>152226</id>
@@ -46,6 +57,17 @@
         <summary type="text"><![CDATA[我将我最初接触 Vibe Coding 的飞机大战重写了，飞机大战2.0登场]]></summary>
     </entry>
         <entry>
+        <title>丛林变得焦躁不安</title>
+        <id>152230</id>
+        <link href="https://cyrus19.cc/archives/1846?utm_source=blogfinder" />
+        <published>2026-04-09T10:22:22+08:00</published>
+        <author>
+            <name>CC 的数字花园</name>
+            <uri>https://cyrus19.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[丛林变得焦躁不安]]></summary>
+    </entry>
+        <entry>
         <title>为博客添加自定义评论表情</title>
         <id>152209</id>
         <link href="https://wuqishi.com/add-custom-comment-emoticons-to-your-blog/?utm_source=blogfinder" />
@@ -55,6 +77,17 @@
             <uri>https://wuqishi.com</uri>
         </author>
         <summary type="text"><![CDATA[为博客添加自定义评论表情]]></summary>
+    </entry>
+        <entry>
+        <title>介绍一下我自己做的图床 ImgAnt</title>
+        <id>152228</id>
+        <link href="https://blog.forecho.com/introducing-imgant-image-hosting.html?utm_source=blogfinder" />
+        <published>2026-04-09T10:00:00+08:00</published>
+        <author>
+            <name>forecho&#039;s Blog</name>
+            <uri>https://blog.forecho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[介绍一下我自己做的图床 ImgAnt]]></summary>
     </entry>
         <entry>
         <title>巩义免费公园</title>
@@ -1727,60 +1760,5 @@
             <uri>https://yishu-life.com</uri>
         </author>
         <summary type="text"><![CDATA[想去散散心]]></summary>
-    </entry>
-        <entry>
-        <title>观后：《忘梦洞》</title>
-        <id>151966</id>
-        <link href="https://z.arlmy.me/posts/Review/Review_CaveOfForgottenDreams/?utm_source=blogfinder" />
-        <published>2026-04-06T16:57:14+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[观后：《忘梦洞》]]></summary>
-    </entry>
-        <entry>
-        <title>最近惦念 20260322</title>
-        <id>151967</id>
-        <link href="https://z.arlmy.me/posts/TILs/thoughts/20260322_Recently/?utm_source=blogfinder" />
-        <published>2026-04-06T16:54:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[最近惦念 20260322]]></summary>
-    </entry>
-        <entry>
-        <title>Toots 413 2026 Mar.29 - Apr.4</title>
-        <id>151968</id>
-        <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260404/?utm_source=blogfinder" />
-        <published>2026-04-06T16:37:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[Toots 413 2026 Mar.29 - Apr.4]]></summary>
-    </entry>
-        <entry>
-        <title>电脑里的中文：字符集、键盘与输入法</title>
-        <id>151964</id>
-        <link href="https://loveapple.icu/zhcn-charset-kbd-inputmthd/?utm_source=blogfinder" />
-        <published>2026-04-06T16:36:26+08:00</published>
-        <author>
-            <name>LoveApple14434</name>
-            <uri>https://loveapple.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[电脑里的中文：字符集、键盘与输入法]]></summary>
-    </entry>
-        <entry>
-        <title>MAD Bugs 已经开始——关于信息安全的军备竞赛</title>
-        <id>151963</id>
-        <link href="https://xingwangzhe.fun/posts/mad-bugs-begin/?utm_source=blogfinder" />
-        <published>2026-04-06T16:07:09+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[MAD Bugs 已经开始——关于信息安全的军备竞赛]]></summary>
     </entry>
     </feed>
