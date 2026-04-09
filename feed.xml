@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-09T14:00:26+08:00</updated>
+    <updated>2026-04-09T16:00:44+08:00</updated>
         <entry>
         <title>电压</title>
         <id>152226</id>
@@ -231,6 +231,17 @@
             <uri>https://ddw2019.com</uri>
         </author>
         <summary type="text"><![CDATA[233 换季了，请洗所有衣服、打扫藏污纳垢之处后，舒服多了呀]]></summary>
+    </entry>
+        <entry>
+        <title>吃「新荣记」有感</title>
+        <id>152227</id>
+        <link href="https://blog.solazy.me/20260408/?utm_source=blogfinder" />
+        <published>2026-04-08T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[吃「新荣记」有感]]></summary>
     </entry>
         <entry>
         <title>Lesson 13 配分函数的一些应用</title>
@@ -1771,49 +1782,5 @@
             <uri>https://xingwangzhe.fun</uri>
         </author>
         <summary type="text"><![CDATA[MAD Bugs 已经开始——关于信息安全的军备竞赛]]></summary>
-    </entry>
-        <entry>
-        <title>花花草草才是最爱</title>
-        <id>152183</id>
-        <link href="https://bducds.com/1993/?utm_source=blogfinder" />
-        <published>2026-04-06T15:56:43+08:00</published>
-        <author>
-            <name>酷酷的白</name>
-            <uri>https://bducds.com</uri>
-        </author>
-        <summary type="text"><![CDATA[花花草草才是最爱]]></summary>
-    </entry>
-        <entry>
-        <title>个人在战争机器前的无力——《西线无战事》读后感</title>
-        <id>151958</id>
-        <link href="https://www.jfsay.com/archives/4033.html?utm_source=blogfinder" />
-        <published>2026-04-06T15:49:57+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[个人在战争机器前的无力——《西线无战事》读后感]]></summary>
-    </entry>
-        <entry>
-        <title>Typecho 关闭非中文语系的评论</title>
-        <id>151980</id>
-        <link href="https://i55.top/post/510.html?utm_source=blogfinder" />
-        <published>2026-04-06T15:17:05+08:00</published>
-        <author>
-            <name>安迪</name>
-            <uri>https://i55.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Typecho 关闭非中文语系的评论]]></summary>
-    </entry>
-        <entry>
-        <title>利用 AI Agent, 将域名从 Godaddy 迁移到 Cloudflare</title>
-        <id>152160</id>
-        <link href="https://blog.devtang.com/2026/04/06/migrate-host-from-godaddy-to-cloudflare/?utm_source=blogfinder" />
-        <published>2026-04-06T14:22:59+08:00</published>
-        <author>
-            <name>唐巧的博客</name>
-            <uri>https://blog.devtang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[利用 AI Agent, 将域名从 Godaddy 迁移到 Cloudflare]]></summary>
     </entry>
     </feed>
