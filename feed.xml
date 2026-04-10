@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-10T21:02:12+08:00</updated>
+    <updated>2026-04-10T23:00:43+08:00</updated>
+        <entry>
+        <title>以运动促睡眠</title>
+        <id>152312</id>
+        <link href="https://joojen.com/archives/8919.html?utm_source=blogfinder" />
+        <published>2026-04-10T19:23:57+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[以运动促睡眠]]></summary>
+    </entry>
+        <entry>
+        <title>他想再试一次</title>
+        <id>152311</id>
+        <link href="https://lhdrc.com/240.html?utm_source=blogfinder" />
+        <published>2026-04-10T18:26:07+08:00</published>
+        <author>
+            <name>人间半闲</name>
+            <uri>https://lhdrc.com</uri>
+        </author>
+        <summary type="text"><![CDATA[他想再试一次]]></summary>
+    </entry>
         <entry>
         <title>Lesson 14 Noether 定理</title>
         <id>152310</id>
@@ -121,6 +143,17 @@
             <uri>https://oldj.net</uri>
         </author>
         <summary type="text"><![CDATA[使用 GitHub Action 自动更新 SSL 证书]]></summary>
+    </entry>
+        <entry>
+        <title>SBTI人格测试 和其他一些项目</title>
+        <id>152313</id>
+        <link href="https://xifeng.net/code/sbti-personality-test-and-other-website/?utm_source=blogfinder" />
+        <published>2026-04-10T10:14:34+08:00</published>
+        <author>
+            <name>西城往事</name>
+            <uri>https://xifeng.net</uri>
+        </author>
+        <summary type="text"><![CDATA[SBTI人格测试 和其他一些项目]]></summary>
     </entry>
         <entry>
         <title>为什么跟巨婴讲道理一定会“输”？</title>
@@ -1375,82 +1408,5 @@
             <uri>https://blog.uuanqin.top</uri>
         </author>
         <summary type="text"><![CDATA[随机访问文章的实现（Sitemap+本地缓存优化）]]></summary>
-    </entry>
-        <entry>
-        <title>两万分之一的坚定</title>
-        <id>152159</id>
-        <link href="https://blog.solazy.me/20260407/?utm_source=blogfinder" />
-        <published>2026-04-07T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[两万分之一的坚定]]></summary>
-    </entry>
-        <entry>
-        <title>2026 年的第一场空调</title>
-        <id>152147</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1223/?utm_source=blogfinder" />
-        <published>2026-04-07T22:59:00+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[2026 年的第一场空调]]></summary>
-    </entry>
-        <entry>
-        <title>新系列预告</title>
-        <id>152148</id>
-        <link href="https://blog.mcenahle.org.cn/2026/04/07/445.html?utm_source=blogfinder" />
-        <published>2026-04-07T22:34:43+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[新系列预告]]></summary>
-    </entry>
-        <entry>
-        <title>希望你是一个聪明的女人</title>
-        <id>152059</id>
-        <link href="https://mojue88.com/126/?utm_source=blogfinder" />
-        <published>2026-04-07T22:06:12+08:00</published>
-        <author>
-            <name>墨觉の日记</name>
-            <uri>https://mojue88.com</uri>
-        </author>
-        <summary type="text"><![CDATA[希望你是一个聪明的女人]]></summary>
-    </entry>
-        <entry>
-        <title>已撤牌的本地五星级豪华酒店</title>
-        <id>152057</id>
-        <link href="https://meledee.com/2026/04/4780.html?utm_source=blogfinder" />
-        <published>2026-04-07T21:54:30+08:00</published>
-        <author>
-            <name>美樂地</name>
-            <uri>https://meledee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[已撤牌的本地五星级豪华酒店]]></summary>
-    </entry>
-        <entry>
-        <title>还在手写？Nano Banana Pro 白板提示词来了，信息密度大3倍！</title>
-        <id>152061</id>
-        <link href="https://www.wangdu.site/course/prompts/2335.html?utm_source=blogfinder" />
-        <published>2026-04-07T21:40:40+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[还在手写？Nano Banana Pro 白板提示词来了，信息密度大3倍！]]></summary>
-    </entry>
-        <entry>
-        <title>无题</title>
-        <id>152115</id>
-        <link href="https://homer.sisubeny.space/posts/7e255258.html?utm_source=blogfinder" />
-        <published>2026-04-07T21:08:12+08:00</published>
-        <author>
-            <name>Homer</name>
-            <uri>https://homer.sisubeny.space</uri>
-        </author>
-        <summary type="text"><![CDATA[无题]]></summary>
     </entry>
     </feed>
