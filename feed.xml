@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-10T20:00:34+08:00</updated>
+    <updated>2026-04-10T21:02:12+08:00</updated>
+        <entry>
+        <title>Lesson 14 Noether 定理</title>
+        <id>152310</id>
+        <link href="https://physnya.top/GR/lesson-14-noether-theorem/?utm_source=blogfinder" />
+        <published>2026-04-10T18:09:16+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 14 Noether 定理]]></summary>
+    </entry>
         <entry>
         <title>Tauri 应用苹果签名踩坑实录</title>
         <id>152306</id>
@@ -275,6 +286,17 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[吃灰两年的小床，终于被宠幸了]]></summary>
+    </entry>
+        <entry>
+        <title>我居然扔了个雷，被那谁点了</title>
+        <id>152309</id>
+        <link href="https://hjyl.org/naval-mine-triggered/?utm_source=blogfinder" />
+        <published>2026-04-09T22:43:57+08:00</published>
+        <author>
+            <name>皇家元林</name>
+            <uri>https://hjyl.org</uri>
+        </author>
+        <summary type="text"><![CDATA[我居然扔了个雷，被那谁点了]]></summary>
     </entry>
         <entry>
         <title>买了本六级单词书</title>
@@ -1430,16 +1452,5 @@
             <uri>https://homer.sisubeny.space</uri>
         </author>
         <summary type="text"><![CDATA[无题]]></summary>
-    </entry>
-        <entry>
-        <title>别用时代的寒冬，惩罚已经拼尽全力的你</title>
-        <id>152190</id>
-        <link href="https://lhdrc.com/204.html?utm_source=blogfinder" />
-        <published>2026-04-07T20:16:20+08:00</published>
-        <author>
-            <name>人间半闲</name>
-            <uri>https://lhdrc.com</uri>
-        </author>
-        <summary type="text"><![CDATA[别用时代的寒冬，惩罚已经拼尽全力的你]]></summary>
     </entry>
     </feed>
