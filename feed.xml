@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-10T19:01:45+08:00</updated>
+    <updated>2026-04-10T20:00:34+08:00</updated>
         <entry>
         <title>Tauri 应用苹果签名踩坑实录</title>
         <id>152306</id>
@@ -99,6 +99,17 @@
             <uri>https://jyblog.cn</uri>
         </author>
         <summary type="text"><![CDATA[CNNIC 发布重要公告：国家顶级域名.CN隐私保护进入免费时代]]></summary>
+    </entry>
+        <entry>
+        <title>使用 GitHub Action 自动更新 SSL 证书</title>
+        <id>152307</id>
+        <link href="https://oldj.net/posts/update-ssl-with-github-actions?utm_source=blogfinder" />
+        <published>2026-04-10T12:34:41+08:00</published>
+        <author>
+            <name>oldj&#039;s blog</name>
+            <uri>https://oldj.net</uri>
+        </author>
+        <summary type="text"><![CDATA[使用 GitHub Action 自动更新 SSL 证书]]></summary>
     </entry>
         <entry>
         <title>为什么跟巨婴讲道理一定会“输”？</title>
@@ -275,6 +286,17 @@
             <uri>https://catlyingroof.top</uri>
         </author>
         <summary type="text"><![CDATA[买了本六级单词书]]></summary>
+    </entry>
+        <entry>
+        <title>最后一年：明年的专升本考试</title>
+        <id>152308</id>
+        <link href="https://blog.mcenahle.org.cn/2026/04/09/446.html?utm_source=blogfinder" />
+        <published>2026-04-09T22:22:00+08:00</published>
+        <author>
+            <name>梅之夏</name>
+            <uri>https://blog.mcenahle.org.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[最后一年：明年的专升本考试]]></summary>
     </entry>
         <entry>
         <title>士，死了吗？</title>
@@ -1419,27 +1441,5 @@
             <uri>https://lhdrc.com</uri>
         </author>
         <summary type="text"><![CDATA[别用时代的寒冬，惩罚已经拼尽全力的你]]></summary>
-    </entry>
-        <entry>
-        <title>WordPress新站要注意 有一种可以越过验证码发布垃圾评论漏洞</title>
-        <id>152058</id>
-        <link href="https://jyblog.cn/5228/?utm_source=blogfinder" />
-        <published>2026-04-07T19:51:58+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[WordPress新站要注意 有一种可以越过验证码发布垃圾评论漏洞]]></summary>
-    </entry>
-        <entry>
-        <title>为解决晚上睡觉途中突然亮灯 再次购入小米人体感应器一枚</title>
-        <id>152053</id>
-        <link href="https://wuminboke.site/uncategorized/purchase-another-mortion-sensor-to-provent-light-from-turning-on-during-sleeping/?utm_source=blogfinder" />
-        <published>2026-04-07T19:42:18+08:00</published>
-        <author>
-            <name>无名博客</name>
-            <uri>https://wuminboke.site</uri>
-        </author>
-        <summary type="text"><![CDATA[为解决晚上睡觉途中突然亮灯 再次购入小米人体感应器一枚]]></summary>
     </entry>
     </feed>
