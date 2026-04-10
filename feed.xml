@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-10T17:01:11+08:00</updated>
+    <updated>2026-04-10T19:01:45+08:00</updated>
+        <entry>
+        <title>Tauri 应用苹果签名踩坑实录</title>
+        <id>152306</id>
+        <link href="https://ssshooter.com/tauri-mac-sign-and-build/?utm_source=blogfinder" />
+        <published>2026-04-10T16:19:37+08:00</published>
+        <author>
+            <name>Usubeni Fantasy</name>
+            <uri>https://ssshooter.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Tauri 应用苹果签名踩坑实录]]></summary>
+    </entry>
         <entry>
         <title>「十日后」Vol.4 ·人间四月</title>
         <id>152291</id>
@@ -22,6 +33,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[「十日后」Vol.4 ·人间四月]]></summary>
+    </entry>
+        <entry>
+        <title>2026.4.10</title>
+        <id>152294</id>
+        <link href="https://www.justzht.com/2026-4-10/?utm_source=blogfinder" />
+        <published>2026-04-10T15:39:32+08:00</published>
+        <author>
+            <name>JustZht</name>
+            <uri>https://www.justzht.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026.4.10]]></summary>
     </entry>
         <entry>
         <title>说说：#1775804341</title>
@@ -44,6 +66,17 @@
             <uri>https://kacper.fun</uri>
         </author>
         <summary type="text"><![CDATA[Phoenix监控平台技术解析（十六）：代理端整体架构与角色定位]]></summary>
+    </entry>
+        <entry>
+        <title>什么毁了 JavaScript？</title>
+        <id>152295</id>
+        <link href="https://www.geedea.pro/article/js-problem/?utm_source=blogfinder" />
+        <published>2026-04-10T13:36:44+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[什么毁了 JavaScript？]]></summary>
     </entry>
         <entry>
         <title>SBTI人格测试是什么？含官方体验地址</title>
@@ -231,6 +264,17 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[吃灰两年的小床，终于被宠幸了]]></summary>
+    </entry>
+        <entry>
+        <title>买了本六级单词书</title>
+        <id>152296</id>
+        <link href="https://catlyingroof.top/2026/04/09/15.html?utm_source=blogfinder" />
+        <published>2026-04-09T22:36:41+08:00</published>
+        <author>
+            <name>Ethan 在网上耕田</name>
+            <uri>https://catlyingroof.top</uri>
+        </author>
+        <summary type="text"><![CDATA[买了本六级单词书]]></summary>
     </entry>
         <entry>
         <title>士，死了吗？</title>
@@ -1397,27 +1441,5 @@
             <uri>https://wuminboke.site</uri>
         </author>
         <summary type="text"><![CDATA[为解决晚上睡觉途中突然亮灯 再次购入小米人体感应器一枚]]></summary>
-    </entry>
-        <entry>
-        <title>足迹</title>
-        <id>152135</id>
-        <link href="https://shuiba.co/footprints?utm_source=blogfinder" />
-        <published>2026-04-07T18:28:00+08:00</published>
-        <author>
-            <name>水八口的冥想盆</name>
-            <uri>https://shuiba.co</uri>
-        </author>
-        <summary type="text"><![CDATA[足迹]]></summary>
-    </entry>
-        <entry>
-        <title>Linux用户Secure Boot自主维护指南</title>
-        <id>152056</id>
-        <link href="https://xingwangzhe.fun/posts/linux-uefi-ca-update/?utm_source=blogfinder" />
-        <published>2026-04-07T17:30:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[Linux用户Secure Boot自主维护指南]]></summary>
     </entry>
     </feed>
