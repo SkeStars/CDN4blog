@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-10T16:00:43+08:00</updated>
+    <updated>2026-04-10T17:01:11+08:00</updated>
+        <entry>
+        <title>「十日后」Vol.4 ·人间四月</title>
+        <id>152291</id>
+        <link href="https://www.suiyan.cc/blog/20260410154943?utm_source=blogfinder" />
+        <published>2026-04-10T15:49:43+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[「十日后」Vol.4 ·人间四月]]></summary>
+    </entry>
         <entry>
         <title>说说：#1775804341</title>
         <id>152290</id>
@@ -22,6 +33,17 @@
             <uri>https://www.yssk.cn</uri>
         </author>
         <summary type="text"><![CDATA[说说：#1775804341]]></summary>
+    </entry>
+        <entry>
+        <title>Phoenix监控平台技术解析（十六）：代理端整体架构与角色定位</title>
+        <id>152292</id>
+        <link href="https://kacper.fun/blog/173?utm_source=blogfinder" />
+        <published>2026-04-10T14:54:21+08:00</published>
+        <author>
+            <name>知录</name>
+            <uri>https://kacper.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Phoenix监控平台技术解析（十六）：代理端整体架构与角色定位]]></summary>
     </entry>
         <entry>
         <title>SBTI人格测试是什么？含官方体验地址</title>
@@ -231,6 +253,17 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[【不凡摄影作品 | 2026.4.9】]]></summary>
+    </entry>
+        <entry>
+        <title>这一步他不肯退</title>
+        <id>152293</id>
+        <link href="https://lhdrc.com/239.html?utm_source=blogfinder" />
+        <published>2026-04-09T21:31:01+08:00</published>
+        <author>
+            <name>人间半闲</name>
+            <uri>https://lhdrc.com</uri>
+        </author>
+        <summary type="text"><![CDATA[这一步他不肯退]]></summary>
     </entry>
         <entry>
         <title>不知所云，这篇文章不值一看</title>
@@ -1386,16 +1419,5 @@
             <uri>https://xingwangzhe.fun</uri>
         </author>
         <summary type="text"><![CDATA[Linux用户Secure Boot自主维护指南]]></summary>
-    </entry>
-        <entry>
-        <title>享受简单生活</title>
-        <id>152055</id>
-        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1123&amp;utm_source=blogfinder" />
-        <published>2026-04-07T16:02:16+08:00</published>
-        <author>
-            <name>徐建伟</name>
-            <uri>http://www.xulog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[享受简单生活]]></summary>
     </entry>
     </feed>
