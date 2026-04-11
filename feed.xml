@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-11T11:00:37+08:00</updated>
+    <updated>2026-04-11T13:05:21+08:00</updated>
+        <entry>
+        <title>噪点</title>
+        <id>152422</id>
+        <link href="https://mobius.blog/22549.html?utm_source=blogfinder" />
+        <published>2026-04-11T11:00:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[噪点]]></summary>
+    </entry>
         <entry>
         <title>早餐店关门了</title>
         <id>152418</id>
@@ -66,6 +77,17 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[关于偶遇的巧合 IV]]></summary>
+    </entry>
+        <entry>
+        <title>使用XCP-D对功能磁共振数据进行后处理</title>
+        <id>152423</id>
+        <link href="https://alexbrain.cn/?p=889&amp;utm_source=blogfinder" />
+        <published>2026-04-10T21:56:58+08:00</published>
+        <author>
+            <name>Alex 的学习笔记</name>
+            <uri>https://alexbrain.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[使用XCP-D对功能磁共振数据进行后处理]]></summary>
     </entry>
         <entry>
         <title>快捷指令从iPhone备忘录发布Blog笔记</title>
@@ -187,6 +209,17 @@
             <uri>https://kacper.fun</uri>
         </author>
         <summary type="text"><![CDATA[Phoenix监控平台技术解析（十六）：代理端整体架构与角色定位]]></summary>
+    </entry>
+        <entry>
+        <title>羡慕你们博士生, 心潮澎湃发发Nature逗逗女孩</title>
+        <id>152424</id>
+        <link href="https://www.52txr.cn/2026/phdnaturegirl-1.html?utm_source=blogfinder" />
+        <published>2026-04-10T14:54:00+08:00</published>
+        <author>
+            <name>陶小桃</name>
+            <uri>https://www.52txr.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[羡慕你们博士生, 心潮澎湃发发Nature逗逗女孩]]></summary>
     </entry>
         <entry>
         <title>什么毁了 JavaScript？</title>
@@ -1276,49 +1309,5 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[新加坡之行]]></summary>
-    </entry>
-        <entry>
-        <title>西西弗斯会想操他推的巨石吗？</title>
-        <id>152133</id>
-        <link href="https://mobius.blog/22502.html?utm_source=blogfinder" />
-        <published>2026-04-08T11:48:49+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[西西弗斯会想操他推的巨石吗？]]></summary>
-    </entry>
-        <entry>
-        <title>还是考虑升级了Typecho1.3</title>
-        <id>152143</id>
-        <link href="https://zhoutian.com/360.html?utm_source=blogfinder" />
-        <published>2026-04-08T11:21:00+08:00</published>
-        <author>
-            <name>周天记</name>
-            <uri>https://zhoutian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[还是考虑升级了Typecho1.3]]></summary>
-    </entry>
-        <entry>
-        <title>给 AI 装了个&amp;quot;龙虾图书馆&amp;quot;</title>
-        <id>152136</id>
-        <link href="https://liuqingwushui.top/archives/151/?utm_source=blogfinder" />
-        <published>2026-04-08T11:12:17+08:00</published>
-        <author>
-            <name>流情的博客</name>
-            <uri>https://liuqingwushui.top</uri>
-        </author>
-        <summary type="text"><![CDATA[给 AI 装了个&amp;quot;龙虾图书馆&amp;quot;]]></summary>
-    </entry>
-        <entry>
-        <title>说说：#1775617589</title>
-        <id>152142</id>
-        <link href="https://www.yssk.cn/riji/11491226.html?utm_source=blogfinder" />
-        <published>2026-04-08T11:07:00+08:00</published>
-        <author>
-            <name>一时三刻の记忆</name>
-            <uri>https://www.yssk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[说说：#1775617589]]></summary>
     </entry>
     </feed>
