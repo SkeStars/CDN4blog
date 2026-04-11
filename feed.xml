@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-11T00:00:44+08:00</updated>
+    <updated>2026-04-11T11:00:37+08:00</updated>
+        <entry>
+        <title>早餐店关门了</title>
+        <id>152418</id>
+        <link href="https://www.immarcus.com/blog/breakfast-restaurant-closed?utm_source=blogfinder" />
+        <published>2026-04-11T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[早餐店关门了]]></summary>
+    </entry>
+        <entry>
+        <title>Anthropic 和 OpenAI</title>
+        <id>152413</id>
+        <link href="https://blog.gudong.site/2026/04/11/anthropic-and-openai.html?utm_source=blogfinder" />
+        <published>2026-04-11T08:00:00+08:00</published>
+        <author>
+            <name>咕咚同学</name>
+            <uri>https://blog.gudong.site</uri>
+        </author>
+        <summary type="text"><![CDATA[Anthropic 和 OpenAI]]></summary>
+    </entry>
+        <entry>
+        <title>剧情与设定</title>
+        <id>152321</id>
+        <link href="https://xiphoray.cn/2026/04/10/ju/?utm_source=blogfinder" />
+        <published>2026-04-11T01:11:17+08:00</published>
+        <author>
+            <name>五寸畦田</name>
+            <uri>https://xiphoray.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[剧情与设定]]></summary>
+    </entry>
+        <entry>
+        <title>Watch spoken drama &#039;Rhinoceros in Love&#039;</title>
+        <id>152316</id>
+        <link href="https://tianheg.co/posts/rhinoceros-in-love-spoken-drama-en/?utm_source=blogfinder" />
+        <published>2026-04-11T00:00:00+08:00</published>
+        <author>
+            <name>一大加贝</name>
+            <uri>https://tianheg.co</uri>
+        </author>
+        <summary type="text"><![CDATA[Watch spoken drama &#039;Rhinoceros in Love&#039;]]></summary>
+    </entry>
         <entry>
         <title>关于偶遇的巧合 IV</title>
         <id>152315</id>
@@ -22,6 +66,17 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[关于偶遇的巧合 IV]]></summary>
+    </entry>
+        <entry>
+        <title>快捷指令从iPhone备忘录发布Blog笔记</title>
+        <id>152416</id>
+        <link href="https://knay.net/note/how-to-publish-blog-posts-from-iphone-notes-step-by-step?utm_source=blogfinder" />
+        <published>2026-04-10T21:22:43+08:00</published>
+        <author>
+            <name>Yang&#039;s Blog</name>
+            <uri>https://knay.net</uri>
+        </author>
+        <summary type="text"><![CDATA[快捷指令从iPhone备忘录发布Blog笔记]]></summary>
     </entry>
         <entry>
         <title>以运动促睡眠</title>
@@ -46,6 +101,17 @@
         <summary type="text"><![CDATA[他想再试一次]]></summary>
     </entry>
         <entry>
+        <title>“叱咤”的粤语正确读音</title>
+        <id>152419</id>
+        <link href="http://www.auiou.com/relevant/00002143.jsp?utm_source=blogfinder" />
+        <published>2026-04-10T18:22:00+08:00</published>
+        <author>
+            <name>王志勇的 Blog</name>
+            <uri>http://www.auiou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[“叱咤”的粤语正确读音]]></summary>
+    </entry>
+        <entry>
         <title>Lesson 14 Noether 定理</title>
         <id>152310</id>
         <link href="https://physnya.top/GR/lesson-14-noether-theorem/?utm_source=blogfinder" />
@@ -55,6 +121,17 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 14 Noether 定理]]></summary>
+    </entry>
+        <entry>
+        <title>浏览器书签同步又挂了？自建 linkding 书签管理器（宝塔部署教程）</title>
+        <id>152318</id>
+        <link href="https://www.886a.top/archives/864.html?utm_source=blogfinder" />
+        <published>2026-04-10T18:05:00+08:00</published>
+        <author>
+            <name>羽翼博客</name>
+            <uri>https://www.886a.top</uri>
+        </author>
+        <summary type="text"><![CDATA[浏览器书签同步又挂了？自建 linkding 书签管理器（宝塔部署教程）]]></summary>
     </entry>
         <entry>
         <title>Tauri 应用苹果签名踩坑实录</title>
@@ -121,6 +198,17 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[什么毁了 JavaScript？]]></summary>
+    </entry>
+        <entry>
+        <title>Star-crossed lovers</title>
+        <id>152320</id>
+        <link href="https://paoo.cc/2026/star-crossed-lovers/?utm_source=blogfinder" />
+        <published>2026-04-10T13:05:17+08:00</published>
+        <author>
+            <name>Leo</name>
+            <uri>https://paoo.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[Star-crossed lovers]]></summary>
     </entry>
         <entry>
         <title>SBTI人格测试是什么？含官方体验地址</title>
@@ -255,6 +343,39 @@
         <summary type="text"><![CDATA[测测SBTI]]></summary>
     </entry>
         <entry>
+        <title>别难过，不妨读首诗歌。</title>
+        <id>152417</id>
+        <link href="https://jame.work/html/other/18r?utm_source=blogfinder" />
+        <published>2026-04-10T08:00:00+08:00</published>
+        <author>
+            <name>Jame</name>
+            <uri>https://jame.work</uri>
+        </author>
+        <summary type="text"><![CDATA[别难过，不妨读首诗歌。]]></summary>
+    </entry>
+        <entry>
+        <title>第一感觉会骗人</title>
+        <id>152414</id>
+        <link href="https://blog.gudong.site/2026/04/10/first-impression-can-be-wrong.html?utm_source=blogfinder" />
+        <published>2026-04-10T08:00:00+08:00</published>
+        <author>
+            <name>咕咚同学</name>
+            <uri>https://blog.gudong.site</uri>
+        </author>
+        <summary type="text"><![CDATA[第一感觉会骗人]]></summary>
+    </entry>
+        <entry>
+        <title>博客评论从 Valine 迁移 到 Waline</title>
+        <id>152412</id>
+        <link href="https://102no.com/2026/04/10/blog-comment-Valine-to-Waline/?utm_source=blogfinder" />
+        <published>2026-04-10T08:00:00+08:00</published>
+        <author>
+            <name>把酒诗代码 趁乱写年华</name>
+            <uri>https://102no.com</uri>
+        </author>
+        <summary type="text"><![CDATA[博客评论从 Valine 迁移 到 Waline]]></summary>
+    </entry>
+        <entry>
         <title>永生意味着什么</title>
         <id>152276</id>
         <link href="https://www.immarcus.com/blog/what-does-everlasting-life-imply?utm_source=blogfinder" />
@@ -308,6 +429,28 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 7 Evolution]]></summary>
+    </entry>
+        <entry>
+        <title>行程轨迹汇总</title>
+        <id>152319</id>
+        <link href="http://kangaroogao.com/posts/dbd5/?utm_source=blogfinder" />
+        <published>2026-04-10T00:00:00+08:00</published>
+        <author>
+            <name>三峡星河</name>
+            <uri>https://kangaroogao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[行程轨迹汇总]]></summary>
+    </entry>
+        <entry>
+        <title>看话剧《恋爱的犀牛》</title>
+        <id>152317</id>
+        <link href="https://tianheg.co/posts/rhinoceros-in-love-spoken-drama/?utm_source=blogfinder" />
+        <published>2026-04-10T00:00:00+08:00</published>
+        <author>
+            <name>一大加贝</name>
+            <uri>https://tianheg.co</uri>
+        </author>
+        <summary type="text"><![CDATA[看话剧《恋爱的犀牛》]]></summary>
     </entry>
         <entry>
         <title>WordPress QQ推送插件 v1.1 发布：更加好用和美观</title>
@@ -671,6 +814,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1647】丰子恺《小孩的哲学是大人的解药：丰子恺的人生漫笔》]]></summary>
+    </entry>
+        <entry>
+        <title>使用 Mac 电脑备份 iPhone 更换默认文件夹位置</title>
+        <id>152415</id>
+        <link href="https://songlin.me/2026/04/09/mac-iphone/?utm_source=blogfinder" />
+        <published>2026-04-09T08:00:00+08:00</published>
+        <author>
+            <name>SongLin Blog</name>
+            <uri>https://songlin.me</uri>
+        </author>
+        <summary type="text"><![CDATA[使用 Mac 电脑备份 iPhone 更换默认文件夹位置]]></summary>
     </entry>
         <entry>
         <title>才一天而已</title>
@@ -1166,258 +1320,5 @@
             <uri>https://www.yssk.cn</uri>
         </author>
         <summary type="text"><![CDATA[说说：#1775617589]]></summary>
-    </entry>
-        <entry>
-        <title>工亚内地取现实例</title>
-        <id>152140</id>
-        <link href="https://retire50blog.wang/invest/%e5%b7%a5%e4%ba%9a%e5%8f%96%e7%8e%b0%e5%ae%9e%e4%be%8b.html?utm_source=blogfinder" />
-        <published>2026-04-08T10:35:03+08:00</published>
-        <author>
-            <name>个人工作记录</name>
-            <uri>https://retire50blog.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[工亚内地取现实例]]></summary>
-    </entry>
-        <entry>
-        <title>TCP/IP协议栈与网络编程实战</title>
-        <id>152130</id>
-        <link href="https://www.aserver.cn/?post=161&amp;utm_source=blogfinder" />
-        <published>2026-04-08T10:00:01+08:00</published>
-        <author>
-            <name>俞事</name>
-            <uri>https://www.aserver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[TCP/IP协议栈与网络编程实战]]></summary>
-    </entry>
-        <entry>
-        <title>一次医院睡眠监测记录</title>
-        <id>152141</id>
-        <link href="https://www.jfsay.com/archives/3966.html?utm_source=blogfinder" />
-        <published>2026-04-08T09:38:49+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[一次医院睡眠监测记录]]></summary>
-    </entry>
-        <entry>
-        <title>初高中物理化学生物实验的变迁</title>
-        <id>152138</id>
-        <link href="https://www.pgoj.top/archives/wulihuashiyan.html?utm_source=blogfinder" />
-        <published>2026-04-08T09:13:53+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[初高中物理化学生物实验的变迁]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1646】许知远《你愿意活出什么样的世界》</title>
-        <id>152127</id>
-        <link href="http://www.qncd.com/?p=12624&amp;utm_source=blogfinder" />
-        <published>2026-04-08T08:45:53+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1646】许知远《你愿意活出什么样的世界》]]></summary>
-    </entry>
-        <entry>
-        <title>是小鱼啊~</title>
-        <id>152137</id>
-        <link href="https://www.kqwq.com/richang/3445.html?utm_source=blogfinder" />
-        <published>2026-04-08T08:40:50+08:00</published>
-        <author>
-            <name>ts 小陈</name>
-            <uri>https://www.kqwq.com</uri>
-        </author>
-        <summary type="text"><![CDATA[是小鱼啊~]]></summary>
-    </entry>
-        <entry>
-        <title>民歌、锤子与卡在工业革命中的我们</title>
-        <id>152250</id>
-        <link href="https://liu-guo.com/writings/bluegrass-hammer/index.html?utm_source=blogfinder&amp;utm_medium=feed" />
-        <published>2026-04-08T08:00:00+08:00</published>
-        <author>
-            <name>刘果</name>
-            <uri>https://liu-guo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[民歌、锤子与卡在工业革命中的我们]]></summary>
-    </entry>
-        <entry>
-        <title>峰回路转</title>
-        <id>152202</id>
-        <link href="https://ddbzhou.com/post/fenghuiluzhuan/?utm_source=blogfinder" />
-        <published>2026-04-08T08:00:00+08:00</published>
-        <author>
-            <name>兜兜爸投资笔记</name>
-            <uri>https://ddbzhou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[峰回路转]]></summary>
-    </entry>
-        <entry>
-        <title>AI 能做的事每 7 个月翻倍，你该焦虑还是行动？</title>
-        <id>152199</id>
-        <link href="https://blog.gudong.site/2026/04/08/ai-doubles-every-7-months.html?utm_source=blogfinder" />
-        <published>2026-04-08T08:00:00+08:00</published>
-        <author>
-            <name>咕咚同学</name>
-            <uri>https://blog.gudong.site</uri>
-        </author>
-        <summary type="text"><![CDATA[AI 能做的事每 7 个月翻倍，你该焦虑还是行动？]]></summary>
-    </entry>
-        <entry>
-        <title>把本地数据库开放给 AI 后，我看到了 2026 年的必然趋势</title>
-        <id>152198</id>
-        <link href="https://blog.gudong.site/2026/04/08/open-local-db-to-ai.html?utm_source=blogfinder" />
-        <published>2026-04-08T08:00:00+08:00</published>
-        <author>
-            <name>咕咚同学</name>
-            <uri>https://blog.gudong.site</uri>
-        </author>
-        <summary type="text"><![CDATA[把本地数据库开放给 AI 后，我看到了 2026 年的必然趋势]]></summary>
-    </entry>
-        <entry>
-        <title>终于可以下载 DDR7 内存了</title>
-        <id>152122</id>
-        <link href="https://www.immarcus.com/blog/download-more-ram-upgraded?utm_source=blogfinder" />
-        <published>2026-04-08T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[终于可以下载 DDR7 内存了]]></summary>
-    </entry>
-        <entry>
-        <title>十年一梦：关于逃离、重启与不骗自己</title>
-        <id>152118</id>
-        <link href="https://blog.gudong.site/2026/04/08/ten-years-dream.html?utm_source=blogfinder" />
-        <published>2026-04-08T08:00:00+08:00</published>
-        <author>
-            <name>咕咚同学</name>
-            <uri>https://blog.gudong.site</uri>
-        </author>
-        <summary type="text"><![CDATA[十年一梦：关于逃离、重启与不骗自己]]></summary>
-    </entry>
-        <entry>
-        <title>升级写作流：让小龙虾自动操作浏览器找 Gemini 润色</title>
-        <id>152117</id>
-        <link href="https://blog.gudong.site/2026/04/08/upgrade-writing-flow-gemini.html?utm_source=blogfinder" />
-        <published>2026-04-08T08:00:00+08:00</published>
-        <author>
-            <name>咕咚同学</name>
-            <uri>https://blog.gudong.site</uri>
-        </author>
-        <summary type="text"><![CDATA[升级写作流：让小龙虾自动操作浏览器找 Gemini 润色]]></summary>
-    </entry>
-        <entry>
-        <title>形式化证明浅析: 第一个程序证明</title>
-        <id>152181</id>
-        <link href="https://blog.wssh.dev/posts/formal-verify-zero/?utm_source=blogfinder" />
-        <published>2026-04-08T07:47:33+08:00</published>
-        <author>
-            <name>Wong&#039;s Blog</name>
-            <uri>https://blog.wssh.dev</uri>
-        </author>
-        <summary type="text"><![CDATA[形式化证明浅析: 第一个程序证明]]></summary>
-    </entry>
-        <entry>
-        <title>26春学5周杂记</title>
-        <id>152123</id>
-        <link href="https://nxxy335.top/archives/H7QnCYBO?utm_source=blogfinder" />
-        <published>2026-04-08T07:31:07+08:00</published>
-        <author>
-            <name>暖心向阳</name>
-            <uri>https://nxxy335.top</uri>
-        </author>
-        <summary type="text"><![CDATA[26春学5周杂记]]></summary>
-    </entry>
-        <entry>
-        <title>天津北京</title>
-        <id>152134</id>
-        <link href="https://shuiba.co/tianjin-and-beijing?utm_source=blogfinder" />
-        <published>2026-04-08T05:28:00+08:00</published>
-        <author>
-            <name>水八口的冥想盆</name>
-            <uri>https://shuiba.co</uri>
-        </author>
-        <summary type="text"><![CDATA[天津北京]]></summary>
-    </entry>
-        <entry>
-        <title>多云管理与混合云架构（技术深度解析）</title>
-        <id>152131</id>
-        <link href="https://www.aserver.cn/?post=160&amp;utm_source=blogfinder" />
-        <published>2026-04-08T04:00:02+08:00</published>
-        <author>
-            <name>俞事</name>
-            <uri>https://www.aserver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[多云管理与混合云架构（技术深度解析）]]></summary>
-    </entry>
-        <entry>
-        <title>对噪声污染行为进行拘留处罚，从《生态环境法典》的翻译谈起</title>
-        <id>152145</id>
-        <link href="https://lawtee.com/article/noise/?utm_source=blogfinder" />
-        <published>2026-04-08T03:41:07+08:00</published>
-        <author>
-            <name>老 T 博客</name>
-            <uri>https://lawtee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[对噪声污染行为进行拘留处罚，从《生态环境法典》的翻译谈起]]></summary>
-    </entry>
-        <entry>
-        <title>碎碎念2026D96</title>
-        <id>152157</id>
-        <link href="https://hisherry.com/%e5%8a%a0%e5%9b%bd%e7%94%9f%e6%b4%bb/4967/?utm_source=blogfinder" />
-        <published>2026-04-08T03:28:29+08:00</published>
-        <author>
-            <name>燕渡寒潭</name>
-            <uri>https://hisherry.com</uri>
-        </author>
-        <summary type="text"><![CDATA[碎碎念2026D96]]></summary>
-    </entry>
-        <entry>
-        <title>云安全与合规性管理（技术深度解析）</title>
-        <id>152132</id>
-        <link href="https://www.aserver.cn/?post=159&amp;utm_source=blogfinder" />
-        <published>2026-04-08T01:00:01+08:00</published>
-        <author>
-            <name>俞事</name>
-            <uri>https://www.aserver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[云安全与合规性管理（技术深度解析）]]></summary>
-    </entry>
-        <entry>
-        <title>OpenClaw 使用的深层理解</title>
-        <id>152128</id>
-        <link href="https://www.suiyan.cc/blog/20260407162000?utm_source=blogfinder" />
-        <published>2026-04-08T00:20:00+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenClaw 使用的深层理解]]></summary>
-    </entry>
-        <entry>
-        <title>挚友如光</title>
-        <id>152110</id>
-        <link href="https://blog.someo.top/archives/20/?utm_source=blogfinder" />
-        <published>2026-04-08T00:09:00+08:00</published>
-        <author>
-            <name>幻想の日常</name>
-            <uri>https://blog.someo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[挚友如光]]></summary>
-    </entry>
-        <entry>
-        <title>Ubuntu OpenClaw Gateway代理污染问题</title>
-        <id>152129</id>
-        <link href="https://www.suiyan.cc/blog/20260408000045?utm_source=blogfinder" />
-        <published>2026-04-08T00:00:45+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[Ubuntu OpenClaw Gateway代理污染问题]]></summary>
     </entry>
     </feed>
