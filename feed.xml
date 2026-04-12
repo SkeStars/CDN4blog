@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-12T17:01:14+08:00</updated>
+    <updated>2026-04-12T18:00:27+08:00</updated>
+        <entry>
+        <title>哲学家是什么？</title>
+        <id>152486</id>
+        <link href="https://sliun.com/whatisyou/?utm_source=blogfinder" />
+        <published>2026-04-12T17:01:00+08:00</published>
+        <author>
+            <name>理论派</name>
+            <uri>https://sliun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[哲学家是什么？]]></summary>
+    </entry>
         <entry>
         <title>春天</title>
         <id>152481</id>
@@ -22,6 +33,17 @@
             <uri>https://www.skyue.com</uri>
         </author>
         <summary type="text"><![CDATA[春天]]></summary>
+    </entry>
+        <entry>
+        <title>中班运动会</title>
+        <id>152483</id>
+        <link href="https://shuiba.co/popo-sports-day-2023?utm_source=blogfinder" />
+        <published>2026-04-12T15:37:00+08:00</published>
+        <author>
+            <name>水八口的冥想盆</name>
+            <uri>https://shuiba.co</uri>
+        </author>
+        <summary type="text"><![CDATA[中班运动会]]></summary>
     </entry>
         <entry>
         <title>独立博客是展现博主自我还是AI塑造自我</title>
@@ -178,6 +200,17 @@
         <summary type="text"><![CDATA[雨衣下的世界]]></summary>
     </entry>
         <entry>
+        <title>房间里那台不给力的空调</title>
+        <id>152484</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1230/?utm_source=blogfinder" />
+        <published>2026-04-11T22:00:00+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[房间里那台不给力的空调]]></summary>
+    </entry>
+        <entry>
         <title>春雨后的随拍（20260411）</title>
         <id>152462</id>
         <link href="http://stuit.cn/Xiaolu/Post/1608.html?utm_source=blogfinder" />
@@ -209,6 +242,17 @@
             <uri>https://blog.deepchirp.com</uri>
         </author>
         <summary type="text"><![CDATA[CVE-2022-0847浅析]]></summary>
+    </entry>
+        <entry>
+        <title>失语</title>
+        <id>152485</id>
+        <link href="https://yourlai.icu/archives/%e5%a4%b1%e8%af%ad/?utm_source=blogfinder" />
+        <published>2026-04-11T21:16:03+08:00</published>
+        <author>
+            <name>Yourlai Blog</name>
+            <uri>https://yourlai.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[失语]]></summary>
     </entry>
         <entry>
         <title>离开重庆后再吃川菜毫无惊喜</title>
@@ -1232,38 +1276,5 @@
             <uri>https://taxodium.ink</uri>
         </author>
         <summary type="text"><![CDATA[CSS Naked Day 2026]]></summary>
-    </entry>
-        <entry>
-        <title>玄门关于全球大变紧急预警通告</title>
-        <id>152236</id>
-        <link href="https://www.dao.js.cn/new/2026040912148.html?utm_source=blogfinder" />
-        <published>2026-04-09T17:40:12+08:00</published>
-        <author>
-            <name>懋和道人</name>
-            <uri>https://www.dao.js.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[玄门关于全球大变紧急预警通告]]></summary>
-    </entry>
-        <entry>
-        <title>视频压缩软件 CompressO 3.0 MacOS 免费汉化版下载</title>
-        <id>152277</id>
-        <link href="https://blog.zhheo.com/p/9ekjlgs4.html?utm_source=blogfinder" />
-        <published>2026-04-09T17:33:22+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[视频压缩软件 CompressO 3.0 MacOS 免费汉化版下载]]></summary>
-    </entry>
-        <entry>
-        <title>尝试我的第一个 Github Copilot instruction, 告别重复输入编码提示词</title>
-        <id>152243</id>
-        <link href="https://www.sunzhongwei.com/github-copilot-instruction?utm_source=blogfinder" />
-        <published>2026-04-09T17:17:09+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[尝试我的第一个 Github Copilot instruction, 告别重复输入编码提示词]]></summary>
     </entry>
     </feed>
