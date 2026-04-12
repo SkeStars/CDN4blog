@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-12T15:30:06+08:00</updated>
+    <updated>2026-04-12T17:01:14+08:00</updated>
+        <entry>
+        <title>春天</title>
+        <id>152481</id>
+        <link href="https://www.skyue.com/26041216.html?utm_source=blogfinder" />
+        <published>2026-04-12T16:39:00+08:00</published>
+        <author>
+            <name>拾月</name>
+            <uri>https://www.skyue.com</uri>
+        </author>
+        <summary type="text"><![CDATA[春天]]></summary>
+    </entry>
         <entry>
         <title>独立博客是展现博主自我还是AI塑造自我</title>
         <id>152479</id>
@@ -22,6 +33,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[独立博客是展现博主自我还是AI塑造自我]]></summary>
+    </entry>
+        <entry>
+        <title>当我谈晨跑时，我在谈些什么</title>
+        <id>152482</id>
+        <link href="https://hulatu.com/posts/2026/04/12/morning-run/?utm_source=blogfinder" />
+        <published>2026-04-12T13:20:59+08:00</published>
+        <author>
+            <name>胡拉图的后花园</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[当我谈晨跑时，我在谈些什么]]></summary>
     </entry>
         <entry>
         <title>2026-04-12 10:47</title>
@@ -176,6 +198,17 @@
             <uri>https://www.weiwenchao.com</uri>
         </author>
         <summary type="text"><![CDATA[《关于摩旅和人生的一些思考（3）》]]></summary>
+    </entry>
+        <entry>
+        <title>CVE-2022-0847浅析</title>
+        <id>152480</id>
+        <link href="https://blog.deepchirp.com/2026/04/11/CVE-2022-0847-Notes/?utm_source=blogfinder" />
+        <published>2026-04-11T21:44:54+08:00</published>
+        <author>
+            <name>空鸣深语</name>
+            <uri>https://blog.deepchirp.com</uri>
+        </author>
+        <summary type="text"><![CDATA[CVE-2022-0847浅析]]></summary>
     </entry>
         <entry>
         <title>离开重庆后再吃川菜毫无惊喜</title>
@@ -1232,16 +1265,5 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[尝试我的第一个 Github Copilot instruction, 告别重复输入编码提示词]]></summary>
-    </entry>
-        <entry>
-        <title>仿佛间像回到了老家</title>
-        <id>152242</id>
-        <link href="https://ygz.ink/archives/4614.html?utm_source=blogfinder" />
-        <published>2026-04-09T16:25:59+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[仿佛间像回到了老家]]></summary>
     </entry>
     </feed>
