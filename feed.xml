@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-12T19:09:30+08:00</updated>
+    <updated>2026-04-12T21:02:19+08:00</updated>
+        <entry>
+        <title>暮春山行 · 农历二月末的闲情</title>
+        <id>152494</id>
+        <link href="https://www.wanghao.me/muchunshanxing-nonglieryuemodexianqing.html?utm_source=blogfinder" />
+        <published>2026-04-12T18:43:30+08:00</published>
+        <author>
+            <name>小王子</name>
+            <uri>https://www.wanghao.me</uri>
+        </author>
+        <summary type="text"><![CDATA[暮春山行 · 农历二月末的闲情]]></summary>
+    </entry>
+        <entry>
+        <title>只需不到十元 用 RP2040 DIY 一条 YubiKey FIDO2 物理密钥</title>
+        <id>152492</id>
+        <link href="https://wuminboke.site/uncategorized/diy-fido2-key-for-less-than-ten-dollar-using-rp2040/?utm_source=blogfinder" />
+        <published>2026-04-12T17:04:15+08:00</published>
+        <author>
+            <name>无名博客</name>
+            <uri>https://wuminboke.site</uri>
+        </author>
+        <summary type="text"><![CDATA[只需不到十元 用 RP2040 DIY 一条 YubiKey FIDO2 物理密钥]]></summary>
+    </entry>
         <entry>
         <title>哲学家是什么？</title>
         <id>152486</id>
@@ -33,6 +55,17 @@
             <uri>https://www.skyue.com</uri>
         </author>
         <summary type="text"><![CDATA[春天]]></summary>
+    </entry>
+        <entry>
+        <title>AI 打破了原本公平的蠢</title>
+        <id>152490</id>
+        <link href="https://mobius.blog/22744.html?utm_source=blogfinder" />
+        <published>2026-04-12T16:09:05+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[AI 打破了原本公平的蠢]]></summary>
     </entry>
         <entry>
         <title>中班运动会</title>
@@ -66,6 +99,17 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[Toots 414 2026 Apr.5 - Apr.11]]></summary>
+    </entry>
+        <entry>
+        <title>那个集记账、基金、股票于一体的APP，又往前迈了一大步</title>
+        <id>152493</id>
+        <link href="https://blog.ops-coffee.com/fire/expense-funds-stock-integrated-finance-app.html?utm_source=blogfinder" />
+        <published>2026-04-12T14:40:39+08:00</published>
+        <author>
+            <name>运维咖啡吧</name>
+            <uri>https://blog.ops-coffee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[那个集记账、基金、股票于一体的APP，又往前迈了一大步]]></summary>
     </entry>
         <entry>
         <title>独立博客是展现博主自我还是AI塑造自我</title>
@@ -143,6 +187,17 @@
             <uri>https://immarcus.com</uri>
         </author>
         <summary type="text"><![CDATA[2026.04.12 博客阅读周记]]></summary>
+    </entry>
+        <entry>
+        <title>辨认真实</title>
+        <id>152491</id>
+        <link href="https://blog.bxaw.name/archives/Recognizing-What-Is-Real-Within.html?utm_source=blogfinder" />
+        <published>2026-04-12T02:01:33+08:00</published>
+        <author>
+            <name>白熊阿丸的小屋</name>
+            <uri>https://blog.bxaw.name</uri>
+        </author>
+        <summary type="text"><![CDATA[辨认真实]]></summary>
     </entry>
         <entry>
         <title>标毅毕业--上山用力，下山随势</title>
@@ -1276,27 +1331,5 @@
             <uri>https://isming.me</uri>
         </author>
         <summary type="text"><![CDATA[漫步曼谷游记]]></summary>
-    </entry>
-        <entry>
-        <title>OpenClaw本地知识库搭建完全指南</title>
-        <id>152237</id>
-        <link href="https://www.suiyan.cc/blog/20260409205224?utm_source=blogfinder" />
-        <published>2026-04-09T20:52:24+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenClaw本地知识库搭建完全指南]]></summary>
-    </entry>
-        <entry>
-        <title>上这个无人机课是真的在为难我</title>
-        <id>152241</id>
-        <link href="https://ygz.ink/archives/4620.html?utm_source=blogfinder" />
-        <published>2026-04-09T19:22:53+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[上这个无人机课是真的在为难我]]></summary>
     </entry>
     </feed>
