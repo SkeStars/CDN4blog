@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-12T23:00:29+08:00</updated>
+    <updated>2026-04-13T00:00:41+08:00</updated>
+        <entry>
+        <title>Claude Code 从 AWS Bedrock 切换到 Team 订阅指南</title>
+        <id>152497</id>
+        <link href="https://blog.devtang.com/2026/04/12/switch-bedrock-to-team/?utm_source=blogfinder" />
+        <published>2026-04-12T22:44:49+08:00</published>
+        <author>
+            <name>唐巧的博客</name>
+            <uri>https://blog.devtang.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Claude Code 从 AWS Bedrock 切换到 Team 订阅指南]]></summary>
+    </entry>
         <entry>
         <title>2026 春节叙事</title>
         <id>152496</id>
@@ -24,6 +35,28 @@
         <summary type="text"><![CDATA[2026 春节叙事]]></summary>
     </entry>
         <entry>
+        <title>周末流水账 0412</title>
+        <id>152499</id>
+        <link href="https://blog.solazy.me/20260412/?utm_source=blogfinder" />
+        <published>2026-04-12T21:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0412]]></summary>
+    </entry>
+        <entry>
+        <title>【与Mondo同行·第四季】5：对话录</title>
+        <id>152498</id>
+        <link href="http://www.qncd.com/?p=12648&amp;utm_source=blogfinder" />
+        <published>2026-04-12T19:42:27+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【与Mondo同行·第四季】5：对话录]]></summary>
+    </entry>
+        <entry>
         <title>暮春山行 · 农历二月末的闲情</title>
         <id>152494</id>
         <link href="https://www.wanghao.me/muchunshanxing-nonglieryuemodexianqing.html?utm_source=blogfinder" />
@@ -33,6 +66,17 @@
             <uri>https://www.wanghao.me</uri>
         </author>
         <summary type="text"><![CDATA[暮春山行 · 农历二月末的闲情]]></summary>
+    </entry>
+        <entry>
+        <title>Publii 的 Preview 點了沒反應？</title>
+        <id>152500</id>
+        <link href="https://blog.giveanornot.com/publii-preview-not-working/?utm_source=blogfinder" />
+        <published>2026-04-12T18:05:09+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Publii 的 Preview 點了沒反應？]]></summary>
     </entry>
         <entry>
         <title>只需不到十元 用 RP2040 DIY 一条 YubiKey FIDO2 物理密钥</title>
@@ -66,6 +110,17 @@
             <uri>https://www.skyue.com</uri>
         </author>
         <summary type="text"><![CDATA[春天]]></summary>
+    </entry>
+        <entry>
+        <title>正確打開 Threads 的方法（絕對不是花時間在首頁滑滑滑）</title>
+        <id>152501</id>
+        <link href="https://blog.giveanornot.com/the-right-way-to-use-threads/?utm_source=blogfinder" />
+        <published>2026-04-12T16:29:21+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[正確打開 Threads 的方法（絕對不是花時間在首頁滑滑滑）]]></summary>
     </entry>
         <entry>
         <title>AI 打破了原本公平的蠢</title>
@@ -1221,38 +1276,5 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 7 Evolution]]></summary>
-    </entry>
-        <entry>
-        <title>行程轨迹汇总</title>
-        <id>152319</id>
-        <link href="http://kangaroogao.com/posts/dbd5/?utm_source=blogfinder" />
-        <published>2026-04-10T00:00:00+08:00</published>
-        <author>
-            <name>三峡星河</name>
-            <uri>https://kangaroogao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[行程轨迹汇总]]></summary>
-    </entry>
-        <entry>
-        <title>看话剧《恋爱的犀牛》</title>
-        <id>152317</id>
-        <link href="https://tianheg.co/posts/rhinoceros-in-love-spoken-drama/?utm_source=blogfinder" />
-        <published>2026-04-10T00:00:00+08:00</published>
-        <author>
-            <name>一大加贝</name>
-            <uri>https://tianheg.co</uri>
-        </author>
-        <summary type="text"><![CDATA[看话剧《恋爱的犀牛》]]></summary>
-    </entry>
-        <entry>
-        <title>WordPress QQ推送插件 v1.1 发布：更加好用和美观</title>
-        <id>152285</id>
-        <link href="https://jyblog.cn/5288/?utm_source=blogfinder" />
-        <published>2026-04-09T23:26:59+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[WordPress QQ推送插件 v1.1 发布：更加好用和美观]]></summary>
     </entry>
     </feed>
