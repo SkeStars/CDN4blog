@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-12T14:00:26+08:00</updated>
+    <updated>2026-04-12T15:30:06+08:00</updated>
+        <entry>
+        <title>独立博客是展现博主自我还是AI塑造自我</title>
+        <id>152479</id>
+        <link href="https://www.pgoj.top/archives/dulibokeAI.html?utm_source=blogfinder" />
+        <published>2026-04-12T14:26:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[独立博客是展现博主自我还是AI塑造自我]]></summary>
+    </entry>
         <entry>
         <title>2026-04-12 10:47</title>
         <id>152475</id>
@@ -77,6 +88,17 @@
             <uri>https://qianxu.run</uri>
         </author>
         <summary type="text"><![CDATA[账务记账模式]]></summary>
+    </entry>
+        <entry>
+        <title>【也闲谈·第四季】七：安藤忠雄、夏目漱石、莎士比亚、墨子和孟尝君的“二苏旧局”</title>
+        <id>152478</id>
+        <link href="http://www.qncd.com/?p=12645&amp;utm_source=blogfinder" />
+        <published>2026-04-11T23:34:07+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【也闲谈·第四季】七：安藤忠雄、夏目漱石、莎士比亚、墨子和孟尝君的“二苏旧局”]]></summary>
     </entry>
         <entry>
         <title>写给设计师：如何设计一份 AI 友好的设计规范</title>
@@ -1221,27 +1243,5 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[仿佛间像回到了老家]]></summary>
-    </entry>
-        <entry>
-        <title>换地方了</title>
-        <id>152229</id>
-        <link href="https://imzm.im/moved/?utm_source=blogfinder" />
-        <published>2026-04-09T15:22:27+08:00</published>
-        <author>
-            <name>陈仓颉</name>
-            <uri>https://imzm.im</uri>
-        </author>
-        <summary type="text"><![CDATA[换地方了]]></summary>
-    </entry>
-        <entry>
-        <title>天津again</title>
-        <id>152231</id>
-        <link href="https://shuiba.co/tianjin-again?utm_source=blogfinder" />
-        <published>2026-04-09T15:18:00+08:00</published>
-        <author>
-            <name>水八口的冥想盆</name>
-            <uri>https://shuiba.co</uri>
-        </author>
-        <summary type="text"><![CDATA[天津again]]></summary>
     </entry>
     </feed>
