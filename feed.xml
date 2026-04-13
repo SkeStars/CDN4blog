@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-13T14:00:28+08:00</updated>
+    <updated>2026-04-13T17:00:43+08:00</updated>
+        <entry>
+        <title>南京游记</title>
+        <id>152535</id>
+        <link href="https://vrast.cn/posts/25560/?utm_source=blogfinder" />
+        <published>2026-04-13T11:26:10+08:00</published>
+        <author>
+            <name>Keyle&#039;s Blog</name>
+            <uri>https://vrast.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[南京游记]]></summary>
+    </entry>
         <entry>
         <title>胡拉图的周刊-第十五期</title>
         <id>152527</id>
@@ -90,6 +101,17 @@
         <summary type="text"><![CDATA[人为什么有烦恼呢？]]></summary>
     </entry>
         <entry>
+        <title>【读书记1649】周繁文《长安与罗马：公元前后三世纪欧亚大陆东西帝国的双城记》</title>
+        <id>152533</id>
+        <link href="http://www.qncd.com/?p=12636&amp;utm_source=blogfinder" />
+        <published>2026-04-13T09:20:42+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1649】周繁文《长安与罗马：公元前后三世纪欧亚大陆东西帝国的双城记》]]></summary>
+    </entry>
+        <entry>
         <title>稻草人周刊 Vol.76</title>
         <id>152521</id>
         <link href="https://www.geedea.pro/weekly/76/?utm_source=blogfinder" />
@@ -132,6 +154,17 @@
             <uri>https://blog.devtang.com</uri>
         </author>
         <summary type="text"><![CDATA[Claude Code 从 AWS Bedrock 切换到 Team 订阅指南]]></summary>
+    </entry>
+        <entry>
+        <title>测试图片压缩</title>
+        <id>152534</id>
+        <link href="https://www.friendcc.com/629.html?utm_source=blogfinder" />
+        <published>2026-04-12T22:43:00+08:00</published>
+        <author>
+            <name>梦不见的梦</name>
+            <uri>https://www.friendcc.com</uri>
+        </author>
+        <summary type="text"><![CDATA[测试图片压缩]]></summary>
     </entry>
         <entry>
         <title>2026 春节叙事</title>
@@ -286,6 +319,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[AI 打破了原本公平的蠢]]></summary>
+    </entry>
+        <entry>
+        <title>Vol.98 AI领域精选话题解析：从技术发展到应用实践全面解读</title>
+        <id>152536</id>
+        <link href="https://liduos.com/weekly/the-weekly-gradient-98?utm_source=blogfinder" />
+        <published>2026-04-12T16:00:00+08:00</published>
+        <author>
+            <name>莫尔索</name>
+            <uri>https://liduos.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Vol.98 AI领域精选话题解析：从技术发展到应用实践全面解读]]></summary>
     </entry>
         <entry>
         <title>中班运动会</title>
@@ -1232,71 +1276,5 @@
             <uri>https://www.886a.top</uri>
         </author>
         <summary type="text"><![CDATA[浏览器书签同步又挂了？自建 linkding 书签管理器（宝塔部署教程）]]></summary>
-    </entry>
-        <entry>
-        <title>Tauri 应用苹果签名踩坑实录</title>
-        <id>152306</id>
-        <link href="https://ssshooter.com/tauri-mac-sign-and-build/?utm_source=blogfinder" />
-        <published>2026-04-10T16:19:37+08:00</published>
-        <author>
-            <name>Usubeni Fantasy</name>
-            <uri>https://ssshooter.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Tauri 应用苹果签名踩坑实录]]></summary>
-    </entry>
-        <entry>
-        <title>「十日后」Vol.4 ·人间四月</title>
-        <id>152291</id>
-        <link href="https://www.suiyan.cc/blog/20260410154943?utm_source=blogfinder" />
-        <published>2026-04-10T15:49:43+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[「十日后」Vol.4 ·人间四月]]></summary>
-    </entry>
-        <entry>
-        <title>2026.4.10</title>
-        <id>152294</id>
-        <link href="https://www.justzht.com/2026-4-10/?utm_source=blogfinder" />
-        <published>2026-04-10T15:39:32+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.4.10]]></summary>
-    </entry>
-        <entry>
-        <title>说说：#1775804341</title>
-        <id>152290</id>
-        <link href="https://www.yssk.cn/riji/a2754e84.html?utm_source=blogfinder" />
-        <published>2026-04-10T14:59:58+08:00</published>
-        <author>
-            <name>一时三刻の记忆</name>
-            <uri>https://www.yssk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[说说：#1775804341]]></summary>
-    </entry>
-        <entry>
-        <title>Phoenix监控平台技术解析（十六）：代理端整体架构与角色定位</title>
-        <id>152292</id>
-        <link href="https://kacper.fun/blog/173?utm_source=blogfinder" />
-        <published>2026-04-10T14:54:21+08:00</published>
-        <author>
-            <name>知录</name>
-            <uri>https://kacper.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[Phoenix监控平台技术解析（十六）：代理端整体架构与角色定位]]></summary>
-    </entry>
-        <entry>
-        <title>羡慕你们博士生, 心潮澎湃发发Nature逗逗女孩</title>
-        <id>152424</id>
-        <link href="https://www.52txr.cn/2026/phdnaturegirl-1.html?utm_source=blogfinder" />
-        <published>2026-04-10T14:54:00+08:00</published>
-        <author>
-            <name>陶小桃</name>
-            <uri>https://www.52txr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[羡慕你们博士生, 心潮澎湃发发Nature逗逗女孩]]></summary>
     </entry>
     </feed>
