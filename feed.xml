@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-13T23:01:21+08:00</updated>
+    <updated>2026-04-14T00:00:44+08:00</updated>
         <entry>
         <title>VS Code 调试 Python 第三方库源码的配置 - 开发技巧| 阿尔的代码屋</title>
         <id>152545</id>
@@ -46,6 +46,17 @@
         <summary type="text"><![CDATA[我的 Nuxt 版网站即将上线了]]></summary>
     </entry>
         <entry>
+        <title>买了一个HK小鸡 顺便测试下性能 附测试脚本总结</title>
+        <id>152548</id>
+        <link href="https://jyblog.cn/5354/?utm_source=blogfinder" />
+        <published>2026-04-13T19:52:33+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[买了一个HK小鸡 顺便测试下性能 附测试脚本总结]]></summary>
+    </entry>
+        <entry>
         <title>我只有一句：去你妈的……</title>
         <id>152540</id>
         <link href="https://ichov.com/blog/wozhiyouyiju.html?utm_source=blogfinder" />
@@ -66,6 +77,17 @@
             <uri>https://zhujay.com</uri>
         </author>
         <summary type="text"><![CDATA[重新出发，与身体和解]]></summary>
+    </entry>
+        <entry>
+        <title>善良与边界感</title>
+        <id>152549</id>
+        <link href="https://blog.solazy.me/20260413/?utm_source=blogfinder" />
+        <published>2026-04-13T17:30:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[善良与边界感]]></summary>
     </entry>
         <entry>
         <title>南京游记</title>
@@ -253,6 +275,17 @@
             <uri>https://nicksxs.me</uri>
         </author>
         <summary type="text"><![CDATA[学习下大神的知识库]]></summary>
+    </entry>
+        <entry>
+        <title>第一次吃烤乳猪</title>
+        <id>152546</id>
+        <link href="https://dujun.io/96bbb94f-ab09-54c2-9e62-69c4e5e4a365.html?utm_source=blogfinder" />
+        <published>2026-04-12T21:55:00+08:00</published>
+        <author>
+            <name>杜郎俊赏</name>
+            <uri>https://dujun.io</uri>
+        </author>
+        <summary type="text"><![CDATA[第一次吃烤乳猪]]></summary>
     </entry>
         <entry>
         <title>再补一次牙</title>
@@ -1199,60 +1232,5 @@
             <uri>https://xiphoray.cn</uri>
         </author>
         <summary type="text"><![CDATA[剧情与设定]]></summary>
-    </entry>
-        <entry>
-        <title>用 Bash 打造一个Screen Locker</title>
-        <id>152455</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/11/用-bash-打造一个screen-locker/index.html?utm_source=blogfinder" />
-        <published>2026-04-11T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[用 Bash 打造一个Screen Locker]]></summary>
-    </entry>
-        <entry>
-        <title>从Linux ISO文件启动计算机</title>
-        <id>152454</id>
-        <link href="https://lujun9972.github.io/blog/2020/01/04/从linux-iso文件启动计算机/index.html?utm_source=blogfinder" />
-        <published>2026-04-11T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[从Linux ISO文件启动计算机]]></summary>
-    </entry>
-        <entry>
-        <title>blocking I/O 的作用</title>
-        <id>152453</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/11/blocking-i-o-的作用/index.html?utm_source=blogfinder" />
-        <published>2026-04-11T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[blocking I/O 的作用]]></summary>
-    </entry>
-        <entry>
-        <title>用GitHub Actions自动构建EGO博客</title>
-        <id>152452</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/11/用github-actions自动构建ego博客/index.html?utm_source=blogfinder" />
-        <published>2026-04-11T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[用GitHub Actions自动构建EGO博客]]></summary>
-    </entry>
-        <entry>
-        <title>Watch spoken drama &#039;Rhinoceros in Love&#039;</title>
-        <id>152316</id>
-        <link href="https://tianheg.co/posts/rhinoceros-in-love-spoken-drama-en/?utm_source=blogfinder" />
-        <published>2026-04-11T00:00:00+08:00</published>
-        <author>
-            <name>一大加贝</name>
-            <uri>https://tianheg.co</uri>
-        </author>
-        <summary type="text"><![CDATA[Watch spoken drama &#039;Rhinoceros in Love&#039;]]></summary>
     </entry>
     </feed>
