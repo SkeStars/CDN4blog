@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-13T18:00:43+08:00</updated>
+    <updated>2026-04-13T20:00:23+08:00</updated>
         <entry>
         <title>南京游记</title>
         <id>152535</id>
@@ -1221,71 +1221,5 @@
             <uri>https://knay.net</uri>
         </author>
         <summary type="text"><![CDATA[快捷指令从iPhone备忘录发布Blog笔记]]></summary>
-    </entry>
-        <entry>
-        <title>以运动促睡眠</title>
-        <id>152312</id>
-        <link href="https://joojen.com/archives/8919.html?utm_source=blogfinder" />
-        <published>2026-04-10T19:23:57+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[以运动促睡眠]]></summary>
-    </entry>
-        <entry>
-        <title>马代(1)</title>
-        <id>152441</id>
-        <link href="https://lenciel.com/2026/04/maldives-1/?utm_source=blogfinder" />
-        <published>2026-04-10T19:17:50+08:00</published>
-        <author>
-            <name>@Lenciel</name>
-            <uri>https://lenciel.com</uri>
-        </author>
-        <summary type="text"><![CDATA[马代(1)]]></summary>
-    </entry>
-        <entry>
-        <title>他想再试一次</title>
-        <id>152311</id>
-        <link href="https://lhdrc.com/240.html?utm_source=blogfinder" />
-        <published>2026-04-10T18:26:07+08:00</published>
-        <author>
-            <name>人间半闲</name>
-            <uri>https://lhdrc.com</uri>
-        </author>
-        <summary type="text"><![CDATA[他想再试一次]]></summary>
-    </entry>
-        <entry>
-        <title>“叱咤”的粤语正确读音</title>
-        <id>152419</id>
-        <link href="http://www.auiou.com/relevant/00002143.jsp?utm_source=blogfinder" />
-        <published>2026-04-10T18:22:00+08:00</published>
-        <author>
-            <name>王志勇的 Blog</name>
-            <uri>http://www.auiou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[“叱咤”的粤语正确读音]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 14 Noether 定理</title>
-        <id>152310</id>
-        <link href="https://physnya.top/GR/lesson-14-noether-theorem/?utm_source=blogfinder" />
-        <published>2026-04-10T18:09:16+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 14 Noether 定理]]></summary>
-    </entry>
-        <entry>
-        <title>浏览器书签同步又挂了？自建 linkding 书签管理器（宝塔部署教程）</title>
-        <id>152318</id>
-        <link href="https://www.886a.top/archives/864.html?utm_source=blogfinder" />
-        <published>2026-04-10T18:05:00+08:00</published>
-        <author>
-            <name>羽翼博客</name>
-            <uri>https://www.886a.top</uri>
-        </author>
-        <summary type="text"><![CDATA[浏览器书签同步又挂了？自建 linkding 书签管理器（宝塔部署教程）]]></summary>
     </entry>
     </feed>
