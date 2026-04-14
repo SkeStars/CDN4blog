@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-14T23:00:53+08:00</updated>
+    <updated>2026-04-15T00:02:42+08:00</updated>
         <entry>
         <title>20260414</title>
         <id>152752</id>
@@ -22,6 +22,17 @@
             <uri>https://61.life</uri>
         </author>
         <summary type="text"><![CDATA[20260414]]></summary>
+    </entry>
+        <entry>
+        <title>《白》成都方所分享会笔记</title>
+        <id>152755</id>
+        <link href="https://z.arlmy.me/posts/Note/Note_GongShu_Bai_FangSuo/?utm_source=blogfinder" />
+        <published>2026-04-14T21:37:46+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[《白》成都方所分享会笔记]]></summary>
     </entry>
         <entry>
         <title>账户清零那一刻，我才听懂了“别急”</title>
@@ -90,6 +101,17 @@
         <summary type="text"><![CDATA[《西方哲学史讲演录》笔记与思考]]></summary>
     </entry>
         <entry>
+        <title>每夫吐槽（116）</title>
+        <id>152756</id>
+        <link href="https://pewae.com/2026/04/random_kuso_116.html?utm_source=blogfinder" />
+        <published>2026-04-14T17:09:00+08:00</published>
+        <author>
+            <name>破袜子</name>
+            <uri>https://pewae.com</uri>
+        </author>
+        <summary type="text"><![CDATA[每夫吐槽（116）]]></summary>
+    </entry>
+        <entry>
         <title>主题增加了外链跳转，重写了评论区</title>
         <id>152751</id>
         <link href="https://www.pgoj.top/archives/wailianpinglun.html?utm_source=blogfinder" />
@@ -99,6 +121,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[主题增加了外链跳转，重写了评论区]]></summary>
+    </entry>
+        <entry>
+        <title>微说 | 我不同意你的观点，但我誓死捍卫你说话的权利</title>
+        <id>152754</id>
+        <link href="https://www.xiabingbao.com/talk/t/mnybochx.html?utm_source=blogfinder" />
+        <published>2026-04-14T15:51:05+08:00</published>
+        <author>
+            <name>蚊子</name>
+            <uri>https://www.xiabingbao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[微说 | 我不同意你的观点，但我誓死捍卫你说话的权利]]></summary>
     </entry>
         <entry>
         <title>遇到“MS-DOS功能无效”删不掉文件？一招教你搞定nul顽固文件</title>
@@ -484,6 +517,17 @@
             <uri>https://blog.gudong.site</uri>
         </author>
         <summary type="text"><![CDATA[给评论换个皮肤]]></summary>
+    </entry>
+        <entry>
+        <title>自由职业三个月“体验报告”</title>
+        <id>152757</id>
+        <link href="https://lomus.cc/archives/740?utm_source=blogfinder" />
+        <published>2026-04-13T07:30:00+08:00</published>
+        <author>
+            <name>Lumos&#039;s Blog</name>
+            <uri>https://lomus.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[自由职业三个月“体验报告”]]></summary>
     </entry>
         <entry>
         <title>Hexo-Butterfly 主题 Preloader 加载页定制</title>
@@ -979,104 +1023,5 @@
             <uri>https://qianxu.run</uri>
         </author>
         <summary type="text"><![CDATA[账务记账模式]]></summary>
-    </entry>
-        <entry>
-        <title>C语言中的未定义行为</title>
-        <id>152553</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/12/c语言中的未定义行为/index.html?utm_source=blogfinder" />
-        <published>2026-04-12T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[C语言中的未定义行为]]></summary>
-    </entry>
-        <entry>
-        <title>在Linux上限制儿童使用电脑</title>
-        <id>152552</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/12/在linux上限制儿童使用电脑/index.html?utm_source=blogfinder" />
-        <published>2026-04-12T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[在Linux上限制儿童使用电脑]]></summary>
-    </entry>
-        <entry>
-        <title>为什么 nohup 在 crontab 中不起作用</title>
-        <id>152551</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/12/为什么-nohup-在-crontab-中不起作用/index.html?utm_source=blogfinder" />
-        <published>2026-04-12T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么 nohup 在 crontab 中不起作用]]></summary>
-    </entry>
-        <entry>
-        <title>yes 管道 head 发生了什么</title>
-        <id>152550</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/12/yes-管道-head-发生了什么/index.html?utm_source=blogfinder" />
-        <published>2026-04-12T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[yes 管道 head 发生了什么]]></summary>
-    </entry>
-        <entry>
-        <title>自用 Claude Code 拼车中转服务</title>
-        <id>152505</id>
-        <link href="https://tao.zz.ac/ai/claude-relay.html?utm_source=blogfinder" />
-        <published>2026-04-12T00:00:00+08:00</published>
-        <author>
-            <name>涛叔</name>
-            <uri>https://tao.zz.ac</uri>
-        </author>
-        <summary type="text"><![CDATA[自用 Claude Code 拼车中转服务]]></summary>
-    </entry>
-        <entry>
-        <title>Bash中的Indirection与Nameref</title>
-        <id>152503</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/12/bash中的indirection与nameref/index.html?utm_source=blogfinder" />
-        <published>2026-04-12T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[Bash中的Indirection与Nameref]]></summary>
-    </entry>
-        <entry>
-        <title>Linux PAM 简介</title>
-        <id>152502</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/12/linux-pam-简介/index.html?utm_source=blogfinder" />
-        <published>2026-04-12T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[Linux PAM 简介]]></summary>
-    </entry>
-        <entry>
-        <title>【也闲谈·第四季】七：安藤忠雄、夏目漱石、莎士比亚、墨子和孟尝君的“二苏旧局”</title>
-        <id>152478</id>
-        <link href="http://www.qncd.com/?p=12645&amp;utm_source=blogfinder" />
-        <published>2026-04-11T23:34:07+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【也闲谈·第四季】七：安藤忠雄、夏目漱石、莎士比亚、墨子和孟尝君的“二苏旧局”]]></summary>
-    </entry>
-        <entry>
-        <title>写给设计师：如何设计一份 AI 友好的设计规范</title>
-        <id>152470</id>
-        <link href="https://blog.devtang.com/2026/04/11/ai-friendly-design-spec/?utm_source=blogfinder" />
-        <published>2026-04-11T23:07:00+08:00</published>
-        <author>
-            <name>唐巧的博客</name>
-            <uri>https://blog.devtang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[写给设计师：如何设计一份 AI 友好的设计规范]]></summary>
     </entry>
     </feed>
