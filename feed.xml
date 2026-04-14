@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-14T17:00:54+08:00</updated>
+    <updated>2026-04-14T19:02:43+08:00</updated>
         <entry>
         <title>遇到“MS-DOS功能无效”删不掉文件？一招教你搞定nul顽固文件</title>
         <id>152742</id>
@@ -123,6 +123,17 @@
         <summary type="text"><![CDATA[论健身房]]></summary>
     </entry>
         <entry>
+        <title>亲手做生日蛋糕</title>
+        <id>152745</id>
+        <link href="https://shuiba.co/handmade-birthday-cake?utm_source=blogfinder" />
+        <published>2026-04-14T07:47:00+08:00</published>
+        <author>
+            <name>水八口的冥想盆</name>
+            <uri>https://shuiba.co</uri>
+        </author>
+        <summary type="text"><![CDATA[亲手做生日蛋糕]]></summary>
+    </entry>
+        <entry>
         <title>周末野炊</title>
         <id>152743</id>
         <link href="https://ilogs.cn/2026/04/14/375.html?utm_source=blogfinder" />
@@ -165,6 +176,17 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[问Gemini的问题备份]]></summary>
+    </entry>
+        <entry>
+        <title>开发简报(1)：拥抱 AI、别无选择</title>
+        <id>152744</id>
+        <link href="https://kanchuan.com/blog/newsletter-1?utm_source=blogfinder" />
+        <published>2026-04-13T22:00:00+08:00</published>
+        <author>
+            <name>陈看川博客</name>
+            <uri>https://kanchuan.com/blog</uri>
+        </author>
+        <summary type="text"><![CDATA[开发简报(1)：拥抱 AI、别无选择]]></summary>
     </entry>
         <entry>
         <title>VS Code 调试 Python 第三方库源码的配置 - 开发技巧| 阿尔的代码屋</title>
@@ -1122,49 +1144,5 @@
             <uri>https://shuiba.co</uri>
         </author>
         <summary type="text"><![CDATA[2023年的圣诞🎄]]></summary>
-    </entry>
-        <entry>
-        <title>折腾whois隐私保护</title>
-        <id>152473</id>
-        <link href="https://www.gujishe.com/archives/52.html?utm_source=blogfinder" />
-        <published>2026-04-11T18:40:00+08:00</published>
-        <author>
-            <name>咕唧舍</name>
-            <uri>https://www.gujishe.com</uri>
-        </author>
-        <summary type="text"><![CDATA[折腾whois隐私保护]]></summary>
-    </entry>
-        <entry>
-        <title>随思 #69 - 2026-04-11</title>
-        <id>152446</id>
-        <link href="http://qthinker.net/content/69?utm_source=blogfinder" />
-        <published>2026-04-11T18:13:54+08:00</published>
-        <author>
-            <name>Qthinker</name>
-            <uri>https://qthinker.net</uri>
-        </author>
-        <summary type="text"><![CDATA[随思 #69 - 2026-04-11]]></summary>
-    </entry>
-        <entry>
-        <title>一个吐槽</title>
-        <id>152435</id>
-        <link href="https://sliun.com/playback/?utm_source=blogfinder" />
-        <published>2026-04-11T17:45:00+08:00</published>
-        <author>
-            <name>理论派</name>
-            <uri>https://sliun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[一个吐槽]]></summary>
-    </entry>
-        <entry>
-        <title>客户指定要求使用 AI 开发，如何估算软件开发工期和报价</title>
-        <id>152440</id>
-        <link href="https://www.sunzhongwei.com/estimate-software-dev-period-quotation?utm_source=blogfinder" />
-        <published>2026-04-11T17:14:04+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[客户指定要求使用 AI 开发，如何估算软件开发工期和报价]]></summary>
     </entry>
     </feed>
