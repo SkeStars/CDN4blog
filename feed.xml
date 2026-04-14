@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-14T16:00:15+08:00</updated>
+    <updated>2026-04-14T17:00:54+08:00</updated>
+        <entry>
+        <title>遇到“MS-DOS功能无效”删不掉文件？一招教你搞定nul顽固文件</title>
+        <id>152742</id>
+        <link href="https://kacper.fun/blog/174?utm_source=blogfinder" />
+        <published>2026-04-14T15:43:35+08:00</published>
+        <author>
+            <name>知录</name>
+            <uri>https://kacper.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[遇到“MS-DOS功能无效”删不掉文件？一招教你搞定nul顽固文件]]></summary>
+    </entry>
         <entry>
         <title>阿富汗花朵钩织法</title>
         <id>152740</id>
@@ -110,6 +121,17 @@
             <uri>https://immarcus.com</uri>
         </author>
         <summary type="text"><![CDATA[论健身房]]></summary>
+    </entry>
+        <entry>
+        <title>周末野炊</title>
+        <id>152743</id>
+        <link href="https://ilogs.cn/2026/04/14/375.html?utm_source=blogfinder" />
+        <published>2026-04-14T03:40:00+08:00</published>
+        <author>
+            <name>我的日志</name>
+            <uri>https://ilogs.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[周末野炊]]></summary>
     </entry>
         <entry>
         <title>轻量级网络代理转发神器 socat 使用详解</title>
@@ -1144,60 +1166,5 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[客户指定要求使用 AI 开发，如何估算软件开发工期和报价]]></summary>
-    </entry>
-        <entry>
-        <title>豆豆豆豆豆豆</title>
-        <id>152477</id>
-        <link href="https://paoo.cc/2026/dou/?utm_source=blogfinder" />
-        <published>2026-04-11T16:46:59+08:00</published>
-        <author>
-            <name>Leo</name>
-            <uri>https://paoo.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[豆豆豆豆豆豆]]></summary>
-    </entry>
-        <entry>
-        <title>当那级台阶消失时</title>
-        <id>152442</id>
-        <link href="https://www.evan.xin/4933/?utm_source=blogfinder" />
-        <published>2026-04-11T16:30:58+08:00</published>
-        <author>
-            <name>Evan&#039;s Space</name>
-            <uri>https://www.evan.xin</uri>
-        </author>
-        <summary type="text"><![CDATA[当那级台阶消失时]]></summary>
-    </entry>
-        <entry>
-        <title>InfinityFree永久免费站搭建</title>
-        <id>152434</id>
-        <link href="https://zooyoo.top/article.php?id=47&amp;utm_source=blogfinder" />
-        <published>2026-04-11T16:27:48+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[InfinityFree永久免费站搭建]]></summary>
-    </entry>
-        <entry>
-        <title>入坑3D打印四部曲</title>
-        <id>152436</id>
-        <link href="https://me.xu19.com/one-week-with-bambu-lab-p1s/?utm_source=blogfinder" />
-        <published>2026-04-11T16:10:53+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[入坑3D打印四部曲]]></summary>
-    </entry>
-        <entry>
-        <title>生化危机：安魂曲 免虚拟机版下载</title>
-        <id>152432</id>
-        <link href="https://b.ncii.cn/archives/SCMGLEXn?utm_source=blogfinder" />
-        <published>2026-04-11T16:01:01+08:00</published>
-        <author>
-            <name>卖烤肉博客</name>
-            <uri>https://b.ncii.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[生化危机：安魂曲 免虚拟机版下载]]></summary>
     </entry>
     </feed>
