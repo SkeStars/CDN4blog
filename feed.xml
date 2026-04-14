@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-14T22:00:24+08:00</updated>
+    <updated>2026-04-14T23:00:53+08:00</updated>
+        <entry>
+        <title>20260414</title>
+        <id>152752</id>
+        <link href="https://61.life/2026/0414?utm_source=blogfinder" />
+        <published>2026-04-14T21:57:04+08:00</published>
+        <author>
+            <name>61’s life</name>
+            <uri>https://61.life</uri>
+        </author>
+        <summary type="text"><![CDATA[20260414]]></summary>
+    </entry>
         <entry>
         <title>账户清零那一刻，我才听懂了“别急”</title>
         <id>152749</id>
@@ -55,6 +66,17 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[【短文】街头诈骗后的反思：信任与防范]]></summary>
+    </entry>
+        <entry>
+        <title>使用Cloudflare自定义主机名实现国内外流量分流</title>
+        <id>152753</id>
+        <link href="https://www.nekopara.uk/archives/Set_Cloudflare_SaaS.html?utm_source=blogfinder" />
+        <published>2026-04-14T18:57:15+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[使用Cloudflare自定义主机名实现国内外流量分流]]></summary>
     </entry>
         <entry>
         <title>《西方哲学史讲演录》笔记与思考</title>
@@ -1056,49 +1078,5 @@
             <uri>https://blog.devtang.com</uri>
         </author>
         <summary type="text"><![CDATA[写给设计师：如何设计一份 AI 友好的设计规范]]></summary>
-    </entry>
-        <entry>
-        <title>3x3 Rubik&#039;s Cube Blindfold</title>
-        <id>152463</id>
-        <link href="https://www.lyt0112.com/blog/blindfold-en?utm_source=blogfinder" />
-        <published>2026-04-11T22:34:04+08:00</published>
-        <author>
-            <name>Yutong&#039;s Site</name>
-            <uri>https://www.lyt0112.com</uri>
-        </author>
-        <summary type="text"><![CDATA[3x3 Rubik&#039;s Cube Blindfold]]></summary>
-    </entry>
-        <entry>
-        <title>用茶水泡脚可能有效治疗接触性皮炎/湿疹</title>
-        <id>152443</id>
-        <link href="https://www.bufanz.com/20260411553.html?utm_source=blogfinder" />
-        <published>2026-04-11T22:21:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[用茶水泡脚可能有效治疗接触性皮炎/湿疹]]></summary>
-    </entry>
-        <entry>
-        <title>WordPress 倦意图片水印插件发布：轻松快捷控制图片水印</title>
-        <id>152449</id>
-        <link href="https://jyblog.cn/5331/?utm_source=blogfinder" />
-        <published>2026-04-11T22:05:32+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[WordPress 倦意图片水印插件发布：轻松快捷控制图片水印]]></summary>
-    </entry>
-        <entry>
-        <title>雨衣下的世界</title>
-        <id>152458</id>
-        <link href="https://yinji.org/the-world-under-the-raincoat.html?utm_source=blogfinder" />
-        <published>2026-04-11T22:02:07+08:00</published>
-        <author>
-            <name>印记</name>
-            <uri>https://yinji.org</uri>
-        </author>
-        <summary type="text"><![CDATA[雨衣下的世界]]></summary>
     </entry>
     </feed>
