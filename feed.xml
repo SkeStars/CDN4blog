@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-15T22:00:34+08:00</updated>
+    <updated>2026-04-15T23:00:44+08:00</updated>
+        <entry>
+        <title>20260415</title>
+        <id>152806</id>
+        <link href="https://61.life/2026/0415?utm_source=blogfinder" />
+        <published>2026-04-15T22:45:31+08:00</published>
+        <author>
+            <name>61’s life</name>
+            <uri>https://61.life</uri>
+        </author>
+        <summary type="text"><![CDATA[20260415]]></summary>
+    </entry>
+        <entry>
+        <title>IPv8：也许是一场迟来的梦</title>
+        <id>152810</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1245/?utm_source=blogfinder" />
+        <published>2026-04-15T21:53:00+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[IPv8：也许是一场迟来的梦]]></summary>
+    </entry>
+        <entry>
+        <title>寻找数据源头</title>
+        <id>152809</id>
+        <link href="https://kaffa.im/find-data-source.html?utm_source=blogfinder" />
+        <published>2026-04-15T21:52:00+08:00</published>
+        <author>
+            <name>Kaffa</name>
+            <uri>https://kaffa.im</uri>
+        </author>
+        <summary type="text"><![CDATA[寻找数据源头]]></summary>
+    </entry>
+        <entry>
+        <title>折腾数日，还是宝塔面板省心！</title>
+        <id>152807</id>
+        <link href="https://qfsyj.com/20260415-bt.html?utm_source=blogfinder" />
+        <published>2026-04-15T20:15:53+08:00</published>
+        <author>
+            <name>不曾长大</name>
+            <uri>https://qfsyj.com</uri>
+        </author>
+        <summary type="text"><![CDATA[折腾数日，还是宝塔面板省心！]]></summary>
+    </entry>
         <entry>
         <title>吹皱一池春水还是搅得周天寒彻</title>
         <id>152805</id>
@@ -1012,60 +1056,5 @@
             <uri>https://www.mmbkz.cn</uri>
         </author>
         <summary type="text"><![CDATA[说说：#2026-04-12 23:33]]></summary>
-    </entry>
-        <entry>
-        <title>【Appium】安装 xcuitest 驱动时 npm install 报错的解决方法</title>
-        <id>152509</id>
-        <link href="https://blog.musnow.top/posts/6001406889/?utm_source=blogfinder" />
-        <published>2026-04-12T22:57:00+08:00</published>
-        <author>
-            <name>慕雪的寒舍</name>
-            <uri>https://blog.musnow.top</uri>
-        </author>
-        <summary type="text"><![CDATA[【Appium】安装 xcuitest 驱动时 npm install 报错的解决方法]]></summary>
-    </entry>
-        <entry>
-        <title>Claude Code 从 AWS Bedrock 切换到 Team 订阅指南</title>
-        <id>152497</id>
-        <link href="https://blog.devtang.com/2026/04/12/switch-bedrock-to-team/?utm_source=blogfinder" />
-        <published>2026-04-12T22:44:49+08:00</published>
-        <author>
-            <name>唐巧的博客</name>
-            <uri>https://blog.devtang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude Code 从 AWS Bedrock 切换到 Team 订阅指南]]></summary>
-    </entry>
-        <entry>
-        <title>测试图片压缩</title>
-        <id>152534</id>
-        <link href="https://www.friendcc.com/629.html?utm_source=blogfinder" />
-        <published>2026-04-12T22:43:00+08:00</published>
-        <author>
-            <name>梦不见的梦</name>
-            <uri>https://www.friendcc.com</uri>
-        </author>
-        <summary type="text"><![CDATA[测试图片压缩]]></summary>
-    </entry>
-        <entry>
-        <title>2026 春节叙事</title>
-        <id>152496</id>
-        <link href="https://bluehe.cn/archives/spring-festival-2026?utm_source=blogfinder" />
-        <published>2026-04-12T22:25:00+08:00</published>
-        <author>
-            <name>云心怀鹤</name>
-            <uri>https://bluehe.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[2026 春节叙事]]></summary>
-    </entry>
-        <entry>
-        <title>学习下大神的知识库</title>
-        <id>152541</id>
-        <link href="https://nicksxs.me/2026/04/12/%E5%AD%A6%E4%B9%A0%E4%B8%8B%E5%A4%A7%E7%A5%9E%E7%9A%84%E7%9F%A5%E8%AF%86%E5%BA%93/?utm_source=blogfinder" />
-        <published>2026-04-12T22:20:48+08:00</published>
-        <author>
-            <name>Nicksxs&#039;s Blog</name>
-            <uri>https://nicksxs.me</uri>
-        </author>
-        <summary type="text"><![CDATA[学习下大神的知识库]]></summary>
     </entry>
     </feed>
