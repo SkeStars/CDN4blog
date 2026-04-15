@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-15T16:00:26+08:00</updated>
+    <updated>2026-04-15T17:01:51+08:00</updated>
+        <entry>
+        <title>丙午马年-四月</title>
+        <id>152792</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1126&amp;utm_source=blogfinder" />
+        <published>2026-04-15T14:34:21+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[丙午马年-四月]]></summary>
+    </entry>
         <entry>
         <title>洪绘压图发布！Mac上的批量转图片格式，批量压缩图片工具</title>
         <id>152791</id>
@@ -22,6 +33,17 @@
             <uri>https://blog.zhheo.com</uri>
         </author>
         <summary type="text"><![CDATA[洪绘压图发布！Mac上的批量转图片格式，批量压缩图片工具]]></summary>
+    </entry>
+        <entry>
+        <title>重磅利好消息！</title>
+        <id>152793</id>
+        <link href="https://me.xu19.com/free-protection-of-cn-domain/?utm_source=blogfinder" />
+        <published>2026-04-15T12:22:18+08:00</published>
+        <author>
+            <name>我是军爸</name>
+            <uri>https://me.xu19.com</uri>
+        </author>
+        <summary type="text"><![CDATA[重磅利好消息！]]></summary>
     </entry>
         <entry>
         <title>花钱买体验</title>
@@ -77,6 +99,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1651】《企鹅经典：小黑书·第三辑》]]></summary>
+    </entry>
+        <entry>
+        <title>閱讀的目的就是閱讀</title>
+        <id>152794</id>
+        <link href="https://blog.giveanornot.com/to-read-is-to-read/?utm_source=blogfinder" />
+        <published>2026-04-15T06:28:17+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[閱讀的目的就是閱讀]]></summary>
     </entry>
         <entry>
         <title>閱讀的目的就是閱讀</title>
@@ -1034,60 +1067,5 @@
             <uri>https://wuminboke.site</uri>
         </author>
         <summary type="text"><![CDATA[只需不到十元 用 RP2040 DIY 一条 YubiKey FIDO2 物理密钥]]></summary>
-    </entry>
-        <entry>
-        <title>哲学家是什么？</title>
-        <id>152486</id>
-        <link href="https://sliun.com/whatisyou/?utm_source=blogfinder" />
-        <published>2026-04-12T17:01:00+08:00</published>
-        <author>
-            <name>理论派</name>
-            <uri>https://sliun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[哲学家是什么？]]></summary>
-    </entry>
-        <entry>
-        <title>春天</title>
-        <id>152481</id>
-        <link href="https://www.skyue.com/26041216.html?utm_source=blogfinder" />
-        <published>2026-04-12T16:39:00+08:00</published>
-        <author>
-            <name>拾月</name>
-            <uri>https://www.skyue.com</uri>
-        </author>
-        <summary type="text"><![CDATA[春天]]></summary>
-    </entry>
-        <entry>
-        <title>正確打開 Threads 的方法（絕對不是花時間在首頁滑滑滑）</title>
-        <id>152501</id>
-        <link href="https://blog.giveanornot.com/the-right-way-to-use-threads/?utm_source=blogfinder" />
-        <published>2026-04-12T16:29:21+08:00</published>
-        <author>
-            <name>資工小廢物  - JN</name>
-            <uri>https://blog.giveanornot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[正確打開 Threads 的方法（絕對不是花時間在首頁滑滑滑）]]></summary>
-    </entry>
-        <entry>
-        <title>2026.4.12</title>
-        <id>152513</id>
-        <link href="https://www.justzht.com/2026-4-12/?utm_source=blogfinder" />
-        <published>2026-04-12T16:11:57+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.4.12]]></summary>
-    </entry>
-        <entry>
-        <title>AI 打破了原本公平的蠢</title>
-        <id>152490</id>
-        <link href="https://mobius.blog/22744.html?utm_source=blogfinder" />
-        <published>2026-04-12T16:09:05+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[AI 打破了原本公平的蠢]]></summary>
     </entry>
     </feed>
