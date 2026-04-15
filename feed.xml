@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-15T14:00:21+08:00</updated>
+    <updated>2026-04-15T16:00:26+08:00</updated>
+        <entry>
+        <title>洪绘压图发布！Mac上的批量转图片格式，批量压缩图片工具</title>
+        <id>152791</id>
+        <link href="https://blog.zhheo.com/p/bp85fpdb.html?utm_source=blogfinder" />
+        <published>2026-04-15T12:52:52+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[洪绘压图发布！Mac上的批量转图片格式，批量压缩图片工具]]></summary>
+    </entry>
         <entry>
         <title>花钱买体验</title>
         <id>152785</id>
@@ -101,6 +112,17 @@
         <summary type="text"><![CDATA[终端操作的录制与回放以及为技术博客添加动态终端演示]]></summary>
     </entry>
         <entry>
+        <title>小猫咪也有自己的规划</title>
+        <id>152790</id>
+        <link href="https://blog.solazy.me/20260414/?utm_source=blogfinder" />
+        <published>2026-04-14T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[小猫咪也有自己的规划]]></summary>
+    </entry>
+        <entry>
         <title>第一次做醪糟成功✌️</title>
         <id>152786</id>
         <link href="https://ygz.ink/archives/4633.html?utm_source=blogfinder" />
@@ -143,6 +165,17 @@
             <uri>https://www.friendcc.com</uri>
         </author>
         <summary type="text"><![CDATA[账户清零那一刻，我才听懂了“别急”]]></summary>
+    </entry>
+        <entry>
+        <title>从MySQL到Turso：Nuxt4项目数据库迁移全流程</title>
+        <id>152788</id>
+        <link href="https://www.youdiandongxi.com/article/prisma-migrate-mysql-to-turso.html?utm_source=blogfinder" />
+        <published>2026-04-14T21:26:31+08:00</published>
+        <author>
+            <name>有点东西</name>
+            <uri>https://www.youdiandongxi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[从MySQL到Turso：Nuxt4项目数据库迁移全流程]]></summary>
     </entry>
         <entry>
         <title>Harness Engineering</title>
@@ -286,6 +319,17 @@
             <uri>https://www.jfsay.com</uri>
         </author>
         <summary type="text"><![CDATA[阿富汗花朵钩织法]]></summary>
+    </entry>
+        <entry>
+        <title>被阳光找到的日子</title>
+        <id>152789</id>
+        <link href="https://blog.veitzn.top/archives/2034?utm_source=blogfinder" />
+        <published>2026-04-14T14:06:56+08:00</published>
+        <author>
+            <name>Veitzn 的小屋</name>
+            <uri>https://blog.veitzn.top</uri>
+        </author>
+        <summary type="text"><![CDATA[被阳光找到的日子]]></summary>
     </entry>
         <entry>
         <title>漏洞</title>
@@ -1045,82 +1089,5 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[AI 打破了原本公平的蠢]]></summary>
-    </entry>
-        <entry>
-        <title>Vol.98 AI领域精选话题解析：从技术发展到应用实践全面解读</title>
-        <id>152536</id>
-        <link href="https://liduos.com/weekly/the-weekly-gradient-98?utm_source=blogfinder" />
-        <published>2026-04-12T16:00:00+08:00</published>
-        <author>
-            <name>莫尔索</name>
-            <uri>https://liduos.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Vol.98 AI领域精选话题解析：从技术发展到应用实践全面解读]]></summary>
-    </entry>
-        <entry>
-        <title>中班运动会</title>
-        <id>152483</id>
-        <link href="https://shuiba.co/popo-sports-day-2023?utm_source=blogfinder" />
-        <published>2026-04-12T15:37:00+08:00</published>
-        <author>
-            <name>水八口的冥想盆</name>
-            <uri>https://shuiba.co</uri>
-        </author>
-        <summary type="text"><![CDATA[中班运动会]]></summary>
-    </entry>
-        <entry>
-        <title>摘：《花间集》</title>
-        <id>152487</id>
-        <link href="https://z.arlmy.me/posts/Note/Note_ZhaoChongzuo_HuaJianJi/?utm_source=blogfinder" />
-        <published>2026-04-12T15:04:46+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[摘：《花间集》]]></summary>
-    </entry>
-        <entry>
-        <title>Toots 414 2026 Apr.5 - Apr.11</title>
-        <id>152488</id>
-        <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260411/?utm_source=blogfinder" />
-        <published>2026-04-12T14:50:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[Toots 414 2026 Apr.5 - Apr.11]]></summary>
-    </entry>
-        <entry>
-        <title>那个集记账、基金、股票于一体的APP，又往前迈了一大步</title>
-        <id>152493</id>
-        <link href="https://blog.ops-coffee.com/fire/expense-funds-stock-integrated-finance-app.html?utm_source=blogfinder" />
-        <published>2026-04-12T14:40:39+08:00</published>
-        <author>
-            <name>运维咖啡吧</name>
-            <uri>https://blog.ops-coffee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[那个集记账、基金、股票于一体的APP，又往前迈了一大步]]></summary>
-    </entry>
-        <entry>
-        <title>独立博客是展现博主自我还是AI塑造自我</title>
-        <id>152479</id>
-        <link href="https://www.pgoj.top/archives/dulibokeAI.html?utm_source=blogfinder" />
-        <published>2026-04-12T14:26:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[独立博客是展现博主自我还是AI塑造自我]]></summary>
-    </entry>
-        <entry>
-        <title>Visual Studio Code 安装开启 中文语言包插件</title>
-        <id>152560</id>
-        <link href="https://www.jinjun.top/posts/vscode-chinese/?utm_source=blogfinder" />
-        <published>2026-04-12T14:25:00+08:00</published>
-        <author>
-            <name>钧言极客</name>
-            <uri>https://www.jinjun.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Visual Studio Code 安装开启 中文语言包插件]]></summary>
     </entry>
     </feed>
