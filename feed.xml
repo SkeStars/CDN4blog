@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-16T19:02:46+08:00</updated>
+    <updated>2026-04-16T22:00:49+08:00</updated>
+        <entry>
+        <title>我是中本聪</title>
+        <id>152876</id>
+        <link href="https://d-d.design/single/18454?utm_source=blogfinder" />
+        <published>2026-04-16T19:58:01+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[我是中本聪]]></summary>
+    </entry>
         <entry>
         <title>Album#34 - THIS MUSIC MAY CONTAIN HOPE.</title>
         <id>152874</id>
@@ -55,6 +66,17 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 15 引力波]]></summary>
+    </entry>
+        <entry>
+        <title>我已上车京东菱格酒杯1只1块</title>
+        <id>152877</id>
+        <link href="https://ygz.ink/archives/4639.html?utm_source=blogfinder" />
+        <published>2026-04-16T14:00:15+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[我已上车京东菱格酒杯1只1块]]></summary>
     </entry>
         <entry>
         <title>2026-04-16 12:24</title>
@@ -110,6 +132,17 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[2026 观影]]></summary>
+    </entry>
+        <entry>
+        <title>ikuai的折腾日记</title>
+        <id>152878</id>
+        <link href="https://blog.mboker.cn/archives/UrP6IIQI?utm_source=blogfinder" />
+        <published>2026-04-16T09:30:54+08:00</published>
+        <author>
+            <name>蜉蝣手札</name>
+            <uri>https://blog.mboker.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[ikuai的折腾日记]]></summary>
     </entry>
         <entry>
         <title>一场和包包大人并肩的战斗</title>
@@ -176,6 +209,17 @@
             <uri>https://howiehz.top</uri>
         </author>
         <summary type="text"><![CDATA[eNSP 预安装虚拟机镜像分享与使用教程]]></summary>
+    </entry>
+        <entry>
+        <title>结束在他人规则下的生活</title>
+        <id>152875</id>
+        <link href="https://blog.bxaw.name/archives/An-End-to-Living-on-Someone-Else-s-Terms.html?utm_source=blogfinder" />
+        <published>2026-04-16T04:01:00+08:00</published>
+        <author>
+            <name>白熊阿丸的小屋</name>
+            <uri>https://blog.bxaw.name</uri>
+        </author>
+        <summary type="text"><![CDATA[结束在他人规则下的生活]]></summary>
     </entry>
         <entry>
         <title>松声｜廿六年·四月中·桐花开</title>
@@ -1254,82 +1298,5 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[问Gemini的问题备份]]></summary>
-    </entry>
-        <entry>
-        <title>开发简报(1)：拥抱 AI、别无选择</title>
-        <id>152744</id>
-        <link href="https://kanchuan.com/blog/newsletter-1?utm_source=blogfinder" />
-        <published>2026-04-13T22:00:00+08:00</published>
-        <author>
-            <name>陈看川博客</name>
-            <uri>https://kanchuan.com/blog</uri>
-        </author>
-        <summary type="text"><![CDATA[开发简报(1)：拥抱 AI、别无选择]]></summary>
-    </entry>
-        <entry>
-        <title>VS Code 调试 Python 第三方库源码的配置 - 开发技巧| 阿尔的代码屋</title>
-        <id>152545</id>
-        <link href="https://blog.algieba12.cn/debug-build-in-python-lib/?utm_source=blogfinder" />
-        <published>2026-04-13T22:00:00+08:00</published>
-        <author>
-            <name>阿尔的代码屋</name>
-            <uri>https://blog.algieba12.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[VS Code 调试 Python 第三方库源码的配置 - 开发技巧| 阿尔的代码屋]]></summary>
-    </entry>
-        <entry>
-        <title>我的 Nuxt 版网站即将上线了</title>
-        <id>152849</id>
-        <link href="https://imqi1.com:443/content/1007?utm_source=blogfinder" />
-        <published>2026-04-13T20:29:00+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我的 Nuxt 版网站即将上线了]]></summary>
-    </entry>
-        <entry>
-        <title>政治学的第一课不是学政治 ｜ 隐说 NO.19</title>
-        <id>152543</id>
-        <link href="https://wangyurui.com/posts/yin-shuo-no-19-zheng-zhi-xue-de-di-yi-ke-bu-shi-37faa7ea?utm_source=blogfinder" />
-        <published>2026-04-13T20:27:18+08:00</published>
-        <author>
-            <name>太隐</name>
-            <uri>https://wangyurui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[政治学的第一课不是学政治 ｜ 隐说 NO.19]]></summary>
-    </entry>
-        <entry>
-        <title>我的 Nuxt 版网站即将上线了</title>
-        <id>152544</id>
-        <link href="https://imqi1.com/note/1007?utm_source=blogfinder" />
-        <published>2026-04-13T20:24:00+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我的 Nuxt 版网站即将上线了]]></summary>
-    </entry>
-        <entry>
-        <title>买了一个HK小鸡 顺便测试下性能 附测试脚本总结</title>
-        <id>152548</id>
-        <link href="https://jyblog.cn/5354/?utm_source=blogfinder" />
-        <published>2026-04-13T19:52:33+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[买了一个HK小鸡 顺便测试下性能 附测试脚本总结]]></summary>
-    </entry>
-        <entry>
-        <title>我只有一句：去你妈的……</title>
-        <id>152540</id>
-        <link href="https://ichov.com/blog/wozhiyouyiju.html?utm_source=blogfinder" />
-        <published>2026-04-13T19:31:01+08:00</published>
-        <author>
-            <name>江子渔</name>
-            <uri>https://ichov.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我只有一句：去你妈的……]]></summary>
     </entry>
     </feed>
