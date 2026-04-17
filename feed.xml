@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-17T16:03:33+08:00</updated>
+    <updated>2026-04-17T17:02:23+08:00</updated>
+        <entry>
+        <title>Album#35 - The Gift</title>
+        <id>152948</id>
+        <link href="https://taxodium.ink/album-35.html?utm_source=blogfinder" />
+        <published>2026-04-17T12:30:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[Album#35 - The Gift]]></summary>
+    </entry>
         <entry>
         <title>帆布手提包（不良余额突破两亿元留念）</title>
         <id>152944</id>
@@ -44,6 +55,17 @@
             <uri>https://www.youdiandongxi.com</uri>
         </author>
         <summary type="text"><![CDATA[Blog部署下云过程记录]]></summary>
+    </entry>
+        <entry>
+        <title>放学后的校门口</title>
+        <id>152949</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1127&amp;utm_source=blogfinder" />
+        <published>2026-04-17T10:47:34+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[放学后的校门口]]></summary>
     </entry>
         <entry>
         <title>真的会有人希望自己的父母早点死吗？</title>
@@ -1485,38 +1507,5 @@
             <uri>https://pewae.com</uri>
         </author>
         <summary type="text"><![CDATA[每夫吐槽（116）]]></summary>
-    </entry>
-        <entry>
-        <title>主题增加了外链跳转，重写了评论区</title>
-        <id>152751</id>
-        <link href="https://www.pgoj.top/archives/wailianpinglun.html?utm_source=blogfinder" />
-        <published>2026-04-14T16:35:20+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[主题增加了外链跳转，重写了评论区]]></summary>
-    </entry>
-        <entry>
-        <title>Typecho 迁移 Halo 完整教程：数据库视图解决表前缀 + 自动提取封面图</title>
-        <id>152781</id>
-        <link href="https://wuqishi.com/typecho-halo-migration-view-cover/?utm_source=blogfinder" />
-        <published>2026-04-14T16:21:00+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Typecho 迁移 Halo 完整教程：数据库视图解决表前缀 + 自动提取封面图]]></summary>
-    </entry>
-        <entry>
-        <title>【AI】在 Windows 与 Ubuntu 上用于四旋翼强化学习的仿真环境深度调研</title>
-        <id>152765</id>
-        <link href="https://moontung.top/archives/uac-rl-research.html?utm_source=blogfinder" />
-        <published>2026-04-14T16:19:00+08:00</published>
-        <author>
-            <name>Sheetung</name>
-            <uri>https://moontung.top</uri>
-        </author>
-        <summary type="text"><![CDATA[【AI】在 Windows 与 Ubuntu 上用于四旋翼强化学习的仿真环境深度调研]]></summary>
     </entry>
     </feed>
