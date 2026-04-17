@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-17T17:02:23+08:00</updated>
+    <updated>2026-04-17T19:00:30+08:00</updated>
+        <entry>
+        <title>博客近况和话题</title>
+        <id>152972</id>
+        <link href="http://www.auiou.com/relevant/00002144.jsp?utm_source=blogfinder" />
+        <published>2026-04-17T18:36:00+08:00</published>
+        <author>
+            <name>王志勇的 Blog</name>
+            <uri>http://www.auiou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[博客近况和话题]]></summary>
+    </entry>
+        <entry>
+        <title>DIY 维修数控电子防潮柜 更换制冷片记录</title>
+        <id>152970</id>
+        <link href="https://wuminboke.site/uncategorized/diy-fix-a-malfunctioned-electronic-dry-cabinet/?utm_source=blogfinder" />
+        <published>2026-04-17T14:47:20+08:00</published>
+        <author>
+            <name>无名博客</name>
+            <uri>https://wuminboke.site</uri>
+        </author>
+        <summary type="text"><![CDATA[DIY 维修数控电子防潮柜 更换制冷片记录]]></summary>
+    </entry>
         <entry>
         <title>Album#35 - The Gift</title>
         <id>152948</id>
@@ -143,6 +165,17 @@
             <uri>https://immarcus.com</uri>
         </author>
         <summary type="text"><![CDATA[在美国报税]]></summary>
+    </entry>
+        <entry>
+        <title>科技爱好者周刊（第 393 期）：脑腐状态</title>
+        <id>152971</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html?utm_source=blogfinder" />
+        <published>2026-04-17T07:20:16+08:00</published>
+        <author>
+            <name>阮一峰的网络日志</name>
+            <uri>http://www.ruanyifeng.com/blog</uri>
+        </author>
+        <summary type="text"><![CDATA[科技爱好者周刊（第 393 期）：脑腐状态]]></summary>
     </entry>
         <entry>
         <title>学习周刊-总第259期-2026年第16周</title>
@@ -319,6 +352,17 @@
             <uri>https://taxodium.ink</uri>
         </author>
         <summary type="text"><![CDATA[Album#34 - THIS MUSIC MAY CONTAIN HOPE.]]></summary>
+    </entry>
+        <entry>
+        <title>彻底换到新的 CMS 了，Glass 主题介绍</title>
+        <id>152950</id>
+        <link href="https://imqi1.com/content/note/1008?utm_source=blogfinder" />
+        <published>2026-04-16T18:02:00+08:00</published>
+        <author>
+            <name>ImQi1</name>
+            <uri>https://imqi1.com</uri>
+        </author>
+        <summary type="text"><![CDATA[彻底换到新的 CMS 了，Glass 主题介绍]]></summary>
     </entry>
         <entry>
         <title>彻底换到新的 CMS 了，Glass 主题介绍</title>
@@ -1463,49 +1507,5 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[【短文】街头诈骗后的反思：信任与防范]]></summary>
-    </entry>
-        <entry>
-        <title>使用Cloudflare自定义主机名实现国内外流量分流</title>
-        <id>152753</id>
-        <link href="https://www.nekopara.uk/archives/Set_Cloudflare_SaaS.html?utm_source=blogfinder" />
-        <published>2026-04-14T18:57:15+08:00</published>
-        <author>
-            <name>GTX690 战术核显卡导弹</name>
-            <uri>https://www.nekopara.uk</uri>
-        </author>
-        <summary type="text"><![CDATA[使用Cloudflare自定义主机名实现国内外流量分流]]></summary>
-    </entry>
-        <entry>
-        <title>《西方哲学史讲演录》笔记与思考</title>
-        <id>152748</id>
-        <link href="https://www.suiyan.cc/blog/20260414173641?utm_source=blogfinder" />
-        <published>2026-04-14T17:36:41+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[《西方哲学史讲演录》笔记与思考]]></summary>
-    </entry>
-        <entry>
-        <title>这个月忙着自娱自乐</title>
-        <id>152767</id>
-        <link href="https://wonse.info/2026-3yue.html?utm_source=blogfinder" />
-        <published>2026-04-14T17:15:29+08:00</published>
-        <author>
-            <name>王鑫的小屋</name>
-            <uri>https://wonse.info</uri>
-        </author>
-        <summary type="text"><![CDATA[这个月忙着自娱自乐]]></summary>
-    </entry>
-        <entry>
-        <title>每夫吐槽（116）</title>
-        <id>152756</id>
-        <link href="https://pewae.com/2026/04/random_kuso_116.html?utm_source=blogfinder" />
-        <published>2026-04-14T17:09:00+08:00</published>
-        <author>
-            <name>破袜子</name>
-            <uri>https://pewae.com</uri>
-        </author>
-        <summary type="text"><![CDATA[每夫吐槽（116）]]></summary>
     </entry>
     </feed>
