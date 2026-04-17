@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-17T19:00:30+08:00</updated>
+    <updated>2026-04-17T22:00:40+08:00</updated>
+        <entry>
+        <title>数学老师不讲发现√2的意义</title>
+        <id>152974</id>
+        <link href="https://www.pgoj.top/archives/shuxuelaoshisxs.html?utm_source=blogfinder" />
+        <published>2026-04-17T20:48:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[数学老师不讲发现√2的意义]]></summary>
+    </entry>
+        <entry>
+        <title>从零开始配置 VPS —— 主机名、用户组和远程权限安全实践</title>
+        <id>152973</id>
+        <link href="https://blog.samhou.moe/safe-vps/?utm_source=blogfinder" />
+        <published>2026-04-17T19:04:03+08:00</published>
+        <author>
+            <name>SamHou&#039;s Blog</name>
+            <uri>https://blog.samhou.moe</uri>
+        </author>
+        <summary type="text"><![CDATA[从零开始配置 VPS —— 主机名、用户组和远程权限安全实践]]></summary>
+    </entry>
         <entry>
         <title>博客近况和话题</title>
         <id>152972</id>
@@ -915,6 +937,17 @@
         <summary type="text"><![CDATA[20260415]]></summary>
     </entry>
         <entry>
+        <title>看了场民族歌剧《小二黑结婚》</title>
+        <id>152975</id>
+        <link href="https://blog.224418.xyz/posts/4c6957d/?utm_source=blogfinder" />
+        <published>2026-04-15T22:29:55+08:00</published>
+        <author>
+            <name>傥师妹的小空间</name>
+            <uri>https://blog.224418.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[看了场民族歌剧《小二黑结婚》]]></summary>
+    </entry>
+        <entry>
         <title>文章选题汇总</title>
         <id>152835</id>
         <link href="https://www.xiaozonglin.cn/article-potential-topics/?utm_source=blogfinder" />
@@ -1397,115 +1430,5 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[第一次做醪糟成功✌️]]></summary>
-    </entry>
-        <entry>
-        <title>20260414</title>
-        <id>152752</id>
-        <link href="https://61.life/2026/0414?utm_source=blogfinder" />
-        <published>2026-04-14T21:57:04+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260414]]></summary>
-    </entry>
-        <entry>
-        <title>《白》成都方所分享会笔记</title>
-        <id>152755</id>
-        <link href="https://z.arlmy.me/posts/Note/Note_GongShu_Bai_FangSuo/?utm_source=blogfinder" />
-        <published>2026-04-14T21:37:46+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[《白》成都方所分享会笔记]]></summary>
-    </entry>
-        <entry>
-        <title>动态图片测试</title>
-        <id>152796</id>
-        <link href="https://blog.uuanqin.top/p/6338f82f/?utm_source=blogfinder" />
-        <published>2026-04-14T21:36:40+08:00</published>
-        <author>
-            <name>半方池水半方田</name>
-            <uri>https://blog.uuanqin.top</uri>
-        </author>
-        <summary type="text"><![CDATA[动态图片测试]]></summary>
-    </entry>
-        <entry>
-        <title>麦克风孔设计的小巧思</title>
-        <id>152800</id>
-        <link href="https://catlyingroof.top/2026/04/14/16.html?utm_source=blogfinder" />
-        <published>2026-04-14T21:36:00+08:00</published>
-        <author>
-            <name>Ethan 在网上耕田</name>
-            <uri>https://catlyingroof.top</uri>
-        </author>
-        <summary type="text"><![CDATA[麦克风孔设计的小巧思]]></summary>
-    </entry>
-        <entry>
-        <title>实现Artalk中间页安全跳转和表情包小图BUG预览</title>
-        <id>152907</id>
-        <link href="https://koxiuqiu.cn/posts/32p2604141/?utm_source=blogfinder" />
-        <published>2026-04-14T21:35:00+08:00</published>
-        <author>
-            <name>朽丘秋雨</name>
-            <uri>https://koxiuqiu.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[实现Artalk中间页安全跳转和表情包小图BUG预览]]></summary>
-    </entry>
-        <entry>
-        <title>账户清零那一刻，我才听懂了“别急”</title>
-        <id>152749</id>
-        <link href="https://www.friendcc.com/634.html?utm_source=blogfinder" />
-        <published>2026-04-14T21:28:52+08:00</published>
-        <author>
-            <name>梦不见的梦</name>
-            <uri>https://www.friendcc.com</uri>
-        </author>
-        <summary type="text"><![CDATA[账户清零那一刻，我才听懂了“别急”]]></summary>
-    </entry>
-        <entry>
-        <title>从MySQL到Turso：Nuxt4项目数据库迁移全流程</title>
-        <id>152788</id>
-        <link href="https://www.youdiandongxi.com/article/prisma-migrate-mysql-to-turso.html?utm_source=blogfinder" />
-        <published>2026-04-14T21:26:31+08:00</published>
-        <author>
-            <name>有点东西</name>
-            <uri>https://www.youdiandongxi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[从MySQL到Turso：Nuxt4项目数据库迁移全流程]]></summary>
-    </entry>
-        <entry>
-        <title>Harness Engineering</title>
-        <id>152747</id>
-        <link href="https://hateonion.me/zh/posts/harness-engineering/?utm_source=blogfinder" />
-        <published>2026-04-14T20:00:00+08:00</published>
-        <author>
-            <name>OnionTalk</name>
-            <uri>https://hateonion.me/zh/</uri>
-        </author>
-        <summary type="text"><![CDATA[Harness Engineering]]></summary>
-    </entry>
-        <entry>
-        <title>《北京怀柔兴阳小环线跑山》</title>
-        <id>152750</id>
-        <link href="https://www.weiwenchao.com/2499.html?utm_source=blogfinder" />
-        <published>2026-04-14T19:31:00+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《北京怀柔兴阳小环线跑山》]]></summary>
-    </entry>
-        <entry>
-        <title>【短文】街头诈骗后的反思：信任与防范</title>
-        <id>152746</id>
-        <link href="https://blog.mcenahle.org.cn/2026/04/14/447.html?utm_source=blogfinder" />
-        <published>2026-04-14T19:18:39+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[【短文】街头诈骗后的反思：信任与防范]]></summary>
     </entry>
     </feed>
