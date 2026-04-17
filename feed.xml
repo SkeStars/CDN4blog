@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-17T23:00:44+08:00</updated>
+    <updated>2026-04-18T00:03:35+08:00</updated>
         <entry>
         <title>数学老师不讲发现√2的意义</title>
         <id>152974</id>
@@ -79,6 +79,28 @@
         <summary type="text"><![CDATA[从零开始配置 VPS —— 主机名、用户组和远程权限安全实践]]></summary>
     </entry>
         <entry>
+        <title>快乐的死</title>
+        <id>152981</id>
+        <link href="https://www.geedea.pro/library/2026/la-mort-heureuse/?utm_source=blogfinder" />
+        <published>2026-04-17T18:42:09+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[快乐的死]]></summary>
+    </entry>
+        <entry>
+        <title>黑色车的高亮时刻</title>
+        <id>152983</id>
+        <link href="https://blog.tibtob.cn/archives/55/?utm_source=blogfinder" />
+        <published>2026-04-17T18:36:00+08:00</published>
+        <author>
+            <name>拾音博客</name>
+            <uri>https://blog.tibtob.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[黑色车的高亮时刻]]></summary>
+    </entry>
+        <entry>
         <title>博客近况和话题</title>
         <id>152972</id>
         <link href="http://www.auiou.com/relevant/00002144.jsp?utm_source=blogfinder" />
@@ -88,6 +110,17 @@
             <uri>http://www.auiou.com</uri>
         </author>
         <summary type="text"><![CDATA[博客近况和话题]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1652】许知远《创造一个自己的时间》</title>
+        <id>152980</id>
+        <link href="http://www.qncd.com/?p=12655&amp;utm_source=blogfinder" />
+        <published>2026-04-17T16:30:36+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1652】许知远《创造一个自己的时间》]]></summary>
     </entry>
         <entry>
         <title>DIY 维修数控电子防潮柜 更换制冷片记录</title>
@@ -418,6 +451,17 @@
             <uri>https://taxodium.ink</uri>
         </author>
         <summary type="text"><![CDATA[Album#34 - THIS MUSIC MAY CONTAIN HOPE.]]></summary>
+    </entry>
+        <entry>
+        <title>那人和散养两只流浪狗</title>
+        <id>152982</id>
+        <link href="https://www.jianker.cn/315.html?utm_source=blogfinder" />
+        <published>2026-04-16T18:35:13+08:00</published>
+        <author>
+            <name>魏德龙博客</name>
+            <uri>https://www.jianker.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[那人和散养两只流浪狗]]></summary>
     </entry>
         <entry>
         <title>彻底换到新的 CMS 了，Glass 主题介绍</title>
@@ -1386,71 +1430,5 @@
             <uri>https://blog.uuanqin.top</uri>
         </author>
         <summary type="text"><![CDATA[试试用代码块在 Hexo 中插入实况照片]]></summary>
-    </entry>
-        <entry>
-        <title>X11 Forwarding 排障指南</title>
-        <id>152821</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/15/x11-forwarding-排障指南/index.html?utm_source=blogfinder" />
-        <published>2026-04-15T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[X11 Forwarding 排障指南]]></summary>
-    </entry>
-        <entry>
-        <title>创建跨平台 ZIP 文件的隐藏陷阱：Extra Field</title>
-        <id>152820</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/15/创建跨平台-zip-文件的隐藏陷阱：extra-field/index.html?utm_source=blogfinder" />
-        <published>2026-04-15T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[创建跨平台 ZIP 文件的隐藏陷阱：Extra Field]]></summary>
-    </entry>
-        <entry>
-        <title>Linux 数据去重学习笔记</title>
-        <id>152819</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/15/linux-数据去重学习笔记/index.html?utm_source=blogfinder" />
-        <published>2026-04-15T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[Linux 数据去重学习笔记]]></summary>
-    </entry>
-        <entry>
-        <title>PARA Org-mode 测试配置</title>
-        <id>152818</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/15/para-org-mode-测试配置/index.html?utm_source=blogfinder" />
-        <published>2026-04-15T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[PARA Org-mode 测试配置]]></summary>
-    </entry>
-        <entry>
-        <title>AI 时代的 PARA 方法：用 Org-mode 和 AI 打造个人知识管理系统</title>
-        <id>152817</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/15/ai-时代的-para-方法：用-org-mode-和-ai-打造个人知识管理系统/index.html?utm_source=blogfinder" />
-        <published>2026-04-15T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[AI 时代的 PARA 方法：用 Org-mode 和 AI 打造个人知识管理系统]]></summary>
-    </entry>
-        <entry>
-        <title>终端操作的录制与回放以及为技术博客添加动态终端演示</title>
-        <id>152768</id>
-        <link href="https://blog.sky233.top/posts/70c0223?utm_source=blogfinder" />
-        <published>2026-04-14T23:07:05+08:00</published>
-        <author>
-            <name>YaloisBlog</name>
-            <uri>https://blog.sky233.top</uri>
-        </author>
-        <summary type="text"><![CDATA[终端操作的录制与回放以及为技术博客添加动态终端演示]]></summary>
     </entry>
     </feed>
