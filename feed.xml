@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-17T14:00:29+08:00</updated>
+    <updated>2026-04-17T16:03:33+08:00</updated>
         <entry>
         <title>帆布手提包（不良余额突破两亿元留念）</title>
         <id>152944</id>
@@ -22,6 +22,28 @@
             <uri>http://stuit.cn</uri>
         </author>
         <summary type="text"><![CDATA[帆布手提包（不良余额突破两亿元留念）]]></summary>
+    </entry>
+        <entry>
+        <title>看见的和看不见的</title>
+        <id>152947</id>
+        <link href="https://airy.ink/daily/441?utm_source=blogfinder" />
+        <published>2026-04-17T12:15:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[看见的和看不见的]]></summary>
+    </entry>
+        <entry>
+        <title>Blog部署下云过程记录</title>
+        <id>152946</id>
+        <link href="https://www.youdiandongxi.com/article/blog-deploy-change-log.html?utm_source=blogfinder" />
+        <published>2026-04-17T11:45:04+08:00</published>
+        <author>
+            <name>有点东西</name>
+            <uri>https://www.youdiandongxi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Blog部署下云过程记录]]></summary>
     </entry>
         <entry>
         <title>真的会有人希望自己的父母早点死吗？</title>
@@ -1496,49 +1518,5 @@
             <uri>https://moontung.top</uri>
         </author>
         <summary type="text"><![CDATA[【AI】在 Windows 与 Ubuntu 上用于四旋翼强化学习的仿真环境深度调研]]></summary>
-    </entry>
-        <entry>
-        <title>微说 | 我不同意你的观点，但我誓死捍卫你说话的权利</title>
-        <id>152754</id>
-        <link href="https://www.xiabingbao.com/talk/t/mnybochx.html?utm_source=blogfinder" />
-        <published>2026-04-14T15:51:05+08:00</published>
-        <author>
-            <name>蚊子</name>
-            <uri>https://www.xiabingbao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[微说 | 我不同意你的观点，但我誓死捍卫你说话的权利]]></summary>
-    </entry>
-        <entry>
-        <title>遇到“MS-DOS功能无效”删不掉文件？一招教你搞定nul顽固文件</title>
-        <id>152742</id>
-        <link href="https://kacper.fun/blog/174?utm_source=blogfinder" />
-        <published>2026-04-14T15:43:35+08:00</published>
-        <author>
-            <name>知录</name>
-            <uri>https://kacper.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[遇到“MS-DOS功能无效”删不掉文件？一招教你搞定nul顽固文件]]></summary>
-    </entry>
-        <entry>
-        <title>阿富汗花朵钩织法</title>
-        <id>152740</id>
-        <link href="https://www.jfsay.com/archives/3904.html?utm_source=blogfinder" />
-        <published>2026-04-14T15:02:07+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[阿富汗花朵钩织法]]></summary>
-    </entry>
-        <entry>
-        <title>被阳光找到的日子</title>
-        <id>152789</id>
-        <link href="https://blog.veitzn.top/archives/2034?utm_source=blogfinder" />
-        <published>2026-04-14T14:06:56+08:00</published>
-        <author>
-            <name>Veitzn 的小屋</name>
-            <uri>https://blog.veitzn.top</uri>
-        </author>
-        <summary type="text"><![CDATA[被阳光找到的日子]]></summary>
     </entry>
     </feed>
