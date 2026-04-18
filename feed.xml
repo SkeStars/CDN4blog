@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-18T13:03:22+08:00</updated>
+    <updated>2026-04-18T15:00:53+08:00</updated>
+        <entry>
+        <title>你有多久没看邮箱了？</title>
+        <id>153021</id>
+        <link href="http://etom.top/archives/so30.html?utm_source=blogfinder" />
+        <published>2026-04-18T13:58:50+08:00</published>
+        <author>
+            <name>浮生事</name>
+            <uri>http://etom.top</uri>
+        </author>
+        <summary type="text"><![CDATA[你有多久没看邮箱了？]]></summary>
+    </entry>
+        <entry>
+        <title>千亿身价雷总，一早连续直播 15 小时，劳模人设焊死</title>
+        <id>153019</id>
+        <link href="https://www.aiwazi.com/3066.html?utm_source=blogfinder" />
+        <published>2026-04-18T13:35:45+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[千亿身价雷总，一早连续直播 15 小时，劳模人设焊死]]></summary>
+    </entry>
         <entry>
         <title>2026-04-18 09:35</title>
         <id>153018</id>
@@ -22,6 +44,17 @@
             <uri>https://koobai.com</uri>
         </author>
         <summary type="text"><![CDATA[2026-04-18 09:35]]></summary>
+    </entry>
+        <entry>
+        <title>Gaming to Stay Sane</title>
+        <id>153020</id>
+        <link href="https://www.geedea.pro/en/article/gaming-for-sanity/?utm_source=blogfinder" />
+        <published>2026-04-18T01:45:49+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[Gaming to Stay Sane]]></summary>
     </entry>
         <entry>
         <title>感恩 2025</title>
@@ -121,6 +154,17 @@
             <uri>https://joojen.com</uri>
         </author>
         <summary type="text"><![CDATA[如何提高生活的安全边际]]></summary>
+    </entry>
+        <entry>
+        <title>Git 在国内网络环境下无法 Push 的排查与修复 —— 配置 Clash 代理</title>
+        <id>153022</id>
+        <link href="https://www.zywvvd.com/notes/tools/git/git-proxy-clash/git-proxy-clash/?utm_source=blogfinder" />
+        <published>2026-04-17T19:30:00+08:00</published>
+        <author>
+            <name>又见苍岚</name>
+            <uri>https://www.zywvvd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Git 在国内网络环境下无法 Push 的排查与修复 —— 配置 Clash 代理]]></summary>
     </entry>
         <entry>
         <title>从零开始配置 VPS —— 主机名、用户组和远程权限安全实践</title>
@@ -1375,38 +1419,5 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[由于春季经常下雨，导致两个相机镜头内部起雾]]></summary>
-    </entry>
-        <entry>
-        <title>儿童账户</title>
-        <id>152804</id>
-        <link href="https://retire50blog.wang/invest/%e5%84%bf%e7%ab%a5%e8%b4%a6%e6%88%b7.html?utm_source=blogfinder" />
-        <published>2026-04-15T14:46:47+08:00</published>
-        <author>
-            <name>个人工作记录</name>
-            <uri>https://retire50blog.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[儿童账户]]></summary>
-    </entry>
-        <entry>
-        <title>丙午马年-四月</title>
-        <id>152792</id>
-        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1126&amp;utm_source=blogfinder" />
-        <published>2026-04-15T14:34:21+08:00</published>
-        <author>
-            <name>徐建伟</name>
-            <uri>http://www.xulog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[丙午马年-四月]]></summary>
-    </entry>
-        <entry>
-        <title>让 Claude Code 在你睡觉时持续运行：完整实战指南</title>
-        <id>152811</id>
-        <link href="https://blog.devtang.com/2026/04/15/claude-code-autonomous-guide-zh/?utm_source=blogfinder" />
-        <published>2026-04-15T13:44:00+08:00</published>
-        <author>
-            <name>唐巧的博客</name>
-            <uri>https://blog.devtang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[让 Claude Code 在你睡觉时持续运行：完整实战指南]]></summary>
     </entry>
     </feed>
