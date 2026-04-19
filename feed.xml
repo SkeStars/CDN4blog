@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-19T17:02:49+08:00</updated>
+    <updated>2026-04-19T18:00:44+08:00</updated>
         <entry>
         <title>新款主题基本已经完成了</title>
         <id>153084</id>
@@ -154,6 +154,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【也闲谈·第四季】八：卑情不任欣慰之至]]></summary>
+    </entry>
+        <entry>
+        <title>周末流水账 0418</title>
+        <id>153101</id>
+        <link href="https://blog.solazy.me/20260418/?utm_source=blogfinder" />
+        <published>2026-04-18T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0418]]></summary>
     </entry>
         <entry>
         <title>贝叶斯、1000次模拟：彻底搞懂三门问题</title>
@@ -363,6 +374,17 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[油水不流外人田]]></summary>
+    </entry>
+        <entry>
+        <title>2026-W16：博斯、新职场与认知审计</title>
+        <id>153100</id>
+        <link href="https://www.gaotianchi.com/2026-w16-bosch-new-career-and-cognitive-audit/?utm_source=blogfinder" />
+        <published>2026-04-18T16:56:02+08:00</published>
+        <author>
+            <name>高天驰</name>
+            <uri>https://www.gaotianchi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-W16：博斯、新职场与认知审计]]></summary>
     </entry>
         <entry>
         <title>今天中午停电了，不得不用柴火灶。</title>
@@ -737,6 +759,17 @@
             <uri>https://61.life</uri>
         </author>
         <summary type="text"><![CDATA[20260417]]></summary>
+    </entry>
+        <entry>
+        <title>四月，院线电影看起来</title>
+        <id>153102</id>
+        <link href="https://blog.solazy.me/20260417/?utm_source=blogfinder" />
+        <published>2026-04-17T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[四月，院线电影看起来]]></summary>
     </entry>
         <entry>
         <title>醇香小记·第十九期</title>
@@ -1190,6 +1223,17 @@
         <summary type="text"><![CDATA[20260416]]></summary>
     </entry>
         <entry>
+        <title>愿大家都能有一副好颈椎</title>
+        <id>153103</id>
+        <link href="https://blog.solazy.me/20260416/?utm_source=blogfinder" />
+        <published>2026-04-16T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[愿大家都能有一副好颈椎]]></summary>
+    </entry>
+        <entry>
         <title>生活碎碎念：如何绘制清明拜山图</title>
         <id>152882</id>
         <link href="https://blog.mfwt.top/index.php/archives/1227/?utm_source=blogfinder" />
@@ -1342,126 +1386,5 @@
             <uri>https://imqi1.com</uri>
         </author>
         <summary type="text"><![CDATA[彻底换到新的 CMS 了，Glass 主题介绍]]></summary>
-    </entry>
-        <entry>
-        <title>记录自己做的第一个 iOS App 的喜悦</title>
-        <id>152885</id>
-        <link href="https://lomus.cc/archives/749?utm_source=blogfinder" />
-        <published>2026-04-16T17:51:03+08:00</published>
-        <author>
-            <name>Lumos&#039;s Blog</name>
-            <uri>https://lomus.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[记录自己做的第一个 iOS App 的喜悦]]></summary>
-    </entry>
-        <entry>
-        <title>没有新地图，就没有新出路</title>
-        <id>152894</id>
-        <link href="https://www.dengxiaokang.com/1501/?utm_source=blogfinder" />
-        <published>2026-04-16T17:11:51+08:00</published>
-        <author>
-            <name>菜心言</name>
-            <uri>https://www.dengxiaokang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[没有新地图，就没有新出路]]></summary>
-    </entry>
-        <entry>
-        <title>全是人情往来，全是权衡利弊</title>
-        <id>152895</id>
-        <link href="https://www.dengxiaokang.com/1499/?utm_source=blogfinder" />
-        <published>2026-04-16T17:11:26+08:00</published>
-        <author>
-            <name>菜心言</name>
-            <uri>https://www.dengxiaokang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[全是人情往来，全是权衡利弊]]></summary>
-    </entry>
-        <entry>
-        <title>顺其自然的三个特征</title>
-        <id>152896</id>
-        <link href="https://www.dengxiaokang.com/1497/?utm_source=blogfinder" />
-        <published>2026-04-16T17:10:59+08:00</published>
-        <author>
-            <name>菜心言</name>
-            <uri>https://www.dengxiaokang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[顺其自然的三个特征]]></summary>
-    </entry>
-        <entry>
-        <title>你钱都没，理什么财</title>
-        <id>152897</id>
-        <link href="https://www.dengxiaokang.com/1495/?utm_source=blogfinder" />
-        <published>2026-04-16T17:10:06+08:00</published>
-        <author>
-            <name>菜心言</name>
-            <uri>https://www.dengxiaokang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[你钱都没，理什么财]]></summary>
-    </entry>
-        <entry>
-        <title>关于婚姻</title>
-        <id>152898</id>
-        <link href="https://www.dengxiaokang.com/1493/?utm_source=blogfinder" />
-        <published>2026-04-16T17:09:43+08:00</published>
-        <author>
-            <name>菜心言</name>
-            <uri>https://www.dengxiaokang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[关于婚姻]]></summary>
-    </entry>
-        <entry>
-        <title>关于上班</title>
-        <id>152899</id>
-        <link href="https://www.dengxiaokang.com/1491/?utm_source=blogfinder" />
-        <published>2026-04-16T17:09:30+08:00</published>
-        <author>
-            <name>菜心言</name>
-            <uri>https://www.dengxiaokang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[关于上班]]></summary>
-    </entry>
-        <entry>
-        <title>关于金钱</title>
-        <id>152900</id>
-        <link href="https://www.dengxiaokang.com/1489/?utm_source=blogfinder" />
-        <published>2026-04-16T17:09:02+08:00</published>
-        <author>
-            <name>菜心言</name>
-            <uri>https://www.dengxiaokang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[关于金钱]]></summary>
-    </entry>
-        <entry>
-        <title>为什么你会变得脆弱</title>
-        <id>152901</id>
-        <link href="https://www.dengxiaokang.com/1487/?utm_source=blogfinder" />
-        <published>2026-04-16T17:08:29+08:00</published>
-        <author>
-            <name>菜心言</name>
-            <uri>https://www.dengxiaokang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么你会变得脆弱]]></summary>
-    </entry>
-        <entry>
-        <title>为什么大多数人的兵力一辈子被锁死</title>
-        <id>152902</id>
-        <link href="https://www.dengxiaokang.com/1485/?utm_source=blogfinder" />
-        <published>2026-04-16T17:08:02+08:00</published>
-        <author>
-            <name>菜心言</name>
-            <uri>https://www.dengxiaokang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么大多数人的兵力一辈子被锁死]]></summary>
-    </entry>
-        <entry>
-        <title>双标？真是个多情种。</title>
-        <id>152903</id>
-        <link href="https://www.dengxiaokang.com/1483/?utm_source=blogfinder" />
-        <published>2026-04-16T17:07:29+08:00</published>
-        <author>
-            <name>菜心言</name>
-            <uri>https://www.dengxiaokang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[双标？真是个多情种。]]></summary>
     </entry>
     </feed>
