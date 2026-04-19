@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-19T23:01:04+08:00</updated>
+    <updated>2026-04-20T00:17:45+08:00</updated>
+        <entry>
+        <title>快速登记自己的作品版权合法保护自己的绘画等艺术作品</title>
+        <id>153114</id>
+        <link href="https://koxiuqiu.cn/posts/33p2604191/?utm_source=blogfinder" />
+        <published>2026-04-19T23:05:00+08:00</published>
+        <author>
+            <name>朽丘秋雨</name>
+            <uri>https://koxiuqiu.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[快速登记自己的作品版权合法保护自己的绘画等艺术作品]]></summary>
+    </entry>
         <entry>
         <title>开始尝试使用obsidian作为笔记软件</title>
         <id>153106</id>
@@ -46,6 +57,28 @@
         <summary type="text"><![CDATA[凶而不教]]></summary>
     </entry>
         <entry>
+        <title>周末流水账 0419</title>
+        <id>153113</id>
+        <link href="https://blog.solazy.me/20260419/?utm_source=blogfinder" />
+        <published>2026-04-19T19:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0419]]></summary>
+    </entry>
+        <entry>
+        <title>关于「林卷」页面的详细说明</title>
+        <id>153111</id>
+        <link href="https://www.geedea.pro/article/on-linkroll/?utm_source=blogfinder" />
+        <published>2026-04-19T17:11:06+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[关于「林卷」页面的详细说明]]></summary>
+    </entry>
+        <entry>
         <title>新款主题基本已经完成了</title>
         <id>153084</id>
         <link href="https://luolt.cn/archives/3140.html?utm_source=blogfinder" />
@@ -66,6 +99,17 @@
             <uri>https://blog.ops-coffee.com</uri>
         </author>
         <summary type="text"><![CDATA[那个集记账、基金、股票于一体的APP，IOS测试上线]]></summary>
+    </entry>
+        <entry>
+        <title>【与Mondo同行·第四季】6：心流</title>
+        <id>153110</id>
+        <link href="http://www.qncd.com/?p=12665&amp;utm_source=blogfinder" />
+        <published>2026-04-19T16:43:00+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【与Mondo同行·第四季】6：心流]]></summary>
     </entry>
         <entry>
         <title>别修什么身外法，先修这颗不欺的心</title>
@@ -495,6 +539,17 @@
             <uri>https://sliun.com</uri>
         </author>
         <summary type="text"><![CDATA[略论灵魂不死]]></summary>
+    </entry>
+        <entry>
+        <title>自部署个人使用的Asciinema服务端</title>
+        <id>153112</id>
+        <link href="https://blog.sky233.top/posts/c5d8bf3?utm_source=blogfinder" />
+        <published>2026-04-18T15:34:30+08:00</published>
+        <author>
+            <name>YaloisBlog</name>
+            <uri>https://blog.sky233.top</uri>
+        </author>
+        <summary type="text"><![CDATA[自部署个人使用的Asciinema服务端]]></summary>
     </entry>
         <entry>
         <title>旧事重提：大学生“AI+信息素养”大赛参赛微记</title>
@@ -1243,49 +1298,5 @@
             <uri>https://blog.0xd00.com</uri>
         </author>
         <summary type="text"><![CDATA[一次 Cloudflare Pages 上 Astro 博客文章 404 的排障实录]]></summary>
-    </entry>
-        <entry>
-        <title>傻屄不是傻逼</title>
-        <id>152986</id>
-        <link href="https://cyrusyip.org/zh-cn/posts/2026/04/17/chinese-language-corruption/?utm_source=blogfinder" />
-        <published>2026-04-17T00:00:00+08:00</published>
-        <author>
-            <name>叶寻的博客</name>
-            <uri>https://cyrusyip.org</uri>
-        </author>
-        <summary type="text"><![CDATA[傻屄不是傻逼]]></summary>
-    </entry>
-        <entry>
-        <title>终端程序的潜规则</title>
-        <id>152985</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/17/终端程序的潜规则/index.html?utm_source=blogfinder" />
-        <published>2026-04-17T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[终端程序的潜规则]]></summary>
-    </entry>
-        <entry>
-        <title>ANSI 转义码的标准化现状</title>
-        <id>152984</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/17/ansi-转义码的标准化现状/index.html?utm_source=blogfinder" />
-        <published>2026-04-17T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[ANSI 转义码的标准化现状]]></summary>
-    </entry>
-        <entry>
-        <title>20260416</title>
-        <id>152933</id>
-        <link href="https://61.life/2026/0416?utm_source=blogfinder" />
-        <published>2026-04-16T23:16:46+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260416]]></summary>
     </entry>
     </feed>
