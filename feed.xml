@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-19T19:04:42+08:00</updated>
+    <updated>2026-04-19T21:00:39+08:00</updated>
         <entry>
         <title>新款主题基本已经完成了</title>
         <id>153084</id>
@@ -22,6 +22,17 @@
             <uri>http://luolt.cn</uri>
         </author>
         <summary type="text"><![CDATA[新款主题基本已经完成了]]></summary>
+    </entry>
+        <entry>
+        <title>那个集记账、基金、股票于一体的APP，IOS测试上线</title>
+        <id>153104</id>
+        <link href="https://blog.ops-coffee.com/fire/financial-manager-app-update-and-ios-test-progress.html?utm_source=blogfinder" />
+        <published>2026-04-19T16:46:22+08:00</published>
+        <author>
+            <name>运维咖啡吧</name>
+            <uri>https://blog.ops-coffee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[那个集记账、基金、股票于一体的APP，IOS测试上线]]></summary>
     </entry>
         <entry>
         <title>别修什么身外法，先修这颗不欺的心</title>
@@ -1309,27 +1320,5 @@
             <uri>http://luolt.cn</uri>
         </author>
         <summary type="text"><![CDATA[换个皮肤新的开始，以前的已经厌倦了]]></summary>
-    </entry>
-        <entry>
-        <title>我是中本聪</title>
-        <id>152876</id>
-        <link href="https://d-d.design/single/18454?utm_source=blogfinder" />
-        <published>2026-04-16T19:58:01+08:00</published>
-        <author>
-            <name>孤斗</name>
-            <uri>https://d-d.design</uri>
-        </author>
-        <summary type="text"><![CDATA[我是中本聪]]></summary>
-    </entry>
-        <entry>
-        <title>青岛</title>
-        <id>152938</id>
-        <link href="https://shuiba.co/qingdao-family-trip?utm_source=blogfinder" />
-        <published>2026-04-16T19:24:00+08:00</published>
-        <author>
-            <name>水八口的冥想盆</name>
-            <uri>https://shuiba.co</uri>
-        </author>
-        <summary type="text"><![CDATA[青岛]]></summary>
     </entry>
     </feed>
