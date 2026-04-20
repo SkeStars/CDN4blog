@@ -11,7 +11,84 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-20T20:01:25+08:00</updated>
+    <updated>2026-04-20T23:00:41+08:00</updated>
+        <entry>
+        <title>Windows 下 Git error: fatal: refusing to work with credential missing host field - 排坑笔记 | 阿尔的代码屋</title>
+        <id>153183</id>
+        <link href="https://blog.algieba12.cn/record02-git-refusiing-to-work/?utm_source=blogfinder" />
+        <published>2026-04-20T22:08:20+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Windows 下 Git error: fatal: refusing to work with credential missing host field - 排坑笔记 | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
+        <title>隐说 NO.20  会拒绝的人活得久</title>
+        <id>153177</id>
+        <link href="https://wangyurui.com/posts/yin-shuo-no-20-hui-ju-jue-de-ren-huo-de-jiu-aeaae2e1?utm_source=blogfinder" />
+        <published>2026-04-20T22:03:36+08:00</published>
+        <author>
+            <name>太隐</name>
+            <uri>https://wangyurui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[隐说 NO.20  会拒绝的人活得久]]></summary>
+    </entry>
+        <entry>
+        <title>2026 年 2-3 月书影音总结</title>
+        <id>153180</id>
+        <link href="https://www.javis.me/2026-0203/?utm_source=blogfinder" />
+        <published>2026-04-20T21:35:00+08:00</published>
+        <author>
+            <name>查令十字街 84 号</name>
+            <uri>https://javis.me</uri>
+        </author>
+        <summary type="text"><![CDATA[2026 年 2-3 月书影音总结]]></summary>
+    </entry>
+        <entry>
+        <title>OCI运行时：容器创建流程</title>
+        <id>153182</id>
+        <link href="https://blog.deepchirp.com/2026/04/20/OCI-Runtime-Container-Creation-Flow/?utm_source=blogfinder" />
+        <published>2026-04-20T21:30:51+08:00</published>
+        <author>
+            <name>空鸣深语</name>
+            <uri>https://blog.deepchirp.com</uri>
+        </author>
+        <summary type="text"><![CDATA[OCI运行时：容器创建流程]]></summary>
+    </entry>
+        <entry>
+        <title>吃糖的女人与弃糖的孩子</title>
+        <id>153172</id>
+        <link href="https://www.pgoj.top/archives/jinyinanyanlianke.html?utm_source=blogfinder" />
+        <published>2026-04-20T20:18:44+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[吃糖的女人与弃糖的孩子]]></summary>
+    </entry>
+        <entry>
+        <title>快来！新网盘免费存满500TB慢慢看</title>
+        <id>153173</id>
+        <link href="https://me.xu19.com/500tb-cloud-storage/?utm_source=blogfinder" />
+        <published>2026-04-20T20:05:05+08:00</published>
+        <author>
+            <name>我是军爸</name>
+            <uri>https://me.xu19.com</uri>
+        </author>
+        <summary type="text"><![CDATA[快来！新网盘免费存满500TB慢慢看]]></summary>
+    </entry>
+        <entry>
+        <title>最后一年：明年的专升本考试（2）</title>
+        <id>153181</id>
+        <link href="https://blog.mcenahle.org.cn/2026/04/20/448.html?utm_source=blogfinder" />
+        <published>2026-04-20T19:20:35+08:00</published>
+        <author>
+            <name>梅之夏</name>
+            <uri>https://blog.mcenahle.org.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[最后一年：明年的专升本考试（2）]]></summary>
+    </entry>
         <entry>
         <title>GESP真题下载工具使用教程</title>
         <id>153167</id>
@@ -22,6 +99,28 @@
             <uri>https://www.wanghao.me</uri>
         </author>
         <summary type="text"><![CDATA[GESP真题下载工具使用教程]]></summary>
+    </entry>
+        <entry>
+        <title>熊猫小A: 话说这一次的博客更新，把博客变成了一个半静态的物种。</title>
+        <id>153175</id>
+        <link href="https://blog.imalan.cn/archives/memo-20260420-1806/?utm_source=blogfinder" />
+        <published>2026-04-20T17:45:17+08:00</published>
+        <author>
+            <name>失眠海峡</name>
+            <uri>https://blog.imalan.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[熊猫小A: 话说这一次的博客更新，把博客变成了一个半静态的物种。]]></summary>
+    </entry>
+        <entry>
+        <title>百品导航:轻量客制化导航首页</title>
+        <id>153178</id>
+        <link href="https://baipin.pw/projects/navi.html?utm_source=blogfinder" />
+        <published>2026-04-20T17:20:05+08:00</published>
+        <author>
+            <name>百品博客</name>
+            <uri>https://baipin.pw</uri>
+        </author>
+        <summary type="text"><![CDATA[百品导航:轻量客制化导航首页]]></summary>
     </entry>
         <entry>
         <title>会员制之下，我们的历史记忆也要付费解锁吗？</title>
@@ -35,6 +134,17 @@
         <summary type="text"><![CDATA[会员制之下，我们的历史记忆也要付费解锁吗？]]></summary>
     </entry>
         <entry>
+        <title>光鸭云盘领2TB空间</title>
+        <id>153174</id>
+        <link href="https://ygz.ink/archives/4645.html?utm_source=blogfinder" />
+        <published>2026-04-20T13:42:14+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[光鸭云盘领2TB空间]]></summary>
+    </entry>
+        <entry>
         <title>龙虾与微信聊天记录结合：群内容总结、整理和提取关键内容实在是太方便</title>
         <id>153162</id>
         <link href="https://blog.zhheo.com/p/2muck4bk.html?utm_source=blogfinder" />
@@ -46,6 +156,17 @@
         <summary type="text"><![CDATA[龙虾与微信聊天记录结合：群内容总结、整理和提取关键内容实在是太方便]]></summary>
     </entry>
         <entry>
+        <title>迁移</title>
+        <id>153170</id>
+        <link href="https://hjyl.org/migrate-migrate/?utm_source=blogfinder" />
+        <published>2026-04-20T12:29:30+08:00</published>
+        <author>
+            <name>皇家元林</name>
+            <uri>https://hjyl.org</uri>
+        </author>
+        <summary type="text"><![CDATA[迁移]]></summary>
+    </entry>
+        <entry>
         <title>1Panel：Umami v2升级v3记录</title>
         <id>153155</id>
         <link href="https://www.youdiandongxi.com/article/1panel-umami-v2-to-v3.html?utm_source=blogfinder" />
@@ -55,6 +176,17 @@
             <uri>https://www.youdiandongxi.com</uri>
         </author>
         <summary type="text"><![CDATA[1Panel：Umami v2升级v3记录]]></summary>
+    </entry>
+        <entry>
+        <title>广西三月三假期是如何打开的？</title>
+        <id>153179</id>
+        <link href="https://bluehe.cn/archives/guangxi-sanyuesan?utm_source=blogfinder" />
+        <published>2026-04-20T12:00:00+08:00</published>
+        <author>
+            <name>云心怀鹤</name>
+            <uri>https://bluehe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[广西三月三假期是如何打开的？]]></summary>
     </entry>
         <entry>
         <title>惬意，是最美的风景</title>
@@ -220,6 +352,28 @@
             <uri>https://chrison.cn</uri>
         </author>
         <summary type="text"><![CDATA[周日去上海约朋友吃饭]]></summary>
+    </entry>
+        <entry>
+        <title>长不大的孩子</title>
+        <id>153176</id>
+        <link href="https://innei.in/notes/212?utm_source=blogfinder" />
+        <published>2026-04-20T02:28:32+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[长不大的孩子]]></summary>
+    </entry>
+        <entry>
+        <title>路的尽头还是路</title>
+        <id>153171</id>
+        <link href="https://blog.grtsinry43.com/moments/2026/04/19/never-ending-ways?utm_source=blogfinder" />
+        <published>2026-04-19T23:35:46+08:00</published>
+        <author>
+            <name>Grtsinry43&#039;s Blog</name>
+            <uri>https://blog.grtsinry43.com</uri>
+        </author>
+        <summary type="text"><![CDATA[路的尽头还是路]]></summary>
     </entry>
         <entry>
         <title>回忆是往昔的延续......</title>
@@ -1364,60 +1518,5 @@
             <uri>https://61.life</uri>
         </author>
         <summary type="text"><![CDATA[20260417]]></summary>
-    </entry>
-        <entry>
-        <title>四月，院线电影看起来</title>
-        <id>153102</id>
-        <link href="https://blog.solazy.me/20260417/?utm_source=blogfinder" />
-        <published>2026-04-17T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[四月，院线电影看起来]]></summary>
-    </entry>
-        <entry>
-        <title>醇香小记·第十九期</title>
-        <id>152995</id>
-        <link href="https://blog.kfdzcoffee.cn/archives/mellownote19?utm_source=blogfinder" />
-        <published>2026-04-17T22:57:00+08:00</published>
-        <author>
-            <name>咖啡豆子 coffee 的小站</name>
-            <uri>https://blog.kfdzcoffee.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[醇香小记·第十九期]]></summary>
-    </entry>
-        <entry>
-        <title>数学老师不讲发现√2的意义</title>
-        <id>152974</id>
-        <link href="https://www.pgoj.top/archives/shuxuelaoshisxs.html?utm_source=blogfinder" />
-        <published>2026-04-17T20:48:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[数学老师不讲发现√2的意义]]></summary>
-    </entry>
-        <entry>
-        <title>小奶猫出生后的第10天</title>
-        <id>152979</id>
-        <link href="https://www.bufanz.com/20260417560.html?utm_source=blogfinder" />
-        <published>2026-04-17T20:27:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[小奶猫出生后的第10天]]></summary>
-    </entry>
-        <entry>
-        <title>Parallels Desktop 实时回收 Linux 虚拟机磁盘不生效问题</title>
-        <id>152976</id>
-        <link href="https://i.lckiss.com/?p=9752&amp;utm_source=blogfinder" />
-        <published>2026-04-17T20:16:05+08:00</published>
-        <author>
-            <name>伪斜杠青年</name>
-            <uri>https://i.lckiss.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Parallels Desktop 实时回收 Linux 虚拟机磁盘不生效问题]]></summary>
     </entry>
     </feed>
