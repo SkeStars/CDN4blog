@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-20T23:00:41+08:00</updated>
+    <updated>2026-04-21T00:17:35+08:00</updated>
+        <entry>
+        <title>折腾一年重回原点：轻量云这价格，我当初到底在倔强什么？</title>
+        <id>153186</id>
+        <link href="https://blog.learm.cn/archives/2026-04-20.html?utm_source=blogfinder" />
+        <published>2026-04-20T23:11:00+08:00</published>
+        <author>
+            <name>张键的博客</name>
+            <uri>https://blog.learm.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[折腾一年重回原点：轻量云这价格，我当初到底在倔强什么？]]></summary>
+    </entry>
         <entry>
         <title>Windows 下 Git error: fatal: refusing to work with credential missing host field - 排坑笔记 | 阿尔的代码屋</title>
         <id>153183</id>
@@ -79,6 +90,17 @@
         <summary type="text"><![CDATA[快来！新网盘免费存满500TB慢慢看]]></summary>
     </entry>
         <entry>
+        <title>Keycloak 配合下实现博客文章的受限访问</title>
+        <id>153185</id>
+        <link href="https://blog.uuanqin.top/p/9d81ea9f/?utm_source=blogfinder" />
+        <published>2026-04-20T19:38:56+08:00</published>
+        <author>
+            <name>半方池水半方田</name>
+            <uri>https://blog.uuanqin.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Keycloak 配合下实现博客文章的受限访问]]></summary>
+    </entry>
+        <entry>
         <title>最后一年：明年的专升本考试（2）</title>
         <id>153181</id>
         <link href="https://blog.mcenahle.org.cn/2026/04/20/448.html?utm_source=blogfinder" />
@@ -110,6 +132,17 @@
             <uri>https://blog.imalan.cn</uri>
         </author>
         <summary type="text"><![CDATA[熊猫小A: 话说这一次的博客更新，把博客变成了一个半静态的物种。]]></summary>
+    </entry>
+        <entry>
+        <title>Codex 多账号切换教程：用 CC-Switch 管理多个 ChatGPT Plus 账号，无需反复登录</title>
+        <id>153184</id>
+        <link href="https://www.wangdu.site/course/2340.html?utm_source=blogfinder" />
+        <published>2026-04-20T17:20:18+08:00</published>
+        <author>
+            <name>文武科技柜</name>
+            <uri>https://www.wangdu.site</uri>
+        </author>
+        <summary type="text"><![CDATA[Codex 多账号切换教程：用 CC-Switch 管理多个 ChatGPT Plus 账号，无需反复登录]]></summary>
     </entry>
         <entry>
         <title>百品导航:轻量客制化导航首页</title>
@@ -418,6 +451,17 @@
             <uri>https://blog.imalan.cn</uri>
         </author>
         <summary type="text"><![CDATA[一天内用 AI 将博客焕新]]></summary>
+    </entry>
+        <entry>
+        <title>自定义一个MCP</title>
+        <id>153187</id>
+        <link href="https://blog.share888.top/note/ai/ai/自定义一个MCP.html?utm_source=blogfinder" />
+        <published>2026-04-19T22:23:47+08:00</published>
+        <author>
+            <name>卡卡罗特</name>
+            <uri>https://blog.share888.top</uri>
+        </author>
+        <summary type="text"><![CDATA[自定义一个MCP]]></summary>
     </entry>
         <entry>
         <title>开始尝试使用obsidian作为笔记软件</title>
@@ -1419,104 +1463,5 @@
             <uri>https://anotherdayu.com</uri>
         </author>
         <summary type="text"><![CDATA[Cloud gaming: Shadow vs GeForce Now]]></summary>
-    </entry>
-        <entry>
-        <title>使用filebeat采集Nginx日志到ES</title>
-        <id>153056</id>
-        <link href="https://blog.liuzijian.com/post/2026/04/18/filebeat-collect-nginx-log-to-es/?utm_source=blogfinder" />
-        <published>2026-04-18T00:00:00+08:00</published>
-        <author>
-            <name>Liu Zijian&#039;s Blog</name>
-            <uri>https://blog.liuzijian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[使用filebeat采集Nginx日志到ES]]></summary>
-    </entry>
-        <entry>
-        <title>降低程序内存的五个原则</title>
-        <id>153052</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/18/降低程序内存的五个原则/index.html?utm_source=blogfinder" />
-        <published>2026-04-18T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[降低程序内存的五个原则]]></summary>
-    </entry>
-        <entry>
-        <title>用 .pdbrc 自定义 Python 调试器</title>
-        <id>153051</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/18/用-.pdbrc-自定义-python-调试器/index.html?utm_source=blogfinder" />
-        <published>2026-04-18T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[用 .pdbrc 自定义 Python 调试器]]></summary>
-    </entry>
-        <entry>
-        <title>为什么 Lisp 统治元编程</title>
-        <id>153050</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/18/为什么-lisp-统治元编程/index.html?utm_source=blogfinder" />
-        <published>2026-04-18T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么 Lisp 统治元编程]]></summary>
-    </entry>
-        <entry>
-        <title>TIL: 用 read-extended-command-predicate 精简 M-x 候选列表</title>
-        <id>153049</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/18/til-用-read-extended-command-predicate-精简-m-x-候选列表/index.html?utm_source=blogfinder" />
-        <published>2026-04-18T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL: 用 read-extended-command-predicate 精简 M-x 候选列表]]></summary>
-    </entry>
-        <entry>
-        <title>TIL: repeat-mode 省去重复按键前缀</title>
-        <id>153048</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/18/til-repeat-mode-省去重复按键前缀/index.html?utm_source=blogfinder" />
-        <published>2026-04-18T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL: repeat-mode 省去重复按键前缀]]></summary>
-    </entry>
-        <entry>
-        <title>感恩 2025</title>
-        <id>152996</id>
-        <link href="https://diff.im/blog/?p=1743&amp;utm_source=blogfinder" />
-        <published>2026-04-17T23:44:05+08:00</published>
-        <author>
-            <name>Diff 客旅日记</name>
-            <uri>https://www.diff.im/blog</uri>
-        </author>
-        <summary type="text"><![CDATA[感恩 2025]]></summary>
-    </entry>
-        <entry>
-        <title>耍博客，我一直用虚拟主机</title>
-        <id>152997</id>
-        <link href="http://etom.top/archives/so29.html?utm_source=blogfinder" />
-        <published>2026-04-17T23:27:00+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[耍博客，我一直用虚拟主机]]></summary>
-    </entry>
-        <entry>
-        <title>20260417</title>
-        <id>153016</id>
-        <link href="https://61.life/2026/0417?utm_source=blogfinder" />
-        <published>2026-04-17T23:07:56+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260417]]></summary>
     </entry>
     </feed>
