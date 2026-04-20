@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-20T11:00:27+08:00</updated>
+    <updated>2026-04-20T14:00:35+08:00</updated>
+        <entry>
+        <title>搞机日记：从RK3399到RK3576</title>
+        <id>153154</id>
+        <link href="https://knay.net/note/rk3576-rk3399-armbian-hermes-agent-tailscale?utm_source=blogfinder" />
+        <published>2026-04-20T10:25:49+08:00</published>
+        <author>
+            <name>Yang&#039;s Blog</name>
+            <uri>https://knay.net</uri>
+        </author>
+        <summary type="text"><![CDATA[搞机日记：从RK3399到RK3576]]></summary>
+    </entry>
+        <entry>
+        <title>不做扫兴的“妈妈”</title>
+        <id>153151</id>
+        <link href="https://mobius.blog/22854.html?utm_source=blogfinder" />
+        <published>2026-04-20T09:00:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[不做扫兴的“妈妈”]]></summary>
+    </entry>
         <entry>
         <title>美好的一天从被困电梯开始</title>
         <id>153150</id>
@@ -77,6 +99,17 @@
             <uri>https://ayayy.com</uri>
         </author>
         <summary type="text"><![CDATA[回忆是往昔的延续......]]></summary>
+    </entry>
+        <entry>
+        <title>Typecho用户注意：慎开Cloudflare的Crawler Hints功能</title>
+        <id>153152</id>
+        <link href="https://www.nekopara.uk/archives/Crawler_Hints_test.html?utm_source=blogfinder" />
+        <published>2026-04-19T23:13:35+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[Typecho用户注意：慎开Cloudflare的Crawler Hints功能]]></summary>
     </entry>
         <entry>
         <title>快速登记自己的作品版权合法保护自己的绘画等艺术作品</title>
@@ -319,6 +352,17 @@
             <uri>https://www.wangdu.site</uri>
         </author>
         <summary type="text"><![CDATA[平替 OneTab 的标签管理工具!节省高达 95% 的内存占用，缓解内存焦虑]]></summary>
+    </entry>
+        <entry>
+        <title>三月三</title>
+        <id>153153</id>
+        <link href="https://ilogs.cn/2026/04/19/377.html?utm_source=blogfinder" />
+        <published>2026-04-19T10:43:00+08:00</published>
+        <author>
+            <name>我的日志</name>
+            <uri>https://ilogs.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[三月三]]></summary>
     </entry>
         <entry>
         <title>【26年10-16周记】远足拉练、线生圆型反演变换、近期概况</title>
@@ -1342,49 +1386,5 @@
             <uri>https://wuminboke.site</uri>
         </author>
         <summary type="text"><![CDATA[DIY 维修数控电子防潮柜 更换制冷片记录]]></summary>
-    </entry>
-        <entry>
-        <title>Album#35 - The Gift</title>
-        <id>152948</id>
-        <link href="https://taxodium.ink/album-35.html?utm_source=blogfinder" />
-        <published>2026-04-17T12:30:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[Album#35 - The Gift]]></summary>
-    </entry>
-        <entry>
-        <title>帆布手提包（不良余额突破两亿元留念）</title>
-        <id>152944</id>
-        <link href="http://stuit.cn/Xiaolu/Post/1609.html?utm_source=blogfinder" />
-        <published>2026-04-17T12:28:22+08:00</published>
-        <author>
-            <name>风雨行者</name>
-            <uri>http://stuit.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[帆布手提包（不良余额突破两亿元留念）]]></summary>
-    </entry>
-        <entry>
-        <title>看见的和看不见的</title>
-        <id>152947</id>
-        <link href="https://airy.ink/daily/441?utm_source=blogfinder" />
-        <published>2026-04-17T12:15:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[看见的和看不见的]]></summary>
-    </entry>
-        <entry>
-        <title>Blog部署下云过程记录</title>
-        <id>152946</id>
-        <link href="https://www.youdiandongxi.com/article/blog-deploy-change-log.html?utm_source=blogfinder" />
-        <published>2026-04-17T11:45:04+08:00</published>
-        <author>
-            <name>有点东西</name>
-            <uri>https://www.youdiandongxi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Blog部署下云过程记录]]></summary>
     </entry>
     </feed>
