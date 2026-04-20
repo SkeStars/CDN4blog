@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-20T19:00:43+08:00</updated>
+    <updated>2026-04-20T20:01:25+08:00</updated>
         <entry>
         <title>GESP真题下载工具使用教程</title>
         <id>153167</id>
@@ -319,6 +319,17 @@
             <uri>https://www.oszz.cn</uri>
         </author>
         <summary type="text"><![CDATA[记录自己维修茶吧机]]></summary>
+    </entry>
+        <entry>
+        <title>华为畅享90ProMax使用体验</title>
+        <id>153168</id>
+        <link href="https://www.xrbk.cn/post/65.html?utm_source=blogfinder" />
+        <published>2026-04-19T19:59:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://www.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[华为畅享90ProMax使用体验]]></summary>
     </entry>
         <entry>
         <title>凶而不教</title>
@@ -1408,49 +1419,5 @@
             <uri>https://i.lckiss.com</uri>
         </author>
         <summary type="text"><![CDATA[Parallels Desktop 实时回收 Linux 虚拟机磁盘不生效问题]]></summary>
-    </entry>
-        <entry>
-        <title>总有些行业可以穿越周期</title>
-        <id>152977</id>
-        <link href="https://joojen.com/archives/8925.html?utm_source=blogfinder" />
-        <published>2026-04-17T19:35:21+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[总有些行业可以穿越周期]]></summary>
-    </entry>
-        <entry>
-        <title>如何提高生活的安全边际</title>
-        <id>152978</id>
-        <link href="https://joojen.com/archives/8922.html?utm_source=blogfinder" />
-        <published>2026-04-17T19:33:02+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[如何提高生活的安全边际]]></summary>
-    </entry>
-        <entry>
-        <title>Git 在国内网络环境下无法 Push 的排查与修复 —— 配置 Clash 代理</title>
-        <id>153022</id>
-        <link href="https://www.zywvvd.com/notes/tools/git/git-proxy-clash/git-proxy-clash/?utm_source=blogfinder" />
-        <published>2026-04-17T19:30:00+08:00</published>
-        <author>
-            <name>又见苍岚</name>
-            <uri>https://www.zywvvd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Git 在国内网络环境下无法 Push 的排查与修复 —— 配置 Clash 代理]]></summary>
-    </entry>
-        <entry>
-        <title>从零开始配置 VPS —— 主机名、用户组和远程权限安全实践</title>
-        <id>152973</id>
-        <link href="https://blog.samhou.moe/safe-vps/?utm_source=blogfinder" />
-        <published>2026-04-17T19:04:03+08:00</published>
-        <author>
-            <name>SamHou&#039;s Blog</name>
-            <uri>https://blog.samhou.moe</uri>
-        </author>
-        <summary type="text"><![CDATA[从零开始配置 VPS —— 主机名、用户组和远程权限安全实践]]></summary>
     </entry>
     </feed>
