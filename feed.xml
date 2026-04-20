@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-20T17:02:29+08:00</updated>
+    <updated>2026-04-20T19:00:43+08:00</updated>
+        <entry>
+        <title>GESP真题下载工具使用教程</title>
+        <id>153167</id>
+        <link href="https://www.wanghao.me/gespzhentixiazaigongjushiyongjiaocheng.html?utm_source=blogfinder" />
+        <published>2026-04-20T18:51:18+08:00</published>
+        <author>
+            <name>小王子</name>
+            <uri>https://www.wanghao.me</uri>
+        </author>
+        <summary type="text"><![CDATA[GESP真题下载工具使用教程]]></summary>
+    </entry>
+        <entry>
+        <title>会员制之下，我们的历史记忆也要付费解锁吗？</title>
+        <id>153165</id>
+        <link href="https://blog.yiyou.bj.cn/archives/hui-yuan-zhi-zhi-xia-wo-men-de-li-shi-ji-yi-ye-yao-fu-fei-jie-suo-ma?utm_source=blogfinder" />
+        <published>2026-04-20T17:10:51+08:00</published>
+        <author>
+            <name>益友网站</name>
+            <uri>https://blog.yiyou.bj.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[会员制之下，我们的历史记忆也要付费解锁吗？]]></summary>
+    </entry>
+        <entry>
+        <title>龙虾与微信聊天记录结合：群内容总结、整理和提取关键内容实在是太方便</title>
+        <id>153162</id>
+        <link href="https://blog.zhheo.com/p/2muck4bk.html?utm_source=blogfinder" />
+        <published>2026-04-20T12:47:22+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[龙虾与微信聊天记录结合：群内容总结、整理和提取关键内容实在是太方便]]></summary>
+    </entry>
         <entry>
         <title>1Panel：Umami v2升级v3记录</title>
         <id>153155</id>
@@ -22,6 +55,17 @@
             <uri>https://www.youdiandongxi.com</uri>
         </author>
         <summary type="text"><![CDATA[1Panel：Umami v2升级v3记录]]></summary>
+    </entry>
+        <entry>
+        <title>惬意，是最美的风景</title>
+        <id>153166</id>
+        <link href="https://yishu-life.com/index.php/archives/376.html?utm_source=blogfinder" />
+        <published>2026-04-20T10:36:33+08:00</published>
+        <author>
+            <name>树下语</name>
+            <uri>https://yishu-life.com</uri>
+        </author>
+        <summary type="text"><![CDATA[惬意，是最美的风景]]></summary>
     </entry>
         <entry>
         <title>搞机日记：从RK3399到RK3576</title>
@@ -46,6 +90,17 @@
         <summary type="text"><![CDATA[Phoenix监控平台技术解析（二十二）：代理端数据转发与命令执行器模式]]></summary>
     </entry>
         <entry>
+        <title>稻草人周刊 Vol.77</title>
+        <id>153163</id>
+        <link href="https://www.geedea.pro/weekly/77/?utm_source=blogfinder" />
+        <published>2026-04-20T09:58:46+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[稻草人周刊 Vol.77]]></summary>
+    </entry>
+        <entry>
         <title>typecho1.3.0关于编辑器页面自定义字段TAB切换失效解决方案</title>
         <id>153157</id>
         <link href="https://luolt.cn/archives/typecho1-3-0-TAB.html?utm_source=blogfinder" />
@@ -66,6 +121,17 @@
             <uri>http://luolt.cn</uri>
         </author>
         <summary type="text"><![CDATA[typecho1.3.0关于编辑器页面自定义字段样式错位解决方案]]></summary>
+    </entry>
+        <entry>
+        <title>【公告】游客评论已重新对外开放</title>
+        <id>153164</id>
+        <link href="https://blog.moeworld.tech/2026/04/20/%e3%80%90%e5%85%ac%e5%91%8a%e3%80%91%e6%b8%b8%e5%ae%a2%e8%af%84%e8%ae%ba%e5%b7%b2%e9%87%8d%e6%96%b0%e5%af%b9%e5%a4%96%e5%bc%80%e6%94%be/?utm_source=blogfinder" />
+        <published>2026-04-20T09:25:59+08:00</published>
+        <author>
+            <name>晓空 Blog</name>
+            <uri>https://blog.moeworld.tech</uri>
+        </author>
+        <summary type="text"><![CDATA[【公告】游客评论已重新对外开放]]></summary>
     </entry>
         <entry>
         <title>typecho1.3.0关于文章编辑器按钮显示不全解决方法</title>
@@ -1386,38 +1452,5 @@
             <uri>https://blog.samhou.moe</uri>
         </author>
         <summary type="text"><![CDATA[从零开始配置 VPS —— 主机名、用户组和远程权限安全实践]]></summary>
-    </entry>
-        <entry>
-        <title>快乐的死</title>
-        <id>152981</id>
-        <link href="https://www.geedea.pro/library/2026/la-mort-heureuse/?utm_source=blogfinder" />
-        <published>2026-04-17T18:42:09+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[快乐的死]]></summary>
-    </entry>
-        <entry>
-        <title>黑色车的高亮时刻</title>
-        <id>152983</id>
-        <link href="https://blog.tibtob.cn/archives/55/?utm_source=blogfinder" />
-        <published>2026-04-17T18:36:00+08:00</published>
-        <author>
-            <name>拾音博客</name>
-            <uri>https://blog.tibtob.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[黑色车的高亮时刻]]></summary>
-    </entry>
-        <entry>
-        <title>博客近况和话题</title>
-        <id>152972</id>
-        <link href="http://www.auiou.com/relevant/00002144.jsp?utm_source=blogfinder" />
-        <published>2026-04-17T18:36:00+08:00</published>
-        <author>
-            <name>王志勇的 Blog</name>
-            <uri>http://www.auiou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[博客近况和话题]]></summary>
     </entry>
     </feed>
