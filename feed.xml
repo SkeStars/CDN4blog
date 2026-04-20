@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-20T14:00:35+08:00</updated>
+    <updated>2026-04-20T17:02:29+08:00</updated>
+        <entry>
+        <title>1Panel：Umami v2升级v3记录</title>
+        <id>153155</id>
+        <link href="https://www.youdiandongxi.com/article/1panel-umami-v2-to-v3.html?utm_source=blogfinder" />
+        <published>2026-04-20T12:04:38+08:00</published>
+        <author>
+            <name>有点东西</name>
+            <uri>https://www.youdiandongxi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[1Panel：Umami v2升级v3记录]]></summary>
+    </entry>
         <entry>
         <title>搞机日记：从RK3399到RK3576</title>
         <id>153154</id>
@@ -22,6 +33,50 @@
             <uri>https://knay.net</uri>
         </author>
         <summary type="text"><![CDATA[搞机日记：从RK3399到RK3576]]></summary>
+    </entry>
+        <entry>
+        <title>Phoenix监控平台技术解析（二十二）：代理端数据转发与命令执行器模式</title>
+        <id>153160</id>
+        <link href="https://kacper.fun/blog/175?utm_source=blogfinder" />
+        <published>2026-04-20T10:16:13+08:00</published>
+        <author>
+            <name>知录</name>
+            <uri>https://kacper.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Phoenix监控平台技术解析（二十二）：代理端数据转发与命令执行器模式]]></summary>
+    </entry>
+        <entry>
+        <title>typecho1.3.0关于编辑器页面自定义字段TAB切换失效解决方案</title>
+        <id>153157</id>
+        <link href="https://luolt.cn/archives/typecho1-3-0-TAB.html?utm_source=blogfinder" />
+        <published>2026-04-20T09:32:00+08:00</published>
+        <author>
+            <name>洛丽糖</name>
+            <uri>http://luolt.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[typecho1.3.0关于编辑器页面自定义字段TAB切换失效解决方案]]></summary>
+    </entry>
+        <entry>
+        <title>typecho1.3.0关于编辑器页面自定义字段样式错位解决方案</title>
+        <id>153158</id>
+        <link href="https://luolt.cn/archives/typecho1-3-0-1.html?utm_source=blogfinder" />
+        <published>2026-04-20T09:27:00+08:00</published>
+        <author>
+            <name>洛丽糖</name>
+            <uri>http://luolt.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[typecho1.3.0关于编辑器页面自定义字段样式错位解决方案]]></summary>
+    </entry>
+        <entry>
+        <title>typecho1.3.0关于文章编辑器按钮显示不全解决方法</title>
+        <id>153159</id>
+        <link href="https://luolt.cn/archives/typecho1-3-0.html?utm_source=blogfinder" />
+        <published>2026-04-20T09:23:00+08:00</published>
+        <author>
+            <name>洛丽糖</name>
+            <uri>http://luolt.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[typecho1.3.0关于文章编辑器按钮显示不全解决方法]]></summary>
     </entry>
         <entry>
         <title>不做扫兴的“妈妈”</title>
@@ -66,6 +121,17 @@
             <uri>https://immarcus.com</uri>
         </author>
         <summary type="text"><![CDATA[尽量避免切换任务]]></summary>
+    </entry>
+        <entry>
+        <title>告别 kubectl 黑框，开源一个基于 Wails 打造 K8S 多集群管理工具</title>
+        <id>153156</id>
+        <link href="https://wiki.eryajf.net/pages/f91541/?utm_source=blogfinder" />
+        <published>2026-04-20T07:58:30+08:00</published>
+        <author>
+            <name>二丫讲梵</name>
+            <uri>https://wiki.eryajf.net</uri>
+        </author>
+        <summary type="text"><![CDATA[告别 kubectl 黑框，开源一个基于 Wails 打造 K8S 多集群管理工具]]></summary>
     </entry>
         <entry>
         <title>明星经济和创业思维</title>
@@ -253,6 +319,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【与Mondo同行·第四季】6：心流]]></summary>
+    </entry>
+        <entry>
+        <title>Vol.99 AI智能体基础设施全面升级与模型能力边界扩张的行业新动态</title>
+        <id>153161</id>
+        <link href="https://liduos.com/weekly/the-weekly-gradient-99?utm_source=blogfinder" />
+        <published>2026-04-19T16:00:00+08:00</published>
+        <author>
+            <name>莫尔索</name>
+            <uri>https://liduos.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Vol.99 AI智能体基础设施全面升级与模型能力边界扩张的行业新动态]]></summary>
     </entry>
         <entry>
         <title>别修什么身外法，先修这颗不欺的心</title>
@@ -1342,49 +1419,5 @@
             <uri>http://www.auiou.com</uri>
         </author>
         <summary type="text"><![CDATA[博客近况和话题]]></summary>
-    </entry>
-        <entry>
-        <title>片刻・Jdeal 发布了一条新动态~</title>
-        <id>153017</id>
-        <link href="https://www.jdeal.cn/cross.html#5229?utm_source=blogfinder" />
-        <published>2026-04-17T16:32:35+08:00</published>
-        <author>
-            <name>Jdeal</name>
-            <uri>https://www.jdeal.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[片刻・Jdeal 发布了一条新动态~]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1652】许知远《创造一个自己的时间》</title>
-        <id>152980</id>
-        <link href="http://www.qncd.com/?p=12655&amp;utm_source=blogfinder" />
-        <published>2026-04-17T16:30:36+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1652】许知远《创造一个自己的时间》]]></summary>
-    </entry>
-        <entry>
-        <title>不知名原因导致本站最近很卡</title>
-        <id>153045</id>
-        <link href="https://luolt.cn/archives/3137.html?utm_source=blogfinder" />
-        <published>2026-04-17T15:03:54+08:00</published>
-        <author>
-            <name>洛丽糖</name>
-            <uri>http://luolt.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[不知名原因导致本站最近很卡]]></summary>
-    </entry>
-        <entry>
-        <title>DIY 维修数控电子防潮柜 更换制冷片记录</title>
-        <id>152970</id>
-        <link href="https://wuminboke.site/uncategorized/diy-fix-a-malfunctioned-electronic-dry-cabinet/?utm_source=blogfinder" />
-        <published>2026-04-17T14:47:20+08:00</published>
-        <author>
-            <name>无名博客</name>
-            <uri>https://wuminboke.site</uri>
-        </author>
-        <summary type="text"><![CDATA[DIY 维修数控电子防潮柜 更换制冷片记录]]></summary>
     </entry>
     </feed>
