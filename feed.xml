@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-21T16:05:00+08:00</updated>
+    <updated>2026-04-21T17:11:16+08:00</updated>
+        <entry>
+        <title>异环预下载已经开启了，有要一起冲的吗？</title>
+        <id>153385</id>
+        <link href="https://luolt.cn/archives/3144.html?utm_source=blogfinder" />
+        <published>2026-04-21T16:53:36+08:00</published>
+        <author>
+            <name>洛丽糖</name>
+            <uri>http://luolt.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[异环预下载已经开启了，有要一起冲的吗？]]></summary>
+    </entry>
         <entry>
         <title>Lesson 17 引力波的功率 (2)</title>
         <id>153384</id>
@@ -35,6 +46,17 @@
         <summary type="text"><![CDATA[有多少小站仍在“裸奔”？]]></summary>
     </entry>
         <entry>
+        <title>今年就是台灣部落格元年！</title>
+        <id>153387</id>
+        <link href="https://blog.giveanornot.com/first-year-of-indie-blogs-in-taiwan/?utm_source=blogfinder" />
+        <published>2026-04-21T13:07:00+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[今年就是台灣部落格元年！]]></summary>
+    </entry>
+        <entry>
         <title>事件驱动的状态机框架：从理论到工程实践</title>
         <id>153381</id>
         <link href="https://www.zywvvd.com/notes/coding/design-pattern/event-driven-state-machine/event-driven-state-machine/?utm_source=blogfinder" />
@@ -55,6 +77,17 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[精神喵]]></summary>
+    </entry>
+        <entry>
+        <title>从0开始做 oneman, 搭建 FOSSBilling + 切 LXC 小鸡教程</title>
+        <id>153386</id>
+        <link href="https://blog.yeqing.net/FOSSBilling-oneman/?utm_source=blogfinder" />
+        <published>2026-04-21T12:06:38+08:00</published>
+        <author>
+            <name>夜轻 Blog</name>
+            <uri>https://blog.yeqing.net</uri>
+        </author>
+        <summary type="text"><![CDATA[从0开始做 oneman, 搭建 FOSSBilling + 切 LXC 小鸡教程]]></summary>
     </entry>
         <entry>
         <title>杂记 - 招财</title>
@@ -1518,49 +1551,5 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[【不凡摄影作品 | 2026.4.18】]]></summary>
-    </entry>
-        <entry>
-        <title>油水不流外人田</title>
-        <id>153041</id>
-        <link href="http://etom.top/archives/so32.html?utm_source=blogfinder" />
-        <published>2026-04-18T17:10:00+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[油水不流外人田]]></summary>
-    </entry>
-        <entry>
-        <title>2026-W16：博斯、新职场与认知审计</title>
-        <id>153100</id>
-        <link href="https://www.gaotianchi.com/2026-w16-bosch-new-career-and-cognitive-audit/?utm_source=blogfinder" />
-        <published>2026-04-18T16:56:02+08:00</published>
-        <author>
-            <name>高天驰</name>
-            <uri>https://www.gaotianchi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-W16：博斯、新职场与认知审计]]></summary>
-    </entry>
-        <entry>
-        <title>今天中午停电了，不得不用柴火灶。</title>
-        <id>153043</id>
-        <link href="https://luolt.cn/archives/3139.html?utm_source=blogfinder" />
-        <published>2026-04-18T16:49:34+08:00</published>
-        <author>
-            <name>洛丽糖</name>
-            <uri>http://luolt.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[今天中午停电了，不得不用柴火灶。]]></summary>
-    </entry>
-        <entry>
-        <title>维生素补剂坑年轻人？一口气揭秘维生素真相！</title>
-        <id>153071</id>
-        <link href="https://www.zhyok.cn/index.php/archives/320/?utm_source=blogfinder" />
-        <published>2026-04-18T16:35:00+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[维生素补剂坑年轻人？一口气揭秘维生素真相！]]></summary>
     </entry>
     </feed>
