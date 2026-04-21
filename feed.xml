@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-21T11:00:47+08:00</updated>
+    <updated>2026-04-21T14:00:37+08:00</updated>
+        <entry>
+        <title>有多少小站仍在“裸奔”？</title>
+        <id>153378</id>
+        <link href="http://etom.top/archives/so38.html?utm_source=blogfinder" />
+        <published>2026-04-21T13:24:43+08:00</published>
+        <author>
+            <name>浮生事</name>
+            <uri>http://etom.top</uri>
+        </author>
+        <summary type="text"><![CDATA[有多少小站仍在“裸奔”？]]></summary>
+    </entry>
+        <entry>
+        <title>精神喵</title>
+        <id>153379</id>
+        <link href="http://etom.top/archives/so36.html?utm_source=blogfinder" />
+        <published>2026-04-21T12:16:00+08:00</published>
+        <author>
+            <name>浮生事</name>
+            <uri>http://etom.top</uri>
+        </author>
+        <summary type="text"><![CDATA[精神喵]]></summary>
+    </entry>
+        <entry>
+        <title>杂记 - 招财</title>
+        <id>153377</id>
+        <link href="https://knay.net/note/untitled-20260421?utm_source=blogfinder" />
+        <published>2026-04-21T11:11:02+08:00</published>
+        <author>
+            <name>Yang&#039;s Blog</name>
+            <uri>https://knay.net</uri>
+        </author>
+        <summary type="text"><![CDATA[杂记 - 招财]]></summary>
+    </entry>
+        <entry>
+        <title>丑人为什么多作怪？</title>
+        <id>153372</id>
+        <link href="https://mobius.blog/22914.html?utm_source=blogfinder" />
+        <published>2026-04-21T09:00:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[丑人为什么多作怪？]]></summary>
+    </entry>
         <entry>
         <title>2026.4.20</title>
         <id>153357</id>
@@ -233,6 +277,17 @@
         <summary type="text"><![CDATA[百品导航:轻量客制化导航首页]]></summary>
     </entry>
         <entry>
+        <title>橘子洲、武功山两日游</title>
+        <id>153373</id>
+        <link href="https://zhoutian.com/365.html?utm_source=blogfinder" />
+        <published>2026-04-20T17:19:00+08:00</published>
+        <author>
+            <name>周天记</name>
+            <uri>https://zhoutian.com</uri>
+        </author>
+        <summary type="text"><![CDATA[橘子洲、武功山两日游]]></summary>
+    </entry>
+        <entry>
         <title>会员制之下，我们的历史记忆也要付费解锁吗？</title>
         <id>153165</id>
         <link href="https://blog.yiyou.bj.cn/archives/hui-yuan-zhi-zhi-xia-wo-men-de-li-shi-ji-yi-ye-yao-fu-fei-jie-suo-ma?utm_source=blogfinder" />
@@ -242,6 +297,17 @@
             <uri>https://blog.yiyou.bj.cn</uri>
         </author>
         <summary type="text"><![CDATA[会员制之下，我们的历史记忆也要付费解锁吗？]]></summary>
+    </entry>
+        <entry>
+        <title>张家界</title>
+        <id>153376</id>
+        <link href="https://ltmltm.cn/bk/1445.html?utm_source=blogfinder" />
+        <published>2026-04-20T14:31:00+08:00</published>
+        <author>
+            <name>因为很想念</name>
+            <uri>https://ltmltm.cn/bk</uri>
+        </author>
+        <summary type="text"><![CDATA[张家界]]></summary>
     </entry>
         <entry>
         <title>光鸭云盘领2TB空间</title>
@@ -297,6 +363,17 @@
             <uri>https://www.youdiandongxi.com</uri>
         </author>
         <summary type="text"><![CDATA[1Panel：Umami v2升级v3记录]]></summary>
+    </entry>
+        <entry>
+        <title>44，谷雨</title>
+        <id>153374</id>
+        <link href="http://www.lopwon.com/4107.html?utm_source=blogfinder" />
+        <published>2026-04-20T12:00:00+08:00</published>
+        <author>
+            <name>立云图志</name>
+            <uri>http://www.lopwon.com</uri>
+        </author>
+        <summary type="text"><![CDATA[44，谷雨]]></summary>
     </entry>
         <entry>
         <title>广西三月三假期是如何打开的？</title>
@@ -572,6 +649,17 @@
             <uri>https://veryatao.com</uri>
         </author>
         <summary type="text"><![CDATA[2026 年：0 门槛办理香港银行卡开户流程]]></summary>
+    </entry>
+        <entry>
+        <title>心事浩茫连广宇：酒泉访学，兼记嘉峪关</title>
+        <id>153375</id>
+        <link href="http://kangaroogao.com/posts/c975/?utm_source=blogfinder" />
+        <published>2026-04-20T00:00:00+08:00</published>
+        <author>
+            <name>三峡星河</name>
+            <uri>https://kangaroogao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[心事浩茫连广宇：酒泉访学，兼记嘉峪关]]></summary>
     </entry>
         <entry>
         <title>Python Mock 第三方依赖的四种策略</title>
@@ -1474,60 +1562,5 @@
             <uri>https://veryatao.com</uri>
         </author>
         <summary type="text"><![CDATA[普通人必看：OpenClaw与Hermes，两款通用AI Agent该怎么选？]]></summary>
-    </entry>
-        <entry>
-        <title>你有多久没看邮箱了？</title>
-        <id>153021</id>
-        <link href="http://etom.top/archives/so30.html?utm_source=blogfinder" />
-        <published>2026-04-18T13:58:50+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[你有多久没看邮箱了？]]></summary>
-    </entry>
-        <entry>
-        <title>隨機文章 &amp; 網站新配色！</title>
-        <id>153024</id>
-        <link href="https://blog.giveanornot.com/random-and-new-color-palette/?utm_source=blogfinder" />
-        <published>2026-04-18T13:36:50+08:00</published>
-        <author>
-            <name>資工小廢物  - JN</name>
-            <uri>https://blog.giveanornot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[隨機文章 &amp; 網站新配色！]]></summary>
-    </entry>
-        <entry>
-        <title>千亿身价雷总，一早连续直播 15 小时，劳模人设焊死</title>
-        <id>153019</id>
-        <link href="https://www.aiwazi.com/3066.html?utm_source=blogfinder" />
-        <published>2026-04-18T13:35:45+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[千亿身价雷总，一早连续直播 15 小时，劳模人设焊死]]></summary>
-    </entry>
-        <entry>
-        <title>楼下の繁花似锦（20260418）</title>
-        <id>153029</id>
-        <link href="http://stuit.cn/Xiaolu/Post/1611.html?utm_source=blogfinder" />
-        <published>2026-04-18T13:29:20+08:00</published>
-        <author>
-            <name>风雨行者</name>
-            <uri>http://stuit.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[楼下の繁花似锦（20260418）]]></summary>
-    </entry>
-        <entry>
-        <title>从面壁到字节</title>
-        <id>153031</id>
-        <link href="https://shiyu.dev/article/320?utm_source=blogfinder" />
-        <published>2026-04-18T12:44:12+08:00</published>
-        <author>
-            <name>时雨</name>
-            <uri>https://shiyu.dev</uri>
-        </author>
-        <summary type="text"><![CDATA[从面壁到字节]]></summary>
     </entry>
     </feed>
