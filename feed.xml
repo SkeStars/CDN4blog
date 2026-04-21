@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-21T17:11:16+08:00</updated>
+    <updated>2026-04-21T19:00:34+08:00</updated>
+        <entry>
+        <title>AMOS (Atomic Stealer) 恶意软件深度分析</title>
+        <id>153393</id>
+        <link href="https://min168.top/ai/AMOS-Atomic-Stealer%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90.html?utm_source=blogfinder" />
+        <published>2026-04-21T18:00:00+08:00</published>
+        <author>
+            <name>卷卷</name>
+            <uri>https://min168.top</uri>
+        </author>
+        <summary type="text"><![CDATA[AMOS (Atomic Stealer) 恶意软件深度分析]]></summary>
+    </entry>
+        <entry>
+        <title>北方行，要出发了</title>
+        <id>153394</id>
+        <link href="https://yishu-life.com/index.php/archives/385.html?utm_source=blogfinder" />
+        <published>2026-04-21T17:42:54+08:00</published>
+        <author>
+            <name>树下语</name>
+            <uri>https://yishu-life.com</uri>
+        </author>
+        <summary type="text"><![CDATA[北方行，要出发了]]></summary>
+    </entry>
         <entry>
         <title>异环预下载已经开启了，有要一起冲的吗？</title>
         <id>153385</id>
@@ -24,6 +46,17 @@
         <summary type="text"><![CDATA[异环预下载已经开启了，有要一起冲的吗？]]></summary>
     </entry>
         <entry>
+        <title>ChatGPT Image-2 上手：杀死比赛！设计师这下子真的可以解放双手了</title>
+        <id>153388</id>
+        <link href="https://blog.zhheo.com/p/qysi5xhu.html?utm_source=blogfinder" />
+        <published>2026-04-21T16:18:59+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[ChatGPT Image-2 上手：杀死比赛！设计师这下子真的可以解放双手了]]></summary>
+    </entry>
+        <entry>
         <title>Lesson 17 引力波的功率 (2)</title>
         <id>153384</id>
         <link href="https://physnya.top/GR/lesson-17-power-of-gravitational-waves-2/?utm_source=blogfinder" />
@@ -33,6 +66,17 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 17 引力波的功率 (2)]]></summary>
+    </entry>
+        <entry>
+        <title>自尊与创作的负担</title>
+        <id>153391</id>
+        <link href="https://blog.solazy.me/20260421/?utm_source=blogfinder" />
+        <published>2026-04-21T14:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[自尊与创作的负担]]></summary>
     </entry>
         <entry>
         <title>有多少小站仍在“裸奔”？</title>
@@ -112,6 +156,17 @@
         <summary type="text"><![CDATA[化作一只飞鸟]]></summary>
     </entry>
         <entry>
+        <title>整洁架构之道</title>
+        <id>153390</id>
+        <link href="https://www.geedea.pro/library/2026/clean-architecture/?utm_source=blogfinder" />
+        <published>2026-04-21T10:43:27+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[整洁架构之道]]></summary>
+    </entry>
+        <entry>
         <title>丑人为什么多作怪？</title>
         <id>153372</id>
         <link href="https://mobius.blog/22914.html?utm_source=blogfinder" />
@@ -143,6 +198,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1654】梁羽生《梁羽生散文：生花妙笔侠影留》]]></summary>
+    </entry>
+        <entry>
+        <title>海底光缆的维修其实很容易</title>
+        <id>153389</id>
+        <link href="https://lawtee.com/article/fiber/?utm_source=blogfinder" />
+        <published>2026-04-21T08:11:43+08:00</published>
+        <author>
+            <name>老 T 博客</name>
+            <uri>https://lawtee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[海底光缆的维修其实很容易]]></summary>
     </entry>
         <entry>
         <title>重审人的独特价值</title>
@@ -187,6 +253,17 @@
             <uri>https://blog.learm.cn</uri>
         </author>
         <summary type="text"><![CDATA[折腾一年重回原点：轻量云这价格，我当初到底在倔强什么？]]></summary>
+    </entry>
+        <entry>
+        <title>那个拄着拐报到的新同事</title>
+        <id>153392</id>
+        <link href="https://blog.solazy.me/20260420/?utm_source=blogfinder" />
+        <published>2026-04-20T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[那个拄着拐报到的新同事]]></summary>
     </entry>
         <entry>
         <title>Windows 下 Git error: fatal: refusing to work with credential missing host field - 排坑笔记 | 阿尔的代码屋</title>
@@ -1507,49 +1584,5 @@
             <uri>https://zhujay.com</uri>
         </author>
         <summary type="text"><![CDATA[第二周结束]]></summary>
-    </entry>
-        <entry>
-        <title>Album#36 - Quicksand</title>
-        <id>153098</id>
-        <link href="https://taxodium.ink/album-36.html?utm_source=blogfinder" />
-        <published>2026-04-18T19:00:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[Album#36 - Quicksand]]></summary>
-    </entry>
-        <entry>
-        <title>把健康提高到前所未有的高度</title>
-        <id>153026</id>
-        <link href="https://joojen.com/archives/8927.html?utm_source=blogfinder" />
-        <published>2026-04-18T18:58:32+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[把健康提高到前所未有的高度]]></summary>
-    </entry>
-        <entry>
-        <title>[incudal] 美国凤凰城 SATA SSD 小杯鸡</title>
-        <id>153046</id>
-        <link href="https://blog.yeqing.net/incudal-Phoenix-Sata-SSD/?utm_source=blogfinder" />
-        <published>2026-04-18T18:44:33+08:00</published>
-        <author>
-            <name>夜轻 Blog</name>
-            <uri>https://blog.yeqing.net</uri>
-        </author>
-        <summary type="text"><![CDATA[[incudal] 美国凤凰城 SATA SSD 小杯鸡]]></summary>
-    </entry>
-        <entry>
-        <title>【不凡摄影作品 | 2026.4.18】</title>
-        <id>153039</id>
-        <link href="https://www.bufanz.com/20260418561.html?utm_source=blogfinder" />
-        <published>2026-04-18T18:20:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【不凡摄影作品 | 2026.4.18】]]></summary>
     </entry>
     </feed>
