@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-21T14:00:37+08:00</updated>
+    <updated>2026-04-21T16:05:00+08:00</updated>
+        <entry>
+        <title>Lesson 17 引力波的功率 (2)</title>
+        <id>153384</id>
+        <link href="https://physnya.top/GR/lesson-17-power-of-gravitational-waves-2/?utm_source=blogfinder" />
+        <published>2026-04-21T15:07:45+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 17 引力波的功率 (2)]]></summary>
+    </entry>
         <entry>
         <title>有多少小站仍在“裸奔”？</title>
         <id>153378</id>
@@ -22,6 +33,17 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[有多少小站仍在“裸奔”？]]></summary>
+    </entry>
+        <entry>
+        <title>事件驱动的状态机框架：从理论到工程实践</title>
+        <id>153381</id>
+        <link href="https://www.zywvvd.com/notes/coding/design-pattern/event-driven-state-machine/event-driven-state-machine/?utm_source=blogfinder" />
+        <published>2026-04-21T12:20:00+08:00</published>
+        <author>
+            <name>又见苍岚</name>
+            <uri>https://www.zywvvd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[事件驱动的状态机框架：从理论到工程实践]]></summary>
     </entry>
         <entry>
         <title>精神喵</title>
@@ -44,6 +66,17 @@
             <uri>https://knay.net</uri>
         </author>
         <summary type="text"><![CDATA[杂记 - 招财]]></summary>
+    </entry>
+        <entry>
+        <title>化作一只飞鸟</title>
+        <id>153382</id>
+        <link href="https://limaomao810.com/archives/968?utm_source=blogfinder" />
+        <published>2026-04-21T10:45:40+08:00</published>
+        <author>
+            <name>李毛毛</name>
+            <uri>https://limaomao810.com</uri>
+        </author>
+        <summary type="text"><![CDATA[化作一只飞鸟]]></summary>
     </entry>
         <entry>
         <title>丑人为什么多作怪？</title>
@@ -222,6 +255,17 @@
         <summary type="text"><![CDATA[Keycloak 配合下实现博客文章的受限访问]]></summary>
     </entry>
         <entry>
+        <title>甄仁岛还是荒掉了</title>
+        <id>153383</id>
+        <link href="https://kaix.in/2026/0420/?utm_source=blogfinder" />
+        <published>2026-04-20T19:25:15+08:00</published>
+        <author>
+            <name>KAIX.IN</name>
+            <uri>https://kaix.in</uri>
+        </author>
+        <summary type="text"><![CDATA[甄仁岛还是荒掉了]]></summary>
+    </entry>
+        <entry>
         <title>最后一年：明年的专升本考试（2）</title>
         <id>153181</id>
         <link href="https://blog.mcenahle.org.cn/2026/04/20/448.html?utm_source=blogfinder" />
@@ -297,6 +341,17 @@
             <uri>https://blog.yiyou.bj.cn</uri>
         </author>
         <summary type="text"><![CDATA[会员制之下，我们的历史记忆也要付费解锁吗？]]></summary>
+    </entry>
+        <entry>
+        <title>与其等着被人蒸，不如先蒸自己</title>
+        <id>153380</id>
+        <link href="https://ourai.ws/posts/distill-my-persona-for-ai-agent/?utm_source=blogfinder" />
+        <published>2026-04-20T16:04:59+08:00</published>
+        <author>
+            <name>欧雷流</name>
+            <uri>https://ourai.ws</uri>
+        </author>
+        <summary type="text"><![CDATA[与其等着被人蒸，不如先蒸自己]]></summary>
     </entry>
         <entry>
         <title>张家界</title>
@@ -1507,60 +1562,5 @@
             <uri>https://www.zhyok.cn</uri>
         </author>
         <summary type="text"><![CDATA[维生素补剂坑年轻人？一口气揭秘维生素真相！]]></summary>
-    </entry>
-        <entry>
-        <title>军爸消费降级进行时③｜原厂4G充电桩竟然这么便宜？</title>
-        <id>153023</id>
-        <link href="https://me.xu19.com/ev-charging-station/?utm_source=blogfinder" />
-        <published>2026-04-18T15:46:35+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[军爸消费降级进行时③｜原厂4G充电桩竟然这么便宜？]]></summary>
-    </entry>
-        <entry>
-        <title>略论灵魂不死</title>
-        <id>153025</id>
-        <link href="https://sliun.com/onlinghun/?utm_source=blogfinder" />
-        <published>2026-04-18T15:40:00+08:00</published>
-        <author>
-            <name>理论派</name>
-            <uri>https://sliun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[略论灵魂不死]]></summary>
-    </entry>
-        <entry>
-        <title>自部署个人使用的Asciinema服务端</title>
-        <id>153112</id>
-        <link href="https://blog.sky233.top/posts/c5d8bf3?utm_source=blogfinder" />
-        <published>2026-04-18T15:34:30+08:00</published>
-        <author>
-            <name>YaloisBlog</name>
-            <uri>https://blog.sky233.top</uri>
-        </author>
-        <summary type="text"><![CDATA[自部署个人使用的Asciinema服务端]]></summary>
-    </entry>
-        <entry>
-        <title>旧事重提：大学生“AI+信息素养”大赛参赛微记</title>
-        <id>153036</id>
-        <link href="https://www.xiaozonglin.cn/a-micro-journal-of-my-participation-in-the-university-student-ai-information-literacy-competition/?utm_source=blogfinder" />
-        <published>2026-04-18T15:06:25+08:00</published>
-        <author>
-            <name>林林杂语</name>
-            <uri>https://www.xiaozonglin.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[旧事重提：大学生“AI+信息素养”大赛参赛微记]]></summary>
-    </entry>
-        <entry>
-        <title>普通人必看：OpenClaw与Hermes，两款通用AI Agent该怎么选？</title>
-        <id>153354</id>
-        <link href="https://veryatao.com/technique/openclaw-vs-herme-ai-agent/?utm_source=blogfinder" />
-        <published>2026-04-18T14:29:11+08:00</published>
-        <author>
-            <name>Atao&#039;s Space</name>
-            <uri>https://veryatao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[普通人必看：OpenClaw与Hermes，两款通用AI Agent该怎么选？]]></summary>
     </entry>
     </feed>
