@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-22T22:00:35+08:00</updated>
+    <updated>2026-04-22T23:01:01+08:00</updated>
         <entry>
         <title>AI工具近况成果</title>
         <id>153484</id>
@@ -1474,38 +1474,5 @@
             <uri>https://koxiuqiu.cn</uri>
         </author>
         <summary type="text"><![CDATA[快速登记自己的作品版权合法保护自己的绘画等艺术作品]]></summary>
-    </entry>
-        <entry>
-        <title>一天内用 AI 将博客焕新</title>
-        <id>153116</id>
-        <link href="https://blog.imalan.cn/archives/refresh-blog-with-ai-in-one-day/?utm_source=blogfinder" />
-        <published>2026-04-19T22:44:18+08:00</published>
-        <author>
-            <name>失眠海峡</name>
-            <uri>https://blog.imalan.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[一天内用 AI 将博客焕新]]></summary>
-    </entry>
-        <entry>
-        <title>自定义一个MCP</title>
-        <id>153187</id>
-        <link href="https://blog.share888.top/note/ai/ai/自定义一个MCP.html?utm_source=blogfinder" />
-        <published>2026-04-19T22:23:47+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[自定义一个MCP]]></summary>
-    </entry>
-        <entry>
-        <title>开始尝试使用obsidian作为笔记软件</title>
-        <id>153106</id>
-        <link href="https://nicksxs.me/2026/04/19/%E5%BC%80%E5%A7%8B%E5%B0%9D%E8%AF%95%E4%BD%BF%E7%94%A8obsidian%E4%BD%9C%E4%B8%BA%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6/?utm_source=blogfinder" />
-        <published>2026-04-19T22:04:00+08:00</published>
-        <author>
-            <name>Nicksxs&#039;s Blog</name>
-            <uri>https://nicksxs.me</uri>
-        </author>
-        <summary type="text"><![CDATA[开始尝试使用obsidian作为笔记软件]]></summary>
     </entry>
     </feed>
