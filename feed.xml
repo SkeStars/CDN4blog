@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-22T16:00:43+08:00</updated>
+    <updated>2026-04-22T18:00:35+08:00</updated>
+        <entry>
+        <title>新功能添加:首页友链、画廊...【建站笔记】</title>
+        <id>153482</id>
+        <link href="https://blog.lichenghao.cn/article/yrzkfrzykhpu?utm_source=blogfinder" />
+        <published>2026-04-22T17:54:18+08:00</published>
+        <author>
+            <name>故事的程序猿</name>
+            <uri>https://blog.lichenghao.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[新功能添加:首页友链、画廊...【建站笔记】]]></summary>
+    </entry>
+        <entry>
+        <title>有惊无险：京东账号所有数据“丢失”怎么办</title>
+        <id>153476</id>
+        <link href="https://lklog.cn/chat/1406.html?utm_source=blogfinder" />
+        <published>2026-04-22T15:26:29+08:00</published>
+        <author>
+            <name>龙鲲博客</name>
+            <uri>https://lklog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[有惊无险：京东账号所有数据“丢失”怎么办]]></summary>
+    </entry>
+        <entry>
+        <title>自动将任意大文件分割并转换成单独Markdown文件</title>
+        <id>153477</id>
+        <link href="https://lklog.cn/course/1405.html?utm_source=blogfinder" />
+        <published>2026-04-22T14:46:58+08:00</published>
+        <author>
+            <name>龙鲲博客</name>
+            <uri>https://lklog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[自动将任意大文件分割并转换成单独Markdown文件]]></summary>
+    </entry>
+        <entry>
+        <title>Phoenix监控平台技术解析（二十三）：服务端数据接收架构——Controller层设计</title>
+        <id>153478</id>
+        <link href="https://kacper.fun/blog/176?utm_source=blogfinder" />
+        <published>2026-04-22T13:46:39+08:00</published>
+        <author>
+            <name>知录</name>
+            <uri>https://kacper.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Phoenix监控平台技术解析（二十三）：服务端数据接收架构——Controller层设计]]></summary>
+    </entry>
         <entry>
         <title>孤独感</title>
         <id>153461</id>
@@ -79,6 +123,17 @@
         <summary type="text"><![CDATA[狐蒂云如何？]]></summary>
     </entry>
         <entry>
+        <title>说话是你的权利，拉黑是我的自由</title>
+        <id>153479</id>
+        <link href="https://www.pgoj.top/archives/shuashipinlahei.html?utm_source=blogfinder" />
+        <published>2026-04-22T10:14:47+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[说话是你的权利，拉黑是我的自由]]></summary>
+    </entry>
+        <entry>
         <title>每一株向上的麦苗，都在奔赴一场丰收的约定</title>
         <id>153456</id>
         <link href="https://www.oszz.cn/post/13?utm_source=blogfinder" />
@@ -99,6 +154,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[善意是最昂贵的人性皮试]]></summary>
+    </entry>
+        <entry>
+        <title>早餐开启新的一天</title>
+        <id>153481</id>
+        <link href="https://zhujay.com/talking/?id=1223&amp;utm_source=blogfinder" />
+        <published>2026-04-22T08:54:58+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[早餐开启新的一天]]></summary>
     </entry>
         <entry>
         <title>软件架构与成功之母</title>
@@ -143,6 +209,17 @@
             <uri>http://www.auiou.com</uri>
         </author>
         <summary type="text"><![CDATA[明星经济和创业思维(2)]]></summary>
+    </entry>
+        <entry>
+        <title>熊猫小A: 还是劳动人民办法多。操蛋的公寓书房冷凝水排不出去是用桶接的，昨天水满了忘倒漫了一...</title>
+        <id>153480</id>
+        <link href="https://blog.imalan.cn/archives/memo-20260422-0044/?utm_source=blogfinder" />
+        <published>2026-04-22T00:41:11+08:00</published>
+        <author>
+            <name>失眠海峡</name>
+            <uri>https://blog.imalan.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[熊猫小A: 还是劳动人民办法多。操蛋的公寓书房冷凝水排不出去是用桶接的，昨天水满了忘倒漫了一...]]></summary>
     </entry>
         <entry>
         <title>我把每天的键盘输入，变成了一张热力图</title>
@@ -1474,49 +1551,5 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[周末流水账 0419]]></summary>
-    </entry>
-        <entry>
-        <title>关于「林卷」页面的详细说明</title>
-        <id>153111</id>
-        <link href="https://www.geedea.pro/article/on-linkroll/?utm_source=blogfinder" />
-        <published>2026-04-19T17:11:06+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[关于「林卷」页面的详细说明]]></summary>
-    </entry>
-        <entry>
-        <title>新款主题基本已经完成了</title>
-        <id>153084</id>
-        <link href="https://luolt.cn/archives/3140.html?utm_source=blogfinder" />
-        <published>2026-04-19T16:51:16+08:00</published>
-        <author>
-            <name>洛丽糖</name>
-            <uri>http://luolt.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[新款主题基本已经完成了]]></summary>
-    </entry>
-        <entry>
-        <title>那个集记账、基金、股票于一体的APP，IOS测试上线</title>
-        <id>153104</id>
-        <link href="https://blog.ops-coffee.com/fire/financial-manager-app-update-and-ios-test-progress.html?utm_source=blogfinder" />
-        <published>2026-04-19T16:46:22+08:00</published>
-        <author>
-            <name>运维咖啡吧</name>
-            <uri>https://blog.ops-coffee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[那个集记账、基金、股票于一体的APP，IOS测试上线]]></summary>
-    </entry>
-        <entry>
-        <title>【与Mondo同行·第四季】6：心流</title>
-        <id>153110</id>
-        <link href="http://www.qncd.com/?p=12665&amp;utm_source=blogfinder" />
-        <published>2026-04-19T16:43:00+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【与Mondo同行·第四季】6：心流]]></summary>
     </entry>
     </feed>
