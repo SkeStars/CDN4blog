@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-22T14:00:24+08:00</updated>
+    <updated>2026-04-22T16:00:43+08:00</updated>
         <entry>
         <title>孤独感</title>
         <id>153461</id>
@@ -231,6 +231,17 @@
             <uri>http://luolt.cn</uri>
         </author>
         <summary type="text"><![CDATA[真服了！网购的皮蛋全是坏的，这也太坑了！]]></summary>
+    </entry>
+        <entry>
+        <title>谷雨时节，说说人活一世最稳妥的笨功夫</title>
+        <id>153475</id>
+        <link href="https://lhdrc.com/452.html?utm_source=blogfinder" />
+        <published>2026-04-21T19:59:38+08:00</published>
+        <author>
+            <name>人间半闲</name>
+            <uri>https://lhdrc.com</uri>
+        </author>
+        <summary type="text"><![CDATA[谷雨时节，说说人活一世最稳妥的笨功夫]]></summary>
     </entry>
         <entry>
         <title>孩子打架事件处理结果</title>
@@ -882,6 +893,17 @@
         <summary type="text"><![CDATA[与其等着被人蒸，不如先蒸自己]]></summary>
     </entry>
         <entry>
+        <title>看小学生辩论人工智能</title>
+        <id>153465</id>
+        <link href="https://blog.veitzn.top/%e7%9c%8b%e5%b0%8f%e5%ad%a6%e7%94%9f%e8%be%a9%e8%ae%ba%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd/?utm_source=blogfinder" />
+        <published>2026-04-20T15:53:37+08:00</published>
+        <author>
+            <name>Veitzn 的小屋</name>
+            <uri>https://blog.veitzn.top</uri>
+        </author>
+        <summary type="text"><![CDATA[看小学生辩论人工智能]]></summary>
+    </entry>
+        <entry>
         <title>张家界</title>
         <id>153376</id>
         <link href="https://ltmltm.cn/bk/1445.html?utm_source=blogfinder" />
@@ -1496,71 +1518,5 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【与Mondo同行·第四季】6：心流]]></summary>
-    </entry>
-        <entry>
-        <title>Vol.99 AI智能体基础设施全面升级与模型能力边界扩张的行业新动态</title>
-        <id>153161</id>
-        <link href="https://liduos.com/weekly/the-weekly-gradient-99?utm_source=blogfinder" />
-        <published>2026-04-19T16:00:00+08:00</published>
-        <author>
-            <name>莫尔索</name>
-            <uri>https://liduos.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Vol.99 AI智能体基础设施全面升级与模型能力边界扩张的行业新动态]]></summary>
-    </entry>
-        <entry>
-        <title>别修什么身外法，先修这颗不欺的心</title>
-        <id>153099</id>
-        <link href="https://lhdrc.com/439.html?utm_source=blogfinder" />
-        <published>2026-04-19T15:55:27+08:00</published>
-        <author>
-            <name>人间半闲</name>
-            <uri>https://lhdrc.com</uri>
-        </author>
-        <summary type="text"><![CDATA[别修什么身外法，先修这颗不欺的心]]></summary>
-    </entry>
-        <entry>
-        <title>春深时节的林荫道（20260412）</title>
-        <id>153105</id>
-        <link href="http://stuit.cn/Xiaolu/Post/1612.html?utm_source=blogfinder" />
-        <published>2026-04-19T15:55:26+08:00</published>
-        <author>
-            <name>风雨行者</name>
-            <uri>http://stuit.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[春深时节的林荫道（20260412）]]></summary>
-    </entry>
-        <entry>
-        <title>铲除小广告</title>
-        <id>153109</id>
-        <link href="http://etom.top/archives/so33.html?utm_source=blogfinder" />
-        <published>2026-04-19T15:30:00+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[铲除小广告]]></summary>
-    </entry>
-        <entry>
-        <title>日常#13 - I Am Here 深圳 Live</title>
-        <id>153097</id>
-        <link href="https://taxodium.ink/nichijou-13.html?utm_source=blogfinder" />
-        <published>2026-04-19T15:20:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[日常#13 - I Am Here 深圳 Live]]></summary>
-    </entry>
-        <entry>
-        <title>再见啦！我短命的期刊</title>
-        <id>153083</id>
-        <link href="https://www.suiyan.cc/blog/20260419141845?utm_source=blogfinder" />
-        <published>2026-04-19T14:18:45+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[再见啦！我短命的期刊]]></summary>
     </entry>
     </feed>
