@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-23T22:00:39+08:00</updated>
+    <updated>2026-04-24T00:02:50+08:00</updated>
+        <entry>
+        <title>Lesson 9 Birth (I)</title>
+        <id>153780</id>
+        <link href="https://physnya.top/star-planet/lesson-9-birth-i/?utm_source=blogfinder" />
+        <published>2026-04-23T21:57:38+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 9 Birth (I)]]></summary>
+    </entry>
+        <entry>
+        <title>兼爱的死结</title>
+        <id>153778</id>
+        <link href="https://wangyurui.com/posts/jian-ai-de-si-jie-ae300885?utm_source=blogfinder" />
+        <published>2026-04-23T21:45:28+08:00</published>
+        <author>
+            <name>太隐</name>
+            <uri>https://wangyurui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[兼爱的死结]]></summary>
+    </entry>
         <entry>
         <title>我为什么要写作？</title>
         <id>153775</id>
@@ -55,6 +77,17 @@
             <uri>https://ihaihe.cn</uri>
         </author>
         <summary type="text"><![CDATA[高烧]]></summary>
+    </entry>
+        <entry>
+        <title>Phoenix监控平台技术解析（二十四）：CompletableFuture 异步编排提速 10 倍 +</title>
+        <id>153779</id>
+        <link href="https://kacper.fun/blog/177?utm_source=blogfinder" />
+        <published>2026-04-23T17:34:02+08:00</published>
+        <author>
+            <name>知录</name>
+            <uri>https://kacper.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Phoenix监控平台技术解析（二十四）：CompletableFuture 异步编排提速 10 倍 +]]></summary>
     </entry>
         <entry>
         <title>吃细糠</title>
@@ -222,6 +255,17 @@
         <summary type="text"><![CDATA[工程师如何把多个 Coding Agent 真正带起来：一套比“开更多聊天窗口”更像工程流程的方法]]></summary>
     </entry>
         <entry>
+        <title>虚惊一场</title>
+        <id>153781</id>
+        <link href="https://dujun.io/4a67621e-989a-5db6-a33b-a340ffe2a85b.html?utm_source=blogfinder" />
+        <published>2026-04-23T00:45:31+08:00</published>
+        <author>
+            <name>杜郎俊赏</name>
+            <uri>https://dujun.io</uri>
+        </author>
+        <summary type="text"><![CDATA[虚惊一场]]></summary>
+    </entry>
+        <entry>
         <title>猫员外 佳世涛 氮气黑啤 – Justout Nitro Stout Richkat</title>
         <id>153759</id>
         <link href="https://7gugu.com/index.php/2026/04/23/%e7%8c%ab%e5%91%98%e5%a4%96-%e4%bd%b3%e4%b8%96%e6%b6%9b-%e6%b0%ae%e6%b0%94%e9%bb%91%e5%95%a4/?utm_source=blogfinder" />
@@ -253,6 +297,17 @@
             <uri>https://www.lujun9972.win</uri>
         </author>
         <summary type="text"><![CDATA[Elisp 性能优化的六个实战教训]]></summary>
+    </entry>
+        <entry>
+        <title>「离开的理由」 vs 「留下的意义」</title>
+        <id>153782</id>
+        <link href="https://blog.solazy.me/20260422/?utm_source=blogfinder" />
+        <published>2026-04-22T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[「离开的理由」 vs 「留下的意义」]]></summary>
     </entry>
         <entry>
         <title>虽败犹荣|校排球比赛</title>
@@ -1177,93 +1232,5 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 16 引力波的功率]]></summary>
-    </entry>
-        <entry>
-        <title>Lisp 的括号之痛——一个愚人节玩笑揭开的老伤疤</title>
-        <id>153406</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/21/lisp-的括号之痛——一个愚人节玩笑揭开的老伤疤/index.html?utm_source=blogfinder" />
-        <published>2026-04-21T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[Lisp 的括号之痛——一个愚人节玩笑揭开的老伤疤]]></summary>
-    </entry>
-        <entry>
-        <title>读 What to learn</title>
-        <id>153405</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/21/读-what-to-learn/index.html?utm_source=blogfinder" />
-        <published>2026-04-21T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读 What to learn]]></summary>
-    </entry>
-        <entry>
-        <title>读：ASCII control characters in my terminal</title>
-        <id>153404</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/21/读：ascii-control-characters-in-my-terminal/index.html?utm_source=blogfinder" />
-        <published>2026-04-21T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：ASCII control characters in my terminal]]></summary>
-    </entry>
-        <entry>
-        <title>用 Emacs 自动生成每周链接推荐</title>
-        <id>153403</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/21/用-emacs-自动生成每周链接推荐/index.html?utm_source=blogfinder" />
-        <published>2026-04-21T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[用 Emacs 自动生成每周链接推荐]]></summary>
-    </entry>
-        <entry>
-        <title>折腾一年重回原点：轻量云这价格，我当初到底在倔强什么？</title>
-        <id>153186</id>
-        <link href="https://blog.learm.cn/archives/2026-04-20.html?utm_source=blogfinder" />
-        <published>2026-04-20T23:11:00+08:00</published>
-        <author>
-            <name>张键的博客</name>
-            <uri>https://blog.learm.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[折腾一年重回原点：轻量云这价格，我当初到底在倔强什么？]]></summary>
-    </entry>
-        <entry>
-        <title>那个拄着拐报到的新同事</title>
-        <id>153392</id>
-        <link href="https://blog.solazy.me/20260420/?utm_source=blogfinder" />
-        <published>2026-04-20T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[那个拄着拐报到的新同事]]></summary>
-    </entry>
-        <entry>
-        <title>Windows 下 Git error: fatal: refusing to work with credential missing host field - 排坑笔记 | 阿尔的代码屋</title>
-        <id>153183</id>
-        <link href="https://blog.algieba12.cn/record02-git-refusiing-to-work/?utm_source=blogfinder" />
-        <published>2026-04-20T22:08:20+08:00</published>
-        <author>
-            <name>阿尔的代码屋</name>
-            <uri>https://blog.algieba12.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Windows 下 Git error: fatal: refusing to work with credential missing host field - 排坑笔记 | 阿尔的代码屋]]></summary>
-    </entry>
-        <entry>
-        <title>隐说 NO.20  会拒绝的人活得久</title>
-        <id>153177</id>
-        <link href="https://wangyurui.com/posts/yin-shuo-no-20-hui-ju-jue-de-ren-huo-de-jiu-aeaae2e1?utm_source=blogfinder" />
-        <published>2026-04-20T22:03:36+08:00</published>
-        <author>
-            <name>太隐</name>
-            <uri>https://wangyurui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[隐说 NO.20  会拒绝的人活得久]]></summary>
     </entry>
     </feed>
