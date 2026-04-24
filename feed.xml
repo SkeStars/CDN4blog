@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-24T14:00:37+08:00</updated>
+    <updated>2026-04-24T16:00:24+08:00</updated>
+        <entry>
+        <title>&quot;我走了&quot;</title>
+        <id>153818</id>
+        <link href="https://airy.ink/times/443?utm_source=blogfinder" />
+        <published>2026-04-24T15:30:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[&quot;我走了&quot;]]></summary>
+    </entry>
         <entry>
         <title>工具人</title>
         <id>153814</id>
@@ -24,6 +35,17 @@
         <summary type="text"><![CDATA[工具人]]></summary>
     </entry>
         <entry>
+        <title>Phoenix监控平台技术解析（二十五）：吃透这一套心跳架构，搞定分布式服务存活监控难题</title>
+        <id>153816</id>
+        <link href="https://kacper.fun/blog/178?utm_source=blogfinder" />
+        <published>2026-04-24T13:52:32+08:00</published>
+        <author>
+            <name>知录</name>
+            <uri>https://kacper.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Phoenix监控平台技术解析（二十五）：吃透这一套心跳架构，搞定分布式服务存活监控难题]]></summary>
+    </entry>
+        <entry>
         <title>担心</title>
         <id>153815</id>
         <link href="https://ltmltm.cn/bk/1449.html?utm_source=blogfinder" />
@@ -33,6 +55,17 @@
             <uri>https://ltmltm.cn/bk</uri>
         </author>
         <summary type="text"><![CDATA[担心]]></summary>
+    </entry>
+        <entry>
+        <title>旅程结束的几个“夯”时刻</title>
+        <id>153817</id>
+        <link href="https://limaomao810.com/archives/978?utm_source=blogfinder" />
+        <published>2026-04-24T11:22:35+08:00</published>
+        <author>
+            <name>李毛毛</name>
+            <uri>https://limaomao810.com</uri>
+        </author>
+        <summary type="text"><![CDATA[旅程结束的几个“夯”时刻]]></summary>
     </entry>
         <entry>
         <title>因为恐惧被关系伤害，所以选择独自面对</title>
@@ -1155,60 +1188,5 @@
             <uri>https://blog.zhheo.com</uri>
         </author>
         <summary type="text"><![CDATA[ChatGPT Image-2 上手：杀死比赛！设计师这下子真的可以解放双手了]]></summary>
-    </entry>
-        <entry>
-        <title>2026年夏天厄尔尼诺来袭：全国多地将迎极端天气考验！</title>
-        <id>153451</id>
-        <link href="https://www.zhyok.cn/index.php/archives/323/?utm_source=blogfinder" />
-        <published>2026-04-21T15:40:00+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[2026年夏天厄尔尼诺来袭：全国多地将迎极端天气考验！]]></summary>
-    </entry>
-        <entry>
-        <title>防火墙直连与旁挂部署差异</title>
-        <id>153463</id>
-        <link href="https://www.x8xx.cn/1112.html?utm_source=blogfinder" />
-        <published>2026-04-21T15:38:27+08:00</published>
-        <author>
-            <name>树洞笔记</name>
-            <uri>https://www.x8xx.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[防火墙直连与旁挂部署差异]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 17 引力波的功率 (2)</title>
-        <id>153384</id>
-        <link href="https://physnya.top/GR/lesson-17-power-of-gravitational-waves-2/?utm_source=blogfinder" />
-        <published>2026-04-21T15:07:45+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 17 引力波的功率 (2)]]></summary>
-    </entry>
-        <entry>
-        <title>高邮摩旅</title>
-        <id>153408</id>
-        <link href="https://www.lindongfang.top/archives/2646/?utm_source=blogfinder" />
-        <published>2026-04-21T14:56:58+08:00</published>
-        <author>
-            <name>游子微博</name>
-            <uri>https://www.lindongfang.top</uri>
-        </author>
-        <summary type="text"><![CDATA[高邮摩旅]]></summary>
-    </entry>
-        <entry>
-        <title>想念</title>
-        <id>153462</id>
-        <link href="https://ltmltm.cn/bk/1446.html?utm_source=blogfinder" />
-        <published>2026-04-21T14:07:00+08:00</published>
-        <author>
-            <name>因为很想念</name>
-            <uri>https://ltmltm.cn/bk</uri>
-        </author>
-        <summary type="text"><![CDATA[想念]]></summary>
     </entry>
     </feed>
