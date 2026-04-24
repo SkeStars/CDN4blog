@@ -11,7 +11,73 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-24T00:02:50+08:00</updated>
+    <updated>2026-04-24T11:00:26+08:00</updated>
+        <entry>
+        <title>美国邓丽君</title>
+        <id>153806</id>
+        <link href="https://www.immarcus.com/blog/karen-carpenter?utm_source=blogfinder" />
+        <published>2026-04-24T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[美国邓丽君]]></summary>
+    </entry>
+        <entry>
+        <title>《墨子》读后记</title>
+        <id>153805</id>
+        <link href="https://fuxes.cn/readings/墨子?utm_source=blogfinder" />
+        <published>2026-04-24T08:00:00+08:00</published>
+        <author>
+            <name>浮生闲话</name>
+            <uri>https://fuxes.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[《墨子》读后记]]></summary>
+    </entry>
+        <entry>
+        <title>从内容到结构：一种低成本的博客脉络演化思路</title>
+        <id>153807</id>
+        <link href="http://blog.tangwudi.com/technology/cognition14191/?utm_source=blogfinder" />
+        <published>2026-04-24T07:52:51+08:00</published>
+        <author>
+            <name>无敌的个人博客</name>
+            <uri>https://blog.tangwudi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[从内容到结构：一种低成本的博客脉络演化思路]]></summary>
+    </entry>
+        <entry>
+        <title>西方哲学史讲演录之古希腊哲学篇的一些思考</title>
+        <id>153811</id>
+        <link href="https://www.suiyan.cc/blog/20260423211752?utm_source=blogfinder" />
+        <published>2026-04-24T05:17:52+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[西方哲学史讲演录之古希腊哲学篇的一些思考]]></summary>
+    </entry>
+        <entry>
+        <title>我怀念的</title>
+        <id>153810</id>
+        <link href="https://ayayy.com/201.html?utm_source=blogfinder" />
+        <published>2026-04-24T04:25:00+08:00</published>
+        <author>
+            <name>哎呀哎呀呀</name>
+            <uri>https://ayayy.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我怀念的]]></summary>
+    </entry>
+        <entry>
+        <title>PHP 利用ImageMagick实现多页PDF转一张图片</title>
+        <id>153801</id>
+        <link href="https://www.krjojo.com/12860.html?utm_source=blogfinder" />
+        <published>2026-04-24T00:00:34+08:00</published>
+        <author>
+            <name>手里有只毛毛虫</name>
+            <uri>https://www.krjojo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[PHP 利用ImageMagick实现多页PDF转一张图片]]></summary>
+    </entry>
         <entry>
         <title>Lesson 9 Birth (I)</title>
         <id>153780</id>
@@ -33,6 +99,17 @@
             <uri>https://wangyurui.com</uri>
         </author>
         <summary type="text"><![CDATA[兼爱的死结]]></summary>
+    </entry>
+        <entry>
+        <title>《四月小叙，以及香椿叶炒鸡蛋》</title>
+        <id>153808</id>
+        <link href="https://www.weiwenchao.com/2518.html?utm_source=blogfinder" />
+        <published>2026-04-23T21:11:00+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《四月小叙，以及香椿叶炒鸡蛋》]]></summary>
     </entry>
         <entry>
         <title>我为什么要写作？</title>
@@ -88,6 +165,17 @@
             <uri>https://kacper.fun</uri>
         </author>
         <summary type="text"><![CDATA[Phoenix监控平台技术解析（二十四）：CompletableFuture 异步编排提速 10 倍 +]]></summary>
+    </entry>
+        <entry>
+        <title>批量重命名工具 Double12 Renamer</title>
+        <id>153809</id>
+        <link href="https://www.zhyok.cn/index.php/archives/326/?utm_source=blogfinder" />
+        <published>2026-04-23T15:22:00+08:00</published>
+        <author>
+            <name>秋記 Autumn</name>
+            <uri>https://www.zhyok.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[批量重命名工具 Double12 Renamer]]></summary>
     </entry>
         <entry>
         <title>吃细糠</title>
@@ -189,6 +277,17 @@
         <summary type="text"><![CDATA[【读书记1656】许知远《人生的定义性时刻》]]></summary>
     </entry>
         <entry>
+        <title>普通人也可以用上 inBox 笔记的 API 了～</title>
+        <id>153804</id>
+        <link href="https://blog.gudong.site/2026/04/23/%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%A8inbox%E7%AC%94%E8%AE%B0api.html?utm_source=blogfinder" />
+        <published>2026-04-23T08:00:00+08:00</published>
+        <author>
+            <name>咕咚同学</name>
+            <uri>https://blog.gudong.site</uri>
+        </author>
+        <summary type="text"><![CDATA[普通人也可以用上 inBox 笔记的 API 了～]]></summary>
+    </entry>
+        <entry>
         <title>静音耳机</title>
         <id>153735</id>
         <link href="https://www.immarcus.com/blog/silent-headphones?utm_source=blogfinder" />
@@ -209,6 +308,17 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[我是一个勇敢且热烈的人]]></summary>
+    </entry>
+        <entry>
+        <title>OiiOii AI 使用体验</title>
+        <id>153803</id>
+        <link href="https://blog.windsky.top/posts/1978ppqg?utm_source=blogfinder" />
+        <published>2026-04-23T07:14:42+08:00</published>
+        <author>
+            <name>WindskyBLOG</name>
+            <uri>https://blog.windsky.top</uri>
+        </author>
+        <summary type="text"><![CDATA[OiiOii AI 使用体验]]></summary>
     </entry>
         <entry>
         <title>戴智能手表手环被低温灼伤</title>
@@ -275,6 +385,94 @@
             <uri>https://7gugu.com</uri>
         </author>
         <summary type="text"><![CDATA[猫员外 佳世涛 氮气黑啤 – Justout Nitro Stout Richkat]]></summary>
+    </entry>
+        <entry>
+        <title>Clojure X-Men：当编程语言特性变成超能力</title>
+        <id>153790</id>
+        <link href="https://lujun9972.github.io/blog/2026/04/23/clojure-x-men：当编程语言特性变成超能力/index.html?utm_source=blogfinder" />
+        <published>2026-04-23T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[Clojure X-Men：当编程语言特性变成超能力]]></summary>
+    </entry>
+        <entry>
+        <title>TIL: AI 时代的橡皮鸭调试</title>
+        <id>153789</id>
+        <link href="https://lujun9972.github.io/blog/2026/04/23/til-ai-时代的橡皮鸭调试/index.html?utm_source=blogfinder" />
+        <published>2026-04-23T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[TIL: AI 时代的橡皮鸭调试]]></summary>
+    </entry>
+        <entry>
+        <title>读：llm-test —— 用 LLM agent 驱动 Emacs 测试</title>
+        <id>153788</id>
+        <link href="https://lujun9972.github.io/blog/2026/04/23/读：llm-test-——-用-llm-agent-驱动-emacs-测试/index.html?utm_source=blogfinder" />
+        <published>2026-04-23T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[读：llm-test —— 用 LLM agent 驱动 Emacs 测试]]></summary>
+    </entry>
+        <entry>
+        <title>用 org-habit 追踪非每日习惯</title>
+        <id>153787</id>
+        <link href="https://lujun9972.github.io/blog/2026/04/23/用-org-habit-追踪非每日习惯/index.html?utm_source=blogfinder" />
+        <published>2026-04-23T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[用 org-habit 追踪非每日习惯]]></summary>
+    </entry>
+        <entry>
+        <title>用 dmsg 给 Elisp 加上结构化调试日志</title>
+        <id>153786</id>
+        <link href="https://lujun9972.github.io/blog/2026/04/23/用-dmsg-给-elisp-加上结构化调试日志/index.html?utm_source=blogfinder" />
+        <published>2026-04-23T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[用 dmsg 给 Elisp 加上结构化调试日志]]></summary>
+    </entry>
+        <entry>
+        <title>TIL: 用 diff-hl 在 fringe 中显示 git 变更</title>
+        <id>153785</id>
+        <link href="https://lujun9972.github.io/blog/2026/04/23/til-用-diff-hl-在-fringe-中显示-git-变更/index.html?utm_source=blogfinder" />
+        <published>2026-04-23T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[TIL: 用 diff-hl 在 fringe 中显示 git 变更]]></summary>
+    </entry>
+        <entry>
+        <title>SEM Assistant: 当 Elisp 守护进程遇上 LLM</title>
+        <id>153784</id>
+        <link href="https://lujun9972.github.io/blog/2026/04/23/sem-assistant-当-elisp-守护进程遇上-llm/index.html?utm_source=blogfinder" />
+        <published>2026-04-23T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[SEM Assistant: 当 Elisp 守护进程遇上 LLM]]></summary>
+    </entry>
+        <entry>
+        <title>ERT 测试交互命令的三种方式</title>
+        <id>153783</id>
+        <link href="https://lujun9972.github.io/blog/2026/04/23/ert-测试交互命令的三种方式/index.html?utm_source=blogfinder" />
+        <published>2026-04-23T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[ERT 测试交互命令的三种方式]]></summary>
     </entry>
         <entry>
         <title>fcitx5 下 Emacs 无法切换输入法的排查</title>
@@ -1067,170 +1265,5 @@
             <uri>https://knay.net</uri>
         </author>
         <summary type="text"><![CDATA[杂记 - 招财]]></summary>
-    </entry>
-        <entry>
-        <title>化作一只飞鸟</title>
-        <id>153382</id>
-        <link href="https://limaomao810.com/archives/968?utm_source=blogfinder" />
-        <published>2026-04-21T10:45:40+08:00</published>
-        <author>
-            <name>李毛毛</name>
-            <uri>https://limaomao810.com</uri>
-        </author>
-        <summary type="text"><![CDATA[化作一只飞鸟]]></summary>
-    </entry>
-        <entry>
-        <title>整洁架构之道</title>
-        <id>153390</id>
-        <link href="https://www.geedea.pro/library/2026/clean-architecture/?utm_source=blogfinder" />
-        <published>2026-04-21T10:43:27+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[整洁架构之道]]></summary>
-    </entry>
-        <entry>
-        <title>说说：#1776910209</title>
-        <id>153765</id>
-        <link href="https://www.yssk.cn/riji/81b61e5a.html?utm_source=blogfinder" />
-        <published>2026-04-21T10:11:00+08:00</published>
-        <author>
-            <name>一时三刻の记忆</name>
-            <uri>https://www.yssk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[说说：#1776910209]]></summary>
-    </entry>
-        <entry>
-        <title>丑人为什么多作怪？</title>
-        <id>153372</id>
-        <link href="https://mobius.blog/22914.html?utm_source=blogfinder" />
-        <published>2026-04-21T09:00:00+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[丑人为什么多作怪？]]></summary>
-    </entry>
-        <entry>
-        <title>2026.4.20</title>
-        <id>153357</id>
-        <link href="https://www.justzht.com/2026-4-20/?utm_source=blogfinder" />
-        <published>2026-04-21T08:55:41+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.4.20]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1654】梁羽生《梁羽生散文：生花妙笔侠影留》</title>
-        <id>153359</id>
-        <link href="http://www.qncd.com/?p=12668&amp;utm_source=blogfinder" />
-        <published>2026-04-21T08:45:50+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1654】梁羽生《梁羽生散文：生花妙笔侠影留》]]></summary>
-    </entry>
-        <entry>
-        <title>海底光缆的维修其实很容易</title>
-        <id>153389</id>
-        <link href="https://lawtee.com/article/fiber/?utm_source=blogfinder" />
-        <published>2026-04-21T08:11:43+08:00</published>
-        <author>
-            <name>老 T 博客</name>
-            <uri>https://lawtee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[海底光缆的维修其实很容易]]></summary>
-    </entry>
-        <entry>
-        <title>O Captain! My Captain!</title>
-        <id>153448</id>
-        <link href="https://cavill.site/articles/oh-captain-my-captain/?utm_source=blogfinder" />
-        <published>2026-04-21T08:00:00+08:00</published>
-        <author>
-            <name>栖迟处</name>
-            <uri>https://cavill.site</uri>
-        </author>
-        <summary type="text"><![CDATA[O Captain! My Captain!]]></summary>
-    </entry>
-        <entry>
-        <title>给大模型穿上“拘束衣”：从物理缺陷到 Agentic OS 的工程化实践</title>
-        <id>153446</id>
-        <link href="https://blog.hehouhui.cn/archives/llm-agent-engineering-challenges-and-architecture-solutions?utm_source=blogfinder" />
-        <published>2026-04-21T08:00:00+08:00</published>
-        <author>
-            <name>Honesty</name>
-            <uri>https://blog.hehouhui.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[给大模型穿上“拘束衣”：从物理缺陷到 Agentic OS 的工程化实践]]></summary>
-    </entry>
-        <entry>
-        <title>最近突然 iCloudPD 无法完成 MFA 登录的问题分析（2026 年 3 月后）</title>
-        <id>153444</id>
-        <link href="https://songlin.me/2026/04/21/icloudpd/?utm_source=blogfinder" />
-        <published>2026-04-21T08:00:00+08:00</published>
-        <author>
-            <name>SongLin Blog</name>
-            <uri>https://songlin.me</uri>
-        </author>
-        <summary type="text"><![CDATA[最近突然 iCloudPD 无法完成 MFA 登录的问题分析（2026 年 3 月后）]]></summary>
-    </entry>
-        <entry>
-        <title>搞 AI 搞到手腕疼</title>
-        <id>153442</id>
-        <link href="https://blog.gudong.site/2026/04/21/ai-hand-pain-slug.html?utm_source=blogfinder" />
-        <published>2026-04-21T08:00:00+08:00</published>
-        <author>
-            <name>咕咚同学</name>
-            <uri>https://blog.gudong.site</uri>
-        </author>
-        <summary type="text"><![CDATA[搞 AI 搞到手腕疼]]></summary>
-    </entry>
-        <entry>
-        <title>重审人的独特价值</title>
-        <id>153364</id>
-        <link href="https://www.immarcus.com/blog/reflect-on-the-unique-value-of-mankind?utm_source=blogfinder" />
-        <published>2026-04-21T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[重审人的独特价值]]></summary>
-    </entry>
-        <entry>
-        <title>---</title>
-        <id>153362</id>
-        <link href="https://fuxes.cn/skills/philosophy/西方哲学史?utm_source=blogfinder" />
-        <published>2026-04-21T08:00:00+08:00</published>
-        <author>
-            <name>浮生闲话</name>
-            <uri>https://fuxes.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[---]]></summary>
-    </entry>
-        <entry>
-        <title>狸狮村：可能这里就是小龙女的古墓派</title>
-        <id>153725</id>
-        <link href="https://macin.org/2026/04/20/li-shi-cun/?utm_source=blogfinder" />
-        <published>2026-04-21T06:06:10+08:00</published>
-        <author>
-            <name>Macin&#039;s Blog</name>
-            <uri>https://macin.org</uri>
-        </author>
-        <summary type="text"><![CDATA[狸狮村：可能这里就是小龙女的古墓派]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 16 引力波的功率</title>
-        <id>153370</id>
-        <link href="https://physnya.top/GR/lesson-16-power-of-gravitational-waves/?utm_source=blogfinder" />
-        <published>2026-04-21T01:50:11+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 16 引力波的功率]]></summary>
     </entry>
     </feed>
