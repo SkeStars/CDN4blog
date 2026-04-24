@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-24T18:00:31+08:00</updated>
+    <updated>2026-04-24T20:01:08+08:00</updated>
         <entry>
         <title>Living Clojure</title>
         <id>153822</id>
@@ -189,6 +189,17 @@
         <summary type="text"><![CDATA[我怀念的]]></summary>
     </entry>
         <entry>
+        <title>GPT生图简直太强了</title>
+        <id>153825</id>
+        <link href="https://www.xrbk.cn/post/66.html?utm_source=blogfinder" />
+        <published>2026-04-24T02:23:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://www.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[GPT生图简直太强了]]></summary>
+    </entry>
+        <entry>
         <title>PHP 利用ImageMagick实现多页PDF转一张图片</title>
         <id>153801</id>
         <link href="https://www.krjojo.com/12860.html?utm_source=blogfinder" />
@@ -198,6 +209,17 @@
             <uri>https://www.krjojo.com</uri>
         </author>
         <summary type="text"><![CDATA[PHP 利用ImageMagick实现多页PDF转一张图片]]></summary>
+    </entry>
+        <entry>
+        <title>GoodBoyboy &#039;s Talk上线！</title>
+        <id>153824</id>
+        <link href="https://blog.goodboyboy.top/posts/3509156966.html?utm_source=blogfinder" />
+        <published>2026-04-23T22:16:08+08:00</published>
+        <author>
+            <name>GoodBoyboy</name>
+            <uri>https://blog.goodboyboy.top</uri>
+        </author>
+        <summary type="text"><![CDATA[GoodBoyboy &#039;s Talk上线！]]></summary>
     </entry>
         <entry>
         <title>Lesson 9 Birth (I)</title>
@@ -1133,49 +1155,5 @@
             <uri>http://luolt.cn</uri>
         </author>
         <summary type="text"><![CDATA[真服了！网购的皮蛋全是坏的，这也太坑了！]]></summary>
-    </entry>
-        <entry>
-        <title>谷雨时节，说说人活一世最稳妥的笨功夫</title>
-        <id>153475</id>
-        <link href="https://lhdrc.com/452.html?utm_source=blogfinder" />
-        <published>2026-04-21T19:59:38+08:00</published>
-        <author>
-            <name>人间半闲</name>
-            <uri>https://lhdrc.com</uri>
-        </author>
-        <summary type="text"><![CDATA[谷雨时节，说说人活一世最稳妥的笨功夫]]></summary>
-    </entry>
-        <entry>
-        <title>孩子打架事件处理结果</title>
-        <id>153398</id>
-        <link href="https://ygz.ink/archives/4649.html?utm_source=blogfinder" />
-        <published>2026-04-21T19:36:15+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[孩子打架事件处理结果]]></summary>
-    </entry>
-        <entry>
-        <title>Github 桌面端使用经验分享</title>
-        <id>153400</id>
-        <link href="https://jyblog.cn/5380/?utm_source=blogfinder" />
-        <published>2026-04-21T19:12:26+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Github 桌面端使用经验分享]]></summary>
-    </entry>
-        <entry>
-        <title>春色怡人</title>
-        <id>153410</id>
-        <link href="https://www.sunboy.ltd/posts/95f100d9/?utm_source=blogfinder" />
-        <published>2026-04-21T18:05:28+08:00</published>
-        <author>
-            <name>Sun Boy&#039;s Blog</name>
-            <uri>https://www.sunboy.ltd</uri>
-        </author>
-        <summary type="text"><![CDATA[春色怡人]]></summary>
     </entry>
     </feed>
