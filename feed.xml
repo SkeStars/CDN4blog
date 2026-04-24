@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-24T22:00:34+08:00</updated>
+    <updated>2026-04-24T23:01:25+08:00</updated>
+        <entry>
+        <title>随手记：windows右键菜单总是出现在鼠标左侧</title>
+        <id>153830</id>
+        <link href="https://www.imxb.de/new_archives/62.shtml?utm_source=blogfinder" />
+        <published>2026-04-24T20:47:00+08:00</published>
+        <author>
+            <name>Xiobb’s Blog</name>
+            <uri>https://www.imxb.de</uri>
+        </author>
+        <summary type="text"><![CDATA[随手记：windows右键菜单总是出现在鼠标左侧]]></summary>
+    </entry>
+        <entry>
+        <title>比越狱更棘手！iOS vPhone 虚拟机成黑灰产新温床</title>
+        <id>153829</id>
+        <link href="https://kanchuan.com/blog/240-vphone?utm_source=blogfinder" />
+        <published>2026-04-24T17:00:00+08:00</published>
+        <author>
+            <name>陈看川博客</name>
+            <uri>https://kanchuan.com/blog</uri>
+        </author>
+        <summary type="text"><![CDATA[比越狱更棘手！iOS vPhone 虚拟机成黑灰产新温床]]></summary>
+    </entry>
         <entry>
         <title>Living Clojure</title>
         <id>153822</id>
@@ -143,6 +165,17 @@
             <uri>https://limaomao810.com</uri>
         </author>
         <summary type="text"><![CDATA[旅程结束的几个“夯”时刻]]></summary>
+    </entry>
+        <entry>
+        <title>重新读一遍散文</title>
+        <id>153831</id>
+        <link href="https://miraii.cn/posts/5kf75416/?utm_source=blogfinder" />
+        <published>2026-04-24T11:05:48+08:00</published>
+        <author>
+            <name>MuXiaoChen</name>
+            <uri>https://miraii.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[重新读一遍散文]]></summary>
     </entry>
         <entry>
         <title>【读书记1657】戈尔丁《蝇王》</title>
@@ -1133,16 +1166,5 @@
             <uri>https://t-t.live</uri>
         </author>
         <summary type="text"><![CDATA[近况（7）]]></summary>
-    </entry>
-        <entry>
-        <title>26春学7周杂记</title>
-        <id>153402</id>
-        <link href="https://nxxy335.top/archives/c2KWtzf4?utm_source=blogfinder" />
-        <published>2026-04-21T22:20:24+08:00</published>
-        <author>
-            <name>暖心向阳</name>
-            <uri>https://nxxy335.top</uri>
-        </author>
-        <summary type="text"><![CDATA[26春学7周杂记]]></summary>
     </entry>
     </feed>
