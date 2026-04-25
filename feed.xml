@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-25T14:00:47+08:00</updated>
+    <updated>2026-04-25T15:00:49+08:00</updated>
         <entry>
         <title>惊魂一刻！楼上着火了</title>
         <id>153877</id>
@@ -99,6 +99,17 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[坚持记录是痛并快乐的事情]]></summary>
+    </entry>
+        <entry>
+        <title>难道我的一生，只是一场低俗的斗争？</title>
+        <id>153879</id>
+        <link href="https://www.friendcc.com/664.html?utm_source=blogfinder" />
+        <published>2026-04-24T22:17:00+08:00</published>
+        <author>
+            <name>梦不见的梦</name>
+            <uri>https://www.friendcc.com</uri>
+        </author>
+        <summary type="text"><![CDATA[难道我的一生，只是一场低俗的斗争？]]></summary>
     </entry>
         <entry>
         <title>DeepSeek v4 初体验</title>
@@ -517,6 +528,17 @@
             <uri>https://www.lujun9972.win</uri>
         </author>
         <summary type="text"><![CDATA[WSL9x —— 在 Windows 9x 里跑 Linux 内核 6.19]]></summary>
+    </entry>
+        <entry>
+        <title>从不怀念少年时</title>
+        <id>153880</id>
+        <link href="https://blog.solazy.me/20260423/?utm_source=blogfinder" />
+        <published>2026-04-23T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[从不怀念少年时]]></summary>
     </entry>
         <entry>
         <title>GoodBoyboy &#039;s Talk上线！</title>
@@ -1034,16 +1056,5 @@
             <uri>https://lklog.cn</uri>
         </author>
         <summary type="text"><![CDATA[有惊无险：京东账号所有数据“丢失”怎么办]]></summary>
-    </entry>
-        <entry>
-        <title>自动将任意大文件分割并转换成单独Markdown文件</title>
-        <id>153477</id>
-        <link href="https://lklog.cn/course/1405.html?utm_source=blogfinder" />
-        <published>2026-04-22T14:46:58+08:00</published>
-        <author>
-            <name>龙鲲博客</name>
-            <uri>https://lklog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[自动将任意大文件分割并转换成单独Markdown文件]]></summary>
     </entry>
     </feed>
