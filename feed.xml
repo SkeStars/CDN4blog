@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-25T15:00:49+08:00</updated>
+    <updated>2026-04-25T17:02:20+08:00</updated>
+        <entry>
+        <title>关于hugo的Waline评论和转换教程</title>
+        <id>153881</id>
+        <link href="https://www.pgoj.top/archives/hugo-waline-tutorial.html?utm_source=blogfinder" />
+        <published>2026-04-25T15:31:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[关于hugo的Waline评论和转换教程]]></summary>
+    </entry>
+        <entry>
+        <title>部落格的文章靈感到底都是哪裡來的？</title>
+        <id>153882</id>
+        <link href="https://blog.giveanornot.com/blog-ideas/?utm_source=blogfinder" />
+        <published>2026-04-25T15:07:28+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[部落格的文章靈感到底都是哪裡來的？]]></summary>
+    </entry>
         <entry>
         <title>惊魂一刻！楼上着火了</title>
         <id>153877</id>
@@ -1045,16 +1067,5 @@
             <uri>https://blog.lichenghao.cn</uri>
         </author>
         <summary type="text"><![CDATA[新功能添加:首页友链、画廊...【建站笔记】]]></summary>
-    </entry>
-        <entry>
-        <title>有惊无险：京东账号所有数据“丢失”怎么办</title>
-        <id>153476</id>
-        <link href="https://lklog.cn/chat/1406.html?utm_source=blogfinder" />
-        <published>2026-04-22T15:26:29+08:00</published>
-        <author>
-            <name>龙鲲博客</name>
-            <uri>https://lklog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[有惊无险：京东账号所有数据“丢失”怎么办]]></summary>
     </entry>
     </feed>
