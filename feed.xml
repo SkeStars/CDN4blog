@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-25T20:00:59+08:00</updated>
+    <updated>2026-04-25T21:00:31+08:00</updated>
         <entry>
         <title>Zine#48</title>
         <id>153885</id>
@@ -33,6 +33,17 @@
             <uri>https://mojue88.com</uri>
         </author>
         <summary type="text"><![CDATA[风停在张家港]]></summary>
+    </entry>
+        <entry>
+        <title>突如其来的“裁员”</title>
+        <id>153886</id>
+        <link href="http://99887766554433221100.cn/index.php/archives/187/?utm_source=blogfinder" />
+        <published>2026-04-25T16:21:22+08:00</published>
+        <author>
+            <name>南香香</name>
+            <uri>http://99887766554433221100.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[突如其来的“裁员”]]></summary>
     </entry>
         <entry>
         <title>关于hugo的Waline评论和转换教程</title>
@@ -154,6 +165,17 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[坚持记录是痛并快乐的事情]]></summary>
+    </entry>
+        <entry>
+        <title>关于3D打印航模一些想法</title>
+        <id>153887</id>
+        <link href="https://xtxcool.com/archives/XcYex9dY?utm_source=blogfinder" />
+        <published>2026-04-24T22:48:50+08:00</published>
+        <author>
+            <name>静水流深</name>
+            <uri>https://xtxcool.com</uri>
+        </author>
+        <summary type="text"><![CDATA[关于3D打印航模一些想法]]></summary>
     </entry>
         <entry>
         <title>难道我的一生，只是一场低俗的斗争？</title>
@@ -1067,27 +1089,5 @@
             <uri>https://ficor.net</uri>
         </author>
         <summary type="text"><![CDATA[AI工具近况成果]]></summary>
-    </entry>
-        <entry>
-        <title>少儿编程教务管理系统已做完</title>
-        <id>153485</id>
-        <link href="https://ygz.ink/archives/4673.html?utm_source=blogfinder" />
-        <published>2026-04-22T20:55:05+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[少儿编程教务管理系统已做完]]></summary>
-    </entry>
-        <entry>
-        <title>云服务器与云主机</title>
-        <id>153483</id>
-        <link href="http://99887766554433221100.cn/index.php/archives/186/?utm_source=blogfinder" />
-        <published>2026-04-22T20:26:00+08:00</published>
-        <author>
-            <name>南香香</name>
-            <uri>http://99887766554433221100.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[云服务器与云主机]]></summary>
     </entry>
     </feed>
