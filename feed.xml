@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-25T11:00:47+08:00</updated>
+    <updated>2026-04-25T14:00:47+08:00</updated>
+        <entry>
+        <title>惊魂一刻！楼上着火了</title>
+        <id>153877</id>
+        <link href="https://me.xu19.com/fire-fire-run/?utm_source=blogfinder" />
+        <published>2026-04-25T10:36:22+08:00</published>
+        <author>
+            <name>我是军爸</name>
+            <uri>https://me.xu19.com</uri>
+        </author>
+        <summary type="text"><![CDATA[惊魂一刻！楼上着火了]]></summary>
+    </entry>
+        <entry>
+        <title>花、蝴蝶</title>
+        <id>153878</id>
+        <link href="http://etom.top/archives/so46.html?utm_source=blogfinder" />
+        <published>2026-04-25T10:06:00+08:00</published>
+        <author>
+            <name>浮生事</name>
+            <uri>http://etom.top</uri>
+        </author>
+        <summary type="text"><![CDATA[花、蝴蝶]]></summary>
+    </entry>
+        <entry>
+        <title>第一千篇</title>
+        <id>153875</id>
+        <link href="https://mobius.blog/23260.html?utm_source=blogfinder" />
+        <published>2026-04-25T09:00:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[第一千篇]]></summary>
+    </entry>
         <entry>
         <title>一张保证书</title>
         <id>153873</id>
@@ -451,6 +484,17 @@
             <uri>https://www.xrbk.cn</uri>
         </author>
         <summary type="text"><![CDATA[GPT生图简直太强了]]></summary>
+    </entry>
+        <entry>
+        <title>Ubuntu26.04正式推出</title>
+        <id>153876</id>
+        <link href="https://xingwangzhe.fun/posts/ubuntu-26-04-official-release/?utm_source=blogfinder" />
+        <published>2026-04-24T01:00:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Ubuntu26.04正式推出]]></summary>
     </entry>
         <entry>
         <title>PHP 利用ImageMagick实现多页PDF转一张图片</title>
@@ -1001,115 +1045,5 @@
             <uri>https://lklog.cn</uri>
         </author>
         <summary type="text"><![CDATA[自动将任意大文件分割并转换成单独Markdown文件]]></summary>
-    </entry>
-        <entry>
-        <title>Phoenix监控平台技术解析（二十三）：服务端数据接收架构——Controller层设计</title>
-        <id>153478</id>
-        <link href="https://kacper.fun/blog/176?utm_source=blogfinder" />
-        <published>2026-04-22T13:46:39+08:00</published>
-        <author>
-            <name>知录</name>
-            <uri>https://kacper.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[Phoenix监控平台技术解析（二十三）：服务端数据接收架构——Controller层设计]]></summary>
-    </entry>
-        <entry>
-        <title>孤独感</title>
-        <id>153461</id>
-        <link href="https://ltmltm.cn/bk/1447.html?utm_source=blogfinder" />
-        <published>2026-04-22T13:44:10+08:00</published>
-        <author>
-            <name>因为很想念</name>
-            <uri>https://ltmltm.cn/bk</uri>
-        </author>
-        <summary type="text"><![CDATA[孤独感]]></summary>
-    </entry>
-        <entry>
-        <title>低压成套开关设备和控制设备 第 1 部分：总则 (GB_T 7251.1-2023)</title>
-        <id>153459</id>
-        <link href="https://www.aiwazi.com/3072.html?utm_source=blogfinder" />
-        <published>2026-04-22T13:09:33+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[低压成套开关设备和控制设备 第 1 部分：总则 (GB_T 7251.1-2023)]]></summary>
-    </entry>
-        <entry>
-        <title>抬头看天</title>
-        <id>153464</id>
-        <link href="http://etom.top/archives/so40.html?utm_source=blogfinder" />
-        <published>2026-04-22T13:04:17+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[抬头看天]]></summary>
-    </entry>
-        <entry>
-        <title>低压成套开关设备和控制设备 第 2 部分：成套电力开关和控制设备 (GB_T 7251.2-2023)</title>
-        <id>153460</id>
-        <link href="https://www.aiwazi.com/3069.html?utm_source=blogfinder" />
-        <published>2026-04-22T12:58:53+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[低压成套开关设备和控制设备 第 2 部分：成套电力开关和控制设备 (GB_T 7251.2-2023)]]></summary>
-    </entry>
-        <entry>
-        <title>2026-04-22 12:46</title>
-        <id>153457</id>
-        <link href="https://koobai.com/laodao/2026/04/20260422-124652/?utm_source=blogfinder" />
-        <published>2026-04-22T12:46:52+08:00</published>
-        <author>
-            <name>Koobai</name>
-            <uri>https://koobai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-04-22 12:46]]></summary>
-    </entry>
-        <entry>
-        <title>观《河狸变身计划》</title>
-        <id>153769</id>
-        <link href="https://blog.cytrogen.icu/posts/fd71.html?utm_source=blogfinder" />
-        <published>2026-04-22T12:00:00+08:00</published>
-        <author>
-            <name>Cytrogen&#039;s Blog</name>
-            <uri>https://blog.cytrogen.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[观《河狸变身计划》]]></summary>
-    </entry>
-        <entry>
-        <title>观《八号出口》</title>
-        <id>153768</id>
-        <link href="https://blog.cytrogen.icu/posts/f8cc.html?utm_source=blogfinder" />
-        <published>2026-04-22T12:00:00+08:00</published>
-        <author>
-            <name>Cytrogen&#039;s Blog</name>
-            <uri>https://blog.cytrogen.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[观《八号出口》]]></summary>
-    </entry>
-        <entry>
-        <title>入坟编写 SVG</title>
-        <id>153767</id>
-        <link href="https://blog.cytrogen.icu/posts/794.html?utm_source=blogfinder" />
-        <published>2026-04-22T12:00:00+08:00</published>
-        <author>
-            <name>Cytrogen&#039;s Blog</name>
-            <uri>https://blog.cytrogen.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[入坟编写 SVG]]></summary>
-    </entry>
-        <entry>
-        <title>狐蒂云如何？</title>
-        <id>153455</id>
-        <link href="https://www.evan.xin/4938/?utm_source=blogfinder" />
-        <published>2026-04-22T11:23:34+08:00</published>
-        <author>
-            <name>Evan&#039;s Space</name>
-            <uri>https://www.evan.xin</uri>
-        </author>
-        <summary type="text"><![CDATA[狐蒂云如何？]]></summary>
     </entry>
     </feed>
