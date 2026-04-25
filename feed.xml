@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-25T17:02:20+08:00</updated>
+    <updated>2026-04-25T18:00:28+08:00</updated>
+        <entry>
+        <title>风停在张家港</title>
+        <id>153884</id>
+        <link href="https://mojue88.com/132/?utm_source=blogfinder" />
+        <published>2026-04-25T17:55:15+08:00</published>
+        <author>
+            <name>墨觉の日记</name>
+            <uri>https://mojue88.com</uri>
+        </author>
+        <summary type="text"><![CDATA[风停在张家港]]></summary>
+    </entry>
         <entry>
         <title>关于hugo的Waline评论和转换教程</title>
         <id>153881</id>
@@ -33,6 +44,17 @@
             <uri>https://blog.giveanornot.com</uri>
         </author>
         <summary type="text"><![CDATA[部落格的文章靈感到底都是哪裡來的？]]></summary>
+    </entry>
+        <entry>
+        <title>收到微软Bing的奖品</title>
+        <id>153883</id>
+        <link href="https://xingwangzhe.fun/posts/microsoft-bing-prize/?utm_source=blogfinder" />
+        <published>2026-04-25T14:00:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[收到微软Bing的奖品]]></summary>
     </entry>
         <entry>
         <title>惊魂一刻！楼上着火了</title>
@@ -1056,16 +1078,5 @@
             <uri>http://99887766554433221100.cn</uri>
         </author>
         <summary type="text"><![CDATA[云服务器与云主机]]></summary>
-    </entry>
-        <entry>
-        <title>新功能添加:首页友链、画廊...【建站笔记】</title>
-        <id>153482</id>
-        <link href="https://blog.lichenghao.cn/article/yrzkfrzykhpu?utm_source=blogfinder" />
-        <published>2026-04-22T17:54:18+08:00</published>
-        <author>
-            <name>故事的程序猿</name>
-            <uri>https://blog.lichenghao.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[新功能添加:首页友链、画廊...【建站笔记】]]></summary>
     </entry>
     </feed>
