@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-25T21:00:31+08:00</updated>
+    <updated>2026-04-25T23:01:31+08:00</updated>
+        <entry>
+        <title>新购唯卓仕EVO系列的35mm f1.8镜头，质感不错，可惜有瑕疵</title>
+        <id>153893</id>
+        <link href="https://www.bufanz.com/20260425567.html?utm_source=blogfinder" />
+        <published>2026-04-25T21:48:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[新购唯卓仕EVO系列的35mm f1.8镜头，质感不错，可惜有瑕疵]]></summary>
+    </entry>
+        <entry>
+        <title>折腾日记引导页</title>
+        <id>153890</id>
+        <link href="https://blog.mboker.cn/archives/d6cgIzhy?utm_source=blogfinder" />
+        <published>2026-04-25T21:12:16+08:00</published>
+        <author>
+            <name>蜉蝣手札</name>
+            <uri>https://blog.mboker.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[折腾日记引导页]]></summary>
+    </entry>
+        <entry>
+        <title>依旧东湖</title>
+        <id>153888</id>
+        <link href="https://airy.ink/daily/444?utm_source=blogfinder" />
+        <published>2026-04-25T21:00:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[依旧东湖]]></summary>
+    </entry>
         <entry>
         <title>Zine#48</title>
         <id>153885</id>
@@ -33,6 +66,17 @@
             <uri>https://mojue88.com</uri>
         </author>
         <summary type="text"><![CDATA[风停在张家港]]></summary>
+    </entry>
+        <entry>
+        <title>《关于孤独的一些思考》</title>
+        <id>153889</id>
+        <link href="https://www.weiwenchao.com/2521.html?utm_source=blogfinder" />
+        <published>2026-04-25T16:51:00+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《关于孤独的一些思考》]]></summary>
     </entry>
         <entry>
         <title>突如其来的“裁员”</title>
@@ -253,6 +297,28 @@
             <uri>https://www.gujishe.com</uri>
         </author>
         <summary type="text"><![CDATA[随身wifi玩游戏也不错]]></summary>
+    </entry>
+        <entry>
+        <title>【工具】用AI随手写博客</title>
+        <id>153891</id>
+        <link href="https://blog.musnow.top/posts/4816793386/?utm_source=blogfinder" />
+        <published>2026-04-24T17:20:00+08:00</published>
+        <author>
+            <name>慕雪的寒舍</name>
+            <uri>https://blog.musnow.top</uri>
+        </author>
+        <summary type="text"><![CDATA[【工具】用AI随手写博客]]></summary>
+    </entry>
+        <entry>
+        <title>【测开】adb shell am start 启动跳链时 &amp; 符号被截断的解决方法</title>
+        <id>153892</id>
+        <link href="https://blog.musnow.top/posts/4494568789/?utm_source=blogfinder" />
+        <published>2026-04-24T17:12:00+08:00</published>
+        <author>
+            <name>慕雪的寒舍</name>
+            <uri>https://blog.musnow.top</uri>
+        </author>
+        <summary type="text"><![CDATA[【测开】adb shell am start 启动跳链时 &amp; 符号被截断的解决方法]]></summary>
     </entry>
         <entry>
         <title>docker镜像拉取不了？使用本地代理从官方拉取镜像，附脚本</title>
@@ -1056,38 +1122,5 @@
             <uri>https://www.lujun9972.win</uri>
         </author>
         <summary type="text"><![CDATA[Elisp 性能优化的六个实战教训]]></summary>
-    </entry>
-        <entry>
-        <title>「离开的理由」 vs 「留下的意义」</title>
-        <id>153782</id>
-        <link href="https://blog.solazy.me/20260422/?utm_source=blogfinder" />
-        <published>2026-04-22T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[「离开的理由」 vs 「留下的意义」]]></summary>
-    </entry>
-        <entry>
-        <title>虽败犹荣|校排球比赛</title>
-        <id>153755</id>
-        <link href="https://ryqi.top/p/school-volleyball-match/?utm_source=blogfinder" />
-        <published>2026-04-22T22:00:00+08:00</published>
-        <author>
-            <name>合荒小站</name>
-            <uri>https://ryqi.top</uri>
-        </author>
-        <summary type="text"><![CDATA[虽败犹荣|校排球比赛]]></summary>
-    </entry>
-        <entry>
-        <title>AI工具近况成果</title>
-        <id>153484</id>
-        <link href="https://ficor.net/2026/04/ai%e5%b7%a5%e5%85%b7%e8%bf%91%e5%86%b5%e6%88%90%e6%9e%9c/?utm_source=blogfinder" />
-        <published>2026-04-22T21:04:06+08:00</published>
-        <author>
-            <name>荒野菲克</name>
-            <uri>https://ficor.net</uri>
-        </author>
-        <summary type="text"><![CDATA[AI工具近况成果]]></summary>
     </entry>
     </feed>
