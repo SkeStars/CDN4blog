@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-26T23:01:47+08:00</updated>
+    <updated>2026-04-27T00:02:12+08:00</updated>
+        <entry>
+        <title>桑椹熟了，口水先流</title>
+        <id>153954</id>
+        <link href="https://luolt.cn/archives/3148.html?utm_source=blogfinder" />
+        <published>2026-04-26T23:34:00+08:00</published>
+        <author>
+            <name>洛丽糖</name>
+            <uri>http://luolt.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[桑椹熟了，口水先流]]></summary>
+    </entry>
+        <entry>
+        <title>react的样式</title>
+        <id>153956</id>
+        <link href="https://blog.share888.top/note/front-end/react/react的样式.html?utm_source=blogfinder" />
+        <published>2026-04-26T22:31:49+08:00</published>
+        <author>
+            <name>卡卡罗特</name>
+            <uri>https://blog.share888.top</uri>
+        </author>
+        <summary type="text"><![CDATA[react的样式]]></summary>
+    </entry>
+        <entry>
+        <title>我们摆出不被理解的面孔自得其乐</title>
+        <id>153955</id>
+        <link href="https://www.geedea.pro/article/gallery-trip/?utm_source=blogfinder" />
+        <published>2026-04-26T21:15:28+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[我们摆出不被理解的面孔自得其乐]]></summary>
+    </entry>
         <entry>
         <title>结合Obsidian的cli的一体化体验</title>
         <id>153951</id>
@@ -46,6 +79,17 @@
         <summary type="text"><![CDATA[大山里的竹笋一辈子都达不到的阶层！]]></summary>
     </entry>
         <entry>
+        <title>周末流水账 0426</title>
+        <id>153959</id>
+        <link href="https://blog.solazy.me/20260426/?utm_source=blogfinder" />
+        <published>2026-04-26T20:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0426]]></summary>
+    </entry>
+        <entry>
         <title>火龙果醪糟做失败了</title>
         <id>153948</id>
         <link href="https://ygz.ink/archives/4705.html?utm_source=blogfinder" />
@@ -55,6 +99,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[火龙果醪糟做失败了]]></summary>
+    </entry>
+        <entry>
+        <title>在 Github 中通过创建 issue 来唤醒 claude 工作</title>
+        <id>153953</id>
+        <link href="https://blog.devtang.com/2026/04/26/config-github-app-and-claude-to-create-pr-from-issue/?utm_source=blogfinder" />
+        <published>2026-04-26T19:55:42+08:00</published>
+        <author>
+            <name>唐巧的博客</name>
+            <uri>https://blog.devtang.com</uri>
+        </author>
+        <summary type="text"><![CDATA[在 Github 中通过创建 issue 来唤醒 claude 工作]]></summary>
     </entry>
         <entry>
         <title>重庆中央公园一游</title>
@@ -143,6 +198,28 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【与Mondo同行·第四季】7：要有“世界观”，要先“观世界”]]></summary>
+    </entry>
+        <entry>
+        <title>咋的，小钱还看不上了？</title>
+        <id>153960</id>
+        <link href="http://etom.top/archives/so50.html?utm_source=blogfinder" />
+        <published>2026-04-26T15:03:00+08:00</published>
+        <author>
+            <name>浮生事</name>
+            <uri>http://etom.top</uri>
+        </author>
+        <summary type="text"><![CDATA[咋的，小钱还看不上了？]]></summary>
+    </entry>
+        <entry>
+        <title>哈医大春季随拍</title>
+        <id>153957</id>
+        <link href="https://siwei.li/ha-yi-da-chun-ji-sui-pai/?utm_source=blogfinder" />
+        <published>2026-04-26T14:27:40+08:00</published>
+        <author>
+            <name>Siwei Li</name>
+            <uri>https://siwei.li</uri>
+        </author>
+        <summary type="text"><![CDATA[哈医大春季随拍]]></summary>
     </entry>
         <entry>
         <title>开源自部署 Html 转 PDF API 方案 - gotenberg</title>
@@ -429,6 +506,17 @@
             <uri>https://airy.ink</uri>
         </author>
         <summary type="text"><![CDATA[依旧东湖]]></summary>
+    </entry>
+        <entry>
+        <title>松峰山</title>
+        <id>153958</id>
+        <link href="https://siwei.li/song-feng-shan/?utm_source=blogfinder" />
+        <published>2026-04-25T19:30:21+08:00</published>
+        <author>
+            <name>Siwei Li</name>
+            <uri>https://siwei.li</uri>
+        </author>
+        <summary type="text"><![CDATA[松峰山]]></summary>
     </entry>
         <entry>
         <title>Zine#48</title>
@@ -1298,27 +1386,5 @@
             <uri>https://xingwangzhe.fun</uri>
         </author>
         <summary type="text"><![CDATA[Ubuntu26.04正式推出]]></summary>
-    </entry>
-        <entry>
-        <title>PHP 利用ImageMagick实现多页PDF转一张图片</title>
-        <id>153801</id>
-        <link href="https://www.krjojo.com/12860.html?utm_source=blogfinder" />
-        <published>2026-04-24T00:00:34+08:00</published>
-        <author>
-            <name>手里有只毛毛虫</name>
-            <uri>https://www.krjojo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[PHP 利用ImageMagick实现多页PDF转一张图片]]></summary>
-    </entry>
-        <entry>
-        <title>WSL9x —— 在 Windows 9x 里跑 Linux 内核 6.19</title>
-        <id>153860</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/24/wsl9x-——-在-windows-9x-里跑-linux-内核-6.19/index.html?utm_source=blogfinder" />
-        <published>2026-04-24T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[WSL9x —— 在 Windows 9x 里跑 Linux 内核 6.19]]></summary>
     </entry>
     </feed>
