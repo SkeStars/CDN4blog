@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-26T17:02:51+08:00</updated>
+    <updated>2026-04-26T19:01:25+08:00</updated>
+        <entry>
+        <title>忽然想到 # 9</title>
+        <id>153936</id>
+        <link href="https://sliun.com/sudden9/?utm_source=blogfinder" />
+        <published>2026-04-26T16:23:00+08:00</published>
+        <author>
+            <name>理论派</name>
+            <uri>https://sliun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[忽然想到 # 9]]></summary>
+    </entry>
         <entry>
         <title>【与Mondo同行·第四季】7：要有“世界观”，要先“观世界”</title>
         <id>153934</id>
@@ -22,6 +33,28 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【与Mondo同行·第四季】7：要有“世界观”，要先“观世界”]]></summary>
+    </entry>
+        <entry>
+        <title>开源自部署 Html 转 PDF API 方案 - gotenberg</title>
+        <id>153935</id>
+        <link href="https://www.51it.wang/ll/2180?utm_source=blogfinder" />
+        <published>2026-04-26T13:57:25+08:00</published>
+        <author>
+            <name>Lcry</name>
+            <uri>https://www.51it.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[开源自部署 Html 转 PDF API 方案 - gotenberg]]></summary>
+    </entry>
+        <entry>
+        <title>和H小姐的约会</title>
+        <id>153937</id>
+        <link href="https://1900.live/he-hxiao-jie-de-yue-hui/?utm_source=blogfinder" />
+        <published>2026-04-26T11:57:58+08:00</published>
+        <author>
+            <name>我道</name>
+            <uri>https://1900.live</uri>
+        </author>
+        <summary type="text"><![CDATA[和H小姐的约会]]></summary>
     </entry>
         <entry>
         <title>WordPress Studio：官方出品的本地开发神器</title>
@@ -1210,27 +1243,5 @@
             <uri>https://wuminboke.site</uri>
         </author>
         <summary type="text"><![CDATA[如何从 ClawCloud Run 爪云迁移 n8n 到自托管 Docker]]></summary>
-    </entry>
-        <entry>
-        <title>高烧</title>
-        <id>153777</id>
-        <link href="https://ihaihe.cn/3633.htm?utm_source=blogfinder" />
-        <published>2026-04-23T18:59:32+08:00</published>
-        <author>
-            <name>三十里海河</name>
-            <uri>https://ihaihe.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[高烧]]></summary>
-    </entry>
-        <entry>
-        <title>Phoenix监控平台技术解析（二十四）：CompletableFuture 异步编排提速 10 倍 +</title>
-        <id>153779</id>
-        <link href="https://kacper.fun/blog/177?utm_source=blogfinder" />
-        <published>2026-04-23T17:34:02+08:00</published>
-        <author>
-            <name>知录</name>
-            <uri>https://kacper.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[Phoenix监控平台技术解析（二十四）：CompletableFuture 异步编排提速 10 倍 +]]></summary>
     </entry>
     </feed>
