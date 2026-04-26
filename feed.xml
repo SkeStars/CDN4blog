@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-26T14:00:32+08:00</updated>
+    <updated>2026-04-26T16:01:43+08:00</updated>
         <entry>
         <title>WordPress Studio：官方出品的本地开发神器</title>
         <id>153930</id>
@@ -165,6 +165,17 @@
             <uri>https://ddw2019.com</uri>
         </author>
         <summary type="text"><![CDATA[234 80岁的我寄来的一封信]]></summary>
+    </entry>
+        <entry>
+        <title>周末流水账 0425</title>
+        <id>153932</id>
+        <link href="https://blog.solazy.me/20260425/?utm_source=blogfinder" />
+        <published>2026-04-25T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0425]]></summary>
     </entry>
         <entry>
         <title>DeepSeek V4 小白保姆级教程：从零上手，百万上下文AI玩转指南（2026最新版）</title>
@@ -605,6 +616,17 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[坚持记录是痛并快乐的事情]]></summary>
+    </entry>
+        <entry>
+        <title>关于第三辆车的想象</title>
+        <id>153933</id>
+        <link href="https://blog.solazy.me/20260424/?utm_source=blogfinder" />
+        <published>2026-04-24T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[关于第三辆车的想象]]></summary>
     </entry>
         <entry>
         <title>关于3D打印航模一些想法</title>
@@ -1199,16 +1221,5 @@
             <uri>https://kacper.fun</uri>
         </author>
         <summary type="text"><![CDATA[Phoenix监控平台技术解析（二十四）：CompletableFuture 异步编排提速 10 倍 +]]></summary>
-    </entry>
-        <entry>
-        <title>批量重命名工具 Double12 Renamer</title>
-        <id>153809</id>
-        <link href="https://www.zhyok.cn/index.php/archives/326/?utm_source=blogfinder" />
-        <published>2026-04-23T15:22:00+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[批量重命名工具 Double12 Renamer]]></summary>
     </entry>
     </feed>
