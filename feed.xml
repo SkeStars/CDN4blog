@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-26T19:01:25+08:00</updated>
+    <updated>2026-04-26T20:00:56+08:00</updated>
         <entry>
         <title>忽然想到 # 9</title>
         <id>153936</id>
@@ -44,6 +44,17 @@
             <uri>https://www.51it.wang</uri>
         </author>
         <summary type="text"><![CDATA[开源自部署 Html 转 PDF API 方案 - gotenberg]]></summary>
+    </entry>
+        <entry>
+        <title>自深深处</title>
+        <id>153938</id>
+        <link href="https://kaix.in/2026/0426/?utm_source=blogfinder" />
+        <published>2026-04-26T13:45:15+08:00</published>
+        <author>
+            <name>KAIX.IN</name>
+            <uri>https://kaix.in</uri>
+        </author>
+        <summary type="text"><![CDATA[自深深处]]></summary>
     </entry>
         <entry>
         <title>和H小姐的约会</title>
@@ -948,6 +959,17 @@
         <summary type="text"><![CDATA[重新读一遍散文]]></summary>
     </entry>
         <entry>
+        <title>小保育园毕业啦</title>
+        <id>153939</id>
+        <link href="https://shuiba.co/kids-partner-sannomiya-graduation-ceremony?utm_source=blogfinder" />
+        <published>2026-04-24T10:22:00+08:00</published>
+        <author>
+            <name>水八口的冥想盆</name>
+            <uri>https://shuiba.co</uri>
+        </author>
+        <summary type="text"><![CDATA[小保育园毕业啦]]></summary>
+    </entry>
+        <entry>
         <title>【读书记1657】戈尔丁《蝇王》</title>
         <id>153819</id>
         <link href="http://www.qncd.com/?p=12683&amp;utm_source=blogfinder" />
@@ -1221,27 +1243,5 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[我为什么要写作？]]></summary>
-    </entry>
-        <entry>
-        <title>建行亚洲线上申请记录</title>
-        <id>153776</id>
-        <link href="https://retire50blog.wang/invest/%e5%bb%ba%e8%a1%8c%e4%ba%9a%e6%b4%b2%e7%ba%bf%e4%b8%8a%e7%94%b3%e8%af%b7%e8%ae%b0%e5%bd%95.html?utm_source=blogfinder" />
-        <published>2026-04-23T19:32:25+08:00</published>
-        <author>
-            <name>个人工作记录</name>
-            <uri>https://retire50blog.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[建行亚洲线上申请记录]]></summary>
-    </entry>
-        <entry>
-        <title>如何从 ClawCloud Run 爪云迁移 n8n 到自托管 Docker</title>
-        <id>153774</id>
-        <link href="https://wuminboke.site/uncategorized/how-to-migrate-n8n-from-clawcloud-run-to-selfhosted-portainer/?utm_source=blogfinder" />
-        <published>2026-04-23T19:29:44+08:00</published>
-        <author>
-            <name>无名博客</name>
-            <uri>https://wuminboke.site</uri>
-        </author>
-        <summary type="text"><![CDATA[如何从 ClawCloud Run 爪云迁移 n8n 到自托管 Docker]]></summary>
     </entry>
     </feed>
