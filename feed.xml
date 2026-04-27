@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-27T15:00:31+08:00</updated>
+    <updated>2026-04-27T17:02:21+08:00</updated>
+        <entry>
+        <title>路过别人家的春天，直接被美晕</title>
+        <id>153997</id>
+        <link href="https://luolt.cn/archives/3149.html?utm_source=blogfinder" />
+        <published>2026-04-27T16:52:03+08:00</published>
+        <author>
+            <name>洛丽糖</name>
+            <uri>http://luolt.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[路过别人家的春天，直接被美晕]]></summary>
+    </entry>
         <entry>
         <title>如何在树莓派 4B 上驱动一块 2.4 寸 SPI 屏幕</title>
         <id>153993</id>
@@ -22,6 +33,28 @@
             <uri>https://wuminboke.site</uri>
         </author>
         <summary type="text"><![CDATA[如何在树莓派 4B 上驱动一块 2.4 寸 SPI 屏幕]]></summary>
+    </entry>
+        <entry>
+        <title>我要承認……</title>
+        <id>153995</id>
+        <link href="https://blog.giveanornot.com/to-be-honest/?utm_source=blogfinder" />
+        <published>2026-04-27T12:47:00+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我要承認……]]></summary>
+    </entry>
+        <entry>
+        <title>2026.4.26</title>
+        <id>153996</id>
+        <link href="https://www.justzht.com/2026-4-26/?utm_source=blogfinder" />
+        <published>2026-04-27T11:58:57+08:00</published>
+        <author>
+            <name>JustZht</name>
+            <uri>https://www.justzht.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026.4.26]]></summary>
     </entry>
         <entry>
         <title>哼，谁还不是个小天才呢</title>
@@ -123,6 +156,17 @@
         <summary type="text"><![CDATA[自省和离开#462]]></summary>
     </entry>
         <entry>
+        <title>html、php、静态博客的比喻</title>
+        <id>153999</id>
+        <link href="https://www.pgoj.top/archives/bokedebiyu.html/?utm_source=blogfinder" />
+        <published>2026-04-27T02:09:43+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[html、php、静态博客的比喻]]></summary>
+    </entry>
+        <entry>
         <title>打造专属记账助手</title>
         <id>153975</id>
         <link href="https://ttio.cc/note/accounting-bot?utm_source=blogfinder" />
@@ -165,6 +209,17 @@
             <uri>http://luolt.cn</uri>
         </author>
         <summary type="text"><![CDATA[桑椹熟了，口水先流]]></summary>
+    </entry>
+        <entry>
+        <title>pnpm 的 shellEmulator 对 package.json 脚本的影响</title>
+        <id>153994</id>
+        <link href="https://howiehz.top/archives/pnpm-shell-emulator?utm_source=blogfinder" />
+        <published>2026-04-26T23:25:57+08:00</published>
+        <author>
+            <name>皓子的小站</name>
+            <uri>https://howiehz.top</uri>
+        </author>
+        <summary type="text"><![CDATA[pnpm 的 shellEmulator 对 package.json 脚本的影响]]></summary>
     </entry>
         <entry>
         <title>微软Microsoft-windows程序联网封锁器</title>
@@ -374,6 +429,17 @@
             <uri>https://re.karlbaey.top</uri>
         </author>
         <summary type="text"><![CDATA[排版的艺术：一条很长很长的路]]></summary>
+    </entry>
+        <entry>
+        <title>Vol.100 Agent走向生产：GPT-5.5、DeepSeek V4、Kimi K2.6与智能体基础设施爆发</title>
+        <id>153998</id>
+        <link href="https://liduos.com/weekly/the-weekly-gradient-100?utm_source=blogfinder" />
+        <published>2026-04-26T16:00:00+08:00</published>
+        <author>
+            <name>莫尔索</name>
+            <uri>https://liduos.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Vol.100 Agent走向生产：GPT-5.5、DeepSeek V4、Kimi K2.6与智能体基础设施爆发]]></summary>
     </entry>
         <entry>
         <title>【与Mondo同行·第四季】7：要有“世界观”，要先“观世界”</title>
@@ -1320,71 +1386,5 @@
             <uri>https://beltxman.com</uri>
         </author>
         <summary type="text"><![CDATA[docker镜像拉取不了？使用本地代理从官方拉取镜像，附脚本]]></summary>
-    </entry>
-        <entry>
-        <title>比越狱更棘手！iOS vPhone 虚拟机成黑灰产新温床</title>
-        <id>153829</id>
-        <link href="https://kanchuan.com/blog/240-vphone?utm_source=blogfinder" />
-        <published>2026-04-24T17:00:00+08:00</published>
-        <author>
-            <name>陈看川博客</name>
-            <uri>https://kanchuan.com/blog</uri>
-        </author>
-        <summary type="text"><![CDATA[比越狱更棘手！iOS vPhone 虚拟机成黑灰产新温床]]></summary>
-    </entry>
-        <entry>
-        <title>Living Clojure</title>
-        <id>153822</id>
-        <link href="https://www.geedea.pro/library/2026/living-clojure/?utm_source=blogfinder" />
-        <published>2026-04-24T16:37:14+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[Living Clojure]]></summary>
-    </entry>
-        <entry>
-        <title>软件开发需求对接与整理的自动化</title>
-        <id>153821</id>
-        <link href="https://www.sunzhongwei.com/automated-docking-organization-of-software-development-requirements?utm_source=blogfinder" />
-        <published>2026-04-24T16:15:45+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[软件开发需求对接与整理的自动化]]></summary>
-    </entry>
-        <entry>
-        <title>终于找到工作了......</title>
-        <id>153823</id>
-        <link href="https://www.luohuayu.cn/67.html?utm_source=blogfinder" />
-        <published>2026-04-24T15:58:00+08:00</published>
-        <author>
-            <name>落花雨记</name>
-            <uri>https://www.luohuayu.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[终于找到工作了......]]></summary>
-    </entry>
-        <entry>
-        <title>博客从tyoecho转到了hugo</title>
-        <id>153828</id>
-        <link href="https://www.pgoj.top/archives/blog-from-typecho-to-hugo.html?utm_source=blogfinder" />
-        <published>2026-04-24T15:47:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[博客从tyoecho转到了hugo]]></summary>
-    </entry>
-        <entry>
-        <title>&quot;我走了&quot;</title>
-        <id>153818</id>
-        <link href="https://airy.ink/times/443?utm_source=blogfinder" />
-        <published>2026-04-24T15:30:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[&quot;我走了&quot;]]></summary>
     </entry>
     </feed>
