@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-28T15:00:40+08:00</updated>
+    <updated>2026-04-28T17:02:12+08:00</updated>
+        <entry>
+        <title>【读书记1659】加缪《西西弗神话》</title>
+        <id>154308</id>
+        <link href="http://www.qncd.com/?p=12691&amp;utm_source=blogfinder" />
+        <published>2026-04-28T15:16:33+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1659】加缪《西西弗神话》]]></summary>
+    </entry>
         <entry>
         <title>博客评论自动填充新方案：兼容 Vue／React 响应式绑定与跨架构填充逻辑</title>
         <id>154307</id>
@@ -22,6 +33,39 @@
             <uri>https://wuqishi.com</uri>
         </author>
         <summary type="text"><![CDATA[博客评论自动填充新方案：兼容 Vue／React 响应式绑定与跨架构填充逻辑]]></summary>
+    </entry>
+        <entry>
+        <title>最近惦念 20260418</title>
+        <id>154310</id>
+        <link href="https://z.arlmy.me/posts/TILs/thoughts/20260418_Recently/?utm_source=blogfinder" />
+        <published>2026-04-28T12:17:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[最近惦念 20260418]]></summary>
+    </entry>
+        <entry>
+        <title>Toots 416 2026 Apr.19 - Apr.25</title>
+        <id>154311</id>
+        <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260425/?utm_source=blogfinder" />
+        <published>2026-04-28T12:14:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[Toots 416 2026 Apr.19 - Apr.25]]></summary>
+    </entry>
+        <entry>
+        <title>小霸王游戏机</title>
+        <id>154313</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1131&amp;utm_source=blogfinder" />
+        <published>2026-04-28T11:28:44+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[小霸王游戏机]]></summary>
     </entry>
         <entry>
         <title>GitHub Copilot 套餐大变动，取消年费会员，改用 token 计费</title>
@@ -35,6 +79,17 @@
         <summary type="text"><![CDATA[GitHub Copilot 套餐大变动，取消年费会员，改用 token 计费]]></summary>
     </entry>
         <entry>
+        <title>半学期记：春日校园</title>
+        <id>154309</id>
+        <link href="https://www.xiaozonglin.cn/photos-of-campus-2026-spring/?utm_source=blogfinder" />
+        <published>2026-04-28T09:40:46+08:00</published>
+        <author>
+            <name>林林杂语</name>
+            <uri>https://www.xiaozonglin.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[半学期记：春日校园]]></summary>
+    </entry>
+        <entry>
         <title>知识，也是有幻觉率</title>
         <id>154304</id>
         <link href="https://mobius.blog/23315.html?utm_source=blogfinder" />
@@ -44,6 +99,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[知识，也是有幻觉率]]></summary>
+    </entry>
+        <entry>
+        <title>我的几次大考中的难堪往事</title>
+        <id>154314</id>
+        <link href="https://www.pgoj.top/archives/wodejicidakaonan.html?utm_source=blogfinder" />
+        <published>2026-04-28T08:00:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[我的几次大考中的难堪往事]]></summary>
     </entry>
         <entry>
         <title>「像」就是「是」</title>
@@ -242,6 +308,17 @@
             <uri>http://luolt.cn</uri>
         </author>
         <summary type="text"><![CDATA[路过别人家的春天，直接被美晕]]></summary>
+    </entry>
+        <entry>
+        <title>巴格拉斯效果（Berglas）</title>
+        <id>154312</id>
+        <link href="https://blog.huaxiangshan.com/zh-cn/posts/bgls/?utm_source=blogfinder" />
+        <published>2026-04-27T16:09:19+08:00</published>
+        <author>
+            <name>滑翔闪&#039;s Blog</name>
+            <uri>https://blog.huaxiangshan.com</uri>
+        </author>
+        <summary type="text"><![CDATA[巴格拉斯效果（Berglas）]]></summary>
     </entry>
         <entry>
         <title>小预算让花开满餐厅</title>
@@ -1353,71 +1430,5 @@
             <uri>https://justgoidea.com</uri>
         </author>
         <summary type="text"><![CDATA[两朵红花]]></summary>
-    </entry>
-        <entry>
-        <title>《关于孤独的一些思考》</title>
-        <id>153889</id>
-        <link href="https://www.weiwenchao.com/2521.html?utm_source=blogfinder" />
-        <published>2026-04-25T16:51:00+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《关于孤独的一些思考》]]></summary>
-    </entry>
-        <entry>
-        <title>突如其来的“裁员”</title>
-        <id>153886</id>
-        <link href="http://99887766554433221100.cn/index.php/archives/187/?utm_source=blogfinder" />
-        <published>2026-04-25T16:21:22+08:00</published>
-        <author>
-            <name>南香香</name>
-            <uri>http://99887766554433221100.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[突如其来的“裁员”]]></summary>
-    </entry>
-        <entry>
-        <title>【绘图】相关性散点图</title>
-        <id>153929</id>
-        <link href="https://hexo.limour.top/scatter-plot-of-correlation?utm_source=blogfinder" />
-        <published>2026-04-25T15:58:27+08:00</published>
-        <author>
-            <name>Limour&#039;s Blog</name>
-            <uri>https://hexo.limour.top</uri>
-        </author>
-        <summary type="text"><![CDATA[【绘图】相关性散点图]]></summary>
-    </entry>
-        <entry>
-        <title>关于hugo的Waline评论和转换教程</title>
-        <id>153881</id>
-        <link href="https://www.pgoj.top/archives/hugo-waline-tutorial.html?utm_source=blogfinder" />
-        <published>2026-04-25T15:31:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[关于hugo的Waline评论和转换教程]]></summary>
-    </entry>
-        <entry>
-        <title>部落格的文章靈感到底都是哪裡來的？</title>
-        <id>153882</id>
-        <link href="https://blog.giveanornot.com/blog-ideas/?utm_source=blogfinder" />
-        <published>2026-04-25T15:07:28+08:00</published>
-        <author>
-            <name>資工小廢物  - JN</name>
-            <uri>https://blog.giveanornot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[部落格的文章靈感到底都是哪裡來的？]]></summary>
-    </entry>
-        <entry>
-        <title>VSCode如何使用自定义模型替代Copilot官方模型并使用Copilot的Agent对话</title>
-        <id>153900</id>
-        <link href="https://jyblog.cn/5418/?utm_source=blogfinder" />
-        <published>2026-04-25T15:01:18+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[VSCode如何使用自定义模型替代Copilot官方模型并使用Copilot的Agent对话]]></summary>
     </entry>
     </feed>
