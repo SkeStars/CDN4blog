@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-28T12:01:24+08:00</updated>
+    <updated>2026-04-28T15:00:40+08:00</updated>
+        <entry>
+        <title>博客评论自动填充新方案：兼容 Vue／React 响应式绑定与跨架构填充逻辑</title>
+        <id>154307</id>
+        <link href="https://wuqishi.com/archives/universal-blog-comment-filler-pro?utm_source=blogfinder" />
+        <published>2026-04-28T12:47:19+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[博客评论自动填充新方案：兼容 Vue／React 响应式绑定与跨架构填充逻辑]]></summary>
+    </entry>
         <entry>
         <title>GitHub Copilot 套餐大变动，取消年费会员，改用 token 计费</title>
         <id>154283</id>
@@ -1408,38 +1419,5 @@
             <uri>https://jyblog.cn</uri>
         </author>
         <summary type="text"><![CDATA[VSCode如何使用自定义模型替代Copilot官方模型并使用Copilot的Agent对话]]></summary>
-    </entry>
-        <entry>
-        <title>2026 生产级指南：Halo 2.x + PostgreSQL 自动化部署与性能优化手册</title>
-        <id>154028</id>
-        <link href="https://wuqishi.com/archives/halo-postgresql-deployment?utm_source=blogfinder" />
-        <published>2026-04-25T14:17:57+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026 生产级指南：Halo 2.x + PostgreSQL 自动化部署与性能优化手册]]></summary>
-    </entry>
-        <entry>
-        <title>收到微软Bing的奖品</title>
-        <id>153883</id>
-        <link href="https://xingwangzhe.fun/posts/microsoft-bing-prize/?utm_source=blogfinder" />
-        <published>2026-04-25T14:00:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[收到微软Bing的奖品]]></summary>
-    </entry>
-        <entry>
-        <title>为什么选择OneNote又为什么放弃OneNote选择Obsidian</title>
-        <id>153915</id>
-        <link href="https://yijile.com/zh/why-abandon-onenote-for-obsidian/?utm_source=blogfinder" />
-        <published>2026-04-25T13:46:16+08:00</published>
-        <author>
-            <name>一极乐</name>
-            <uri>https://yijile.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么选择OneNote又为什么放弃OneNote选择Obsidian]]></summary>
     </entry>
     </feed>
