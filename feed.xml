@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-28T17:02:12+08:00</updated>
+    <updated>2026-04-28T20:02:19+08:00</updated>
+        <entry>
+        <title>DroidSpaces 在安卓上跑 Linux 发行版踩坑实录</title>
+        <id>154329</id>
+        <link href="https://blog.samhou.moe/droidspaces-linux/?utm_source=blogfinder" />
+        <published>2026-04-28T19:05:02+08:00</published>
+        <author>
+            <name>SamHou&#039;s Blog</name>
+            <uri>https://blog.samhou.moe</uri>
+        </author>
+        <summary type="text"><![CDATA[DroidSpaces 在安卓上跑 Linux 发行版踩坑实录]]></summary>
+    </entry>
+        <entry>
+        <title>闷声发大财</title>
+        <id>154317</id>
+        <link href="https://blog.solazy.me/20260428/?utm_source=blogfinder" />
+        <published>2026-04-28T17:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[闷声发大财]]></summary>
+    </entry>
         <entry>
         <title>【读书记1659】加缪《西西弗神话》</title>
         <id>154308</id>
@@ -22,6 +44,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1659】加缪《西西弗神话》]]></summary>
+    </entry>
+        <entry>
+        <title>基于 AI 二次开发内部 MES 系统的一些个人经验</title>
+        <id>154315</id>
+        <link href="https://www.sunzhongwei.com/mes-ai-development?utm_source=blogfinder" />
+        <published>2026-04-28T13:09:47+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[基于 AI 二次开发内部 MES 系统的一些个人经验]]></summary>
     </entry>
         <entry>
         <title>博客评论自动填充新方案：兼容 Vue／React 响应式绑定与跨架构填充逻辑</title>
@@ -66,6 +99,17 @@
             <uri>http://www.xulog.cn</uri>
         </author>
         <summary type="text"><![CDATA[小霸王游戏机]]></summary>
+    </entry>
+        <entry>
+        <title>达梦数据库备份详解</title>
+        <id>154316</id>
+        <link href="https://chegva.com/6699.html?utm_source=blogfinder" />
+        <published>2026-04-28T10:59:03+08:00</published>
+        <author>
+            <name>安志合的学习博客</name>
+            <uri>https://chegva.com</uri>
+        </author>
+        <summary type="text"><![CDATA[达梦数据库备份详解]]></summary>
     </entry>
         <entry>
         <title>GitHub Copilot 套餐大变动，取消年费会员，改用 token 计费</title>
@@ -1386,49 +1430,5 @@
             <uri>https://airy.ink</uri>
         </author>
         <summary type="text"><![CDATA[依旧东湖]]></summary>
-    </entry>
-        <entry>
-        <title>松峰山</title>
-        <id>153958</id>
-        <link href="https://siwei.li/song-feng-shan/?utm_source=blogfinder" />
-        <published>2026-04-25T19:30:21+08:00</published>
-        <author>
-            <name>Siwei Li</name>
-            <uri>https://siwei.li</uri>
-        </author>
-        <summary type="text"><![CDATA[松峰山]]></summary>
-    </entry>
-        <entry>
-        <title>Zine#48</title>
-        <id>153885</id>
-        <link href="https://taxodium.ink/48.html?utm_source=blogfinder" />
-        <published>2026-04-25T18:00:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[Zine#48]]></summary>
-    </entry>
-        <entry>
-        <title>风停在张家港</title>
-        <id>153884</id>
-        <link href="https://mojue88.com/132/?utm_source=blogfinder" />
-        <published>2026-04-25T17:55:15+08:00</published>
-        <author>
-            <name>墨觉の日记</name>
-            <uri>https://mojue88.com</uri>
-        </author>
-        <summary type="text"><![CDATA[风停在张家港]]></summary>
-    </entry>
-        <entry>
-        <title>两朵红花</title>
-        <id>153914</id>
-        <link href="https://justgoidea.com/two-reds/?utm_source=blogfinder" />
-        <published>2026-04-25T17:44:00+08:00</published>
-        <author>
-            <name>槿呈 Goidea</name>
-            <uri>https://justgoidea.com</uri>
-        </author>
-        <summary type="text"><![CDATA[两朵红花]]></summary>
     </entry>
     </feed>
