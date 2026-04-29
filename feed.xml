@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-29T17:12:25+08:00</updated>
+    <updated>2026-04-29T20:00:46+08:00</updated>
+        <entry>
+        <title>《拔草小记》</title>
+        <id>154420</id>
+        <link href="https://www.weiwenchao.com/2545.html?utm_source=blogfinder" />
+        <published>2026-04-29T19:12:00+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《拔草小记》]]></summary>
+    </entry>
         <entry>
         <title>自运营的博客之家论坛已上线</title>
         <id>154412</id>
@@ -22,6 +33,28 @@
             <uri>https://blog.moodlog.cn</uri>
         </author>
         <summary type="text"><![CDATA[自运营的博客之家论坛已上线]]></summary>
+    </entry>
+        <entry>
+        <title>独立博客，难在不够独立</title>
+        <id>154417</id>
+        <link href="https://blog.solazy.me/20260429/?utm_source=blogfinder" />
+        <published>2026-04-29T15:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[独立博客，难在不够独立]]></summary>
+    </entry>
+        <entry>
+        <title>中国传统色上线！快速寻找和使用具有文化气息和韵味的中国传统色</title>
+        <id>154413</id>
+        <link href="https://blog.zhheo.com/p/hv4xgjxl.html?utm_source=blogfinder" />
+        <published>2026-04-29T14:28:12+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[中国传统色上线！快速寻找和使用具有文化气息和韵味的中国传统色]]></summary>
     </entry>
         <entry>
         <title>都来当“护花使者”啰！</title>
@@ -57,6 +90,17 @@
         <summary type="text"><![CDATA[Lesson 17 光子气体]]></summary>
     </entry>
         <entry>
+        <title>明星经济和创业思维(3)</title>
+        <id>154418</id>
+        <link href="http://www.auiou.com/relevant/00002147.jsp?utm_source=blogfinder" />
+        <published>2026-04-29T10:34:00+08:00</published>
+        <author>
+            <name>王志勇的 Blog</name>
+            <uri>http://www.auiou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[明星经济和创业思维(3)]]></summary>
+    </entry>
+        <entry>
         <title>二宫保育园入园式</title>
         <id>154404</id>
         <link href="https://shuiba.co/ninomiya-entrance-ceremony?utm_source=blogfinder" />
@@ -66,6 +110,17 @@
             <uri>https://shuiba.co</uri>
         </author>
         <summary type="text"><![CDATA[二宫保育园入园式]]></summary>
+    </entry>
+        <entry>
+        <title>如何将小米CodingPlan的Mimo模型接入到OpenClaw</title>
+        <id>154414</id>
+        <link href="https://blog.zhheo.com/p/920gpt1r.html?utm_source=blogfinder" />
+        <published>2026-04-29T10:10:08+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[如何将小米CodingPlan的Mimo模型接入到OpenClaw]]></summary>
     </entry>
         <entry>
         <title>一句话需求，五个 AI，三篇文章：我的多智能体写作实验</title>
@@ -110,6 +165,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[世界是一个巨大的 Yes/No]]></summary>
+    </entry>
+        <entry>
+        <title>台湾人说话，为什么爱用成语收尾还逐字加重？</title>
+        <id>154416</id>
+        <link href="https://lawtee.com/article/chengyu/?utm_source=blogfinder" />
+        <published>2026-04-29T08:53:04+08:00</published>
+        <author>
+            <name>老 T 博客</name>
+            <uri>https://lawtee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[台湾人说话，为什么爱用成语收尾还逐字加重？]]></summary>
     </entry>
         <entry>
         <title>周日自己做了胡萝卜牛肉包子</title>
@@ -209,6 +275,17 @@
             <uri>https://nxxy335.top</uri>
         </author>
         <summary type="text"><![CDATA[26春学8周杂记]]></summary>
+    </entry>
+        <entry>
+        <title>cn域名终于可以保护隐私了</title>
+        <id>154419</id>
+        <link href="https://www.xrbk.cn/post/67.html?utm_source=blogfinder" />
+        <published>2026-04-28T20:43:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://www.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[cn域名终于可以保护隐私了]]></summary>
     </entry>
         <entry>
         <title>《送你一把小黄花》</title>
@@ -363,6 +440,17 @@
             <uri>https://wuqishi.com</uri>
         </author>
         <summary type="text"><![CDATA[博客评论自动填充新方案：兼容 Vue／React 响应式绑定与跨架构填充逻辑]]></summary>
+    </entry>
+        <entry>
+        <title>新的开始 (6P)</title>
+        <id>154415</id>
+        <link href="https://shuiba.co/new-start?utm_source=blogfinder" />
+        <published>2026-04-28T12:32:00+08:00</published>
+        <author>
+            <name>水八口的冥想盆</name>
+            <uri>https://shuiba.co</uri>
+        </author>
+        <summary type="text"><![CDATA[新的开始 (6P)]]></summary>
     </entry>
         <entry>
         <title>最近惦念 20260418</title>
@@ -1221,104 +1309,5 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[大山里的竹笋一辈子都达不到的阶层！]]></summary>
-    </entry>
-        <entry>
-        <title>周末流水账 0426</title>
-        <id>153959</id>
-        <link href="https://blog.solazy.me/20260426/?utm_source=blogfinder" />
-        <published>2026-04-26T20:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[周末流水账 0426]]></summary>
-    </entry>
-        <entry>
-        <title>火龙果醪糟做失败了</title>
-        <id>153948</id>
-        <link href="https://ygz.ink/archives/4705.html?utm_source=blogfinder" />
-        <published>2026-04-26T19:58:24+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[火龙果醪糟做失败了]]></summary>
-    </entry>
-        <entry>
-        <title>在 Github 中通过创建 issue 来唤醒 claude 工作</title>
-        <id>153953</id>
-        <link href="https://blog.devtang.com/2026/04/26/config-github-app-and-claude-to-create-pr-from-issue/?utm_source=blogfinder" />
-        <published>2026-04-26T19:55:42+08:00</published>
-        <author>
-            <name>唐巧的博客</name>
-            <uri>https://blog.devtang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[在 Github 中通过创建 issue 来唤醒 claude 工作]]></summary>
-    </entry>
-        <entry>
-        <title>重庆中央公园一游</title>
-        <id>153949</id>
-        <link href="https://ygz.ink/archives/4691.html?utm_source=blogfinder" />
-        <published>2026-04-26T19:53:24+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[重庆中央公园一游]]></summary>
-    </entry>
-        <entry>
-        <title>【不凡摄影作品 | 2026.4.26】</title>
-        <id>153952</id>
-        <link href="https://www.bufanz.com/20260426575.html?utm_source=blogfinder" />
-        <published>2026-04-26T19:52:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【不凡摄影作品 | 2026.4.26】]]></summary>
-    </entry>
-        <entry>
-        <title>游记｜在宜兴度过一个平淡的假期</title>
-        <id>153940</id>
-        <link href="https://blog.ops-coffee.com/r/city-china-jiangsu-wuxi-yixing-tuanjiu.html?utm_source=blogfinder" />
-        <published>2026-04-26T19:39:27+08:00</published>
-        <author>
-            <name>运维咖啡吧</name>
-            <uri>https://blog.ops-coffee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[游记｜在宜兴度过一个平淡的假期]]></summary>
-    </entry>
-        <entry>
-        <title>《开始回归QQ了》</title>
-        <id>153945</id>
-        <link href="https://www.weiwenchao.com/2528.html?utm_source=blogfinder" />
-        <published>2026-04-26T19:17:18+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《开始回归QQ了》]]></summary>
-    </entry>
-        <entry>
-        <title>阅读，是我度过迷茫的方式</title>
-        <id>154007</id>
-        <link href="https://bwskyer.com/reading-through-the-fog.html?utm_source=blogfinder" />
-        <published>2026-04-26T18:50:11+08:00</published>
-        <author>
-            <name>生活的左上角</name>
-            <uri>https://bwskyer.com</uri>
-        </author>
-        <summary type="text"><![CDATA[阅读，是我度过迷茫的方式]]></summary>
-    </entry>
-        <entry>
-        <title>从手指头发麻到颈椎检查</title>
-        <id>153941</id>
-        <link href="https://www.liangduiban.com/jibingfangzi/655.html?utm_source=blogfinder" />
-        <published>2026-04-26T18:48:49+08:00</published>
-        <author>
-            <name>两对半</name>
-            <uri>https://www.liangduiban.com</uri>
-        </author>
-        <summary type="text"><![CDATA[从手指头发麻到颈椎检查]]></summary>
     </entry>
     </feed>
