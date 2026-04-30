@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-30T15:00:43+08:00</updated>
+    <updated>2026-04-30T17:01:39+08:00</updated>
+        <entry>
+        <title>喵喵游记——初访上海</title>
+        <id>154492</id>
+        <link href="https://www.mmbkz.cn/f12fe75d.html?utm_source=blogfinder" />
+        <published>2026-04-30T16:58:00+08:00</published>
+        <author>
+            <name>绯色之喵</name>
+            <uri>https://www.mmbkz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[喵喵游记——初访上海]]></summary>
+    </entry>
+        <entry>
+        <title>利用QClaw自动收集热点新闻，自动发布博客文章</title>
+        <id>154494</id>
+        <link href="https://www.zhyok.cn/index.php/archives/340/?utm_source=blogfinder" />
+        <published>2026-04-30T14:41:00+08:00</published>
+        <author>
+            <name>秋記 Autumn</name>
+            <uri>https://www.zhyok.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[利用QClaw自动收集热点新闻，自动发布博客文章]]></summary>
+    </entry>
+        <entry>
+        <title>昨日重现</title>
+        <id>154493</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1132&amp;utm_source=blogfinder" />
+        <published>2026-04-30T13:56:21+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[昨日重现]]></summary>
+    </entry>
         <entry>
         <title>再一次来泰国</title>
         <id>154488</id>
@@ -22,6 +55,17 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[再一次来泰国]]></summary>
+    </entry>
+        <entry>
+        <title>轻量笔记Memos的便捷与不足</title>
+        <id>154495</id>
+        <link href="https://www.pgoj.top/archives/memosbiji.html/?utm_source=blogfinder" />
+        <published>2026-04-30T13:48:20+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[轻量笔记Memos的便捷与不足]]></summary>
     </entry>
         <entry>
         <title>绝对自信，我信你个鬼！</title>
@@ -68,6 +112,17 @@
         <summary type="text"><![CDATA[摄影日记]]></summary>
     </entry>
         <entry>
+        <title>我的 AI 学习日志（从 2025 年 1 月开始，持续更新）</title>
+        <id>154491</id>
+        <link href="https://oheng.com/%e6%88%91%e7%9a%84-ai-%e5%ad%a6%e4%b9%a0%e6%97%a5%e5%bf%97%ef%bc%88%e4%bb%8e-2025-%e5%b9%b4-1-%e6%9c%88%e5%bc%80%e5%a7%8b%ef%bc%8c%e6%8c%81%e7%bb%ad%e6%9b%b4%e6%96%b0%ef%bc%89/?utm_source=blogfinder" />
+        <published>2026-04-30T09:00:00+08:00</published>
+        <author>
+            <name>飞觞醉月</name>
+            <uri>https://oheng.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我的 AI 学习日志（从 2025 年 1 月开始，持续更新）]]></summary>
+    </entry>
+        <entry>
         <title>怎样才算是不惮以最坏的恶意来推测中国人？</title>
         <id>154476</id>
         <link href="https://mobius.blog/23338.html?utm_source=blogfinder" />
@@ -112,6 +167,17 @@
         <summary type="text"><![CDATA[【读书记1661】毗耶娑《薄伽梵歌》]]></summary>
     </entry>
         <entry>
+        <title>源于同一份偏激的善良与残忍</title>
+        <id>154496</id>
+        <link href="https://www.pgoj.top/archives/grace.html/?utm_source=blogfinder" />
+        <published>2026-04-30T08:00:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[源于同一份偏激的善良与残忍]]></summary>
+    </entry>
+        <entry>
         <title>我的钢琴作品《当一切结束时》</title>
         <id>154472</id>
         <link href="https://www.immarcus.com/blog/piano-composition-when-its-all-over?utm_source=blogfinder" />
@@ -154,6 +220,17 @@
             <uri>https://nocoding.life</uri>
         </author>
         <summary type="text"><![CDATA[一套 90 万美元的房子，租和买到底差多少？我用数据算了 30 年]]></summary>
+    </entry>
+        <entry>
+        <title>我们的2021年</title>
+        <id>154490</id>
+        <link href="https://shuiba.co/our-year-2021?utm_source=blogfinder" />
+        <published>2026-04-30T06:17:00+08:00</published>
+        <author>
+            <name>水八口的冥想盆</name>
+            <uri>https://shuiba.co</uri>
+        </author>
+        <summary type="text"><![CDATA[我们的2021年]]></summary>
     </entry>
         <entry>
         <title>256 清理自行车的感想</title>
@@ -1254,38 +1331,5 @@
             <uri>https://blog.bxaw.name</uri>
         </author>
         <summary type="text"><![CDATA[看似辩驳，实则止痛——情绪反击与边界焦虑]]></summary>
-    </entry>
-        <entry>
-        <title>路过别人家的春天，直接被美晕</title>
-        <id>153997</id>
-        <link href="https://luolt.cn/archives/3149.html?utm_source=blogfinder" />
-        <published>2026-04-27T16:52:03+08:00</published>
-        <author>
-            <name>洛丽糖</name>
-            <uri>http://luolt.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[路过别人家的春天，直接被美晕]]></summary>
-    </entry>
-        <entry>
-        <title>巴格拉斯效果（Berglas）</title>
-        <id>154312</id>
-        <link href="https://blog.huaxiangshan.com/zh-cn/posts/bgls/?utm_source=blogfinder" />
-        <published>2026-04-27T16:09:19+08:00</published>
-        <author>
-            <name>滑翔闪&#039;s Blog</name>
-            <uri>https://blog.huaxiangshan.com</uri>
-        </author>
-        <summary type="text"><![CDATA[巴格拉斯效果（Berglas）]]></summary>
-    </entry>
-        <entry>
-        <title>小预算让花开满餐厅</title>
-        <id>154272</id>
-        <link href="https://www.laomuzhu.cn/283.html?utm_source=blogfinder" />
-        <published>2026-04-27T15:15:00+08:00</published>
-        <author>
-            <name>木竹</name>
-            <uri>https://www.laomuzhu.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[小预算让花开满餐厅]]></summary>
     </entry>
     </feed>
