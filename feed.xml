@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-04-30T17:01:39+08:00</updated>
+    <updated>2026-04-30T19:00:32+08:00</updated>
+        <entry>
+        <title>我（不）想让 AI 帮我做</title>
+        <id>154500</id>
+        <link href="https://www.geedea.pro/article/no-ai-for-my-joy/?utm_source=blogfinder" />
+        <published>2026-04-30T17:07:12+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[我（不）想让 AI 帮我做]]></summary>
+    </entry>
         <entry>
         <title>喵喵游记——初访上海</title>
         <id>154492</id>
@@ -22,6 +33,17 @@
             <uri>https://www.mmbkz.cn</uri>
         </author>
         <summary type="text"><![CDATA[喵喵游记——初访上海]]></summary>
+    </entry>
+        <entry>
+        <title>她说“爸爸辛苦了”</title>
+        <id>154499</id>
+        <link href="https://blog.yiyou.bj.cn/archives/ta-shuo-ba-ba-xin-ku-liao?utm_source=blogfinder" />
+        <published>2026-04-30T14:45:48+08:00</published>
+        <author>
+            <name>益友网站</name>
+            <uri>https://blog.yiyou.bj.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[她说“爸爸辛苦了”]]></summary>
     </entry>
         <entry>
         <title>利用QClaw自动收集热点新闻，自动发布博客文章</title>
@@ -66,6 +88,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[轻量笔记Memos的便捷与不足]]></summary>
+    </entry>
+        <entry>
+        <title>近期生活 &amp; 2026 Q1 Review</title>
+        <id>154497</id>
+        <link href="https://blog.imalan.cn/archives/recent-life-2026-q1-review/?utm_source=blogfinder" />
+        <published>2026-04-30T13:15:11+08:00</published>
+        <author>
+            <name>失眠海峡</name>
+            <uri>https://blog.imalan.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[近期生活 &amp; 2026 Q1 Review]]></summary>
     </entry>
         <entry>
         <title>绝对自信，我信你个鬼！</title>
@@ -253,6 +286,17 @@
             <uri>https://veryatao.com</uri>
         </author>
         <summary type="text"><![CDATA[「薅羊毛」小米 MiMo 100万亿 Token 免费领取教程]]></summary>
+    </entry>
+        <entry>
+        <title>超级马里奥全明星</title>
+        <id>154498</id>
+        <link href="https://pewae.com/2026/04/super-mario-all-stars.html?utm_source=blogfinder" />
+        <published>2026-04-29T23:28:55+08:00</published>
+        <author>
+            <name>破袜子</name>
+            <uri>https://pewae.com</uri>
+        </author>
+        <summary type="text"><![CDATA[超级马里奥全明星]]></summary>
     </entry>
         <entry>
         <title>AI时代TOKEN拾荒的日子 - 1</title>
@@ -1276,60 +1320,5 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[继续开发《我的博客》游戏]]></summary>
-    </entry>
-        <entry>
-        <title>整个四月全部在赶论文</title>
-        <id>154009</id>
-        <link href="https://ygz.ink/archives/4727.html?utm_source=blogfinder" />
-        <published>2026-04-27T18:32:03+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[整个四月全部在赶论文]]></summary>
-    </entry>
-        <entry>
-        <title>AI 也该有护照了</title>
-        <id>154048</id>
-        <link href="https://1q43.blog/post/12323/?utm_source=blogfinder" />
-        <published>2026-04-27T18:18:59+08:00</published>
-        <author>
-            <name>虹线</name>
-            <uri>https://1q43.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[AI 也该有护照了]]></summary>
-    </entry>
-        <entry>
-        <title>emaction，但适配pjax（附新版教程）</title>
-        <id>154011</id>
-        <link href="https://blog.storia.ren/posts/emaction-pjax/?utm_source=blogfinder" />
-        <published>2026-04-27T18:10:18+08:00</published>
-        <author>
-            <name>绘星里</name>
-            <uri>https://blog.storia.ren</uri>
-        </author>
-        <summary type="text"><![CDATA[emaction，但适配pjax（附新版教程）]]></summary>
-    </entry>
-        <entry>
-        <title>13公里外的中国尊和央视一角</title>
-        <id>154010</id>
-        <link href="https://fxpai.com/article/13gongliwaidezhongguozunheyangshiyijiao?utm_source=blogfinder" />
-        <published>2026-04-27T18:00:38+08:00</published>
-        <author>
-            <name>非学·派</name>
-            <uri>https://fxpai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[13公里外的中国尊和央视一角]]></summary>
-    </entry>
-        <entry>
-        <title>看似辩驳，实则止痛——情绪反击与边界焦虑</title>
-        <id>154004</id>
-        <link href="https://blog.bxaw.name/archives/What-Feels-Like-Arguing-Is-Often-Just-Numbing-Pain-Emotional-Retaliation-and-Boundary-Anxiety.html?utm_source=blogfinder" />
-        <published>2026-04-27T17:58:00+08:00</published>
-        <author>
-            <name>白熊阿丸的小屋</name>
-            <uri>https://blog.bxaw.name</uri>
-        </author>
-        <summary type="text"><![CDATA[看似辩驳，实则止痛——情绪反击与边界焦虑]]></summary>
     </entry>
     </feed>
