@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-01T19:00:29+08:00</updated>
+    <updated>2026-05-01T21:00:45+08:00</updated>
+        <entry>
+        <title>《我们如何才能幸福？》</title>
+        <id>154555</id>
+        <link href="https://www.weiwenchao.com/2549.html?utm_source=blogfinder" />
+        <published>2026-05-01T18:43:00+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《我们如何才能幸福？》]]></summary>
+    </entry>
         <entry>
         <title>长岭湖五一随拍</title>
         <id>154554</id>
@@ -209,6 +220,17 @@
             <uri>https://www.evan.xin</uri>
         </author>
         <summary type="text"><![CDATA[QoderWake：把 Agent 做成“同事”的那条路]]></summary>
+    </entry>
+        <entry>
+        <title>轻言：为 Halo 注入一句话的灵动与温度</title>
+        <id>154556</id>
+        <link href="https://www.puresky.top/archives/CAymMFF6?utm_source=blogfinder" />
+        <published>2026-04-30T23:52:07+08:00</published>
+        <author>
+            <name>轻雅阁</name>
+            <uri>https://www.puresky.top</uri>
+        </author>
+        <summary type="text"><![CDATA[轻言：为 Halo 注入一句话的灵动与温度]]></summary>
     </entry>
         <entry>
         <title>再见面板：Debian构建WordPress</title>
@@ -1408,60 +1430,5 @@
             <uri>https://blog.codingnow.com</uri>
         </author>
         <summary type="text"><![CDATA[我对《缺氧》的游戏理解]]></summary>
-    </entry>
-        <entry>
-        <title>cn域名终于可以保护隐私了</title>
-        <id>154419</id>
-        <link href="https://www.xrbk.cn/post/67.html?utm_source=blogfinder" />
-        <published>2026-04-28T20:43:00+08:00</published>
-        <author>
-            <name>新锐博客</name>
-            <uri>https://www.xrbk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[cn域名终于可以保护隐私了]]></summary>
-    </entry>
-        <entry>
-        <title>《送你一把小黄花》</title>
-        <id>154334</id>
-        <link href="https://www.weiwenchao.com/2539.html?utm_source=blogfinder" />
-        <published>2026-04-28T19:43:00+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《送你一把小黄花》]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 19 Hawking 辐射 (Unruh Effect)</title>
-        <id>154335</id>
-        <link href="https://physnya.top/GR/lesson-19-unruh-effect/?utm_source=blogfinder" />
-        <published>2026-04-28T19:21:15+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 19 Hawking 辐射 (Unruh Effect)]]></summary>
-    </entry>
-        <entry>
-        <title>[karvl] 香港 移动优化 2刀鸡</title>
-        <id>154337</id>
-        <link href="https://blog.yeqing.net/karvl-hk-2usd/?utm_source=blogfinder" />
-        <published>2026-04-28T19:19:39+08:00</published>
-        <author>
-            <name>夜轻 Blog</name>
-            <uri>https://blog.yeqing.net</uri>
-        </author>
-        <summary type="text"><![CDATA[[karvl] 香港 移动优化 2刀鸡]]></summary>
-    </entry>
-        <entry>
-        <title>DroidSpaces 在安卓上跑 Linux 发行版踩坑实录</title>
-        <id>154329</id>
-        <link href="https://blog.samhou.moe/droidspaces-linux/?utm_source=blogfinder" />
-        <published>2026-04-28T19:05:02+08:00</published>
-        <author>
-            <name>SamHou&#039;s Blog</name>
-            <uri>https://blog.samhou.moe</uri>
-        </author>
-        <summary type="text"><![CDATA[DroidSpaces 在安卓上跑 Linux 发行版踩坑实录]]></summary>
     </entry>
     </feed>
