@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-01T15:00:40+08:00</updated>
+    <updated>2026-05-01T18:00:39+08:00</updated>
+        <entry>
+        <title>先天知识？</title>
+        <id>154553</id>
+        <link href="https://sliun.com/vwxyz/?utm_source=blogfinder" />
+        <published>2026-05-01T15:00:00+08:00</published>
+        <author>
+            <name>理论派</name>
+            <uri>https://sliun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[先天知识？]]></summary>
+    </entry>
+        <entry>
+        <title>老家插秧季，一田新绿入夏来</title>
+        <id>154547</id>
+        <link href="https://luolt.cn/archives/3151.html?utm_source=blogfinder" />
+        <published>2026-05-01T14:22:02+08:00</published>
+        <author>
+            <name>洛丽糖</name>
+            <uri>http://luolt.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[老家插秧季，一田新绿入夏来]]></summary>
+    </entry>
+        <entry>
+        <title>百品电台：自动提供反代的电台App</title>
+        <id>154549</id>
+        <link href="https://baipin.pw/projects/radioapp.html?utm_source=blogfinder" />
+        <published>2026-05-01T14:10:32+08:00</published>
+        <author>
+            <name>百品博客</name>
+            <uri>https://baipin.pw</uri>
+        </author>
+        <summary type="text"><![CDATA[百品电台：自动提供反代的电台App]]></summary>
+    </entry>
+        <entry>
+        <title>重庆管局备案太快了</title>
+        <id>154548</id>
+        <link href="https://ygz.ink/archives/4746.html?utm_source=blogfinder" />
+        <published>2026-05-01T12:23:36+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[重庆管局备案太快了]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1662】沈从文《沈从文说文物：织锦篇》</title>
+        <id>154545</id>
+        <link href="http://www.qncd.com/?p=12711&amp;utm_source=blogfinder" />
+        <published>2026-05-01T11:28:05+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1662】沈从文《沈从文说文物：织锦篇》]]></summary>
+    </entry>
         <entry>
         <title>本站域名已续费，短期不会跑路</title>
         <id>154543</id>
@@ -112,6 +167,17 @@
         <summary type="text"><![CDATA[各色 AI 极地大冲击]]></summary>
     </entry>
         <entry>
+        <title>如何搭建一个免登录的临时文件传输系统</title>
+        <id>154546</id>
+        <link href="https://lklog.cn/course/1410.html?utm_source=blogfinder" />
+        <published>2026-05-01T00:03:13+08:00</published>
+        <author>
+            <name>龙鲲博客</name>
+            <uri>https://lklog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[如何搭建一个免登录的临时文件传输系统]]></summary>
+    </entry>
+        <entry>
         <title>五一，劳动节 – 放假一天</title>
         <id>154536</id>
         <link href="https://oheng.com/may-day-labor-day/?utm_source=blogfinder" />
@@ -143,6 +209,17 @@
             <uri>https://www.xiaozonglin.cn</uri>
         </author>
         <summary type="text"><![CDATA[再见面板：Debian构建WordPress]]></summary>
+    </entry>
+        <entry>
+        <title>国内独立开发圈子太烂了</title>
+        <id>154550</id>
+        <link href="https://blog.solazy.me/20260430/?utm_source=blogfinder" />
+        <published>2026-04-30T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[国内独立开发圈子太烂了]]></summary>
     </entry>
         <entry>
         <title>苏州游</title>
@@ -187,6 +264,17 @@
             <uri>https://yayu.net</uri>
         </author>
         <summary type="text"><![CDATA[动物朋友]]></summary>
+    </entry>
+        <entry>
+        <title>Album#37 - Scenery(シーナリィ)</title>
+        <id>154544</id>
+        <link href="https://taxodium.ink/album-37.html?utm_source=blogfinder" />
+        <published>2026-04-30T22:00:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[Album#37 - Scenery(シーナリィ)]]></summary>
     </entry>
         <entry>
         <title>20260430</title>
@@ -1386,82 +1474,5 @@
             <uri>https://mecll.com</uri>
         </author>
         <summary type="text"><![CDATA[高中生如何从「认知觉醒」走向「认知驱动」]]></summary>
-    </entry>
-        <entry>
-        <title>Browser’s Bookmark Manager Is Actually Good</title>
-        <id>154381</id>
-        <link href="https://www.geedea.pro/en/article/browser-bookmarks/?utm_source=blogfinder" />
-        <published>2026-04-28T18:00:10+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[Browser’s Bookmark Manager Is Actually Good]]></summary>
-    </entry>
-        <entry>
-        <title>那么较真，那么勤快干嘛？</title>
-        <id>154331</id>
-        <link href="https://ichov.com/blog/so-why-be-diligent.html?utm_source=blogfinder" />
-        <published>2026-04-28T17:35:06+08:00</published>
-        <author>
-            <name>江子渔</name>
-            <uri>https://ichov.com</uri>
-        </author>
-        <summary type="text"><![CDATA[那么较真，那么勤快干嘛？]]></summary>
-    </entry>
-        <entry>
-        <title>闷声发大财</title>
-        <id>154317</id>
-        <link href="https://blog.solazy.me/20260428/?utm_source=blogfinder" />
-        <published>2026-04-28T17:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[闷声发大财]]></summary>
-    </entry>
-        <entry>
-        <title>药食同源-蒲公英，老祖宗的养生智慧被科学实锤。</title>
-        <id>154382</id>
-        <link href="https://www.zhyok.cn/index.php/archives/328/?utm_source=blogfinder" />
-        <published>2026-04-28T16:57:55+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[药食同源-蒲公英，老祖宗的养生智慧被科学实锤。]]></summary>
-    </entry>
-        <entry>
-        <title>说说：#2026-04-28 16:23</title>
-        <id>154432</id>
-        <link href="https://www.mmbkz.cn/69f06e72615ce.html?utm_source=blogfinder" />
-        <published>2026-04-28T16:23:14+08:00</published>
-        <author>
-            <name>绯色之喵</name>
-            <uri>https://www.mmbkz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[说说：#2026-04-28 16:23]]></summary>
-    </entry>
-        <entry>
-        <title>随思 #75 - 2026-04-28</title>
-        <id>154330</id>
-        <link href="http://qthinker.net/content/75?utm_source=blogfinder" />
-        <published>2026-04-28T15:31:25+08:00</published>
-        <author>
-            <name>Qthinker</name>
-            <uri>https://qthinker.net</uri>
-        </author>
-        <summary type="text"><![CDATA[随思 #75 - 2026-04-28]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1659】加缪《西西弗神话》</title>
-        <id>154308</id>
-        <link href="http://www.qncd.com/?p=12691&amp;utm_source=blogfinder" />
-        <published>2026-04-28T15:16:33+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1659】加缪《西西弗神话》]]></summary>
     </entry>
     </feed>
