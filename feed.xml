@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-01T23:01:31+08:00</updated>
+    <updated>2026-05-02T00:04:26+08:00</updated>
         <entry>
         <title>GoodBoyboy Blog、Talk联动成功</title>
         <id>154560</id>
@@ -57,6 +57,17 @@
         <summary type="text"><![CDATA[开箱唯卓仕EVO系列35mm f1.8镜头（尼康Z口），附录像视频样片]]></summary>
     </entry>
         <entry>
+        <title>说说：#2026-05-01 21:05</title>
+        <id>154564</id>
+        <link href="https://www.mmbkz.cn/69f4a52eac08f.html?utm_source=blogfinder" />
+        <published>2026-05-01T21:05:00+08:00</published>
+        <author>
+            <name>绯色之喵</name>
+            <uri>https://www.mmbkz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[说说：#2026-05-01 21:05]]></summary>
+    </entry>
+        <entry>
         <title>《我们如何才能幸福？》</title>
         <id>154555</id>
         <link href="https://www.weiwenchao.com/2549.html?utm_source=blogfinder" />
@@ -77,6 +88,17 @@
             <uri>https://siwei.li</uri>
         </author>
         <summary type="text"><![CDATA[长岭湖五一随拍]]></summary>
+    </entry>
+        <entry>
+        <title>五一流水账 0501</title>
+        <id>154565</id>
+        <link href="https://blog.solazy.me/20260501/?utm_source=blogfinder" />
+        <published>2026-05-01T18:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[五一流水账 0501]]></summary>
     </entry>
         <entry>
         <title>解决群晖 NAS SSL 证书自动部署难题 | 阿尔的代码屋</title>
@@ -231,6 +253,17 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[劳动大比之插花]]></summary>
+    </entry>
+        <entry>
+        <title>未来实体店面，绝非单属性经营。</title>
+        <id>154566</id>
+        <link href="https://www.jianker.cn/373.html?utm_source=blogfinder" />
+        <published>2026-05-01T03:44:23+08:00</published>
+        <author>
+            <name>魏德龙博客</name>
+            <uri>https://www.jianker.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[未来实体店面，绝非单属性经营。]]></summary>
     </entry>
         <entry>
         <title>小米MiMo Token Plan免费送辣！</title>
@@ -1397,49 +1430,5 @@
             <uri>https://innei.in</uri>
         </author>
         <summary type="text"><![CDATA[AI 正在吞噬我们的耐心]]></summary>
-    </entry>
-        <entry>
-        <title>读 — Prompt Caching 省钱指南</title>
-        <id>154438</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/29/读-—-prompt-caching-省钱指南/index.html?utm_source=blogfinder" />
-        <published>2026-04-29T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读 — Prompt Caching 省钱指南]]></summary>
-    </entry>
-        <entry>
-        <title>读 — GitHub Trending 里的 Claude Code 技能包</title>
-        <id>154437</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/29/读-—-github-trending-里的-claude-code-技能包/index.html?utm_source=blogfinder" />
-        <published>2026-04-29T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读 — GitHub Trending 里的 Claude Code 技能包]]></summary>
-    </entry>
-        <entry>
-        <title>Conducty：给 Claude Code 加上项目记忆和并行执行能力</title>
-        <id>154436</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/29/conducty：给-claude-code-加上项目记忆和并行执行能力/index.html?utm_source=blogfinder" />
-        <published>2026-04-29T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[Conducty：给 Claude Code 加上项目记忆和并行执行能力]]></summary>
-    </entry>
-        <entry>
-        <title>谈美女的重要性</title>
-        <id>154339</id>
-        <link href="http://etom.top/archives/so53.html?utm_source=blogfinder" />
-        <published>2026-04-28T23:09:00+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[谈美女的重要性]]></summary>
     </entry>
     </feed>
