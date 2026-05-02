@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-02T23:00:42+08:00</updated>
+    <updated>2026-05-03T00:04:01+08:00</updated>
+        <entry>
+        <title>失眠的夜</title>
+        <id>154631</id>
+        <link href="https://blog.yaten.xyz/posts/sleepless-night/?utm_source=blogfinder" />
+        <published>2026-05-02T22:52:30+08:00</published>
+        <author>
+            <name>Yaten-Z&#039;s Blog</name>
+            <uri>https://blog.yaten.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[失眠的夜]]></summary>
+    </entry>
         <entry>
         <title>见事思事</title>
         <id>154627</id>
@@ -22,6 +33,17 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[见事思事]]></summary>
+    </entry>
+        <entry>
+        <title>桐乡旅游流水账 0502</title>
+        <id>154630</id>
+        <link href="https://blog.solazy.me/20260502/?utm_source=blogfinder" />
+        <published>2026-05-02T21:30:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[桐乡旅游流水账 0502]]></summary>
     </entry>
         <entry>
         <title>Juanyi Chat：现代化实时的聊天室，无需框架依赖，开箱即用。</title>
@@ -44,6 +66,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[持续不懈地努力有意义也是一种天赋]]></summary>
+    </entry>
+        <entry>
+        <title>喵喵游记——探访苏州</title>
+        <id>154629</id>
+        <link href="https://www.mmbkz.cn/23a390f3.html?utm_source=blogfinder" />
+        <published>2026-05-02T17:25:00+08:00</published>
+        <author>
+            <name>绯色之喵</name>
+            <uri>https://www.mmbkz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[喵喵游记——探访苏州]]></summary>
     </entry>
         <entry>
         <title>Windows同一网卡配置多IP，轻松访问不同网段设备</title>
@@ -209,6 +242,17 @@
             <uri>http://luolt.cn</uri>
         </author>
         <summary type="text"><![CDATA[本站也实现了走心评论精选功能]]></summary>
+    </entry>
+        <entry>
+        <title>Agent Loop 简介</title>
+        <id>154628</id>
+        <link href="https://blog.devtang.com/2026/05/02/agent-loop-intro/?utm_source=blogfinder" />
+        <published>2026-05-02T08:10:00+08:00</published>
+        <author>
+            <name>唐巧的博客</name>
+            <uri>https://blog.devtang.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Agent Loop 简介]]></summary>
     </entry>
         <entry>
         <title>【读书记1663】沈从文《沈从文说文物：书画篇》</title>
@@ -1408,115 +1452,5 @@
             <uri>https://veryatao.com</uri>
         </author>
         <summary type="text"><![CDATA[「薅羊毛」小米 MiMo 100万亿 Token 免费领取教程]]></summary>
-    </entry>
-        <entry>
-        <title>读：Security-First CI/CD —— DevSecOps 自动化实践指南</title>
-        <id>154515</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/30/读：security-first-ci-cd-——-devsecops-自动化实践指南/index.html?utm_source=blogfinder" />
-        <published>2026-04-30T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：Security-First CI/CD —— DevSecOps 自动化实践指南]]></summary>
-    </entry>
-        <entry>
-        <title>browser-harness：让 AI 直接接管你的浏览器</title>
-        <id>154514</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/27/browser-harness：让-ai-直接接管你的浏览器/index.html?utm_source=blogfinder" />
-        <published>2026-04-30T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[browser-harness：让 AI 直接接管你的浏览器]]></summary>
-    </entry>
-        <entry>
-        <title>读：Agent Harness Engineering——AI 智能体不只是模型，还有套件</title>
-        <id>154513</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/27/读：agent-harness-engineering——ai-智能体不只是模型，还有套件/index.html?utm_source=blogfinder" />
-        <published>2026-04-30T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：Agent Harness Engineering——AI 智能体不只是模型，还有套件]]></summary>
-    </entry>
-        <entry>
-        <title>Claude Code 背后的工程哲学——读 Agent Harness Engineering</title>
-        <id>154512</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/27/claude-code-背后的工程哲学——读-agent-harness-engineering/index.html?utm_source=blogfinder" />
-        <published>2026-04-30T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude Code 背后的工程哲学——读 Agent Harness Engineering]]></summary>
-    </entry>
-        <entry>
-        <title>读：在Emacs中使用Claude Code（Spacemacs适配版）</title>
-        <id>154511</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/30/读：在emacs中使用claude-code（spacemacs适配版）/index.html?utm_source=blogfinder" />
-        <published>2026-04-30T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：在Emacs中使用Claude Code（Spacemacs适配版）]]></summary>
-    </entry>
-        <entry>
-        <title>读：AI 辅助开发为什么让 E2E 测试更有价值</title>
-        <id>154510</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/30/读：ai-辅助开发为什么让-e2e-测试更有价值/index.html?utm_source=blogfinder" />
-        <published>2026-04-30T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：AI 辅助开发为什么让 E2E 测试更有价值]]></summary>
-    </entry>
-        <entry>
-        <title>读：50 条 Claude Code 技巧——一个工程经理的六个月使用心得</title>
-        <id>154509</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/30/读：50-条-claude-code-技巧——一个工程经理的六个月使用心得/index.html?utm_source=blogfinder" />
-        <published>2026-04-30T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：50 条 Claude Code 技巧——一个工程经理的六个月使用心得]]></summary>
-    </entry>
-        <entry>
-        <title>AI写作的语言指纹——如何让文字不那么像机器</title>
-        <id>154508</id>
-        <link href="https://lujun9972.github.io/blog/2026/04/30/ai写作的语言指纹——如何让文字不那么像机器/index.html?utm_source=blogfinder" />
-        <published>2026-04-30T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[AI写作的语言指纹——如何让文字不那么像机器]]></summary>
-    </entry>
-        <entry>
-        <title>超级马里奥全明星</title>
-        <id>154498</id>
-        <link href="https://pewae.com/2026/04/super-mario-all-stars.html?utm_source=blogfinder" />
-        <published>2026-04-29T23:28:55+08:00</published>
-        <author>
-            <name>破袜子</name>
-            <uri>https://pewae.com</uri>
-        </author>
-        <summary type="text"><![CDATA[超级马里奥全明星]]></summary>
-    </entry>
-        <entry>
-        <title>AI时代TOKEN拾荒的日子 - 1</title>
-        <id>154484</id>
-        <link href="https://knay.net/note/untitled-20260429?utm_source=blogfinder" />
-        <published>2026-04-29T23:04:12+08:00</published>
-        <author>
-            <name>Yang&#039;s Blog</name>
-            <uri>https://knay.net</uri>
-        </author>
-        <summary type="text"><![CDATA[AI时代TOKEN拾荒的日子 - 1]]></summary>
     </entry>
     </feed>
