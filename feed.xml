@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-02T14:00:28+08:00</updated>
+    <updated>2026-05-02T16:00:33+08:00</updated>
         <entry>
         <title>童真易满 成人难欢</title>
         <id>154604</id>
@@ -77,6 +77,17 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[好爽，出了一身酸汗]]></summary>
+    </entry>
+        <entry>
+        <title>个人图床：Cloudflare 服务+EdgeOne加速</title>
+        <id>154607</id>
+        <link href="https://blog.veitzn.top/%e4%b8%aa%e4%ba%ba%e5%9b%be%e5%ba%8a%ef%bc%9acloudflare-%e6%9c%8d%e5%8a%a1edgeone%e5%8a%a0%e9%80%9f/?utm_source=blogfinder" />
+        <published>2026-05-02T02:37:15+08:00</published>
+        <author>
+            <name>Veitzn 的小屋</name>
+            <uri>https://blog.veitzn.top</uri>
+        </author>
+        <summary type="text"><![CDATA[个人图床：Cloudflare 服务+EdgeOne加速]]></summary>
     </entry>
         <entry>
         <title>难得正版Windows又打骨折！白菜价</title>
@@ -231,6 +242,17 @@
             <uri>https://www.friendcc.com</uri>
         </author>
         <summary type="text"><![CDATA[小站又被 “照顾” 了]]></summary>
+    </entry>
+        <entry>
+        <title>最近有点懒，以及武夷肉桂初体验</title>
+        <id>154608</id>
+        <link href="https://iliu.org/posts/slacking-off-lately-and-first-taste-of-wuyi-rougui-tea/?utm_source=blogfinder" />
+        <published>2026-05-01T15:21:00+08:00</published>
+        <author>
+            <name>老刘博客</name>
+            <uri>https://iliu.org</uri>
+        </author>
+        <summary type="text"><![CDATA[最近有点懒，以及武夷肉桂初体验]]></summary>
     </entry>
         <entry>
         <title>先天知识？</title>
@@ -1452,71 +1474,5 @@
             <uri>https://blog.qiulaidongfeng.uk</uri>
         </author>
         <summary type="text"><![CDATA[如何进行浏览器完整性检查]]></summary>
-    </entry>
-        <entry>
-        <title>滴滴Android客户端一面凉经</title>
-        <id>154425</id>
-        <link href="https://blog.goodboyboy.top/posts/3466962992.html?utm_source=blogfinder" />
-        <published>2026-04-29T15:34:49+08:00</published>
-        <author>
-            <name>GoodBoyboy</name>
-            <uri>https://blog.goodboyboy.top</uri>
-        </author>
-        <summary type="text"><![CDATA[滴滴Android客户端一面凉经]]></summary>
-    </entry>
-        <entry>
-        <title>海的那边，真的是自由吗？</title>
-        <id>154452</id>
-        <link href="https://blog.418121.xyz/posts/3312bda3.html?utm_source=blogfinder" />
-        <published>2026-04-29T15:12:56+08:00</published>
-        <author>
-            <name>叶泯希</name>
-            <uri>https://blog.418121.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[海的那边，真的是自由吗？]]></summary>
-    </entry>
-        <entry>
-        <title>独立博客，难在不够独立</title>
-        <id>154417</id>
-        <link href="https://blog.solazy.me/20260429/?utm_source=blogfinder" />
-        <published>2026-04-29T15:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[独立博客，难在不够独立]]></summary>
-    </entry>
-        <entry>
-        <title>使用 cc switch 和 cc desktop switch 快速切换 Claude Code 供应商</title>
-        <id>154439</id>
-        <link href="https://youngxhui.top/2026/04/cc-switch/?utm_source=blogfinder" />
-        <published>2026-04-29T14:55:00+08:00</published>
-        <author>
-            <name>ISLAND</name>
-            <uri>https://youngxhui.top</uri>
-        </author>
-        <summary type="text"><![CDATA[使用 cc switch 和 cc desktop switch 快速切换 Claude Code 供应商]]></summary>
-    </entry>
-        <entry>
-        <title>中国传统色上线！快速寻找和使用具有文化气息和韵味的中国传统色</title>
-        <id>154413</id>
-        <link href="https://blog.zhheo.com/p/hv4xgjxl.html?utm_source=blogfinder" />
-        <published>2026-04-29T14:28:12+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[中国传统色上线！快速寻找和使用具有文化气息和韵味的中国传统色]]></summary>
-    </entry>
-        <entry>
-        <title>行者微评论222-佩剑扎手</title>
-        <id>154424</id>
-        <link href="http://stuit.cn/Xiaolu/Post/1614.html?utm_source=blogfinder" />
-        <published>2026-04-29T14:07:18+08:00</published>
-        <author>
-            <name>风雨行者</name>
-            <uri>http://stuit.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[行者微评论222-佩剑扎手]]></summary>
     </entry>
     </feed>
