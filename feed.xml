@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-02T21:00:38+08:00</updated>
+    <updated>2026-05-02T23:00:42+08:00</updated>
+        <entry>
+        <title>见事思事</title>
+        <id>154627</id>
+        <link href="https://blog.mcenahle.org.cn/2026/05/02/449.html?utm_source=blogfinder" />
+        <published>2026-05-02T22:35:32+08:00</published>
+        <author>
+            <name>梅之夏</name>
+            <uri>https://blog.mcenahle.org.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[见事思事]]></summary>
+    </entry>
         <entry>
         <title>Juanyi Chat：现代化实时的聊天室，无需框架依赖，开箱即用。</title>
         <id>154623</id>
@@ -33,6 +44,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[持续不懈地努力有意义也是一种天赋]]></summary>
+    </entry>
+        <entry>
+        <title>Windows同一网卡配置多IP，轻松访问不同网段设备</title>
+        <id>154625</id>
+        <link href="https://www.biibii.cn/713.html?utm_source=blogfinder" />
+        <published>2026-05-02T17:24:00+08:00</published>
+        <author>
+            <name>BIIBII</name>
+            <uri>https://www.biibii.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Windows同一网卡配置多IP，轻松访问不同网段设备]]></summary>
     </entry>
         <entry>
         <title>须弥寓言警告：不被灌装知识与算法吞噬才有未来</title>
@@ -231,6 +253,17 @@
             <uri>https://me.xu19.com</uri>
         </author>
         <summary type="text"><![CDATA[难得正版Windows又打骨折！白菜价]]></summary>
+    </entry>
+        <entry>
+        <title>不要坚持</title>
+        <id>154626</id>
+        <link href="https://yinji.org/do-not-insist.html?utm_source=blogfinder" />
+        <published>2026-05-02T00:09:26+08:00</published>
+        <author>
+            <name>印记</name>
+            <uri>https://yinji.org</uri>
+        </author>
+        <summary type="text"><![CDATA[不要坚持]]></summary>
     </entry>
         <entry>
         <title>把JM软件的广告去了</title>
@@ -1485,38 +1518,5 @@
             <uri>https://knay.net</uri>
         </author>
         <summary type="text"><![CDATA[AI时代TOKEN拾荒的日子 - 1]]></summary>
-    </entry>
-        <entry>
-        <title>换货唯卓仕EVO系列的35mm f1.8镜头，光斑没有裂缝了</title>
-        <id>154427</id>
-        <link href="https://www.bufanz.com/20260429585.html?utm_source=blogfinder" />
-        <published>2026-04-29T22:19:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[换货唯卓仕EVO系列的35mm f1.8镜头，光斑没有裂缝了]]></summary>
-    </entry>
-        <entry>
-        <title>Xiaomi MiMo 百万亿 Token Plan 免费领</title>
-        <id>154426</id>
-        <link href="https://www.51it.wang/ll/2182?utm_source=blogfinder" />
-        <published>2026-04-29T22:01:00+08:00</published>
-        <author>
-            <name>Lcry</name>
-            <uri>https://www.51it.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[Xiaomi MiMo 百万亿 Token Plan 免费领]]></summary>
-    </entry>
-        <entry>
-        <title>25年年报出来了</title>
-        <id>154482</id>
-        <link href="https://retire50blog.wang/invest/25%e5%b9%b4%e5%b9%b4%e6%8a%a5%e5%87%ba%e6%9d%a5%e4%ba%86.html?utm_source=blogfinder" />
-        <published>2026-04-29T21:52:51+08:00</published>
-        <author>
-            <name>个人工作记录</name>
-            <uri>https://retire50blog.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[25年年报出来了]]></summary>
     </entry>
     </feed>
