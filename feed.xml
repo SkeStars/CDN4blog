@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-03T18:00:57+08:00</updated>
+    <updated>2026-05-03T20:00:55+08:00</updated>
+        <entry>
+        <title>JN 最近在幹嘛</title>
+        <id>154656</id>
+        <link href="https://blog.giveanornot.com/now/20260503/?utm_source=blogfinder" />
+        <published>2026-05-03T18:09:17+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[JN 最近在幹嘛]]></summary>
+    </entry>
         <entry>
         <title>《在44岁的边缘，我读懂了海子》</title>
         <id>154652</id>
@@ -1287,16 +1298,5 @@
             <uri>https://blog.goodboyboy.top</uri>
         </author>
         <summary type="text"><![CDATA[只有失去了才会懂得珍惜，但幸好我还没有失去]]></summary>
-    </entry>
-        <entry>
-        <title>Question Record 01</title>
-        <id>154507</id>
-        <link href="https://blog.yaten.xyz/posts/question-record-01/?utm_source=blogfinder" />
-        <published>2026-04-30T18:44:14+08:00</published>
-        <author>
-            <name>Yaten-Z&#039;s Blog</name>
-            <uri>https://blog.yaten.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[Question Record 01]]></summary>
     </entry>
     </feed>
