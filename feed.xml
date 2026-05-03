@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-03T15:00:36+08:00</updated>
+    <updated>2026-05-03T16:00:32+08:00</updated>
         <entry>
         <title>彻底失去了看电影的乐趣</title>
         <id>154638</id>
@@ -209,6 +209,17 @@
             <uri>https://mecll.com</uri>
         </author>
         <summary type="text"><![CDATA[须弥寓言警告：不被灌装知识与算法吞噬才有未来]]></summary>
+    </entry>
+        <entry>
+        <title>流量至上时代的媒体失范：当暴利成为流量密码</title>
+        <id>154649</id>
+        <link href="https://iliu.org/media-illusion.html?utm_source=blogfinder" />
+        <published>2026-05-02T16:30:00+08:00</published>
+        <author>
+            <name>老刘博客</name>
+            <uri>https://iliu.org</uri>
+        </author>
+        <summary type="text"><![CDATA[流量至上时代的媒体失范：当暴利成为流量密码]]></summary>
     </entry>
         <entry>
         <title>人生讨论(21)：“明白不”的心理机制</title>
@@ -1276,16 +1287,5 @@
             <uri>https://nocoding.life</uri>
         </author>
         <summary type="text"><![CDATA[和 5 个 AI 智能体一起工作是什么体验]]></summary>
-    </entry>
-        <entry>
-        <title>Docker 部署 Rustdesk 中继服务器，告别远程桌面限速</title>
-        <id>154505</id>
-        <link href="https://blog.learm.cn/archives/2026-04-30.html?utm_source=blogfinder" />
-        <published>2026-04-30T15:33:00+08:00</published>
-        <author>
-            <name>张键的博客</name>
-            <uri>https://blog.learm.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Docker 部署 Rustdesk 中继服务器，告别远程桌面限速]]></summary>
     </entry>
     </feed>
