@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-03T21:00:46+08:00</updated>
+    <updated>2026-05-03T23:00:43+08:00</updated>
+        <entry>
+        <title>生活碎碎念：小城大梦</title>
+        <id>154660</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1273/?utm_source=blogfinder" />
+        <published>2026-05-03T21:57:17+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[生活碎碎念：小城大梦]]></summary>
+    </entry>
+        <entry>
+        <title>使用xiaomi mimo大模型api运行Hermes Agent</title>
+        <id>154659</id>
+        <link href="https://nicksxs.me/2026/05/03/%E4%BD%BF%E7%94%A8xiaomi-mimo%E5%A4%A7%E6%A8%A1%E5%9E%8Bapi%E8%BF%90%E8%A1%8CHermes-Agent/?utm_source=blogfinder" />
+        <published>2026-05-03T21:28:56+08:00</published>
+        <author>
+            <name>Nicksxs&#039;s Blog</name>
+            <uri>https://nicksxs.me</uri>
+        </author>
+        <summary type="text"><![CDATA[使用xiaomi mimo大模型api运行Hermes Agent]]></summary>
+    </entry>
+        <entry>
+        <title>KDE Plasma自动设置时区</title>
+        <id>154658</id>
+        <link href="https://blog.deepchirp.com/2026/05/03/KDE-Plasma-Automatic-Time-Zone/?utm_source=blogfinder" />
+        <published>2026-05-03T20:40:23+08:00</published>
+        <author>
+            <name>空鸣深语</name>
+            <uri>https://blog.deepchirp.com</uri>
+        </author>
+        <summary type="text"><![CDATA[KDE Plasma自动设置时区]]></summary>
+    </entry>
         <entry>
         <title>走不进去的影院与读不下去的书</title>
         <id>154657</id>
@@ -55,6 +88,17 @@
             <uri>http://luolt.cn</uri>
         </author>
         <summary type="text"><![CDATA[Typecho走心评论精选功能实现代码教程]]></summary>
+    </entry>
+        <entry>
+        <title>这是刺激我消费啊</title>
+        <id>154661</id>
+        <link href="https://ygz.ink/archives/4785.html?utm_source=blogfinder" />
+        <published>2026-05-03T15:37:24+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[这是刺激我消费啊]]></summary>
     </entry>
         <entry>
         <title>关于养狗</title>
@@ -1210,93 +1254,5 @@
             <uri>https://www.xiaozonglin.cn</uri>
         </author>
         <summary type="text"><![CDATA[再见面板：Debian构建WordPress]]></summary>
-    </entry>
-        <entry>
-        <title>国内独立开发圈子太烂了</title>
-        <id>154550</id>
-        <link href="https://blog.solazy.me/20260430/?utm_source=blogfinder" />
-        <published>2026-04-30T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[国内独立开发圈子太烂了]]></summary>
-    </entry>
-        <entry>
-        <title>苏州游</title>
-        <id>154516</id>
-        <link href="https://slykiten.com/life-note/suzhou-trip/?utm_source=blogfinder" />
-        <published>2026-04-30T22:53:26+08:00</published>
-        <author>
-            <name>狡猫三窝</name>
-            <uri>https://slykiten.com</uri>
-        </author>
-        <summary type="text"><![CDATA[苏州游]]></summary>
-    </entry>
-        <entry>
-        <title>《Tomodachi Life 朋友收集 梦想生活》75+ 小时游玩期间的各种杂念</title>
-        <id>154506</id>
-        <link href="https://imgradeone.com/thoughts/tomodachi-life-wakuwaku?utm_source=blogfinder" />
-        <published>2026-04-30T22:34:00+08:00</published>
-        <author>
-            <name>the real imgradeone</name>
-            <uri>https://imgradeone.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《Tomodachi Life 朋友收集 梦想生活》75+ 小时游玩期间的各种杂念]]></summary>
-    </entry>
-        <entry>
-        <title>Nikon 50 - 250 开箱小记</title>
-        <id>154518</id>
-        <link href="https://blog.lhasa.icu/posts/photo/2026-04-30-nikon-50-250-kaixiang?utm_source=blogfinder" />
-        <published>2026-04-30T22:28:00+08:00</published>
-        <author>
-            <name>游钓四方的博客</name>
-            <uri>https://blog.lhasa.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[Nikon 50 - 250 开箱小记]]></summary>
-    </entry>
-        <entry>
-        <title>动物朋友</title>
-        <id>154517</id>
-        <link href="https://yayu.net/6218.html?utm_source=blogfinder" />
-        <published>2026-04-30T22:13:22+08:00</published>
-        <author>
-            <name>雅余</name>
-            <uri>https://yayu.net</uri>
-        </author>
-        <summary type="text"><![CDATA[动物朋友]]></summary>
-    </entry>
-        <entry>
-        <title>Album#37 - Scenery(シーナリィ)</title>
-        <id>154544</id>
-        <link href="https://taxodium.ink/album-37.html?utm_source=blogfinder" />
-        <published>2026-04-30T22:00:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[Album#37 - Scenery(シーナリィ)]]></summary>
-    </entry>
-        <entry>
-        <title>20260430</title>
-        <id>154501</id>
-        <link href="https://61.life/2026/0430?utm_source=blogfinder" />
-        <published>2026-04-30T21:59:28+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260430]]></summary>
-    </entry>
-        <entry>
-        <title>自用的二手唯卓仕Air镜头上架到闲鱼，有人来砍价，超过一半金额</title>
-        <id>154503</id>
-        <link href="https://www.bufanz.com/20260430588.html?utm_source=blogfinder" />
-        <published>2026-04-30T21:41:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[自用的二手唯卓仕Air镜头上架到闲鱼，有人来砍价，超过一半金额]]></summary>
     </entry>
     </feed>
