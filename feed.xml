@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-03T23:00:43+08:00</updated>
+    <updated>2026-05-04T00:02:25+08:00</updated>
+        <entry>
+        <title>五一流水账 0503</title>
+        <id>154662</id>
+        <link href="https://blog.solazy.me/20260503/?utm_source=blogfinder" />
+        <published>2026-05-03T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[五一流水账 0503]]></summary>
+    </entry>
         <entry>
         <title>生活碎碎念：小城大梦</title>
         <id>154660</id>
@@ -110,6 +121,17 @@
             <uri>https://lomus.cc</uri>
         </author>
         <summary type="text"><![CDATA[关于养狗]]></summary>
+    </entry>
+        <entry>
+        <title>越是疲惫，越要注意控制情绪</title>
+        <id>154663</id>
+        <link href="http://etom.top/archives/so67.html?utm_source=blogfinder" />
+        <published>2026-05-03T15:11:00+08:00</published>
+        <author>
+            <name>浮生事</name>
+            <uri>http://etom.top</uri>
+        </author>
+        <summary type="text"><![CDATA[越是疲惫，越要注意控制情绪]]></summary>
     </entry>
         <entry>
         <title>刹那清风</title>
@@ -1100,159 +1122,5 @@
             <uri>https://lklog.cn</uri>
         </author>
         <summary type="text"><![CDATA[如何搭建一个免登录的临时文件传输系统]]></summary>
-    </entry>
-        <entry>
-        <title>你不知道的 GEO：AI 可见性的原理、实践与取舍</title>
-        <id>154577</id>
-        <link href="https://tw93.fun/2026-05-01/ai-visibility.html?utm_source=blogfinder" />
-        <published>2026-05-01T00:00:00+08:00</published>
-        <author>
-            <name>Tw93</name>
-            <uri>https://tw93.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[你不知道的 GEO：AI 可见性的原理、实践与取舍]]></summary>
-    </entry>
-        <entry>
-        <title>读：规则引擎——从 if-else 到业务规则管理</title>
-        <id>154575</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/01/读：规则引擎——从-if-else-到业务规则管理/index.html?utm_source=blogfinder" />
-        <published>2026-05-01T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：规则引擎——从 if-else 到业务规则管理]]></summary>
-    </entry>
-        <entry>
-        <title>读：整洁代码的几个通用原则——从 Go 生态看起</title>
-        <id>154574</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/01/读：整洁代码的几个通用原则——从-go-生态看起/index.html?utm_source=blogfinder" />
-        <published>2026-05-01T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：整洁代码的几个通用原则——从 Go 生态看起]]></summary>
-    </entry>
-        <entry>
-        <title>读：Java 容器化——从 Fat JAR 到高效 Docker 镜像</title>
-        <id>154573</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/01/读：java-容器化——从-fat-jar-到高效-docker-镜像/index.html?utm_source=blogfinder" />
-        <published>2026-05-01T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：Java 容器化——从 Fat JAR 到高效 Docker 镜像]]></summary>
-    </entry>
-        <entry>
-        <title>读：JVM 后端性能调优备忘——从一次生产事故中学到的优化要点</title>
-        <id>154572</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/01/读：jvm-后端性能调优备忘——从一次生产事故中学到的优化要点/index.html?utm_source=blogfinder" />
-        <published>2026-05-01T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：JVM 后端性能调优备忘——从一次生产事故中学到的优化要点]]></summary>
-    </entry>
-        <entry>
-        <title>读：为什么所有 Prompt Injection 防御都会被攻破——以及架构上该怎么办</title>
-        <id>154571</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/01/读：为什么所有-prompt-injection-防御都会被攻破——以及架构上该怎么办/index.html?utm_source=blogfinder" />
-        <published>2026-05-01T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：为什么所有 Prompt Injection 防御都会被攻破——以及架构上该怎么办]]></summary>
-    </entry>
-        <entry>
-        <title>读：Prompt Injection 五层纵深防御——从输入过滤到审计追踪</title>
-        <id>154570</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/01/读：prompt-injection-五层纵深防御——从输入过滤到审计追踪/index.html?utm_source=blogfinder" />
-        <published>2026-05-01T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：Prompt Injection 五层纵深防御——从输入过滤到审计追踪]]></summary>
-    </entry>
-        <entry>
-        <title>读：LLM 生产环境六种失败原型——基准测试无法预测的那些故障</title>
-        <id>154569</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/01/读：llm-生产环境六种失败原型——基准测试无法预测的那些故障/index.html?utm_source=blogfinder" />
-        <published>2026-05-01T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：LLM 生产环境六种失败原型——基准测试无法预测的那些故障]]></summary>
-    </entry>
-        <entry>
-        <title>读：AI Agent 生产化——一份从原型到上线的速查清单</title>
-        <id>154568</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/01/读：ai-agent-生产化——一份从原型到上线的速查清单/index.html?utm_source=blogfinder" />
-        <published>2026-05-01T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：AI Agent 生产化——一份从原型到上线的速查清单]]></summary>
-    </entry>
-        <entry>
-        <title>读：AI Agent 安全日志——从可见性与隐私的两难说起</title>
-        <id>154567</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/01/读：ai-agent-安全日志——从可见性与隐私的两难说起/index.html?utm_source=blogfinder" />
-        <published>2026-05-01T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：AI Agent 安全日志——从可见性与隐私的两难说起]]></summary>
-    </entry>
-        <entry>
-        <title>五一，劳动节 – 放假一天</title>
-        <id>154536</id>
-        <link href="https://oheng.com/may-day-labor-day/?utm_source=blogfinder" />
-        <published>2026-05-01T00:00:00+08:00</published>
-        <author>
-            <name>飞觞醉月</name>
-            <uri>https://oheng.com</uri>
-        </author>
-        <summary type="text"><![CDATA[五一，劳动节 – 放假一天]]></summary>
-    </entry>
-        <entry>
-        <title>QoderWake：把 Agent 做成“同事”的那条路</title>
-        <id>154541</id>
-        <link href="https://www.evan.xin/4948/?utm_source=blogfinder" />
-        <published>2026-04-30T23:58:33+08:00</published>
-        <author>
-            <name>Evan&#039;s Space</name>
-            <uri>https://www.evan.xin</uri>
-        </author>
-        <summary type="text"><![CDATA[QoderWake：把 Agent 做成“同事”的那条路]]></summary>
-    </entry>
-        <entry>
-        <title>轻言：为 Halo 注入一句话的灵动与温度</title>
-        <id>154556</id>
-        <link href="https://www.puresky.top/archives/CAymMFF6?utm_source=blogfinder" />
-        <published>2026-04-30T23:52:07+08:00</published>
-        <author>
-            <name>轻雅阁</name>
-            <uri>https://www.puresky.top</uri>
-        </author>
-        <summary type="text"><![CDATA[轻言：为 Halo 注入一句话的灵动与温度]]></summary>
-    </entry>
-        <entry>
-        <title>再见面板：Debian构建WordPress</title>
-        <id>154531</id>
-        <link href="https://www.xiaozonglin.cn/build-wordpress-with-pure-commandline/?utm_source=blogfinder" />
-        <published>2026-04-30T23:42:30+08:00</published>
-        <author>
-            <name>林林杂语</name>
-            <uri>https://www.xiaozonglin.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[再见面板：Debian构建WordPress]]></summary>
     </entry>
     </feed>
