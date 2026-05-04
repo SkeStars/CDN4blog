@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-04T23:05:41+08:00</updated>
+    <updated>2026-05-05T00:03:08+08:00</updated>
         <entry>
         <title>隐说 NO.22 小人多了，坏人就会兴风作浪</title>
         <id>154826</id>
@@ -33,6 +33,17 @@
             <uri>https://www.friendcc.com</uri>
         </author>
         <summary type="text"><![CDATA[静待周期，静待相逢]]></summary>
+    </entry>
+        <entry>
+        <title>五一流水账 0504</title>
+        <id>154831</id>
+        <link href="https://blog.solazy.me/20260504/?utm_source=blogfinder" />
+        <published>2026-05-04T21:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[五一流水账 0504]]></summary>
     </entry>
         <entry>
         <title>醇香小记·第二十期</title>
@@ -1166,71 +1177,5 @@
             <uri>https://yinji.org</uri>
         </author>
         <summary type="text"><![CDATA[不要坚持]]></summary>
-    </entry>
-        <entry>
-        <title>控制 Bash 历史记录的 6 个场景</title>
-        <id>154667</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/02/控制-bash-历史记录的-6-个场景/index.html?utm_source=blogfinder" />
-        <published>2026-05-02T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[控制 Bash 历史记录的 6 个场景]]></summary>
-    </entry>
-        <entry>
-        <title>读：Protesilaos 的 Emacs 合理默认配置 —— 兼与 newcomers-presets 对比</title>
-        <id>154666</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/02/读：protesilaos-的-emacs-合理默认配置-——-兼与-newcomers-presets-对比/index.html?utm_source=blogfinder" />
-        <published>2026-05-02T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：Protesilaos 的 Emacs 合理默认配置 —— 兼与 newcomers-presets 对比]]></summary>
-    </entry>
-        <entry>
-        <title>读：Emacs newcomers-presets theme —— 30+ 项新手预设一览</title>
-        <id>154665</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/02/读：emacs-newcomers-presets-theme-——-30+-项新手预设一览/index.html?utm_source=blogfinder" />
-        <published>2026-05-02T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：Emacs newcomers-presets theme —— 30+ 项新手预设一览]]></summary>
-    </entry>
-        <entry>
-        <title>读：Shell脚本安全编码的五条铁律</title>
-        <id>154633</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/02/读：shell脚本安全编码的五条铁律/index.html?utm_source=blogfinder" />
-        <published>2026-05-02T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：Shell脚本安全编码的五条铁律]]></summary>
-    </entry>
-        <entry>
-        <title>TIL-用 curl + w3m + awk 从 HTML 表格提取数据</title>
-        <id>154632</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/02/til-用-curl-+-w3m-+-awk-从-html-表格提取数据/index.html?utm_source=blogfinder" />
-        <published>2026-05-02T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL-用 curl + w3m + awk 从 HTML 表格提取数据]]></summary>
-    </entry>
-        <entry>
-        <title>把JM软件的广告去了</title>
-        <id>154584</id>
-        <link href="https://2z2.org/archives/ba-jmruan-jian-de-guang-gao-qu-liao?utm_source=blogfinder" />
-        <published>2026-05-01T23:16:34+08:00</published>
-        <author>
-            <name>Tori 的世界</name>
-            <uri>https://2z2.org</uri>
-        </author>
-        <summary type="text"><![CDATA[把JM软件的广告去了]]></summary>
     </entry>
     </feed>
