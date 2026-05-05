@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-05T17:03:06+08:00</updated>
+    <updated>2026-05-05T19:00:36+08:00</updated>
         <entry>
         <title>2026.5.4</title>
         <id>154878</id>
@@ -22,6 +22,17 @@
             <uri>https://www.justzht.com</uri>
         </author>
         <summary type="text"><![CDATA[2026.5.4]]></summary>
+    </entry>
+        <entry>
+        <title>再谈谈为什么人工智能不会有意识</title>
+        <id>154885</id>
+        <link href="https://sliun.com/othermind/?utm_source=blogfinder" />
+        <published>2026-05-05T14:21:00+08:00</published>
+        <author>
+            <name>理论派</name>
+            <uri>https://sliun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[再谈谈为什么人工智能不会有意识]]></summary>
     </entry>
         <entry>
         <title>对越来越多AI博文的看法</title>
@@ -1265,49 +1276,5 @@
             <uri>https://blog.veitzn.top</uri>
         </author>
         <summary type="text"><![CDATA[WordPress 批量替换图片链接]]></summary>
-    </entry>
-        <entry>
-        <title>Juanyi Chat：现代化实时的聊天室，无需框架依赖，开箱即用。</title>
-        <id>154623</id>
-        <link href="https://jyblog.cn/5465/?utm_source=blogfinder" />
-        <published>2026-05-02T18:31:50+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Juanyi Chat：现代化实时的聊天室，无需框架依赖，开箱即用。]]></summary>
-    </entry>
-        <entry>
-        <title>持续不懈地努力有意义也是一种天赋</title>
-        <id>154624</id>
-        <link href="https://www.pgoj.top/archives/nuli-yiyi-tianfu.html/?utm_source=blogfinder" />
-        <published>2026-05-02T18:05:30+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[持续不懈地努力有意义也是一种天赋]]></summary>
-    </entry>
-        <entry>
-        <title>喵喵游记——探访苏州</title>
-        <id>154629</id>
-        <link href="https://www.mmbkz.cn/23a390f3.html?utm_source=blogfinder" />
-        <published>2026-05-02T17:25:00+08:00</published>
-        <author>
-            <name>绯色之喵</name>
-            <uri>https://www.mmbkz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[喵喵游记——探访苏州]]></summary>
-    </entry>
-        <entry>
-        <title>Windows同一网卡配置多IP，轻松访问不同网段设备</title>
-        <id>154625</id>
-        <link href="https://www.biibii.cn/713.html?utm_source=blogfinder" />
-        <published>2026-05-02T17:24:00+08:00</published>
-        <author>
-            <name>BIIBII</name>
-            <uri>https://www.biibii.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Windows同一网卡配置多IP，轻松访问不同网段设备]]></summary>
     </entry>
     </feed>
