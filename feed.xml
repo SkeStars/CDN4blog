@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-06T15:01:28+08:00</updated>
+    <updated>2026-05-06T17:04:10+08:00</updated>
+        <entry>
+        <title>五一闲游第二弹——赤壁</title>
+        <id>155086</id>
+        <link href="https://airy.ink/travel/447?utm_source=blogfinder" />
+        <published>2026-05-06T15:45:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[五一闲游第二弹——赤壁]]></summary>
+    </entry>
         <entry>
         <title>五一放假小记：带对象见家长</title>
         <id>155083</id>
@@ -35,6 +46,17 @@
         <summary type="text"><![CDATA[2026-05-06 11:47]]></summary>
     </entry>
         <entry>
+        <title>假期综合症</title>
+        <id>155087</id>
+        <link href="https://airy.ink/daily/446?utm_source=blogfinder" />
+        <published>2026-05-06T11:24:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[假期综合症]]></summary>
+    </entry>
+        <entry>
         <title>“良久”的温柔一刀：亲戚的盛情，我消受不起的高价</title>
         <id>155078</id>
         <link href="https://www.bufanz.com/20260506603.html?utm_source=blogfinder" />
@@ -44,6 +66,17 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[“良久”的温柔一刀：亲戚的盛情，我消受不起的高价]]></summary>
+    </entry>
+        <entry>
+        <title>飞驰人生3：赛道之外的博弈</title>
+        <id>155088</id>
+        <link href="https://iliu.org/feichi3.html?utm_source=blogfinder" />
+        <published>2026-05-06T09:08:00+08:00</published>
+        <author>
+            <name>老刘博客</name>
+            <uri>https://iliu.org</uri>
+        </author>
+        <summary type="text"><![CDATA[飞驰人生3：赛道之外的博弈]]></summary>
     </entry>
         <entry>
         <title>玩俄罗斯轮盘的幸存者要为死者负责吗？</title>
@@ -79,6 +112,17 @@
         <summary type="text"><![CDATA[《动物农场》读后记]]></summary>
     </entry>
         <entry>
+        <title>自制zblogPHP新文章邮箱推送插件</title>
+        <id>155084</id>
+        <link href="https://www.dao.js.cn/new/2026050612181.html?utm_source=blogfinder" />
+        <published>2026-05-06T02:28:12+08:00</published>
+        <author>
+            <name>懋和道人</name>
+            <uri>https://www.dao.js.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[自制zblogPHP新文章邮箱推送插件]]></summary>
+    </entry>
+        <entry>
         <title>代码与多巴胺：我的 AI 造物月志</title>
         <id>154906</id>
         <link href="https://innei.in/notes/213?utm_source=blogfinder" />
@@ -88,6 +132,17 @@
             <uri>https://innei.in</uri>
         </author>
         <summary type="text"><![CDATA[代码与多巴胺：我的 AI 造物月志]]></summary>
+    </entry>
+        <entry>
+        <title>那杯五毛钱的粥，和我没种下去的理想</title>
+        <id>155085</id>
+        <link href="https://jyblog.cn/5501/?utm_source=blogfinder" />
+        <published>2026-05-06T00:17:13+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[那杯五毛钱的粥，和我没种下去的理想]]></summary>
     </entry>
         <entry>
         <title>要怎麼知道別人在部落格提到了自己？部落格該怎麼海巡？</title>
@@ -1419,71 +1474,5 @@
             <uri>https://blog.liuzhen932.top</uri>
         </author>
         <summary type="text"><![CDATA[安全地使用 SSH 进行持续集成和部署]]></summary>
-    </entry>
-        <entry>
-        <title>《在44岁的边缘，我读懂了海子》</title>
-        <id>154652</id>
-        <link href="https://www.weiwenchao.com/2573.html?utm_source=blogfinder" />
-        <published>2026-05-03T16:19:00+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《在44岁的边缘，我读懂了海子》]]></summary>
-    </entry>
-        <entry>
-        <title>Vol.101 AI次方变革：组织中年撞上技术青春期，Harness Engineering与Agent系统重塑工程范式</title>
-        <id>154810</id>
-        <link href="https://liduos.com/weekly/the-weekly-gradient-101?utm_source=blogfinder" />
-        <published>2026-05-03T16:00:00+08:00</published>
-        <author>
-            <name>莫尔索</name>
-            <uri>https://liduos.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Vol.101 AI次方变革：组织中年撞上技术青春期，Harness Engineering与Agent系统重塑工程范式]]></summary>
-    </entry>
-        <entry>
-        <title>Typecho走心评论精选功能实现代码教程</title>
-        <id>154650</id>
-        <link href="https://luolt.cn/archives/Typecho.html?utm_source=blogfinder" />
-        <published>2026-05-03T15:57:00+08:00</published>
-        <author>
-            <name>洛丽糖</name>
-            <uri>http://luolt.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Typecho走心评论精选功能实现代码教程]]></summary>
-    </entry>
-        <entry>
-        <title>这是刺激我消费啊</title>
-        <id>154661</id>
-        <link href="https://ygz.ink/archives/4785.html?utm_source=blogfinder" />
-        <published>2026-05-03T15:37:24+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[这是刺激我消费啊]]></summary>
-    </entry>
-        <entry>
-        <title>关于养狗</title>
-        <id>154654</id>
-        <link href="https://lomus.cc/archives/764?utm_source=blogfinder" />
-        <published>2026-05-03T15:27:54+08:00</published>
-        <author>
-            <name>Lumos&#039;s Blog</name>
-            <uri>https://lomus.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[关于养狗]]></summary>
-    </entry>
-        <entry>
-        <title>越是疲惫，越要注意控制情绪</title>
-        <id>154663</id>
-        <link href="http://etom.top/archives/so67.html?utm_source=blogfinder" />
-        <published>2026-05-03T15:11:00+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[越是疲惫，越要注意控制情绪]]></summary>
     </entry>
     </feed>
