@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-06T17:04:10+08:00</updated>
+    <updated>2026-05-06T20:03:22+08:00</updated>
+        <entry>
+        <title>一款typecho-riven主题问世了</title>
+        <id>155089</id>
+        <link href="https://zhoutian.com/368.html?utm_source=blogfinder" />
+        <published>2026-05-06T16:27:00+08:00</published>
+        <author>
+            <name>周天记</name>
+            <uri>https://zhoutian.com</uri>
+        </author>
+        <summary type="text"><![CDATA[一款typecho-riven主题问世了]]></summary>
+    </entry>
         <entry>
         <title>五一闲游第二弹——赤壁</title>
         <id>155086</id>
@@ -22,6 +33,17 @@
             <uri>https://airy.ink</uri>
         </author>
         <summary type="text"><![CDATA[五一闲游第二弹——赤壁]]></summary>
+    </entry>
+        <entry>
+        <title>联通沃享赢有点坑</title>
+        <id>155103</id>
+        <link href="https://www.gujishe.com/archives/57.html?utm_source=blogfinder" />
+        <published>2026-05-06T14:26:54+08:00</published>
+        <author>
+            <name>咕唧舍</name>
+            <uri>https://www.gujishe.com</uri>
+        </author>
+        <summary type="text"><![CDATA[联通沃享赢有点坑]]></summary>
     </entry>
         <entry>
         <title>五一放假小记：带对象见家长</title>
@@ -77,6 +99,17 @@
             <uri>https://iliu.org</uri>
         </author>
         <summary type="text"><![CDATA[飞驰人生3：赛道之外的博弈]]></summary>
+    </entry>
+        <entry>
+        <title>一个新的 AI 记忆层概念：哈勃半径</title>
+        <id>155102</id>
+        <link href="https://1q43.blog/post/12336/?utm_source=blogfinder" />
+        <published>2026-05-06T09:00:00+08:00</published>
+        <author>
+            <name>虹线</name>
+            <uri>https://1q43.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[一个新的 AI 记忆层概念：哈勃半径]]></summary>
     </entry>
         <entry>
         <title>玩俄罗斯轮盘的幸存者要为死者负责吗？</title>
@@ -341,6 +374,17 @@
             <uri>https://tetsuhannah.blog</uri>
         </author>
         <summary type="text"><![CDATA[二零二六年四月]]></summary>
+    </entry>
+        <entry>
+        <title>283、立夏</title>
+        <id>155101</id>
+        <link href="https://1900.live/283-li-xia/?utm_source=blogfinder" />
+        <published>2026-05-05T16:28:00+08:00</published>
+        <author>
+            <name>我道</name>
+            <uri>https://1900.live</uri>
+        </author>
+        <summary type="text"><![CDATA[283、立夏]]></summary>
     </entry>
         <entry>
         <title>五一咸宁闲游记</title>
@@ -1419,60 +1463,5 @@
             <uri>https://knay.net</uri>
         </author>
         <summary type="text"><![CDATA[TOKEN拾荒的日子 - 2]]></summary>
-    </entry>
-        <entry>
-        <title>走不进去的影院与读不下去的书</title>
-        <id>154657</id>
-        <link href="https://www.pgoj.top/archives/mo-luo-dian-ying.html/?utm_source=blogfinder" />
-        <published>2026-05-03T20:02:06+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[走不进去的影院与读不下去的书]]></summary>
-    </entry>
-        <entry>
-        <title>歪马精酿 全麦原浆</title>
-        <id>154725</id>
-        <link href="https://7gugu.com/index.php/2026/05/03/%e6%ad%aa%e9%a9%ac%e7%b2%be%e9%85%bf-%e5%85%a8%e9%ba%a6%e5%8e%9f%e6%b5%86/?utm_source=blogfinder" />
-        <published>2026-05-03T19:25:51+08:00</published>
-        <author>
-            <name>7gugu’s Blog</name>
-            <uri>https://7gugu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[歪马精酿 全麦原浆]]></summary>
-    </entry>
-        <entry>
-        <title>kbd-remap-linux</title>
-        <id>154817</id>
-        <link href="https://loveapple.icu/kbd-remap-linux/?utm_source=blogfinder" />
-        <published>2026-05-03T18:26:34+08:00</published>
-        <author>
-            <name>LoveApple14434</name>
-            <uri>https://loveapple.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[kbd-remap-linux]]></summary>
-    </entry>
-        <entry>
-        <title>JN 最近在幹嘛</title>
-        <id>154656</id>
-        <link href="https://blog.giveanornot.com/now/20260503/?utm_source=blogfinder" />
-        <published>2026-05-03T18:09:17+08:00</published>
-        <author>
-            <name>資工小廢物  - JN</name>
-            <uri>https://blog.giveanornot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[JN 最近在幹嘛]]></summary>
-    </entry>
-        <entry>
-        <title>安全地使用 SSH 进行持续集成和部署</title>
-        <id>154911</id>
-        <link href="https://blog.liuzhen932.top/posts/secure-ssh-cicd-with-infisical/?utm_source=blogfinder" />
-        <published>2026-05-03T17:04:37+08:00</published>
-        <author>
-            <name>liuzhen932 的小窝</name>
-            <uri>https://blog.liuzhen932.top</uri>
-        </author>
-        <summary type="text"><![CDATA[安全地使用 SSH 进行持续集成和部署]]></summary>
     </entry>
     </feed>
