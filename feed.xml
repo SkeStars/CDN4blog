@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-06T23:01:31+08:00</updated>
+    <updated>2026-05-07T00:02:54+08:00</updated>
+        <entry>
+        <title>二〇二六年四月总结：拍了风光和人像，照旧骑车</title>
+        <id>155114</id>
+        <link href="https://feng.pub/0520269571.html?utm_source=blogfinder" />
+        <published>2026-05-06T23:29:40+08:00</published>
+        <author>
+            <name>阿锋的小宇宙</name>
+            <uri>https://feng.pub</uri>
+        </author>
+        <summary type="text"><![CDATA[二〇二六年四月总结：拍了风光和人像，照旧骑车]]></summary>
+    </entry>
+        <entry>
+        <title>HyperFrames 实战：用 HTML 写一支 41 秒的产品介绍视频</title>
+        <id>155113</id>
+        <link href="https://blog.devtang.com/2026/05/06/generate-video-from-hyperframes/?utm_source=blogfinder" />
+        <published>2026-05-06T23:03:37+08:00</published>
+        <author>
+            <name>唐巧的博客</name>
+            <uri>https://blog.devtang.com</uri>
+        </author>
+        <summary type="text"><![CDATA[HyperFrames 实战：用 HTML 写一支 41 秒的产品介绍视频]]></summary>
+    </entry>
         <entry>
         <title>如何用 Cloudflare 部署项目</title>
         <id>155109</id>
@@ -35,6 +57,17 @@
         <summary type="text"><![CDATA[U17 国足 0-1 遭印尼绝杀，三个月的反差太扎心]]></summary>
     </entry>
         <entry>
+        <title>257 使用AI IDE管理项目需要的多份文档</title>
+        <id>155116</id>
+        <link href="http://ddw2019.com/257?utm_source=blogfinder" />
+        <published>2026-05-06T21:53:12+08:00</published>
+        <author>
+            <name>Dongdong&#039;s Blog</name>
+            <uri>https://ddw2019.com</uri>
+        </author>
+        <summary type="text"><![CDATA[257 使用AI IDE管理项目需要的多份文档]]></summary>
+    </entry>
+        <entry>
         <title>敏感词屏蔽，是一把防护盾，也是一把阉割刀</title>
         <id>155110</id>
         <link href="https://cuixiping.com/blog/think/zpwduj?utm_source=blogfinder" />
@@ -55,6 +88,17 @@
             <uri>https://dujun.io</uri>
         </author>
         <summary type="text"><![CDATA[古苗寨万家灯火，黄果树瀑雨通天]]></summary>
+    </entry>
+        <entry>
+        <title>说说：#2026-05-06 17:20</title>
+        <id>155115</id>
+        <link href="https://www.mmbkz.cn/69fb07e0a2492.html?utm_source=blogfinder" />
+        <published>2026-05-06T17:20:00+08:00</published>
+        <author>
+            <name>绯色之喵</name>
+            <uri>https://www.mmbkz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[说说：#2026-05-06 17:20]]></summary>
     </entry>
         <entry>
         <title>一款typecho-riven主题问世了</title>
@@ -1353,115 +1397,5 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[四个字，何以引无数游人驻足拍照]]></summary>
-    </entry>
-        <entry>
-        <title>读：The Art of Logging——日志规范清单</title>
-        <id>154840</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/03/读：the-art-of-logging——日志规范清单/index.html?utm_source=blogfinder" />
-        <published>2026-05-04T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：The Art of Logging——日志规范清单]]></summary>
-    </entry>
-        <entry>
-        <title>dotfile仓库大扫除：清理过时的配置</title>
-        <id>154839</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/02/dotfile仓库大扫除：清理过时的配置/index.html?utm_source=blogfinder" />
-        <published>2026-05-04T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[dotfile仓库大扫除：清理过时的配置]]></summary>
-    </entry>
-        <entry>
-        <title>TIL: image-mode 的 header-line 中显示图片尺寸</title>
-        <id>154838</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/03/til-image-mode-的-header-line-中显示图片尺寸/index.html?utm_source=blogfinder" />
-        <published>2026-05-04T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL: image-mode 的 header-line 中显示图片尺寸]]></summary>
-    </entry>
-        <entry>
-        <title>Emacs 批量搜索替换：从场景到命令</title>
-        <id>154837</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/04/emacs-批量搜索替换：从场景到命令/index.html?utm_source=blogfinder" />
-        <published>2026-05-04T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[Emacs 批量搜索替换：从场景到命令]]></summary>
-    </entry>
-        <entry>
-        <title>TIL：Google Stitch 的 DESIGN.md，给 AI 读的设计系统说明书</title>
-        <id>154836</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/03/til：google-stitch-的-design.md，给-ai-读的设计系统说明书/index.html?utm_source=blogfinder" />
-        <published>2026-05-04T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL：Google Stitch 的 DESIGN.md，给 AI 读的设计系统说明书]]></summary>
-    </entry>
-        <entry>
-        <title>读：EvoForge——用群体进化优化 AI Agent</title>
-        <id>154835</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/03/读：evoforge——用群体进化优化-ai-agent/index.html?utm_source=blogfinder" />
-        <published>2026-05-04T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：EvoForge——用群体进化优化 AI Agent]]></summary>
-    </entry>
-        <entry>
-        <title>读：Agent 的瓶颈不在模型，在基础设施</title>
-        <id>154834</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/03/读：agent-的瓶颈不在模型，在基础设施/index.html?utm_source=blogfinder" />
-        <published>2026-05-04T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：Agent 的瓶颈不在模型，在基础设施]]></summary>
-    </entry>
-        <entry>
-        <title>读：AI 编码代理的四种工作流</title>
-        <id>154833</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/03/读：ai-编码代理的四种工作流/index.html?utm_source=blogfinder" />
-        <published>2026-05-04T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：AI 编码代理的四种工作流]]></summary>
-    </entry>
-        <entry>
-        <title>读：7 Techniques That Supercharged My Claude-Assisted Development</title>
-        <id>154832</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/03/读：7-techniques-that-supercharged-my-claude-assisted-development/index.html?utm_source=blogfinder" />
-        <published>2026-05-04T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：7 Techniques That Supercharged My Claude-Assisted Development]]></summary>
-    </entry>
-        <entry>
-        <title>网易智能邮箱claw.163.com邀请码</title>
-        <id>154792</id>
-        <link href="https://ygz.ink/archives/4788.html?utm_source=blogfinder" />
-        <published>2026-05-03T23:46:06+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[网易智能邮箱claw.163.com邀请码]]></summary>
     </entry>
     </feed>
