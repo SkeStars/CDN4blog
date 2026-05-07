@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-07T20:01:01+08:00</updated>
+    <updated>2026-05-07T23:01:33+08:00</updated>
+        <entry>
+        <title>使用开源 Photon + tileserver-gl 搭建属于自己的离线地图</title>
+        <id>155231</id>
+        <link href="https://www.51it.wang/ll/2184?utm_source=blogfinder" />
+        <published>2026-05-07T22:30:38+08:00</published>
+        <author>
+            <name>Lcry</name>
+            <uri>https://www.51it.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[使用开源 Photon + tileserver-gl 搭建属于自己的离线地图]]></summary>
+    </entry>
+        <entry>
+        <title>加入「十年之约」，给自己的博客一个十年承诺</title>
+        <id>155239</id>
+        <link href="https://www.zhounote.com/article/60?utm_source=blogfinder" />
+        <published>2026-05-07T21:20:00+08:00</published>
+        <author>
+            <name>Zhou’s Notes</name>
+            <uri>https://www.zhounote.com</uri>
+        </author>
+        <summary type="text"><![CDATA[加入「十年之约」，给自己的博客一个十年承诺]]></summary>
+    </entry>
+        <entry>
+        <title>开发简报(2)：开发者需要先进的工具</title>
+        <id>155230</id>
+        <link href="https://kanchuan.com/blog/newsletter-2?utm_source=blogfinder" />
+        <published>2026-05-07T18:00:00+08:00</published>
+        <author>
+            <name>陈看川博客</name>
+            <uri>https://kanchuan.com/blog</uri>
+        </author>
+        <summary type="text"><![CDATA[开发简报(2)：开发者需要先进的工具]]></summary>
+    </entry>
         <entry>
         <title>《完美人生需要具备的7个能力》</title>
         <id>155221</id>
@@ -200,6 +233,17 @@
         <summary type="text"><![CDATA[屏幕变小之后]]></summary>
     </entry>
         <entry>
+        <title>浅浅的海峡</title>
+        <id>155228</id>
+        <link href="https://cavill.site/articles/qianqiandehaixia/?utm_source=blogfinder" />
+        <published>2026-05-07T08:00:00+08:00</published>
+        <author>
+            <name>栖迟处</name>
+            <uri>https://cavill.site</uri>
+        </author>
+        <summary type="text"><![CDATA[浅浅的海峡]]></summary>
+    </entry>
+        <entry>
         <title>热门事件上的谨言慎行</title>
         <id>155223</id>
         <link href="https://www.pgoj.top/archives/re-men-chen-mo.html/?utm_source=blogfinder" />
@@ -308,6 +352,17 @@
             <uri>https://yesreho.com</uri>
         </author>
         <summary type="text"><![CDATA[如何用 Cloudflare 部署项目]]></summary>
+    </entry>
+        <entry>
+        <title>#17 匆匆写下的四月月报</title>
+        <id>155229</id>
+        <link href="https://isming.me/2026-05-06-april-summary/?utm_source=blogfinder" />
+        <published>2026-05-06T22:30:42+08:00</published>
+        <author>
+            <name>码农明明桑</name>
+            <uri>https://isming.me</uri>
+        </author>
+        <summary type="text"><![CDATA[#17 匆匆写下的四月月报]]></summary>
     </entry>
         <entry>
         <title>U17 国足 0-1 遭印尼绝杀，三个月的反差太扎心</title>
@@ -1353,104 +1408,5 @@
             <uri>https://blog.224418.xyz</uri>
         </author>
         <summary type="text"><![CDATA[与室友小朱去滨海新区再次看了一场海]]></summary>
-    </entry>
-        <entry>
-        <title>萌国ICP备案终于通过了</title>
-        <id>154868</id>
-        <link href="https://www.zhounote.com/article/56?utm_source=blogfinder" />
-        <published>2026-05-04T22:00:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[萌国ICP备案终于通过了]]></summary>
-    </entry>
-        <entry>
-        <title>隐说 NO.22 小人多了，坏人就会兴风作浪</title>
-        <id>154826</id>
-        <link href="https://wangyurui.com/posts/yin-shuo-no-22-xiao-ren-duo-liao-pi-ren-jiu-hui-99146411?utm_source=blogfinder" />
-        <published>2026-05-04T21:46:29+08:00</published>
-        <author>
-            <name>太隐</name>
-            <uri>https://wangyurui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[隐说 NO.22 小人多了，坏人就会兴风作浪]]></summary>
-    </entry>
-        <entry>
-        <title>静待周期，静待相逢</title>
-        <id>154829</id>
-        <link href="https://www.friendcc.com/671.html?utm_source=blogfinder" />
-        <published>2026-05-04T21:02:08+08:00</published>
-        <author>
-            <name>梦不见的梦</name>
-            <uri>https://www.friendcc.com</uri>
-        </author>
-        <summary type="text"><![CDATA[静待周期，静待相逢]]></summary>
-    </entry>
-        <entry>
-        <title>五一流水账 0504</title>
-        <id>154831</id>
-        <link href="https://blog.solazy.me/20260504/?utm_source=blogfinder" />
-        <published>2026-05-04T21:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[五一流水账 0504]]></summary>
-    </entry>
-        <entry>
-        <title>憑什麼我不能是宇宙的中心？</title>
-        <id>154850</id>
-        <link href="https://blog.giveanornot.com/center-of-the-universe/?utm_source=blogfinder" />
-        <published>2026-05-04T20:55:06+08:00</published>
-        <author>
-            <name>資工小廢物  - JN</name>
-            <uri>https://blog.giveanornot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[憑什麼我不能是宇宙的中心？]]></summary>
-    </entry>
-        <entry>
-        <title>杨千嬅 Live MY LIVE 1.0 演唱会 成都站</title>
-        <id>154874</id>
-        <link href="https://blog.pursuitus.com/live-my-live-concert.html?utm_source=blogfinder" />
-        <published>2026-05-04T20:54:26+08:00</published>
-        <author>
-            <name>Ouroboros</name>
-            <uri>https://blog.pursuitus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[杨千嬅 Live MY LIVE 1.0 演唱会 成都站]]></summary>
-    </entry>
-        <entry>
-        <title>Claude Code statusline</title>
-        <id>154845</id>
-        <link href="https://blog.zebedy.com/post/a71ab14f.html?utm_source=blogfinder" />
-        <published>2026-05-04T20:53:17+08:00</published>
-        <author>
-            <name>Undefined</name>
-            <uri>https://blog.zabrian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude Code statusline]]></summary>
-    </entry>
-        <entry>
-        <title>醇香小记·第二十期</title>
-        <id>154830</id>
-        <link href="https://blog.kfdzcoffee.cn/archives/mellownote20?utm_source=blogfinder" />
-        <published>2026-05-04T20:52:08+08:00</published>
-        <author>
-            <name>咖啡豆子 coffee 的小站</name>
-            <uri>https://blog.kfdzcoffee.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[醇香小记·第二十期]]></summary>
-    </entry>
-        <entry>
-        <title>黔山赴夏，清风入怀</title>
-        <id>154843</id>
-        <link href="https://blog.liushen.fun/posts/1968ba6c/?utm_source=blogfinder" />
-        <published>2026-05-04T20:50:21+08:00</published>
-        <author>
-            <name>LiuShen&#039;s Blog</name>
-            <uri>https://blog.liushen.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[黔山赴夏，清风入怀]]></summary>
     </entry>
     </feed>
