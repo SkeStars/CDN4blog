@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-08T22:00:38+08:00</updated>
+    <updated>2026-05-08T23:00:45+08:00</updated>
         <entry>
         <title>今日份温柔：黑长直珍珠少女头像</title>
         <id>155308</id>
@@ -22,6 +22,28 @@
             <uri>https://www.zhounote.com</uri>
         </author>
         <summary type="text"><![CDATA[今日份温柔：黑长直珍珠少女头像]]></summary>
+    </entry>
+        <entry>
+        <title>食堂吃个饭也有占座的</title>
+        <id>155311</id>
+        <link href="https://cuixiping.com/blog/think/ytnjfl?utm_source=blogfinder" />
+        <published>2026-05-08T21:06:00+08:00</published>
+        <author>
+            <name>崔话记</name>
+            <uri>https://cuixiping.com</uri>
+        </author>
+        <summary type="text"><![CDATA[食堂吃个饭也有占座的]]></summary>
+    </entry>
+        <entry>
+        <title>纪念我们的婚礼</title>
+        <id>155312</id>
+        <link href="https://veryatao.com/life/commemorating-our-wedding/?utm_source=blogfinder" />
+        <published>2026-05-08T20:01:19+08:00</published>
+        <author>
+            <name>Atao&#039;s Space</name>
+            <uri>https://veryatao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[纪念我们的婚礼]]></summary>
     </entry>
         <entry>
         <title>Uptime-kuma美化</title>
@@ -220,6 +242,17 @@
             <uri>https://blog.imalan.cn</uri>
         </author>
         <summary type="text"><![CDATA[涪陵白鹤梁水下遗址]]></summary>
+    </entry>
+        <entry>
+        <title>Google 账号如何修改邮箱地址</title>
+        <id>155310</id>
+        <link href="https://yesreho.com/how-to-change-your-google-account-email-address/?utm_source=blogfinder" />
+        <published>2026-05-07T23:23:28+08:00</published>
+        <author>
+            <name>LookLeap</name>
+            <uri>https://yesreho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Google 账号如何修改邮箱地址]]></summary>
     </entry>
         <entry>
         <title>华强北版斯坦福个人学术主页重构开源，中英双语同步版本，增加后台管理系统</title>
@@ -1331,27 +1364,5 @@
             <uri>https://blog.giveanornot.com</uri>
         </author>
         <summary type="text"><![CDATA[要怎麼知道別人在部落格提到了自己？部落格該怎麼海巡？]]></summary>
-    </entry>
-        <entry>
-        <title>公园夜走</title>
-        <id>154900</id>
-        <link href="http://etom.top/archives/so83.html?utm_source=blogfinder" />
-        <published>2026-05-05T22:55:00+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[公园夜走]]></summary>
-    </entry>
-        <entry>
-        <title>记一次 Vibe Coding 小工具体验</title>
-        <id>154915</id>
-        <link href="https://yesreho.com/vibe-coding/?utm_source=blogfinder" />
-        <published>2026-05-05T22:25:51+08:00</published>
-        <author>
-            <name>LookLeap</name>
-            <uri>https://yesreho.com</uri>
-        </author>
-        <summary type="text"><![CDATA[记一次 Vibe Coding 小工具体验]]></summary>
     </entry>
     </feed>
