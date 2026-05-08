@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-08T23:00:45+08:00</updated>
+    <updated>2026-05-09T00:02:55+08:00</updated>
         <entry>
         <title>今日份温柔：黑长直珍珠少女头像</title>
         <id>155308</id>
@@ -33,6 +33,28 @@
             <uri>https://cuixiping.com</uri>
         </author>
         <summary type="text"><![CDATA[食堂吃个饭也有占座的]]></summary>
+    </entry>
+        <entry>
+        <title>把苹果交大本地部署的大模型免费API接入字节的TRAE使劲蹬，看代码写代码溜得一批</title>
+        <id>155313</id>
+        <link href="https://www.52txr.cn/2026/sjtuttrea.html?utm_source=blogfinder" />
+        <published>2026-05-08T20:46:00+08:00</published>
+        <author>
+            <name>陶小桃</name>
+            <uri>https://www.52txr.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[把苹果交大本地部署的大模型免费API接入字节的TRAE使劲蹬，看代码写代码溜得一批]]></summary>
+    </entry>
+        <entry>
+        <title>二次创作的 tab-out：让我的”标签页囤积症”康复了</title>
+        <id>155314</id>
+        <link href="https://www.evan.xin/4966/?utm_source=blogfinder" />
+        <published>2026-05-08T20:31:20+08:00</published>
+        <author>
+            <name>Evan&#039;s Space</name>
+            <uri>https://www.evan.xin</uri>
+        </author>
+        <summary type="text"><![CDATA[二次创作的 tab-out：让我的”标签页囤积症”康复了]]></summary>
     </entry>
         <entry>
         <title>纪念我们的婚礼</title>
@@ -242,6 +264,28 @@
             <uri>https://blog.imalan.cn</uri>
         </author>
         <summary type="text"><![CDATA[涪陵白鹤梁水下遗址]]></summary>
+    </entry>
+        <entry>
+        <title>linux安装docker</title>
+        <id>155316</id>
+        <link href="https://blog.share888.top/note/server/docker/linux安装docker.html?utm_source=blogfinder" />
+        <published>2026-05-07T23:33:54+08:00</published>
+        <author>
+            <name>卡卡罗特</name>
+            <uri>https://blog.share888.top</uri>
+        </author>
+        <summary type="text"><![CDATA[linux安装docker]]></summary>
+    </entry>
+        <entry>
+        <title>dockerfile</title>
+        <id>155315</id>
+        <link href="https://blog.share888.top/note/server/docker/dockerfile.html?utm_source=blogfinder" />
+        <published>2026-05-07T23:33:54+08:00</published>
+        <author>
+            <name>卡卡罗特</name>
+            <uri>https://blog.share888.top</uri>
+        </author>
+        <summary type="text"><![CDATA[dockerfile]]></summary>
     </entry>
         <entry>
         <title>Google 账号如何修改邮箱地址</title>
@@ -1298,71 +1342,5 @@
             <uri>https://jyblog.cn</uri>
         </author>
         <summary type="text"><![CDATA[那杯五毛钱的粥，和我没种下去的理想]]></summary>
-    </entry>
-        <entry>
-        <title>读：sysstat 诊断链——从 sar 到 pidstat 的排查路径</title>
-        <id>155247</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/06/读：sysstat-诊断链——从-sar-到-pidstat-的排查路径/index.html?utm_source=blogfinder" />
-        <published>2026-05-06T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：sysstat 诊断链——从 sar 到 pidstat 的排查路径]]></summary>
-    </entry>
-        <entry>
-        <title>TIL: 用 Org-mode 列表管理选择题题库</title>
-        <id>155246</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/06/til-用-org-mode-列表管理选择题题库/index.html?utm_source=blogfinder" />
-        <published>2026-05-06T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL: 用 Org-mode 列表管理选择题题库]]></summary>
-    </entry>
-        <entry>
-        <title>TIL: flymake 错误跳转加入 Evil 跳转列表</title>
-        <id>155245</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/06/til-flymake-错误跳转加入-evil-跳转列表/index.html?utm_source=blogfinder" />
-        <published>2026-05-06T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL: flymake 错误跳转加入 Evil 跳转列表]]></summary>
-    </entry>
-        <entry>
-        <title>Emacs buffer 导出：五种方案对比</title>
-        <id>155117</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/06/emacs-buffer-导出：五种方案对比/index.html?utm_source=blogfinder" />
-        <published>2026-05-06T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[Emacs buffer 导出：五种方案对比]]></summary>
-    </entry>
-        <entry>
-        <title>要怎麼知道別人在部落格提到了自己？部落格該怎麼海巡？</title>
-        <id>155082</id>
-        <link href="https://blog.giveanornot.com/indieping/?utm_source=blogfinder" />
-        <published>2026-05-05T23:06:02+08:00</published>
-        <author>
-            <name>資工小廢物  - JN</name>
-            <uri>https://blog.giveanornot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[要怎麼知道別人在部落格提到了自己？部落格該怎麼海巡？]]></summary>
-    </entry>
-        <entry>
-        <title>要怎麼知道別人在部落格提到了自己？部落格該怎麼海巡？</title>
-        <id>154914</id>
-        <link href="https://blog.giveanornot.com/%E8%A6%81%E6%80%8E%E9%BA%BC%E7%9F%A5%E9%81%93%E5%88%A5%E4%BA%BA%E5%9C%A8%E9%83%A8%E8%90%BD%E6%A0%BC%E6%8F%90%E5%88%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E9%83%A8%E8%90%BD%E6%A0%BC%E8%A9%B2%E6%80%8E%E9%BA%BC%E6%B5%B7%E5%B7%A1/?utm_source=blogfinder" />
-        <published>2026-05-05T23:06:02+08:00</published>
-        <author>
-            <name>資工小廢物  - JN</name>
-            <uri>https://blog.giveanornot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[要怎麼知道別人在部落格提到了自己？部落格該怎麼海巡？]]></summary>
     </entry>
     </feed>
