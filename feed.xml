@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-08T19:00:29+08:00</updated>
+    <updated>2026-05-08T22:00:38+08:00</updated>
+        <entry>
+        <title>今日份温柔：黑长直珍珠少女头像</title>
+        <id>155308</id>
+        <link href="https://www.zhounote.com/article/61?utm_source=blogfinder" />
+        <published>2026-05-08T21:20:00+08:00</published>
+        <author>
+            <name>Zhou’s Notes</name>
+            <uri>https://www.zhounote.com</uri>
+        </author>
+        <summary type="text"><![CDATA[今日份温柔：黑长直珍珠少女头像]]></summary>
+    </entry>
+        <entry>
+        <title>Uptime-kuma美化</title>
+        <id>155305</id>
+        <link href="https://www.xrbk.cn/post/69.html?utm_source=blogfinder" />
+        <published>2026-05-08T17:18:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://www.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Uptime-kuma美化]]></summary>
+    </entry>
+        <entry>
+        <title>三维狐少儿编程教务管理系统 V1.0 正式上线！</title>
+        <id>155306</id>
+        <link href="https://ygz.ink/archives/4822.html?utm_source=blogfinder" />
+        <published>2026-05-08T16:10:05+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[三维狐少儿编程教务管理系统 V1.0 正式上线！]]></summary>
+    </entry>
         <entry>
         <title>《小泉八云〈怪谈·奇谭〉书评（1）》</title>
         <id>155298</id>
@@ -33,6 +66,17 @@
             <uri>https://www.zhyok.cn</uri>
         </author>
         <summary type="text"><![CDATA[Windows10系统最全优化教程，让电脑焕然一新]]></summary>
+    </entry>
+        <entry>
+        <title>敲钟前夜，AI Coding之后下一波“屠杀”将在哪？</title>
+        <id>155307</id>
+        <link href="https://knay.net/note/ai-industry-ipo-coding-market-peak-future-trends?utm_source=blogfinder" />
+        <published>2026-05-08T14:21:23+08:00</published>
+        <author>
+            <name>Yang&#039;s Blog</name>
+            <uri>https://knay.net</uri>
+        </author>
+        <summary type="text"><![CDATA[敲钟前夜，AI Coding之后下一波“屠杀”将在哪？]]></summary>
     </entry>
         <entry>
         <title>MES Hold 信息报表开发的相关概念，预 Hold、在制 Hold、解 Hold</title>
@@ -1309,104 +1353,5 @@
             <uri>https://yesreho.com</uri>
         </author>
         <summary type="text"><![CDATA[记一次 Vibe Coding 小工具体验]]></summary>
-    </entry>
-        <entry>
-        <title>我的独立博客，终于有了一个像样的后台</title>
-        <id>154894</id>
-        <link href="https://dongjunke.cn/posts/2026/05/05/50369.html?utm_source=blogfinder" />
-        <published>2026-05-05T21:59:00+08:00</published>
-        <author>
-            <name>东评西就</name>
-            <uri>https://dongjunke.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[我的独立博客，终于有了一个像样的后台]]></summary>
-    </entry>
-        <entry>
-        <title>26春学9周杂记</title>
-        <id>155075</id>
-        <link href="https://nxxy335.top/archives/TX17MwzO?utm_source=blogfinder" />
-        <published>2026-05-05T20:54:47+08:00</published>
-        <author>
-            <name>暖心向阳</name>
-            <uri>https://nxxy335.top</uri>
-        </author>
-        <summary type="text"><![CDATA[26春学9周杂记]]></summary>
-    </entry>
-        <entry>
-        <title>26春学9周杂记</title>
-        <id>154896</id>
-        <link href="https://nxxy335.top/?p=TX17MwzO&amp;utm_source=blogfinder" />
-        <published>2026-05-05T20:54:47+08:00</published>
-        <author>
-            <name>暖心向阳</name>
-            <uri>https://nxxy335.top</uri>
-        </author>
-        <summary type="text"><![CDATA[26春学9周杂记]]></summary>
-    </entry>
-        <entry>
-        <title>vLLM集成Ray分布式推理模型部署实战</title>
-        <id>154889</id>
-        <link href="https://chegva.com/6691.html?utm_source=blogfinder" />
-        <published>2026-05-05T20:50:03+08:00</published>
-        <author>
-            <name>安志合的学习博客</name>
-            <uri>https://chegva.com</uri>
-        </author>
-        <summary type="text"><![CDATA[vLLM集成Ray分布式推理模型部署实战]]></summary>
-    </entry>
-        <entry>
-        <title>硬装结束 夏天来了</title>
-        <id>154913</id>
-        <link href="https://blog.52hyjs.com/post-1267.html?utm_source=blogfinder" />
-        <published>2026-05-05T20:36:19+08:00</published>
-        <author>
-            <name>幻影博客</name>
-            <uri>https://blog.52hyjs.com</uri>
-        </author>
-        <summary type="text"><![CDATA[硬装结束 夏天来了]]></summary>
-    </entry>
-        <entry>
-        <title>DB数据库批量修改内容</title>
-        <id>154912</id>
-        <link href="https://hi.jeray.wang/K/212.html?utm_source=blogfinder" />
-        <published>2026-05-05T20:10:00+08:00</published>
-        <author>
-            <name>Jeray 大叔</name>
-            <uri>https://hi.jeray.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[DB数据库批量修改内容]]></summary>
-    </entry>
-        <entry>
-        <title>昨天喝懵逼了</title>
-        <id>154895</id>
-        <link href="https://ygz.ink/archives/4809.html?utm_source=blogfinder" />
-        <published>2026-05-05T19:51:19+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[昨天喝懵逼了]]></summary>
-    </entry>
-        <entry>
-        <title>又挺过了一个花粉季</title>
-        <id>154908</id>
-        <link href="https://blog.fueis.com/26-0505?utm_source=blogfinder" />
-        <published>2026-05-05T19:35:50+08:00</published>
-        <author>
-            <name>当下</name>
-            <uri>https://blog.fueis.com</uri>
-        </author>
-        <summary type="text"><![CDATA[又挺过了一个花粉季]]></summary>
-    </entry>
-        <entry>
-        <title>上伊那牡丹，酒醉身姿似百合花般</title>
-        <id>155081</id>
-        <link href="https://xeonzilla.top/note/kamiina-botan?utm_source=blogfinder" />
-        <published>2026-05-05T19:34:19+08:00</published>
-        <author>
-            <name>Xeonzilla’s Note</name>
-            <uri>https://xeonzilla.top</uri>
-        </author>
-        <summary type="text"><![CDATA[上伊那牡丹，酒醉身姿似百合花般]]></summary>
     </entry>
     </feed>
