@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-08T14:00:42+08:00</updated>
+    <updated>2026-05-08T16:00:54+08:00</updated>
+        <entry>
+        <title>急救电话</title>
+        <id>155290</id>
+        <link href="https://mobius.blog/23477.html?utm_source=blogfinder" />
+        <published>2026-05-08T14:00:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[急救电话]]></summary>
+    </entry>
+        <entry>
+        <title>随思 #77 - 2026-05-08</title>
+        <id>155296</id>
+        <link href="http://qthinker.net/content/77?utm_source=blogfinder" />
+        <published>2026-05-08T11:25:20+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[随思 #77 - 2026-05-08]]></summary>
+    </entry>
+        <entry>
+        <title>心藏神（五）--聊天记录</title>
+        <id>155293</id>
+        <link href="https://www.lindongfang.top/archives/2652/?utm_source=blogfinder" />
+        <published>2026-05-08T11:08:00+08:00</published>
+        <author>
+            <name>游子微博</name>
+            <uri>https://www.lindongfang.top</uri>
+        </author>
+        <summary type="text"><![CDATA[心藏神（五）--聊天记录]]></summary>
+    </entry>
+        <entry>
+        <title>六合散</title>
+        <id>155294</id>
+        <link href="https://www.lindongfang.top/archives/2651/?utm_source=blogfinder" />
+        <published>2026-05-08T10:41:00+08:00</published>
+        <author>
+            <name>游子微博</name>
+            <uri>https://www.lindongfang.top</uri>
+        </author>
+        <summary type="text"><![CDATA[六合散]]></summary>
+    </entry>
         <entry>
         <title>交换机</title>
         <id>155289</id>
@@ -22,6 +66,28 @@
             <uri>https://ltmltm.cn/bk</uri>
         </author>
         <summary type="text"><![CDATA[交换机]]></summary>
+    </entry>
+        <entry>
+        <title>如何篡改集体记忆？</title>
+        <id>155291</id>
+        <link href="https://mobius.blog/23484.html?utm_source=blogfinder" />
+        <published>2026-05-08T10:37:23+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[如何篡改集体记忆？]]></summary>
+    </entry>
+        <entry>
+        <title>Dirty Frag——又一个Linux内核提权漏洞，Ubuntu又双叒叕中招了</title>
+        <id>155295</id>
+        <link href="https://xingwangzhe.fun/posts/dirty-frag-linux-lpe/?utm_source=blogfinder" />
+        <published>2026-05-08T10:00:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Dirty Frag——又一个Linux内核提权漏洞，Ubuntu又双叒叕中招了]]></summary>
     </entry>
         <entry>
         <title>【读书记1670】周作人《药堂语录》</title>
@@ -55,6 +121,17 @@
             <uri>https://blog.tangwudi.com</uri>
         </author>
         <summary type="text"><![CDATA[为博客加一层“语义索引”（上）：结构设计与构建流程]]></summary>
+    </entry>
+        <entry>
+        <title>华强北版斯坦福个人学术主页重构开源，中英双语同步版本，增加后台管理系统</title>
+        <id>155292</id>
+        <link href="https://www.52txr.cn/2026/newacademicpages.html?utm_source=blogfinder" />
+        <published>2026-05-07T23:08:00+08:00</published>
+        <author>
+            <name>陶小桃</name>
+            <uri>https://www.52txr.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[华强北版斯坦福个人学术主页重构开源，中英双语同步版本，增加后台管理系统]]></summary>
     </entry>
         <entry>
         <title>误会是表达者的宿命</title>
@@ -1353,60 +1430,5 @@
             <uri>https://macin.org</uri>
         </author>
         <summary type="text"><![CDATA[热带风铃的潮响：吉隆坡大将书行]]></summary>
-    </entry>
-        <entry>
-        <title>五一</title>
-        <id>154892</id>
-        <link href="https://shiyu.dev/article/321?utm_source=blogfinder" />
-        <published>2026-05-05T15:45:19+08:00</published>
-        <author>
-            <name>时雨</name>
-            <uri>https://shiyu.dev</uri>
-        </author>
-        <summary type="text"><![CDATA[五一]]></summary>
-    </entry>
-        <entry>
-        <title>开放课程推荐 「面向所有人的 AI 提示词技巧」</title>
-        <id>154907</id>
-        <link href="https://wulu.zone/posts/ai-prompting-for-everyone?utm_source=blogfinder" />
-        <published>2026-05-05T15:33:26+08:00</published>
-        <author>
-            <name>Wulu&#039;s Blog</name>
-            <uri>https://wulu.zone</uri>
-        </author>
-        <summary type="text"><![CDATA[开放课程推荐 「面向所有人的 AI 提示词技巧」]]></summary>
-    </entry>
-        <entry>
-        <title>2026.5.4</title>
-        <id>154878</id>
-        <link href="https://www.justzht.com/2026-5-4/?utm_source=blogfinder" />
-        <published>2026-05-05T15:25:47+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.5.4]]></summary>
-    </entry>
-        <entry>
-        <title>再谈谈为什么人工智能不会有意识</title>
-        <id>154885</id>
-        <link href="https://sliun.com/othermind/?utm_source=blogfinder" />
-        <published>2026-05-05T14:21:00+08:00</published>
-        <author>
-            <name>理论派</name>
-            <uri>https://sliun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[再谈谈为什么人工智能不会有意识]]></summary>
-    </entry>
-        <entry>
-        <title>Toots 417 2026 Apr.26 - May.2</title>
-        <id>154898</id>
-        <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260502/?utm_source=blogfinder" />
-        <published>2026-05-05T14:16:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[Toots 417 2026 Apr.26 - May.2]]></summary>
     </entry>
     </feed>
