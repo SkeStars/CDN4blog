@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-09T12:01:45+08:00</updated>
+    <updated>2026-05-09T14:00:46+08:00</updated>
         <entry>
         <title>暴饮暴食后的骑行</title>
         <id>155343</id>
@@ -209,6 +209,17 @@
             <uri>https://www.52txr.cn</uri>
         </author>
         <summary type="text"><![CDATA[把苹果交大本地部署的大模型免费API接入字节的TRAE使劲蹬，看代码写代码溜得一批]]></summary>
+    </entry>
+        <entry>
+        <title>散装药</title>
+        <id>155344</id>
+        <link href="https://kaix.in/2026/0508/?utm_source=blogfinder" />
+        <published>2026-05-08T20:35:15+08:00</published>
+        <author>
+            <name>KAIX.IN</name>
+            <uri>https://kaix.in</uri>
+        </author>
+        <summary type="text"><![CDATA[散装药]]></summary>
     </entry>
         <entry>
         <title>二次创作的 tab-out：让我的”标签页囤积症”康复了</title>
@@ -1386,60 +1397,5 @@
             <uri>https://www.gujishe.com</uri>
         </author>
         <summary type="text"><![CDATA[联通沃享赢有点坑]]></summary>
-    </entry>
-        <entry>
-        <title>五一放假小记：带对象见家长</title>
-        <id>155083</id>
-        <link href="https://www.52txr.cn/2026/jianjiazhang.html?utm_source=blogfinder" />
-        <published>2026-05-06T13:54:00+08:00</published>
-        <author>
-            <name>陶小桃</name>
-            <uri>https://www.52txr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[五一放假小记：带对象见家长]]></summary>
-    </entry>
-        <entry>
-        <title>企业内双周发版SOP分享</title>
-        <id>155129</id>
-        <link href="https://umb.ink/post/47?utm_source=blogfinder" />
-        <published>2026-05-06T13:38:52+08:00</published>
-        <author>
-            <name>伞菌の博客</name>
-            <uri>https://umb.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[企业内双周发版SOP分享]]></summary>
-    </entry>
-        <entry>
-        <title>小乖乖寄来的礼物</title>
-        <id>155202</id>
-        <link href="https://ashi.im/a-gift-from-my-darling.html?utm_source=blogfinder" />
-        <published>2026-05-06T13:37:00+08:00</published>
-        <author>
-            <name>阿士的小窝</name>
-            <uri>https://ashi.im</uri>
-        </author>
-        <summary type="text"><![CDATA[小乖乖寄来的礼物]]></summary>
-    </entry>
-        <entry>
-        <title>当 AI 编程开始“常驻菜单栏”：5 个 macOS 开发者效率工具推荐</title>
-        <id>155111</id>
-        <link href="https://xifeng.net/archives/32?utm_source=blogfinder" />
-        <published>2026-05-06T13:23:21+08:00</published>
-        <author>
-            <name>西城往事</name>
-            <uri>https://xifeng.net</uri>
-        </author>
-        <summary type="text"><![CDATA[当 AI 编程开始“常驻菜单栏”：5 个 macOS 开发者效率工具推荐]]></summary>
-    </entry>
-        <entry>
-        <title>熬夜陪床+图床被刷，记糟糕透顶的一天</title>
-        <id>155107</id>
-        <link href="https://blog.1edg.cn/718?utm_source=blogfinder" />
-        <published>2026-05-06T13:03:00+08:00</published>
-        <author>
-            <name>小林先森</name>
-            <uri>https://blog.1edg.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[熬夜陪床+图床被刷，记糟糕透顶的一天]]></summary>
     </entry>
     </feed>
