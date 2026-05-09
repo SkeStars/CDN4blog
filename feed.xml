@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-09T23:00:25+08:00</updated>
+    <updated>2026-05-10T00:00:22+08:00</updated>
         <entry>
         <title>Edge密码危机自救：1小时的迁移双持方案</title>
         <id>155363</id>
@@ -55,6 +55,28 @@
             <uri>https://nxxy335.top</uri>
         </author>
         <summary type="text"><![CDATA[绝了，全员中招]]></summary>
+    </entry>
+        <entry>
+        <title>Astro框架Fuwari主题侧边栏添加Umami访问统计</title>
+        <id>155366</id>
+        <link href="https://blog.mcxiaochen.top//posts/p614f9cbd/?utm_source=blogfinder" />
+        <published>2026-05-09T19:12:58+08:00</published>
+        <author>
+            <name>辰渊尘の个人博客</name>
+            <uri>https://blog.mcxiaochen.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Astro框架Fuwari主题侧边栏添加Umami访问统计]]></summary>
+    </entry>
+        <entry>
+        <title>梦四十八</title>
+        <id>155364</id>
+        <link href="https://pewae.com/2026/05/dream_48.html?utm_source=blogfinder" />
+        <published>2026-05-09T18:27:54+08:00</published>
+        <author>
+            <name>破袜子</name>
+            <uri>https://pewae.com</uri>
+        </author>
+        <summary type="text"><![CDATA[梦四十八]]></summary>
     </entry>
         <entry>
         <title>我要开始夸夸我自己了哈</title>
@@ -1298,93 +1320,5 @@
             <uri>https://www.golangblog.com</uri>
         </author>
         <summary type="text"><![CDATA[wrk压测工具]]></summary>
-    </entry>
-        <entry>
-        <title>XSLT被移除后的RSS美化方案</title>
-        <id>155324</id>
-        <link href="https://ie12blog.36102025.xyz/articles/research-logs/xml-xslt/?utm_source=blogfinder" />
-        <published>2026-05-07T00:00:00+08:00</published>
-        <author>
-            <name>ie12的博客</name>
-            <uri>https://ie12blog.36102025.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[XSLT被移除后的RSS美化方案]]></summary>
-    </entry>
-        <entry>
-        <title>在洋葱路由（Tor）上搭建一个匿名的.onion网站</title>
-        <id>155262</id>
-        <link href="https://blog.liuzijian.com/post/2026/05/07/onion-site-on-tor/?utm_source=blogfinder" />
-        <published>2026-05-07T00:00:00+08:00</published>
-        <author>
-            <name>Liu Zijian&#039;s Blog</name>
-            <uri>https://blog.liuzijian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[在洋葱路由（Tor）上搭建一个匿名的.onion网站]]></summary>
-    </entry>
-        <entry>
-        <title>读：Choosing a Python Logging Library in 2026</title>
-        <id>155244</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/07/读：choosing-a-python-logging-library-in-2026/index.html?utm_source=blogfinder" />
-        <published>2026-05-07T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：Choosing a Python Logging Library in 2026]]></summary>
-    </entry>
-        <entry>
-        <title>读：Linux 删文件的真相——用 /proc 恢复被进程持有的已删除文件</title>
-        <id>155243</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/07/读：linux-删文件的真相——用-proc-恢复被进程持有的已删除文件/index.html?utm_source=blogfinder" />
-        <published>2026-05-07T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：Linux 删文件的真相——用 /proc 恢复被进程持有的已删除文件]]></summary>
-    </entry>
-        <entry>
-        <title>TIL: 用进程树展开定位被脚本包装的 JVM 进程</title>
-        <id>155242</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/06/til-用进程树展开定位被脚本包装的-jvm-进程/index.html?utm_source=blogfinder" />
-        <published>2026-05-07T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL: 用进程树展开定位被脚本包装的 JVM 进程]]></summary>
-    </entry>
-        <entry>
-        <title>二〇二六年四月总结：拍了风光和人像，照旧骑车</title>
-        <id>155114</id>
-        <link href="https://feng.pub/0520269571.html?utm_source=blogfinder" />
-        <published>2026-05-06T23:29:40+08:00</published>
-        <author>
-            <name>阿锋的小宇宙</name>
-            <uri>https://feng.pub</uri>
-        </author>
-        <summary type="text"><![CDATA[二〇二六年四月总结：拍了风光和人像，照旧骑车]]></summary>
-    </entry>
-        <entry>
-        <title>再见，新浪云</title>
-        <id>155217</id>
-        <link href="https://www.dao.js.cn/new/2026050612185.html?utm_source=blogfinder" />
-        <published>2026-05-06T23:10:54+08:00</published>
-        <author>
-            <name>懋和道人</name>
-            <uri>https://www.dao.js.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[再见，新浪云]]></summary>
-    </entry>
-        <entry>
-        <title>HyperFrames 实战：用 HTML 写一支 41 秒的产品介绍视频</title>
-        <id>155113</id>
-        <link href="https://blog.devtang.com/2026/05/06/generate-video-from-hyperframes/?utm_source=blogfinder" />
-        <published>2026-05-06T23:03:37+08:00</published>
-        <author>
-            <name>唐巧的博客</name>
-            <uri>https://blog.devtang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[HyperFrames 实战：用 HTML 写一支 41 秒的产品介绍视频]]></summary>
     </entry>
     </feed>
