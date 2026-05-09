@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-09T21:00:56+08:00</updated>
+    <updated>2026-05-09T23:00:25+08:00</updated>
+        <entry>
+        <title>Edge密码危机自救：1小时的迁移双持方案</title>
+        <id>155363</id>
+        <link href="https://blog.liseezn.top/edge%e5%af%86%e7%a0%81%e5%8d%b1%e6%9c%ba%e8%87%aa%e6%95%91%ef%bc%9a1%e5%b0%8f%e6%97%b6%e7%9a%84%e8%bf%81%e7%a7%bb%e5%8f%8c%e6%8c%81%e6%96%b9%e6%a1%88.html/?utm_source=blogfinder" />
+        <published>2026-05-09T22:17:17+08:00</published>
+        <author>
+            <name>Liseezn&#039;blog</name>
+            <uri>https://blog.liseezn.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Edge密码危机自救：1小时的迁移双持方案]]></summary>
+    </entry>
+        <entry>
+        <title>Git 报警: inexact rename detection was skipped - 排坑笔记 | 阿尔的代码屋</title>
+        <id>155362</id>
+        <link href="https://blog.algieba12.cn/record03-git-inexact-rename-detection-was-skipped/?utm_source=blogfinder" />
+        <published>2026-05-09T22:08:20+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Git 报警: inexact rename detection was skipped - 排坑笔记 | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
+        <title>俄国没得选</title>
+        <id>155357</id>
+        <link href="https://wangyurui.com/posts/e-guo-mei-de-xuan-6fd25583?utm_source=blogfinder" />
+        <published>2026-05-09T21:54:05+08:00</published>
+        <author>
+            <name>太隐</name>
+            <uri>https://wangyurui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[俄国没得选]]></summary>
+    </entry>
+        <entry>
+        <title>绝了，全员中招</title>
+        <id>155361</id>
+        <link href="https://nxxy335.top/archives/smryfKKX?utm_source=blogfinder" />
+        <published>2026-05-09T21:09:34+08:00</published>
+        <author>
+            <name>暖心向阳</name>
+            <uri>https://nxxy335.top</uri>
+        </author>
+        <summary type="text"><![CDATA[绝了，全员中招]]></summary>
+    </entry>
         <entry>
         <title>我要开始夸夸我自己了哈</title>
         <id>155356</id>
@@ -22,6 +66,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[我要开始夸夸我自己了哈]]></summary>
+    </entry>
+        <entry>
+        <title>别人懂不懂，自己良心过得去就行</title>
+        <id>155360</id>
+        <link href="https://lhdrc.com/489.html?utm_source=blogfinder" />
+        <published>2026-05-09T16:53:55+08:00</published>
+        <author>
+            <name>人间半闲</name>
+            <uri>https://lhdrc.com</uri>
+        </author>
+        <summary type="text"><![CDATA[别人懂不懂，自己良心过得去就行]]></summary>
     </entry>
         <entry>
         <title>周天记正式更换主题Riven</title>
@@ -77,6 +132,17 @@
             <uri>https://airy.ink</uri>
         </author>
         <summary type="text"><![CDATA[暴饮暴食后的骑行]]></summary>
+    </entry>
+        <entry>
+        <title>以BlogsClub的博阅榜图标为例解释防盗链</title>
+        <id>155359</id>
+        <link href="https://yourlai.com/archives/%e4%bb%a5blogsclub%e7%9a%84%e5%8d%9a%e9%98%85%e6%a6%9c%e5%9b%be%e6%a0%87%e4%b8%ba%e4%be%8b%e8%a7%a3%e9%87%8a%e9%98%b2%e7%9b%97%e9%93%be/?utm_source=blogfinder" />
+        <published>2026-05-09T10:59:35+08:00</published>
+        <author>
+            <name>Yourlai Blog</name>
+            <uri>https://yourlai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[以BlogsClub的博阅榜图标为例解释防盗链]]></summary>
     </entry>
         <entry>
         <title>今日已消毒</title>
@@ -297,6 +363,17 @@
             <uri>https://www.luohuayu.cn</uri>
         </author>
         <summary type="text"><![CDATA[牛马生活]]></summary>
+    </entry>
+        <entry>
+        <title>偏见和事实</title>
+        <id>155358</id>
+        <link href="https://ihaihe.cn/3641.htm?utm_source=blogfinder" />
+        <published>2026-05-08T22:14:35+08:00</published>
+        <author>
+            <name>三十里海河</name>
+            <uri>https://ihaihe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[偏见和事实]]></summary>
     </entry>
         <entry>
         <title>独立博客收录站的一些建议</title>
@@ -1309,82 +1386,5 @@
             <uri>https://blog.devtang.com</uri>
         </author>
         <summary type="text"><![CDATA[HyperFrames 实战：用 HTML 写一支 41 秒的产品介绍视频]]></summary>
-    </entry>
-        <entry>
-        <title>喜剧的内核是悲剧</title>
-        <id>155241</id>
-        <link href="https://blog.solazy.me/20260506/?utm_source=blogfinder" />
-        <published>2026-05-06T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[喜剧的内核是悲剧]]></summary>
-    </entry>
-        <entry>
-        <title>懒得下楼拍的晚霞</title>
-        <id>155225</id>
-        <link href="https://fxpai.com/article/landexialoupaidewanxia?utm_source=blogfinder" />
-        <published>2026-05-06T22:41:25+08:00</published>
-        <author>
-            <name>非学·派</name>
-            <uri>https://fxpai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[懒得下楼拍的晚霞]]></summary>
-    </entry>
-        <entry>
-        <title>如何用 Cloudflare 部署项目</title>
-        <id>155109</id>
-        <link href="https://yesreho.com/how-to-deploy-a-project-using-cloudflare/?utm_source=blogfinder" />
-        <published>2026-05-06T22:31:16+08:00</published>
-        <author>
-            <name>LookLeap</name>
-            <uri>https://yesreho.com</uri>
-        </author>
-        <summary type="text"><![CDATA[如何用 Cloudflare 部署项目]]></summary>
-    </entry>
-        <entry>
-        <title>#17 匆匆写下的四月月报</title>
-        <id>155229</id>
-        <link href="https://isming.me/2026-05-06-april-summary/?utm_source=blogfinder" />
-        <published>2026-05-06T22:30:42+08:00</published>
-        <author>
-            <name>码农明明桑</name>
-            <uri>https://isming.me</uri>
-        </author>
-        <summary type="text"><![CDATA[#17 匆匆写下的四月月报]]></summary>
-    </entry>
-        <entry>
-        <title>U17 国足 0-1 遭印尼绝杀，三个月的反差太扎心</title>
-        <id>155106</id>
-        <link href="https://www.zhounote.com/article/57?utm_source=blogfinder" />
-        <published>2026-05-06T22:00:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[U17 国足 0-1 遭印尼绝杀，三个月的反差太扎心]]></summary>
-    </entry>
-        <entry>
-        <title>257 使用AI IDE管理项目需要的多份文档</title>
-        <id>155116</id>
-        <link href="http://ddw2019.com/257?utm_source=blogfinder" />
-        <published>2026-05-06T21:53:12+08:00</published>
-        <author>
-            <name>Dongdong&#039;s Blog</name>
-            <uri>https://ddw2019.com</uri>
-        </author>
-        <summary type="text"><![CDATA[257 使用AI IDE管理项目需要的多份文档]]></summary>
-    </entry>
-        <entry>
-        <title>手机充电口烧了</title>
-        <id>155266</id>
-        <link href="https://ygz.ink/archives/4812.html?utm_source=blogfinder" />
-        <published>2026-05-06T21:48:24+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[手机充电口烧了]]></summary>
     </entry>
     </feed>
