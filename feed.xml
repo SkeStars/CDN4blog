@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-10T23:00:30+08:00</updated>
+    <updated>2026-05-11T00:01:26+08:00</updated>
+        <entry>
+        <title>自然本色</title>
+        <id>155611</id>
+        <link href="http://etom.top/archives/so90.html?utm_source=blogfinder" />
+        <published>2026-05-10T23:45:02+08:00</published>
+        <author>
+            <name>浮生事</name>
+            <uri>http://etom.top</uri>
+        </author>
+        <summary type="text"><![CDATA[自然本色]]></summary>
+    </entry>
+        <entry>
+        <title>docker-compose</title>
+        <id>155600</id>
+        <link href="https://blog.share888.top/note/server/docker/docker-compose.html?utm_source=blogfinder" />
+        <published>2026-05-10T23:00:31+08:00</published>
+        <author>
+            <name>卡卡罗特</name>
+            <uri>https://blog.share888.top</uri>
+        </author>
+        <summary type="text"><![CDATA[docker-compose]]></summary>
+    </entry>
+        <entry>
+        <title>周末流水账 0510</title>
+        <id>155601</id>
+        <link href="https://blog.solazy.me/20260510/?utm_source=blogfinder" />
+        <published>2026-05-10T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0510]]></summary>
+    </entry>
         <entry>
         <title>2026年重游台州府城墙</title>
         <id>155511</id>
@@ -33,6 +66,28 @@
             <uri>https://bluehe.cn</uri>
         </author>
         <summary type="text"><![CDATA[五一去川西：逛了四姑娘山双桥沟]]></summary>
+    </entry>
+        <entry>
+        <title>259 滴水湖的水系介绍</title>
+        <id>155599</id>
+        <link href="http://ddw2019.com/259?utm_source=blogfinder" />
+        <published>2026-05-10T21:50:25+08:00</published>
+        <author>
+            <name>Dongdong&#039;s Blog</name>
+            <uri>https://ddw2019.com</uri>
+        </author>
+        <summary type="text"><![CDATA[259 滴水湖的水系介绍]]></summary>
+    </entry>
+        <entry>
+        <title>如何启用域名DNSSEC的设置，以及吃瓜某蒂云服务商跑路这件事</title>
+        <id>155602</id>
+        <link href="https://koxiuqiu.cn/posts/34p2605101/?utm_source=blogfinder" />
+        <published>2026-05-10T21:50:00+08:00</published>
+        <author>
+            <name>朽丘秋雨</name>
+            <uri>https://koxiuqiu.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[如何启用域名DNSSEC的设置，以及吃瓜某蒂云服务商跑路这件事]]></summary>
     </entry>
         <entry>
         <title>台阶上钻出来的一株小草（20260419）</title>
@@ -121,6 +176,28 @@
             <uri>https://hulatu.com</uri>
         </author>
         <summary type="text"><![CDATA[如何打造一台极简好用的电脑、手机]]></summary>
+    </entry>
+        <entry>
+        <title>最近惦念 20260425</title>
+        <id>155593</id>
+        <link href="https://z.arlmy.me/posts/TILs/thoughts/20260425_Recently/?utm_source=blogfinder" />
+        <published>2026-05-10T14:43:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[最近惦念 20260425]]></summary>
+    </entry>
+        <entry>
+        <title>Toots 418 2026 May.3 - May.9</title>
+        <id>155594</id>
+        <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260509/?utm_source=blogfinder" />
+        <published>2026-05-10T14:37:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[Toots 418 2026 May.3 - May.9]]></summary>
     </entry>
         <entry>
         <title>SVGcode 一键部署到 Zeabur</title>
@@ -1210,71 +1287,5 @@
             <uri>https://blog.tangwudi.com</uri>
         </author>
         <summary type="text"><![CDATA[为博客加一层“语义索引”（上）：结构设计与构建流程]]></summary>
-    </entry>
-        <entry>
-        <title>读：Before GitHub</title>
-        <id>155318</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/07/读：before-github/index.html?utm_source=blogfinder" />
-        <published>2026-05-08T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：Before GitHub]]></summary>
-    </entry>
-        <entry>
-        <title>涪陵白鹤梁水下遗址</title>
-        <id>155302</id>
-        <link href="https://blog.imalan.cn/archives/fuling-baiheliang-underwater-site/?utm_source=blogfinder" />
-        <published>2026-05-07T23:45:41+08:00</published>
-        <author>
-            <name>失眠海峡</name>
-            <uri>https://blog.imalan.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[涪陵白鹤梁水下遗址]]></summary>
-    </entry>
-        <entry>
-        <title>linux安装docker</title>
-        <id>155316</id>
-        <link href="https://blog.share888.top/note/server/docker/linux安装docker.html?utm_source=blogfinder" />
-        <published>2026-05-07T23:33:54+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[linux安装docker]]></summary>
-    </entry>
-        <entry>
-        <title>dockerfile</title>
-        <id>155315</id>
-        <link href="https://blog.share888.top/note/server/docker/dockerfile.html?utm_source=blogfinder" />
-        <published>2026-05-07T23:33:54+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[dockerfile]]></summary>
-    </entry>
-        <entry>
-        <title>Google 账号如何修改邮箱地址</title>
-        <id>155310</id>
-        <link href="https://yesreho.com/how-to-change-your-google-account-email-address/?utm_source=blogfinder" />
-        <published>2026-05-07T23:23:28+08:00</published>
-        <author>
-            <name>LookLeap</name>
-            <uri>https://yesreho.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Google 账号如何修改邮箱地址]]></summary>
-    </entry>
-        <entry>
-        <title>华强北版斯坦福个人学术主页重构开源，中英双语同步版本，增加后台管理系统</title>
-        <id>155292</id>
-        <link href="https://www.52txr.cn/2026/newacademicpages.html?utm_source=blogfinder" />
-        <published>2026-05-07T23:08:00+08:00</published>
-        <author>
-            <name>陶小桃</name>
-            <uri>https://www.52txr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[华强北版斯坦福个人学术主页重构开源，中英双语同步版本，增加后台管理系统]]></summary>
     </entry>
     </feed>
