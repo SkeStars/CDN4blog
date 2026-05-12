@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-12T15:03:30+08:00</updated>
+    <updated>2026-05-12T18:00:15+08:00</updated>
+        <entry>
+        <title>学习王建硕大佬的 SKILL.md</title>
+        <id>155944</id>
+        <link href="https://www.sunzhongwei.com/learn-skillmd-expert-wang-jianshuo?utm_source=blogfinder" />
+        <published>2026-05-12T15:36:32+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[学习王建硕大佬的 SKILL.md]]></summary>
+    </entry>
+        <entry>
+        <title>这几年的 “这些天”——时光里的奔赴与安放</title>
+        <id>155943</id>
+        <link href="https://airy.ink/times/449?utm_source=blogfinder" />
+        <published>2026-05-12T14:07:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[这几年的 “这些天”——时光里的奔赴与安放]]></summary>
+    </entry>
         <entry>
         <title>运营 17 年的新浪云因业务战略调整即将关停</title>
         <id>155937</id>
@@ -176,6 +198,28 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1671】斯坦尼斯拉斯·迪昂《精准学习》]]></summary>
+    </entry>
+        <entry>
+        <title>罗马-佛罗伦萨-梵蒂冈之旅（二）</title>
+        <id>155945</id>
+        <link href="https://eduardoqian.com/archives/luo-ma-fo-luo-lun-sa-fan-di-gang-zhi-lu-er?utm_source=blogfinder" />
+        <published>2026-05-12T02:34:00+08:00</published>
+        <author>
+            <name>司云有崖</name>
+            <uri>https://eduardoqian.com</uri>
+        </author>
+        <summary type="text"><![CDATA[罗马-佛罗伦萨-梵蒂冈之旅（二）]]></summary>
+    </entry>
+        <entry>
+        <title>SpringBoot多PgSQL数据源的一种方式</title>
+        <id>155946</id>
+        <link href="https://blog.lichenghao.cn/article/x271vtyokfgi?utm_source=blogfinder" />
+        <published>2026-05-12T00:43:36+08:00</published>
+        <author>
+            <name>故事的程序猿</name>
+            <uri>https://blog.lichenghao.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[SpringBoot多PgSQL数据源的一种方式]]></summary>
     </entry>
         <entry>
         <title>很多年后</title>
@@ -1672,49 +1716,5 @@
             <uri>https://www.thyuu.com</uri>
         </author>
         <summary type="text"><![CDATA[风记得的音乐：《行将近》—— Soon to Leave]]></summary>
-    </entry>
-        <entry>
-        <title>2.5G交换机</title>
-        <id>155484</id>
-        <link href="https://ltmltm.cn/bk/1457.html?utm_source=blogfinder" />
-        <published>2026-05-09T17:02:00+08:00</published>
-        <author>
-            <name>因为很想念</name>
-            <uri>https://ltmltm.cn/bk</uri>
-        </author>
-        <summary type="text"><![CDATA[2.5G交换机]]></summary>
-    </entry>
-        <entry>
-        <title>我要开始夸夸我自己了哈</title>
-        <id>155356</id>
-        <link href="https://ygz.ink/archives/4852.html?utm_source=blogfinder" />
-        <published>2026-05-09T17:01:53+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[我要开始夸夸我自己了哈]]></summary>
-    </entry>
-        <entry>
-        <title>别人懂不懂，自己良心过得去就行</title>
-        <id>155360</id>
-        <link href="https://lhdrc.com/489.html?utm_source=blogfinder" />
-        <published>2026-05-09T16:53:55+08:00</published>
-        <author>
-            <name>人间半闲</name>
-            <uri>https://lhdrc.com</uri>
-        </author>
-        <summary type="text"><![CDATA[别人懂不懂，自己良心过得去就行]]></summary>
-    </entry>
-        <entry>
-        <title>我才发现，自己已经是上一代了</title>
-        <id>155490</id>
-        <link href="https://miraii.cn/posts/17k4s356/?utm_source=blogfinder" />
-        <published>2026-05-09T15:39:18+08:00</published>
-        <author>
-            <name>MuXiaoChen</name>
-            <uri>https://miraii.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[我才发现，自己已经是上一代了]]></summary>
     </entry>
     </feed>
