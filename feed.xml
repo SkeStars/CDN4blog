@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-12T12:01:50+08:00</updated>
+    <updated>2026-05-12T15:03:30+08:00</updated>
+        <entry>
+        <title>运营 17 年的新浪云因业务战略调整即将关停</title>
+        <id>155937</id>
+        <link href="https://www.aiwazi.com/3087.html?utm_source=blogfinder" />
+        <published>2026-05-12T13:19:26+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[运营 17 年的新浪云因业务战略调整即将关停]]></summary>
+    </entry>
+        <entry>
+        <title>解锁新成就：AI 原创歌曲《战至终章》版权到手</title>
+        <id>155941</id>
+        <link href="https://www.zhounote.com/article/69?utm_source=blogfinder" />
+        <published>2026-05-12T13:10:00+08:00</published>
+        <author>
+            <name>Zhou’s Notes</name>
+            <uri>https://www.zhounote.com</uri>
+        </author>
+        <summary type="text"><![CDATA[解锁新成就：AI 原创歌曲《战至终章》版权到手]]></summary>
+    </entry>
+        <entry>
+        <title>博客网站跳菠菜事件</title>
+        <id>155939</id>
+        <link href="https://ygz.ink/archives/4877.html?utm_source=blogfinder" />
+        <published>2026-05-12T12:42:36+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[博客网站跳菠菜事件]]></summary>
+    </entry>
+        <entry>
+        <title>开源本站博客系统 - Publa</title>
+        <id>155936</id>
+        <link href="https://oldj.net/posts/hello-publa?utm_source=blogfinder" />
+        <published>2026-05-12T11:24:59+08:00</published>
+        <author>
+            <name>oldj&#039;s blog</name>
+            <uri>https://oldj.net</uri>
+        </author>
+        <summary type="text"><![CDATA[开源本站博客系统 - Publa]]></summary>
+    </entry>
         <entry>
         <title>好站网 haozhan.wang 域名现已顺利备案通过</title>
         <id>155929</id>
@@ -77,6 +121,17 @@
             <uri>https://1q43.blog</uri>
         </author>
         <summary type="text"><![CDATA[如何给 Notion AI 接入第三方 API?]]></summary>
+    </entry>
+        <entry>
+        <title>Debian 14 强制可重现构建：从&quot;信任我们&quot;到&quot;验证我们&quot;</title>
+        <id>155940</id>
+        <link href="https://xingwangzhe.fun/posts/debian-14-reproducible-builds/?utm_source=blogfinder" />
+        <published>2026-05-12T09:00:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[Debian 14 强制可重现构建：从&quot;信任我们&quot;到&quot;验证我们&quot;]]></summary>
     </entry>
         <entry>
         <title>每个人都有想要逃往的星露谷</title>
@@ -154,6 +209,17 @@
             <uri>https://yesreho.com</uri>
         </author>
         <summary type="text"><![CDATA[2026 年身份证到期换新证教程]]></summary>
+    </entry>
+        <entry>
+        <title>新津一日</title>
+        <id>155938</id>
+        <link href="https://blog.pursuitus.com/one-day-in-xinjin.html?utm_source=blogfinder" />
+        <published>2026-05-11T23:10:01+08:00</published>
+        <author>
+            <name>Ouroboros</name>
+            <uri>https://blog.pursuitus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[新津一日]]></summary>
     </entry>
         <entry>
         <title>宁舍心上人，不舍小三轮</title>
@@ -1124,6 +1190,17 @@
         <summary type="text"><![CDATA[请尽量让你的域名在你手上]]></summary>
     </entry>
         <entry>
+        <title>关于 Stallman 报告</title>
+        <id>155935</id>
+        <link href="https://blog.cytrogen.icu/posts/b984.html?utm_source=blogfinder" />
+        <published>2026-05-10T12:00:00+08:00</published>
+        <author>
+            <name>Cytrogen&#039;s Blog</name>
+            <uri>https://blog.cytrogen.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[关于 Stallman 报告]]></summary>
+    </entry>
+        <entry>
         <title>08年那段日子</title>
         <id>155489</id>
         <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1137&amp;utm_source=blogfinder" />
@@ -1639,60 +1716,5 @@
             <uri>https://miraii.cn</uri>
         </author>
         <summary type="text"><![CDATA[我才发现，自己已经是上一代了]]></summary>
-    </entry>
-        <entry>
-        <title>Cadence/Allegro各类器件类型的Class选择速查表</title>
-        <id>155410</id>
-        <link href="http://loonlog.com/2026/5/9/cadence-allegro-class/?utm_source=blogfinder" />
-        <published>2026-05-09T14:48:00+08:00</published>
-        <author>
-            <name>菜鸟之志</name>
-            <uri>http://loonlog.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Cadence/Allegro各类器件类型的Class选择速查表]]></summary>
-    </entry>
-        <entry>
-        <title>周天记正式更换主题Riven</title>
-        <id>155351</id>
-        <link href="https://zhoutian.com/369.html?utm_source=blogfinder" />
-        <published>2026-05-09T14:03:00+08:00</published>
-        <author>
-            <name>周天记</name>
-            <uri>https://zhoutian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[周天记正式更换主题Riven]]></summary>
-    </entry>
-        <entry>
-        <title>给自己画了个新头像：一个点赞的自己</title>
-        <id>155346</id>
-        <link href="https://www.zhounote.com/article/63?utm_source=blogfinder" />
-        <published>2026-05-09T14:00:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[给自己画了个新头像：一个点赞的自己]]></summary>
-    </entry>
-        <entry>
-        <title>随思 #78 - 2026-05-09</title>
-        <id>155347</id>
-        <link href="http://qthinker.net/content/78?utm_source=blogfinder" />
-        <published>2026-05-09T13:13:07+08:00</published>
-        <author>
-            <name>Qthinker</name>
-            <uri>https://qthinker.net</uri>
-        </author>
-        <summary type="text"><![CDATA[随思 #78 - 2026-05-09]]></summary>
-    </entry>
-        <entry>
-        <title>Windsurf切号器分享</title>
-        <id>155348</id>
-        <link href="https://jyblog.cn/5519/?utm_source=blogfinder" />
-        <published>2026-05-09T12:53:43+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Windsurf切号器分享]]></summary>
     </entry>
     </feed>
