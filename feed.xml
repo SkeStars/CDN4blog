@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-12T23:00:33+08:00</updated>
+    <updated>2026-05-13T00:01:04+08:00</updated>
         <entry>
         <title>「诚实」的机器</title>
         <id>155949</id>
@@ -24,6 +24,17 @@
         <summary type="text"><![CDATA[「诚实」的机器]]></summary>
     </entry>
         <entry>
+        <title>我对你无能的细节没兴趣</title>
+        <id>155961</id>
+        <link href="https://blog.solazy.me/20260512/?utm_source=blogfinder" />
+        <published>2026-05-12T21:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[我对你无能的细节没兴趣]]></summary>
+    </entry>
+        <entry>
         <title>合规升级：好站网公安备案已审核通过</title>
         <id>155952</id>
         <link href="https://www.zhounote.com/article/71?utm_source=blogfinder" />
@@ -33,6 +44,17 @@
             <uri>https://www.zhounote.com</uri>
         </author>
         <summary type="text"><![CDATA[合规升级：好站网公安备案已审核通过]]></summary>
+    </entry>
+        <entry>
+        <title>愛你的只有一個我</title>
+        <id>155963</id>
+        <link href="https://blog.giveanornot.com/a-ba-ni-bi/?utm_source=blogfinder" />
+        <published>2026-05-12T19:54:00+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[愛你的只有一個我]]></summary>
     </entry>
         <entry>
         <title>心碎！苏超 5 月 16 日扬州主场未中签，无缘现场助威</title>
@@ -55,6 +77,28 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[马上2026世界杯来了，买体彩不？]]></summary>
+    </entry>
+        <entry>
+        <title>熊猫小A: 天呐，现在的垃圾评论升级了，已经是 AI 垃圾评论了</title>
+        <id>155960</id>
+        <link href="https://blog.imalan.cn/archives/memo-20260512-1800/?utm_source=blogfinder" />
+        <published>2026-05-12T17:59:01+08:00</published>
+        <author>
+            <name>失眠海峡</name>
+            <uri>https://blog.imalan.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[熊猫小A: 天呐，现在的垃圾评论升级了，已经是 AI 垃圾评论了]]></summary>
+    </entry>
+        <entry>
+        <title>摘：《永不再来：对医学屠杀的生命伦理学反思》</title>
+        <id>155956</id>
+        <link href="https://z.arlmy.me/posts/Note/Note_TessaCheloucheAndGeoffreyBrahmer_NeverAgainBioethicalReflectionsOnMedicalAtrocities/?utm_source=blogfinder" />
+        <published>2026-05-12T17:57:46+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[摘：《永不再来：对医学屠杀的生命伦理学反思》]]></summary>
     </entry>
         <entry>
         <title>学习王建硕大佬的 SKILL.md</title>
@@ -277,6 +321,17 @@
         <summary type="text"><![CDATA[【读书记1671】斯坦尼斯拉斯·迪昂《精准学习》]]></summary>
     </entry>
         <entry>
+        <title>摘：《生而为熊》</title>
+        <id>155957</id>
+        <link href="https://z.arlmy.me/posts/Note/Note_R%C3%A9myMarion_LoursLautreDelhomme/?utm_source=blogfinder" />
+        <published>2026-05-12T07:47:46+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[摘：《生而为熊》]]></summary>
+    </entry>
+        <entry>
         <title>我就是那《遥远的救世主》</title>
         <id>155951</id>
         <link href="https://www.jianker.cn/385.html?utm_source=blogfinder" />
@@ -310,6 +365,17 @@
         <summary type="text"><![CDATA[SpringBoot多PgSQL数据源的一种方式]]></summary>
     </entry>
         <entry>
+        <title>摘：《猫在故纸堆》</title>
+        <id>155958</id>
+        <link href="https://z.arlmy.me/posts/Note/Note_LiuChaoFei_MaoZaiGuZhiDui/?utm_source=blogfinder" />
+        <published>2026-05-12T00:14:46+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[摘：《猫在故纸堆》]]></summary>
+    </entry>
+        <entry>
         <title>自定义系统默认中文字体</title>
         <id>155947</id>
         <link href="https://blog.lilydjwg.me/posts/217026.html?utm_source=blogfinder" />
@@ -319,6 +385,17 @@
             <uri>https://blog.lilydjwg.me</uri>
         </author>
         <summary type="text"><![CDATA[自定义系统默认中文字体]]></summary>
+    </entry>
+        <entry>
+        <title>摘：《波兰诗选》</title>
+        <id>155959</id>
+        <link href="https://z.arlmy.me/posts/Note/Note_BoLanShiXuan/?utm_source=blogfinder" />
+        <published>2026-05-12T00:02:46+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[摘：《波兰诗选》]]></summary>
     </entry>
         <entry>
         <title>很多年后</title>
@@ -363,6 +440,17 @@
             <uri>https://blog.pursuitus.com</uri>
         </author>
         <summary type="text"><![CDATA[新津一日]]></summary>
+    </entry>
+        <entry>
+        <title>已经「失效」一个多月的「人像模式」</title>
+        <id>155962</id>
+        <link href="https://blog.solazy.me/20260511/?utm_source=blogfinder" />
+        <published>2026-05-11T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[已经「失效」一个多月的「人像模式」]]></summary>
     </entry>
         <entry>
         <title>宁舍心上人，不舍小三轮</title>
@@ -1507,148 +1595,5 @@
             <uri>https://blog.liuzhen932.top</uri>
         </author>
         <summary type="text"><![CDATA[命令行必备的小工具和小技巧]]></summary>
-    </entry>
-        <entry>
-        <title>美股主流ETF对比概览</title>
-        <id>155612</id>
-        <link href="https://tumutanzi.com/archives/17600?utm_source=blogfinder" />
-        <published>2026-05-10T00:00:52+08:00</published>
-        <author>
-            <name>土木坛子</name>
-            <uri>https://tumutanzi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[美股主流ETF对比概览]]></summary>
-    </entry>
-        <entry>
-        <title>近思录 2026-05-10</title>
-        <id>155740</id>
-        <link href="https://chriszheng.science/2026/05/10/Recent-thoughts-2026-05-10/?utm_source=blogfinder" />
-        <published>2026-05-10T00:00:00+08:00</published>
-        <author>
-            <name>M-x Chris-An-Emacser</name>
-            <uri>https://chriszheng.science</uri>
-        </author>
-        <summary type="text"><![CDATA[近思录 2026-05-10]]></summary>
-    </entry>
-        <entry>
-        <title>白嫖一张德国号码有多简单？中国护照 + 0.01 欧，O2 eSIM 保号全攻略</title>
-        <id>155719</id>
-        <link href="https://blog.0037.pw/posts/c2687d63/?utm_source=blogfinder" />
-        <published>2026-05-10T00:00:00+08:00</published>
-        <author>
-            <name>Morning&#039;s Blog</name>
-            <uri>https://blog.0037.pw</uri>
-        </author>
-        <summary type="text"><![CDATA[白嫖一张德国号码有多简单？中国护照 + 0.01 欧，O2 eSIM 保号全攻略]]></summary>
-    </entry>
-        <entry>
-        <title>读：用 LLM 重构遗留代码——三个陷阱与一套方法</title>
-        <id>155622</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/10/读：用-llm-重构遗留代码——三个陷阱与一套方法/index.html?utm_source=blogfinder" />
-        <published>2026-05-10T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：用 LLM 重构遗留代码——三个陷阱与一套方法]]></summary>
-    </entry>
-        <entry>
-        <title>TIL：微服务与复杂度守恒——从单体到分布式的代价转移</title>
-        <id>155621</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/10/til：微服务与复杂度守恒——从单体到分布式的代价转移/index.html?utm_source=blogfinder" />
-        <published>2026-05-10T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL：微服务与复杂度守恒——从单体到分布式的代价转移]]></summary>
-    </entry>
-        <entry>
-        <title>MobileOrg Android：从 API 17 迁移到 API 34 的实战记录</title>
-        <id>155620</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/10/mobileorg-android：从-api-17-迁移到-api-34-的实战记录/index.html?utm_source=blogfinder" />
-        <published>2026-05-10T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[MobileOrg Android：从 API 17 迁移到 API 34 的实战记录]]></summary>
-    </entry>
-        <entry>
-        <title>org-mobile-push 卡顿排查实战：从黑盒到字节码反编译</title>
-        <id>155619</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/10/org-mobile-push-卡顿排查实战：从黑盒到字节码反编译/index.html?utm_source=blogfinder" />
-        <published>2026-05-10T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[org-mobile-push 卡顿排查实战：从黑盒到字节码反编译]]></summary>
-    </entry>
-        <entry>
-        <title>读：软件测试的反馈视角——CLEAR 原则从测试到运维</title>
-        <id>155618</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/10/读：软件测试的反馈视角——clear-原则从测试到运维/index.html?utm_source=blogfinder" />
-        <published>2026-05-10T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：软件测试的反馈视角——CLEAR 原则从测试到运维]]></summary>
-    </entry>
-        <entry>
-        <title>读：Yazi——在终端里管理文件的新选择</title>
-        <id>155617</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/09/读：yazi——在终端里管理文件的新选择/index.html?utm_source=blogfinder" />
-        <published>2026-05-10T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：Yazi——在终端里管理文件的新选择]]></summary>
-    </entry>
-        <entry>
-        <title>读：Linux 创建指定大小文件的三种方式——dd、fallocate 与 truncate</title>
-        <id>155616</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/09/读：linux-创建指定大小文件的三种方式——dd、fallocate-与-truncate/index.html?utm_source=blogfinder" />
-        <published>2026-05-10T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：Linux 创建指定大小文件的三种方式——dd、fallocate 与 truncate]]></summary>
-    </entry>
-        <entry>
-        <title>TIL：用 :box 给 mode-line 加内边距</title>
-        <id>155615</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/10/til：用-box-给-mode-line-加内边距/index.html?utm_source=blogfinder" />
-        <published>2026-05-10T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL：用 :box 给 mode-line 加内边距]]></summary>
-    </entry>
-        <entry>
-        <title>读：超越对话——用 Skills 和 Agents 工程化上下文</title>
-        <id>155614</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/10/读：超越对话——用-skills-和-agents-工程化上下文/index.html?utm_source=blogfinder" />
-        <published>2026-05-10T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：超越对话——用 Skills 和 Agents 工程化上下文]]></summary>
-    </entry>
-        <entry>
-        <title>读：MCP 时代的安全威胁——幻觉权限与三道防线</title>
-        <id>155613</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/10/读：mcp-时代的安全威胁——幻觉权限与三道防线/index.html?utm_source=blogfinder" />
-        <published>2026-05-10T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：MCP 时代的安全威胁——幻觉权限与三道防线]]></summary>
     </entry>
     </feed>
