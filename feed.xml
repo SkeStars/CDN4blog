@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-13T15:18:01+08:00</updated>
+    <updated>2026-05-13T19:00:46+08:00</updated>
+        <entry>
+        <title>Agent vs Workflow：LangGraph 循环图与 Dify DAG 的区别</title>
+        <id>156078</id>
+        <link href="https://beltxman.com/4696.html?utm_source=blogfinder" />
+        <published>2026-05-13T17:03:32+08:00</published>
+        <author>
+            <name>行星带</name>
+            <uri>https://beltxman.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Agent vs Workflow：LangGraph 循环图与 Dify DAG 的区别]]></summary>
+    </entry>
+        <entry>
+        <title>Electron 中使用 webview 中打开外部链接跳转问题</title>
+        <id>156074</id>
+        <link href="https://www.xiabingbao.com/post/electron-webview-open-teynx4.html?utm_source=blogfinder" />
+        <published>2026-05-13T13:43:52+08:00</published>
+        <author>
+            <name>蚊子</name>
+            <uri>https://www.xiabingbao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Electron 中使用 webview 中打开外部链接跳转问题]]></summary>
+    </entry>
         <entry>
         <title>备案已很顺畅，为何过半国内受众独立站仍选海外服务器？</title>
         <id>156067</id>
@@ -33,6 +55,17 @@
             <uri>https://blog.mfwt.top</uri>
         </author>
         <summary type="text"><![CDATA[430MHz 频段：网红对讲机是如何给你埋陷阱的]]></summary>
+    </entry>
+        <entry>
+        <title>张屠户必须死</title>
+        <id>156079</id>
+        <link href="https://pewae.com/2026/05/many-choises-not-only-cctv.html?utm_source=blogfinder" />
+        <published>2026-05-13T11:51:46+08:00</published>
+        <author>
+            <name>破袜子</name>
+            <uri>https://pewae.com</uri>
+        </author>
+        <summary type="text"><![CDATA[张屠户必须死]]></summary>
     </entry>
         <entry>
         <title>第一次被嘀嘀</title>
@@ -66,6 +99,17 @@
             <uri>https://www.lindongfang.top</uri>
         </author>
         <summary type="text"><![CDATA[抑郁症跳楼]]></summary>
+    </entry>
+        <entry>
+        <title>“免费”的纸壳子</title>
+        <id>156077</id>
+        <link href="http://99887766554433221100.cn/index.php/archives/189/?utm_source=blogfinder" />
+        <published>2026-05-13T09:43:00+08:00</published>
+        <author>
+            <name>南香香</name>
+            <uri>http://99887766554433221100.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[“免费”的纸壳子]]></summary>
     </entry>
         <entry>
         <title>出院小结：血压从213降到正常，今后需长期服药</title>
@@ -167,6 +211,28 @@
         <summary type="text"><![CDATA[26春学10周杂记]]></summary>
     </entry>
         <entry>
+        <title>Album#39 - 海马森林 (SEAHORSE FOREST)</title>
+        <id>156076</id>
+        <link href="https://taxodium.ink/album-39.html?utm_source=blogfinder" />
+        <published>2026-05-12T22:00:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[Album#39 - 海马森林 (SEAHORSE FOREST)]]></summary>
+    </entry>
+        <entry>
+        <title>26年4月总结-提前的假期</title>
+        <id>156081</id>
+        <link href="https://blog.lichenghao.cn/article/od3as0eswjx8?utm_source=blogfinder" />
+        <published>2026-05-12T21:40:00+08:00</published>
+        <author>
+            <name>故事的程序猿</name>
+            <uri>https://blog.lichenghao.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[26年4月总结-提前的假期]]></summary>
+    </entry>
+        <entry>
         <title>真正的顺其自然，不是两手一摊</title>
         <id>156046</id>
         <link href="https://lhdrc.com/487.html?utm_source=blogfinder" />
@@ -198,6 +264,17 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[我对你无能的细节没兴趣]]></summary>
+    </entry>
+        <entry>
+        <title>当白嫖党的渠道都被封以后，天才程序员已陨落。</title>
+        <id>156075</id>
+        <link href="https://jyblog.cn/5552/?utm_source=blogfinder" />
+        <published>2026-05-12T20:47:15+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[当白嫖党的渠道都被封以后，天才程序员已陨落。]]></summary>
     </entry>
         <entry>
         <title>Waline 数据源迁移记</title>
@@ -286,6 +363,17 @@
             <uri>https://blog.sdy666.icu</uri>
         </author>
         <summary type="text"><![CDATA[一文读懂 Base 系列编码：从 Base16 到 Base92]]></summary>
+    </entry>
+        <entry>
+        <title>AI写小说基本思路探讨</title>
+        <id>156080</id>
+        <link href="https://wonse.info/ai-write-novel.html?utm_source=blogfinder" />
+        <published>2026-05-12T18:10:00+08:00</published>
+        <author>
+            <name>王鑫的小屋</name>
+            <uri>https://wonse.info</uri>
+        </author>
+        <summary type="text"><![CDATA[AI写小说基本思路探讨]]></summary>
     </entry>
         <entry>
         <title>熊猫小A: 天呐，现在的垃圾评论升级了，已经是 AI 垃圾评论了</title>
@@ -396,6 +484,17 @@
             <uri>https://www.zhounote.com</uri>
         </author>
         <summary type="text"><![CDATA[解锁新成就：AI 原创歌曲《战至终章》版权到手]]></summary>
+    </entry>
+        <entry>
+        <title>智己LS9 100天使用体验</title>
+        <id>156082</id>
+        <link href="https://kok.plus/good-things/im-ls9/?utm_source=blogfinder" />
+        <published>2026-05-12T12:50:00+08:00</published>
+        <author>
+            <name>KOK 博客</name>
+            <uri>https://kok.plus</uri>
+        </author>
+        <summary type="text"><![CDATA[智己LS9 100天使用体验]]></summary>
     </entry>
         <entry>
         <title>博客网站跳菠菜事件</title>
@@ -1584,126 +1683,5 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[手机不是孩子不愿意学习的主因]]></summary>
-    </entry>
-        <entry>
-        <title>躺平两周后，我靠「数字员工」重新上路</title>
-        <id>155704</id>
-        <link href="https://ourai.ws/posts/digital-employee-team-revitalized-me/?utm_source=blogfinder" />
-        <published>2026-05-10T18:55:32+08:00</published>
-        <author>
-            <name>欧雷流</name>
-            <uri>https://ourai.ws</uri>
-        </author>
-        <summary type="text"><![CDATA[躺平两周后，我靠「数字员工」重新上路]]></summary>
-    </entry>
-        <entry>
-        <title>又到苏超预约日｜5 月 16 日扬州 vs 镇江</title>
-        <id>155509</id>
-        <link href="https://www.zhounote.com/article/66?utm_source=blogfinder" />
-        <published>2026-05-10T18:00:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[又到苏超预约日｜5 月 16 日扬州 vs 镇江]]></summary>
-    </entry>
-        <entry>
-        <title>服务商跑路，搬家！</title>
-        <id>155507</id>
-        <link href="https://shiyu.dev/article/322?utm_source=blogfinder" />
-        <published>2026-05-10T17:39:11+08:00</published>
-        <author>
-            <name>时雨</name>
-            <uri>https://shiyu.dev</uri>
-        </author>
-        <summary type="text"><![CDATA[服务商跑路，搬家！]]></summary>
-    </entry>
-        <entry>
-        <title>从体积焦虑到按需加载</title>
-        <id>155742</id>
-        <link href="https://imba97.com/posts/813?utm_source=blogfinder" />
-        <published>2026-05-10T17:12:52+08:00</published>
-        <author>
-            <name>imba 久期</name>
-            <uri>https://imba97.com</uri>
-        </author>
-        <summary type="text"><![CDATA[从体积焦虑到按需加载]]></summary>
-    </entry>
-        <entry>
-        <title>5.10 母亲节亦是加班日</title>
-        <id>155688</id>
-        <link href="https://liuqingwushui.top/archives/156/?utm_source=blogfinder" />
-        <published>2026-05-10T16:49:22+08:00</published>
-        <author>
-            <name>流情的博客</name>
-            <uri>https://liuqingwushui.top</uri>
-        </author>
-        <summary type="text"><![CDATA[5.10 母亲节亦是加班日]]></summary>
-    </entry>
-        <entry>
-        <title>草莓百日宴</title>
-        <id>155498</id>
-        <link href="https://www.skyue.com/26051016.html?utm_source=blogfinder" />
-        <published>2026-05-10T16:46:00+08:00</published>
-        <author>
-            <name>拾月</name>
-            <uri>https://www.skyue.com</uri>
-        </author>
-        <summary type="text"><![CDATA[草莓百日宴]]></summary>
-    </entry>
-        <entry>
-        <title>念而不得，藏于心底</title>
-        <id>155680</id>
-        <link href="https://blog.pet111.cn/archives/565/?utm_source=blogfinder" />
-        <published>2026-05-10T16:44:00+08:00</published>
-        <author>
-            <name>小生博客</name>
-            <uri>https://blog.pet111.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[念而不得，藏于心底]]></summary>
-    </entry>
-        <entry>
-        <title>AI抢了谁的饭碗？</title>
-        <id>155919</id>
-        <link href="https://www.zhyok.cn/archives/357/?utm_source=blogfinder" />
-        <published>2026-05-10T16:04:45+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[AI抢了谁的饭碗？]]></summary>
-    </entry>
-        <entry>
-        <title>Vol.102 语音AI迈向核心交互界面，模型与工程实践深度解析</title>
-        <id>155707</id>
-        <link href="https://liduos.com/weekly/the-weekly-gradient-102?utm_source=blogfinder" />
-        <published>2026-05-10T16:00:00+08:00</published>
-        <author>
-            <name>莫尔索</name>
-            <uri>https://liduos.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Vol.102 语音AI迈向核心交互界面，模型与工程实践深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>蚕食殆尽国内即时通讯市场的微信</title>
-        <id>155645</id>
-        <link href="https://blog.verdant.ee/posts/wechat-monopoly-im-market-china/?utm_source=blogfinder" />
-        <published>2026-05-10T15:42:26+08:00</published>
-        <author>
-            <name>映屿</name>
-            <uri>https://blog.verdant.ee</uri>
-        </author>
-        <summary type="text"><![CDATA[蚕食殆尽国内即时通讯市场的微信]]></summary>
-    </entry>
-        <entry>
-        <title>高铁上花三小时，我部署了全自动SSL证书同步脚本</title>
-        <id>155512</id>
-        <link href="https://dongjunke.cn/posts/2026/05/10/48163.html?utm_source=blogfinder" />
-        <published>2026-05-10T15:36:53+08:00</published>
-        <author>
-            <name>东评西就</name>
-            <uri>https://dongjunke.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[高铁上花三小时，我部署了全自动SSL证书同步脚本]]></summary>
     </entry>
     </feed>
