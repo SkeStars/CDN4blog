@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-13T19:00:46+08:00</updated>
+    <updated>2026-05-13T21:00:27+08:00</updated>
         <entry>
         <title>Agent vs Workflow：LangGraph 循环图与 Dify DAG 的区别</title>
         <id>156078</id>
@@ -198,6 +198,17 @@
             <uri>https://innei.in</uri>
         </author>
         <summary type="text"><![CDATA[从 Next.js 迁移到 React Router Framework Mode：AI Agent 视角的完整记录]]></summary>
+    </entry>
+        <entry>
+        <title>被虐的“暴龙线”</title>
+        <id>156083</id>
+        <link href="https://hi.jeray.wang/L/213.html?utm_source=blogfinder" />
+        <published>2026-05-12T22:03:00+08:00</published>
+        <author>
+            <name>Jeray 大叔</name>
+            <uri>https://hi.jeray.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[被虐的“暴龙线”]]></summary>
     </entry>
         <entry>
         <title>26春学10周杂记</title>
@@ -1650,38 +1661,5 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[如何拥有铁一样的肠胃？]]></summary>
-    </entry>
-        <entry>
-        <title>台阶上钻出来的一株小草（20260419）</title>
-        <id>155505</id>
-        <link href="http://stuit.cn/Xiaolu/Post/1615.html?utm_source=blogfinder" />
-        <published>2026-05-10T20:45:38+08:00</published>
-        <author>
-            <name>风雨行者</name>
-            <uri>http://stuit.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[台阶上钻出来的一株小草（20260419）]]></summary>
-    </entry>
-        <entry>
-        <title>学习是一个反人性的过程</title>
-        <id>155506</id>
-        <link href="https://joojen.com/archives/8955.html?utm_source=blogfinder" />
-        <published>2026-05-10T19:23:22+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[学习是一个反人性的过程]]></summary>
-    </entry>
-        <entry>
-        <title>手机不是孩子不愿意学习的主因</title>
-        <id>155503</id>
-        <link href="https://www.pgoj.top/archives/nong-cun-xue-xi.html/?utm_source=blogfinder" />
-        <published>2026-05-10T19:12:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[手机不是孩子不愿意学习的主因]]></summary>
     </entry>
     </feed>
