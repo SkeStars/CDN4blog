@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-14T21:00:55+08:00</updated>
+    <updated>2026-05-14T23:00:42+08:00</updated>
+        <entry>
+        <title>多路径磁盘使用场景</title>
+        <id>156273</id>
+        <link href="https://chegva.com/6592.html?utm_source=blogfinder" />
+        <published>2026-05-14T20:49:18+08:00</published>
+        <author>
+            <name>安志合的学习博客</name>
+            <uri>https://chegva.com</uri>
+        </author>
+        <summary type="text"><![CDATA[多路径磁盘使用场景]]></summary>
+    </entry>
+        <entry>
+        <title>Functional Design</title>
+        <id>156276</id>
+        <link href="https://www.geedea.pro/library/2026/functional-design/?utm_source=blogfinder" />
+        <published>2026-05-14T20:14:25+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[Functional Design]]></summary>
+    </entry>
+        <entry>
+        <title>Lesson 11 学习与记忆</title>
+        <id>156277</id>
+        <link href="https://physnya.top/animal-behavior/lesson-11-learning-and-remember/?utm_source=blogfinder" />
+        <published>2026-05-14T19:15:51+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 11 学习与记忆]]></summary>
+    </entry>
         <entry>
         <title>Codex 历史会话不显示怎么办？用 codex-provider-sync 一键恢复</title>
         <id>156127</id>
@@ -22,6 +55,28 @@
             <uri>https://www.wangdu.site</uri>
         </author>
         <summary type="text"><![CDATA[Codex 历史会话不显示怎么办？用 codex-provider-sync 一键恢复]]></summary>
+    </entry>
+        <entry>
+        <title>藏了 13 年的 NGINX “上古漏洞” 一个问号就能远程拿下你的服务器</title>
+        <id>156275</id>
+        <link href="https://www.tjsky.net/tutorial/1546?utm_source=blogfinder" />
+        <published>2026-05-14T17:06:22+08:00</published>
+        <author>
+            <name>秋风于渭水</name>
+            <uri>https://www.tjsky.net</uri>
+        </author>
+        <summary type="text"><![CDATA[藏了 13 年的 NGINX “上古漏洞” 一个问号就能远程拿下你的服务器]]></summary>
+    </entry>
+        <entry>
+        <title>广州两日游（2）：永庆坊（粤剧艺术博物馆、李小龙祖居等）</title>
+        <id>156274</id>
+        <link href="https://www.jfsay.com/archives/4112.html?utm_source=blogfinder" />
+        <published>2026-05-14T16:03:35+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[广州两日游（2）：永庆坊（粤剧艺术博物馆、李小龙祖居等）]]></summary>
     </entry>
         <entry>
         <title>Shadowsocks 安装笔记</title>
@@ -55,6 +110,17 @@
             <uri>https://www.52txr.cn</uri>
         </author>
         <summary type="text"><![CDATA[一只赛博果蝇引发我的世界观重塑，但想通后觉得世界是真是假并不重要]]></summary>
+    </entry>
+        <entry>
+        <title>展望与回望</title>
+        <id>156278</id>
+        <link href="https://ficor.net/archives/42?utm_source=blogfinder" />
+        <published>2026-05-14T12:01:41+08:00</published>
+        <author>
+            <name>荒野菲克</name>
+            <uri>https://ficor.net</uri>
+        </author>
+        <summary type="text"><![CDATA[展望与回望]]></summary>
     </entry>
         <entry>
         <title>实测有效！土耳其苹果ID成功开通ChatGPT Plus，每月立省45%，保姆级教程，强烈建议收藏</title>
@@ -198,6 +264,17 @@
             <uri>https://qthinker.net</uri>
         </author>
         <summary type="text"><![CDATA[分享一个 Code Review 智能体提示词]]></summary>
+    </entry>
+        <entry>
+        <title>一万的退税到账了，这是我头一回</title>
+        <id>156279</id>
+        <link href="https://cuixiping.com/blog/think/wslugs?utm_source=blogfinder" />
+        <published>2026-05-14T00:00:00+08:00</published>
+        <author>
+            <name>崔话记</name>
+            <uri>https://cuixiping.com</uri>
+        </author>
+        <summary type="text"><![CDATA[一万的退税到账了，这是我头一回]]></summary>
     </entry>
         <entry>
         <title>AstraFlow星图大模型“算力超市”的羊毛来了！</title>
@@ -1430,60 +1507,5 @@
             <uri>https://blog.pursuitus.com</uri>
         </author>
         <summary type="text"><![CDATA[新津一日]]></summary>
-    </entry>
-        <entry>
-        <title>已经「失效」一个多月的「人像模式」</title>
-        <id>155962</id>
-        <link href="https://blog.solazy.me/20260511/?utm_source=blogfinder" />
-        <published>2026-05-11T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[已经「失效」一个多月的「人像模式」]]></summary>
-    </entry>
-        <entry>
-        <title>宁舍心上人，不舍小三轮</title>
-        <id>155738</id>
-        <link href="https://ayayy.com/246.html?utm_source=blogfinder" />
-        <published>2026-05-11T23:00:00+08:00</published>
-        <author>
-            <name>哎呀哎呀呀</name>
-            <uri>https://ayayy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[宁舍心上人，不舍小三轮]]></summary>
-    </entry>
-        <entry>
-        <title>好萌好乖的美术手工作品</title>
-        <id>155735</id>
-        <link href="https://ygz.ink/archives/4871.html?utm_source=blogfinder" />
-        <published>2026-05-11T22:35:18+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[好萌好乖的美术手工作品]]></summary>
-    </entry>
-        <entry>
-        <title>火龙果醪糟成功了</title>
-        <id>155736</id>
-        <link href="https://ygz.ink/archives/4868.html?utm_source=blogfinder" />
-        <published>2026-05-11T22:33:20+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[火龙果醪糟成功了]]></summary>
-    </entry>
-        <entry>
-        <title>【不凡摄影作品 | 2026.5.11】</title>
-        <id>155916</id>
-        <link href="https://www.bufanz.com/20260511608.html?utm_source=blogfinder" />
-        <published>2026-05-11T22:22:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【不凡摄影作品 | 2026.5.11】]]></summary>
     </entry>
     </feed>
