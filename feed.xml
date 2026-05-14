@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-14T23:00:42+08:00</updated>
+    <updated>2026-05-15T00:00:44+08:00</updated>
         <entry>
         <title>多路径磁盘使用场景</title>
         <id>156273</id>
@@ -22,6 +22,17 @@
             <uri>https://chegva.com</uri>
         </author>
         <summary type="text"><![CDATA[多路径磁盘使用场景]]></summary>
+    </entry>
+        <entry>
+        <title>不讲武德，我没有闪。</title>
+        <id>156281</id>
+        <link href="https://ayayy.com/default/start.html?utm_source=blogfinder" />
+        <published>2026-05-14T20:33:00+08:00</published>
+        <author>
+            <name>哎呀哎呀呀</name>
+            <uri>https://ayayy.com</uri>
+        </author>
+        <summary type="text"><![CDATA[不讲武德，我没有闪。]]></summary>
     </entry>
         <entry>
         <title>Functional Design</title>
@@ -1430,82 +1441,5 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[摘：《波兰诗选》]]></summary>
-    </entry>
-        <entry>
-        <title>打造个人图床神器：免费稳定，Cloudflare R2 + PicGo + WebP Cloud，全球畅通无阻！</title>
-        <id>156272</id>
-        <link href="https://blog.0037.pw/posts/63cef169/?utm_source=blogfinder" />
-        <published>2026-05-12T00:00:00+08:00</published>
-        <author>
-            <name>Morning&#039;s Blog</name>
-            <uri>https://blog.0037.pw</uri>
-        </author>
-        <summary type="text"><![CDATA[打造个人图床神器：免费稳定，Cloudflare R2 + PicGo + WebP Cloud，全球畅通无阻！]]></summary>
-    </entry>
-        <entry>
-        <title>TIL: describe-personal-keybindings 查看你的自定义按键</title>
-        <id>155965</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/12/til-describe-personal-keybindings-查看你的自定义按键/index.html?utm_source=blogfinder" />
-        <published>2026-05-12T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL: describe-personal-keybindings 查看你的自定义按键]]></summary>
-    </entry>
-        <entry>
-        <title>读：当 Agent 成为生产调用者——四个被打破的运维假设</title>
-        <id>155964</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/12/读：当-agent-成为生产调用者——四个被打破的运维假设/index.html?utm_source=blogfinder" />
-        <published>2026-05-12T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：当 Agent 成为生产调用者——四个被打破的运维假设]]></summary>
-    </entry>
-        <entry>
-        <title>很多年后</title>
-        <id>155741</id>
-        <link href="https://shuspace.cn/archives/2331?utm_source=blogfinder" />
-        <published>2026-05-11T23:46:19+08:00</published>
-        <author>
-            <name>树的漫长岁月</name>
-            <uri>https://shuspace.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[很多年后]]></summary>
-    </entry>
-        <entry>
-        <title>巧借天工来降温：水蒸发制冷篇</title>
-        <id>155918</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1267/?utm_source=blogfinder" />
-        <published>2026-05-11T23:30:59+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[巧借天工来降温：水蒸发制冷篇]]></summary>
-    </entry>
-        <entry>
-        <title>2026 年身份证到期换新证教程</title>
-        <id>155737</id>
-        <link href="https://yesreho.com/2026-change-id-card/?utm_source=blogfinder" />
-        <published>2026-05-11T23:13:57+08:00</published>
-        <author>
-            <name>LookLeap</name>
-            <uri>https://yesreho.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026 年身份证到期换新证教程]]></summary>
-    </entry>
-        <entry>
-        <title>新津一日</title>
-        <id>155938</id>
-        <link href="https://blog.pursuitus.com/one-day-in-xinjin.html?utm_source=blogfinder" />
-        <published>2026-05-11T23:10:01+08:00</published>
-        <author>
-            <name>Ouroboros</name>
-            <uri>https://blog.pursuitus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[新津一日]]></summary>
     </entry>
     </feed>
