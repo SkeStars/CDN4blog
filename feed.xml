@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-14T18:00:44+08:00</updated>
+    <updated>2026-05-14T21:00:55+08:00</updated>
         <entry>
         <title>Codex 历史会话不显示怎么办？用 codex-provider-sync 一键恢复</title>
         <id>156127</id>
@@ -616,6 +616,28 @@
             <uri>https://tumutanzi.com</uri>
         </author>
         <summary type="text"><![CDATA[多么痛的领悟]]></summary>
+    </entry>
+        <entry>
+        <title>注册永久免费域名pp.ua 可托管Cloudflare 对比其他免费域名更加稳定</title>
+        <id>156271</id>
+        <link href="https://blog.0037.pw/posts/3990a97c/?utm_source=blogfinder" />
+        <published>2026-05-13T00:00:00+08:00</published>
+        <author>
+            <name>Morning&#039;s Blog</name>
+            <uri>https://blog.0037.pw</uri>
+        </author>
+        <summary type="text"><![CDATA[注册永久免费域名pp.ua 可托管Cloudflare 对比其他免费域名更加稳定]]></summary>
+    </entry>
+        <entry>
+        <title>亲测有效，甲骨文云（Oracle Cloud）「永久」免费服务器申请指南！</title>
+        <id>156270</id>
+        <link href="https://blog.0037.pw/posts/42392bb9/?utm_source=blogfinder" />
+        <published>2026-05-13T00:00:00+08:00</published>
+        <author>
+            <name>Morning&#039;s Blog</name>
+            <uri>https://blog.0037.pw</uri>
+        </author>
+        <summary type="text"><![CDATA[亲测有效，甲骨文云（Oracle Cloud）「永久」免费服务器申请指南！]]></summary>
     </entry>
         <entry>
         <title>读：emacs chat 技巧拾遗——从 bandali 的配置里捡到的那些技巧</title>
@@ -1333,6 +1355,17 @@
         <summary type="text"><![CDATA[摘：《波兰诗选》]]></summary>
     </entry>
         <entry>
+        <title>打造个人图床神器：免费稳定，Cloudflare R2 + PicGo + WebP Cloud，全球畅通无阻！</title>
+        <id>156272</id>
+        <link href="https://blog.0037.pw/posts/63cef169/?utm_source=blogfinder" />
+        <published>2026-05-12T00:00:00+08:00</published>
+        <author>
+            <name>Morning&#039;s Blog</name>
+            <uri>https://blog.0037.pw</uri>
+        </author>
+        <summary type="text"><![CDATA[打造个人图床神器：免费稳定，Cloudflare R2 + PicGo + WebP Cloud，全球畅通无阻！]]></summary>
+    </entry>
+        <entry>
         <title>TIL: describe-personal-keybindings 查看你的自定义按键</title>
         <id>155965</id>
         <link href="https://lujun9972.github.io/blog/2026/05/12/til-describe-personal-keybindings-查看你的自定义按键/index.html?utm_source=blogfinder" />
@@ -1452,71 +1485,5 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[【不凡摄影作品 | 2026.5.11】]]></summary>
-    </entry>
-        <entry>
-        <title>3 天 100 万注册用户，日烧千亿 token，一次意外的里程碑</title>
-        <id>155739</id>
-        <link href="https://greatdk.com/2149.html?utm_source=blogfinder" />
-        <published>2026-05-11T20:27:45+08:00</published>
-        <author>
-            <name>王登科</name>
-            <uri>https://greatdk.com</uri>
-        </author>
-        <summary type="text"><![CDATA[3 天 100 万注册用户，日烧千亿 token，一次意外的里程碑]]></summary>
-    </entry>
-        <entry>
-        <title>切尔西花园</title>
-        <id>155882</id>
-        <link href="https://chuishen.xyz/01/GoC.html?utm_source=blogfinder" />
-        <published>2026-05-11T20:23:00+08:00</published>
-        <author>
-            <name>Lafcadia&#039;s Blog</name>
-            <uri>https://chuishen.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[切尔西花园]]></summary>
-    </entry>
-        <entry>
-        <title>狐蒂云破产清算，你还能用什么主机？</title>
-        <id>155933</id>
-        <link href="https://www.evan.xin/4983/?utm_source=blogfinder" />
-        <published>2026-05-11T20:11:46+08:00</published>
-        <author>
-            <name>Evan&#039;s Space</name>
-            <uri>https://www.evan.xin</uri>
-        </author>
-        <summary type="text"><![CDATA[狐蒂云破产清算，你还能用什么主机？]]></summary>
-    </entry>
-        <entry>
-        <title>好站网 HaoZhan.Wang 升级 V1.7 版本</title>
-        <id>155732</id>
-        <link href="https://www.zhounote.com/article/67?utm_source=blogfinder" />
-        <published>2026-05-11T19:15:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[好站网 HaoZhan.Wang 升级 V1.7 版本]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 20 黑洞熵</title>
-        <id>155730</id>
-        <link href="https://physnya.top/GR/lesson-20-black-hole-entropy/?utm_source=blogfinder" />
-        <published>2026-05-11T18:45:02+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 20 黑洞熵]]></summary>
-    </entry>
-        <entry>
-        <title>使用 AI 的兴奋、上瘾与焦虑</title>
-        <id>155906</id>
-        <link href="https://lomus.cc/archives/773?utm_source=blogfinder" />
-        <published>2026-05-11T18:36:31+08:00</published>
-        <author>
-            <name>Lumos&#039;s Blog</name>
-            <uri>https://lomus.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[使用 AI 的兴奋、上瘾与焦虑]]></summary>
     </entry>
     </feed>
