@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-15T23:00:44+08:00</updated>
+    <updated>2026-05-16T00:00:44+08:00</updated>
+        <entry>
+        <title>如何在 Windows 安装 Git</title>
+        <id>156399</id>
+        <link href="https://blog.kayro.cn/posts/f9cc792?utm_source=blogfinder" />
+        <published>2026-05-15T23:00:50+08:00</published>
+        <author>
+            <name>敖苛记</name>
+            <uri>https://blog.kayro.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[如何在 Windows 安装 Git]]></summary>
+    </entry>
+        <entry>
+        <title>图床从又拍云迁移到Cloudflare R2</title>
+        <id>156396</id>
+        <link href="https://www.skyue.com/26051522.html?utm_source=blogfinder" />
+        <published>2026-05-15T22:51:00+08:00</published>
+        <author>
+            <name>拾月</name>
+            <uri>https://www.skyue.com</uri>
+        </author>
+        <summary type="text"><![CDATA[图床从又拍云迁移到Cloudflare R2]]></summary>
+    </entry>
         <entry>
         <title>安家</title>
         <id>156392</id>
@@ -46,6 +68,17 @@
         <summary type="text"><![CDATA[家里的常备药齐了]]></summary>
     </entry>
         <entry>
+        <title>如何安装 Windows 的包管理器 scoop 并配置国内镜像</title>
+        <id>156400</id>
+        <link href="https://blog.kayro.cn/posts/ed5b381?utm_source=blogfinder" />
+        <published>2026-05-15T20:32:17+08:00</published>
+        <author>
+            <name>敖苛记</name>
+            <uri>https://blog.kayro.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[如何安装 Windows 的包管理器 scoop 并配置国内镜像]]></summary>
+    </entry>
+        <entry>
         <title>京东的处理我不甚满意，但又觉得没毛病！</title>
         <id>156389</id>
         <link href="https://qfsyj.com/20260515-jd.html?utm_source=blogfinder" />
@@ -68,6 +101,17 @@
         <summary type="text"><![CDATA[《我的邻居简报①》]]></summary>
     </entry>
         <entry>
+        <title>烂而不自知的人</title>
+        <id>156398</id>
+        <link href="https://blog.solazy.me/20260515/?utm_source=blogfinder" />
+        <published>2026-05-15T18:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[烂而不自知的人]]></summary>
+    </entry>
+        <entry>
         <title>来成都看大熊猫</title>
         <id>156384</id>
         <link href="https://imqi1.com/content/shot/1011?utm_source=blogfinder" />
@@ -77,6 +121,17 @@
             <uri>https://imqi1.com</uri>
         </author>
         <summary type="text"><![CDATA[来成都看大熊猫]]></summary>
+    </entry>
+        <entry>
+        <title>给 Deepseek 发  之后，它就串台了？</title>
+        <id>156401</id>
+        <link href="https://blog.kayro.cn/posts/ce24957?utm_source=blogfinder" />
+        <published>2026-05-15T16:40:49+08:00</published>
+        <author>
+            <name>敖苛记</name>
+            <uri>https://blog.kayro.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[给 Deepseek 发  之后，它就串台了？]]></summary>
     </entry>
         <entry>
         <title>为什么独立博客越用心越容易放弃？如何在“纯粹记录”与“理直气壮恰饭”间找到平衡</title>
@@ -385,6 +440,17 @@
             <uri>https://www.wangdu.site</uri>
         </author>
         <summary type="text"><![CDATA[Codex 历史会话不显示怎么办？用 codex-provider-sync 一键恢复]]></summary>
+    </entry>
+        <entry>
+        <title>为什么决定先观察 Remix —— 一份来自执行体的灰度提案</title>
+        <id>156395</id>
+        <link href="https://innei.in/posts/tinkering/why-observe-remix-first-grayscale-proposal-from-executive-body?utm_source=blogfinder" />
+        <published>2026-05-14T17:12:06+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[为什么决定先观察 Remix —— 一份来自执行体的灰度提案]]></summary>
     </entry>
         <entry>
         <title>藏了 13 年的 NGINX “上古漏洞” 一个问号就能远程拿下你的服务器</title>
@@ -1155,82 +1221,5 @@
             <uri>https://www.xiaozonglin.cn</uri>
         </author>
         <summary type="text"><![CDATA[试驳友谊之传递链]]></summary>
-    </entry>
-        <entry>
-        <title>多么痛的领悟</title>
-        <id>156093</id>
-        <link href="https://tumutanzi.com/archives/17601?utm_source=blogfinder" />
-        <published>2026-05-13T00:00:32+08:00</published>
-        <author>
-            <name>土木坛子</name>
-            <uri>https://tumutanzi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[多么痛的领悟]]></summary>
-    </entry>
-        <entry>
-        <title>注册永久免费域名pp.ua 可托管Cloudflare 对比其他免费域名更加稳定</title>
-        <id>156271</id>
-        <link href="https://blog.0037.pw/posts/3990a97c/?utm_source=blogfinder" />
-        <published>2026-05-13T00:00:00+08:00</published>
-        <author>
-            <name>Morning&#039;s Blog</name>
-            <uri>https://blog.0037.pw</uri>
-        </author>
-        <summary type="text"><![CDATA[注册永久免费域名pp.ua 可托管Cloudflare 对比其他免费域名更加稳定]]></summary>
-    </entry>
-        <entry>
-        <title>亲测有效，甲骨文云（Oracle Cloud）「永久」免费服务器申请指南！</title>
-        <id>156270</id>
-        <link href="https://blog.0037.pw/posts/42392bb9/?utm_source=blogfinder" />
-        <published>2026-05-13T00:00:00+08:00</published>
-        <author>
-            <name>Morning&#039;s Blog</name>
-            <uri>https://blog.0037.pw</uri>
-        </author>
-        <summary type="text"><![CDATA[亲测有效，甲骨文云（Oracle Cloud）「永久」免费服务器申请指南！]]></summary>
-    </entry>
-        <entry>
-        <title>读：emacs chat 技巧拾遗——从 bandali 的配置里捡到的那些技巧</title>
-        <id>156095</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/10/读：emacs-chat-技巧拾遗——从-bandali-的配置里捡到的那些技巧/index.html?utm_source=blogfinder" />
-        <published>2026-05-13T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：emacs chat 技巧拾遗——从 bandali 的配置里捡到的那些技巧]]></summary>
-    </entry>
-        <entry>
-        <title>TIL：给 AI 一个更小的世界——技术选型的上下文窗口约束</title>
-        <id>156094</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/13/til：给-ai-一个更小的世界——技术选型的上下文窗口约束/index.html?utm_source=blogfinder" />
-        <published>2026-05-13T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL：给 AI 一个更小的世界——技术选型的上下文窗口约束]]></summary>
-    </entry>
-        <entry>
-        <title>上月工资扣 140</title>
-        <id>156065</id>
-        <link href="https://hjyl.org/last-month-deduct-140/?utm_source=blogfinder" />
-        <published>2026-05-12T23:41:10+08:00</published>
-        <author>
-            <name>皇家元林</name>
-            <uri>https://hjyl.org</uri>
-        </author>
-        <summary type="text"><![CDATA[上月工资扣 140]]></summary>
-    </entry>
-        <entry>
-        <title>从 Next.js 迁移到 React Router Framework Mode：AI Agent 视角的完整记录</title>
-        <id>155966</id>
-        <link href="https://innei.in/posts/tinkering/migrating-nextjs-to-react-router-framework-mode-ai-agent-perspective?utm_source=blogfinder" />
-        <published>2026-05-12T23:04:00+08:00</published>
-        <author>
-            <name>静かな森</name>
-            <uri>https://innei.in</uri>
-        </author>
-        <summary type="text"><![CDATA[从 Next.js 迁移到 React Router Framework Mode：AI Agent 视角的完整记录]]></summary>
     </entry>
     </feed>
