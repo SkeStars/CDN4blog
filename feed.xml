@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-15T16:00:28+08:00</updated>
+    <updated>2026-05-15T18:00:44+08:00</updated>
+        <entry>
+        <title>为什么独立博客越用心越容易放弃？如何在“纯粹记录”与“理直气壮恰饭”间找到平衡</title>
+        <id>156382</id>
+        <link href="https://www.tjsky.net/natter/1557?utm_source=blogfinder" />
+        <published>2026-05-15T16:24:29+08:00</published>
+        <author>
+            <name>秋风于渭水</name>
+            <uri>https://www.tjsky.net</uri>
+        </author>
+        <summary type="text"><![CDATA[为什么独立博客越用心越容易放弃？如何在“纯粹记录”与“理直气壮恰饭”间找到平衡]]></summary>
+    </entry>
+        <entry>
+        <title>广州两日游（3）：广州长隆野生动物世界</title>
+        <id>156380</id>
+        <link href="https://www.jfsay.com/archives/4113.html?utm_source=blogfinder" />
+        <published>2026-05-15T15:54:35+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[广州两日游（3）：广州长隆野生动物世界]]></summary>
+    </entry>
         <entry>
         <title>Lesson 22 路径积分 (II)</title>
         <id>156376</id>
@@ -22,6 +44,39 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 22 路径积分 (II)]]></summary>
+    </entry>
+        <entry>
+        <title>挺有意思的一个故事：考城隍</title>
+        <id>156383</id>
+        <link href="https://yishu-life.com/index.php/archives/478.html?utm_source=blogfinder" />
+        <published>2026-05-15T15:04:04+08:00</published>
+        <author>
+            <name>树下语</name>
+            <uri>https://yishu-life.com</uri>
+        </author>
+        <summary type="text"><![CDATA[挺有意思的一个故事：考城隍]]></summary>
+    </entry>
+        <entry>
+        <title>【乡下父母的人生课】12：不要做有肉体会呼吸的答题机器</title>
+        <id>156378</id>
+        <link href="http://www.qncd.com/?p=12762&amp;utm_source=blogfinder" />
+        <published>2026-05-15T12:00:10+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【乡下父母的人生课】12：不要做有肉体会呼吸的答题机器]]></summary>
+    </entry>
+        <entry>
+        <title>私有部署Sub2API + OpenWebUI实现chatgpt调用自由</title>
+        <id>156381</id>
+        <link href="https://zhoutian.com/370.html?utm_source=blogfinder" />
+        <published>2026-05-15T11:01:00+08:00</published>
+        <author>
+            <name>周天记</name>
+            <uri>https://zhoutian.com</uri>
+        </author>
+        <summary type="text"><![CDATA[私有部署Sub2API + OpenWebUI实现chatgpt调用自由]]></summary>
     </entry>
         <entry>
         <title>好站网 V1.9 版本更新｜两大核心升级，体验与数据双向优化</title>
@@ -99,6 +154,17 @@
             <uri>https://wiki.eryajf.net</uri>
         </author>
         <summary type="text"><![CDATA[学习周刊-总第263期-2026年第20周]]></summary>
+    </entry>
+        <entry>
+        <title>Rime鼠须管五笔输入法的快捷词库管理方案</title>
+        <id>156379</id>
+        <link href="https://www.skyue.com/26051423.html?utm_source=blogfinder" />
+        <published>2026-05-14T23:04:00+08:00</published>
+        <author>
+            <name>拾月</name>
+            <uri>https://www.skyue.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Rime鼠须管五笔输入法的快捷词库管理方案]]></summary>
     </entry>
         <entry>
         <title>商铺还有一个月到期，跟房东商量续租价，房东同意降价</title>
@@ -1243,27 +1309,5 @@
             <uri>https://wonse.info</uri>
         </author>
         <summary type="text"><![CDATA[AI写小说基本思路探讨]]></summary>
-    </entry>
-        <entry>
-        <title>熊猫小A: 天呐，现在的垃圾评论升级了，已经是 AI 垃圾评论了</title>
-        <id>155960</id>
-        <link href="https://blog.imalan.cn/archives/memo-20260512-1800/?utm_source=blogfinder" />
-        <published>2026-05-12T17:59:01+08:00</published>
-        <author>
-            <name>失眠海峡</name>
-            <uri>https://blog.imalan.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[熊猫小A: 天呐，现在的垃圾评论升级了，已经是 AI 垃圾评论了]]></summary>
-    </entry>
-        <entry>
-        <title>摘：《永不再来：对医学屠杀的生命伦理学反思》</title>
-        <id>155956</id>
-        <link href="https://z.arlmy.me/posts/Note/Note_TessaCheloucheAndGeoffreyBrahmer_NeverAgainBioethicalReflectionsOnMedicalAtrocities/?utm_source=blogfinder" />
-        <published>2026-05-12T17:57:46+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[摘：《永不再来：对医学屠杀的生命伦理学反思》]]></summary>
     </entry>
     </feed>
