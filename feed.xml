@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-16T17:00:55+08:00</updated>
+    <updated>2026-05-16T18:00:31+08:00</updated>
+        <entry>
+        <title>Xray shadowsocks 安装笔记</title>
+        <id>156491</id>
+        <link href="https://renhuali.cn/journal/cmp83uo5s0003chvmnwdu3rsc?utm_source=blogfinder" />
+        <published>2026-05-16T16:49:27+08:00</published>
+        <author>
+            <name>华立博客</name>
+            <uri>https://renhuali.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Xray shadowsocks 安装笔记]]></summary>
+    </entry>
+        <entry>
+        <title>关于友情链接</title>
+        <id>156492</id>
+        <link href="https://renhuali.cn/journal/cmp823me20001chi25259c85w?utm_source=blogfinder" />
+        <published>2026-05-16T16:00:26+08:00</published>
+        <author>
+            <name>华立博客</name>
+            <uri>https://renhuali.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[关于友情链接]]></summary>
+    </entry>
+        <entry>
+        <title>Dokploy 双前端灰度切流：一个 AI agent 的踩坑与复盘</title>
+        <id>156437</id>
+        <link href="https://innei.in/posts/experience/dokploy-dual-frontend-grayscale-traffic-splitting-ai-agent-troubleshooting?utm_source=blogfinder" />
+        <published>2026-05-16T13:53:18+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[Dokploy 双前端灰度切流：一个 AI agent 的踩坑与复盘]]></summary>
+    </entry>
+        <entry>
+        <title>我的中式梦核与蒸汽波体验</title>
+        <id>156436</id>
+        <link href="https://blog.imalan.cn/archives/chinese-dreamcore-and-vaporwave/?utm_source=blogfinder" />
+        <published>2026-05-16T13:24:25+08:00</published>
+        <author>
+            <name>失眠海峡</name>
+            <uri>https://blog.imalan.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[我的中式梦核与蒸汽波体验]]></summary>
+    </entry>
+        <entry>
+        <title>墨迹博客(InkBlog) 项目架构文档</title>
+        <id>156493</id>
+        <link href="https://renhuali.cn/journal/cmp7whr23000acha6dz2vs51n?utm_source=blogfinder" />
+        <published>2026-05-16T13:23:27+08:00</published>
+        <author>
+            <name>华立博客</name>
+            <uri>https://renhuali.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[墨迹博客(InkBlog) 项目架构文档]]></summary>
+    </entry>
         <entry>
         <title>忽然想到 # 10</title>
         <id>156434</id>
@@ -33,6 +88,28 @@
             <uri>https://blog.mfwt.top</uri>
         </author>
         <summary type="text"><![CDATA[泰国 245MHz：谨慎购买『红色外壳对讲机』]]></summary>
+    </entry>
+        <entry>
+        <title>墨迹博客(InkBlog) v1.26.5.16</title>
+        <id>156494</id>
+        <link href="https://renhuali.cn/journal/cmp7uq7m50005cha6x0tt657b?utm_source=blogfinder" />
+        <published>2026-05-16T12:34:03+08:00</published>
+        <author>
+            <name>华立博客</name>
+            <uri>https://renhuali.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[墨迹博客(InkBlog) v1.26.5.16]]></summary>
+    </entry>
+        <entry>
+        <title>热血逆袭！U17 国足 3-1 力克沙特，强势挺进亚洲杯四强</title>
+        <id>156490</id>
+        <link href="https://www.zhounote.com/article/79?utm_source=blogfinder" />
+        <published>2026-05-16T10:55:00+08:00</published>
+        <author>
+            <name>Zhou’s Notes</name>
+            <uri>https://www.zhounote.com</uri>
+        </author>
+        <summary type="text"><![CDATA[热血逆袭！U17 国足 3-1 力克沙特，强势挺进亚洲杯四强]]></summary>
     </entry>
         <entry>
         <title>渐渐失控的服务器群</title>
@@ -231,6 +308,17 @@
             <uri>https://www.weiwenchao.com</uri>
         </author>
         <summary type="text"><![CDATA[《我的邻居简报①》]]></summary>
+    </entry>
+        <entry>
+        <title>使用 Forge Actions 拉取 Infisical 机密</title>
+        <id>156489</id>
+        <link href="https://blog.liuzhen932.top/posts/forge-actions-pull-infisical-secrets/?utm_source=blogfinder" />
+        <published>2026-05-15T18:47:56+08:00</published>
+        <author>
+            <name>liuzhen932 的小窝</name>
+            <uri>https://blog.liuzhen932.top</uri>
+        </author>
+        <summary type="text"><![CDATA[使用 Forge Actions 拉取 Infisical 机密]]></summary>
     </entry>
         <entry>
         <title>烂而不自知的人</title>
@@ -1155,16 +1243,5 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[小米手环10Pro感觉和9Pro差不多]]></summary>
-    </entry>
-        <entry>
-        <title>Agent vs Workflow：LangGraph 循环图与 Dify DAG 的区别</title>
-        <id>156078</id>
-        <link href="https://beltxman.com/4696.html?utm_source=blogfinder" />
-        <published>2026-05-13T17:03:32+08:00</published>
-        <author>
-            <name>行星带</name>
-            <uri>https://beltxman.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Agent vs Workflow：LangGraph 循环图与 Dify DAG 的区别]]></summary>
     </entry>
     </feed>
