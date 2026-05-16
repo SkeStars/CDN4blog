@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-16T22:00:58+08:00</updated>
+    <updated>2026-05-17T00:00:18+08:00</updated>
+        <entry>
+        <title>微软Clarity统计太强了，居然能录屏回放！</title>
+        <id>156499</id>
+        <link href="https://ygz.ink/archives/4929.html?utm_source=blogfinder" />
+        <published>2026-05-16T22:54:21+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[微软Clarity统计太强了，居然能录屏回放！]]></summary>
+    </entry>
+        <entry>
+        <title>【也闲谈·第四季】十一：自主学习之路</title>
+        <id>156503</id>
+        <link href="http://www.qncd.com/?p=12766&amp;utm_source=blogfinder" />
+        <published>2026-05-16T22:04:41+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【也闲谈·第四季】十一：自主学习之路]]></summary>
+    </entry>
+        <entry>
+        <title>周末流水账 0516</title>
+        <id>156505</id>
+        <link href="https://blog.solazy.me/20260516/?utm_source=blogfinder" />
+        <published>2026-05-16T22:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0516]]></summary>
+    </entry>
+        <entry>
+        <title>期待「好站网」定制抱枕</title>
+        <id>156500</id>
+        <link href="https://ygz.ink/archives/4921.html?utm_source=blogfinder" />
+        <published>2026-05-16T21:29:14+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[期待「好站网」定制抱枕]]></summary>
+    </entry>
+        <entry>
+        <title>无疾而终的友谊，只是缘分尽了……</title>
+        <id>156501</id>
+        <link href="https://ryqi.top/p/friendship-breakup/?utm_source=blogfinder" />
+        <published>2026-05-16T21:20:00+08:00</published>
+        <author>
+            <name>合荒小站</name>
+            <uri>https://ryqi.top</uri>
+        </author>
+        <summary type="text"><![CDATA[无疾而终的友谊，只是缘分尽了……]]></summary>
+    </entry>
         <entry>
         <title>蜘蛛一天爬我一万次</title>
         <id>156498</id>
@@ -22,6 +77,17 @@
             <uri>https://me.xu19.com</uri>
         </author>
         <summary type="text"><![CDATA[蜘蛛一天爬我一万次]]></summary>
+    </entry>
+        <entry>
+        <title>一次 AWS VLESS + Surge 全链路部署的 agent 日志</title>
+        <id>156502</id>
+        <link href="https://innei.in/posts/experience/aws-vless-surge-full-chain-deployment-agent-log?utm_source=blogfinder" />
+        <published>2026-05-16T20:44:07+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[一次 AWS VLESS + Surge 全链路部署的 agent 日志]]></summary>
     </entry>
         <entry>
         <title>警惕淘宝锁单有坑</title>
@@ -407,6 +473,17 @@
             <uri>https://www.justzht.com</uri>
         </author>
         <summary type="text"><![CDATA[2026.5.15]]></summary>
+    </entry>
+        <entry>
+        <title>2400购入丽台RTX3080TI涡轮卡并拆解保养</title>
+        <id>156504</id>
+        <link href="https://www.nekopara.uk/archives/Get_RTX3080Ti.html?utm_source=blogfinder" />
+        <published>2026-05-15T16:32:14+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[2400购入丽台RTX3080TI涡轮卡并拆解保养]]></summary>
     </entry>
         <entry>
         <title>为什么独立博客越用心越容易放弃？如何在“纯粹记录”与“理直气壮恰饭”间找到平衡</title>
@@ -1100,82 +1177,5 @@
             <uri>https://qthinker.net</uri>
         </author>
         <summary type="text"><![CDATA[分享一个 Code Review 智能体提示词]]></summary>
-    </entry>
-        <entry>
-        <title>用 Happy 在手机上控制 Claude Code：从安装到自建服务器</title>
-        <id>156402</id>
-        <link href="https://blog.diqigan.cn/posts/coding/happy-cli-guide.html?utm_source=blogfinder" />
-        <published>2026-05-14T00:00:00+08:00</published>
-        <author>
-            <name>Seven&#039;s blog</name>
-            <uri>https://blog.diqigan.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[用 Happy 在手机上控制 Claude Code：从安装到自建服务器]]></summary>
-    </entry>
-        <entry>
-        <title>TIL: 用 parallel 加速 rsync 迁移海量小文件</title>
-        <id>156283</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/14/til-用-parallel-加速-rsync-迁移海量小文件/index.html?utm_source=blogfinder" />
-        <published>2026-05-14T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL: 用 parallel 加速 rsync 迁移海量小文件]]></summary>
-    </entry>
-        <entry>
-        <title>读：SES——Emacs内置的简易电子表格</title>
-        <id>156282</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/14/读：ses——emacs内置的简易电子表格/index.html?utm_source=blogfinder" />
-        <published>2026-05-14T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：SES——Emacs内置的简易电子表格]]></summary>
-    </entry>
-        <entry>
-        <title>一万的退税到账了，这是我头一回</title>
-        <id>156279</id>
-        <link href="https://cuixiping.com/blog/think/wslugs?utm_source=blogfinder" />
-        <published>2026-05-14T00:00:00+08:00</published>
-        <author>
-            <name>崔话记</name>
-            <uri>https://cuixiping.com</uri>
-        </author>
-        <summary type="text"><![CDATA[一万的退税到账了，这是我头一回]]></summary>
-    </entry>
-        <entry>
-        <title>AstraFlow星图大模型“算力超市”的羊毛来了！</title>
-        <id>156116</id>
-        <link href="https://www.evan.xin/4988/?utm_source=blogfinder" />
-        <published>2026-05-13T23:31:34+08:00</published>
-        <author>
-            <name>Evan&#039;s Space</name>
-            <uri>https://www.evan.xin</uri>
-        </author>
-        <summary type="text"><![CDATA[AstraFlow星图大模型“算力超市”的羊毛来了！]]></summary>
-    </entry>
-        <entry>
-        <title>开车需谨慎！</title>
-        <id>156092</id>
-        <link href="http://etom.top/archives/so94.html?utm_source=blogfinder" />
-        <published>2026-05-13T23:17:58+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[开车需谨慎！]]></summary>
-    </entry>
-        <entry>
-        <title>随思 #80 - 2026-05-13</title>
-        <id>156115</id>
-        <link href="http://qthinker.net/content/80?utm_source=blogfinder" />
-        <published>2026-05-13T22:40:50+08:00</published>
-        <author>
-            <name>Qthinker</name>
-            <uri>https://qthinker.net</uri>
-        </author>
-        <summary type="text"><![CDATA[随思 #80 - 2026-05-13]]></summary>
     </entry>
     </feed>
