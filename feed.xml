@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-16T12:00:28+08:00</updated>
+    <updated>2026-05-16T14:00:55+08:00</updated>
+        <entry>
+        <title>泰国 245MHz：谨慎购买『红色外壳对讲机』</title>
+        <id>156432</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1232/?utm_source=blogfinder" />
+        <published>2026-05-16T12:59:54+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[泰国 245MHz：谨慎购买『红色外壳对讲机』]]></summary>
+    </entry>
         <entry>
         <title>渐渐失控的服务器群</title>
         <id>156417</id>
@@ -1177,38 +1188,5 @@
             <uri>https://www.jfsay.com</uri>
         </author>
         <summary type="text"><![CDATA[广州两日游（1）：广东省博物馆、广州十三行博物馆、新中国大厦]]></summary>
-    </entry>
-        <entry>
-        <title>Electron 中使用 webview 中打开外部链接跳转问题</title>
-        <id>156074</id>
-        <link href="https://www.xiabingbao.com/post/electron-webview-open-teynx4.html?utm_source=blogfinder" />
-        <published>2026-05-13T13:43:52+08:00</published>
-        <author>
-            <name>蚊子</name>
-            <uri>https://www.xiabingbao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Electron 中使用 webview 中打开外部链接跳转问题]]></summary>
-    </entry>
-        <entry>
-        <title>ai盛行的年代还需要技术博客吗？</title>
-        <id>156097</id>
-        <link href="https://imxcy.cn/archives/279a49f4.html?utm_source=blogfinder" />
-        <published>2026-05-13T13:22:00+08:00</published>
-        <author>
-            <name>许大阳的日记本</name>
-            <uri>https://imxcy.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[ai盛行的年代还需要技术博客吗？]]></summary>
-    </entry>
-        <entry>
-        <title>备案已很顺畅，为何过半国内受众独立站仍选海外服务器？</title>
-        <id>156067</id>
-        <link href="https://www.zhounote.com/article/73?utm_source=blogfinder" />
-        <published>2026-05-13T13:00:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[备案已很顺畅，为何过半国内受众独立站仍选海外服务器？]]></summary>
     </entry>
     </feed>
