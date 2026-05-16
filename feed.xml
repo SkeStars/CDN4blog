@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-16T14:00:55+08:00</updated>
+    <updated>2026-05-16T17:00:55+08:00</updated>
+        <entry>
+        <title>忽然想到 # 10</title>
+        <id>156434</id>
+        <link href="https://sliun.com/sudden10/?utm_source=blogfinder" />
+        <published>2026-05-16T13:07:00+08:00</published>
+        <author>
+            <name>理论派</name>
+            <uri>https://sliun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[忽然想到 # 10]]></summary>
+    </entry>
         <entry>
         <title>泰国 245MHz：谨慎购买『红色外壳对讲机』</title>
         <id>156432</id>
@@ -77,6 +88,17 @@
             <uri>https://blog.kayro.cn</uri>
         </author>
         <summary type="text"><![CDATA[如何在 Windows 安装 Git]]></summary>
+    </entry>
+        <entry>
+        <title>图床从又拍云迁移到Cloudflare R2</title>
+        <id>156435</id>
+        <link href="https://www.skyue.com/26051522-1.html?utm_source=blogfinder" />
+        <published>2026-05-15T22:51:00+08:00</published>
+        <author>
+            <name>拾月</name>
+            <uri>https://www.skyue.com</uri>
+        </author>
+        <summary type="text"><![CDATA[图床从又拍云迁移到Cloudflare R2]]></summary>
     </entry>
         <entry>
         <title>图床从又拍云迁移到Cloudflare R2</title>
@@ -1144,49 +1166,5 @@
             <uri>https://beltxman.com</uri>
         </author>
         <summary type="text"><![CDATA[Agent vs Workflow：LangGraph 循环图与 Dify DAG 的区别]]></summary>
-    </entry>
-        <entry>
-        <title>致敬阿拉德800万勇士，升级版DOF86端游详细图文架设教程</title>
-        <id>156284</id>
-        <link href="https://echeverra.cn/dof86?utm_source=blogfinder" />
-        <published>2026-05-13T16:48:11+08:00</published>
-        <author>
-            <name>echeverra</name>
-            <uri>https://echeverra.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[致敬阿拉德800万勇士，升级版DOF86端游详细图文架设教程]]></summary>
-    </entry>
-        <entry>
-        <title>把博客切换到 Jant</title>
-        <id>156287</id>
-        <link href="https://www.owenyoung.com/jant?utm_source=blogfinder" />
-        <published>2026-05-13T16:37:44+08:00</published>
-        <author>
-            <name>Owen 的博客</name>
-            <uri>https://www.owenyoung.com</uri>
-        </author>
-        <summary type="text"><![CDATA[把博客切换到 Jant]]></summary>
-    </entry>
-        <entry>
-        <title>微说 | 有个前端前来要接口（买瓜）</title>
-        <id>156123</id>
-        <link href="https://www.xiabingbao.com/talk/t/mp3rv5rx.html?utm_source=blogfinder" />
-        <published>2026-05-13T16:02:50+08:00</published>
-        <author>
-            <name>蚊子</name>
-            <uri>https://www.xiabingbao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[微说 | 有个前端前来要接口（买瓜）]]></summary>
-    </entry>
-        <entry>
-        <title>广州两日游（1）：广东省博物馆、广州十三行博物馆、新中国大厦</title>
-        <id>156085</id>
-        <link href="https://www.jfsay.com/archives/4037.html?utm_source=blogfinder" />
-        <published>2026-05-13T14:38:03+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[广州两日游（1）：广东省博物馆、广州十三行博物馆、新中国大厦]]></summary>
     </entry>
     </feed>
