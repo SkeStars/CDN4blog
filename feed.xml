@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-17T23:00:44+08:00</updated>
+    <updated>2026-05-18T00:00:18+08:00</updated>
         <entry>
         <title>当善意变成一门生意</title>
         <id>156566</id>
@@ -22,6 +22,39 @@
             <uri>https://wangyurui.com</uri>
         </author>
         <summary type="text"><![CDATA[当善意变成一门生意]]></summary>
+    </entry>
+        <entry>
+        <title>使用php的inotify扩展来监听文件变更</title>
+        <id>156572</id>
+        <link href="https://nicksxs.me/2026/05/17/%E4%BD%BF%E7%94%A8php%E7%9A%84inotify%E6%89%A9%E5%B1%95%E6%9D%A5%E7%9B%91%E5%90%AC%E6%96%87%E4%BB%B6%E5%8F%98%E6%9B%B4/?utm_source=blogfinder" />
+        <published>2026-05-17T21:55:51+08:00</published>
+        <author>
+            <name>Nicksxs&#039;s Blog</name>
+            <uri>https://nicksxs.me</uri>
+        </author>
+        <summary type="text"><![CDATA[使用php的inotify扩展来监听文件变更]]></summary>
+    </entry>
+        <entry>
+        <title>在礼堂看了两场校合唱团的专场演出</title>
+        <id>156575</id>
+        <link href="https://blog.224418.xyz/posts/1ef282fd/?utm_source=blogfinder" />
+        <published>2026-05-17T20:44:00+08:00</published>
+        <author>
+            <name>傥师妹的小空间</name>
+            <uri>https://blog.224418.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[在礼堂看了两场校合唱团的专场演出]]></summary>
+    </entry>
+        <entry>
+        <title>周末生活志｜2026W21</title>
+        <id>156571</id>
+        <link href="https://blog.imalan.cn/archives/weekend-log-2026w1/?utm_source=blogfinder" />
+        <published>2026-05-17T20:38:24+08:00</published>
+        <author>
+            <name>失眠海峡</name>
+            <uri>https://blog.imalan.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[周末生活志｜2026W21]]></summary>
     </entry>
         <entry>
         <title>身居闹市亦可静，身处深山也会慌</title>
@@ -77,6 +110,28 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[非预期解]]></summary>
+    </entry>
+        <entry>
+        <title>天津之旅</title>
+        <id>156574</id>
+        <link href="https://yesreho.com/tianjin-travel-diary/?utm_source=blogfinder" />
+        <published>2026-05-17T18:12:08+08:00</published>
+        <author>
+            <name>LookLeap</name>
+            <uri>https://yesreho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[天津之旅]]></summary>
+    </entry>
+        <entry>
+        <title>看车</title>
+        <id>156573</id>
+        <link href="https://hjyl.org/go-to-ssss/?utm_source=blogfinder" />
+        <published>2026-05-17T17:40:50+08:00</published>
+        <author>
+            <name>皇家元林</name>
+            <uri>https://hjyl.org</uri>
+        </author>
+        <summary type="text"><![CDATA[看车]]></summary>
     </entry>
         <entry>
         <title>好站网更新｜邮件自动通知功能正式上线！</title>
@@ -1375,27 +1430,5 @@
             <uri>https://wiki.eryajf.net</uri>
         </author>
         <summary type="text"><![CDATA[学习周刊-总第263期-2026年第20周]]></summary>
-    </entry>
-        <entry>
-        <title>藏了 13 年的 NGINX “上古漏洞” 一个问号就能远程拿下你的服务器</title>
-        <id>156564</id>
-        <link href="https://blog.0037.pw/posts/f98cbd2b/?utm_source=blogfinder" />
-        <published>2026-05-15T00:00:00+08:00</published>
-        <author>
-            <name>Morning&#039;s Blog</name>
-            <uri>https://blog.0037.pw</uri>
-        </author>
-        <summary type="text"><![CDATA[藏了 13 年的 NGINX “上古漏洞” 一个问号就能远程拿下你的服务器]]></summary>
-    </entry>
-        <entry>
-        <title>Rime鼠须管五笔输入法的快捷词库管理方案</title>
-        <id>156379</id>
-        <link href="https://www.skyue.com/26051423.html?utm_source=blogfinder" />
-        <published>2026-05-14T23:04:00+08:00</published>
-        <author>
-            <name>拾月</name>
-            <uri>https://www.skyue.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Rime鼠须管五笔输入法的快捷词库管理方案]]></summary>
     </entry>
     </feed>
