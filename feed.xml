@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-18T16:00:45+08:00</updated>
+    <updated>2026-05-18T20:10:29+08:00</updated>
+        <entry>
+        <title>用Navigation Timing API给博客添加上加载时间</title>
+        <id>156617</id>
+        <link href="https://blog.xrbk.cn/post/73.html?utm_source=blogfinder" />
+        <published>2026-05-18T18:00:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://blog.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[用Navigation Timing API给博客添加上加载时间]]></summary>
+    </entry>
+        <entry>
+        <title>《原创了一句偈语？》</title>
+        <id>156623</id>
+        <link href="https://www.weiwenchao.com/2657.html?utm_source=blogfinder" />
+        <published>2026-05-18T17:37:00+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《原创了一句偈语？》]]></summary>
+    </entry>
+        <entry>
+        <title>她说：“老死，菜，就多练”</title>
+        <id>156618</id>
+        <link href="https://blog.yiyou.bj.cn/archives/ta-shuo-lao-si-cai-jiu-duo-lian?utm_source=blogfinder" />
+        <published>2026-05-18T15:48:37+08:00</published>
+        <author>
+            <name>益友网站</name>
+            <uri>https://blog.yiyou.bj.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[她说：“老死，菜，就多练”]]></summary>
+    </entry>
+        <entry>
+        <title>第一次参加冠军调酒节</title>
+        <id>156615</id>
+        <link href="https://liuqingwushui.top/archives/157/?utm_source=blogfinder" />
+        <published>2026-05-18T14:16:52+08:00</published>
+        <author>
+            <name>流情的博客</name>
+            <uri>https://liuqingwushui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[第一次参加冠军调酒节]]></summary>
+    </entry>
+        <entry>
+        <title>老板的在与不在</title>
+        <id>156619</id>
+        <link href="https://blog.solazy.me/20260518/?utm_source=blogfinder" />
+        <published>2026-05-18T13:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[老板的在与不在]]></summary>
+    </entry>
         <entry>
         <title>500道Word题库太痛苦？于是我写了个智能学习平台</title>
         <id>156613</id>
@@ -33,6 +88,28 @@
             <uri>https://airy.ink</uri>
         </author>
         <summary type="text"><![CDATA[牛马落下了自己的家当]]></summary>
+    </entry>
+        <entry>
+        <title>穷得有滋有味，丑得满眼星光</title>
+        <id>156620</id>
+        <link href="https://ichov.com/blog/you-qiong-you-chou.html?utm_source=blogfinder" />
+        <published>2026-05-18T11:27:40+08:00</published>
+        <author>
+            <name>江子渔</name>
+            <uri>https://ichov.com</uri>
+        </author>
+        <summary type="text"><![CDATA[穷得有滋有味，丑得满眼星光]]></summary>
+    </entry>
+        <entry>
+        <title>让AI写前端不难，难的是让它别那么AI里AI气</title>
+        <id>156621</id>
+        <link href="https://www.wanghao.me/rangaixieqianduanbunannandeshirangtabienameailiaiqi.html?utm_source=blogfinder" />
+        <published>2026-05-18T11:25:15+08:00</published>
+        <author>
+            <name>小王子</name>
+            <uri>https://www.wanghao.me</uri>
+        </author>
+        <summary type="text"><![CDATA[让AI写前端不难，难的是让它别那么AI里AI气]]></summary>
     </entry>
         <entry>
         <title>动态规划全解析（二）：二维 DP 与网格问题</title>
@@ -189,6 +266,17 @@
         <summary type="text"><![CDATA[拍摄一次彗星]]></summary>
     </entry>
         <entry>
+        <title>2026-W20：商业机器的五个阶段，与被透支的“全能”员工</title>
+        <id>156616</id>
+        <link href="https://www.gaotianchi.com/2026-w20-business-machine-stages-and-overstretched-employees/?utm_source=blogfinder" />
+        <published>2026-05-17T21:16:04+08:00</published>
+        <author>
+            <name>高天驰</name>
+            <uri>https://www.gaotianchi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-W20：商业机器的五个阶段，与被透支的“全能”员工]]></summary>
+    </entry>
+        <entry>
         <title>Toots 419 2026 May.10 - May.16</title>
         <id>156589</id>
         <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260516/?utm_source=blogfinder" />
@@ -231,6 +319,17 @@
             <uri>https://iliu.org</uri>
         </author>
         <summary type="text"><![CDATA[且行且珍惜]]></summary>
+    </entry>
+        <entry>
+        <title>有福之女不入无福之家？</title>
+        <id>156622</id>
+        <link href="https://xn--otsr53afot.com/posts/yfznbrwfzj/?utm_source=blogfinder" />
+        <published>2026-05-17T19:43:00+08:00</published>
+        <author>
+            <name>老朝奉</name>
+            <uri>https://xn--otsr53afot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[有福之女不入无福之家？]]></summary>
     </entry>
         <entry>
         <title>身居闹市亦可静，身处深山也会慌</title>
@@ -352,6 +451,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[不知不觉在电脑前度过了阴雨天]]></summary>
+    </entry>
+        <entry>
+        <title>Vol.103 Agent工程化落地周：工具走出IDE，组织面临重构</title>
+        <id>156614</id>
+        <link href="https://liduos.com/weekly/the-weekly-gradient-103?utm_source=blogfinder" />
+        <published>2026-05-17T16:00:00+08:00</published>
+        <author>
+            <name>莫尔索</name>
+            <uri>https://liduos.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Vol.103 Agent工程化落地周：工具走出IDE，组织面临重构]]></summary>
     </entry>
         <entry>
         <title>松声｜廿六年·五月中·柳絮飞</title>
@@ -1386,115 +1496,5 @@
             <uri>https://qfsyj.com</uri>
         </author>
         <summary type="text"><![CDATA[京东的处理我不甚满意，但又觉得没毛病！]]></summary>
-    </entry>
-        <entry>
-        <title>Cloudflare Pages自定义依赖安装实践</title>
-        <id>156413</id>
-        <link href="https://xingwangzhe.fun/posts/cf-pages-custom-deps/?utm_source=blogfinder" />
-        <published>2026-05-15T20:03:36+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[Cloudflare Pages自定义依赖安装实践]]></summary>
-    </entry>
-        <entry>
-        <title>《我的邻居简报①》</title>
-        <id>156388</id>
-        <link href="https://www.weiwenchao.com/2616.html?utm_source=blogfinder" />
-        <published>2026-05-15T19:30:00+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《我的邻居简报①》]]></summary>
-    </entry>
-        <entry>
-        <title>使用 Forge Actions 拉取 Infisical 机密</title>
-        <id>156489</id>
-        <link href="https://blog.liuzhen932.top/posts/forge-actions-pull-infisical-secrets/?utm_source=blogfinder" />
-        <published>2026-05-15T18:47:56+08:00</published>
-        <author>
-            <name>liuzhen932 的小窝</name>
-            <uri>https://blog.liuzhen932.top</uri>
-        </author>
-        <summary type="text"><![CDATA[使用 Forge Actions 拉取 Infisical 机密]]></summary>
-    </entry>
-        <entry>
-        <title>烂而不自知的人</title>
-        <id>156398</id>
-        <link href="https://blog.solazy.me/20260515/?utm_source=blogfinder" />
-        <published>2026-05-15T18:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[烂而不自知的人]]></summary>
-    </entry>
-        <entry>
-        <title>来成都看大熊猫</title>
-        <id>156384</id>
-        <link href="https://imqi1.com/content/shot/1011?utm_source=blogfinder" />
-        <published>2026-05-15T17:43:00+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[来成都看大熊猫]]></summary>
-    </entry>
-        <entry>
-        <title>给 Deepseek 发  之后，它就串台了？</title>
-        <id>156401</id>
-        <link href="https://blog.kayro.cn/posts/ce24957?utm_source=blogfinder" />
-        <published>2026-05-15T16:40:49+08:00</published>
-        <author>
-            <name>敖苛记</name>
-            <uri>https://blog.kayro.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[给 Deepseek 发  之后，它就串台了？]]></summary>
-    </entry>
-        <entry>
-        <title>2026.5.15</title>
-        <id>156407</id>
-        <link href="https://www.justzht.com/2026-5-15/?utm_source=blogfinder" />
-        <published>2026-05-15T16:36:54+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.5.15]]></summary>
-    </entry>
-        <entry>
-        <title>2400购入丽台RTX3080TI涡轮卡并拆解保养</title>
-        <id>156504</id>
-        <link href="https://www.nekopara.uk/archives/Get_RTX3080Ti.html?utm_source=blogfinder" />
-        <published>2026-05-15T16:32:14+08:00</published>
-        <author>
-            <name>GTX690 战术核显卡导弹</name>
-            <uri>https://www.nekopara.uk</uri>
-        </author>
-        <summary type="text"><![CDATA[2400购入丽台RTX3080TI涡轮卡并拆解保养]]></summary>
-    </entry>
-        <entry>
-        <title>为什么独立博客越用心越容易放弃？如何在“纯粹记录”与“理直气壮恰饭”间找到平衡</title>
-        <id>156382</id>
-        <link href="https://www.tjsky.net/natter/1557?utm_source=blogfinder" />
-        <published>2026-05-15T16:24:29+08:00</published>
-        <author>
-            <name>秋风于渭水</name>
-            <uri>https://www.tjsky.net</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么独立博客越用心越容易放弃？如何在“纯粹记录”与“理直气壮恰饭”间找到平衡]]></summary>
-    </entry>
-        <entry>
-        <title>AI从字典变成了手机</title>
-        <id>156390</id>
-        <link href="https://www.pgoj.top/archives/ai-zi-dian-shou-ji.html/?utm_source=blogfinder" />
-        <published>2026-05-15T16:22:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[AI从字典变成了手机]]></summary>
     </entry>
     </feed>
