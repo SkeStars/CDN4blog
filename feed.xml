@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-18T12:00:41+08:00</updated>
+    <updated>2026-05-18T16:00:45+08:00</updated>
+        <entry>
+        <title>500道Word题库太痛苦？于是我写了个智能学习平台</title>
+        <id>156613</id>
+        <link href="https://wuqishi.com/archives/ai-powered-safety-training-platform-development?utm_source=blogfinder" />
+        <published>2026-05-18T11:53:40+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[500道Word题库太痛苦？于是我写了个智能学习平台]]></summary>
+    </entry>
         <entry>
         <title>牛马落下了自己的家当</title>
         <id>156603</id>
@@ -24,6 +35,39 @@
         <summary type="text"><![CDATA[牛马落下了自己的家当]]></summary>
     </entry>
         <entry>
+        <title>动态规划全解析（二）：二维 DP 与网格问题</title>
+        <id>156604</id>
+        <link href="https://nanxa.top/post/2026-05-18-dp-2/?utm_source=blogfinder" />
+        <published>2026-05-18T11:00:00+08:00</published>
+        <author>
+            <name>Nanxa 的小站</name>
+            <uri>https://nanxa.top</uri>
+        </author>
+        <summary type="text"><![CDATA[动态规划全解析（二）：二维 DP 与网格问题]]></summary>
+    </entry>
+        <entry>
+        <title>敬告 mazongYY：停止抄袭，请遵守 CC 协议</title>
+        <id>156612</id>
+        <link href="https://xingwangzhe.fun/posts/warning-mazongyy-plagiarism/?utm_source=blogfinder" />
+        <published>2026-05-18T10:30:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[敬告 mazongYY：停止抄袭，请遵守 CC 协议]]></summary>
+    </entry>
+        <entry>
+        <title>动态规划全解析（一）：核心概念与一维 DP</title>
+        <id>156605</id>
+        <link href="https://nanxa.top/post/2026-05-18-dp-1/?utm_source=blogfinder" />
+        <published>2026-05-18T10:00:00+08:00</published>
+        <author>
+            <name>Nanxa 的小站</name>
+            <uri>https://nanxa.top</uri>
+        </author>
+        <summary type="text"><![CDATA[动态规划全解析（一）：核心概念与一维 DP]]></summary>
+    </entry>
+        <entry>
         <title>张雪机车五冠</title>
         <id>156599</id>
         <link href="https://www.lindongfang.top/archives/2656/?utm_source=blogfinder" />
@@ -33,6 +77,17 @@
             <uri>https://www.lindongfang.top</uri>
         </author>
         <summary type="text"><![CDATA[张雪机车五冠]]></summary>
+    </entry>
+        <entry>
+        <title>在 CC Switch 中配置 Claude Desktop</title>
+        <id>156611</id>
+        <link href="https://youngxhui.top/2026/05/cc-switch-desktop/?utm_source=blogfinder" />
+        <published>2026-05-18T09:00:00+08:00</published>
+        <author>
+            <name>ISLAND</name>
+            <uri>https://youngxhui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[在 CC Switch 中配置 Claude Desktop]]></summary>
     </entry>
         <entry>
         <title>我就是想证明一下自己</title>
@@ -88,6 +143,17 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[先给自己上个小目标]]></summary>
+    </entry>
+        <entry>
+        <title>国内外 AI Vibe Coding/Token Plan 套餐合集（持续更新）【置顶】</title>
+        <id>156610</id>
+        <link href="https://www.51it.wang/ll/AI-Vibe-Coding-Token-Plan?utm_source=blogfinder" />
+        <published>2026-05-17T23:56:00+08:00</published>
+        <author>
+            <name>Lcry</name>
+            <uri>https://www.51it.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[国内外 AI Vibe Coding/Token Plan 套餐合集（持续更新）【置顶】]]></summary>
     </entry>
         <entry>
         <title>当善意变成一门生意</title>
@@ -473,6 +539,17 @@
             <uri>https://www.nodealpha.me</uri>
         </author>
         <summary type="text"><![CDATA[把微信读书接入 ChatGPT]]></summary>
+    </entry>
+        <entry>
+        <title>Hello World</title>
+        <id>156607</id>
+        <link href="https://blog.moodlog.cn/posts/hello-world/?utm_source=blogfinder" />
+        <published>2026-05-17T08:00:00+08:00</published>
+        <author>
+            <name>心记</name>
+            <uri>https://blog.moodlog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Hello World]]></summary>
     </entry>
         <entry>
         <title>2026.05.17 博客阅读周记</title>
@@ -1419,93 +1496,5 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[AI从字典变成了手机]]></summary>
-    </entry>
-        <entry>
-        <title>广州两日游（3）：广州长隆野生动物世界</title>
-        <id>156380</id>
-        <link href="https://www.jfsay.com/archives/4113.html?utm_source=blogfinder" />
-        <published>2026-05-15T15:54:35+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[广州两日游（3）：广州长隆野生动物世界]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 22 路径积分 (II)</title>
-        <id>156376</id>
-        <link href="https://physnya.top/GR/lesson-22-path-integral-II/?utm_source=blogfinder" />
-        <published>2026-05-15T15:09:48+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 22 路径积分 (II)]]></summary>
-    </entry>
-        <entry>
-        <title>挺有意思的一个故事：考城隍</title>
-        <id>156383</id>
-        <link href="https://yishu-life.com/index.php/archives/478.html?utm_source=blogfinder" />
-        <published>2026-05-15T15:04:04+08:00</published>
-        <author>
-            <name>树下语</name>
-            <uri>https://yishu-life.com</uri>
-        </author>
-        <summary type="text"><![CDATA[挺有意思的一个故事：考城隍]]></summary>
-    </entry>
-        <entry>
-        <title>两款值得尝试的开源沉浸式翻译方案</title>
-        <id>156405</id>
-        <link href="https://www.wxy97.com/archives/019e2a4b-f1c0-70aa-b100-a49d1ddf3464?utm_source=blogfinder" />
-        <published>2026-05-15T14:43:26+08:00</published>
-        <author>
-            <name>王旭阳个人博客</name>
-            <uri>https://www.wxy97.com</uri>
-        </author>
-        <summary type="text"><![CDATA[两款值得尝试的开源沉浸式翻译方案]]></summary>
-    </entry>
-        <entry>
-        <title>《文姬歸漢》劇本</title>
-        <id>156391</id>
-        <link href="https://cbc688.com/articles/wjgh?utm_source=blogfinder" />
-        <published>2026-05-15T14:39:58+08:00</published>
-        <author>
-            <name>CRIVU</name>
-            <uri>https://cbc688.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《文姬歸漢》劇本]]></summary>
-    </entry>
-        <entry>
-        <title>青春回忆杀！实况 2009 的长友佑都，39 岁再战世界杯</title>
-        <id>156385</id>
-        <link href="https://www.zhounote.com/article/77?utm_source=blogfinder" />
-        <published>2026-05-15T14:03:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[青春回忆杀！实况 2009 的长友佑都，39 岁再战世界杯]]></summary>
-    </entry>
-        <entry>
-        <title>香港</title>
-        <id>156387</id>
-        <link href="https://shuiba.co/hongkong-trip?utm_source=blogfinder" />
-        <published>2026-05-15T14:00:00+08:00</published>
-        <author>
-            <name>水八口的冥想盆</name>
-            <uri>https://shuiba.co</uri>
-        </author>
-        <summary type="text"><![CDATA[香港]]></summary>
-    </entry>
-        <entry>
-        <title>回溯算法全解析（四）：网格搜索、高级技巧与全系列总结</title>
-        <id>156546</id>
-        <link href="https://nanxa.top/post/2026-05-15-backtracking-final/?utm_source=blogfinder" />
-        <published>2026-05-15T13:00:00+08:00</published>
-        <author>
-            <name>Nanxa 的小站</name>
-            <uri>https://nanxa.top</uri>
-        </author>
-        <summary type="text"><![CDATA[回溯算法全解析（四）：网格搜索、高级技巧与全系列总结]]></summary>
     </entry>
     </feed>
