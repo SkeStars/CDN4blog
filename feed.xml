@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-19T12:00:24+08:00</updated>
+    <updated>2026-05-19T16:00:20+08:00</updated>
+        <entry>
+        <title>Lesson 23 宇宙学入门</title>
+        <id>156671</id>
+        <link href="https://physnya.top/GR/lesson-23-cosmology/?utm_source=blogfinder" />
+        <published>2026-05-19T15:08:25+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 23 宇宙学入门]]></summary>
+    </entry>
+        <entry>
+        <title>从 Typecho 迁移到 blog-v3：一次把博客搬进 Nuxt Content 的完整记录</title>
+        <id>156667</id>
+        <link href="https://blog.moodlog.cn/2026/typecho-to-blog-v3?utm_source=blogfinder" />
+        <published>2026-05-19T12:45:00+08:00</published>
+        <author>
+            <name>心记</name>
+            <uri>https://blog.moodlog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[从 Typecho 迁移到 blog-v3：一次把博客搬进 Nuxt Content 的完整记录]]></summary>
+    </entry>
+        <entry>
+        <title>如何给自己创作的歌曲生成歌词文件？手打逐字歌词lrc文件教程</title>
+        <id>156669</id>
+        <link href="https://blog.zhheo.com/p/rdlrcfqe.html?utm_source=blogfinder" />
+        <published>2026-05-19T12:37:27+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[如何给自己创作的歌曲生成歌词文件？手打逐字歌词lrc文件教程]]></summary>
+    </entry>
+        <entry>
+        <title>国产龙虾WorkBuddy无法登录怎么办</title>
+        <id>156670</id>
+        <link href="https://lklog.cn/course/1414.html?utm_source=blogfinder" />
+        <published>2026-05-19T12:31:57+08:00</published>
+        <author>
+            <name>龙鲲博客</name>
+            <uri>https://lklog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[国产龙虾WorkBuddy无法登录怎么办]]></summary>
+    </entry>
+        <entry>
+        <title>那块小菜园</title>
+        <id>156668</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1142&amp;utm_source=blogfinder" />
+        <published>2026-05-19T10:42:55+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[那块小菜园]]></summary>
+    </entry>
         <entry>
         <title>我就是想证明一下自己 II</title>
         <id>156651</id>
@@ -1540,115 +1595,5 @@
             <uri>https://renhuali.cn</uri>
         </author>
         <summary type="text"><![CDATA[关于友情链接]]></summary>
-    </entry>
-        <entry>
-        <title>五十肩</title>
-        <id>156526</id>
-        <link href="https://www.lindongfang.top/archives/2655/?utm_source=blogfinder" />
-        <published>2026-05-16T15:15:27+08:00</published>
-        <author>
-            <name>游子微博</name>
-            <uri>https://www.lindongfang.top</uri>
-        </author>
-        <summary type="text"><![CDATA[五十肩]]></summary>
-    </entry>
-        <entry>
-        <title>未命名文档</title>
-        <id>156510</id>
-        <link href="https://rawchen.com/1759?utm_source=blogfinder" />
-        <published>2026-05-16T15:15:08+08:00</published>
-        <author>
-            <name>RawChen · Blog</name>
-            <uri>https://rawchen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[未命名文档]]></summary>
-    </entry>
-        <entry>
-        <title>从 Sublime Text 到 Zed</title>
-        <id>156525</id>
-        <link href="https://blog.devtang.com/2026/05/16/open-in-zed-from-finder/?utm_source=blogfinder" />
-        <published>2026-05-16T15:00:00+08:00</published>
-        <author>
-            <name>唐巧的博客</name>
-            <uri>https://blog.devtang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[从 Sublime Text 到 Zed]]></summary>
-    </entry>
-        <entry>
-        <title>Deepseek使用小记 (deepseek-v4-Pro) 2026.05</title>
-        <id>156516</id>
-        <link href="https://blog.noah0932.top/posts/deepseek-v4-pro-Usage-Notes/?utm_source=blogfinder" />
-        <published>2026-05-16T14:32:35+08:00</published>
-        <author>
-            <name>Noah&#039;blog</name>
-            <uri>https://blog.noah0932.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Deepseek使用小记 (deepseek-v4-Pro) 2026.05]]></summary>
-    </entry>
-        <entry>
-        <title>Dokploy 双前端灰度切流：一个 AI agent 的踩坑与复盘</title>
-        <id>156437</id>
-        <link href="https://innei.in/posts/experience/dokploy-dual-frontend-grayscale-traffic-splitting-ai-agent-troubleshooting?utm_source=blogfinder" />
-        <published>2026-05-16T13:53:18+08:00</published>
-        <author>
-            <name>静かな森</name>
-            <uri>https://innei.in</uri>
-        </author>
-        <summary type="text"><![CDATA[Dokploy 双前端灰度切流：一个 AI agent 的踩坑与复盘]]></summary>
-    </entry>
-        <entry>
-        <title>我的中式梦核与蒸汽波体验</title>
-        <id>156436</id>
-        <link href="https://blog.imalan.cn/archives/chinese-dreamcore-and-vaporwave/?utm_source=blogfinder" />
-        <published>2026-05-16T13:24:25+08:00</published>
-        <author>
-            <name>失眠海峡</name>
-            <uri>https://blog.imalan.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[我的中式梦核与蒸汽波体验]]></summary>
-    </entry>
-        <entry>
-        <title>墨迹博客(InkBlog) 项目架构文档</title>
-        <id>156493</id>
-        <link href="https://renhuali.cn/journal/cmp7whr23000acha6dz2vs51n?utm_source=blogfinder" />
-        <published>2026-05-16T13:23:27+08:00</published>
-        <author>
-            <name>华立博客</name>
-            <uri>https://renhuali.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[墨迹博客(InkBlog) 项目架构文档]]></summary>
-    </entry>
-        <entry>
-        <title>忽然想到 # 10</title>
-        <id>156434</id>
-        <link href="https://sliun.com/sudden10/?utm_source=blogfinder" />
-        <published>2026-05-16T13:07:00+08:00</published>
-        <author>
-            <name>理论派</name>
-            <uri>https://sliun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[忽然想到 # 10]]></summary>
-    </entry>
-        <entry>
-        <title>泰国 245MHz：谨慎购买『红色外壳对讲机』</title>
-        <id>156432</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1232/?utm_source=blogfinder" />
-        <published>2026-05-16T12:59:54+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[泰国 245MHz：谨慎购买『红色外壳对讲机』]]></summary>
-    </entry>
-        <entry>
-        <title>墨迹博客(InkBlog) v1.26.5.16</title>
-        <id>156494</id>
-        <link href="https://renhuali.cn/journal/cmp7uq7m50005cha6x0tt657b?utm_source=blogfinder" />
-        <published>2026-05-16T12:34:03+08:00</published>
-        <author>
-            <name>华立博客</name>
-            <uri>https://renhuali.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[墨迹博客(InkBlog) v1.26.5.16]]></summary>
     </entry>
     </feed>
