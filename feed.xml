@@ -11,7 +11,106 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-19T20:01:43+08:00</updated>
+    <updated>2026-05-19T23:03:02+08:00</updated>
+        <entry>
+        <title>26春学11周杂记</title>
+        <id>156693</id>
+        <link href="https://nxxy335.top/archives/ZfYepf7Q?utm_source=blogfinder" />
+        <published>2026-05-19T22:37:09+08:00</published>
+        <author>
+            <name>暖心向阳</name>
+            <uri>https://nxxy335.top</uri>
+        </author>
+        <summary type="text"><![CDATA[26春学11周杂记]]></summary>
+    </entry>
+        <entry>
+        <title>Docker Registry 私有仓库镜像数据的删除</title>
+        <id>156686</id>
+        <link href="http://qthinker.net/content/85?utm_source=blogfinder" />
+        <published>2026-05-19T22:19:47+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[Docker Registry 私有仓库镜像数据的删除]]></summary>
+    </entry>
+        <entry>
+        <title>谨慎处理 img 统计像素的几个问题</title>
+        <id>156684</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1318/?utm_source=blogfinder" />
+        <published>2026-05-19T22:00:07+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[谨慎处理 img 统计像素的几个问题]]></summary>
+    </entry>
+        <entry>
+        <title>VS Code Remote-SSH: 彻底告别重复输入密码 - 排坑笔记 | 阿尔的代码屋</title>
+        <id>156694</id>
+        <link href="https://blog.algieba12.cn/vscode-ssh-login/?utm_source=blogfinder" />
+        <published>2026-05-19T22:00:00+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[VS Code Remote-SSH: 彻底告别重复输入密码 - 排坑笔记 | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
+        <title>遂昌｜躲避人潮的五一自驾Day3 - 杜鹃</title>
+        <id>156683</id>
+        <link href="https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-03.html?utm_source=blogfinder" />
+        <published>2026-05-19T20:00:04+08:00</published>
+        <author>
+            <name>运维咖啡吧</name>
+            <uri>https://blog.ops-coffee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[遂昌｜躲避人潮的五一自驾Day3 - 杜鹃]]></summary>
+    </entry>
+        <entry>
+        <title>摄影日常之夕阳</title>
+        <id>156692</id>
+        <link href="https://ygz.ink/archives/4980.html?utm_source=blogfinder" />
+        <published>2026-05-19T19:48:09+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[摄影日常之夕阳]]></summary>
+    </entry>
+        <entry>
+        <title>可转债转股套利计算器使用说明</title>
+        <id>156687</id>
+        <link href="http://qthinker.net/content/84?utm_source=blogfinder" />
+        <published>2026-05-19T19:47:13+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[可转债转股套利计算器使用说明]]></summary>
+    </entry>
+        <entry>
+        <title>腾讯元宝客户端实习二面面经</title>
+        <id>156688</id>
+        <link href="https://blog.goodboyboy.top/posts/3668760505.html?utm_source=blogfinder" />
+        <published>2026-05-19T18:10:36+08:00</published>
+        <author>
+            <name>GoodBoyboy</name>
+            <uri>https://blog.goodboyboy.top</uri>
+        </author>
+        <summary type="text"><![CDATA[腾讯元宝客户端实习二面面经]]></summary>
+    </entry>
+        <entry>
+        <title>TIL: 移除图片下方多余的空白</title>
+        <id>156689</id>
+        <link href="https://taxodium.ink/til-remove-extra-empty-area-from-img.html?utm_source=blogfinder" />
+        <published>2026-05-19T16:00:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[TIL: 移除图片下方多余的空白]]></summary>
+    </entry>
         <entry>
         <title>五亭龙毛绒玩具小镇：曾经的繁华，如今只剩冷清！</title>
         <id>156677</id>
@@ -33,6 +132,17 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 23 宇宙学入门]]></summary>
+    </entry>
+        <entry>
+        <title>别让 AI 拿走你的缩影</title>
+        <id>156685</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1294/?utm_source=blogfinder" />
+        <published>2026-05-19T15:00:00+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[别让 AI 拿走你的缩影]]></summary>
     </entry>
         <entry>
         <title>2026.5.18</title>
@@ -244,6 +354,17 @@
         <summary type="text"><![CDATA[青岛，一些往事和现在]]></summary>
     </entry>
         <entry>
+        <title>【27岁生贺】1，6，8，10，27，10000</title>
+        <id>156682</id>
+        <link href="https://idealclover.top/archives/649/?utm_source=blogfinder" />
+        <published>2026-05-18T22:11:00+08:00</published>
+        <author>
+            <name>idealclover</name>
+            <uri>https://idealclover.top</uri>
+        </author>
+        <summary type="text"><![CDATA[【27岁生贺】1，6，8，10，27，10000]]></summary>
+    </entry>
+        <entry>
         <title>随思 #83 - 2026-05-18</title>
         <id>156628</id>
         <link href="http://qthinker.net/content/83?utm_source=blogfinder" />
@@ -429,6 +550,17 @@
             <uri>https://www.weiwenchao.com</uri>
         </author>
         <summary type="text"><![CDATA[《原创了一句偈语？》]]></summary>
+    </entry>
+        <entry>
+        <title>[轻松徒步] 旺山-小环线</title>
+        <id>156690</id>
+        <link href="https://hi.jeray.wang/L/215.html?utm_source=blogfinder" />
+        <published>2026-05-18T17:30:00+08:00</published>
+        <author>
+            <name>Jeray 大叔</name>
+            <uri>https://hi.jeray.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[[轻松徒步] 旺山-小环线]]></summary>
     </entry>
         <entry>
         <title>图论算法全解析（一）：图的表示与 BFS/DFS 遍历</title>
@@ -1474,137 +1606,5 @@
             <uri>https://blog.codingnow.com</uri>
         </author>
         <summary type="text"><![CDATA[oni_geotherm]]></summary>
-    </entry>
-        <entry>
-        <title>微软Clarity统计太强了，居然能录屏回放！</title>
-        <id>156499</id>
-        <link href="https://ygz.ink/archives/4929.html?utm_source=blogfinder" />
-        <published>2026-05-16T22:54:21+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[微软Clarity统计太强了，居然能录屏回放！]]></summary>
-    </entry>
-        <entry>
-        <title>问Gemini的问题备份 20260516</title>
-        <id>156590</id>
-        <link href="https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260516/?utm_source=blogfinder" />
-        <published>2026-05-16T22:16:46+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[问Gemini的问题备份 20260516]]></summary>
-    </entry>
-        <entry>
-        <title>【也闲谈·第四季】十一：自主学习之路</title>
-        <id>156503</id>
-        <link href="http://www.qncd.com/?p=12766&amp;utm_source=blogfinder" />
-        <published>2026-05-16T22:04:41+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【也闲谈·第四季】十一：自主学习之路]]></summary>
-    </entry>
-        <entry>
-        <title>周末流水账 0516</title>
-        <id>156505</id>
-        <link href="https://blog.solazy.me/20260516/?utm_source=blogfinder" />
-        <published>2026-05-16T22:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[周末流水账 0516]]></summary>
-    </entry>
-        <entry>
-        <title>期待「好站网」定制抱枕</title>
-        <id>156500</id>
-        <link href="https://ygz.ink/archives/4921.html?utm_source=blogfinder" />
-        <published>2026-05-16T21:29:14+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[期待「好站网」定制抱枕]]></summary>
-    </entry>
-        <entry>
-        <title>无疾而终的友谊，只是缘分尽了……</title>
-        <id>156501</id>
-        <link href="https://ryqi.top/p/friendship-breakup/?utm_source=blogfinder" />
-        <published>2026-05-16T21:20:00+08:00</published>
-        <author>
-            <name>合荒小站</name>
-            <uri>https://ryqi.top</uri>
-        </author>
-        <summary type="text"><![CDATA[无疾而终的友谊，只是缘分尽了……]]></summary>
-    </entry>
-        <entry>
-        <title>一起看电影吧</title>
-        <id>156550</id>
-        <link href="https://shiyu.dev/article/323?utm_source=blogfinder" />
-        <published>2026-05-16T21:04:47+08:00</published>
-        <author>
-            <name>时雨</name>
-            <uri>https://shiyu.dev</uri>
-        </author>
-        <summary type="text"><![CDATA[一起看电影吧]]></summary>
-    </entry>
-        <entry>
-        <title>蜘蛛一天爬我一万次</title>
-        <id>156498</id>
-        <link href="https://me.xu19.com/spider-crawls-10000-times-a-day/?utm_source=blogfinder" />
-        <published>2026-05-16T20:49:50+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[蜘蛛一天爬我一万次]]></summary>
-    </entry>
-        <entry>
-        <title>一次 AWS VLESS + Surge 全链路部署的 agent 日志</title>
-        <id>156502</id>
-        <link href="https://innei.in/posts/experience/aws-vless-surge-full-chain-deployment-agent-log?utm_source=blogfinder" />
-        <published>2026-05-16T20:44:07+08:00</published>
-        <author>
-            <name>静かな森</name>
-            <uri>https://innei.in</uri>
-        </author>
-        <summary type="text"><![CDATA[一次 AWS VLESS + Surge 全链路部署的 agent 日志]]></summary>
-    </entry>
-        <entry>
-        <title>使用 Astro 自建博客，从零开始鏖战 14 小时</title>
-        <id>156551</id>
-        <link href="https://blog.xrbk.cn/post/72.html?utm_source=blogfinder" />
-        <published>2026-05-16T20:42:00+08:00</published>
-        <author>
-            <name>新锐博客</name>
-            <uri>https://blog.xrbk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[使用 Astro 自建博客，从零开始鏖战 14 小时]]></summary>
-    </entry>
-        <entry>
-        <title>使用 AI 从任意博客系统迁移到 Typecho</title>
-        <id>156514</id>
-        <link href="https://www.luming.cool/posts/2026/05/use-ai-to-convert-from-other-blog-system?utm_source=blogfinder" />
-        <published>2026-05-16T20:40:00+08:00</published>
-        <author>
-            <name>路明笔记</name>
-            <uri>https://www.luming.cool</uri>
-        </author>
-        <summary type="text"><![CDATA[使用 AI 从任意博客系统迁移到 Typecho]]></summary>
-    </entry>
-        <entry>
-        <title>【游记】龙岩见闻</title>
-        <id>156512</id>
-        <link href="https://mskclover.com/2026/05/16/glimpses-of-longyan/?utm_source=blogfinder" />
-        <published>2026-05-16T20:31:48+08:00</published>
-        <author>
-            <name>叶子的花园</name>
-            <uri>https://mskclover.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【游记】龙岩见闻]]></summary>
     </entry>
     </feed>
