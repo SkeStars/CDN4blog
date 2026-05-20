@@ -11,7 +11,84 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-20T00:00:44+08:00</updated>
+    <updated>2026-05-20T12:00:26+08:00</updated>
+        <entry>
+        <title>我的520礼物</title>
+        <id>156723</id>
+        <link href="https://ashi.im/520-gifts-2026.html?utm_source=blogfinder" />
+        <published>2026-05-20T11:40:00+08:00</published>
+        <author>
+            <name>阿士的小窝</name>
+            <uri>https://ashi.im</uri>
+        </author>
+        <summary type="text"><![CDATA[我的520礼物]]></summary>
+    </entry>
+        <entry>
+        <title>好站网-HaoZhan.Wang站点维护随笔！</title>
+        <id>156719</id>
+        <link href="https://www.zhounote.com/article/85?utm_source=blogfinder" />
+        <published>2026-05-20T10:20:00+08:00</published>
+        <author>
+            <name>Zhou’s Notes</name>
+            <uri>https://www.zhounote.com</uri>
+        </author>
+        <summary type="text"><![CDATA[好站网-HaoZhan.Wang站点维护随笔！]]></summary>
+    </entry>
+        <entry>
+        <title>AI推介</title>
+        <id>156716</id>
+        <link href="https://www.lindongfang.top/archives/2663/?utm_source=blogfinder" />
+        <published>2026-05-20T09:37:00+08:00</published>
+        <author>
+            <name>游子微博</name>
+            <uri>https://www.lindongfang.top</uri>
+        </author>
+        <summary type="text"><![CDATA[AI推介]]></summary>
+    </entry>
+        <entry>
+        <title>少即是多</title>
+        <id>156715</id>
+        <link href="https://mobius.blog/23860.html?utm_source=blogfinder" />
+        <published>2026-05-20T09:32:10+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[少即是多]]></summary>
+    </entry>
+        <entry>
+        <title>备案域名转移有点烦</title>
+        <id>156718</id>
+        <link href="https://www.gujishe.com/archives/60.html?utm_source=blogfinder" />
+        <published>2026-05-20T09:07:02+08:00</published>
+        <author>
+            <name>咕唧舍</name>
+            <uri>https://www.gujishe.com</uri>
+        </author>
+        <summary type="text"><![CDATA[备案域名转移有点烦]]></summary>
+    </entry>
+        <entry>
+        <title>学会与自己和解，是人生最好的修行</title>
+        <id>156717</id>
+        <link href="https://www.zhyok.cn/archives/367/?utm_source=blogfinder" />
+        <published>2026-05-20T08:40:00+08:00</published>
+        <author>
+            <name>秋記 Autumn</name>
+            <uri>https://www.zhyok.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[学会与自己和解，是人生最好的修行]]></summary>
+    </entry>
+        <entry>
+        <title>扭曲的需求曲线</title>
+        <id>156711</id>
+        <link href="https://www.immarcus.com/blog/distorted-demand-curve?utm_source=blogfinder" />
+        <published>2026-05-20T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[扭曲的需求曲线]]></summary>
+    </entry>
         <entry>
         <title>经典的延续</title>
         <id>156697</id>
@@ -33,6 +110,17 @@
             <uri>https://nxxy335.top</uri>
         </author>
         <summary type="text"><![CDATA[26春学11周杂记]]></summary>
+    </entry>
+        <entry>
+        <title>给 blog-v3 新建一个博友圈页面：聚合友链最新文章</title>
+        <id>156713</id>
+        <link href="https://blog.moodlog.cn/2026/blog-v3-friend-circle-page?utm_source=blogfinder" />
+        <published>2026-05-19T22:29:21+08:00</published>
+        <author>
+            <name>心记</name>
+            <uri>https://blog.moodlog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[给 blog-v3 新建一个博友圈页面：聚合友链最新文章]]></summary>
     </entry>
         <entry>
         <title>Docker Registry 私有仓库镜像数据的删除</title>
@@ -110,6 +198,17 @@
             <uri>https://blog.goodboyboy.top</uri>
         </author>
         <summary type="text"><![CDATA[腾讯元宝客户端实习二面面经]]></summary>
+    </entry>
+        <entry>
+        <title>Java反序列化-URLDNS链</title>
+        <id>156722</id>
+        <link href="https://blog.sky233.top/posts/6a99716?utm_source=blogfinder" />
+        <published>2026-05-19T17:14:30+08:00</published>
+        <author>
+            <name>YaloisBlog</name>
+            <uri>https://blog.sky233.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Java反序列化-URLDNS链]]></summary>
     </entry>
         <entry>
         <title>TIL: 移除图片下方多余的空白</title>
@@ -277,6 +376,28 @@
         <summary type="text"><![CDATA[我就是想证明一下自己 II]]></summary>
     </entry>
         <entry>
+        <title>书架495本、笔记11317条——我让AI翻了一遍我9年的阅读数据</title>
+        <id>156710</id>
+        <link href="https://joeytoday.com/blog/2026/qwencode-weread-skills-guide?utm_source=blogfinder" />
+        <published>2026-05-19T08:00:00+08:00</published>
+        <author>
+            <name>joeytoday</name>
+            <uri>https://www.joeytoday.com</uri>
+        </author>
+        <summary type="text"><![CDATA[书架495本、笔记11317条——我让AI翻了一遍我9年的阅读数据]]></summary>
+    </entry>
+        <entry>
+        <title>还得靠科技</title>
+        <id>156709</id>
+        <link href="https://ddbzhou.com/post/haideikaokeji/?utm_source=blogfinder" />
+        <published>2026-05-19T08:00:00+08:00</published>
+        <author>
+            <name>兜兜爸投资笔记</name>
+            <uri>https://ddbzhou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[还得靠科技]]></summary>
+    </entry>
+        <entry>
         <title>2026东北大学邮箱第三方客户端配置指南(Thunderbird)</title>
         <id>156653</id>
         <link href="https://xingwangzhe.fun/posts/neu-email-thunderbird-2026/?utm_source=blogfinder" />
@@ -299,6 +420,28 @@
         <summary type="text"><![CDATA[微波炉的进化史]]></summary>
     </entry>
         <entry>
+        <title>游戏、ChatGPT 与人生：底层都是一种社交系统</title>
+        <id>156708</id>
+        <link href="https://deusyu.app/posts/game-chatgpt-life-social-system/?utm_source=blogfinder" />
+        <published>2026-05-19T05:18:00+08:00</published>
+        <author>
+            <name>既往不恋</name>
+            <uri>https://deusyu.app</uri>
+        </author>
+        <summary type="text"><![CDATA[游戏、ChatGPT 与人生：底层都是一种社交系统]]></summary>
+    </entry>
+        <entry>
+        <title>2026年四月 读医疗卫生 小说 3本</title>
+        <id>156705</id>
+        <link href="https://conge.livingwithfcs.org/2026/05/18/reading_summary/?utm_source=blogfinder" />
+        <published>2026-05-19T04:01:00+08:00</published>
+        <author>
+            <name>Conge</name>
+            <uri>https://conge.livingwithfcs.org</uri>
+        </author>
+        <summary type="text"><![CDATA[2026年四月 读医疗卫生 小说 3本]]></summary>
+    </entry>
+        <entry>
         <title>@mx-space/cli 的几个设计选择 —— 服务化、View 契约、Lexical TUI 与对称 I/O</title>
         <id>156676</id>
         <link href="https://innei.in/posts/tech/mxs-cli-architecture-design-choices?utm_source=blogfinder" />
@@ -319,6 +462,94 @@
             <uri>https://anotherdayu.com</uri>
         </author>
         <summary type="text"><![CDATA[第一次做游戏插件-激战2国际服中文转换]]></summary>
+    </entry>
+        <entry>
+        <title>SugarLite 的 KMP 渐进式迁移实践</title>
+        <id>156714</id>
+        <link href="https://youngxhui.top/2026/05/sugarlite-kmp-migration/?utm_source=blogfinder" />
+        <published>2026-05-19T00:00:00+08:00</published>
+        <author>
+            <name>ISLAND</name>
+            <uri>https://youngxhui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[SugarLite 的 KMP 渐进式迁移实践]]></summary>
+    </entry>
+        <entry>
+        <title>TIL-可观测性工具的成本盲区</title>
+        <id>156704</id>
+        <link href="https://lujun9972.github.io/blog/2026/05/19/til-可观测性工具的成本盲区/index.html?utm_source=blogfinder" />
+        <published>2026-05-19T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[TIL-可观测性工具的成本盲区]]></summary>
+    </entry>
+        <entry>
+        <title>读：df 与 du——为什么两个磁盘用量命令数字对不上</title>
+        <id>156703</id>
+        <link href="https://lujun9972.github.io/blog/2026/05/19/读：df-与-du——为什么两个磁盘用量命令数字对不上/index.html?utm_source=blogfinder" />
+        <published>2026-05-19T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[读：df 与 du——为什么两个磁盘用量命令数字对不上]]></summary>
+    </entry>
+        <entry>
+        <title>读：The Many Faces of flet——Elisp 局部函数的三种写法</title>
+        <id>156702</id>
+        <link href="https://lujun9972.github.io/blog/2026/05/19/读：the-many-faces-of-flet——elisp-局部函数的三种写法/index.html?utm_source=blogfinder" />
+        <published>2026-05-19T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[读：The Many Faces of flet——Elisp 局部函数的三种写法]]></summary>
+    </entry>
+        <entry>
+        <title>TIL-etags扫描外部库头文件</title>
+        <id>156701</id>
+        <link href="https://lujun9972.github.io/blog/2026/05/19/til-etags扫描外部库头文件/index.html?utm_source=blogfinder" />
+        <published>2026-05-19T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[TIL-etags扫描外部库头文件]]></summary>
+    </entry>
+        <entry>
+        <title>TIL: elisp-fontify-semantically——让 Emacs 看懂你的 Elisp 代码</title>
+        <id>156700</id>
+        <link href="https://lujun9972.github.io/blog/2026/05/19/til-elisp-fontify-semantically——让-emacs-看懂你的-elisp-代码/index.html?utm_source=blogfinder" />
+        <published>2026-05-19T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[TIL: elisp-fontify-semantically——让 Emacs 看懂你的 Elisp 代码]]></summary>
+    </entry>
+        <entry>
+        <title>TIL: 给 dired 异步命令加 nohup，让外部程序活过 Emacs 退出</title>
+        <id>156699</id>
+        <link href="https://lujun9972.github.io/blog/2026/05/19/til-给-dired-异步命令加-nohup，让外部程序活过-emacs-退出/index.html?utm_source=blogfinder" />
+        <published>2026-05-19T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[TIL: 给 dired 异步命令加 nohup，让外部程序活过 Emacs 退出]]></summary>
+    </entry>
+        <entry>
+        <title>读：AI 时代的敏捷开发</title>
+        <id>156698</id>
+        <link href="https://lujun9972.github.io/blog/2026/05/19/读：ai-时代的敏捷开发/index.html?utm_source=blogfinder" />
+        <published>2026-05-19T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[读：AI 时代的敏捷开发]]></summary>
     </entry>
         <entry>
         <title>我要自学网还在啊</title>
@@ -871,6 +1102,17 @@
         <summary type="text"><![CDATA[稻草人周刊 Vol.81]]></summary>
     </entry>
         <entry>
+        <title>Boolean Logic</title>
+        <id>156712</id>
+        <link href="https://cavill.site/articles/boolean-logic/?utm_source=blogfinder" />
+        <published>2026-05-18T08:00:00+08:00</published>
+        <author>
+            <name>栖迟处</name>
+            <uri>https://cavill.site</uri>
+        </author>
+        <summary type="text"><![CDATA[Boolean Logic]]></summary>
+    </entry>
+        <entry>
         <title>长鑫存储撑不起半边天</title>
         <id>156649</id>
         <link href="https://ddbzhou.com/post/changxincunchu/?utm_source=blogfinder" />
@@ -924,6 +1166,17 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[先给自己上个小目标]]></summary>
+    </entry>
+        <entry>
+        <title>Cloudflare Pages 不显示 .html 和 末尾斜杠问题</title>
+        <id>156707</id>
+        <link href="https://ie12blog.36102025.xyz/articles/research-logs/cf-pages-feature/?utm_source=blogfinder" />
+        <published>2026-05-18T00:00:00+08:00</published>
+        <author>
+            <name>ie12的博客</name>
+            <uri>https://ie12blog.36102025.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[Cloudflare Pages 不显示 .html 和 末尾斜杠问题]]></summary>
     </entry>
         <entry>
         <title>读：gamegrid.el——Emacs 内置游戏是怎么写出来的</title>
@@ -1056,17 +1309,6 @@
             <uri>https://blog.imalan.cn</uri>
         </author>
         <summary type="text"><![CDATA[周末生活志｜2026W21]]></summary>
-    </entry>
-        <entry>
-        <title>且行且珍惜</title>
-        <id>156600</id>
-        <link href="https://iliu.org/posts/qie-hang-qie-zhen-xi/?utm_source=blogfinder" />
-        <published>2026-05-17T20:20:27+08:00</published>
-        <author>
-            <name>老刘博客</name>
-            <uri>https://iliu.org</uri>
-        </author>
-        <summary type="text"><![CDATA[且行且珍惜]]></summary>
     </entry>
         <entry>
         <title>有福之女不入无福之家？</title>
@@ -1276,280 +1518,5 @@
             <uri>https://www.skyue.com</uri>
         </author>
         <summary type="text"><![CDATA[Typecho升级到1.3，使用Warmpaper主题]]></summary>
-    </entry>
-        <entry>
-        <title>贪心算法全解析（三）：Huffman 编码、进阶问题与全系列总结</title>
-        <id>156543</id>
-        <link href="https://nanxa.top/post/2026-05-17-greedy-algorithm-3/?utm_source=blogfinder" />
-        <published>2026-05-17T12:00:00+08:00</published>
-        <author>
-            <name>Nanxa 的小站</name>
-            <uri>https://nanxa.top</uri>
-        </author>
-        <summary type="text"><![CDATA[贪心算法全解析（三）：Huffman 编码、进阶问题与全系列总结]]></summary>
-    </entry>
-        <entry>
-        <title>给 Waline 前端加了人机验证</title>
-        <id>156542</id>
-        <link href="https://re.karlbaey.top/articles/tinkering/captcha-for-sodesu/?utm_source=blogfinder" />
-        <published>2026-05-17T11:26:14+08:00</published>
-        <author>
-            <name>Jerry Karlbaey</name>
-            <uri>https://re.karlbaey.top</uri>
-        </author>
-        <summary type="text"><![CDATA[给 Waline 前端加了人机验证]]></summary>
-    </entry>
-        <entry>
-        <title>「进行中」XDSec SSO开发小记</title>
-        <id>156537</id>
-        <link href="https://www.xiaozonglin.cn/xdsec-sso-dev-notes/?utm_source=blogfinder" />
-        <published>2026-05-17T11:22:57+08:00</published>
-        <author>
-            <name>林林杂语</name>
-            <uri>https://www.xiaozonglin.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[「进行中」XDSec SSO开发小记]]></summary>
-    </entry>
-        <entry>
-        <title>贪心算法全解析（二）：区间调度与正确性证明</title>
-        <id>156544</id>
-        <link href="https://nanxa.top/post/2026-05-17-greedy-algorithm-2/?utm_source=blogfinder" />
-        <published>2026-05-17T11:00:00+08:00</published>
-        <author>
-            <name>Nanxa 的小站</name>
-            <uri>https://nanxa.top</uri>
-        </author>
-        <summary type="text"><![CDATA[贪心算法全解析（二）：区间调度与正确性证明]]></summary>
-    </entry>
-        <entry>
-        <title>回忆之巫山任教的日子</title>
-        <id>156528</id>
-        <link href="https://ygz.ink/archives/4950.html?utm_source=blogfinder" />
-        <published>2026-05-17T10:41:44+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[回忆之巫山任教的日子]]></summary>
-    </entry>
-        <entry>
-        <title>这个老外的视频「治好了我的精神内耗」</title>
-        <id>156584</id>
-        <link href="https://dangeer.com/posts/nice-video/?utm_source=blogfinder" />
-        <published>2026-05-17T10:30:18+08:00</published>
-        <author>
-            <name>丹格尔</name>
-            <uri>https://dangeer.com</uri>
-        </author>
-        <summary type="text"><![CDATA[这个老外的视频「治好了我的精神内耗」]]></summary>
-    </entry>
-        <entry>
-        <title>好站网 V2.0 更新｜正式版前的最后一次大更新</title>
-        <id>156555</id>
-        <link href="https://www.zhounote.com/article/81?utm_source=blogfinder" />
-        <published>2026-05-17T10:20:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[好站网 V2.0 更新｜正式版前的最后一次大更新]]></summary>
-    </entry>
-        <entry>
-        <title>好站网 V2.0 更新｜正式版前的最后一次大更新</title>
-        <id>156529</id>
-        <link href="https://www.zhounote.com/article/80?utm_source=blogfinder" />
-        <published>2026-05-17T10:20:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[好站网 V2.0 更新｜正式版前的最后一次大更新]]></summary>
-    </entry>
-        <entry>
-        <title>分享一点体测的小事</title>
-        <id>156536</id>
-        <link href="https://blog.grtsinry43.com/moments/2026/05/17/physicial-exercise-something?utm_source=blogfinder" />
-        <published>2026-05-17T10:03:26+08:00</published>
-        <author>
-            <name>Grtsinry43&#039;s Blog</name>
-            <uri>https://blog.grtsinry43.com</uri>
-        </author>
-        <summary type="text"><![CDATA[分享一点体测的小事]]></summary>
-    </entry>
-        <entry>
-        <title>贪心算法全解析（一）：核心概念与贪心策略入门</title>
-        <id>156545</id>
-        <link href="https://nanxa.top/post/2026-05-17-greedy-algorithm-1/?utm_source=blogfinder" />
-        <published>2026-05-17T10:00:00+08:00</published>
-        <author>
-            <name>Nanxa 的小站</name>
-            <uri>https://nanxa.top</uri>
-        </author>
-        <summary type="text"><![CDATA[贪心算法全解析（一）：核心概念与贪心策略入门]]></summary>
-    </entry>
-        <entry>
-        <title>把微信读书接入 ChatGPT</title>
-        <id>156598</id>
-        <link href="https://www.nodealpha.me/Software-weread-mcp.html?utm_source=blogfinder" />
-        <published>2026-05-17T09:18:15+08:00</published>
-        <author>
-            <name>NodeAlpha</name>
-            <uri>https://www.nodealpha.me</uri>
-        </author>
-        <summary type="text"><![CDATA[把微信读书接入 ChatGPT]]></summary>
-    </entry>
-        <entry>
-        <title>Hello World</title>
-        <id>156607</id>
-        <link href="https://blog.moodlog.cn/posts/hello-world/?utm_source=blogfinder" />
-        <published>2026-05-17T08:00:00+08:00</published>
-        <author>
-            <name>心记</name>
-            <uri>https://blog.moodlog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Hello World]]></summary>
-    </entry>
-        <entry>
-        <title>2026.05.17 博客阅读周记</title>
-        <id>156595</id>
-        <link href="https://www.immarcus.com/blog/weekly-20260517?utm_source=blogfinder" />
-        <published>2026-05-17T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.05.17 博客阅读周记]]></summary>
-    </entry>
-        <entry>
-        <title>下周怎么干</title>
-        <id>156593</id>
-        <link href="https://ddbzhou.com/post/xiazhouzenmegan/?utm_source=blogfinder" />
-        <published>2026-05-17T08:00:00+08:00</published>
-        <author>
-            <name>兜兜爸投资笔记</name>
-            <uri>https://ddbzhou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[下周怎么干]]></summary>
-    </entry>
-        <entry>
-        <title>虎门威远炮台</title>
-        <id>156592</id>
-        <link href="https://www.pandecheng.com/notes/weiyuan-fort/?utm_source=blogfinder" />
-        <published>2026-05-17T08:00:00+08:00</published>
-        <author>
-            <name>潘德成</name>
-            <uri>https://www.pandecheng.com</uri>
-        </author>
-        <summary type="text"><![CDATA[虎门威远炮台]]></summary>
-    </entry>
-        <entry>
-        <title>我用一句话，把烦了我两年的运维搞定了</title>
-        <id>156591</id>
-        <link href="https://blog.gudong.site/2026/05/17/guo-wan-yi-ju-hua-ban-fan-wo-liang-nian-de-yun-wei-gao-ding.html?utm_source=blogfinder" />
-        <published>2026-05-17T08:00:00+08:00</published>
-        <author>
-            <name>咕咚同学</name>
-            <uri>https://blog.gudong.site</uri>
-        </author>
-        <summary type="text"><![CDATA[我用一句话，把烦了我两年的运维搞定了]]></summary>
-    </entry>
-        <entry>
-        <title>让我们来探讨一下如何绕过GFW</title>
-        <id>156586</id>
-        <link href="https://fuwari.oh1.top/posts/Essay/bypass-gfw/?utm_source=blogfinder" />
-        <published>2026-05-17T08:00:00+08:00</published>
-        <author>
-            <name>yCENzh&#039;s Blog</name>
-            <uri>https://fuwari.oh1.top</uri>
-        </author>
-        <summary type="text"><![CDATA[让我们来探讨一下如何绕过GFW]]></summary>
-    </entry>
-        <entry>
-        <title>一个 WebRTC 聊天室的三次演进</title>
-        <id>156583</id>
-        <link href="https://www.bmpi.dev/dev/free4chat/?utm_source=blogfinder" />
-        <published>2026-05-17T08:00:00+08:00</published>
-        <author>
-            <name>构建我的被动收入</name>
-            <uri>https://www.bmpi.dev</uri>
-        </author>
-        <summary type="text"><![CDATA[一个 WebRTC 聊天室的三次演进]]></summary>
-    </entry>
-        <entry>
-        <title>月明红豆正思君</title>
-        <id>156561</id>
-        <link href="https://cavill.site/articles/xiangsi/?utm_source=blogfinder" />
-        <published>2026-05-17T08:00:00+08:00</published>
-        <author>
-            <name>栖迟处</name>
-            <uri>https://cavill.site</uri>
-        </author>
-        <summary type="text"><![CDATA[月明红豆正思君]]></summary>
-    </entry>
-        <entry>
-        <title>把“废纸篓”贴墙上</title>
-        <id>156523</id>
-        <link href="http://etom.top/archives/so99.html?utm_source=blogfinder" />
-        <published>2026-05-17T01:41:31+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[把“废纸篓”贴墙上]]></summary>
-    </entry>
-        <entry>
-        <title>落花有意，痛风无情</title>
-        <id>156524</id>
-        <link href="http://etom.top/archives/so98.html?utm_source=blogfinder" />
-        <published>2026-05-17T01:07:32+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[落花有意，痛风无情]]></summary>
-    </entry>
-        <entry>
-        <title>最近生活不太如意</title>
-        <id>156538</id>
-        <link href="https://jyblog.cn/5576/?utm_source=blogfinder" />
-        <published>2026-05-17T00:24:40+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[最近生活不太如意]]></summary>
-    </entry>
-        <entry>
-        <title>AI Agent 不是不够聪明，是没地方说话</title>
-        <id>156527</id>
-        <link href="https://nocoding.life/archives/why-ai-agents-need-a-workspace?utm_source=blogfinder" />
-        <published>2026-05-17T00:22:46+08:00</published>
-        <author>
-            <name>No Coding Life</name>
-            <uri>https://nocoding.life</uri>
-        </author>
-        <summary type="text"><![CDATA[AI Agent 不是不够聪明，是没地方说话]]></summary>
-    </entry>
-        <entry>
-        <title>停更的两个月</title>
-        <id>156513</id>
-        <link href="https://www.luming.cool/posts/2026/05/during_the_time_i_stopped_blogging?utm_source=blogfinder" />
-        <published>2026-05-17T00:22:00+08:00</published>
-        <author>
-            <name>路明笔记</name>
-            <uri>https://www.luming.cool</uri>
-        </author>
-        <summary type="text"><![CDATA[停更的两个月]]></summary>
-    </entry>
-        <entry>
-        <title>弃猫</title>
-        <id>156557</id>
-        <link href="https://dujun.io/018fd448-defe-5530-adea-a1cf4d5f42f2.html?utm_source=blogfinder" />
-        <published>2026-05-17T00:15:00+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[弃猫]]></summary>
     </entry>
     </feed>
