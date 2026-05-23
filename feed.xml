@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-23T14:00:51+08:00</updated>
+    <updated>2026-05-23T17:00:33+08:00</updated>
+        <entry>
+        <title>细说最近二三事</title>
+        <id>157931</id>
+        <link href="https://ayayy.com/38.html?utm_source=blogfinder" />
+        <published>2026-05-23T16:21:00+08:00</published>
+        <author>
+            <name>哎呀哎呀呀</name>
+            <uri>https://ayayy.com</uri>
+        </author>
+        <summary type="text"><![CDATA[细说最近二三事]]></summary>
+    </entry>
+        <entry>
+        <title>博客RSS订阅异常排查：单篇文章不显示、订阅失败修复记录</title>
+        <id>157932</id>
+        <link href="https://www.zhounote.com/article/92?utm_source=blogfinder" />
+        <published>2026-05-23T13:55:00+08:00</published>
+        <author>
+            <name>Zhou’s Notes</name>
+            <uri>https://www.zhounote.com</uri>
+        </author>
+        <summary type="text"><![CDATA[博客RSS订阅异常排查：单篇文章不显示、订阅失败修复记录]]></summary>
+    </entry>
         <entry>
         <title>妈妈的问候</title>
         <id>157909</id>
@@ -143,6 +165,17 @@
             <uri>https://blog.devtang.com</uri>
         </author>
         <summary type="text"><![CDATA[了解 Claude Code 的提示词工程]]></summary>
+    </entry>
+        <entry>
+        <title>什么是好的用户体验</title>
+        <id>157930</id>
+        <link href="https://blog.solazy.me/20260522/?utm_source=blogfinder" />
+        <published>2026-05-22T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[什么是好的用户体验]]></summary>
     </entry>
         <entry>
         <title>少年锦时-Similar to love</title>
@@ -1276,60 +1309,5 @@
             <uri>https://blog.xrbk.cn</uri>
         </author>
         <summary type="text"><![CDATA[对一些新手使用AI编程的建议]]></summary>
-    </entry>
-        <entry>
-        <title>MES 不同产品不同工序的产能统计报表，包含白班夜班产能对比</title>
-        <id>156728</id>
-        <link href="https://www.sunzhongwei.com/mes-production-capacity-statistics-report?utm_source=blogfinder" />
-        <published>2026-05-20T16:32:23+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[MES 不同产品不同工序的产能统计报表，包含白班夜班产能对比]]></summary>
-    </entry>
-        <entry>
-        <title>免费获取Gemini 3.1Pro会员一年专用</title>
-        <id>157763</id>
-        <link href="https://www.0731119.xyz/index.php/archives/545/?utm_source=blogfinder" />
-        <published>2026-05-20T16:16:43+08:00</published>
-        <author>
-            <name>多星宇博客</name>
-            <uri>http://www.0731119.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[免费获取Gemini 3.1Pro会员一年专用]]></summary>
-    </entry>
-        <entry>
-        <title>冒雨跑了闵行三家蜜雪冰城线下店，两份情侣证拿下</title>
-        <id>156745</id>
-        <link href="https://www.52txr.cn/2026/qinglvzheng.html?utm_source=blogfinder" />
-        <published>2026-05-20T16:03:00+08:00</published>
-        <author>
-            <name>陶小桃</name>
-            <uri>https://www.52txr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[冒雨跑了闵行三家蜜雪冰城线下店，两份情侣证拿下]]></summary>
-    </entry>
-        <entry>
-        <title>《何以重塑》</title>
-        <id>156730</id>
-        <link href="https://www.weiwenchao.com/2660.html?utm_source=blogfinder" />
-        <published>2026-05-20T15:57:03+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《何以重塑》]]></summary>
-    </entry>
-        <entry>
-        <title>杂记：培养长期受益的生活习惯</title>
-        <id>157764</id>
-        <link href="https://limaomao810.com/archives/998?utm_source=blogfinder" />
-        <published>2026-05-20T14:52:48+08:00</published>
-        <author>
-            <name>李毛毛</name>
-            <uri>https://limaomao810.com</uri>
-        </author>
-        <summary type="text"><![CDATA[杂记：培养长期受益的生活习惯]]></summary>
     </entry>
     </feed>
