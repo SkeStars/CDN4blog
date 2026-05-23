@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-23T22:00:38+08:00</updated>
+    <updated>2026-05-23T23:03:38+08:00</updated>
+        <entry>
+        <title>烈日当空，辛勤劳作</title>
+        <id>157941</id>
+        <link href="https://www.chenrui.com/post/3493.html?utm_source=blogfinder" />
+        <published>2026-05-23T22:00:25+08:00</published>
+        <author>
+            <name>不可</name>
+            <uri>https://www.chenrui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[烈日当空，辛勤劳作]]></summary>
+    </entry>
         <entry>
         <title>我将成为一名光荣的共青团员</title>
         <id>157940</id>
@@ -22,6 +33,28 @@
             <uri>https://ryqi.top</uri>
         </author>
         <summary type="text"><![CDATA[我将成为一名光荣的共青团员]]></summary>
+    </entry>
+        <entry>
+        <title>给糯米做绝育</title>
+        <id>157944</id>
+        <link href="https://www.luohuayu.cn/69.html?utm_source=blogfinder" />
+        <published>2026-05-23T19:07:00+08:00</published>
+        <author>
+            <name>落花雨记</name>
+            <uri>https://www.luohuayu.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[给糯米做绝育]]></summary>
+    </entry>
+        <entry>
+        <title>五一游记：走理小路，逛三星堆</title>
+        <id>157942</id>
+        <link href="https://bluehe.cn/archives/sanxingdui-guide?utm_source=blogfinder" />
+        <published>2026-05-23T18:44:00+08:00</published>
+        <author>
+            <name>云心怀鹤</name>
+            <uri>https://bluehe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[五一游记：走理小路，逛三星堆]]></summary>
     </entry>
         <entry>
         <title>快乐的手作时光</title>
@@ -66,6 +99,17 @@
             <uri>https://fxpai.com</uri>
         </author>
         <summary type="text"><![CDATA[孩子小升初，我学会了不少新词]]></summary>
+    </entry>
+        <entry>
+        <title>我的车</title>
+        <id>157943</id>
+        <link href="https://hux.ink/posts/%E6%88%91%E7%9A%84%E8%BD%A6/?utm_source=blogfinder" />
+        <published>2026-05-23T14:59:00+08:00</published>
+        <author>
+            <name>Counting Stars</name>
+            <uri>https://hux.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[我的车]]></summary>
     </entry>
         <entry>
         <title>为什么必须戒短视频</title>
@@ -1221,71 +1265,5 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[拍月亮]]></summary>
-    </entry>
-        <entry>
-        <title>开在新安镇的小武菜煎饼</title>
-        <id>157768</id>
-        <link href="https://imxcy.cn/archives/c13749e6.html?utm_source=blogfinder" />
-        <published>2026-05-20T23:00:00+08:00</published>
-        <author>
-            <name>许大阳的日记本</name>
-            <uri>https://imxcy.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[开在新安镇的小武菜煎饼]]></summary>
-    </entry>
-        <entry>
-        <title>我们免费写的字，平台拿去卖给了谁</title>
-        <id>157774</id>
-        <link href="https://dongjunke.cn/posts/2026/05/20/48180.html?utm_source=blogfinder" />
-        <published>2026-05-20T22:40:54+08:00</published>
-        <author>
-            <name>东评西就</name>
-            <uri>https://dongjunke.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[我们免费写的字，平台拿去卖给了谁]]></summary>
-    </entry>
-        <entry>
-        <title>杂记，再看看书</title>
-        <id>157753</id>
-        <link href="https://www.chenrui.com/post/3492.html?utm_source=blogfinder" />
-        <published>2026-05-20T22:33:34+08:00</published>
-        <author>
-            <name>不可</name>
-            <uri>https://www.chenrui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[杂记，再看看书]]></summary>
-    </entry>
-        <entry>
-        <title>critical libmamba Shell not initialized micromamba报错 subprocess 无法修改父 Shell - 排坑笔记 | 阿尔的代码屋</title>
-        <id>156744</id>
-        <link href="https://blog.algieba12.cn/record04-mamba-shell-issue/?utm_source=blogfinder" />
-        <published>2026-05-20T22:20:24+08:00</published>
-        <author>
-            <name>阿尔的代码屋</name>
-            <uri>https://blog.algieba12.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[critical libmamba Shell not initialized micromamba报错 subprocess 无法修改父 Shell - 排坑笔记 | 阿尔的代码屋]]></summary>
-    </entry>
-        <entry>
-        <title>RTX3080Ti涡轮卡BIOS寻宝记</title>
-        <id>157778</id>
-        <link href="https://www.nekopara.uk/archives/Find_RTX3080Ti_BIOS.html?utm_source=blogfinder" />
-        <published>2026-05-20T22:08:00+08:00</published>
-        <author>
-            <name>GTX690 战术核显卡导弹</name>
-            <uri>https://www.nekopara.uk</uri>
-        </author>
-        <summary type="text"><![CDATA[RTX3080Ti涡轮卡BIOS寻宝记]]></summary>
-    </entry>
-        <entry>
-        <title>好人未必是好统治者</title>
-        <id>157791</id>
-        <link href="https://wangyurui.com/posts/hao-ren-wei-bi-shi-hao-tong-zhi-zhe-ac7d10f0?utm_source=blogfinder" />
-        <published>2026-05-20T22:03:28+08:00</published>
-        <author>
-            <name>太隐</name>
-            <uri>https://wangyurui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[好人未必是好统治者]]></summary>
     </entry>
     </feed>
