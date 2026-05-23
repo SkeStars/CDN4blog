@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-23T12:00:46+08:00</updated>
+    <updated>2026-05-23T14:00:51+08:00</updated>
+        <entry>
+        <title>妈妈的问候</title>
+        <id>157909</id>
+        <link href="https://kaix.in/2026/0523/?utm_source=blogfinder" />
+        <published>2026-05-23T11:45:15+08:00</published>
+        <author>
+            <name>KAIX.IN</name>
+            <uri>https://kaix.in</uri>
+        </author>
+        <summary type="text"><![CDATA[妈妈的问候]]></summary>
+    </entry>
         <entry>
         <title>不滑社群媒體還有短影音還可以幹嘛？</title>
         <id>157908</id>
@@ -1320,38 +1331,5 @@
             <uri>https://limaomao810.com</uri>
         </author>
         <summary type="text"><![CDATA[杂记：培养长期受益的生活习惯]]></summary>
-    </entry>
-        <entry>
-        <title>今天是520</title>
-        <id>156724</id>
-        <link href="http://etom.top/archives/so107.html?utm_source=blogfinder" />
-        <published>2026-05-20T13:31:00+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[今天是520]]></summary>
-    </entry>
-        <entry>
-        <title>热血沸腾！中国 U17 时隔 22 年闯进亚洲杯决赛，再战日本！</title>
-        <id>156733</id>
-        <link href="https://www.zhounote.com/article/86?utm_source=blogfinder" />
-        <published>2026-05-20T13:20:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[热血沸腾！中国 U17 时隔 22 年闯进亚洲杯决赛，再战日本！]]></summary>
-    </entry>
-        <entry>
-        <title>用设计语言解读「一起展」App 技术理念与产品哲学的映射</title>
-        <id>157752</id>
-        <link href="https://blogs.kainy.cn/2026/05/%E7%94%A8%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E8%A7%A3%E8%AF%BB%E3%80%8C%E4%B8%80%E8%B5%B7%E5%B1%95%E3%80%8DApp%20%E6%8A%80%E6%9C%AF%E7%90%86%E5%BF%B5%E4%B8%8E%E4%BA%A7%E5%93%81%E5%93%B2%E5%AD%A6%E7%9A%84%E6%98%A0%E5%B0%84/?utm_source=blogfinder" />
-        <published>2026-05-20T12:16:26+08:00</published>
-        <author>
-            <name>Kainy</name>
-            <uri>https://blogs.kainy.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[用设计语言解读「一起展」App 技术理念与产品哲学的映射]]></summary>
     </entry>
     </feed>
