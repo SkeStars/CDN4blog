@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-23T20:01:09+08:00</updated>
+    <updated>2026-05-23T22:00:38+08:00</updated>
+        <entry>
+        <title>我将成为一名光荣的共青团员</title>
+        <id>157940</id>
+        <link href="https://ryqi.top/p/communist-youth-league/?utm_source=blogfinder" />
+        <published>2026-05-23T19:40:00+08:00</published>
+        <author>
+            <name>合荒小站</name>
+            <uri>https://ryqi.top</uri>
+        </author>
+        <summary type="text"><![CDATA[我将成为一名光荣的共青团员]]></summary>
+    </entry>
+        <entry>
+        <title>快乐的手作时光</title>
+        <id>157939</id>
+        <link href="https://me.xu19.com/my-daughter-has-loved-making-handicrafts-since-she-was-little/?utm_source=blogfinder" />
+        <published>2026-05-23T18:39:50+08:00</published>
+        <author>
+            <name>我是军爸</name>
+            <uri>https://me.xu19.com</uri>
+        </author>
+        <summary type="text"><![CDATA[快乐的手作时光]]></summary>
+    </entry>
+        <entry>
+        <title>读来如坐针毡的《大理寺冒牌少卿》</title>
+        <id>157937</id>
+        <link href="https://www.pgoj.top/archives/da-li-si-shao-qing.html/?utm_source=blogfinder" />
+        <published>2026-05-23T17:02:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[读来如坐针毡的《大理寺冒牌少卿》]]></summary>
+    </entry>
         <entry>
         <title>细说最近二三事</title>
         <id>157931</id>
@@ -154,6 +187,17 @@
             <uri>https://www.zhyok.cn</uri>
         </author>
         <summary type="text"><![CDATA[“崩老头”灰色产业链：中年人的情感困局与骗局背后的社会隐忧]]></summary>
+    </entry>
+        <entry>
+        <title>Pensieve: 2605</title>
+        <id>157938</id>
+        <link href="https://xiaket.github.io/2026/pensieve-2605.html?utm_source=blogfinder" />
+        <published>2026-05-23T08:40:00+08:00</published>
+        <author>
+            <name>年华转瞬</name>
+            <uri>https://blog.xiaket.org</uri>
+        </author>
+        <summary type="text"><![CDATA[Pensieve: 2605]]></summary>
     </entry>
         <entry>
         <title>真善美八卦经</title>
@@ -1243,38 +1287,5 @@
             <uri>https://wangyurui.com</uri>
         </author>
         <summary type="text"><![CDATA[好人未必是好统治者]]></summary>
-    </entry>
-        <entry>
-        <title>遂昌｜躲避人潮的五一自驾Day4 - 焦滩</title>
-        <id>156740</id>
-        <link href="https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-04.html?utm_source=blogfinder" />
-        <published>2026-05-20T21:37:42+08:00</published>
-        <author>
-            <name>运维咖啡吧</name>
-            <uri>https://blog.ops-coffee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[遂昌｜躲避人潮的五一自驾Day4 - 焦滩]]></summary>
-    </entry>
-        <entry>
-        <title>使用STM32CubeMX生成C8T6工程ld脚本错误</title>
-        <id>157786</id>
-        <link href="https://loveapple.icu/stm-cubemx-c8t6-ld-error/?utm_source=blogfinder" />
-        <published>2026-05-20T20:46:30+08:00</published>
-        <author>
-            <name>LoveApple14434</name>
-            <uri>https://loveapple.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[使用STM32CubeMX生成C8T6工程ld脚本错误]]></summary>
-    </entry>
-        <entry>
-        <title>又是捡漏的一天</title>
-        <id>156743</id>
-        <link href="https://ygz.ink/archives/4986.html?utm_source=blogfinder" />
-        <published>2026-05-20T20:11:49+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[又是捡漏的一天]]></summary>
     </entry>
     </feed>
