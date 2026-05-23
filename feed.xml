@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-23T18:00:41+08:00</updated>
+    <updated>2026-05-23T20:01:09+08:00</updated>
         <entry>
         <title>细说最近二三事</title>
         <id>157931</id>
@@ -55,6 +55,17 @@
             <uri>https://www.zhounote.com</uri>
         </author>
         <summary type="text"><![CDATA[博客RSS订阅异常排查：单篇文章不显示、订阅失败修复记录]]></summary>
+    </entry>
+        <entry>
+        <title>本站使用的徽章</title>
+        <id>157936</id>
+        <link href="https://xn--otsr53afot.com/posts/huizhang/?utm_source=blogfinder" />
+        <published>2026-05-23T13:16:00+08:00</published>
+        <author>
+            <name>老朝奉</name>
+            <uri>https://xn--otsr53afot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[本站使用的徽章]]></summary>
     </entry>
         <entry>
         <title>妈妈的问候</title>
@@ -1265,49 +1276,5 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[又是捡漏的一天]]></summary>
-    </entry>
-        <entry>
-        <title>520</title>
-        <id>156742</id>
-        <link href="https://blog.mcenahle.org.cn/2026/05/20/450.html?utm_source=blogfinder" />
-        <published>2026-05-20T20:01:00+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[520]]></summary>
-    </entry>
-        <entry>
-        <title>大家一定要经常检查</title>
-        <id>156739</id>
-        <link href="https://me.xu19.com/keep-checking-blog-external-links/?utm_source=blogfinder" />
-        <published>2026-05-20T19:58:22+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[大家一定要经常检查]]></summary>
-    </entry>
-        <entry>
-        <title>群晖部署 LX Music Server：浏览器就是你的音乐播放器【详细版】</title>
-        <id>157767</id>
-        <link href="https://wuqishi.com/archives/synology-lx-music-server-browser-player-guide?utm_source=blogfinder" />
-        <published>2026-05-20T19:46:23+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[群晖部署 LX Music Server：浏览器就是你的音乐播放器【详细版】]]></summary>
-    </entry>
-        <entry>
-        <title>绚丽智云新加坡BGP云主机得分 68.13</title>
-        <id>157784</id>
-        <link href="https://dujun.io/vibncloud-singapore-bgp-cloud-server-scored-sixty-eight-point-one-three.html?utm_source=blogfinder" />
-        <published>2026-05-20T19:40:39+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[绚丽智云新加坡BGP云主机得分 68.13]]></summary>
     </entry>
     </feed>
