@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-23T17:00:33+08:00</updated>
+    <updated>2026-05-23T18:00:41+08:00</updated>
         <entry>
         <title>细说最近二三事</title>
         <id>157931</id>
@@ -22,6 +22,28 @@
             <uri>https://ayayy.com</uri>
         </author>
         <summary type="text"><![CDATA[细说最近二三事]]></summary>
+    </entry>
+        <entry>
+        <title>孩子小升初，我学会了不少新词</title>
+        <id>157935</id>
+        <link href="https://fxpai.com/article/haizixiaoshengchuwoxuehuilebushaoxinci?utm_source=blogfinder" />
+        <published>2026-05-23T15:43:36+08:00</published>
+        <author>
+            <name>非学·派</name>
+            <uri>https://fxpai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[孩子小升初，我学会了不少新词]]></summary>
+    </entry>
+        <entry>
+        <title>为什么必须戒短视频</title>
+        <id>157934</id>
+        <link href="https://joojen.com/archives/8986.html?utm_source=blogfinder" />
+        <published>2026-05-23T14:01:25+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[为什么必须戒短视频]]></summary>
     </entry>
         <entry>
         <title>博客RSS订阅异常排查：单篇文章不显示、订阅失败修复记录</title>
@@ -1287,27 +1309,5 @@
             <uri>https://dujun.io</uri>
         </author>
         <summary type="text"><![CDATA[绚丽智云新加坡BGP云主机得分 68.13]]></summary>
-    </entry>
-        <entry>
-        <title>网易云音乐播放器插件</title>
-        <id>157775</id>
-        <link href="https://www.gaicas.com/gc-ncm.html?utm_source=blogfinder" />
-        <published>2026-05-20T17:47:01+08:00</published>
-        <author>
-            <name>草东日记</name>
-            <uri>https://www.gaicas.com</uri>
-        </author>
-        <summary type="text"><![CDATA[网易云音乐播放器插件]]></summary>
-    </entry>
-        <entry>
-        <title>对一些新手使用AI编程的建议</title>
-        <id>157783</id>
-        <link href="https://blog.xrbk.cn/post/75.html?utm_source=blogfinder" />
-        <published>2026-05-20T17:30:00+08:00</published>
-        <author>
-            <name>新锐博客</name>
-            <uri>https://blog.xrbk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[对一些新手使用AI编程的建议]]></summary>
     </entry>
     </feed>
