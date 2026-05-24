@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-24T19:00:49+08:00</updated>
+    <updated>2026-05-24T22:00:24+08:00</updated>
+        <entry>
+        <title>死猫</title>
+        <id>157992</id>
+        <link href="https://mobius.blog/24352.html?utm_source=blogfinder" />
+        <published>2026-05-24T19:40:33+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[死猫]]></summary>
+    </entry>
         <entry>
         <title>好玩，大数据杀熟</title>
         <id>157982</id>
@@ -22,6 +33,28 @@
             <uri>https://re.karlbaey.top</uri>
         </author>
         <summary type="text"><![CDATA[好玩，大数据杀熟]]></summary>
+    </entry>
+        <entry>
+        <title>我感觉我要把 BlogsClub薅秃了……</title>
+        <id>157994</id>
+        <link href="https://ryqi.top/p/blogsclub-gift/?utm_source=blogfinder" />
+        <published>2026-05-24T16:15:00+08:00</published>
+        <author>
+            <name>合荒小站</name>
+            <uri>https://ryqi.top</uri>
+        </author>
+        <summary type="text"><![CDATA[我感觉我要把 BlogsClub薅秃了……]]></summary>
+    </entry>
+        <entry>
+        <title>水星冲浪日志 3 —— Fediverse、Arch Linux 和写作风格</title>
+        <id>157990</id>
+        <link href="https://blog.samhou.moe/aqua-surf-3/?utm_source=blogfinder" />
+        <published>2026-05-24T15:06:19+08:00</published>
+        <author>
+            <name>SamHou&#039;s Blog</name>
+            <uri>https://blog.samhou.moe</uri>
+        </author>
+        <summary type="text"><![CDATA[水星冲浪日志 3 —— Fediverse、Arch Linux 和写作风格]]></summary>
     </entry>
         <entry>
         <title>算完这笔账，才懂中小企业有多难！</title>
@@ -44,6 +77,17 @@
             <uri>https://imqi1.com</uri>
         </author>
         <summary type="text"><![CDATA[川渝游结束，浅浅记录一下]]></summary>
+    </entry>
+        <entry>
+        <title>邓小平时代</title>
+        <id>157995</id>
+        <link href="https://catlyingroof.top/2026/05/24/19.html?utm_source=blogfinder" />
+        <published>2026-05-24T12:45:31+08:00</published>
+        <author>
+            <name>Ethan 在网上耕田</name>
+            <uri>https://catlyingroof.top</uri>
+        </author>
+        <summary type="text"><![CDATA[邓小平时代]]></summary>
     </entry>
         <entry>
         <title>好站网功能优化｜RSS 订阅解析兼容性全面升级！</title>
@@ -112,6 +156,17 @@
         <summary type="text"><![CDATA[北京四环骑行一日游：69 公里 6 小时]]></summary>
     </entry>
         <entry>
+        <title>IndieWeb 书会：《活着》</title>
+        <id>157993</id>
+        <link href="https://xeonzilla.top/jotting/indieweb-book-club-may-2026-to-live?utm_source=blogfinder" />
+        <published>2026-05-24T09:47:57+08:00</published>
+        <author>
+            <name>Xeonzilla’s Note</name>
+            <uri>https://xeonzilla.top</uri>
+        </author>
+        <summary type="text"><![CDATA[IndieWeb 书会：《活着》]]></summary>
+    </entry>
+        <entry>
         <title>80后赶上了，也赶不上了</title>
         <id>157970</id>
         <link href="https://www.zhyok.cn/archives/379/?utm_source=blogfinder" />
@@ -132,6 +187,17 @@
             <uri>https://hux.ink</uri>
         </author>
         <summary type="text"><![CDATA[骑上 P10 去兜风]]></summary>
+    </entry>
+        <entry>
+        <title>隐说 NO.24 清史修不出来是好事</title>
+        <id>157991</id>
+        <link href="https://wangyurui.com/posts/yin-shuo-no-24-qing-shi-xiu-bu-chu-lai-shi-hao-s-159c85e4?utm_source=blogfinder" />
+        <published>2026-05-24T09:10:24+08:00</published>
+        <author>
+            <name>太隐</name>
+            <uri>https://wangyurui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[隐说 NO.24 清史修不出来是好事]]></summary>
     </entry>
         <entry>
         <title>梦了个莫名其妙的梦</title>
@@ -1254,82 +1320,5 @@
             <uri>https://hisherry.com</uri>
         </author>
         <summary type="text"><![CDATA[碎碎念2026D141]]></summary>
-    </entry>
-        <entry>
-        <title>Linux/macOS 下 micromamba 报错 Shard Index not available 与极度卡顿排坑笔记 | 阿尔的代码屋</title>
-        <id>157799</id>
-        <link href="https://blog.algieba12.cn/record05-mamba-search-slow/?utm_source=blogfinder" />
-        <published>2026-05-21T21:28:08+08:00</published>
-        <author>
-            <name>阿尔的代码屋</name>
-            <uri>https://blog.algieba12.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Linux/macOS 下 micromamba 报错 Shard Index not available 与极度卡顿排坑笔记 | 阿尔的代码屋]]></summary>
-    </entry>
-        <entry>
-        <title>冒个泡</title>
-        <id>157835</id>
-        <link href="https://shuiba.co/hello-again?utm_source=blogfinder" />
-        <published>2026-05-21T21:06:00+08:00</published>
-        <author>
-            <name>水八口的冥想盆</name>
-            <uri>https://shuiba.co</uri>
-        </author>
-        <summary type="text"><![CDATA[冒个泡]]></summary>
-    </entry>
-        <entry>
-        <title>遂昌｜躲避人潮的五一自驾Day5 - 独山</title>
-        <id>157794</id>
-        <link href="https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-05.html?utm_source=blogfinder" />
-        <published>2026-05-21T20:47:19+08:00</published>
-        <author>
-            <name>运维咖啡吧</name>
-            <uri>https://blog.ops-coffee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[遂昌｜躲避人潮的五一自驾Day5 - 独山]]></summary>
-    </entry>
-        <entry>
-        <title>网页拍照的隐私和安全</title>
-        <id>157860</id>
-        <link href="https://blog.s17.cn/post/9.html?utm_source=blogfinder" />
-        <published>2026-05-21T20:16:05+08:00</published>
-        <author>
-            <name>拾柒</name>
-            <uri>https://blog.s17.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[网页拍照的隐私和安全]]></summary>
-    </entry>
-        <entry>
-        <title>重庆中央公园商场是真的多</title>
-        <id>157798</id>
-        <link href="https://ygz.ink/archives/4991.html?utm_source=blogfinder" />
-        <published>2026-05-21T19:53:46+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[重庆中央公园商场是真的多]]></summary>
-    </entry>
-        <entry>
-        <title>好站网更新日志｜修复留言重复 bug，收到新功能建议啦！</title>
-        <id>157838</id>
-        <link href="https://www.zhounote.com/article/88?utm_source=blogfinder" />
-        <published>2026-05-21T19:30:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[好站网更新日志｜修复留言重复 bug，收到新功能建议啦！]]></summary>
-    </entry>
-        <entry>
-        <title>使用 GitHub Desktop 推送到 GitLab 提示认证失败，原来是已经不能使用账号密码了</title>
-        <id>157847</id>
-        <link href="https://yijile.com/zh/github-desktop-push-gitlab-authentication-failed/?utm_source=blogfinder" />
-        <published>2026-05-21T19:27:03+08:00</published>
-        <author>
-            <name>一极乐</name>
-            <uri>https://yijile.com</uri>
-        </author>
-        <summary type="text"><![CDATA[使用 GitHub Desktop 推送到 GitLab 提示认证失败，原来是已经不能使用账号密码了]]></summary>
     </entry>
     </feed>
