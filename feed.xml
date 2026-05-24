@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-24T23:02:41+08:00</updated>
+    <updated>2026-05-25T00:00:44+08:00</updated>
+        <entry>
+        <title>搞个“小纸条”增添小乐趣</title>
+        <id>158012</id>
+        <link href="http://etom.top/archives/so114.html?utm_source=blogfinder" />
+        <published>2026-05-24T23:58:33+08:00</published>
+        <author>
+            <name>浮生事</name>
+            <uri>http://etom.top</uri>
+        </author>
+        <summary type="text"><![CDATA[搞个“小纸条”增添小乐趣]]></summary>
+    </entry>
+        <entry>
+        <title>贴膜</title>
+        <id>158005</id>
+        <link href="https://hjyl.org/glass-screen-protector/?utm_source=blogfinder" />
+        <published>2026-05-24T21:37:14+08:00</published>
+        <author>
+            <name>皇家元林</name>
+            <uri>https://hjyl.org</uri>
+        </author>
+        <summary type="text"><![CDATA[贴膜]]></summary>
+    </entry>
         <entry>
         <title>【与Mondo同行·第四季】9：人生是感受，而不是度过</title>
         <id>157996</id>
@@ -35,6 +57,72 @@
         <summary type="text"><![CDATA[Rhex论坛接入DeepSeek 踩坑实录]]></summary>
     </entry>
         <entry>
+        <title>python的生成器</title>
+        <id>158009</id>
+        <link href="https://blog.share888.top/note/back-end/python/python的生成器.html?utm_source=blogfinder" />
+        <published>2026-05-24T20:31:05+08:00</published>
+        <author>
+            <name>卡卡罗特</name>
+            <uri>https://blog.share888.top</uri>
+        </author>
+        <summary type="text"><![CDATA[python的生成器]]></summary>
+    </entry>
+        <entry>
+        <title>python的异步</title>
+        <id>158008</id>
+        <link href="https://blog.share888.top/note/back-end/python/python的异步.html?utm_source=blogfinder" />
+        <published>2026-05-24T20:31:05+08:00</published>
+        <author>
+            <name>卡卡罗特</name>
+            <uri>https://blog.share888.top</uri>
+        </author>
+        <summary type="text"><![CDATA[python的异步]]></summary>
+    </entry>
+        <entry>
+        <title>python依赖打包</title>
+        <id>158007</id>
+        <link href="https://blog.share888.top/note/back-end/python/python依赖打包.html?utm_source=blogfinder" />
+        <published>2026-05-24T20:31:05+08:00</published>
+        <author>
+            <name>卡卡罗特</name>
+            <uri>https://blog.share888.top</uri>
+        </author>
+        <summary type="text"><![CDATA[python依赖打包]]></summary>
+    </entry>
+        <entry>
+        <title>langchain实现Agent</title>
+        <id>158006</id>
+        <link href="https://blog.share888.top/note/ai/ai/langchain实现Agent.html?utm_source=blogfinder" />
+        <published>2026-05-24T20:31:05+08:00</published>
+        <author>
+            <name>卡卡罗特</name>
+            <uri>https://blog.share888.top</uri>
+        </author>
+        <summary type="text"><![CDATA[langchain实现Agent]]></summary>
+    </entry>
+        <entry>
+        <title>周末流水账 0524</title>
+        <id>158011</id>
+        <link href="https://blog.solazy.me/20260524/?utm_source=blogfinder" />
+        <published>2026-05-24T20:30:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0524]]></summary>
+    </entry>
+        <entry>
+        <title>如何发布 Chrome Extensions 谷歌插件</title>
+        <id>158010</id>
+        <link href="https://yesreho.com/how-to-publish-chrome-extensions/?utm_source=blogfinder" />
+        <published>2026-05-24T20:07:40+08:00</published>
+        <author>
+            <name>LookLeap</name>
+            <uri>https://yesreho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[如何发布 Chrome Extensions 谷歌插件]]></summary>
+    </entry>
+        <entry>
         <title>死猫</title>
         <id>157992</id>
         <link href="https://mobius.blog/24352.html?utm_source=blogfinder" />
@@ -44,6 +132,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[死猫]]></summary>
+    </entry>
+        <entry>
+        <title>学习周刊-总第264期-2026年第21周</title>
+        <id>158003</id>
+        <link href="https://wiki.eryajf.net/pages/1833b9/?utm_source=blogfinder" />
+        <published>2026-05-24T18:58:24+08:00</published>
+        <author>
+            <name>二丫讲梵</name>
+            <uri>https://wiki.eryajf.net</uri>
+        </author>
+        <summary type="text"><![CDATA[学习周刊-总第264期-2026年第21周]]></summary>
     </entry>
         <entry>
         <title>好玩，大数据杀熟</title>
@@ -101,6 +200,17 @@
         <summary type="text"><![CDATA[算完这笔账，才懂中小企业有多难！]]></summary>
     </entry>
         <entry>
+        <title>CodeX++这外挂确实不赖，强驱DeepSeek官方或第三方API到CodeX里使用（踩坑记录）</title>
+        <id>158004</id>
+        <link href="https://www.52txr.cn/2026/CodeXPlusPlus.html?utm_source=blogfinder" />
+        <published>2026-05-24T14:17:00+08:00</published>
+        <author>
+            <name>陶小桃</name>
+            <uri>https://www.52txr.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[CodeX++这外挂确实不赖，强驱DeepSeek官方或第三方API到CodeX里使用（踩坑记录）]]></summary>
+    </entry>
+        <entry>
         <title>周末</title>
         <id>157998</id>
         <link href="https://ihaihe.cn/3652.htm?utm_source=blogfinder" />
@@ -110,6 +220,17 @@
             <uri>https://ihaihe.cn</uri>
         </author>
         <summary type="text"><![CDATA[周末]]></summary>
+    </entry>
+        <entry>
+        <title>金刚怒目，菩萨低眉，尼姑思凡</title>
+        <id>158001</id>
+        <link href="https://blog.imalan.cn/archives/pursuit-of-idealoy/?utm_source=blogfinder" />
+        <published>2026-05-24T13:47:41+08:00</published>
+        <author>
+            <name>失眠海峡</name>
+            <uri>https://blog.imalan.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[金刚怒目，菩萨低眉，尼姑思凡]]></summary>
     </entry>
         <entry>
         <title>川渝游结束，浅浅记录一下</title>
@@ -484,6 +605,17 @@
             <uri>https://fxpai.com</uri>
         </author>
         <summary type="text"><![CDATA[孩子小升初，我学会了不少新词]]></summary>
+    </entry>
+        <entry>
+        <title>缺氧和异星工厂的比较</title>
+        <id>158002</id>
+        <link href="https://blog.codingnow.com/2026/05/oni_factorio.html?utm_source=blogfinder" />
+        <published>2026-05-23T15:04:32+08:00</published>
+        <author>
+            <name>云风的 BLOG</name>
+            <uri>https://blog.codingnow.com</uri>
+        </author>
+        <summary type="text"><![CDATA[缺氧和异星工厂的比较]]></summary>
     </entry>
         <entry>
         <title>我的车</title>
@@ -1309,38 +1441,5 @@
             <uri>https://loneapex.cn</uri>
         </author>
         <summary type="text"><![CDATA[『anemoi』初回限定版 开箱]]></summary>
-    </entry>
-        <entry>
-        <title>申请境外银行账户最重要的问题是什么？</title>
-        <id>157950</id>
-        <link href="https://tumutanzi.com/archives/17608?utm_source=blogfinder" />
-        <published>2026-05-22T00:00:16+08:00</published>
-        <author>
-            <name>土木坛子</name>
-            <uri>https://tumutanzi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[申请境外银行账户最重要的问题是什么？]]></summary>
-    </entry>
-        <entry>
-        <title>导出 Elfeed 选中条目到 GitHub Page 作为 Reading List</title>
-        <id>157858</id>
-        <link href="https://taxodium.ink/export-elfeed-selected-entries-to-github-page-as-reading-list.html?utm_source=blogfinder" />
-        <published>2026-05-21T23:50:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[导出 Elfeed 选中条目到 GitHub Page 作为 Reading List]]></summary>
-    </entry>
-        <entry>
-        <title>如何购买 .im 域名</title>
-        <id>157800</id>
-        <link href="https://yesreho.com/how-to-buy-a-im-domain/?utm_source=blogfinder" />
-        <published>2026-05-21T23:22:43+08:00</published>
-        <author>
-            <name>LookLeap</name>
-            <uri>https://yesreho.com</uri>
-        </author>
-        <summary type="text"><![CDATA[如何购买 .im 域名]]></summary>
     </entry>
     </feed>
