@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-24T18:00:38+08:00</updated>
+    <updated>2026-05-24T19:00:49+08:00</updated>
         <entry>
         <title>好玩，大数据杀熟</title>
         <id>157982</id>
@@ -1331,38 +1331,5 @@
             <uri>https://yijile.com</uri>
         </author>
         <summary type="text"><![CDATA[使用 GitHub Desktop 推送到 GitLab 提示认证失败，原来是已经不能使用账号密码了]]></summary>
-    </entry>
-        <entry>
-        <title>抬眼相见不相识，谢谢惠顾七元整。</title>
-        <id>157789</id>
-        <link href="https://ayayy.com/17.html?utm_source=blogfinder" />
-        <published>2026-05-21T18:20:00+08:00</published>
-        <author>
-            <name>哎呀哎呀呀</name>
-            <uri>https://ayayy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[抬眼相见不相识，谢谢惠顾七元整。]]></summary>
-    </entry>
-        <entry>
-        <title>随思 #86 - 2026-05-21</title>
-        <id>157796</id>
-        <link href="http://qthinker.net/content/86?utm_source=blogfinder" />
-        <published>2026-05-21T18:07:43+08:00</published>
-        <author>
-            <name>Qthinker</name>
-            <uri>https://qthinker.net</uri>
-        </author>
-        <summary type="text"><![CDATA[随思 #86 - 2026-05-21]]></summary>
-    </entry>
-        <entry>
-        <title>不想啃骨头的流浪狗</title>
-        <id>157795</id>
-        <link href="https://www.geedea.pro/article/stray-once-again/?utm_source=blogfinder" />
-        <published>2026-05-21T18:04:23+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[不想啃骨头的流浪狗]]></summary>
     </entry>
     </feed>
