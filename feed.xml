@@ -11,7 +11,73 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-25T20:00:50+08:00</updated>
+    <updated>2026-05-26T00:02:04+08:00</updated>
+        <entry>
+        <title>Marvis 实战：用 AI 打造一个每天自动更新的天蝎座运势站</title>
+        <id>158076</id>
+        <link href="https://www.evan.xin/5002/?utm_source=blogfinder" />
+        <published>2026-05-25T23:34:49+08:00</published>
+        <author>
+            <name>Evan&#039;s Space</name>
+            <uri>https://www.evan.xin</uri>
+        </author>
+        <summary type="text"><![CDATA[Marvis 实战：用 AI 打造一个每天自动更新的天蝎座运势站]]></summary>
+    </entry>
+        <entry>
+        <title>一个月Vibe Coding：我写了什么，又学到了什么</title>
+        <id>158073</id>
+        <link href="https://www.skyue.com/26052520.html?utm_source=blogfinder" />
+        <published>2026-05-25T20:58:00+08:00</published>
+        <author>
+            <name>拾月</name>
+            <uri>https://www.skyue.com</uri>
+        </author>
+        <summary type="text"><![CDATA[一个月Vibe Coding：我写了什么，又学到了什么]]></summary>
+    </entry>
+        <entry>
+        <title>来自家长的“忠告”和“警告”</title>
+        <id>158072</id>
+        <link href="http://www.qncd.com/?p=12781&amp;utm_source=blogfinder" />
+        <published>2026-05-25T20:52:41+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[来自家长的“忠告”和“警告”]]></summary>
+    </entry>
+        <entry>
+        <title>對於自己性別的想法（2026）</title>
+        <id>158077</id>
+        <link href="https://blog.giveanornot.com/gender-2026/?utm_source=blogfinder" />
+        <published>2026-05-25T20:34:49+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[對於自己性別的想法（2026）]]></summary>
+    </entry>
+        <entry>
+        <title>工作留痕的重要性</title>
+        <id>158075</id>
+        <link href="https://ygz.ink/archives/5030.html?utm_source=blogfinder" />
+        <published>2026-05-25T18:46:59+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[工作留痕的重要性]]></summary>
+    </entry>
+        <entry>
+        <title>AI模型掺水？如何辨别真假？</title>
+        <id>158067</id>
+        <link href="https://blog.xrbk.cn/post/77.html?utm_source=blogfinder" />
+        <published>2026-05-25T18:30:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://blog.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[AI模型掺水？如何辨别真假？]]></summary>
+    </entry>
         <entry>
         <title>LongCat-Video-Avatar(视频生成框架) 1.5 安装与使用指南</title>
         <id>158062</id>
@@ -22,6 +88,28 @@
             <uri>https://renhuali.cn</uri>
         </author>
         <summary type="text"><![CDATA[LongCat-Video-Avatar(视频生成框架) 1.5 安装与使用指南]]></summary>
+    </entry>
+        <entry>
+        <title>随思 #88 - 2026-05-25</title>
+        <id>158071</id>
+        <link href="http://qthinker.net/content/88?utm_source=blogfinder" />
+        <published>2026-05-25T16:50:27+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[随思 #88 - 2026-05-25]]></summary>
+    </entry>
+        <entry>
+        <title>工具，重要的是自己觉得怎样</title>
+        <id>158068</id>
+        <link href="https://www.pgoj.top/archives/gong-ju-zi-ji-zi-you.html/?utm_source=blogfinder" />
+        <published>2026-05-25T16:32:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[工具，重要的是自己觉得怎样]]></summary>
     </entry>
         <entry>
         <title>百位数内加减法</title>
@@ -167,6 +255,17 @@
         <summary type="text"><![CDATA[鸡毛蒜皮新闻：流量时代的注意力陷阱]]></summary>
     </entry>
         <entry>
+        <title>低配服务器调优</title>
+        <id>158074</id>
+        <link href="https://blog.lhasa.icu/posts/technology/2026-05-25-low-end-server-tuning?utm_source=blogfinder" />
+        <published>2026-05-25T06:47:00+08:00</published>
+        <author>
+            <name>游钓四方的博客</name>
+            <uri>https://blog.lhasa.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[低配服务器调优]]></summary>
+    </entry>
+        <entry>
         <title>乡村颜色</title>
         <id>158044</id>
         <link href="http://etom.top/archives/so118.html?utm_source=blogfinder" />
@@ -187,6 +286,17 @@
             <uri>https://innei.in</uri>
         </author>
         <summary type="text"><![CDATA[把 AI session 沉淀成两份资产]]></summary>
+    </entry>
+        <entry>
+        <title>那些曾被珍藏的，终究论斤卖掉</title>
+        <id>158070</id>
+        <link href="https://cuixiping.com/blog/memory/pixauf?utm_source=blogfinder" />
+        <published>2026-05-25T00:00:00+08:00</published>
+        <author>
+            <name>崔话记</name>
+            <uri>https://cuixiping.com</uri>
+        </author>
+        <summary type="text"><![CDATA[那些曾被珍藏的，终究论斤卖掉]]></summary>
     </entry>
         <entry>
         <title>搞个“小纸条”增添小乐趣</title>
@@ -297,6 +407,17 @@
             <uri>https://blog.liseezn.top</uri>
         </author>
         <summary type="text"><![CDATA[Rhex论坛接入DeepSeek 踩坑实录]]></summary>
+    </entry>
+        <entry>
+        <title>最近使用vibe coding的一些感悟</title>
+        <id>158069</id>
+        <link href="https://nicksxs.me/2026/05/24/%E6%9C%80%E8%BF%91%E4%BD%BF%E7%94%A8vibe-coding%E7%9A%84%E4%B8%80%E4%BA%9B%E6%84%9F%E6%82%9F/?utm_source=blogfinder" />
+        <published>2026-05-24T21:07:23+08:00</published>
+        <author>
+            <name>Nicksxs&#039;s Blog</name>
+            <uri>https://nicksxs.me</uri>
+        </author>
+        <summary type="text"><![CDATA[最近使用vibe coding的一些感悟]]></summary>
     </entry>
         <entry>
         <title>有的杏子无人采有的杏子发外地</title>
@@ -1331,159 +1452,5 @@
             <uri>https://blog.moodlog.cn</uri>
         </author>
         <summary type="text"><![CDATA[给 blog-v3 添加一个侧边栏音乐播放器模块]]></summary>
-    </entry>
-        <entry>
-        <title>《币安人生》读后书摘</title>
-        <id>157949</id>
-        <link href="https://tumutanzi.com/archives/17609?utm_source=blogfinder" />
-        <published>2026-05-23T00:00:42+08:00</published>
-        <author>
-            <name>土木坛子</name>
-            <uri>https://tumutanzi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《币安人生》读后书摘]]></summary>
-    </entry>
-        <entry>
-        <title>傍晚跑步</title>
-        <id>157954</id>
-        <link href="https://tianheg.co/posts/evening-run/?utm_source=blogfinder" />
-        <published>2026-05-23T00:00:00+08:00</published>
-        <author>
-            <name>一大加贝</name>
-            <uri>https://tianheg.co</uri>
-        </author>
-        <summary type="text"><![CDATA[傍晚跑步]]></summary>
-    </entry>
-        <entry>
-        <title>Evening Run</title>
-        <id>157953</id>
-        <link href="https://tianheg.co/posts/evening-run-en/?utm_source=blogfinder" />
-        <published>2026-05-23T00:00:00+08:00</published>
-        <author>
-            <name>一大加贝</name>
-            <uri>https://tianheg.co</uri>
-        </author>
-        <summary type="text"><![CDATA[Evening Run]]></summary>
-    </entry>
-        <entry>
-        <title>读：Clojure 世界的 AI 代理调教术——四个改变行为的 Skill</title>
-        <id>157952</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/23/读：clojure-世界的-ai-代理调教术——四个改变行为的-skill/index.html?utm_source=blogfinder" />
-        <published>2026-05-23T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：Clojure 世界的 AI 代理调教术——四个改变行为的 Skill]]></summary>
-    </entry>
-        <entry>
-        <title>读：Amin Bandali 与 Protesilaos 谈 Emacs 内置功能的深度定制</title>
-        <id>157951</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/23/读：amin-bandali-与-protesilaos-谈-emacs-内置功能的深度定制/index.html?utm_source=blogfinder" />
-        <published>2026-05-23T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：Amin Bandali 与 Protesilaos 谈 Emacs 内置功能的深度定制]]></summary>
-    </entry>
-        <entry>
-        <title>差点又买了一台机器</title>
-        <id>157876</id>
-        <link href="https://bestcherish.com/9647.html?utm_source=blogfinder" />
-        <published>2026-05-22T23:52:31+08:00</published>
-        <author>
-            <name>灰常记忆</name>
-            <uri>https://bestcherish.com</uri>
-        </author>
-        <summary type="text"><![CDATA[差点又买了一台机器]]></summary>
-    </entry>
-        <entry>
-        <title>了解 Claude Code 的提示词工程</title>
-        <id>157897</id>
-        <link href="https://blog.devtang.com/2026/05/22/inspect-claude-code-through-ccglass/?utm_source=blogfinder" />
-        <published>2026-05-22T23:25:23+08:00</published>
-        <author>
-            <name>唐巧的博客</name>
-            <uri>https://blog.devtang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[了解 Claude Code 的提示词工程]]></summary>
-    </entry>
-        <entry>
-        <title>什么是好的用户体验</title>
-        <id>157930</id>
-        <link href="https://blog.solazy.me/20260522/?utm_source=blogfinder" />
-        <published>2026-05-22T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[什么是好的用户体验]]></summary>
-    </entry>
-        <entry>
-        <title>少年锦时-Similar to love</title>
-        <id>157886</id>
-        <link href="https://ayayy.com/Similar-to-love.html?utm_source=blogfinder" />
-        <published>2026-05-22T21:55:00+08:00</published>
-        <author>
-            <name>哎呀哎呀呀</name>
-            <uri>https://ayayy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[少年锦时-Similar to love]]></summary>
-    </entry>
-        <entry>
-        <title>好站网-首页布局优化投票｜来选你更喜欢的版本吧！</title>
-        <id>157903</id>
-        <link href="https://www.zhounote.com/article/90?utm_source=blogfinder" />
-        <published>2026-05-22T21:45:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[好站网-首页布局优化投票｜来选你更喜欢的版本吧！]]></summary>
-    </entry>
-        <entry>
-        <title>少年锦时-心之殇</title>
-        <id>157887</id>
-        <link href="https://ayayy.com/35.html?utm_source=blogfinder" />
-        <published>2026-05-22T21:32:00+08:00</published>
-        <author>
-            <name>哎呀哎呀呀</name>
-            <uri>https://ayayy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[少年锦时-心之殇]]></summary>
-    </entry>
-        <entry>
-        <title>少年锦时-世界上唯一不变的是&amp;quot;变&amp;quot;</title>
-        <id>157888</id>
-        <link href="https://ayayy.com/quot-quot.html?utm_source=blogfinder" />
-        <published>2026-05-22T21:26:00+08:00</published>
-        <author>
-            <name>哎呀哎呀呀</name>
-            <uri>https://ayayy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[少年锦时-世界上唯一不变的是&amp;quot;变&amp;quot;]]></summary>
-    </entry>
-        <entry>
-        <title>少年锦时-北林有雪</title>
-        <id>157889</id>
-        <link href="https://ayayy.com/32.html?utm_source=blogfinder" />
-        <published>2026-05-22T21:24:00+08:00</published>
-        <author>
-            <name>哎呀哎呀呀</name>
-            <uri>https://ayayy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[少年锦时-北林有雪]]></summary>
-    </entry>
-        <entry>
-        <title>少年锦时-忘川</title>
-        <id>157890</id>
-        <link href="https://ayayy.com/31.html?utm_source=blogfinder" />
-        <published>2026-05-22T21:06:00+08:00</published>
-        <author>
-            <name>哎呀哎呀呀</name>
-            <uri>https://ayayy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[少年锦时-忘川]]></summary>
     </entry>
     </feed>
