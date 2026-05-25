@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-25T17:00:40+08:00</updated>
+    <updated>2026-05-25T20:00:50+08:00</updated>
         <entry>
         <title>LongCat-Video-Avatar(视频生成框架) 1.5 安装与使用指南</title>
         <id>158062</id>
@@ -33,6 +33,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[百位数内加减法]]></summary>
+    </entry>
+        <entry>
+        <title>基于 LangGraph 构建的全功能 AI Agent 系统</title>
+        <id>158064</id>
+        <link href="https://beltxman.com/4710.html?utm_source=blogfinder" />
+        <published>2026-05-25T14:15:07+08:00</published>
+        <author>
+            <name>行星带</name>
+            <uri>https://beltxman.com</uri>
+        </author>
+        <summary type="text"><![CDATA[基于 LangGraph 构建的全功能 AI Agent 系统]]></summary>
     </entry>
         <entry>
         <title>拒绝过度解读，别把周星驰喜剧硬扯历史隐喻</title>
@@ -165,6 +176,17 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[乡村颜色]]></summary>
+    </entry>
+        <entry>
+        <title>把 AI session 沉淀成两份资产</title>
+        <id>158063</id>
+        <link href="https://innei.in/posts/tech/skill-first-blog-second-my-session-to-asset-pipeline?utm_source=blogfinder" />
+        <published>2026-05-25T00:00:09+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[把 AI session 沉淀成两份资产]]></summary>
     </entry>
         <entry>
         <title>搞个“小纸条”增添小乐趣</title>
@@ -341,6 +363,17 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[周末流水账 0524]]></summary>
+    </entry>
+        <entry>
+        <title>阿里云解析DNS免费版对单个域名限制10万次解析量，换更优平替产品</title>
+        <id>158066</id>
+        <link href="https://yijile.com/zh/alibaba-cloud-dns-resolution-limit-replacement-products/?utm_source=blogfinder" />
+        <published>2026-05-24T20:26:03+08:00</published>
+        <author>
+            <name>一极乐</name>
+            <uri>https://yijile.com</uri>
+        </author>
+        <summary type="text"><![CDATA[阿里云解析DNS免费版对单个域名限制10万次解析量，换更优平替产品]]></summary>
     </entry>
         <entry>
         <title>如何发布 Chrome Extensions 谷歌插件</title>
@@ -1452,49 +1485,5 @@
             <uri>https://ayayy.com</uri>
         </author>
         <summary type="text"><![CDATA[少年锦时-忘川]]></summary>
-    </entry>
-        <entry>
-        <title>换新 65 寸电视，性价比反差感十足！</title>
-        <id>157904</id>
-        <link href="https://www.zhounote.com/article/89?utm_source=blogfinder" />
-        <published>2026-05-22T19:30:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[换新 65 寸电视，性价比反差感十足！]]></summary>
-    </entry>
-        <entry>
-        <title>Halo 博客晚间卡顿排查记：从&quot;玄学卡顿&quot;到&quot;真凶落网&quot;</title>
-        <id>157871</id>
-        <link href="https://wuqishi.com/archives/halo-blog-evening-lag-investigation?utm_source=blogfinder" />
-        <published>2026-05-22T18:30:00+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Halo 博客晚间卡顿排查记：从&quot;玄学卡顿&quot;到&quot;真凶落网&quot;]]></summary>
-    </entry>
-        <entry>
-        <title>人情世故</title>
-        <id>157875</id>
-        <link href="https://knay.net/note/%20reflections-on-social-graces-and-gifts?utm_source=blogfinder" />
-        <published>2026-05-22T17:31:42+08:00</published>
-        <author>
-            <name>Yang&#039;s Blog</name>
-            <uri>https://knay.net</uri>
-        </author>
-        <summary type="text"><![CDATA[人情世故]]></summary>
-    </entry>
-        <entry>
-        <title>网站 SSL 证书过期，火速续上免费三月证书</title>
-        <id>157873</id>
-        <link href="https://luolt.cn/archives/SSL.html?utm_source=blogfinder" />
-        <published>2026-05-22T17:15:34+08:00</published>
-        <author>
-            <name>洛丽糖</name>
-            <uri>http://luolt.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[网站 SSL 证书过期，火速续上免费三月证书]]></summary>
     </entry>
     </feed>
