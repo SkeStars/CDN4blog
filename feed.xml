@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-28T12:00:38+08:00</updated>
+    <updated>2026-05-28T16:01:00+08:00</updated>
+        <entry>
+        <title>懂不懂规矩</title>
+        <id>158373</id>
+        <link href="https://blog.yiyou.bj.cn/archives/dong-bu-dong-gui-ju?utm_source=blogfinder" />
+        <published>2026-05-28T15:53:29+08:00</published>
+        <author>
+            <name>益友网站</name>
+            <uri>https://blog.yiyou.bj.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[懂不懂规矩]]></summary>
+    </entry>
+        <entry>
+        <title>第一次开庭的事儿</title>
+        <id>158375</id>
+        <link href="https://yishu-life.com/index.php/archives/479.html?utm_source=blogfinder" />
+        <published>2026-05-28T14:31:48+08:00</published>
+        <author>
+            <name>树下语</name>
+            <uri>https://yishu-life.com</uri>
+        </author>
+        <summary type="text"><![CDATA[第一次开庭的事儿]]></summary>
+    </entry>
+        <entry>
+        <title>博客 RSS 遭一个博客聚合平台连带封禁</title>
+        <id>158376</id>
+        <link href="https://zhouayuan.com/post/37.html?utm_source=blogfinder" />
+        <published>2026-05-28T14:20:33+08:00</published>
+        <author>
+            <name>周阿源</name>
+            <uri>https://zhouayuan.com</uri>
+        </author>
+        <summary type="text"><![CDATA[博客 RSS 遭一个博客聚合平台连带封禁]]></summary>
+    </entry>
+        <entry>
+        <title>今日设计：三款软乎乎的治愈系抱枕稿</title>
+        <id>158377</id>
+        <link href="https://zhouayuan.com/post/36.html?utm_source=blogfinder" />
+        <published>2026-05-28T13:49:21+08:00</published>
+        <author>
+            <name>周阿源</name>
+            <uri>https://zhouayuan.com</uri>
+        </author>
+        <summary type="text"><![CDATA[今日设计：三款软乎乎的治愈系抱枕稿]]></summary>
+    </entry>
+        <entry>
+        <title>十年守望，愿你仍是自己的英雄</title>
+        <id>158374</id>
+        <link href="https://www.bufanz.com/20260528625.html?utm_source=blogfinder" />
+        <published>2026-05-28T11:38:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[十年守望，愿你仍是自己的英雄]]></summary>
+    </entry>
         <entry>
         <title>深入理解CAP理论</title>
         <id>158358</id>
@@ -22,6 +77,17 @@
             <uri>https://chegva.com</uri>
         </author>
         <summary type="text"><![CDATA[深入理解CAP理论]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1676】子张《一些书一些人》</title>
+        <id>158372</id>
+        <link href="http://www.qncd.com/?p=12793&amp;utm_source=blogfinder" />
+        <published>2026-05-28T09:06:26+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1676】子张《一些书一些人》]]></summary>
     </entry>
         <entry>
         <title>在一个午夜梦回时刻的毒发</title>
@@ -132,6 +198,39 @@
             <uri>https://www.evan.xin</uri>
         </author>
         <summary type="text"><![CDATA[PIXPRO主题基础安装教程（持续更新）]]></summary>
+    </entry>
+        <entry>
+        <title>离谱的英语学习指南：基于AI的英语进阶系统方法论</title>
+        <id>158371</id>
+        <link href="http://blog.xlap.top/post/tech/2026-05-28/english-level-up-tips/?utm_source=blogfinder" />
+        <published>2026-05-28T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[离谱的英语学习指南：基于AI的英语进阶系统方法论]]></summary>
+    </entry>
+        <entry>
+        <title>iii：零集成架构的后端统一运行时</title>
+        <id>158370</id>
+        <link href="http://blog.xlap.top/post/tech/2026-05-28/iii/?utm_source=blogfinder" />
+        <published>2026-05-28T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[iii：零集成架构的后端统一运行时]]></summary>
+    </entry>
+        <entry>
+        <title>Claude Code Harness：让 Claude Code 工作有迹可循的工程化框架</title>
+        <id>158369</id>
+        <link href="http://blog.xlap.top/post/tech/2026-05-28/claude-code-harness/?utm_source=blogfinder" />
+        <published>2026-05-28T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Claude Code Harness：让 Claude Code 工作有迹可循的工程化框架]]></summary>
     </entry>
         <entry>
         <title>Heretic：全自动移除大语言模型审查机制的开源工具</title>
@@ -1485,27 +1584,5 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[工具，重要的是自己觉得怎样]]></summary>
-    </entry>
-        <entry>
-        <title>百位数内加减法</title>
-        <id>158057</id>
-        <link href="https://mobius.blog/24359.html?utm_source=blogfinder" />
-        <published>2026-05-25T14:55:00+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[百位数内加减法]]></summary>
-    </entry>
-        <entry>
-        <title>基于 LangGraph 构建的全功能 AI Agent 系统</title>
-        <id>158064</id>
-        <link href="https://beltxman.com/4710.html?utm_source=blogfinder" />
-        <published>2026-05-25T14:15:07+08:00</published>
-        <author>
-            <name>行星带</name>
-            <uri>https://beltxman.com</uri>
-        </author>
-        <summary type="text"><![CDATA[基于 LangGraph 构建的全功能 AI Agent 系统]]></summary>
     </entry>
     </feed>
