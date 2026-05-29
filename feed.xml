@@ -11,7 +11,73 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-29T20:00:47+08:00</updated>
+    <updated>2026-05-30T00:00:17+08:00</updated>
+        <entry>
+        <title>看到好多熟面孔</title>
+        <id>158479</id>
+        <link href="http://etom.top/archives/so126.html?utm_source=blogfinder" />
+        <published>2026-05-29T23:45:04+08:00</published>
+        <author>
+            <name>浮生事</name>
+            <uri>http://etom.top</uri>
+        </author>
+        <summary type="text"><![CDATA[看到好多熟面孔]]></summary>
+    </entry>
+        <entry>
+        <title>从零开始配置 Crontab</title>
+        <id>158472</id>
+        <link href="https://meledee.com/2026/05/4810.html?utm_source=blogfinder" />
+        <published>2026-05-29T22:51:20+08:00</published>
+        <author>
+            <name>美樂地</name>
+            <uri>https://meledee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[从零开始配置 Crontab]]></summary>
+    </entry>
+        <entry>
+        <title>博客撰写体验提升——hexo pro插件</title>
+        <id>158481</id>
+        <link href="https://blog.flechazo.icu/2026/05/29/%E5%8D%9A%E5%AE%A2%E6%92%B0%E5%86%99%E4%BD%93%E9%AA%8C%E6%8F%90%E5%8D%87%E2%80%94%E2%80%94hexo%20pro%E6%8F%92%E4%BB%B6/?utm_source=blogfinder" />
+        <published>2026-05-29T21:28:24+08:00</published>
+        <author>
+            <name>妄司逸</name>
+            <uri>https://blog.flechazo.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[博客撰写体验提升——hexo pro插件]]></summary>
+    </entry>
+        <entry>
+        <title>Golang 手写一个 Channel</title>
+        <id>158480</id>
+        <link href="https://www.bytecho.net/archives/golang_mychannel.html?utm_source=blogfinder" />
+        <published>2026-05-29T21:16:53+08:00</published>
+        <author>
+            <name>字节星球</name>
+            <uri>https://www.bytecho.net</uri>
+        </author>
+        <summary type="text"><![CDATA[Golang 手写一个 Channel]]></summary>
+    </entry>
+        <entry>
+        <title>放假了按摩放松下</title>
+        <id>158473</id>
+        <link href="https://ygz.ink/archives/5071.html?utm_source=blogfinder" />
+        <published>2026-05-29T20:51:05+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[放假了按摩放松下]]></summary>
+    </entry>
+        <entry>
+        <title>雪豹速清app</title>
+        <id>158478</id>
+        <link href="https://luolt.cn/archives/app.html?utm_source=blogfinder" />
+        <published>2026-05-29T20:06:00+08:00</published>
+        <author>
+            <name>洛丽糖</name>
+            <uri>http://luolt.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[雪豹速清app]]></summary>
+    </entry>
         <entry>
         <title>何为生活内容？聊聊独立博客的内容边界</title>
         <id>158467</id>
@@ -22,6 +88,28 @@
             <uri>https://www.zhounote.com</uri>
         </author>
         <summary type="text"><![CDATA[何为生活内容？聊聊独立博客的内容边界]]></summary>
+    </entry>
+        <entry>
+        <title>Lesson 26 暴涨</title>
+        <id>158470</id>
+        <link href="https://physnya.top/GR/lesson-25-inflation/?utm_source=blogfinder" />
+        <published>2026-05-29T16:43:43+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 26 暴涨]]></summary>
+    </entry>
+        <entry>
+        <title>是非对错面前多些谦虚谨慎没亏吃</title>
+        <id>158469</id>
+        <link href="https://www.pgoj.top/archives/shi-fei-dui-cuo.html/?utm_source=blogfinder" />
+        <published>2026-05-29T16:28:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[是非对错面前多些谦虚谨慎没亏吃]]></summary>
     </entry>
         <entry>
         <title>回到现在</title>
@@ -55,6 +143,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[摄影与光]]></summary>
+    </entry>
+        <entry>
+        <title>为什么不用相机把屏幕上的接关密码拍下来？</title>
+        <id>158474</id>
+        <link href="https://pewae.com/2026/05/why-not-use-a-camera-to-take-a-photo-of-the-password-on-the-tv-screen.html?utm_source=blogfinder" />
+        <published>2026-05-29T12:14:05+08:00</published>
+        <author>
+            <name>破袜子</name>
+            <uri>https://pewae.com</uri>
+        </author>
+        <summary type="text"><![CDATA[为什么不用相机把屏幕上的接关密码拍下来？]]></summary>
     </entry>
         <entry>
         <title>与1500元的奖学金失之交臂</title>
@@ -99,6 +198,17 @@
             <uri>https://zhouayuan.com</uri>
         </author>
         <summary type="text"><![CDATA[后续更新：RSS 已解封，官方回应为操作误勾选]]></summary>
+    </entry>
+        <entry>
+        <title>从夯到拉聊聊那些中文博客聚合网站</title>
+        <id>158468</id>
+        <link href="https://www.suiyan.cc/blog/20260529100000?utm_source=blogfinder" />
+        <published>2026-05-29T10:00:00+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[从夯到拉聊聊那些中文博客聚合网站]]></summary>
     </entry>
         <entry>
         <title>寄思念于印记，伴岁月以余生</title>
@@ -187,6 +297,17 @@
             <uri>https://www.jfsay.com</uri>
         </author>
         <summary type="text"><![CDATA[帽子钩织法（1）：套头帽（冰条线）]]></summary>
+    </entry>
+        <entry>
+        <title>安好</title>
+        <id>158471</id>
+        <link href="https://www.chenrui.com/post/3494.html?utm_source=blogfinder" />
+        <published>2026-05-29T07:01:06+08:00</published>
+        <author>
+            <name>不可</name>
+            <uri>https://www.chenrui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[安好]]></summary>
     </entry>
         <entry>
         <title>学习周刊-总第265期-2026年第22周</title>
@@ -737,6 +858,28 @@
             <uri>https://anotherdayu.com</uri>
         </author>
         <summary type="text"><![CDATA[熟悉一个城市]]></summary>
+    </entry>
+        <entry>
+        <title>2026-05-28T00:34:11+08:00</title>
+        <id>158475</id>
+        <link href="https://www.sanji.one/moments/20260528-0034/?utm_source=blogfinder" />
+        <published>2026-05-28T00:34:11+08:00</published>
+        <author>
+            <name>时光散记</name>
+            <uri>https://www.sanji.one</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-05-28T00:34:11+08:00]]></summary>
+    </entry>
+        <entry>
+        <title>2026-05-28T00:28:45+08:00</title>
+        <id>158476</id>
+        <link href="https://www.sanji.one/moments/20260528-0028/?utm_source=blogfinder" />
+        <published>2026-05-28T00:28:45+08:00</published>
+        <author>
+            <name>时光散记</name>
+            <uri>https://www.sanji.one</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-05-28T00:28:45+08:00]]></summary>
     </entry>
         <entry>
         <title>PIXPRO主题基础安装教程（持续更新）</title>
@@ -1386,203 +1529,5 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[水墨天空]]></summary>
-    </entry>
-        <entry>
-        <title>ZOZO开源物理接触求解器：GPU加速的可扩展仿真引擎</title>
-        <id>158320</id>
-        <link href="http://blog.xlap.top/post/tech/2026-05-27/ppf-contact-solver/?utm_source=blogfinder" />
-        <published>2026-05-27T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[ZOZO开源物理接触求解器：GPU加速的可扩展仿真引擎]]></summary>
-    </entry>
-        <entry>
-        <title>OpenStock：开源股票市场交易平台技术深度解析</title>
-        <id>158319</id>
-        <link href="http://blog.xlap.top/post/tech/2026-05-27/openstock/?utm_source=blogfinder" />
-        <published>2026-05-27T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenStock：开源股票市场交易平台技术深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>MoneyPrinterTurbo：基于AI的全自动短视频生成工具深度解析</title>
-        <id>158318</id>
-        <link href="http://blog.xlap.top/post/tech/2026-05-27/moneyprinterturbo/?utm_source=blogfinder" />
-        <published>2026-05-27T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[MoneyPrinterTurbo：基于AI的全自动短视频生成工具深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>Claude-Mem：为 Claude Code 构建的持久化记忆压缩系统</title>
-        <id>158317</id>
-        <link href="http://blog.xlap.top/post/tech/2026-05-27/claude-mem/?utm_source=blogfinder" />
-        <published>2026-05-27T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude-Mem：为 Claude Code 构建的持久化记忆压缩系统]]></summary>
-    </entry>
-        <entry>
-        <title>读：一个人的行为能改变一个团队吗</title>
-        <id>158310</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/26/读：一个人的行为能改变一个团队吗/index.html?utm_source=blogfinder" />
-        <published>2026-05-27T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：一个人的行为能改变一个团队吗]]></summary>
-    </entry>
-        <entry>
-        <title>读：Not All Interruptions Are Created Equal——不是所有打扰都一样</title>
-        <id>158309</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/26/读：not-all-interruptions-are-created-equal——不是所有打扰都一样/index.html?utm_source=blogfinder" />
-        <published>2026-05-27T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：Not All Interruptions Are Created Equal——不是所有打扰都一样]]></summary>
-    </entry>
-        <entry>
-        <title>Twenty：可代码化定制的企业级开源 CRM 平台技术深度解析</title>
-        <id>158246</id>
-        <link href="http://blog.xlap.top/post/tech/2026-05-27/twenty/?utm_source=blogfinder" />
-        <published>2026-05-27T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Twenty：可代码化定制的企业级开源 CRM 平台技术深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>涅槃重生，重返荣耀？</title>
-        <id>158266</id>
-        <link href="https://www.wanghao.me/niepanzhongshengzhongfanrongyao.html?utm_source=blogfinder" />
-        <published>2026-05-26T23:43:40+08:00</published>
-        <author>
-            <name>小王子</name>
-            <uri>https://www.wanghao.me</uri>
-        </author>
-        <summary type="text"><![CDATA[涅槃重生，重返荣耀？]]></summary>
-    </entry>
-        <entry>
-        <title>社会化训练是必要的吗</title>
-        <id>158307</id>
-        <link href="https://blog.solazy.me/20260526/?utm_source=blogfinder" />
-        <published>2026-05-26T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[社会化训练是必要的吗]]></summary>
-    </entry>
-        <entry>
-        <title>2026-05-26T22:59:17+08:00</title>
-        <id>158304</id>
-        <link href="https://www.sanji.one/moments/20260526-2259/?utm_source=blogfinder" />
-        <published>2026-05-26T22:59:17+08:00</published>
-        <author>
-            <name>时光散记</name>
-            <uri>https://www.sanji.one</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-05-26T22:59:17+08:00]]></summary>
-    </entry>
-        <entry>
-        <title>企业级开源大模型部署平台 GPUStack 实战教程</title>
-        <id>158217</id>
-        <link href="https://www.51it.wang/ll/GPUStack?utm_source=blogfinder" />
-        <published>2026-05-26T22:17:00+08:00</published>
-        <author>
-            <name>Lcry</name>
-            <uri>https://www.51it.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[企业级开源大模型部署平台 GPUStack 实战教程]]></summary>
-    </entry>
-        <entry>
-        <title>在Zeabur部署Rhex现代论坛</title>
-        <id>158221</id>
-        <link href="https://blog.liseezn.top/727.html/?utm_source=blogfinder" />
-        <published>2026-05-26T21:46:20+08:00</published>
-        <author>
-            <name>Liseezn&#039;blog</name>
-            <uri>https://blog.liseezn.top</uri>
-        </author>
-        <summary type="text"><![CDATA[在Zeabur部署Rhex现代论坛]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 13 亲代抚育 (parental care)</title>
-        <id>158267</id>
-        <link href="https://physnya.top/animal-behavior/lesson-13-parental-care/?utm_source=blogfinder" />
-        <published>2026-05-26T21:03:31+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 13 亲代抚育 (parental care)]]></summary>
-    </entry>
-        <entry>
-        <title>小恐龙环线 - 穹窿山</title>
-        <id>158220</id>
-        <link href="https://hi.jeray.wang/L/216.html?utm_source=blogfinder" />
-        <published>2026-05-26T21:00:00+08:00</published>
-        <author>
-            <name>Jeray 大叔</name>
-            <uri>https://hi.jeray.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[小恐龙环线 - 穹窿山]]></summary>
-    </entry>
-        <entry>
-        <title>26春学12周杂记</title>
-        <id>158214</id>
-        <link href="https://nxxy335.top/archives/8SGWMxiT?utm_source=blogfinder" />
-        <published>2026-05-26T20:58:37+08:00</published>
-        <author>
-            <name>暖心向阳</name>
-            <uri>https://nxxy335.top</uri>
-        </author>
-        <summary type="text"><![CDATA[26春学12周杂记]]></summary>
-    </entry>
-        <entry>
-        <title>内蒙古研学记录</title>
-        <id>158213</id>
-        <link href="https://blog.tsoo.net/archives/nei-meng-gu-yan-xue-ji-lu?utm_source=blogfinder" />
-        <published>2026-05-26T20:46:44+08:00</published>
-        <author>
-            <name>bbb-lsy07</name>
-            <uri>https://blog.tsoo.net</uri>
-        </author>
-        <summary type="text"><![CDATA[内蒙古研学记录]]></summary>
-    </entry>
-        <entry>
-        <title>水渠与水，制度与人性</title>
-        <id>158257</id>
-        <link href="https://www.pgoj.top/archives/zhi-du-ren-xing.html/?utm_source=blogfinder" />
-        <published>2026-05-26T20:35:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[水渠与水，制度与人性]]></summary>
-    </entry>
-        <entry>
-        <title>小加油站便宜</title>
-        <id>158212</id>
-        <link href="https://hjyl.org/small-gas-station/?utm_source=blogfinder" />
-        <published>2026-05-26T20:24:53+08:00</published>
-        <author>
-            <name>皇家元林</name>
-            <uri>https://hjyl.org</uri>
-        </author>
-        <summary type="text"><![CDATA[小加油站便宜]]></summary>
     </entry>
     </feed>
