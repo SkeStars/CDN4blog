@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-29T16:00:58+08:00</updated>
+    <updated>2026-05-29T20:00:47+08:00</updated>
+        <entry>
+        <title>何为生活内容？聊聊独立博客的内容边界</title>
+        <id>158467</id>
+        <link href="https://www.zhounote.com/article/101?utm_source=blogfinder" />
+        <published>2026-05-29T17:48:00+08:00</published>
+        <author>
+            <name>Zhou’s Notes</name>
+            <uri>https://www.zhounote.com</uri>
+        </author>
+        <summary type="text"><![CDATA[何为生活内容？聊聊独立博客的内容边界]]></summary>
+    </entry>
         <entry>
         <title>回到现在</title>
         <id>158451</id>
@@ -66,6 +77,17 @@
             <uri>https://zhouayuan.com</uri>
         </author>
         <summary type="text"><![CDATA[今日设计：给被窝添点软乎乎的小伙伴✨]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1677】大仲马《基督山伯爵》</title>
+        <id>158463</id>
+        <link href="http://www.qncd.com/?p=12797&amp;utm_source=blogfinder" />
+        <published>2026-05-29T10:05:57+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1677】大仲马《基督山伯爵》]]></summary>
     </entry>
         <entry>
         <title>后续更新：RSS 已解封，官方回应为操作误勾选</title>
@@ -156,6 +178,17 @@
         <summary type="text"><![CDATA[AI时代的创作重构：从信息处理到认知协作]]></summary>
     </entry>
         <entry>
+        <title>帽子钩织法（1）：套头帽（冰条线）</title>
+        <id>158464</id>
+        <link href="https://www.jfsay.com/archives/3935.html?utm_source=blogfinder" />
+        <published>2026-05-29T07:36:00+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[帽子钩织法（1）：套头帽（冰条线）]]></summary>
+    </entry>
+        <entry>
         <title>学习周刊-总第265期-2026年第22周</title>
         <id>158423</id>
         <link href="https://wiki.eryajf.net/pages/ff83a5/?utm_source=blogfinder" />
@@ -176,6 +209,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[Compound Engineering Plugin：让每个工程单元都比上一个更容易]]></summary>
+    </entry>
+        <entry>
+        <title>研究一下自动填充评论信息</title>
+        <id>158465</id>
+        <link href="https://blog.s17.cn/post/15.html?utm_source=blogfinder" />
+        <published>2026-05-29T03:40:00+08:00</published>
+        <author>
+            <name>拾柒</name>
+            <uri>https://blog.s17.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[研究一下自动填充评论信息]]></summary>
     </entry>
         <entry>
         <title>MOSS-TTS Family：开源高质量语音与声音生成模型家族深度解析</title>
@@ -286,6 +330,17 @@
             <uri>https://renhuali.cn</uri>
         </author>
         <summary type="text"><![CDATA[还有哪些老登还在追漫剧]]></summary>
+    </entry>
+        <entry>
+        <title>简单讲讲 ASN.1 与 OID</title>
+        <id>158466</id>
+        <link href="https://blog.liuzhen932.top/posts/asn1-oid-introduction/?utm_source=blogfinder" />
+        <published>2026-05-28T22:36:33+08:00</published>
+        <author>
+            <name>liuzhen932 的小窝</name>
+            <uri>https://blog.liuzhen932.top</uri>
+        </author>
+        <summary type="text"><![CDATA[简单讲讲 ASN.1 与 OID]]></summary>
     </entry>
         <entry>
         <title>在纷杂的世界里保持专注</title>
@@ -1529,104 +1584,5 @@
             <uri>https://hjyl.org</uri>
         </author>
         <summary type="text"><![CDATA[小加油站便宜]]></summary>
-    </entry>
-        <entry>
-        <title>蠢蠢欲动的AI</title>
-        <id>158223</id>
-        <link href="https://ficor.net/archives/44?utm_source=blogfinder" />
-        <published>2026-05-26T19:34:00+08:00</published>
-        <author>
-            <name>荒野菲克</name>
-            <uri>https://ficor.net</uri>
-        </author>
-        <summary type="text"><![CDATA[蠢蠢欲动的AI]]></summary>
-    </entry>
-        <entry>
-        <title>1年的去月球</title>
-        <id>158218</id>
-        <link href="https://blog.mcenahle.org.cn/2026/05/26/451.html?utm_source=blogfinder" />
-        <published>2026-05-26T19:15:07+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[1年的去月球]]></summary>
-    </entry>
-        <entry>
-        <title>新玩具-Sevalla 静态网站托管服务</title>
-        <id>158216</id>
-        <link href="http://www.tucong.vip/archives/xin-wan-ju-sevalla-jing-tai-wang-zhan-tuo-guan-fu-wu?utm_source=blogfinder" />
-        <published>2026-05-26T18:08:09+08:00</published>
-        <author>
-            <name>Tea Bush</name>
-            <uri>https://www.tucong.vip</uri>
-        </author>
-        <summary type="text"><![CDATA[新玩具-Sevalla 静态网站托管服务]]></summary>
-    </entry>
-        <entry>
-        <title>如何安装 Claude Code 并用 cc-switch 配置国内大模型</title>
-        <id>158242</id>
-        <link href="https://blog.kayro.cn/posts/54cd2e3?utm_source=blogfinder" />
-        <published>2026-05-26T18:06:21+08:00</published>
-        <author>
-            <name>敖苛记</name>
-            <uri>https://blog.kayro.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[如何安装 Claude Code 并用 cc-switch 配置国内大模型]]></summary>
-    </entry>
-        <entry>
-        <title>Typecho-Riven主题功能演示</title>
-        <id>158361</id>
-        <link href="https://zhoutian.com/381.html?utm_source=blogfinder" />
-        <published>2026-05-26T17:38:00+08:00</published>
-        <author>
-            <name>周天记</name>
-            <uri>https://zhoutian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Typecho-Riven主题功能演示]]></summary>
-    </entry>
-        <entry>
-        <title>不用翻墙、不用注册、不用月费，普通人也能用上 Claude Code</title>
-        <id>158250</id>
-        <link href="https://hejunjie.life/blog/d9d821wf?utm_source=blogfinder" />
-        <published>2026-05-26T17:13:57+08:00</published>
-        <author>
-            <name>星河避难所</name>
-            <uri>https://hejunjie.life</uri>
-        </author>
-        <summary type="text"><![CDATA[不用翻墙、不用注册、不用月费，普通人也能用上 Claude Code]]></summary>
-    </entry>
-        <entry>
-        <title>PIXPRO主题安装教程：XLoader PHP扩展的安装与配置</title>
-        <id>158222</id>
-        <link href="https://www.evan.xin/5005/?utm_source=blogfinder" />
-        <published>2026-05-26T16:57:19+08:00</published>
-        <author>
-            <name>Evan&#039;s Space</name>
-            <uri>https://www.evan.xin</uri>
-        </author>
-        <summary type="text"><![CDATA[PIXPRO主题安装教程：XLoader PHP扩展的安装与配置]]></summary>
-    </entry>
-        <entry>
-        <title>装修灯具要注意⚠️</title>
-        <id>158215</id>
-        <link href="https://blog.lichenghao.cn/article/t0eds9ba8nx5?utm_source=blogfinder" />
-        <published>2026-05-26T16:50:34+08:00</published>
-        <author>
-            <name>故事的程序猿</name>
-            <uri>https://blog.lichenghao.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[装修灯具要注意⚠️]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 25 原初核合成 &amp; CMB</title>
-        <id>158210</id>
-        <link href="https://physnya.top/GR/lesson-24-bbn-and-cmb/?utm_source=blogfinder" />
-        <published>2026-05-26T16:35:06+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 25 原初核合成 &amp; CMB]]></summary>
     </entry>
     </feed>
