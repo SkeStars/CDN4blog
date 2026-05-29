@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-29T12:00:54+08:00</updated>
+    <updated>2026-05-29T16:00:58+08:00</updated>
+        <entry>
+        <title>回到现在</title>
+        <id>158451</id>
+        <link href="https://mobius.blog/24499.html?utm_source=blogfinder" />
+        <published>2026-05-29T14:58:47+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[回到现在]]></summary>
+    </entry>
+        <entry>
+        <title>二十年，一行代码一寸心</title>
+        <id>158461</id>
+        <link href="https://zhujay.com/blog/blog_detail.html?id=1231&amp;utm_source=blogfinder" />
+        <published>2026-05-29T13:34:27+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[二十年，一行代码一寸心]]></summary>
+    </entry>
+        <entry>
+        <title>摄影与光</title>
+        <id>158449</id>
+        <link href="https://ygz.ink/archives/5066.html?utm_source=blogfinder" />
+        <published>2026-05-29T12:16:36+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[摄影与光]]></summary>
+    </entry>
         <entry>
         <title>与1500元的奖学金失之交臂</title>
         <id>158434</id>
@@ -57,6 +90,17 @@
         <summary type="text"><![CDATA[寄思念于印记，伴岁月以余生]]></summary>
     </entry>
         <entry>
+        <title>删除右键“打开方式”里多余选项</title>
+        <id>158462</id>
+        <link href="https://www.gujishe.com/archives/62.html?utm_source=blogfinder" />
+        <published>2026-05-29T09:12:00+08:00</published>
+        <author>
+            <name>咕唧舍</name>
+            <uri>https://www.gujishe.com</uri>
+        </author>
+        <summary type="text"><![CDATA[删除右键“打开方式”里多余选项]]></summary>
+    </entry>
+        <entry>
         <title>一时兴起 用AI汉化了一个在线 多轨音频编辑器</title>
         <id>158446</id>
         <link href="https://www.renhuali.cn/journal/cmpq7vmv7001gchiqpl8kdb15?utm_source=blogfinder" />
@@ -77,6 +121,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[人为什么总在切换赛道？]]></summary>
+    </entry>
+        <entry>
+        <title>科技爱好者周刊（第 398 期）：Token 费用难以负担</title>
+        <id>158450</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html?utm_source=blogfinder" />
+        <published>2026-05-29T08:08:39+08:00</published>
+        <author>
+            <name>阮一峰的网络日志</name>
+            <uri>http://www.ruanyifeng.com/blog</uri>
+        </author>
+        <summary type="text"><![CDATA[科技爱好者周刊（第 398 期）：Token 费用难以负担]]></summary>
     </entry>
         <entry>
         <title>AI 感想杂谈</title>
@@ -110,6 +165,61 @@
             <uri>https://wiki.eryajf.net</uri>
         </author>
         <summary type="text"><![CDATA[学习周刊-总第265期-2026年第22周]]></summary>
+    </entry>
+        <entry>
+        <title>Compound Engineering Plugin：让每个工程单元都比上一个更容易</title>
+        <id>158453</id>
+        <link href="http://blog.xlap.top/post/tech/2026-05-29/compound-engineering-plugin/?utm_source=blogfinder" />
+        <published>2026-05-29T06:01:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Compound Engineering Plugin：让每个工程单元都比上一个更容易]]></summary>
+    </entry>
+        <entry>
+        <title>MOSS-TTS Family：开源高质量语音与声音生成模型家族深度解析</title>
+        <id>158457</id>
+        <link href="http://blog.xlap.top/post/tech/2026-05-29/moss-tts/?utm_source=blogfinder" />
+        <published>2026-05-29T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[MOSS-TTS Family：开源高质量语音与声音生成模型家族深度解析]]></summary>
+    </entry>
+        <entry>
+        <title>Crawl4AI：专为 LLM 设计的开源 Web 爬虫与数据抓取工具</title>
+        <id>158456</id>
+        <link href="http://blog.xlap.top/post/tech/2026-05-29/crawl4ai/?utm_source=blogfinder" />
+        <published>2026-05-29T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Crawl4AI：专为 LLM 设计的开源 Web 爬虫与数据抓取工具]]></summary>
+    </entry>
+        <entry>
+        <title>Build Your Own X：从零实现你最喜欢的技术——程序员进阶的终极资源清单</title>
+        <id>158455</id>
+        <link href="http://blog.xlap.top/post/tech/2026-05-29/build-your-own-x/?utm_source=blogfinder" />
+        <published>2026-05-29T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Build Your Own X：从零实现你最喜欢的技术——程序员进阶的终极资源清单]]></summary>
+    </entry>
+        <entry>
+        <title>Anthropic Skills：用文件夹教 Claude 专业技能的开源框架</title>
+        <id>158454</id>
+        <link href="http://blog.xlap.top/post/tech/2026-05-29/skills/?utm_source=blogfinder" />
+        <published>2026-05-29T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Anthropic Skills：用文件夹教 Claude 专业技能的开源框架]]></summary>
     </entry>
         <entry>
         <title>python的对象增强</title>
@@ -154,6 +264,17 @@
             <uri>https://blog.mcenahle.org.cn</uri>
         </author>
         <summary type="text"><![CDATA[1年的去月球（下）]]></summary>
+    </entry>
+        <entry>
+        <title>松声｜廿六年·五月行·小商桥</title>
+        <id>158452</id>
+        <link href="https://xyzbz.cn/archives/1543/?utm_source=blogfinder" />
+        <published>2026-05-28T22:47:00+08:00</published>
+        <author>
+            <name>网友小宋</name>
+            <uri>https://xyzbz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[松声｜廿六年·五月行·小商桥]]></summary>
     </entry>
         <entry>
         <title>还有哪些老登还在追漫剧</title>
@@ -209,6 +330,17 @@
             <uri>https://www.tucong.vip</uri>
         </author>
         <summary type="text"><![CDATA[DTV - 直播聚合客户端]]></summary>
+    </entry>
+        <entry>
+        <title>★★★★☆《挽救计划》——久违的经济上行感</title>
+        <id>158460</id>
+        <link href="https://www.david03.top/index.php/archives/451/?utm_source=blogfinder" />
+        <published>2026-05-28T16:59:00+08:00</published>
+        <author>
+            <name>David の 3 号基地</name>
+            <uri>https://www.david03.top</uri>
+        </author>
+        <summary type="text"><![CDATA[★★★★☆《挽救计划》——久违的经济上行感]]></summary>
     </entry>
         <entry>
         <title>5.22-5.27</title>
@@ -561,6 +693,28 @@
             <uri>https://www.evan.xin</uri>
         </author>
         <summary type="text"><![CDATA[PIXPRO主题基础安装教程（持续更新）]]></summary>
+    </entry>
+        <entry>
+        <title>MarkItDown：微软开源的万能文档转 Markdown 利器</title>
+        <id>158459</id>
+        <link href="http://blog.xlap.top/post/tech/2026-05-28/markitdown/?utm_source=blogfinder" />
+        <published>2026-05-28T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[MarkItDown：微软开源的万能文档转 Markdown 利器]]></summary>
+    </entry>
+        <entry>
+        <title>Harness：让 Claude Code 秒变多智能体协作工厂</title>
+        <id>158458</id>
+        <link href="http://blog.xlap.top/post/tech/2026-05-28/harness/?utm_source=blogfinder" />
+        <published>2026-05-28T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Harness：让 Claude Code 秒变多智能体协作工厂]]></summary>
     </entry>
         <entry>
         <title>读：教科书二分搜索能被超越——SIMD 与四叉搜索的启示</title>
@@ -1474,93 +1628,5 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 25 原初核合成 &amp; CMB]]></summary>
-    </entry>
-        <entry>
-        <title>独立网卡</title>
-        <id>158209</id>
-        <link href="https://ltmltm.cn/bk/1462.html?utm_source=blogfinder" />
-        <published>2026-05-26T15:59:00+08:00</published>
-        <author>
-            <name>因为很想念</name>
-            <uri>https://ltmltm.cn/bk</uri>
-        </author>
-        <summary type="text"><![CDATA[独立网卡]]></summary>
-    </entry>
-        <entry>
-        <title>黄梅天先锋</title>
-        <id>158201</id>
-        <link href="https://www.lindongfang.top/archives/2687/?utm_source=blogfinder" />
-        <published>2026-05-26T15:33:47+08:00</published>
-        <author>
-            <name>游子微博</name>
-            <uri>https://www.lindongfang.top</uri>
-        </author>
-        <summary type="text"><![CDATA[黄梅天先锋]]></summary>
-    </entry>
-        <entry>
-        <title>2026.5.25</title>
-        <id>158202</id>
-        <link href="https://www.justzht.com/2026-5-25/?utm_source=blogfinder" />
-        <published>2026-05-26T15:19:39+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.5.25]]></summary>
-    </entry>
-        <entry>
-        <title>情感赛道写作模板</title>
-        <id>158207</id>
-        <link href="https://zhoutian.com/356.html?utm_source=blogfinder" />
-        <published>2026-05-26T14:34:25+08:00</published>
-        <author>
-            <name>周天记</name>
-            <uri>https://zhoutian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[情感赛道写作模板]]></summary>
-    </entry>
-        <entry>
-        <title>一款简约易用的防御插件SafeMange</title>
-        <id>158208</id>
-        <link href="https://zhoutian.com/375.html?utm_source=blogfinder" />
-        <published>2026-05-26T14:16:00+08:00</published>
-        <author>
-            <name>周天记</name>
-            <uri>https://zhoutian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[一款简约易用的防御插件SafeMange]]></summary>
-    </entry>
-        <entry>
-        <title>EdgeOne 日志分析软件 v2.0</title>
-        <id>158211</id>
-        <link href="https://jyblog.cn/5651/?utm_source=blogfinder" />
-        <published>2026-05-26T13:49:05+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[EdgeOne 日志分析软件 v2.0]]></summary>
-    </entry>
-        <entry>
-        <title>分享一下我现在都在使用哪些AI工具，以及我的的AI生产力状况</title>
-        <id>158199</id>
-        <link href="https://blog.zhheo.com/p/ug37qbz9.html?utm_source=blogfinder" />
-        <published>2026-05-26T13:18:37+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[分享一下我现在都在使用哪些AI工具，以及我的的AI生产力状况]]></summary>
-    </entry>
-        <entry>
-        <title>公安备案顺利办结，站点备案全部完成</title>
-        <id>158342</id>
-        <link href="https://zhouayuan.com/post/32.html?utm_source=blogfinder" />
-        <published>2026-05-26T12:48:18+08:00</published>
-        <author>
-            <name>周阿源</name>
-            <uri>https://zhouayuan.com</uri>
-        </author>
-        <summary type="text"><![CDATA[公安备案顺利办结，站点备案全部完成]]></summary>
     </entry>
     </feed>
