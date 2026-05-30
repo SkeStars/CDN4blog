@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-30T23:00:44+08:00</updated>
+    <updated>2026-05-31T00:00:44+08:00</updated>
+        <entry>
+        <title>【也闲谈·第四季】十三：稳健而完整地看待生活</title>
+        <id>158564</id>
+        <link href="http://www.qncd.com/?p=12806&amp;utm_source=blogfinder" />
+        <published>2026-05-30T22:14:29+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【也闲谈·第四季】十三：稳健而完整地看待生活]]></summary>
+    </entry>
         <entry>
         <title>朋友因故无法继续养鸟，两只小鹦鹉投奔我家，海陆空齐了！</title>
         <id>158560</id>
@@ -99,6 +110,17 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[中间继电器怎么看线圈电压，绿色和红色指示灯的区别]]></summary>
+    </entry>
+        <entry>
+        <title>EdgeOne 实时日志接收器</title>
+        <id>158565</id>
+        <link href="https://jyblog.cn/5674/?utm_source=blogfinder" />
+        <published>2026-05-30T14:03:03+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[EdgeOne 实时日志接收器]]></summary>
     </entry>
         <entry>
         <title>修复了一些bug,网站基本上趋于稳定了</title>
@@ -288,6 +310,17 @@
         <summary type="text"><![CDATA[冲绳跨年]]></summary>
     </entry>
         <entry>
+        <title>Herald（鸦使）：把验证码和通知，送到该送的人手里</title>
+        <id>158562</id>
+        <link href="https://soulteary.com/2026/05/30/herald-lightweight-otp-and-verification-code-delivery-service.html?utm_source=blogfinder" />
+        <published>2026-05-30T04:43:00+08:00</published>
+        <author>
+            <name>苏洋博客</name>
+            <uri>https://soulteary.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Herald（鸦使）：把验证码和通知，送到该送的人手里]]></summary>
+    </entry>
+        <entry>
         <title>05/18-05/24 Timetable</title>
         <id>158542</id>
         <link href="https://nocoding.life/archives/8CH97NNz?utm_source=blogfinder" />
@@ -297,6 +330,28 @@
             <uri>https://nocoding.life</uri>
         </author>
         <summary type="text"><![CDATA[05/18-05/24 Timetable]]></summary>
+    </entry>
+        <entry>
+        <title>Warden（守望者）：从共享口令，到一份可维护的准入名册</title>
+        <id>158563</id>
+        <link href="https://soulteary.com/2026/05/30/warden-maintainable-access-roster-from-shared-password.html?utm_source=blogfinder" />
+        <published>2026-05-30T02:28:00+08:00</published>
+        <author>
+            <name>苏洋博客</name>
+            <uri>https://soulteary.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Warden（守望者）：从共享口令，到一份可维护的准入名册]]></summary>
+    </entry>
+        <entry>
+        <title>我到底该不该换个域名？</title>
+        <id>158566</id>
+        <link href="https://blog.pursuitus.com/should-i-change-domain-name.html?utm_source=blogfinder" />
+        <published>2026-05-30T01:21:14+08:00</published>
+        <author>
+            <name>Ouroboros</name>
+            <uri>https://blog.pursuitus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我到底该不该换个域名？]]></summary>
     </entry>
         <entry>
         <title>Stargate（星空之门）：不用改业务代码，给内部服务加一道登录门</title>
@@ -528,6 +583,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[回到现在]]></summary>
+    </entry>
+        <entry>
+        <title>国清寺与天台山</title>
+        <id>158567</id>
+        <link href="https://blog.pursuitus.com/guoqing-temple-and-tiantai-mountain.html?utm_source=blogfinder" />
+        <published>2026-05-29T13:52:37+08:00</published>
+        <author>
+            <name>Ouroboros</name>
+            <uri>https://blog.pursuitus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[国清寺与天台山]]></summary>
     </entry>
         <entry>
         <title>二十年，一行代码一寸心</title>
@@ -1441,159 +1507,5 @@
             <uri>https://www.evan.xin</uri>
         </author>
         <summary type="text"><![CDATA[PIXPRO主题基础安装教程（持续更新）]]></summary>
-    </entry>
-        <entry>
-        <title>读：空降管理者六个月踩坑实录</title>
-        <id>158489</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/28/读：空降管理者六个月踩坑实录/index.html?utm_source=blogfinder" />
-        <published>2026-05-28T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：空降管理者六个月踩坑实录]]></summary>
-    </entry>
-        <entry>
-        <title>MarkItDown：微软开源的万能文档转 Markdown 利器</title>
-        <id>158459</id>
-        <link href="http://blog.xlap.top/post/tech/2026-05-28/markitdown/?utm_source=blogfinder" />
-        <published>2026-05-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[MarkItDown：微软开源的万能文档转 Markdown 利器]]></summary>
-    </entry>
-        <entry>
-        <title>Harness：让 Claude Code 秒变多智能体协作工厂</title>
-        <id>158458</id>
-        <link href="http://blog.xlap.top/post/tech/2026-05-28/harness/?utm_source=blogfinder" />
-        <published>2026-05-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Harness：让 Claude Code 秒变多智能体协作工厂]]></summary>
-    </entry>
-        <entry>
-        <title>读：教科书二分搜索能被超越——SIMD 与四叉搜索的启示</title>
-        <id>158404</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/27/读：教科书二分搜索能被超越——simd-与四叉搜索的启示/index.html?utm_source=blogfinder" />
-        <published>2026-05-28T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：教科书二分搜索能被超越——SIMD 与四叉搜索的启示]]></summary>
-    </entry>
-        <entry>
-        <title>读：Floating Dragon — 三个关于浮点数的反直觉事实</title>
-        <id>158403</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/28/读：floating-dragon-—-三个关于浮点数的反直觉事实/index.html?utm_source=blogfinder" />
-        <published>2026-05-28T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：Floating Dragon — 三个关于浮点数的反直觉事实]]></summary>
-    </entry>
-        <entry>
-        <title>读：一篇 1:1 会议实操手册</title>
-        <id>158402</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/28/读：一篇-1-1-会议实操手册/index.html?utm_source=blogfinder" />
-        <published>2026-05-28T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：一篇 1:1 会议实操手册]]></summary>
-    </entry>
-        <entry>
-        <title>TIL-应对糟糕团队的四个心理工具</title>
-        <id>158401</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/28/til-应对糟糕团队的四个心理工具/index.html?utm_source=blogfinder" />
-        <published>2026-05-28T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL-应对糟糕团队的四个心理工具]]></summary>
-    </entry>
-        <entry>
-        <title>离谱的英语学习指南：基于AI的英语进阶系统方法论</title>
-        <id>158371</id>
-        <link href="http://blog.xlap.top/post/tech/2026-05-28/english-level-up-tips/?utm_source=blogfinder" />
-        <published>2026-05-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[离谱的英语学习指南：基于AI的英语进阶系统方法论]]></summary>
-    </entry>
-        <entry>
-        <title>iii：零集成架构的后端统一运行时</title>
-        <id>158370</id>
-        <link href="http://blog.xlap.top/post/tech/2026-05-28/iii/?utm_source=blogfinder" />
-        <published>2026-05-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[iii：零集成架构的后端统一运行时]]></summary>
-    </entry>
-        <entry>
-        <title>Claude Code Harness：让 Claude Code 工作有迹可循的工程化框架</title>
-        <id>158369</id>
-        <link href="http://blog.xlap.top/post/tech/2026-05-28/claude-code-harness/?utm_source=blogfinder" />
-        <published>2026-05-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude Code Harness：让 Claude Code 工作有迹可循的工程化框架]]></summary>
-    </entry>
-        <entry>
-        <title>Heretic：全自动移除大语言模型审查机制的开源工具</title>
-        <id>158315</id>
-        <link href="http://blog.xlap.top/post/tech/2026-05-28/heretic/?utm_source=blogfinder" />
-        <published>2026-05-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Heretic：全自动移除大语言模型审查机制的开源工具]]></summary>
-    </entry>
-        <entry>
-        <title>熊猫小A: 人生呐，就是关关难过关关过！</title>
-        <id>158357</id>
-        <link href="https://blog.imalan.cn/archives/memo-20260528-0000/?utm_source=blogfinder" />
-        <published>2026-05-27T23:56:06+08:00</published>
-        <author>
-            <name>失眠海峡</name>
-            <uri>https://blog.imalan.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[熊猫小A: 人生呐，就是关关难过关关过！]]></summary>
-    </entry>
-        <entry>
-        <title>没事更新了一下主题</title>
-        <id>158351</id>
-        <link href="https://luolt.cn/archives/3159.html?utm_source=blogfinder" />
-        <published>2026-05-27T23:30:43+08:00</published>
-        <author>
-            <name>洛丽糖</name>
-            <uri>http://luolt.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[没事更新了一下主题]]></summary>
-    </entry>
-        <entry>
-        <title>这段时间尽折腾AI Agent了，确实极大提高效率</title>
-        <id>158312</id>
-        <link href="https://yufm.com/662290.html?utm_source=blogfinder" />
-        <published>2026-05-27T23:09:44+08:00</published>
-        <author>
-            <name>You &amp; FM</name>
-            <uri>https://yufm.com</uri>
-        </author>
-        <summary type="text"><![CDATA[这段时间尽折腾AI Agent了，确实极大提高效率]]></summary>
     </entry>
     </feed>
