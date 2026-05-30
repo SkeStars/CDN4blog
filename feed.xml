@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-30T18:00:33+08:00</updated>
+    <updated>2026-05-30T19:00:50+08:00</updated>
         <entry>
         <title>被权利扭曲的人性：子公与小公务员</title>
         <id>158548</id>
@@ -363,6 +363,17 @@
             <uri>https://www.zhounote.com</uri>
         </author>
         <summary type="text"><![CDATA[何为生活内容？聊聊独立博客的内容边界]]></summary>
+    </entry>
+        <entry>
+        <title>从「吸引子引导工程」看我的「一人公司」实践</title>
+        <id>158552</id>
+        <link href="https://ourai.ws/posts/an-attractor-for-a-one-person-company/?utm_source=blogfinder" />
+        <published>2026-05-29T17:16:31+08:00</published>
+        <author>
+            <name>欧雷流</name>
+            <uri>https://ourai.ws</uri>
+        </author>
+        <summary type="text"><![CDATA[从「吸引子引导工程」看我的「一人公司」实践]]></summary>
     </entry>
         <entry>
         <title>《Obsession》</title>
@@ -1551,38 +1562,5 @@
             <uri>https://blog.tibtob.cn</uri>
         </author>
         <summary type="text"><![CDATA[近期动态：两个新站点正式上线啦]]></summary>
-    </entry>
-        <entry>
-        <title>我的异常体验光谱：当物质、时间和自我开始松动</title>
-        <id>158352</id>
-        <link href="https://xingwangzhe.fun/posts/abnormal-experience-spectrum/?utm_source=blogfinder" />
-        <published>2026-05-27T18:30:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[我的异常体验光谱：当物质、时间和自我开始松动]]></summary>
-    </entry>
-        <entry>
-        <title>此间少年</title>
-        <id>158387</id>
-        <link href="https://mojue88.com/9?utm_source=blogfinder" />
-        <published>2026-05-27T18:08:15+08:00</published>
-        <author>
-            <name>墨觉の日记</name>
-            <uri>https://mojue88.com</uri>
-        </author>
-        <summary type="text"><![CDATA[此间少年]]></summary>
-    </entry>
-        <entry>
-        <title>我们最终也会找到属于自己的方向对吗？</title>
-        <id>158388</id>
-        <link href="https://mojue88.com/8?utm_source=blogfinder" />
-        <published>2026-05-27T18:01:00+08:00</published>
-        <author>
-            <name>墨觉の日记</name>
-            <uri>https://mojue88.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我们最终也会找到属于自己的方向对吗？]]></summary>
     </entry>
     </feed>
