@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-31T18:00:42+08:00</updated>
+    <updated>2026-05-31T20:01:36+08:00</updated>
         <entry>
         <title>【与Mondo同行·第四季】10：凡同行者，皆为宿契</title>
         <id>158603</id>
@@ -44,6 +44,17 @@
             <uri>https://blog.algieba12.cn</uri>
         </author>
         <summary type="text"><![CDATA[Patrol iOS 集成测试排坑实录 - xcodebuild exit code 70 全链路解决 | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
+        <title>PiliNara，一个更顺手的 PiliPlus 分支</title>
+        <id>158609</id>
+        <link href="http://www.tucong.vip/archives/pilinara-yi-ge-geng-shun-shou-de-piliplus-fen-zhi?utm_source=blogfinder" />
+        <published>2026-05-31T14:30:00+08:00</published>
+        <author>
+            <name>Tea Bush</name>
+            <uri>https://www.tucong.vip</uri>
+        </author>
+        <summary type="text"><![CDATA[PiliNara，一个更顺手的 PiliPlus 分支]]></summary>
     </entry>
         <entry>
         <title>六月限定“实力出粽”上线，四款“星”系列徽章同步开放领取</title>
@@ -1408,27 +1419,5 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 13 Tides]]></summary>
-    </entry>
-        <entry>
-        <title>儿童节的烦恼</title>
-        <id>158396</id>
-        <link href="https://ygz.ink/archives/5054.html?utm_source=blogfinder" />
-        <published>2026-05-28T19:32:34+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[儿童节的烦恼]]></summary>
-    </entry>
-        <entry>
-        <title>DTV - 直播聚合客户端</title>
-        <id>158392</id>
-        <link href="http://www.tucong.vip/archives/kua-ping-tai-zhi-bo-ju-he-ke-hu-duan?utm_source=blogfinder" />
-        <published>2026-05-28T18:50:30+08:00</published>
-        <author>
-            <name>Tea Bush</name>
-            <uri>https://www.tucong.vip</uri>
-        </author>
-        <summary type="text"><![CDATA[DTV - 直播聚合客户端]]></summary>
     </entry>
     </feed>
