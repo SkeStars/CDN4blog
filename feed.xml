@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-05-31T23:00:43+08:00</updated>
+    <updated>2026-06-01T00:00:34+08:00</updated>
+        <entry>
+        <title>网站缓存好是好，权衡利弊更重要</title>
+        <id>158629</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1321/?utm_source=blogfinder" />
+        <published>2026-06-01T00:00:05+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[网站缓存好是好，权衡利弊更重要]]></summary>
+    </entry>
+        <entry>
+        <title>那些我周末喜欢做的事情</title>
+        <id>158627</id>
+        <link href="https://blog.solazy.me/20260531/?utm_source=blogfinder" />
+        <published>2026-05-31T22:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[那些我周末喜欢做的事情]]></summary>
+    </entry>
+        <entry>
+        <title>周报 #1-聊聊本周的收获</title>
+        <id>158626</id>
+        <link href="https://yesreho.com/talking-about-the-weeks-takeaways-1/?utm_source=blogfinder" />
+        <published>2026-05-31T21:59:27+08:00</published>
+        <author>
+            <name>LookLeap</name>
+            <uri>https://yesreho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[周报 #1-聊聊本周的收获]]></summary>
+    </entry>
+        <entry>
+        <title>再游惠山古镇（x）锡惠公园（√）与周末做菜小记</title>
+        <id>158624</id>
+        <link href="https://www.52txr.cn/2026/wanxishan.html?utm_source=blogfinder" />
+        <published>2026-05-31T21:45:00+08:00</published>
+        <author>
+            <name>陶小桃</name>
+            <uri>https://www.52txr.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[再游惠山古镇（x）锡惠公园（√）与周末做菜小记]]></summary>
+    </entry>
         <entry>
         <title>没有宗门庇护的凡人，能修到哪一层？</title>
         <id>158619</id>
@@ -33,6 +77,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[再推荐一部修仙短剧《凡尘问道》]]></summary>
+    </entry>
+        <entry>
+        <title>Rebase Hacker House 见闻</title>
+        <id>158623</id>
+        <link href="https://blog.devtang.com/2026/05/31/rebase-hacker-house/?utm_source=blogfinder" />
+        <published>2026-05-31T21:00:00+08:00</published>
+        <author>
+            <name>唐巧的博客</name>
+            <uri>https://blog.devtang.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Rebase Hacker House 见闻]]></summary>
     </entry>
         <entry>
         <title>Codex 治好了我的博客不能被 VXNA 抓取的毛病</title>
@@ -77,6 +132,17 @@
             <uri>https://zhouayuan.com</uri>
         </author>
         <summary type="text"><![CDATA[六一拆盒｜女儿的星星人「一起白头」款]]></summary>
+    </entry>
+        <entry>
+        <title>田地变虾塘，农村人的前路该往哪走</title>
+        <id>158625</id>
+        <link href="https://luolt.cn/archives/3168.html?utm_source=blogfinder" />
+        <published>2026-05-31T18:59:00+08:00</published>
+        <author>
+            <name>洛丽糖</name>
+            <uri>http://luolt.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[田地变虾塘，农村人的前路该往哪走]]></summary>
     </entry>
         <entry>
         <title>我的OpenCode必装插件与Skill</title>
@@ -308,6 +374,17 @@
             <uri>https://siwei.li</uri>
         </author>
         <summary type="text"><![CDATA[黛西花园5月游]]></summary>
+    </entry>
+        <entry>
+        <title>周末流水账 0530</title>
+        <id>158628</id>
+        <link href="https://blog.solazy.me/20260530/?utm_source=blogfinder" />
+        <published>2026-05-30T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0530]]></summary>
     </entry>
         <entry>
         <title>【也闲谈·第四季】十三：稳健而完整地看待生活</title>
@@ -1331,148 +1408,5 @@
             <uri>https://blog.s17.cn</uri>
         </author>
         <summary type="text"><![CDATA[研究一下自动填充评论信息]]></summary>
-    </entry>
-        <entry>
-        <title>TIL：流式处理的五个配置原则</title>
-        <id>158488</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/29/til：流式处理的五个配置原则/index.html?utm_source=blogfinder" />
-        <published>2026-05-29T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL：流式处理的五个配置原则]]></summary>
-    </entry>
-        <entry>
-        <title>TIL：技术钟摆——为什么技术选型总在两个极端之间来回</title>
-        <id>158487</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/29/til：技术钟摆——为什么技术选型总在两个极端之间来回/index.html?utm_source=blogfinder" />
-        <published>2026-05-29T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL：技术钟摆——为什么技术选型总在两个极端之间来回]]></summary>
-    </entry>
-        <entry>
-        <title>读：AI 求职的真正差距——五个雇佣信号</title>
-        <id>158486</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/29/读：ai-求职的真正差距——五个雇佣信号/index.html?utm_source=blogfinder" />
-        <published>2026-05-29T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：AI 求职的真正差距——五个雇佣信号]]></summary>
-    </entry>
-        <entry>
-        <title>TIL：会议卡住了怎么办——ORID 和三脚凳两个诊断工具</title>
-        <id>158485</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/29/til：会议卡住了怎么办——orid-和三脚凳两个诊断工具/index.html?utm_source=blogfinder" />
-        <published>2026-05-29T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL：会议卡住了怎么办——ORID 和三脚凳两个诊断工具]]></summary>
-    </entry>
-        <entry>
-        <title>Elisp 易错点清单（AI 写 Emacs 插件参考）</title>
-        <id>158484</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/29/elisp-易错点清单（ai-写-emacs-插件参考）/index.html?utm_source=blogfinder" />
-        <published>2026-05-29T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[Elisp 易错点清单（AI 写 Emacs 插件参考）]]></summary>
-    </entry>
-        <entry>
-        <title>读 AI 代码质量，五支柱倒了三根，新增两维无法衡量</title>
-        <id>158483</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/29/读-ai-代码质量，五支柱倒了三根，新增两维无法衡量/index.html?utm_source=blogfinder" />
-        <published>2026-05-29T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读 AI 代码质量，五支柱倒了三根，新增两维无法衡量]]></summary>
-    </entry>
-        <entry>
-        <title>AI 交互的真正瓶颈：读输出的维度决定了你能控制多少</title>
-        <id>158482</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/29/ai-交互的真正瓶颈：读输出的维度决定了你能控制多少/index.html?utm_source=blogfinder" />
-        <published>2026-05-29T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[AI 交互的真正瓶颈：读输出的维度决定了你能控制多少]]></summary>
-    </entry>
-        <entry>
-        <title>MOSS-TTS Family：开源高质量语音与声音生成模型家族深度解析</title>
-        <id>158457</id>
-        <link href="http://blog.xlap.top/post/tech/2026-05-29/moss-tts/?utm_source=blogfinder" />
-        <published>2026-05-29T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[MOSS-TTS Family：开源高质量语音与声音生成模型家族深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>Crawl4AI：专为 LLM 设计的开源 Web 爬虫与数据抓取工具</title>
-        <id>158456</id>
-        <link href="http://blog.xlap.top/post/tech/2026-05-29/crawl4ai/?utm_source=blogfinder" />
-        <published>2026-05-29T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Crawl4AI：专为 LLM 设计的开源 Web 爬虫与数据抓取工具]]></summary>
-    </entry>
-        <entry>
-        <title>Build Your Own X：从零实现你最喜欢的技术——程序员进阶的终极资源清单</title>
-        <id>158455</id>
-        <link href="http://blog.xlap.top/post/tech/2026-05-29/build-your-own-x/?utm_source=blogfinder" />
-        <published>2026-05-29T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Build Your Own X：从零实现你最喜欢的技术——程序员进阶的终极资源清单]]></summary>
-    </entry>
-        <entry>
-        <title>Anthropic Skills：用文件夹教 Claude 专业技能的开源框架</title>
-        <id>158454</id>
-        <link href="http://blog.xlap.top/post/tech/2026-05-29/skills/?utm_source=blogfinder" />
-        <published>2026-05-29T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Anthropic Skills：用文件夹教 Claude 专业技能的开源框架]]></summary>
-    </entry>
-        <entry>
-        <title>python的对象增强</title>
-        <id>158398</id>
-        <link href="https://blog.share888.top/note/back-end/python/python的对象增强.html?utm_source=blogfinder" />
-        <published>2026-05-28T23:47:24+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[python的对象增强]]></summary>
-    </entry>
-        <entry>
-        <title>很久之前拍的:青黄小樱桃，酸甜正撩人</title>
-        <id>158397</id>
-        <link href="https://luolt.cn/archives/3161.html?utm_source=blogfinder" />
-        <published>2026-05-28T23:37:00+08:00</published>
-        <author>
-            <name>洛丽糖</name>
-            <uri>http://luolt.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[很久之前拍的:青黄小樱桃，酸甜正撩人]]></summary>
     </entry>
     </feed>
