@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-01T18:00:13+08:00</updated>
+    <updated>2026-06-02T00:00:22+08:00</updated>
+        <entry>
+        <title>提前沟通的重要性</title>
+        <id>158725</id>
+        <link href="http://etom.top/archives/so128.html?utm_source=blogfinder" />
+        <published>2026-06-01T22:26:11+08:00</published>
+        <author>
+            <name>浮生事</name>
+            <uri>http://etom.top</uri>
+        </author>
+        <summary type="text"><![CDATA[提前沟通的重要性]]></summary>
+    </entry>
+        <entry>
+        <title>Grafana 单点登录对接 Gitea 配置教程</title>
+        <id>158722</id>
+        <link href="https://www.51it.wang/ll/Grafana-Gitea?utm_source=blogfinder" />
+        <published>2026-06-01T21:41:49+08:00</published>
+        <author>
+            <name>Lcry</name>
+            <uri>https://www.51it.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[Grafana 单点登录对接 Gitea 配置教程]]></summary>
+    </entry>
+        <entry>
+        <title>人均一个博客聚合网站？</title>
+        <id>158716</id>
+        <link href="https://www.suiyan.cc/blog/20260601201146?utm_source=blogfinder" />
+        <published>2026-06-01T20:11:46+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[人均一个博客聚合网站？]]></summary>
+    </entry>
         <entry>
         <title>使用sessionStorage给音乐播放进度存储</title>
         <id>158703</id>
@@ -22,6 +55,28 @@
             <uri>https://blog.xrbk.cn</uri>
         </author>
         <summary type="text"><![CDATA[使用sessionStorage给音乐播放进度存储]]></summary>
+    </entry>
+        <entry>
+        <title>微信聊天记录一键备份导出工具</title>
+        <id>158723</id>
+        <link href="https://ygz.ink/archives/5108.html?utm_source=blogfinder" />
+        <published>2026-06-01T16:51:33+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[微信聊天记录一键备份导出工具]]></summary>
+    </entry>
+        <entry>
+        <title>随思 #90 - 2026-06-01</title>
+        <id>158721</id>
+        <link href="http://qthinker.net/content/90?utm_source=blogfinder" />
+        <published>2026-06-01T16:43:04+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[随思 #90 - 2026-06-01]]></summary>
     </entry>
         <entry>
         <title>Album#41 - 风筝飞了一整天</title>
@@ -35,6 +90,17 @@
         <summary type="text"><![CDATA[Album#41 - 风筝飞了一整天]]></summary>
     </entry>
         <entry>
+        <title>SUMIFS和LET函数——让 Excel 自己动起来</title>
+        <id>158712</id>
+        <link href="https://wuqishi.com/archives/excel-sumifs-let-guide?utm_source=blogfinder" />
+        <published>2026-06-01T16:10:50+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[SUMIFS和LET函数——让 Excel 自己动起来]]></summary>
+    </entry>
+        <entry>
         <title>一颗桃子的一生：从青涩到“爆甜”的旅程</title>
         <id>158702</id>
         <link href="https://luolt.cn/archives/3170.html?utm_source=blogfinder" />
@@ -44,6 +110,28 @@
             <uri>http://luolt.cn</uri>
         </author>
         <summary type="text"><![CDATA[一颗桃子的一生：从青涩到“爆甜”的旅程]]></summary>
+    </entry>
+        <entry>
+        <title>数码评测(65-2)：再谈自制CPU天梯图</title>
+        <id>158715</id>
+        <link href="http://www.auiou.com/relevant/00002157.jsp?utm_source=blogfinder" />
+        <published>2026-06-01T15:26:00+08:00</published>
+        <author>
+            <name>王志勇的 Blog</name>
+            <uri>http://www.auiou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[数码评测(65-2)：再谈自制CPU天梯图]]></summary>
+    </entry>
+        <entry>
+        <title>关停的天涯是情怀，重启的天涯只剩尴尬</title>
+        <id>158720</id>
+        <link href="https://www.zhounote.com/article/102?utm_source=blogfinder" />
+        <published>2026-06-01T15:10:00+08:00</published>
+        <author>
+            <name>Zhou’s Notes</name>
+            <uri>https://www.zhounote.com</uri>
+        </author>
+        <summary type="text"><![CDATA[关停的天涯是情怀，重启的天涯只剩尴尬]]></summary>
     </entry>
         <entry>
         <title>天涯社区这么快又死了</title>
@@ -123,6 +211,17 @@
         <summary type="text"><![CDATA[六一儿童节快乐｜我也是个孩子呀！]]></summary>
     </entry>
         <entry>
+        <title>最近就很热热热热热~ 父母不给开空调碎碎念念</title>
+        <id>158724</id>
+        <link href="https://blog.learm.cn/archives/2026-05-28.html?utm_source=blogfinder" />
+        <published>2026-06-01T09:37:00+08:00</published>
+        <author>
+            <name>张键的博客</name>
+            <uri>https://blog.learm.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[最近就很热热热热热~ 父母不给开空调碎碎念念]]></summary>
+    </entry>
+        <entry>
         <title>咖啡厅里的绝对领域</title>
         <id>158673</id>
         <link href="https://mobius.blog/24381.html?utm_source=blogfinder" />
@@ -165,6 +264,17 @@
             <uri>http://www.xulog.cn</uri>
         </author>
         <summary type="text"><![CDATA[大儿子生日]]></summary>
+    </entry>
+        <entry>
+        <title>阅读</title>
+        <id>158718</id>
+        <link href="https://www.pgoj.top/reading/?utm_source=blogfinder" />
+        <published>2026-06-01T08:00:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[阅读]]></summary>
     </entry>
         <entry>
         <title>稻草人周刊 Vol.83</title>
@@ -231,6 +341,17 @@
             <uri>https://blog.s17.cn</uri>
         </author>
         <summary type="text"><![CDATA[创业篇：公司注册流程]]></summary>
+    </entry>
+        <entry>
+        <title>建站四年，从Hexo换到Astro</title>
+        <id>158717</id>
+        <link href="https://blog.liushen.fun/posts/acf06c11/?utm_source=blogfinder" />
+        <published>2026-06-01T02:10:21+08:00</published>
+        <author>
+            <name>LiuShen&#039;s Blog</name>
+            <uri>https://blog.liushen.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[建站四年，从Hexo换到Astro]]></summary>
     </entry>
         <entry>
         <title>我的2020</title>
@@ -341,6 +462,17 @@
             <uri>https://imba97.com</uri>
         </author>
         <summary type="text"><![CDATA[markdown-it 链接扩展插件]]></summary>
+    </entry>
+        <entry>
+        <title>看看目前本地能跑什么模型,使用llama.cpp</title>
+        <id>158719</id>
+        <link href="https://nicksxs.me/2026/05/31/%E7%9C%8B%E7%9C%8B%E7%9B%AE%E5%89%8D%E6%9C%AC%E5%9C%B0%E8%83%BD%E8%B7%91%E4%BB%80%E4%B9%88%E6%A8%A1%E5%9E%8B-%E4%BD%BF%E7%94%A8llama-cpp/?utm_source=blogfinder" />
+        <published>2026-05-31T22:07:14+08:00</published>
+        <author>
+            <name>Nicksxs&#039;s Blog</name>
+            <uri>https://nicksxs.me</uri>
+        </author>
+        <summary type="text"><![CDATA[看看目前本地能跑什么模型,使用llama.cpp]]></summary>
     </entry>
         <entry>
         <title>日常漫步 Vol.24 之漫步前山河</title>
@@ -1485,170 +1617,5 @@
             <uri>https://dongjunke.cn</uri>
         </author>
         <summary type="text"><![CDATA[耿同学被限流之后，我开源了他的打假思维]]></summary>
-    </entry>
-        <entry>
-        <title>读：生产 AI Agent 的代码契约层</title>
-        <id>158571</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/29/读：生产-ai-agent-的代码契约层/index.html?utm_source=blogfinder" />
-        <published>2026-05-30T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：生产 AI Agent 的代码契约层]]></summary>
-    </entry>
-        <entry>
-        <title>读：LLM Agent 入门——经典 Agent 分类与 LangChain/LangGraph 实践</title>
-        <id>158570</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/30/读：llm-agent-入门——经典-agent-分类与-langchain-langgraph-实践/index.html?utm_source=blogfinder" />
-        <published>2026-05-30T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：LLM Agent 入门——经典 Agent 分类与 LangChain/LangGraph 实践]]></summary>
-    </entry>
-        <entry>
-        <title>TIL：Agentic Testing——AI 替你跑质量流程</title>
-        <id>158569</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/30/til：agentic-testing——ai-替你跑质量流程/index.html?utm_source=blogfinder" />
-        <published>2026-05-30T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL：Agentic Testing——AI 替你跑质量流程]]></summary>
-    </entry>
-        <entry>
-        <title>TOKEN拾荒的日子 - 3</title>
-        <id>158541</id>
-        <link href="https://knay.net/note/token-hunting-20260529?utm_source=blogfinder" />
-        <published>2026-05-29T23:59:21+08:00</published>
-        <author>
-            <name>Yang&#039;s Blog</name>
-            <uri>https://knay.net</uri>
-        </author>
-        <summary type="text"><![CDATA[TOKEN拾荒的日子 - 3]]></summary>
-    </entry>
-        <entry>
-        <title>看到好多熟面孔</title>
-        <id>158479</id>
-        <link href="http://etom.top/archives/so126.html?utm_source=blogfinder" />
-        <published>2026-05-29T23:45:04+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[看到好多熟面孔]]></summary>
-    </entry>
-        <entry>
-        <title>Traefik 阿里云使用方案：自动证书与服务接入</title>
-        <id>158492</id>
-        <link href="https://soulteary.com/2026/05/29/traefik-alibaba-cloud-auto-tls-and-service-routing.html?utm_source=blogfinder" />
-        <published>2026-05-29T23:14:00+08:00</published>
-        <author>
-            <name>苏洋博客</name>
-            <uri>https://soulteary.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Traefik 阿里云使用方案：自动证书与服务接入]]></summary>
-    </entry>
-        <entry>
-        <title>实习生口中的职场高压</title>
-        <id>158596</id>
-        <link href="https://blog.solazy.me/20260529/?utm_source=blogfinder" />
-        <published>2026-05-29T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[实习生口中的职场高压]]></summary>
-    </entry>
-        <entry>
-        <title>中奖到底藏在瓶盖里，还是藏在扫码那一下</title>
-        <id>158494</id>
-        <link href="https://www.tortorse.com/archives/bottle-cap-qr-lottery/?utm_source=blogfinder" />
-        <published>2026-05-29T22:53:05+08:00</published>
-        <author>
-            <name>愆伏</name>
-            <uri>https://www.tortorse.com</uri>
-        </author>
-        <summary type="text"><![CDATA[中奖到底藏在瓶盖里，还是藏在扫码那一下]]></summary>
-    </entry>
-        <entry>
-        <title>从零开始配置 Crontab</title>
-        <id>158472</id>
-        <link href="https://meledee.com/2026/05/4810.html?utm_source=blogfinder" />
-        <published>2026-05-29T22:51:20+08:00</published>
-        <author>
-            <name>美樂地</name>
-            <uri>https://meledee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[从零开始配置 Crontab]]></summary>
-    </entry>
-        <entry>
-        <title>终章：一场RSS封禁风波落幕</title>
-        <id>158536</id>
-        <link href="https://zhouayuan.com/post/40.html?utm_source=blogfinder" />
-        <published>2026-05-29T22:21:41+08:00</published>
-        <author>
-            <name>周阿源</name>
-            <uri>https://zhouayuan.com</uri>
-        </author>
-        <summary type="text"><![CDATA[终章：一场RSS封禁风波落幕]]></summary>
-    </entry>
-        <entry>
-        <title>博客撰写体验提升——hexo pro插件</title>
-        <id>158481</id>
-        <link href="https://blog.flechazo.icu/2026/05/29/%E5%8D%9A%E5%AE%A2%E6%92%B0%E5%86%99%E4%BD%93%E9%AA%8C%E6%8F%90%E5%8D%87%E2%80%94%E2%80%94hexo%20pro%E6%8F%92%E4%BB%B6/?utm_source=blogfinder" />
-        <published>2026-05-29T21:28:24+08:00</published>
-        <author>
-            <name>妄司逸</name>
-            <uri>https://blog.flechazo.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[博客撰写体验提升——hexo pro插件]]></summary>
-    </entry>
-        <entry>
-        <title>Golang 手写一个 Channel</title>
-        <id>158480</id>
-        <link href="https://www.bytecho.net/archives/golang_mychannel.html?utm_source=blogfinder" />
-        <published>2026-05-29T21:16:53+08:00</published>
-        <author>
-            <name>字节星球</name>
-            <uri>https://www.bytecho.net</uri>
-        </author>
-        <summary type="text"><![CDATA[Golang 手写一个 Channel]]></summary>
-    </entry>
-        <entry>
-        <title>为自己而工作</title>
-        <id>158493</id>
-        <link href="https://joojen.com/archives/8995.html?utm_source=blogfinder" />
-        <published>2026-05-29T21:11:41+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为自己而工作]]></summary>
-    </entry>
-        <entry>
-        <title>放假了按摩放松下</title>
-        <id>158473</id>
-        <link href="https://ygz.ink/archives/5071.html?utm_source=blogfinder" />
-        <published>2026-05-29T20:51:05+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[放假了按摩放松下]]></summary>
-    </entry>
-        <entry>
-        <title>雪豹速清app</title>
-        <id>158478</id>
-        <link href="https://luolt.cn/archives/app.html?utm_source=blogfinder" />
-        <published>2026-05-29T20:06:00+08:00</published>
-        <author>
-            <name>洛丽糖</name>
-            <uri>http://luolt.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[雪豹速清app]]></summary>
     </entry>
     </feed>
