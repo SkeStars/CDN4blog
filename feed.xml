@@ -11,7 +11,84 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-01T13:06:05+08:00</updated>
+    <updated>2026-06-01T18:00:13+08:00</updated>
+        <entry>
+        <title>使用sessionStorage给音乐播放进度存储</title>
+        <id>158703</id>
+        <link href="https://blog.xrbk.cn/post/79.html?utm_source=blogfinder" />
+        <published>2026-06-01T17:37:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://blog.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[使用sessionStorage给音乐播放进度存储]]></summary>
+    </entry>
+        <entry>
+        <title>Album#41 - 风筝飞了一整天</title>
+        <id>158698</id>
+        <link href="https://taxodium.ink/album-41.html?utm_source=blogfinder" />
+        <published>2026-06-01T16:40:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[Album#41 - 风筝飞了一整天]]></summary>
+    </entry>
+        <entry>
+        <title>一颗桃子的一生：从青涩到“爆甜”的旅程</title>
+        <id>158702</id>
+        <link href="https://luolt.cn/archives/3170.html?utm_source=blogfinder" />
+        <published>2026-06-01T15:58:01+08:00</published>
+        <author>
+            <name>洛丽糖</name>
+            <uri>http://luolt.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[一颗桃子的一生：从青涩到“爆甜”的旅程]]></summary>
+    </entry>
+        <entry>
+        <title>天涯社区这么快又死了</title>
+        <id>158704</id>
+        <link href="https://mojue88.com/12?utm_source=blogfinder" />
+        <published>2026-06-01T14:09:26+08:00</published>
+        <author>
+            <name>墨觉の日记</name>
+            <uri>https://mojue88.com</uri>
+        </author>
+        <summary type="text"><![CDATA[天涯社区这么快又死了]]></summary>
+    </entry>
+        <entry>
+        <title>又到一年毕业季</title>
+        <id>158701</id>
+        <link href="https://joojen.com/archives/9000.html?utm_source=blogfinder" />
+        <published>2026-06-01T12:06:36+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[又到一年毕业季]]></summary>
+    </entry>
+        <entry>
+        <title>Zine#50 - 博客宣言、AI 對个人网站的冲击、not be a prick</title>
+        <id>158699</id>
+        <link href="https://taxodium.ink/50.html?utm_source=blogfinder" />
+        <published>2026-06-01T11:30:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[Zine#50 - 博客宣言、AI 對个人网站的冲击、not be a prick]]></summary>
+    </entry>
+        <entry>
+        <title>Qexo——为Hexo等静态博客提供动态后端的开源工具</title>
+        <id>158684</id>
+        <link href="https://blog.flechazo.icu/2026/06/01/qexo/?utm_source=blogfinder" />
+        <published>2026-06-01T10:54:41+08:00</published>
+        <author>
+            <name>妄司逸</name>
+            <uri>https://blog.flechazo.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[Qexo——为Hexo等静态博客提供动态后端的开源工具]]></summary>
+    </entry>
         <entry>
         <title>新天涯这波操作，真的太难看了</title>
         <id>158674</id>
@@ -22,6 +99,17 @@
             <uri>http://www.snbk.cn</uri>
         </author>
         <summary type="text"><![CDATA[新天涯这波操作，真的太难看了]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1678】文德琳·范·德拉安南《怦然心动》</title>
+        <id>158695</id>
+        <link href="http://www.qncd.com/?p=12812&amp;utm_source=blogfinder" />
+        <published>2026-06-01T09:53:50+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1678】文德琳·范·德拉安南《怦然心动》]]></summary>
     </entry>
         <entry>
         <title>六一儿童节快乐｜我也是个孩子呀！</title>
@@ -112,6 +200,83 @@
         <summary type="text"><![CDATA[qexo]]></summary>
     </entry>
         <entry>
+        <title>折腾一款自用主题</title>
+        <id>158705</id>
+        <link href="https://blog.s17.cn/post/23.html?utm_source=blogfinder" />
+        <published>2026-06-01T02:31:37+08:00</published>
+        <author>
+            <name>拾柒</name>
+            <uri>https://blog.s17.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[折腾一款自用主题]]></summary>
+    </entry>
+        <entry>
+        <title>洁身自爱，便是晴天</title>
+        <id>158706</id>
+        <link href="https://blog.s17.cn/post/22.html?utm_source=blogfinder" />
+        <published>2026-06-01T02:29:00+08:00</published>
+        <author>
+            <name>拾柒</name>
+            <uri>https://blog.s17.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[洁身自爱，便是晴天]]></summary>
+    </entry>
+        <entry>
+        <title>创业篇：公司注册流程</title>
+        <id>158707</id>
+        <link href="https://blog.s17.cn/post/21.html?utm_source=blogfinder" />
+        <published>2026-06-01T02:14:00+08:00</published>
+        <author>
+            <name>拾柒</name>
+            <uri>https://blog.s17.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[创业篇：公司注册流程]]></summary>
+    </entry>
+        <entry>
+        <title>我的2020</title>
+        <id>158708</id>
+        <link href="https://blog.s17.cn/post/20.html?utm_source=blogfinder" />
+        <published>2026-06-01T02:04:18+08:00</published>
+        <author>
+            <name>拾柒</name>
+            <uri>https://blog.s17.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[我的2020]]></summary>
+    </entry>
+        <entry>
+        <title>树莓派食用指南</title>
+        <id>158709</id>
+        <link href="https://blog.s17.cn/post/19.html?utm_source=blogfinder" />
+        <published>2026-06-01T02:01:00+08:00</published>
+        <author>
+            <name>拾柒</name>
+            <uri>https://blog.s17.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[树莓派食用指南]]></summary>
+    </entry>
+        <entry>
+        <title>重庆 - 行千里，致广大</title>
+        <id>158710</id>
+        <link href="https://blog.s17.cn/post/18.html?utm_source=blogfinder" />
+        <published>2026-06-01T01:48:17+08:00</published>
+        <author>
+            <name>拾柒</name>
+            <uri>https://blog.s17.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[重庆 - 行千里，致广大]]></summary>
+    </entry>
+        <entry>
+        <title>十七岁的爱恋</title>
+        <id>158711</id>
+        <link href="https://blog.s17.cn/post/17.html?utm_source=blogfinder" />
+        <published>2026-06-01T01:00:00+08:00</published>
+        <author>
+            <name>拾柒</name>
+            <uri>https://blog.s17.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[十七岁的爱恋]]></summary>
+    </entry>
+        <entry>
         <title>哪吒监控破10k星，却曝出1年严重漏洞！AI安全威胁已不是隐患，而是现实危机</title>
         <id>158663</id>
         <link href="https://lifelonglearn.ing/nezha-monitor-10k-star-ai-security-vulnerability?utm_source=blogfinder" />
@@ -154,6 +319,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[Hermes WebUI：为 Hermes Agent 打造的自托管 Web 界面]]></summary>
+    </entry>
+        <entry>
+        <title>松声｜廿六年·五月末·麦黄收</title>
+        <id>158694</id>
+        <link href="https://xyzbz.cn/archives/1549/?utm_source=blogfinder" />
+        <published>2026-05-31T23:59:00+08:00</published>
+        <author>
+            <name>网友小宋</name>
+            <uri>https://xyzbz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[松声｜廿六年·五月末·麦黄收]]></summary>
     </entry>
         <entry>
         <title>markdown-it 链接扩展插件</title>
@@ -374,6 +550,17 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[一加15T发售两个多月后降价六百元，但是现在不需要了]]></summary>
+    </entry>
+        <entry>
+        <title>Vol.105 AI分化：王小川押注医疗，何小鹏转机器人，Anthropic推动态Agent工作流</title>
+        <id>158697</id>
+        <link href="https://liduos.com/weekly/the-weekly-gradient-105?utm_source=blogfinder" />
+        <published>2026-05-31T16:00:00+08:00</published>
+        <author>
+            <name>莫尔索</name>
+            <uri>https://liduos.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Vol.105 AI分化：王小川押注医疗，何小鹏转机器人，Anthropic推动态Agent工作流]]></summary>
     </entry>
         <entry>
         <title>在博客内放置一个基于Mirages主题的Steam游戏时长小组件</title>
@@ -1463,104 +1650,5 @@
             <uri>http://luolt.cn</uri>
         </author>
         <summary type="text"><![CDATA[雪豹速清app]]></summary>
-    </entry>
-        <entry>
-        <title>何为生活内容？聊聊独立博客的内容边界</title>
-        <id>158467</id>
-        <link href="https://www.zhounote.com/article/101?utm_source=blogfinder" />
-        <published>2026-05-29T17:48:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[何为生活内容？聊聊独立博客的内容边界]]></summary>
-    </entry>
-        <entry>
-        <title>从「吸引子引导工程」看我的「一人公司」实践</title>
-        <id>158552</id>
-        <link href="https://ourai.ws/posts/an-attractor-for-a-one-person-company/?utm_source=blogfinder" />
-        <published>2026-05-29T17:16:31+08:00</published>
-        <author>
-            <name>欧雷流</name>
-            <uri>https://ourai.ws</uri>
-        </author>
-        <summary type="text"><![CDATA[从「吸引子引导工程」看我的「一人公司」实践]]></summary>
-    </entry>
-        <entry>
-        <title>《Obsession》</title>
-        <id>158547</id>
-        <link href="https://www.velasx.com/am/6480?utm_source=blogfinder" />
-        <published>2026-05-29T17:02:31+08:00</published>
-        <author>
-            <name>Velas 电波站</name>
-            <uri>https://www.velasx.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《Obsession》]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 26 暴涨</title>
-        <id>158470</id>
-        <link href="https://physnya.top/GR/lesson-25-inflation/?utm_source=blogfinder" />
-        <published>2026-05-29T16:43:43+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 26 暴涨]]></summary>
-    </entry>
-        <entry>
-        <title>是非对错面前多些谦虚谨慎没亏吃</title>
-        <id>158469</id>
-        <link href="https://www.pgoj.top/archives/shi-fei-dui-cuo.html/?utm_source=blogfinder" />
-        <published>2026-05-29T16:28:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[是非对错面前多些谦虚谨慎没亏吃]]></summary>
-    </entry>
-        <entry>
-        <title>如何判断一个文章是不是AI写的？图片、视频、文章AI检测方法</title>
-        <id>158537</id>
-        <link href="https://blog.zhheo.com/p/56yusy1w.html?utm_source=blogfinder" />
-        <published>2026-05-29T15:23:43+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[如何判断一个文章是不是AI写的？图片、视频、文章AI检测方法]]></summary>
-    </entry>
-        <entry>
-        <title>回到现在</title>
-        <id>158451</id>
-        <link href="https://mobius.blog/24499.html?utm_source=blogfinder" />
-        <published>2026-05-29T14:58:47+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[回到现在]]></summary>
-    </entry>
-        <entry>
-        <title>国清寺与天台山</title>
-        <id>158567</id>
-        <link href="https://blog.pursuitus.com/guoqing-temple-and-tiantai-mountain.html?utm_source=blogfinder" />
-        <published>2026-05-29T13:52:37+08:00</published>
-        <author>
-            <name>Ouroboros</name>
-            <uri>https://blog.pursuitus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[国清寺与天台山]]></summary>
-    </entry>
-        <entry>
-        <title>二十年，一行代码一寸心</title>
-        <id>158461</id>
-        <link href="https://zhujay.com/blog/blog_detail.html?id=1231&amp;utm_source=blogfinder" />
-        <published>2026-05-29T13:34:27+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[二十年，一行代码一寸心]]></summary>
     </entry>
     </feed>
