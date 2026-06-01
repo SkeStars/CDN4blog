@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-02T00:00:22+08:00</updated>
+    <updated>2026-06-02T04:04:44+08:00</updated>
         <entry>
         <title>提前沟通的重要性</title>
         <id>158725</id>
@@ -33,6 +33,39 @@
             <uri>https://www.51it.wang</uri>
         </author>
         <summary type="text"><![CDATA[Grafana 单点登录对接 Gitea 配置教程]]></summary>
+    </entry>
+        <entry>
+        <title>从打点酱油到袁朝发（2026-05-月度小结）</title>
+        <id>158734</id>
+        <link href="https://yuanchaofa.com/blog/2026-05-month-summary?utm_source=blogfinder" />
+        <published>2026-06-01T21:20:00+08:00</published>
+        <author>
+            <name>Chaofa Yuan</name>
+            <uri>https://yuanchaofa.com</uri>
+        </author>
+        <summary type="text"><![CDATA[从打点酱油到袁朝发（2026-05-月度小结）]]></summary>
+    </entry>
+        <entry>
+        <title>Rainbow Gala RG33 Day1 回顧/吹水</title>
+        <id>158749</id>
+        <link href="https://impatrick.blog/rainbow-gala-rg33-day1/?utm_source=blogfinder" />
+        <published>2026-06-01T20:48:40+08:00</published>
+        <author>
+            <name>Patrick&#039;s Blog</name>
+            <uri>https://impatrick.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[Rainbow Gala RG33 Day1 回顧/吹水]]></summary>
+    </entry>
+        <entry>
+        <title>711全职店务员离职心得</title>
+        <id>158737</id>
+        <link href="https://t-t.live/archives/7MagsYkt?utm_source=blogfinder" />
+        <published>2026-06-01T20:15:58+08:00</published>
+        <author>
+            <name>团团生活志</name>
+            <uri>https://t-t.live</uri>
+        </author>
+        <summary type="text"><![CDATA[711全职店务员离职心得]]></summary>
     </entry>
         <entry>
         <title>人均一个博客聚合网站？</title>
@@ -143,6 +176,17 @@
             <uri>https://mojue88.com</uri>
         </author>
         <summary type="text"><![CDATA[天涯社区这么快又死了]]></summary>
+    </entry>
+        <entry>
+        <title>我对vibe coding有一些改观了</title>
+        <id>158735</id>
+        <link href="https://www.youdiandongxi.com/article/vibe-coding-new-experience.html?utm_source=blogfinder" />
+        <published>2026-06-01T13:21:01+08:00</published>
+        <author>
+            <name>有点东西</name>
+            <uri>https://www.youdiandongxi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我对vibe coding有一些改观了]]></summary>
     </entry>
         <entry>
         <title>又到一年毕业季</title>
@@ -299,6 +343,17 @@
         <summary type="text"><![CDATA[我的求职路・壹：投简历和找对方向]]></summary>
     </entry>
         <entry>
+        <title>伯明翰桌游展 UK GAMES EX PO</title>
+        <id>158730</id>
+        <link href="https://anotherdayu.com/ukboardgame/?utm_source=blogfinder" />
+        <published>2026-06-01T04:24:00+08:00</published>
+        <author>
+            <name>Another Dayu</name>
+            <uri>https://anotherdayu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[伯明翰桌游展 UK GAMES EX PO]]></summary>
+    </entry>
+        <entry>
         <title>qexo</title>
         <id>158677</id>
         <link href="https://blog.flechazo.icu/2026/05/31/qexo/?utm_source=blogfinder" />
@@ -387,6 +442,17 @@
         <summary type="text"><![CDATA[重庆 - 行千里，致广大]]></summary>
     </entry>
         <entry>
+        <title>Astro 构建阶段自动同步 GitHub 统计数据</title>
+        <id>158736</id>
+        <link href="https://5ime.cn/github-stats-build.html?utm_source=blogfinder" />
+        <published>2026-06-01T01:30:00+08:00</published>
+        <author>
+            <name>I Am I</name>
+            <uri>https://5ime.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Astro 构建阶段自动同步 GitHub 统计数据]]></summary>
+    </entry>
+        <entry>
         <title>十七岁的爱恋</title>
         <id>158711</id>
         <link href="https://blog.s17.cn/post/17.html?utm_source=blogfinder" />
@@ -429,6 +495,50 @@
             <uri>https://blog.mfwt.top</uri>
         </author>
         <summary type="text"><![CDATA[网站缓存好是好，权衡利弊更重要]]></summary>
+    </entry>
+        <entry>
+        <title>越野入门 基础训练</title>
+        <id>158738</id>
+        <link href="https://www.blackbzy.com/posts/trail-running-fundamentals/?utm_source=blogfinder" />
+        <published>2026-06-01T00:00:00+08:00</published>
+        <author>
+            <name>blackbzy</name>
+            <uri>https://www.blackbzy.com</uri>
+        </author>
+        <summary type="text"><![CDATA[越野入门 基础训练]]></summary>
+    </entry>
+        <entry>
+        <title>读：那些年我 Oncall 学到的事</title>
+        <id>158729</id>
+        <link href="https://lujun9972.github.io/blog/2026/06/01/读：那些年我-oncall-学到的事/index.html?utm_source=blogfinder" />
+        <published>2026-06-01T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[读：那些年我 Oncall 学到的事]]></summary>
+    </entry>
+        <entry>
+        <title>org-toggle-pretty-entities：将 TeX 标记渲染为 UTF-8 符号</title>
+        <id>158728</id>
+        <link href="https://lujun9972.github.io/blog/2026/06/01/org-toggle-pretty-entities：将-tex-标记渲染为-utf-8-符号/index.html?utm_source=blogfinder" />
+        <published>2026-06-01T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[org-toggle-pretty-entities：将 TeX 标记渲染为 UTF-8 符号]]></summary>
+    </entry>
+        <entry>
+        <title>org module之org-num</title>
+        <id>158727</id>
+        <link href="https://lujun9972.github.io/blog/2020/02/11/org-module之org-num/index.html?utm_source=blogfinder" />
+        <published>2026-06-01T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[org module之org-num]]></summary>
     </entry>
         <entry>
         <title>Hermes WebUI：为 Hermes Agent 打造的自托管 Web 界面</title>
@@ -530,6 +640,17 @@
         <summary type="text"><![CDATA[没有宗门庇护的凡人，能修到哪一层？]]></summary>
     </entry>
         <entry>
+        <title>2026-05小记</title>
+        <id>158733</id>
+        <link href="https://blog.storia.ren/posts/write-202605/?utm_source=blogfinder" />
+        <published>2026-05-31T21:32:17+08:00</published>
+        <author>
+            <name>绘星里</name>
+            <uri>https://blog.storia.ren</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-05小记]]></summary>
+    </entry>
+        <entry>
         <title>再推荐一部修仙短剧《凡尘问道》</title>
         <id>158620</id>
         <link href="https://ygz.ink/archives/5091.html?utm_source=blogfinder" />
@@ -561,6 +682,17 @@
             <uri>https://www.tortorse.com</uri>
         </author>
         <summary type="text"><![CDATA[Codex 治好了我的博客不能被 VXNA 抓取的毛病]]></summary>
+    </entry>
+        <entry>
+        <title>HK Comic Con 2026 Day3 我做咗啲乜 / 永諾35mm F2</title>
+        <id>158750</id>
+        <link href="https://impatrick.blog/hk-comic-con-2026-day3/?utm_source=blogfinder" />
+        <published>2026-05-31T20:54:03+08:00</published>
+        <author>
+            <name>Patrick&#039;s Blog</name>
+            <uri>https://impatrick.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[HK Comic Con 2026 Day3 我做咗啲乜 / 永諾35mm F2]]></summary>
     </entry>
         <entry>
         <title>重庆越来越热了</title>
@@ -957,6 +1089,17 @@
             <uri>https://siwei.li</uri>
         </author>
         <summary type="text"><![CDATA[黛西花园5月游]]></summary>
+    </entry>
+        <entry>
+        <title>去深圳国际美术馆——艺术源于生活，是对生活的总结和升华</title>
+        <id>158731</id>
+        <link href="https://tianheg.co/posts/go-to-shenzhen-international-art-museum/?utm_source=blogfinder" />
+        <published>2026-05-31T00:00:00+08:00</published>
+        <author>
+            <name>一大加贝</name>
+            <uri>https://tianheg.co</uri>
+        </author>
+        <summary type="text"><![CDATA[去深圳国际美术馆——艺术源于生活，是对生活的总结和升华]]></summary>
     </entry>
         <entry>
         <title>VoxCPM2：无分词器多语言TTS系统，支持30种语言语音生成与声音设计</title>
@@ -1562,60 +1705,5 @@
             <uri>https://nocoding.life</uri>
         </author>
         <summary type="text"><![CDATA[05/18-05/24 Timetable]]></summary>
-    </entry>
-        <entry>
-        <title>Warden（守望者）：从共享口令，到一份可维护的准入名册</title>
-        <id>158563</id>
-        <link href="https://soulteary.com/2026/05/30/warden-maintainable-access-roster-from-shared-password.html?utm_source=blogfinder" />
-        <published>2026-05-30T02:28:00+08:00</published>
-        <author>
-            <name>苏洋博客</name>
-            <uri>https://soulteary.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Warden（守望者）：从共享口令，到一份可维护的准入名册]]></summary>
-    </entry>
-        <entry>
-        <title>我到底该不该换个域名？</title>
-        <id>158566</id>
-        <link href="https://blog.pursuitus.com/should-i-change-domain-name.html?utm_source=blogfinder" />
-        <published>2026-05-30T01:21:14+08:00</published>
-        <author>
-            <name>Ouroboros</name>
-            <uri>https://blog.pursuitus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我到底该不该换个域名？]]></summary>
-    </entry>
-        <entry>
-        <title>Stargate（星空之门）：不用改业务代码，给内部服务加一道登录门</title>
-        <id>158491</id>
-        <link href="https://soulteary.com/2026/05/30/stargate-lightweight-forward-auth-gateway-for-internal-services.html?utm_source=blogfinder" />
-        <published>2026-05-30T01:20:00+08:00</published>
-        <author>
-            <name>苏洋博客</name>
-            <uri>https://soulteary.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Stargate（星空之门）：不用改业务代码，给内部服务加一道登录门]]></summary>
-    </entry>
-        <entry>
-        <title>随身WIFI折腾记</title>
-        <id>158525</id>
-        <link href="https://i55.top/archives/528/?utm_source=blogfinder" />
-        <published>2026-05-30T00:13:29+08:00</published>
-        <author>
-            <name>安迪</name>
-            <uri>https://i55.top</uri>
-        </author>
-        <summary type="text"><![CDATA[随身WIFI折腾记]]></summary>
-    </entry>
-        <entry>
-        <title>耿同学被限流之后，我开源了他的打假思维</title>
-        <id>158546</id>
-        <link href="https://dongjunke.cn/posts/2026/05/30/47945.html?utm_source=blogfinder" />
-        <published>2026-05-30T00:02:19+08:00</published>
-        <author>
-            <name>东评西就</name>
-            <uri>https://dongjunke.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[耿同学被限流之后，我开源了他的打假思维]]></summary>
     </entry>
     </feed>
