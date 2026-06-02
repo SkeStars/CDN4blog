@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-02T13:04:50+08:00</updated>
+    <updated>2026-06-02T17:00:38+08:00</updated>
+        <entry>
+        <title>关于测试</title>
+        <id>158774</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1152&amp;utm_source=blogfinder" />
+        <published>2026-06-02T15:40:50+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[关于测试]]></summary>
+    </entry>
+        <entry>
+        <title>基于 VS Code 远程开发的 GPU Docker 容器自动清理方案实践 开发日志| 阿尔的代码屋</title>
+        <id>158778</id>
+        <link href="https://blog.algieba12.cn/auto-clean-docker/?utm_source=blogfinder" />
+        <published>2026-06-02T15:30:00+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[基于 VS Code 远程开发的 GPU Docker 容器自动清理方案实践 开发日志| 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
+        <title>从顶流到停摆再重启，天涯重启首日被挤爆</title>
+        <id>158777</id>
+        <link href="https://www.zhyok.cn/archives/406/?utm_source=blogfinder" />
+        <published>2026-06-02T15:15:00+08:00</published>
+        <author>
+            <name>秋記 Autumn</name>
+            <uri>https://www.zhyok.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[从顶流到停摆再重启，天涯重启首日被挤爆]]></summary>
+    </entry>
         <entry>
         <title>主题巴巴又回归了？</title>
         <id>158771</id>
@@ -22,6 +55,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[主题巴巴又回归了？]]></summary>
+    </entry>
+        <entry>
+        <title>白嫖免费的大模型 AgnesAI 教程</title>
+        <id>158772</id>
+        <link href="https://jyblog.cn/5688/?utm_source=blogfinder" />
+        <published>2026-06-02T12:26:08+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[白嫖免费的大模型 AgnesAI 教程]]></summary>
     </entry>
         <entry>
         <title>摄影日常练习</title>
@@ -35,6 +79,17 @@
         <summary type="text"><![CDATA[摄影日常练习]]></summary>
     </entry>
         <entry>
+        <title>【读书记1679】安德鲁·斯特拉森《人类学的四个讲座》</title>
+        <id>158773</id>
+        <link href="http://www.qncd.com/?p=12817&amp;utm_source=blogfinder" />
+        <published>2026-06-02T10:23:20+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1679】安德鲁·斯特拉森《人类学的四个讲座》]]></summary>
+    </entry>
+        <entry>
         <title>硬装结束，灯亮了，油烟机炸了</title>
         <id>158765</id>
         <link href="https://blog.52hyjs.com/post-1272.html?utm_source=blogfinder" />
@@ -44,6 +99,17 @@
             <uri>https://blog.52hyjs.com</uri>
         </author>
         <summary type="text"><![CDATA[硬装结束，灯亮了，油烟机炸了]]></summary>
+    </entry>
+        <entry>
+        <title>家乡热点</title>
+        <id>158775</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1151&amp;utm_source=blogfinder" />
+        <published>2026-06-02T10:04:24+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[家乡热点]]></summary>
     </entry>
         <entry>
         <title>非接触交通事故</title>
@@ -77,6 +143,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[与 AI 如何保持“社交安全距离”？ I]]></summary>
+    </entry>
+        <entry>
+        <title>2018-2026微信读书阅读笔记总结</title>
+        <id>158782</id>
+        <link href="https://www.pgoj.top/archives/wechat-reading-report.html/?utm_source=blogfinder" />
+        <published>2026-06-02T08:00:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[2018-2026微信读书阅读笔记总结]]></summary>
     </entry>
         <entry>
         <title>开车很危险</title>
@@ -209,6 +286,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[人均一个博客聚合网站？]]></summary>
+    </entry>
+        <entry>
+        <title>2018-2026微信读书阅读记录</title>
+        <id>158783</id>
+        <link href="https://www.pgoj.top/archives/reading-stats.html/?utm_source=blogfinder" />
+        <published>2026-06-01T19:00:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[2018-2026微信读书阅读记录]]></summary>
     </entry>
         <entry>
         <title>放飞梦想</title>
@@ -418,6 +506,17 @@
             <uri>https://zhouayuan.com</uri>
         </author>
         <summary type="text"><![CDATA[六一儿童节快乐｜我也是个孩子呀！]]></summary>
+    </entry>
+        <entry>
+        <title>不否定技术的进步，也不盲目跟风</title>
+        <id>158776</id>
+        <link href="https://blog.verdant.ee/posts/talk-about-themotherfucking-website/?utm_source=blogfinder" />
+        <published>2026-06-01T09:51:37+08:00</published>
+        <author>
+            <name>映屿</name>
+            <uri>https://blog.verdant.ee</uri>
+        </author>
+        <summary type="text"><![CDATA[不否定技术的进步，也不盲目跟风]]></summary>
     </entry>
         <entry>
         <title>最近就很热热热热热~ 父母不给开空调碎碎念念</title>
@@ -1584,82 +1683,5 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[当人们不再问好]]></summary>
-    </entry>
-        <entry>
-        <title>荔枝小年果然好品质</title>
-        <id>158556</id>
-        <link href="https://me.xu19.com/lychee-yield-drops-but-quality-improves/?utm_source=blogfinder" />
-        <published>2026-05-30T16:25:43+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[荔枝小年果然好品质]]></summary>
-    </entry>
-        <entry>
-        <title>0419 御温泉之旅</title>
-        <id>158572</id>
-        <link href="https://ssshooter.com/zhuhai-imperial-hotspring/?utm_source=blogfinder" />
-        <published>2026-05-30T16:05:33+08:00</published>
-        <author>
-            <name>Usubeni Fantasy</name>
-            <uri>https://ssshooter.com</uri>
-        </author>
-        <summary type="text"><![CDATA[0419 御温泉之旅]]></summary>
-    </entry>
-        <entry>
-        <title>一万公里自驾杂谈</title>
-        <id>158568</id>
-        <link href="https://hiwannz.com/archives/1268.html?utm_source=blogfinder" />
-        <published>2026-05-30T15:38:01+08:00</published>
-        <author>
-            <name>见字如面</name>
-            <uri>https://hiwannz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[一万公里自驾杂谈]]></summary>
-    </entry>
-        <entry>
-        <title>被权利扭曲的人性：子公与小公务员</title>
-        <id>158548</id>
-        <link href="https://www.pgoj.top/archives/quan-li-ren-xing-niu-qu.html/?utm_source=blogfinder" />
-        <published>2026-05-30T15:34:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[被权利扭曲的人性：子公与小公务员]]></summary>
-    </entry>
-        <entry>
-        <title>中间继电器怎么看线圈电压，绿色和红色指示灯的区别</title>
-        <id>158545</id>
-        <link href="https://www.aiwazi.com/3100.html?utm_source=blogfinder" />
-        <published>2026-05-30T14:29:01+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[中间继电器怎么看线圈电压，绿色和红色指示灯的区别]]></summary>
-    </entry>
-        <entry>
-        <title>EdgeOne 实时日志接收器</title>
-        <id>158565</id>
-        <link href="https://jyblog.cn/5674/?utm_source=blogfinder" />
-        <published>2026-05-30T14:03:03+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[EdgeOne 实时日志接收器]]></summary>
-    </entry>
-        <entry>
-        <title>修复了一些bug,网站基本上趋于稳定了</title>
-        <id>158549</id>
-        <link href="https://blog.xrbk.cn/post/78.html?utm_source=blogfinder" />
-        <published>2026-05-30T13:30:00+08:00</published>
-        <author>
-            <name>新锐博客</name>
-            <uri>https://blog.xrbk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[修复了一些bug,网站基本上趋于稳定了]]></summary>
     </entry>
     </feed>
