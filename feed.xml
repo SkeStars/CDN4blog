@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-03T13:04:45+08:00</updated>
+    <updated>2026-06-03T18:00:30+08:00</updated>
+        <entry>
+        <title>从别人家路过拍的，不知道叫什么？</title>
+        <id>158855</id>
+        <link href="https://luolt.cn/archives/3173.html?utm_source=blogfinder" />
+        <published>2026-06-03T16:49:00+08:00</published>
+        <author>
+            <name>洛丽糖</name>
+            <uri>http://luolt.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[从别人家路过拍的，不知道叫什么？]]></summary>
+    </entry>
+        <entry>
+        <title>老狗满眼都是陈事旧影</title>
+        <id>158853</id>
+        <link href="https://www.pgoj.top/archives/old-dog-eyes-filled-with-memories-of-bygone-days.html/?utm_source=blogfinder" />
+        <published>2026-06-03T15:00:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[老狗满眼都是陈事旧影]]></summary>
+    </entry>
+        <entry>
+        <title>VLOOKUP 的坑，我替你们踩完了</title>
+        <id>158851</id>
+        <link href="https://wuqishi.com/archives/excel-vlookup-xlookup-guide?utm_source=blogfinder" />
+        <published>2026-06-03T14:00:00+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[VLOOKUP 的坑，我替你们踩完了]]></summary>
+    </entry>
         <entry>
         <title>让自己慢下来</title>
         <id>158830</id>
@@ -88,6 +121,61 @@
             <uri>https://blog.gudong.site</uri>
         </author>
         <summary type="text"><![CDATA[inBox 笔记 2.3.9]]></summary>
+    </entry>
+        <entry>
+        <title>如何让 AI Agent 工具帮助你清理 C 盘，让 C 盘不再报红？</title>
+        <id>158854</id>
+        <link href="https://blog.kayro.cn/posts/56015a4?utm_source=blogfinder" />
+        <published>2026-06-03T01:08:51+08:00</published>
+        <author>
+            <name>敖苛记</name>
+            <uri>https://blog.kayro.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[如何让 AI Agent 工具帮助你清理 C 盘，让 C 盘不再报红？]]></summary>
+    </entry>
+        <entry>
+        <title>Production Agentic RAG Course：从零构建生产级 RAG 系统的完整实战课程</title>
+        <id>158835</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-03/production-agentic-rag-course/?utm_source=blogfinder" />
+        <published>2026-06-03T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Production Agentic RAG Course：从零构建生产级 RAG 系统的完整实战课程]]></summary>
+    </entry>
+        <entry>
+        <title>Open-LLM-VTuber：开源离线运行的 AI 虚拟伴侣，支持语音对话与 Live2D 形象</title>
+        <id>158834</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-03/open-llm-vtuber/?utm_source=blogfinder" />
+        <published>2026-06-03T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Open-LLM-VTuber：开源离线运行的 AI 虚拟伴侣，支持语音对话与 Live2D 形象]]></summary>
+    </entry>
+        <entry>
+        <title>Headroom：AI Agent 的上下文压缩层，60-95% Token 节省</title>
+        <id>158833</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-03/headroom/?utm_source=blogfinder" />
+        <published>2026-06-03T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Headroom：AI Agent 的上下文压缩层，60-95% Token 节省]]></summary>
+    </entry>
+        <entry>
+        <title>Flowsint：开源 OSINT 图谱探索工具，让情报分析可视化</title>
+        <id>158832</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-03/flowsint/?utm_source=blogfinder" />
+        <published>2026-06-03T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Flowsint：开源 OSINT 图谱探索工具，让情报分析可视化]]></summary>
     </entry>
         <entry>
         <title>称兄道弟</title>
@@ -563,6 +651,61 @@
         <summary type="text"><![CDATA[带坡坡去京都]]></summary>
     </entry>
         <entry>
+        <title>从石门山到舒成岩：你以为去过宝顶山就是全部的大足石刻了吗？</title>
+        <id>158850</id>
+        <link href="https://macin.org/2026/06/01/shi-men-shan/?utm_source=blogfinder" />
+        <published>2026-06-02T06:04:45+08:00</published>
+        <author>
+            <name>Macin&#039;s Blog</name>
+            <uri>https://macin.org</uri>
+        </author>
+        <summary type="text"><![CDATA[从石门山到舒成岩：你以为去过宝顶山就是全部的大足石刻了吗？]]></summary>
+    </entry>
+        <entry>
+        <title>oh-my-pi：把 IDE 能力接入编码智能体的终极方案</title>
+        <id>158839</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-02/oh-my-pi/?utm_source=blogfinder" />
+        <published>2026-06-02T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[oh-my-pi：把 IDE 能力接入编码智能体的终极方案]]></summary>
+    </entry>
+        <entry>
+        <title>Machine Learning for Trading: A Comprehensive Guide</title>
+        <id>158838</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-02/machine-learning-for-trading/?utm_source=blogfinder" />
+        <published>2026-06-02T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Machine Learning for Trading: A Comprehensive Guide]]></summary>
+    </entry>
+        <entry>
+        <title>Godot Engine：开源跨平台游戏引擎的佼佼者</title>
+        <id>158837</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-02/godot-engine/?utm_source=blogfinder" />
+        <published>2026-06-02T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Godot Engine：开源跨平台游戏引擎的佼佼者]]></summary>
+    </entry>
+        <entry>
+        <title>FFF：为人类和 AI Agent 重新定义的极速文件搜索引擎</title>
+        <id>158836</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-02/fff/?utm_source=blogfinder" />
+        <published>2026-06-02T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[FFF：为人类和 AI Agent 重新定义的极速文件搜索引擎]]></summary>
+    </entry>
+        <entry>
         <title>第一性原理（First Principles）</title>
         <id>158816</id>
         <link href="https://www.blackbzy.com/posts/first-principles/?utm_source=blogfinder" />
@@ -616,6 +759,17 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[二叔的电脑和打印机又坏了，从32公里的邻城带到我这里修理]]></summary>
+    </entry>
+        <entry>
+        <title>潭山独行 - 日落翻车</title>
+        <id>158856</id>
+        <link href="https://hi.jeray.wang/L/217.html?utm_source=blogfinder" />
+        <published>2026-06-01T22:29:00+08:00</published>
+        <author>
+            <name>Jeray 大叔</name>
+            <uri>https://hi.jeray.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[潭山独行 - 日落翻车]]></summary>
     </entry>
         <entry>
         <title>提前沟通的重要性</title>
@@ -1289,6 +1443,116 @@
         <summary type="text"><![CDATA[网站缓存好是好，权衡利弊更重要]]></summary>
     </entry>
         <entry>
+        <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
+        <id>158849</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-01/train-lm-from-scratch/?utm_source=blogfinder" />
+        <published>2026-06-01T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南]]></summary>
+    </entry>
+        <entry>
+        <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
+        <id>158848</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-01/train-llm-from-scratch/?utm_source=blogfinder" />
+        <published>2026-06-01T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南]]></summary>
+    </entry>
+        <entry>
+        <title>TradingAgents：基于多智能体LLM的金融交易框架</title>
+        <id>158847</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-01/tradingagents/?utm_source=blogfinder" />
+        <published>2026-06-01T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[TradingAgents：基于多智能体LLM的金融交易框架]]></summary>
+    </entry>
+        <entry>
+        <title>Supermemory：让 AI 拥有持久记忆的上下文引擎</title>
+        <id>158846</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-01/supermemory/?utm_source=blogfinder" />
+        <published>2026-06-01T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Supermemory：让 AI 拥有持久记忆的上下文引擎]]></summary>
+    </entry>
+        <entry>
+        <title>Project N.O.M.A.D.：离线的本地知识中心，一个 Docker 搞定一切</title>
+        <id>158845</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-01/project-nomad/?utm_source=blogfinder" />
+        <published>2026-06-01T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Project N.O.M.A.D.：离线的本地知识中心，一个 Docker 搞定一切]]></summary>
+    </entry>
+        <entry>
+        <title>Pi Sub-Agents：让 AI 父会话委派任务给专注子 Agent</title>
+        <id>158844</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-01/pi-subagents/?utm_source=blogfinder" />
+        <published>2026-06-01T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Pi Sub-Agents：让 AI 父会话委派任务给专注子 Agent]]></summary>
+    </entry>
+        <entry>
+        <title>Impeccable：让 AI 生成的前端设计不再「千篇一律」</title>
+        <id>158843</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-01/impeccable/?utm_source=blogfinder" />
+        <published>2026-06-01T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Impeccable：让 AI 生成的前端设计不再「千篇一律」]]></summary>
+    </entry>
+        <entry>
+        <title>GitHub Docs：开源文档的工程实践与 OpenTelemetry 可观测性建设</title>
+        <id>158842</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-01/docs-github-docs/?utm_source=blogfinder" />
+        <published>2026-06-01T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[GitHub Docs：开源文档的工程实践与 OpenTelemetry 可观测性建设]]></summary>
+    </entry>
+        <entry>
+        <title>Babysitter: 用代码定义 AI 工作流，让代理严格按流程执行</title>
+        <id>158841</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-01/babysitter/?utm_source=blogfinder" />
+        <published>2026-06-01T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Babysitter: 用代码定义 AI 工作流，让代理严格按流程执行]]></summary>
+    </entry>
+        <entry>
+        <title>1742 个开发者作品集灵感库：让我找到做个人网站的方向了</title>
+        <id>158840</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-01/developer-portfolios/?utm_source=blogfinder" />
+        <published>2026-06-01T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[1742 个开发者作品集灵感库：让我找到做个人网站的方向了]]></summary>
+    </entry>
+        <entry>
         <title>越野入门 基础训练</title>
         <id>158738</id>
         <link href="https://www.blackbzy.com/posts/trail-running-fundamentals/?utm_source=blogfinder" />
@@ -1573,126 +1837,5 @@
             <uri>https://blog.kingfish404.cn</uri>
         </author>
         <summary type="text"><![CDATA[Write Something]]></summary>
-    </entry>
-        <entry>
-        <title>更新到了windows11</title>
-        <id>158612</id>
-        <link href="https://blog.s17.cn/post/16.html?utm_source=blogfinder" />
-        <published>2026-05-31T17:29:00+08:00</published>
-        <author>
-            <name>拾柒</name>
-            <uri>https://blog.s17.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[更新到了windows11]]></summary>
-    </entry>
-        <entry>
-        <title>J 的并不漫长也不悠闲假期（一）</title>
-        <id>158668</id>
-        <link href="https://www.justzht.com/j-s-not-so-leisure-vacation-pt-one/?utm_source=blogfinder" />
-        <published>2026-05-31T16:31:53+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[J 的并不漫长也不悠闲假期（一）]]></summary>
-    </entry>
-        <entry>
-        <title>一加15T发售两个多月后降价六百元，但是现在不需要了</title>
-        <id>158618</id>
-        <link href="https://www.bufanz.com/20260531638.html?utm_source=blogfinder" />
-        <published>2026-05-31T16:12:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[一加15T发售两个多月后降价六百元，但是现在不需要了]]></summary>
-    </entry>
-        <entry>
-        <title>Vol.105 AI分化：王小川押注医疗，何小鹏转机器人，Anthropic推动态Agent工作流</title>
-        <id>158697</id>
-        <link href="https://liduos.com/weekly/the-weekly-gradient-105?utm_source=blogfinder" />
-        <published>2026-05-31T16:00:00+08:00</published>
-        <author>
-            <name>莫尔索</name>
-            <uri>https://liduos.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Vol.105 AI分化：王小川押注医疗，何小鹏转机器人，Anthropic推动态Agent工作流]]></summary>
-    </entry>
-        <entry>
-        <title>在博客内放置一个基于Mirages主题的Steam游戏时长小组件</title>
-        <id>158614</id>
-        <link href="https://aloner.ink/Share/Steam-playtime.html?utm_source=blogfinder" />
-        <published>2026-05-31T15:47:00+08:00</published>
-        <author>
-            <name>如约而至</name>
-            <uri>https://aloner.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[在博客内放置一个基于Mirages主题的Steam游戏时长小组件]]></summary>
-    </entry>
-        <entry>
-        <title>【与Mondo同行·第四季】10：凡同行者，皆为宿契</title>
-        <id>158603</id>
-        <link href="http://www.qncd.com/?p=12809&amp;utm_source=blogfinder" />
-        <published>2026-05-31T15:16:44+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【与Mondo同行·第四季】10：凡同行者，皆为宿契]]></summary>
-    </entry>
-        <entry>
-        <title>掌中之物未必在掌握之中</title>
-        <id>158611</id>
-        <link href="https://cbc688.com/articles/zw?utm_source=blogfinder" />
-        <published>2026-05-31T15:06:58+08:00</published>
-        <author>
-            <name>CRIVU</name>
-            <uri>https://cbc688.com</uri>
-        </author>
-        <summary type="text"><![CDATA[掌中之物未必在掌握之中]]></summary>
-    </entry>
-        <entry>
-        <title>为了监测自己的呼吸暂停情况，我买了个智能手环</title>
-        <id>158604</id>
-        <link href="https://www.jfsay.com/archives/4056.html?utm_source=blogfinder" />
-        <published>2026-05-31T15:05:01+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为了监测自己的呼吸暂停情况，我买了个智能手环]]></summary>
-    </entry>
-        <entry>
-        <title>Patrol iOS 集成测试排坑实录 - xcodebuild exit code 70 全链路解决 | 阿尔的代码屋</title>
-        <id>158606</id>
-        <link href="https://blog.algieba12.cn/record07-patrol-ios-debugging/?utm_source=blogfinder" />
-        <published>2026-05-31T15:00:00+08:00</published>
-        <author>
-            <name>阿尔的代码屋</name>
-            <uri>https://blog.algieba12.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Patrol iOS 集成测试排坑实录 - xcodebuild exit code 70 全链路解决 | 阿尔的代码屋]]></summary>
-    </entry>
-        <entry>
-        <title>PiliNara，一个更顺手的 PiliPlus 分支</title>
-        <id>158609</id>
-        <link href="http://www.tucong.vip/archives/pilinara-yi-ge-geng-shun-shou-de-piliplus-fen-zhi?utm_source=blogfinder" />
-        <published>2026-05-31T14:30:00+08:00</published>
-        <author>
-            <name>Tea Bush</name>
-            <uri>https://www.tucong.vip</uri>
-        </author>
-        <summary type="text"><![CDATA[PiliNara，一个更顺手的 PiliPlus 分支]]></summary>
-    </entry>
-        <entry>
-        <title>六月限定“实力出粽”上线，四款“星”系列徽章同步开放领取</title>
-        <id>158601</id>
-        <link href="https://zhujay.com/talk/talk_detail.html?id=1232&amp;utm_source=blogfinder" />
-        <published>2026-05-31T14:20:15+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[六月限定“实力出粽”上线，四款“星”系列徽章同步开放领取]]></summary>
     </entry>
     </feed>
