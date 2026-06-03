@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-03T23:00:40+08:00</updated>
+    <updated>2026-06-04T00:00:22+08:00</updated>
+        <entry>
+        <title>Kakapo：使用 Wails v3、Go 和 Echo 构建一个本地翻译工作台</title>
+        <id>158868</id>
+        <link href="https://soulteary.com/2026/06/03/kakapo-a-local-translation-workbench-built-with-wails-v3-go-and-echo.html?utm_source=blogfinder" />
+        <published>2026-06-03T23:10:00+08:00</published>
+        <author>
+            <name>苏洋博客</name>
+            <uri>https://soulteary.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Kakapo：使用 Wails v3、Go 和 Echo 构建一个本地翻译工作台]]></summary>
+    </entry>
         <entry>
         <title>基于 Cloudflare Pages 的纯前端 WebAssembly 应用自动化部署实践 | 开发日志 | 阿尔的代码屋</title>
         <id>158866</id>
@@ -33,6 +44,17 @@
             <uri>https://sliun.com</uri>
         </author>
         <summary type="text"><![CDATA[忽然想到 # 11]]></summary>
+    </entry>
+        <entry>
+        <title>尝试小散文 | 房东奶奶菜园里的黄瓜番茄</title>
+        <id>158869</id>
+        <link href="https://www.52txr.cn/2026/huangguafanqie.html?utm_source=blogfinder" />
+        <published>2026-06-03T20:31:00+08:00</published>
+        <author>
+            <name>陶小桃</name>
+            <uri>https://www.52txr.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[尝试小散文 | 房东奶奶菜园里的黄瓜番茄]]></summary>
     </entry>
         <entry>
         <title>香港業餘無線電考試全攻略第一篇：由零開始</title>
@@ -1551,192 +1573,5 @@
             <uri>https://blog.moeworld.tech</uri>
         </author>
         <summary type="text"><![CDATA[六一快乐]]></summary>
-    </entry>
-        <entry>
-        <title>网站缓存好是好，权衡利弊更重要</title>
-        <id>158629</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1321/?utm_source=blogfinder" />
-        <published>2026-06-01T00:00:05+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[网站缓存好是好，权衡利弊更重要]]></summary>
-    </entry>
-        <entry>
-        <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
-        <id>158849</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-01/train-lm-from-scratch/?utm_source=blogfinder" />
-        <published>2026-06-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南]]></summary>
-    </entry>
-        <entry>
-        <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
-        <id>158848</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-01/train-llm-from-scratch/?utm_source=blogfinder" />
-        <published>2026-06-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南]]></summary>
-    </entry>
-        <entry>
-        <title>TradingAgents：基于多智能体LLM的金融交易框架</title>
-        <id>158847</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-01/tradingagents/?utm_source=blogfinder" />
-        <published>2026-06-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[TradingAgents：基于多智能体LLM的金融交易框架]]></summary>
-    </entry>
-        <entry>
-        <title>Supermemory：让 AI 拥有持久记忆的上下文引擎</title>
-        <id>158846</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-01/supermemory/?utm_source=blogfinder" />
-        <published>2026-06-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Supermemory：让 AI 拥有持久记忆的上下文引擎]]></summary>
-    </entry>
-        <entry>
-        <title>Project N.O.M.A.D.：离线的本地知识中心，一个 Docker 搞定一切</title>
-        <id>158845</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-01/project-nomad/?utm_source=blogfinder" />
-        <published>2026-06-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Project N.O.M.A.D.：离线的本地知识中心，一个 Docker 搞定一切]]></summary>
-    </entry>
-        <entry>
-        <title>Pi Sub-Agents：让 AI 父会话委派任务给专注子 Agent</title>
-        <id>158844</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-01/pi-subagents/?utm_source=blogfinder" />
-        <published>2026-06-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Pi Sub-Agents：让 AI 父会话委派任务给专注子 Agent]]></summary>
-    </entry>
-        <entry>
-        <title>Impeccable：让 AI 生成的前端设计不再「千篇一律」</title>
-        <id>158843</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-01/impeccable/?utm_source=blogfinder" />
-        <published>2026-06-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Impeccable：让 AI 生成的前端设计不再「千篇一律」]]></summary>
-    </entry>
-        <entry>
-        <title>GitHub Docs：开源文档的工程实践与 OpenTelemetry 可观测性建设</title>
-        <id>158842</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-01/docs-github-docs/?utm_source=blogfinder" />
-        <published>2026-06-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[GitHub Docs：开源文档的工程实践与 OpenTelemetry 可观测性建设]]></summary>
-    </entry>
-        <entry>
-        <title>Babysitter: 用代码定义 AI 工作流，让代理严格按流程执行</title>
-        <id>158841</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-01/babysitter/?utm_source=blogfinder" />
-        <published>2026-06-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Babysitter: 用代码定义 AI 工作流，让代理严格按流程执行]]></summary>
-    </entry>
-        <entry>
-        <title>1742 个开发者作品集灵感库：让我找到做个人网站的方向了</title>
-        <id>158840</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-01/developer-portfolios/?utm_source=blogfinder" />
-        <published>2026-06-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[1742 个开发者作品集灵感库：让我找到做个人网站的方向了]]></summary>
-    </entry>
-        <entry>
-        <title>越野入门 基础训练</title>
-        <id>158738</id>
-        <link href="https://www.blackbzy.com/posts/trail-running-fundamentals/?utm_source=blogfinder" />
-        <published>2026-06-01T00:00:00+08:00</published>
-        <author>
-            <name>blackbzy</name>
-            <uri>https://www.blackbzy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[越野入门 基础训练]]></summary>
-    </entry>
-        <entry>
-        <title>读：那些年我 Oncall 学到的事</title>
-        <id>158729</id>
-        <link href="https://lujun9972.github.io/blog/2026/06/01/读：那些年我-oncall-学到的事/index.html?utm_source=blogfinder" />
-        <published>2026-06-01T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：那些年我 Oncall 学到的事]]></summary>
-    </entry>
-        <entry>
-        <title>org-toggle-pretty-entities：将 TeX 标记渲染为 UTF-8 符号</title>
-        <id>158728</id>
-        <link href="https://lujun9972.github.io/blog/2026/06/01/org-toggle-pretty-entities：将-tex-标记渲染为-utf-8-符号/index.html?utm_source=blogfinder" />
-        <published>2026-06-01T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[org-toggle-pretty-entities：将 TeX 标记渲染为 UTF-8 符号]]></summary>
-    </entry>
-        <entry>
-        <title>org module之org-num</title>
-        <id>158727</id>
-        <link href="https://lujun9972.github.io/blog/2020/02/11/org-module之org-num/index.html?utm_source=blogfinder" />
-        <published>2026-06-01T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[org module之org-num]]></summary>
-    </entry>
-        <entry>
-        <title>Hermes WebUI：为 Hermes Agent 打造的自托管 Web 界面</title>
-        <id>158664</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-01/hermes-webui/?utm_source=blogfinder" />
-        <published>2026-06-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Hermes WebUI：为 Hermes Agent 打造的自托管 Web 界面]]></summary>
-    </entry>
-        <entry>
-        <title>松声｜廿六年·五月末·麦黄收</title>
-        <id>158694</id>
-        <link href="https://xyzbz.cn/archives/1549/?utm_source=blogfinder" />
-        <published>2026-05-31T23:59:00+08:00</published>
-        <author>
-            <name>网友小宋</name>
-            <uri>https://xyzbz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[松声｜廿六年·五月末·麦黄收]]></summary>
     </entry>
     </feed>
