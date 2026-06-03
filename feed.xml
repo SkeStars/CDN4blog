@@ -11,7 +11,95 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-03T18:00:30+08:00</updated>
+    <updated>2026-06-03T23:00:40+08:00</updated>
+        <entry>
+        <title>基于 Cloudflare Pages 的纯前端 WebAssembly 应用自动化部署实践 | 开发日志 | 阿尔的代码屋</title>
+        <id>158866</id>
+        <link href="https://blog.algieba12.cn/dev01-cloudflare-pages-deployment/?utm_source=blogfinder" />
+        <published>2026-06-03T22:30:00+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[基于 Cloudflare Pages 的纯前端 WebAssembly 应用自动化部署实践 | 开发日志 | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
+        <title>忽然想到 # 11</title>
+        <id>158867</id>
+        <link href="https://sliun.com/sudden11/?utm_source=blogfinder" />
+        <published>2026-06-03T21:25:00+08:00</published>
+        <author>
+            <name>理论派</name>
+            <uri>https://sliun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[忽然想到 # 11]]></summary>
+    </entry>
+        <entry>
+        <title>香港業餘無線電考試全攻略第一篇：由零開始</title>
+        <id>158861</id>
+        <link href="https://impatrick.blog/hk-amateur-radio-exam-01/?utm_source=blogfinder" />
+        <published>2026-06-03T20:09:04+08:00</published>
+        <author>
+            <name>Patrick&#039;s Blog</name>
+            <uri>https://impatrick.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[香港業餘無線電考試全攻略第一篇：由零開始]]></summary>
+    </entry>
+        <entry>
+        <title>26春学13周杂记</title>
+        <id>158860</id>
+        <link href="https://nxxy335.top/archives/Kx8qsx3M?utm_source=blogfinder" />
+        <published>2026-06-03T20:05:13+08:00</published>
+        <author>
+            <name>暖心向阳</name>
+            <uri>https://nxxy335.top</uri>
+        </author>
+        <summary type="text"><![CDATA[26春学13周杂记]]></summary>
+    </entry>
+        <entry>
+        <title>如何选择趁手的兵器（大模型和配套的工具）</title>
+        <id>158859</id>
+        <link href="https://www.suiyan.cc/blog/20260603200000?utm_source=blogfinder" />
+        <published>2026-06-03T20:00:00+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[如何选择趁手的兵器（大模型和配套的工具）]]></summary>
+    </entry>
+        <entry>
+        <title>又是一年高考季</title>
+        <id>158865</id>
+        <link href="https://ygz.ink/archives/5143.html?utm_source=blogfinder" />
+        <published>2026-06-03T19:47:24+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[又是一年高考季]]></summary>
+    </entry>
+        <entry>
+        <title>咬文嚼字</title>
+        <id>158858</id>
+        <link href="https://kaix.in/2026/0603/?utm_source=blogfinder" />
+        <published>2026-06-03T19:31:24+08:00</published>
+        <author>
+            <name>KAIX.IN</name>
+            <uri>https://kaix.in</uri>
+        </author>
+        <summary type="text"><![CDATA[咬文嚼字]]></summary>
+    </entry>
+        <entry>
+        <title>随思 #91 - 2026-06-03</title>
+        <id>158863</id>
+        <link href="http://qthinker.net/content/91?utm_source=blogfinder" />
+        <published>2026-06-03T18:51:57+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[随思 #91 - 2026-06-03]]></summary>
+    </entry>
         <entry>
         <title>从别人家路过拍的，不知道叫什么？</title>
         <id>158855</id>
@@ -121,6 +209,17 @@
             <uri>https://blog.gudong.site</uri>
         </author>
         <summary type="text"><![CDATA[inBox 笔记 2.3.9]]></summary>
+    </entry>
+        <entry>
+        <title>异乡的乡音</title>
+        <id>158857</id>
+        <link href="https://justgoidea.com/yi-xiang-de-xiang-yin/?utm_source=blogfinder" />
+        <published>2026-06-03T04:02:00+08:00</published>
+        <author>
+            <name>槿呈 Goidea</name>
+            <uri>https://justgoidea.com</uri>
+        </author>
+        <summary type="text"><![CDATA[异乡的乡音]]></summary>
     </entry>
         <entry>
         <title>如何让 AI Agent 工具帮助你清理 C 盘，让 C 盘不再报红？</title>
@@ -233,6 +332,17 @@
         <summary type="text"><![CDATA[Translating CS168 into Chinese]]></summary>
     </entry>
         <entry>
+        <title>分享一个我自己的免费 CDN</title>
+        <id>158864</id>
+        <link href="https://blog.liuzhen932.top/posts/request-free-cdn/?utm_source=blogfinder" />
+        <published>2026-06-02T22:30:39+08:00</published>
+        <author>
+            <name>liuzhen932 的小窝</name>
+            <uri>https://blog.liuzhen932.top</uri>
+        </author>
+        <summary type="text"><![CDATA[分享一个我自己的免费 CDN]]></summary>
+    </entry>
+        <entry>
         <title>远赴欧洲摘桂冠！中国足球小将意大利杯成功夺冠</title>
         <id>158828</id>
         <link href="https://www.zhounote.com/article/104?utm_source=blogfinder" />
@@ -253,6 +363,17 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lesson 27 暴涨理论的相关结论]]></summary>
+    </entry>
+        <entry>
+        <title>九龍灣平山日落 地鐵站附近看萬家燈火</title>
+        <id>158862</id>
+        <link href="https://impatrick.blog/kowloon-bay-ping-shan-sunset/?utm_source=blogfinder" />
+        <published>2026-06-02T21:21:22+08:00</published>
+        <author>
+            <name>Patrick&#039;s Blog</name>
+            <uri>https://impatrick.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[九龍灣平山日落 地鐵站附近看萬家燈火]]></summary>
     </entry>
         <entry>
         <title>二〇二六年五月总结：颓态总会过去吧</title>
@@ -1617,225 +1738,5 @@
             <uri>https://xyzbz.cn</uri>
         </author>
         <summary type="text"><![CDATA[松声｜廿六年·五月末·麦黄收]]></summary>
-    </entry>
-        <entry>
-        <title>markdown-it 链接扩展插件</title>
-        <id>158669</id>
-        <link href="https://imba97.com/post/815?utm_source=blogfinder" />
-        <published>2026-05-31T22:09:54+08:00</published>
-        <author>
-            <name>imba 久期</name>
-            <uri>https://imba97.com</uri>
-        </author>
-        <summary type="text"><![CDATA[markdown-it 链接扩展插件]]></summary>
-    </entry>
-        <entry>
-        <title>看看目前本地能跑什么模型,使用llama.cpp</title>
-        <id>158719</id>
-        <link href="https://nicksxs.me/2026/05/31/%E7%9C%8B%E7%9C%8B%E7%9B%AE%E5%89%8D%E6%9C%AC%E5%9C%B0%E8%83%BD%E8%B7%91%E4%BB%80%E4%B9%88%E6%A8%A1%E5%9E%8B-%E4%BD%BF%E7%94%A8llama-cpp/?utm_source=blogfinder" />
-        <published>2026-05-31T22:07:14+08:00</published>
-        <author>
-            <name>Nicksxs&#039;s Blog</name>
-            <uri>https://nicksxs.me</uri>
-        </author>
-        <summary type="text"><![CDATA[看看目前本地能跑什么模型,使用llama.cpp]]></summary>
-    </entry>
-        <entry>
-        <title>日常漫步 Vol.24 之漫步前山河</title>
-        <id>158649</id>
-        <link href="https://yayu.net/6229.html?utm_source=blogfinder" />
-        <published>2026-05-31T22:00:54+08:00</published>
-        <author>
-            <name>雅余</name>
-            <uri>https://yayu.net</uri>
-        </author>
-        <summary type="text"><![CDATA[日常漫步 Vol.24 之漫步前山河]]></summary>
-    </entry>
-        <entry>
-        <title>那些我周末喜欢做的事情</title>
-        <id>158627</id>
-        <link href="https://blog.solazy.me/20260531/?utm_source=blogfinder" />
-        <published>2026-05-31T22:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[那些我周末喜欢做的事情]]></summary>
-    </entry>
-        <entry>
-        <title>周报 #1-聊聊本周的收获</title>
-        <id>158626</id>
-        <link href="https://yesreho.com/talking-about-the-weeks-takeaways-1/?utm_source=blogfinder" />
-        <published>2026-05-31T21:59:27+08:00</published>
-        <author>
-            <name>LookLeap</name>
-            <uri>https://yesreho.com</uri>
-        </author>
-        <summary type="text"><![CDATA[周报 #1-聊聊本周的收获]]></summary>
-    </entry>
-        <entry>
-        <title>再游惠山古镇（x）锡惠公园（√）与周末做菜小记</title>
-        <id>158624</id>
-        <link href="https://www.52txr.cn/2026/wanxishan.html?utm_source=blogfinder" />
-        <published>2026-05-31T21:45:00+08:00</published>
-        <author>
-            <name>陶小桃</name>
-            <uri>https://www.52txr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[再游惠山古镇（x）锡惠公园（√）与周末做菜小记]]></summary>
-    </entry>
-        <entry>
-        <title>没有宗门庇护的凡人，能修到哪一层？</title>
-        <id>158619</id>
-        <link href="https://ygz.ink/archives/5096.html?utm_source=blogfinder" />
-        <published>2026-05-31T21:38:44+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[没有宗门庇护的凡人，能修到哪一层？]]></summary>
-    </entry>
-        <entry>
-        <title>2026-05小记</title>
-        <id>158733</id>
-        <link href="https://blog.storia.ren/posts/write-202605/?utm_source=blogfinder" />
-        <published>2026-05-31T21:32:17+08:00</published>
-        <author>
-            <name>绘星里</name>
-            <uri>https://blog.storia.ren</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-05小记]]></summary>
-    </entry>
-        <entry>
-        <title>再推荐一部修仙短剧《凡尘问道》</title>
-        <id>158620</id>
-        <link href="https://ygz.ink/archives/5091.html?utm_source=blogfinder" />
-        <published>2026-05-31T21:06:40+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[再推荐一部修仙短剧《凡尘问道》]]></summary>
-    </entry>
-        <entry>
-        <title>Rebase Hacker House 见闻</title>
-        <id>158623</id>
-        <link href="https://blog.devtang.com/2026/05/31/rebase-hacker-house/?utm_source=blogfinder" />
-        <published>2026-05-31T21:00:00+08:00</published>
-        <author>
-            <name>唐巧的博客</name>
-            <uri>https://blog.devtang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Rebase Hacker House 见闻]]></summary>
-    </entry>
-        <entry>
-        <title>Codex 治好了我的博客不能被 VXNA 抓取的毛病</title>
-        <id>158616</id>
-        <link href="https://www.tortorse.com/archives/vxna-rss-cloudflare-codex-debugging/?utm_source=blogfinder" />
-        <published>2026-05-31T20:56:55+08:00</published>
-        <author>
-            <name>愆伏</name>
-            <uri>https://www.tortorse.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Codex 治好了我的博客不能被 VXNA 抓取的毛病]]></summary>
-    </entry>
-        <entry>
-        <title>HK Comic Con 2026 Day3 我做咗啲乜 / 永諾35mm F2</title>
-        <id>158750</id>
-        <link href="https://impatrick.blog/hk-comic-con-2026-day3/?utm_source=blogfinder" />
-        <published>2026-05-31T20:54:03+08:00</published>
-        <author>
-            <name>Patrick&#039;s Blog</name>
-            <uri>https://impatrick.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[HK Comic Con 2026 Day3 我做咗啲乜 / 永諾35mm F2]]></summary>
-    </entry>
-        <entry>
-        <title>重庆越来越热了</title>
-        <id>158621</id>
-        <link href="https://ygz.ink/archives/5087.html?utm_source=blogfinder" />
-        <published>2026-05-31T20:36:27+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[重庆越来越热了]]></summary>
-    </entry>
-        <entry>
-        <title>“人可以穷困，但不可以潦倒” ｜ 隐说 NO.25</title>
-        <id>158613</id>
-        <link href="https://wangyurui.com/posts/yin-shuo-no-25-cb6fccf5?utm_source=blogfinder" />
-        <published>2026-05-31T20:31:44+08:00</published>
-        <author>
-            <name>太隐</name>
-            <uri>https://wangyurui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[“人可以穷困，但不可以潦倒” ｜ 隐说 NO.25]]></summary>
-    </entry>
-        <entry>
-        <title>小存储电脑福音：C盘清理技巧汇总</title>
-        <id>158681</id>
-        <link href="https://lklog.cn/course/1419.html?utm_source=blogfinder" />
-        <published>2026-05-31T19:30:54+08:00</published>
-        <author>
-            <name>龙鲲博客</name>
-            <uri>https://lklog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[小存储电脑福音：C盘清理技巧汇总]]></summary>
-    </entry>
-        <entry>
-        <title>六一拆盒｜女儿的星星人「一起白头」款</title>
-        <id>158622</id>
-        <link href="https://zhouayuan.com/post/45.html?utm_source=blogfinder" />
-        <published>2026-05-31T19:19:49+08:00</published>
-        <author>
-            <name>周阿源</name>
-            <uri>https://zhouayuan.com</uri>
-        </author>
-        <summary type="text"><![CDATA[六一拆盒｜女儿的星星人「一起白头」款]]></summary>
-    </entry>
-        <entry>
-        <title>田地变虾塘，农村人的前路该往哪走</title>
-        <id>158625</id>
-        <link href="https://luolt.cn/archives/3168.html?utm_source=blogfinder" />
-        <published>2026-05-31T18:59:00+08:00</published>
-        <author>
-            <name>洛丽糖</name>
-            <uri>http://luolt.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[田地变虾塘，农村人的前路该往哪走]]></summary>
-    </entry>
-        <entry>
-        <title>我的OpenCode必装插件与Skill</title>
-        <id>158615</id>
-        <link href="http://qthinker.net/content/89?utm_source=blogfinder" />
-        <published>2026-05-31T18:56:03+08:00</published>
-        <author>
-            <name>Qthinker</name>
-            <uri>https://qthinker.net</uri>
-        </author>
-        <summary type="text"><![CDATA[我的OpenCode必装插件与Skill]]></summary>
-    </entry>
-        <entry>
-        <title>重做 Stream 页面</title>
-        <id>158660</id>
-        <link href="https://justgoidea.com/rebuild-stream-page/?utm_source=blogfinder" />
-        <published>2026-05-31T18:53:00+08:00</published>
-        <author>
-            <name>槿呈 Goidea</name>
-            <uri>https://justgoidea.com</uri>
-        </author>
-        <summary type="text"><![CDATA[重做 Stream 页面]]></summary>
-    </entry>
-        <entry>
-        <title>Write Something</title>
-        <id>158648</id>
-        <link href="https://blog.kingfish404.cn/misc/write-something/?utm_source=blogfinder" />
-        <published>2026-05-31T18:28:18+08:00</published>
-        <author>
-            <name>Kingfish404</name>
-            <uri>https://blog.kingfish404.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Write Something]]></summary>
     </entry>
     </feed>
