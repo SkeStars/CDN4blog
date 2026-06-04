@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-04T13:06:34+08:00</updated>
+    <updated>2026-06-04T17:00:26+08:00</updated>
+        <entry>
+        <title>2026.6.4</title>
+        <id>159304</id>
+        <link href="https://www.justzht.com/2026-6-4/?utm_source=blogfinder" />
+        <published>2026-06-04T16:06:30+08:00</published>
+        <author>
+            <name>JustZht</name>
+            <uri>https://www.justzht.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026.6.4]]></summary>
+    </entry>
+        <entry>
+        <title>花生</title>
+        <id>159300</id>
+        <link href="https://mobius.blog/24567.html?utm_source=blogfinder" />
+        <published>2026-06-04T14:00:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[花生]]></summary>
+    </entry>
+        <entry>
+        <title>Vibe-Trading: 一句话让你的 AI 秒变专业交易员</title>
+        <id>159301</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-04/vibe-trading/?utm_source=blogfinder" />
+        <published>2026-06-04T12:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Vibe-Trading: 一句话让你的 AI 秒变专业交易员]]></summary>
+    </entry>
         <entry>
         <title>儿童手机</title>
         <id>159296</id>
@@ -44,6 +77,17 @@
             <uri>http://www.snbk.cn</uri>
         </author>
         <summary type="text"><![CDATA[从学霸到学渣他只用了两部手机。]]></summary>
+    </entry>
+        <entry>
+        <title>域名不备案，各种不方便</title>
+        <id>159305</id>
+        <link href="https://www.pgoj.top/archives/yu-ming-bei-an.html/?utm_source=blogfinder" />
+        <published>2026-06-04T09:51:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[域名不备案，各种不方便]]></summary>
     </entry>
         <entry>
         <title>Ubuntu里我就老实用CC-Switch+CodeX-CLI，并上了国外模型中转API的小作坊贼船</title>
@@ -132,6 +176,28 @@
             <uri>https://www.sanji.one</uri>
         </author>
         <summary type="text"><![CDATA[2026-06-04T05:15:06+08:00]]></summary>
+    </entry>
+        <entry>
+        <title>Odoo：开源企业资源规划（ERP）平台的架构解析与实践指南</title>
+        <id>159303</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-04/odoo/?utm_source=blogfinder" />
+        <published>2026-06-04T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Odoo：开源企业资源规划（ERP）平台的架构解析与实践指南]]></summary>
+    </entry>
+        <entry>
+        <title>Coding Interview University：从零开始的软件工程师面试通关指南</title>
+        <id>159302</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-04/coding-interview-university/?utm_source=blogfinder" />
+        <published>2026-06-04T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Coding Interview University：从零开始的软件工程师面试通关指南]]></summary>
     </entry>
         <entry>
         <title>Trivy：一款全能的容器与云原生安全扫描工具深度解析</title>
@@ -1452,104 +1518,5 @@
             <uri>https://blog.xrbk.cn</uri>
         </author>
         <summary type="text"><![CDATA[使用sessionStorage给音乐播放进度存储]]></summary>
-    </entry>
-        <entry>
-        <title>微信聊天记录一键备份导出工具</title>
-        <id>158723</id>
-        <link href="https://ygz.ink/archives/5108.html?utm_source=blogfinder" />
-        <published>2026-06-01T16:51:33+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[微信聊天记录一键备份导出工具]]></summary>
-    </entry>
-        <entry>
-        <title>随思 #90 - 2026-06-01</title>
-        <id>158721</id>
-        <link href="http://qthinker.net/content/90?utm_source=blogfinder" />
-        <published>2026-06-01T16:43:04+08:00</published>
-        <author>
-            <name>Qthinker</name>
-            <uri>https://qthinker.net</uri>
-        </author>
-        <summary type="text"><![CDATA[随思 #90 - 2026-06-01]]></summary>
-    </entry>
-        <entry>
-        <title>Album#41 - 风筝飞了一整天</title>
-        <id>158698</id>
-        <link href="https://taxodium.ink/album-41.html?utm_source=blogfinder" />
-        <published>2026-06-01T16:40:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[Album#41 - 风筝飞了一整天]]></summary>
-    </entry>
-        <entry>
-        <title>SUMIFS和LET函数——让 Excel 自己动起来</title>
-        <id>158712</id>
-        <link href="https://wuqishi.com/archives/excel-sumifs-let-guide?utm_source=blogfinder" />
-        <published>2026-06-01T16:10:50+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[SUMIFS和LET函数——让 Excel 自己动起来]]></summary>
-    </entry>
-        <entry>
-        <title>一颗桃子的一生：从青涩到“爆甜”的旅程</title>
-        <id>158702</id>
-        <link href="https://luolt.cn/archives/3170.html?utm_source=blogfinder" />
-        <published>2026-06-01T15:58:01+08:00</published>
-        <author>
-            <name>洛丽糖</name>
-            <uri>http://luolt.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[一颗桃子的一生：从青涩到“爆甜”的旅程]]></summary>
-    </entry>
-        <entry>
-        <title>数码评测(65-2)：再谈自制CPU天梯图</title>
-        <id>158715</id>
-        <link href="http://www.auiou.com/relevant/00002157.jsp?utm_source=blogfinder" />
-        <published>2026-06-01T15:26:00+08:00</published>
-        <author>
-            <name>王志勇的 Blog</name>
-            <uri>http://www.auiou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[数码评测(65-2)：再谈自制CPU天梯图]]></summary>
-    </entry>
-        <entry>
-        <title>关停的天涯是情怀，重启的天涯只剩尴尬</title>
-        <id>158720</id>
-        <link href="https://www.zhounote.com/article/102?utm_source=blogfinder" />
-        <published>2026-06-01T15:10:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[关停的天涯是情怀，重启的天涯只剩尴尬]]></summary>
-    </entry>
-        <entry>
-        <title>天涯社区这么快又死了</title>
-        <id>158704</id>
-        <link href="https://mojue88.com/12?utm_source=blogfinder" />
-        <published>2026-06-01T14:09:26+08:00</published>
-        <author>
-            <name>墨觉の日记</name>
-            <uri>https://mojue88.com</uri>
-        </author>
-        <summary type="text"><![CDATA[天涯社区这么快又死了]]></summary>
-    </entry>
-        <entry>
-        <title>我对vibe coding有一些改观了</title>
-        <id>158735</id>
-        <link href="https://www.youdiandongxi.com/article/vibe-coding-new-experience.html?utm_source=blogfinder" />
-        <published>2026-06-01T13:21:01+08:00</published>
-        <author>
-            <name>有点东西</name>
-            <uri>https://www.youdiandongxi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我对vibe coding有一些改观了]]></summary>
     </entry>
     </feed>
