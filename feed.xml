@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-04T17:00:26+08:00</updated>
+    <updated>2026-06-04T20:00:29+08:00</updated>
+        <entry>
+        <title>2026-06-04T19:55:27+08:00</title>
+        <id>159308</id>
+        <link href="https://www.sanji.one/moments/20260604-1955/?utm_source=blogfinder" />
+        <published>2026-06-04T19:55:27+08:00</published>
+        <author>
+            <name>时光散记</name>
+            <uri>https://www.sanji.one</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-06-04T19:55:27+08:00]]></summary>
+    </entry>
+        <entry>
+        <title>罗马-佛罗伦萨-梵蒂冈之旅（三）</title>
+        <id>159310</id>
+        <link href="https://eduardoqian.com/archives/luo-ma-fo-luo-lun-sa-fan-di-gang-zhi-lu-san?utm_source=blogfinder" />
+        <published>2026-06-04T17:26:33+08:00</published>
+        <author>
+            <name>司云有崖</name>
+            <uri>https://eduardoqian.com</uri>
+        </author>
+        <summary type="text"><![CDATA[罗马-佛罗伦萨-梵蒂冈之旅（三）]]></summary>
+    </entry>
         <entry>
         <title>2026.6.4</title>
         <id>159304</id>
@@ -112,6 +134,17 @@
         <summary type="text"><![CDATA[数据安全应急演练场景--攻击]]></summary>
     </entry>
         <entry>
+        <title>基于 Cloudflare 的 Emby 影视展示站改造：从公网发布到访问体验优化</title>
+        <id>159309</id>
+        <link href="http://blog.tangwudi.com/technology/homedatacenter14310/?utm_source=blogfinder" />
+        <published>2026-06-04T08:58:46+08:00</published>
+        <author>
+            <name>无敌的个人博客</name>
+            <uri>https://blog.tangwudi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[基于 Cloudflare 的 Emby 影视展示站改造：从公网发布到访问体验优化]]></summary>
+    </entry>
+        <entry>
         <title>与 AI 如何保持“社交安全距离”？ III</title>
         <id>159290</id>
         <link href="https://mobius.blog/24414.html?utm_source=blogfinder" />
@@ -176,6 +209,17 @@
             <uri>https://www.sanji.one</uri>
         </author>
         <summary type="text"><![CDATA[2026-06-04T05:15:06+08:00]]></summary>
+    </entry>
+        <entry>
+        <title>关于网站被攻击的后续</title>
+        <id>159306</id>
+        <link href="https://blog.xrbk.cn/post/80.html?utm_source=blogfinder" />
+        <published>2026-06-04T01:12:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://blog.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[关于网站被攻击的后续]]></summary>
     </entry>
         <entry>
         <title>Odoo：开源企业资源规划（ERP）平台的架构解析与实践指南</title>
@@ -605,6 +649,17 @@
             <uri>https://justgoidea.com</uri>
         </author>
         <summary type="text"><![CDATA[异乡的乡音]]></summary>
+    </entry>
+        <entry>
+        <title>人造景观</title>
+        <id>159307</id>
+        <link href="https://dujun.io/443d8414-31bb-55df-bf69-d548b38e7e07.html?utm_source=blogfinder" />
+        <published>2026-06-03T01:34:06+08:00</published>
+        <author>
+            <name>杜郎俊赏</name>
+            <uri>https://dujun.io</uri>
+        </author>
+        <summary type="text"><![CDATA[人造景观]]></summary>
     </entry>
         <entry>
         <title>如何让 AI Agent 工具帮助你清理 C 盘，让 C 盘不再报红？</title>
@@ -1485,38 +1540,5 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[人均一个博客聚合网站？]]></summary>
-    </entry>
-        <entry>
-        <title>2018-2026微信读书阅读记录</title>
-        <id>158783</id>
-        <link href="https://www.pgoj.top/archives/reading-stats.html/?utm_source=blogfinder" />
-        <published>2026-06-01T19:00:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[2018-2026微信读书阅读记录]]></summary>
-    </entry>
-        <entry>
-        <title>放飞梦想</title>
-        <id>158762</id>
-        <link href="https://mobius.blog/24549.html?utm_source=blogfinder" />
-        <published>2026-06-01T18:43:34+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[放飞梦想]]></summary>
-    </entry>
-        <entry>
-        <title>使用sessionStorage给音乐播放进度存储</title>
-        <id>158703</id>
-        <link href="https://blog.xrbk.cn/post/79.html?utm_source=blogfinder" />
-        <published>2026-06-01T17:37:00+08:00</published>
-        <author>
-            <name>新锐博客</name>
-            <uri>https://blog.xrbk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[使用sessionStorage给音乐播放进度存储]]></summary>
     </entry>
     </feed>
