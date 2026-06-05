@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-05T23:00:44+08:00</updated>
+    <updated>2026-06-06T00:00:30+08:00</updated>
         <entry>
         <title>记录一次静态资源国内外分流设置</title>
         <id>159399</id>
@@ -462,6 +462,17 @@
             <uri>https://cavill.site</uri>
         </author>
         <summary type="text"><![CDATA[Sequential List]]></summary>
+    </entry>
+        <entry>
+        <title>CatReader 上线：重启 RSS 阅读</title>
+        <id>159403</id>
+        <link href="https://macshuo.com/?p=2050&amp;utm_source=blogfinder" />
+        <published>2026-06-04T20:20:02+08:00</published>
+        <author>
+            <name>池建强的随想录</name>
+            <uri>https://macshuo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[CatReader 上线：重启 RSS 阅读]]></summary>
     </entry>
         <entry>
         <title>受人之托，然后呢</title>
@@ -1342,137 +1353,5 @@
             <uri>https://blog.kayro.cn</uri>
         </author>
         <summary type="text"><![CDATA[如何让 AI Agent 工具帮助你清理 C 盘，让 C 盘不再报红？]]></summary>
-    </entry>
-        <entry>
-        <title>读：为 Clojure 定制 AI Agent 的四个技能——从 println 调试到 REPL 交互</title>
-        <id>158875</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/20/读：为-clojure-定制-ai-agent-的四个技能——从-println-调试到-repl-交互/index.html?utm_source=blogfinder" />
-        <published>2026-06-03T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：为 Clojure 定制 AI Agent 的四个技能——从 println 调试到 REPL 交互]]></summary>
-    </entry>
-        <entry>
-        <title>读：DuckDB for Python Developers</title>
-        <id>158874</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/29/读：duckdb-for-python-developers/index.html?utm_source=blogfinder" />
-        <published>2026-06-03T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：DuckDB for Python Developers]]></summary>
-    </entry>
-        <entry>
-        <title>TIL：Python 中不该 catch 的三种异常</title>
-        <id>158873</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/27/til：python-中不该-catch-的三种异常/index.html?utm_source=blogfinder" />
-        <published>2026-06-03T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL：Python 中不该 catch 的三种异常]]></summary>
-    </entry>
-        <entry>
-        <title>读：为什么 Trace ID 要用 128 位</title>
-        <id>158872</id>
-        <link href="https://lujun9972.github.io/blog/2026/05/22/读：为什么-trace-id-要用-128-位/index.html?utm_source=blogfinder" />
-        <published>2026-06-03T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：为什么 Trace ID 要用 128 位]]></summary>
-    </entry>
-        <entry>
-        <title>读：Barely Treading Water——三个学术透镜看「勉强维持」的管理者</title>
-        <id>158871</id>
-        <link href="https://lujun9972.github.io/blog/2026/06/01/读：barely-treading-water——三个学术透镜看「勉强维持」的管理者/index.html?utm_source=blogfinder" />
-        <published>2026-06-03T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：Barely Treading Water——三个学术透镜看「勉强维持」的管理者]]></summary>
-    </entry>
-        <entry>
-        <title>AI 工程中最该投资的一件事：评估管道</title>
-        <id>158870</id>
-        <link href="https://lujun9972.github.io/blog/2026/06/02/ai-工程中最该投资的一件事：评估管道/index.html?utm_source=blogfinder" />
-        <published>2026-06-03T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[AI 工程中最该投资的一件事：评估管道]]></summary>
-    </entry>
-        <entry>
-        <title>Production Agentic RAG Course：从零构建生产级 RAG 系统的完整实战课程</title>
-        <id>158835</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-03/production-agentic-rag-course/?utm_source=blogfinder" />
-        <published>2026-06-03T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Production Agentic RAG Course：从零构建生产级 RAG 系统的完整实战课程]]></summary>
-    </entry>
-        <entry>
-        <title>Open-LLM-VTuber：开源离线运行的 AI 虚拟伴侣，支持语音对话与 Live2D 形象</title>
-        <id>158834</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-03/open-llm-vtuber/?utm_source=blogfinder" />
-        <published>2026-06-03T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Open-LLM-VTuber：开源离线运行的 AI 虚拟伴侣，支持语音对话与 Live2D 形象]]></summary>
-    </entry>
-        <entry>
-        <title>Headroom：AI Agent 的上下文压缩层，60-95% Token 节省</title>
-        <id>158833</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-03/headroom/?utm_source=blogfinder" />
-        <published>2026-06-03T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Headroom：AI Agent 的上下文压缩层，60-95% Token 节省]]></summary>
-    </entry>
-        <entry>
-        <title>Flowsint：开源 OSINT 图谱探索工具，让情报分析可视化</title>
-        <id>158832</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-03/flowsint/?utm_source=blogfinder" />
-        <published>2026-06-03T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Flowsint：开源 OSINT 图谱探索工具，让情报分析可视化]]></summary>
-    </entry>
-        <entry>
-        <title>称兄道弟</title>
-        <id>158812</id>
-        <link href="https://www.vergilisme.com/index.php/2026/06/02/2395.html?utm_source=blogfinder" />
-        <published>2026-06-02T23:16:00+08:00</published>
-        <author>
-            <name>八咫乌</name>
-            <uri>https://www.vergilisme.com</uri>
-        </author>
-        <summary type="text"><![CDATA[称兄道弟]]></summary>
-    </entry>
-        <entry>
-        <title>加更：体验 Waymo 无人驾驶汽车</title>
-        <id>158824</id>
-        <link href="https://www.ixiqin.com/2026/06/02/update-experience-waymo-autonomous-vehicles/?utm_source=blogfinder" />
-        <published>2026-06-02T23:10:32+08:00</published>
-        <author>
-            <name>西秦公子</name>
-            <uri>https://www.ixiqin.com</uri>
-        </author>
-        <summary type="text"><![CDATA[加更：体验 Waymo 无人驾驶汽车]]></summary>
     </entry>
     </feed>
