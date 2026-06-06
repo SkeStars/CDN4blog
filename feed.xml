@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-06T22:01:56+08:00</updated>
+    <updated>2026-06-06T23:01:20+08:00</updated>
+        <entry>
+        <title>【也闲谈·第四季】十四：从莎士比亚《威尼斯商人》看多数的暴政</title>
+        <id>159656</id>
+        <link href="http://www.qncd.com/?p=12826&amp;utm_source=blogfinder" />
+        <published>2026-06-06T22:47:22+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【也闲谈·第四季】十四：从莎士比亚《威尼斯商人》看多数的暴政]]></summary>
+    </entry>
+        <entry>
+        <title>养育一个孩子，需要花多少钱？</title>
+        <id>159657</id>
+        <link href="https://meledee.com/2026/06/4814.html?utm_source=blogfinder" />
+        <published>2026-06-06T22:14:56+08:00</published>
+        <author>
+            <name>美樂地</name>
+            <uri>https://meledee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[养育一个孩子，需要花多少钱？]]></summary>
+    </entry>
         <entry>
         <title>阔别2年我又来到了固始</title>
         <id>159655</id>
@@ -145,6 +167,17 @@
         <summary type="text"><![CDATA[六六顺遂，恰逢周六]]></summary>
     </entry>
         <entry>
+        <title>世界 IPv6 日，不只是个纪念日</title>
+        <id>159658</id>
+        <link href="https://blog.liuzhen932.top/posts/world-ipv6-day-2026/?utm_source=blogfinder" />
+        <published>2026-06-06T08:00:00+08:00</published>
+        <author>
+            <name>liuzhen932 的小窝</name>
+            <uri>https://blog.liuzhen932.top</uri>
+        </author>
+        <summary type="text"><![CDATA[世界 IPv6 日，不只是个纪念日]]></summary>
+    </entry>
+        <entry>
         <title>性价比与价效比</title>
         <id>159635</id>
         <link href="https://www.immarcus.com/blog/cp-ratio-vs-pc-ratio?utm_source=blogfinder" />
@@ -165,6 +198,17 @@
             <uri>https://impatrick.blog</uri>
         </author>
         <summary type="text"><![CDATA[香港業餘無線電考試全攻略第四篇：技術上你需要知道的（二）]]></summary>
+    </entry>
+        <entry>
+        <title>没道士也没利是</title>
+        <id>159659</id>
+        <link href="https://ilogs.cn/2026/06/06/383.html?utm_source=blogfinder" />
+        <published>2026-06-06T07:02:00+08:00</published>
+        <author>
+            <name>我的日志</name>
+            <uri>https://ilogs.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[没道士也没利是]]></summary>
     </entry>
         <entry>
         <title>神户节2026</title>
@@ -1386,27 +1430,5 @@
             <uri>https://siwei.li</uri>
         </author>
         <summary type="text"><![CDATA[尝试用Codex开发微信小程序]]></summary>
-    </entry>
-        <entry>
-        <title>异性之间有纯友谊吗？</title>
-        <id>159365</id>
-        <link href="https://blog.solazy.me/20260603/?utm_source=blogfinder" />
-        <published>2026-06-03T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[异性之间有纯友谊吗？]]></summary>
-    </entry>
-        <entry>
-        <title>基于 Cloudflare Pages 的纯前端 WebAssembly 应用自动化部署实践 | 开发日志 | 阿尔的代码屋</title>
-        <id>158866</id>
-        <link href="https://blog.algieba12.cn/dev01-cloudflare-pages-deployment/?utm_source=blogfinder" />
-        <published>2026-06-03T22:30:00+08:00</published>
-        <author>
-            <name>阿尔的代码屋</name>
-            <uri>https://blog.algieba12.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[基于 Cloudflare Pages 的纯前端 WebAssembly 应用自动化部署实践 | 开发日志 | 阿尔的代码屋]]></summary>
     </entry>
     </feed>
