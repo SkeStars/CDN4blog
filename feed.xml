@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-06T12:00:35+08:00</updated>
+    <updated>2026-06-06T16:00:58+08:00</updated>
+        <entry>
+        <title>10亩地小麦，能买一部iPhone17吗？</title>
+        <id>159642</id>
+        <link href="https://www.zhyok.cn/archives/411/?utm_source=blogfinder" />
+        <published>2026-06-06T13:02:00+08:00</published>
+        <author>
+            <name>秋記 Autumn</name>
+            <uri>https://www.zhyok.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[10亩地小麦，能买一部iPhone17吗？]]></summary>
+    </entry>
+        <entry>
+        <title>青岛之恋</title>
+        <id>159640</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1157&amp;utm_source=blogfinder" />
+        <published>2026-06-06T10:31:26+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[青岛之恋]]></summary>
+    </entry>
         <entry>
         <title>六六顺遂，恰逢周六</title>
         <id>159637</id>
@@ -99,6 +121,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[积分兑了两包零嘴]]></summary>
+    </entry>
+        <entry>
+        <title>Hexo 博客接入 Fediverse —— Hatsu + Vercel 踩坑记</title>
+        <id>159641</id>
+        <link href="https://blog.samhou.moe/hexo-fediverse/?utm_source=blogfinder" />
+        <published>2026-06-05T20:07:01+08:00</published>
+        <author>
+            <name>SamHou&#039;s Blog</name>
+            <uri>https://blog.samhou.moe</uri>
+        </author>
+        <summary type="text"><![CDATA[Hexo 博客接入 Fediverse —— Hatsu + Vercel 踩坑记]]></summary>
     </entry>
         <entry>
         <title>嫌鹦鹉鸟笼太小，换粮换水又不方便，买了大一点的鸟笼</title>
@@ -1375,27 +1408,5 @@
             <uri>http://luolt.cn</uri>
         </author>
         <summary type="text"><![CDATA[从别人家路过拍的，不知道叫什么？]]></summary>
-    </entry>
-        <entry>
-        <title>老狗满眼都是陈事旧影</title>
-        <id>158853</id>
-        <link href="https://www.pgoj.top/archives/old-dog-eyes-filled-with-memories-of-bygone-days.html/?utm_source=blogfinder" />
-        <published>2026-06-03T15:00:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[老狗满眼都是陈事旧影]]></summary>
-    </entry>
-        <entry>
-        <title>VLOOKUP 的坑，我替你们踩完了</title>
-        <id>158851</id>
-        <link href="https://wuqishi.com/archives/excel-vlookup-xlookup-guide?utm_source=blogfinder" />
-        <published>2026-06-03T14:00:00+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[VLOOKUP 的坑，我替你们踩完了]]></summary>
     </entry>
     </feed>
