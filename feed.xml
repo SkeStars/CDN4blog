@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-06T19:01:19+08:00</updated>
+    <updated>2026-06-06T22:01:56+08:00</updated>
+        <entry>
+        <title>阔别2年我又来到了固始</title>
+        <id>159655</id>
+        <link href="https://ayayy.com/2.html?utm_source=blogfinder" />
+        <published>2026-06-06T21:13:00+08:00</published>
+        <author>
+            <name>哎呀哎呀呀</name>
+            <uri>https://ayayy.com</uri>
+        </author>
+        <summary type="text"><![CDATA[阔别2年我又来到了固始]]></summary>
+    </entry>
+        <entry>
+        <title>解决QQ浏览器等魔改内核下SVG背景图颜色异常变白的问题</title>
+        <id>159649</id>
+        <link href="https://xingwangzhe.fun/posts/fix-svg-background-forcedark-whitening/?utm_source=blogfinder" />
+        <published>2026-06-06T18:30:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[解决QQ浏览器等魔改内核下SVG背景图颜色异常变白的问题]]></summary>
+    </entry>
+        <entry>
+        <title>感谢BlogsClub和好站网的精美礼品</title>
+        <id>159650</id>
+        <link href="https://xingwangzhe.fun/posts/thanks-blogsclub-haozhanwang/?utm_source=blogfinder" />
+        <published>2026-06-06T17:30:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[感谢BlogsClub和好站网的精美礼品]]></summary>
+    </entry>
         <entry>
         <title>明天高考，别慌：它是人生第一场公平局，不是终局</title>
         <id>159647</id>
@@ -123,6 +156,17 @@
         <summary type="text"><![CDATA[性价比与价效比]]></summary>
     </entry>
         <entry>
+        <title>香港業餘無線電考試全攻略第四篇：技術上你需要知道的（二）</title>
+        <id>159652</id>
+        <link href="https://impatrick.blog/hk-amateur-radio-exam-04/?utm_source=blogfinder" />
+        <published>2026-06-06T07:56:19+08:00</published>
+        <author>
+            <name>Patrick&#039;s Blog</name>
+            <uri>https://impatrick.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[香港業餘無線電考試全攻略第四篇：技術上你需要知道的（二）]]></summary>
+    </entry>
+        <entry>
         <title>神户节2026</title>
         <id>159638</id>
         <link href="https://shuiba.co/kobe-matsuri-2026?utm_source=blogfinder" />
@@ -143,6 +187,28 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[你的RSS订阅源有跳菠菜的风险]]></summary>
+    </entry>
+        <entry>
+        <title>iphone17ProMax和Macmini4初体验</title>
+        <id>159651</id>
+        <link href="https://t-t.live/archives/WhZQ281H?utm_source=blogfinder" />
+        <published>2026-06-05T23:13:52+08:00</published>
+        <author>
+            <name>团团生活志</name>
+            <uri>https://t-t.live</uri>
+        </author>
+        <summary type="text"><![CDATA[iphone17ProMax和Macmini4初体验]]></summary>
+    </entry>
+        <entry>
+        <title>香港業餘無線電考試全攻略第三篇：技術上你需要知道的（一）</title>
+        <id>159653</id>
+        <link href="https://impatrick.blog/hk-amateur-radio-exam-03/?utm_source=blogfinder" />
+        <published>2026-06-05T21:42:18+08:00</published>
+        <author>
+            <name>Patrick&#039;s Blog</name>
+            <uri>https://impatrick.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[香港業餘無線電考試全攻略第三篇：技術上你需要知道的（一）]]></summary>
     </entry>
         <entry>
         <title>醇香小记·第二十一期</title>
@@ -750,6 +816,17 @@
         <summary type="text"><![CDATA[正向代理&amp;反向代理？]]></summary>
     </entry>
         <entry>
+        <title>香港業餘無線電考試全攻略第二篇：了解法例</title>
+        <id>159654</id>
+        <link href="https://impatrick.blog/https-impatrick-blog-hk-amateur-radio-exam-02/?utm_source=blogfinder" />
+        <published>2026-06-04T21:18:24+08:00</published>
+        <author>
+            <name>Patrick&#039;s Blog</name>
+            <uri>https://impatrick.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[香港業餘無線電考試全攻略第二篇：了解法例]]></summary>
+    </entry>
+        <entry>
         <title>枝头青桃，满是初夏的清甜念想</title>
         <id>159320</id>
         <link href="https://luolt.cn/archives/3174.html?utm_source=blogfinder" />
@@ -1331,115 +1408,5 @@
             <uri>https://blog.algieba12.cn</uri>
         </author>
         <summary type="text"><![CDATA[基于 Cloudflare Pages 的纯前端 WebAssembly 应用自动化部署实践 | 开发日志 | 阿尔的代码屋]]></summary>
-    </entry>
-        <entry>
-        <title>五月小记 |  上班一个月，老员工想带我跳槽</title>
-        <id>158981</id>
-        <link href="https://www.rua.ink/1354.html?utm_source=blogfinder" />
-        <published>2026-06-03T21:35:00+08:00</published>
-        <author>
-            <name>Mello 的赛博本子</name>
-            <uri>https://www.rua.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[五月小记 |  上班一个月，老员工想带我跳槽]]></summary>
-    </entry>
-        <entry>
-        <title>忽然想到 # 11</title>
-        <id>158867</id>
-        <link href="https://sliun.com/sudden11/?utm_source=blogfinder" />
-        <published>2026-06-03T21:25:00+08:00</published>
-        <author>
-            <name>理论派</name>
-            <uri>https://sliun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[忽然想到 # 11]]></summary>
-    </entry>
-        <entry>
-        <title>吐槽奇葩客户</title>
-        <id>159291</id>
-        <link href="https://i55.top/archives/530/?utm_source=blogfinder" />
-        <published>2026-06-03T20:47:05+08:00</published>
-        <author>
-            <name>安迪</name>
-            <uri>https://i55.top</uri>
-        </author>
-        <summary type="text"><![CDATA[吐槽奇葩客户]]></summary>
-    </entry>
-        <entry>
-        <title>尝试小散文 | 房东奶奶菜园里的黄瓜番茄</title>
-        <id>158869</id>
-        <link href="https://www.52txr.cn/2026/huangguafanqie.html?utm_source=blogfinder" />
-        <published>2026-06-03T20:31:00+08:00</published>
-        <author>
-            <name>陶小桃</name>
-            <uri>https://www.52txr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[尝试小散文 | 房东奶奶菜园里的黄瓜番茄]]></summary>
-    </entry>
-        <entry>
-        <title>香港業餘無線電考試全攻略第一篇：由零開始</title>
-        <id>158861</id>
-        <link href="https://impatrick.blog/hk-amateur-radio-exam-01/?utm_source=blogfinder" />
-        <published>2026-06-03T20:09:04+08:00</published>
-        <author>
-            <name>Patrick&#039;s Blog</name>
-            <uri>https://impatrick.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[香港業餘無線電考試全攻略第一篇：由零開始]]></summary>
-    </entry>
-        <entry>
-        <title>26春学13周杂记</title>
-        <id>158860</id>
-        <link href="https://nxxy335.top/archives/Kx8qsx3M?utm_source=blogfinder" />
-        <published>2026-06-03T20:05:13+08:00</published>
-        <author>
-            <name>暖心向阳</name>
-            <uri>https://nxxy335.top</uri>
-        </author>
-        <summary type="text"><![CDATA[26春学13周杂记]]></summary>
-    </entry>
-        <entry>
-        <title>如何选择趁手的兵器（大模型和配套的工具）</title>
-        <id>158859</id>
-        <link href="https://www.suiyan.cc/blog/20260603200000?utm_source=blogfinder" />
-        <published>2026-06-03T20:00:00+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[如何选择趁手的兵器（大模型和配套的工具）]]></summary>
-    </entry>
-        <entry>
-        <title>又是一年高考季</title>
-        <id>158865</id>
-        <link href="https://ygz.ink/archives/5143.html?utm_source=blogfinder" />
-        <published>2026-06-03T19:47:24+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[又是一年高考季]]></summary>
-    </entry>
-        <entry>
-        <title>咬文嚼字</title>
-        <id>158858</id>
-        <link href="https://kaix.in/2026/0603/?utm_source=blogfinder" />
-        <published>2026-06-03T19:31:24+08:00</published>
-        <author>
-            <name>KAIX.IN</name>
-            <uri>https://kaix.in</uri>
-        </author>
-        <summary type="text"><![CDATA[咬文嚼字]]></summary>
-    </entry>
-        <entry>
-        <title>为何写作</title>
-        <id>158876</id>
-        <link href="https://www.kawabangga.com/posts/7288?utm_source=blogfinder" />
-        <published>2026-06-03T19:10:00+08:00</published>
-        <author>
-            <name>卡瓦邦噶</name>
-            <uri>https://www.kawabangga.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为何写作]]></summary>
     </entry>
     </feed>
