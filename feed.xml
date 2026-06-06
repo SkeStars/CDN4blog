@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-06T23:01:20+08:00</updated>
+    <updated>2026-06-07T00:00:45+08:00</updated>
+        <entry>
+        <title>分析 Nginx 访问日志，在里面挖点宝</title>
+        <id>159662</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1353/?utm_source=blogfinder" />
+        <published>2026-06-07T00:00:04+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[分析 Nginx 访问日志，在里面挖点宝]]></summary>
+    </entry>
         <entry>
         <title>【也闲谈·第四季】十四：从莎士比亚《威尼斯商人》看多数的暴政</title>
         <id>159656</id>
@@ -44,6 +55,17 @@
             <uri>https://ayayy.com</uri>
         </author>
         <summary type="text"><![CDATA[阔别2年我又来到了固始]]></summary>
+    </entry>
+        <entry>
+        <title>山海各有归途</title>
+        <id>159660</id>
+        <link href="https://knay.net/note/untitled-20260606?utm_source=blogfinder" />
+        <published>2026-06-06T20:46:30+08:00</published>
+        <author>
+            <name>Yang&#039;s Blog</name>
+            <uri>https://knay.net</uri>
+        </author>
+        <summary type="text"><![CDATA[山海各有归途]]></summary>
     </entry>
         <entry>
         <title>解决QQ浏览器等魔改内核下SVG背景图颜色异常变白的问题</title>
@@ -462,6 +484,17 @@
             <uri>http://www.lopwon.com</uri>
         </author>
         <summary type="text"><![CDATA[44，芒种]]></summary>
+    </entry>
+        <entry>
+        <title>痛风复发</title>
+        <id>159661</id>
+        <link href="https://yesreho.com/gout-recurrence/?utm_source=blogfinder" />
+        <published>2026-06-05T11:55:20+08:00</published>
+        <author>
+            <name>LookLeap</name>
+            <uri>https://yesreho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[痛风复发]]></summary>
     </entry>
         <entry>
         <title>自我的改变</title>
@@ -1298,137 +1331,5 @@
             <uri>https://blog.xrbk.cn</uri>
         </author>
         <summary type="text"><![CDATA[关于网站被攻击的后续]]></summary>
-    </entry>
-        <entry>
-        <title>Spec Kit：重新定义 AI 辅助开发——从 Vibe Coding 到 Spec-Driven Development</title>
-        <id>159354</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-04/spec-kit/?utm_source=blogfinder" />
-        <published>2026-06-04T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Spec Kit：重新定义 AI 辅助开发——从 Vibe Coding 到 Spec-Driven Development]]></summary>
-    </entry>
-        <entry>
-        <title>PaddleOCR：领先的开源OCR与文档AI工具包深度解析</title>
-        <id>159353</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-04/paddleocr/?utm_source=blogfinder" />
-        <published>2026-06-04T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[PaddleOCR：领先的开源OCR与文档AI工具包深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>TIL：发布压力是系统本身的问题，不是发布流程的问题</title>
-        <id>159347</id>
-        <link href="https://lujun9972.github.io/blog/2026/06/03/til：发布压力是系统本身的问题，不是发布流程的问题/index.html?utm_source=blogfinder" />
-        <published>2026-06-04T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL：发布压力是系统本身的问题，不是发布流程的问题]]></summary>
-    </entry>
-        <entry>
-        <title>读：AI 会杀死开源社区吗？从 Emacs 的故事说起</title>
-        <id>159346</id>
-        <link href="https://lujun9972.github.io/blog/2026/06/03/读：ai-会杀死开源社区吗？从-emacs-的故事说起/index.html?utm_source=blogfinder" />
-        <published>2026-06-04T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：AI 会杀死开源社区吗？从 Emacs 的故事说起]]></summary>
-    </entry>
-        <entry>
-        <title>Odoo：开源企业资源规划（ERP）平台的架构解析与实践指南</title>
-        <id>159303</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-04/odoo/?utm_source=blogfinder" />
-        <published>2026-06-04T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Odoo：开源企业资源规划（ERP）平台的架构解析与实践指南]]></summary>
-    </entry>
-        <entry>
-        <title>Coding Interview University：从零开始的软件工程师面试通关指南</title>
-        <id>159302</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-04/coding-interview-university/?utm_source=blogfinder" />
-        <published>2026-06-04T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Coding Interview University：从零开始的软件工程师面试通关指南]]></summary>
-    </entry>
-        <entry>
-        <title>Trivy：一款全能的容器与云原生安全扫描工具深度解析</title>
-        <id>159281</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-04/trivy/?utm_source=blogfinder" />
-        <published>2026-06-04T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Trivy：一款全能的容器与云原生安全扫描工具深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>OpenDataLoader PDF：排名第一的开源 PDF 解析与无障碍自动化工具</title>
-        <id>159280</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-04/opendataloader-pdf/?utm_source=blogfinder" />
-        <published>2026-06-04T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenDataLoader PDF：排名第一的开源 PDF 解析与无障碍自动化工具]]></summary>
-    </entry>
-        <entry>
-        <title>Hermes Agent：具备自我进化能力的开源 AI Agent 框架</title>
-        <id>159279</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-04/hermes-agent/?utm_source=blogfinder" />
-        <published>2026-06-04T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Hermes Agent：具备自我进化能力的开源 AI Agent 框架]]></summary>
-    </entry>
-        <entry>
-        <title>Kakapo：使用 Wails v3、Go 和 Echo 构建一个本地翻译工作台</title>
-        <id>158868</id>
-        <link href="https://soulteary.com/2026/06/03/kakapo-a-local-translation-workbench-built-with-wails-v3-go-and-echo.html?utm_source=blogfinder" />
-        <published>2026-06-03T23:10:00+08:00</published>
-        <author>
-            <name>苏洋博客</name>
-            <uri>https://soulteary.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Kakapo：使用 Wails v3、Go 和 Echo 构建一个本地翻译工作台]]></summary>
-    </entry>
-        <entry>
-        <title>升降晾衣架换绳记</title>
-        <id>159295</id>
-        <link href="https://www.weisay.com/blog/replacing-the-clothesline.html?utm_source=blogfinder" />
-        <published>2026-06-03T23:08:45+08:00</published>
-        <author>
-            <name>威言威语</name>
-            <uri>https://www.weisay.com/blog/</uri>
-        </author>
-        <summary type="text"><![CDATA[升降晾衣架换绳记]]></summary>
-    </entry>
-        <entry>
-        <title>尝试用Codex开发微信小程序</title>
-        <id>159315</id>
-        <link href="https://siwei.li/yong-codexkai-fa-wei-xin/?utm_source=blogfinder" />
-        <published>2026-06-03T23:06:34+08:00</published>
-        <author>
-            <name>Siwei Li</name>
-            <uri>https://siwei.li</uri>
-        </author>
-        <summary type="text"><![CDATA[尝试用Codex开发微信小程序]]></summary>
     </entry>
     </feed>
