@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-08T13:04:59+08:00</updated>
+    <updated>2026-06-08T18:00:21+08:00</updated>
+        <entry>
+        <title>Dream2.0 Plus 友链头像 400 错误：双重编码陷阱排查</title>
+        <id>159984</id>
+        <link href="https://wuqishi.com/archives/dream2-plus-avatar-double-encoding-fix?utm_source=blogfinder" />
+        <published>2026-06-08T16:10:23+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Dream2.0 Plus 友链头像 400 错误：双重编码陷阱排查]]></summary>
+    </entry>
+        <entry>
+        <title>奇怪的梦境记录</title>
+        <id>159987</id>
+        <link href="https://www.renhuali.cn/journal/cmq4uwg4f006uchf19eartf3m?utm_source=blogfinder" />
+        <published>2026-06-08T14:55:17+08:00</published>
+        <author>
+            <name>华立博客</name>
+            <uri>https://renhuali.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[奇怪的梦境记录]]></summary>
+    </entry>
+        <entry>
+        <title>雨路湿滑，小心驾驶</title>
+        <id>159986</id>
+        <link href="http://etom.top/archives/so139.html?utm_source=blogfinder" />
+        <published>2026-06-08T12:57:00+08:00</published>
+        <author>
+            <name>浮生事</name>
+            <uri>http://etom.top</uri>
+        </author>
+        <summary type="text"><![CDATA[雨路湿滑，小心驾驶]]></summary>
+    </entry>
+        <entry>
+        <title>又时高考时</title>
+        <id>159983</id>
+        <link href="https://www.lindongfang.top/archives/2689/?utm_source=blogfinder" />
+        <published>2026-06-08T10:23:51+08:00</published>
+        <author>
+            <name>游子微博</name>
+            <uri>https://www.lindongfang.top</uri>
+        </author>
+        <summary type="text"><![CDATA[又时高考时]]></summary>
+    </entry>
         <entry>
         <title>主题 - BonhamRoad 般咸道</title>
         <id>159977</id>
@@ -35,6 +79,17 @@
         <summary type="text"><![CDATA[小乖乖亲手打磨的葫芦]]></summary>
     </entry>
         <entry>
+        <title>Tolaria：开源跨平台的 Markdown 知识库管理工具</title>
+        <id>159979</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-08/tolaria/?utm_source=blogfinder" />
+        <published>2026-06-08T10:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Tolaria：开源跨平台的 Markdown 知识库管理工具]]></summary>
+    </entry>
+        <entry>
         <title>香水</title>
         <id>159970</id>
         <link href="https://mobius.blog/24440.html?utm_source=blogfinder" />
@@ -46,6 +101,17 @@
         <summary type="text"><![CDATA[香水]]></summary>
     </entry>
         <entry>
+        <title>稻草人周刊 Vol.84</title>
+        <id>159989</id>
+        <link href="https://www.geedea.pro/weekly/84/?utm_source=blogfinder" />
+        <published>2026-06-08T07:43:55+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[稻草人周刊 Vol.84]]></summary>
+    </entry>
+        <entry>
         <title>杂记</title>
         <id>159968</id>
         <link href="https://www.chenrui.com/post/3495.html?utm_source=blogfinder" />
@@ -55,6 +121,39 @@
             <uri>https://www.chenrui.com</uri>
         </author>
         <summary type="text"><![CDATA[杂记]]></summary>
+    </entry>
+        <entry>
+        <title>pg_durable：在 PostgreSQL 内实现持久化工作流编排</title>
+        <id>159982</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-08/pg-durable/?utm_source=blogfinder" />
+        <published>2026-06-08T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[pg_durable：在 PostgreSQL 内实现持久化工作流编排]]></summary>
+    </entry>
+        <entry>
+        <title>OpenAI Codex 插件生态：AI 编程助手的扩展革命</title>
+        <id>159981</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-08/plugins/?utm_source=blogfinder" />
+        <published>2026-06-08T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenAI Codex 插件生态：AI 编程助手的扩展革命]]></summary>
+    </entry>
+        <entry>
+        <title>GhostTrack：开源 OSINT 信息收集工具深度解析</title>
+        <id>159980</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-08/ghosttrack/?utm_source=blogfinder" />
+        <published>2026-06-08T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[GhostTrack：开源 OSINT 信息收集工具深度解析]]></summary>
     </entry>
         <entry>
         <title>turbovec：基于 Google TurboQuant 的高性能向量搜索引擎</title>
@@ -319,6 +418,17 @@
             <uri>https://min168.top</uri>
         </author>
         <summary type="text"><![CDATA[今日说法 节目汇总笔记]]></summary>
+    </entry>
+        <entry>
+        <title>Vol.106 Agent 产品加速落地，AI 重塑软件工程范式与组织变革</title>
+        <id>159985</id>
+        <link href="https://liduos.com/weekly/the-weekly-gradient-106?utm_source=blogfinder" />
+        <published>2026-06-07T16:00:00+08:00</published>
+        <author>
+            <name>莫尔索</name>
+            <uri>https://liduos.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Vol.106 Agent 产品加速落地，AI 重塑软件工程范式与组织变革]]></summary>
     </entry>
         <entry>
         <title>和气生财，吵架啷个做生意？</title>
@@ -1298,126 +1408,5 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[嫌鹦鹉鸟笼太小，换粮换水又不方便，买了大一点的鸟笼]]></summary>
-    </entry>
-        <entry>
-        <title>GitHub使用心得</title>
-        <id>159408</id>
-        <link href="https://blog.xxbjf.com/archives/githubshi-yong-xin-de?utm_source=blogfinder" />
-        <published>2026-06-05T17:59:29+08:00</published>
-        <author>
-            <name>小新笔记坊</name>
-            <uri>https://blog.xxbjf.com</uri>
-        </author>
-        <summary type="text"><![CDATA[GitHub使用心得]]></summary>
-    </entry>
-        <entry>
-        <title>回归晨跑</title>
-        <id>159392</id>
-        <link href="https://www.geedea.pro/article/back-to-jogging/?utm_source=blogfinder" />
-        <published>2026-06-05T16:52:12+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[回归晨跑]]></summary>
-    </entry>
-        <entry>
-        <title>BlogsClub月度拾光福利</title>
-        <id>159394</id>
-        <link href="https://zhujay.com/talk/talk_detail.html?id=1237&amp;utm_source=blogfinder" />
-        <published>2026-06-05T16:47:11+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[BlogsClub月度拾光福利]]></summary>
-    </entry>
-        <entry>
-        <title>房价又要起飞了？</title>
-        <id>159391</id>
-        <link href="https://joojen.com/archives/9003.html?utm_source=blogfinder" />
-        <published>2026-06-05T16:35:28+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[房价又要起飞了？]]></summary>
-    </entry>
-        <entry>
-        <title>折耳根清饮，一口回童年</title>
-        <id>159395</id>
-        <link href="https://zhujay.com/talk/talk_detail.html?id=1236&amp;utm_source=blogfinder" />
-        <published>2026-06-05T16:28:41+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[折耳根清饮，一口回童年]]></summary>
-    </entry>
-        <entry>
-        <title>一字为礼</title>
-        <id>159397</id>
-        <link href="http://www.qncd.com/?p=12821&amp;utm_source=blogfinder" />
-        <published>2026-06-05T16:26:48+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[一字为礼]]></summary>
-    </entry>
-        <entry>
-        <title>麦子熟了</title>
-        <id>159633</id>
-        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1155&amp;utm_source=blogfinder" />
-        <published>2026-06-05T16:20:48+08:00</published>
-        <author>
-            <name>徐建伟</name>
-            <uri>http://www.xulog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[麦子熟了]]></summary>
-    </entry>
-        <entry>
-        <title>欠话费700多</title>
-        <id>159381</id>
-        <link href="https://ygz.ink/archives/5155.html?utm_source=blogfinder" />
-        <published>2026-06-05T14:30:43+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[欠话费700多]]></summary>
-    </entry>
-        <entry>
-        <title>2021年圣诞🎄</title>
-        <id>159377</id>
-        <link href="https://shuiba.co/christmas-2021?utm_source=blogfinder" />
-        <published>2026-06-05T14:10:00+08:00</published>
-        <author>
-            <name>水八口的冥想盆</name>
-            <uri>https://shuiba.co</uri>
-        </author>
-        <summary type="text"><![CDATA[2021年圣诞🎄]]></summary>
-    </entry>
-        <entry>
-        <title>《逐梦拉玛西亚》——中国足球小将李昊炎加盟巴萨U15梯队纪录片</title>
-        <id>159396</id>
-        <link href="https://www.zhounote.com/article/106?utm_source=blogfinder" />
-        <published>2026-06-05T14:00:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《逐梦拉玛西亚》——中国足球小将李昊炎加盟巴萨U15梯队纪录片]]></summary>
-    </entry>
-        <entry>
-        <title>芒种 III</title>
-        <id>159376</id>
-        <link href="https://mobius.blog/24434.html?utm_source=blogfinder" />
-        <published>2026-06-05T14:00:00+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[芒种 III]]></summary>
     </entry>
     </feed>
