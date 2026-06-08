@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-08T22:00:58+08:00</updated>
+    <updated>2026-06-09T00:00:16+08:00</updated>
+        <entry>
+        <title>Zine#51 - 把愛傳給「未來的自己」、優秀的網站設計原則</title>
+        <id>159998</id>
+        <link href="https://taxodium.ink/51.html?utm_source=blogfinder" />
+        <published>2026-06-08T23:00:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[Zine#51 - 把愛傳給「未來的自己」、優秀的網站設計原則]]></summary>
+    </entry>
+        <entry>
+        <title>每年重装一次系统</title>
+        <id>159996</id>
+        <link href="https://ygz.ink/archives/5179.html?utm_source=blogfinder" />
+        <published>2026-06-08T21:56:57+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[每年重装一次系统]]></summary>
+    </entry>
         <entry>
         <title>TF 卡又坏了</title>
         <id>159993</id>
@@ -22,6 +44,17 @@
             <uri>https://hjyl.org</uri>
         </author>
         <summary type="text"><![CDATA[TF 卡又坏了]]></summary>
+    </entry>
+        <entry>
+        <title>配置 ACME.sh 实现证书自动化签发</title>
+        <id>159995</id>
+        <link href="https://www.nekopara.uk/archives/ACME-sh-Use.html?utm_source=blogfinder" />
+        <published>2026-06-08T19:00:34+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[配置 ACME.sh 实现证书自动化签发]]></summary>
     </entry>
         <entry>
         <title>人生没有定义域，前路处处有值域</title>
@@ -55,6 +88,17 @@
             <uri>https://blog.tibtob.cn</uri>
         </author>
         <summary type="text"><![CDATA[如何更改 Typecho 后台入口地址]]></summary>
+    </entry>
+        <entry>
+        <title>父子今日微信对话</title>
+        <id>159997</id>
+        <link href="https://knay.net/note/untitled-20260608?utm_source=blogfinder" />
+        <published>2026-06-08T17:58:46+08:00</published>
+        <author>
+            <name>Yang&#039;s Blog</name>
+            <uri>https://knay.net</uri>
+        </author>
+        <summary type="text"><![CDATA[父子今日微信对话]]></summary>
     </entry>
         <entry>
         <title>Dream2.0 Plus 友链头像 400 错误：双重编码陷阱排查</title>
@@ -1331,60 +1375,5 @@
             <uri>https://shuiba.co</uri>
         </author>
         <summary type="text"><![CDATA[神户节2026]]></summary>
-    </entry>
-        <entry>
-        <title>【项目】一步步做一个基于 Spring Boot + Netty 的文件分发系统</title>
-        <id>159771</id>
-        <link href="https://www.blackbzy.com/posts/netty-file-dispatch-center/?utm_source=blogfinder" />
-        <published>2026-06-06T00:00:00+08:00</published>
-        <author>
-            <name>blackbzy</name>
-            <uri>https://www.blackbzy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【项目】一步步做一个基于 Spring Boot + Netty 的文件分发系统]]></summary>
-    </entry>
-        <entry>
-        <title>TIL 团队沟通的三条实操经验</title>
-        <id>159663</id>
-        <link href="https://lujun9972.github.io/blog/2026/06/06/til-团队沟通的三条实操经验/index.html?utm_source=blogfinder" />
-        <published>2026-06-06T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL 团队沟通的三条实操经验]]></summary>
-    </entry>
-        <entry>
-        <title>嘉兴随意逛吃记 0605</title>
-        <id>159781</id>
-        <link href="https://blog.solazy.me/20260605/?utm_source=blogfinder" />
-        <published>2026-06-05T23:59:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[嘉兴随意逛吃记 0605]]></summary>
-    </entry>
-        <entry>
-        <title>你的RSS订阅源有跳菠菜的风险</title>
-        <id>159639</id>
-        <link href="https://ygz.ink/archives/5167.html?utm_source=blogfinder" />
-        <published>2026-06-05T23:19:28+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[你的RSS订阅源有跳菠菜的风险]]></summary>
-    </entry>
-        <entry>
-        <title>iphone17ProMax和Macmini4初体验</title>
-        <id>159651</id>
-        <link href="https://t-t.live/archives/WhZQ281H?utm_source=blogfinder" />
-        <published>2026-06-05T23:13:52+08:00</published>
-        <author>
-            <name>团团生活志</name>
-            <uri>https://t-t.live</uri>
-        </author>
-        <summary type="text"><![CDATA[iphone17ProMax和Macmini4初体验]]></summary>
     </entry>
     </feed>
