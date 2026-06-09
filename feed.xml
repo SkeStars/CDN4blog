@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-09T16:01:20+08:00</updated>
+    <updated>2026-06-09T20:00:10+08:00</updated>
+        <entry>
+        <title>入选 BlogsClub《每月拾光》，还收到了专属定制鼠标垫！</title>
+        <id>160064</id>
+        <link href="https://www.zhounote.com/article/110?utm_source=blogfinder" />
+        <published>2026-06-09T19:20:00+08:00</published>
+        <author>
+            <name>Zhou’s Notes</name>
+            <uri>https://www.zhounote.com</uri>
+        </author>
+        <summary type="text"><![CDATA[入选 BlogsClub《每月拾光》，还收到了专属定制鼠标垫！]]></summary>
+    </entry>
+        <entry>
+        <title>数据观察日报 · 2026-06-09</title>
+        <id>160060</id>
+        <link href="http://hi-nikola.cn/2026/06/09/daily-observer/2026-06-09/?utm_source=blogfinder" />
+        <published>2026-06-09T17:00:00+08:00</published>
+        <author>
+            <name>Nikola</name>
+            <uri>https://hi-nikola.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[数据观察日报 · 2026-06-09]]></summary>
+    </entry>
+        <entry>
+        <title>AI 博客问题挑战</title>
+        <id>160057</id>
+        <link href="https://kaix.in/2026/0609/?utm_source=blogfinder" />
+        <published>2026-06-09T15:51:24+08:00</published>
+        <author>
+            <name>KAIX.IN</name>
+            <uri>https://kaix.in</uri>
+        </author>
+        <summary type="text"><![CDATA[AI 博客问题挑战]]></summary>
+    </entry>
+        <entry>
+        <title>WWDC：Google在香港开放Gemini的原因揭晓</title>
+        <id>160062</id>
+        <link href="https://knay.net/note/why-gemini-rolled-out-to-hong-kong?utm_source=blogfinder" />
+        <published>2026-06-09T15:21:15+08:00</published>
+        <author>
+            <name>Yang&#039;s Blog</name>
+            <uri>https://knay.net</uri>
+        </author>
+        <summary type="text"><![CDATA[WWDC：Google在香港开放Gemini的原因揭晓]]></summary>
+    </entry>
+        <entry>
+        <title>full circle.</title>
+        <id>160056</id>
+        <link href="https://www.justzht.com/full-circle/?utm_source=blogfinder" />
+        <published>2026-06-09T14:57:28+08:00</published>
+        <author>
+            <name>JustZht</name>
+            <uri>https://www.justzht.com</uri>
+        </author>
+        <summary type="text"><![CDATA[full circle.]]></summary>
+    </entry>
         <entry>
         <title>一个浏览器插件可以WordPress文章同步到微信公众号</title>
         <id>160037</id>
@@ -24,6 +79,28 @@
         <summary type="text"><![CDATA[一个浏览器插件可以WordPress文章同步到微信公众号]]></summary>
     </entry>
         <entry>
+        <title>史前史前史假说</title>
+        <id>160059</id>
+        <link href="https://bioez.xyz/archives/Pre-prehistory?utm_source=blogfinder" />
+        <published>2026-06-09T12:15:24+08:00</published>
+        <author>
+            <name>小倪</name>
+            <uri>https://bioez.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[史前史前史假说]]></summary>
+    </entry>
+        <entry>
+        <title>从网页聊天到 Claude Code：一个 Skill 改变了什么</title>
+        <id>160063</id>
+        <link href="https://hejunjie.life/blog/dkqq84uh?utm_source=blogfinder" />
+        <published>2026-06-09T12:10:08+08:00</published>
+        <author>
+            <name>星河避难所</name>
+            <uri>https://hejunjie.life</uri>
+        </author>
+        <summary type="text"><![CDATA[从网页聊天到 Claude Code：一个 Skill 改变了什么]]></summary>
+    </entry>
+        <entry>
         <title>洪绘历史记录大更新：支持根据历史记录的AI对话</title>
         <id>160033</id>
         <link href="https://blog.zhheo.com/p/i8c7l4eo.html?utm_source=blogfinder" />
@@ -33,6 +110,17 @@
             <uri>https://blog.zhheo.com</uri>
         </author>
         <summary type="text"><![CDATA[洪绘历史记录大更新：支持根据历史记录的AI对话]]></summary>
+    </entry>
+        <entry>
+        <title>墨迹博客(InkBlog) v1.26.6.05 to v1.26.6.09 升级指南</title>
+        <id>160058</id>
+        <link href="https://www.renhuali.cn/journal/cmq60feom00bachf1p5t82bi8?utm_source=blogfinder" />
+        <published>2026-06-09T10:17:46+08:00</published>
+        <author>
+            <name>华立博客</name>
+            <uri>https://renhuali.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[墨迹博客(InkBlog) v1.26.6.05 to v1.26.6.09 升级指南]]></summary>
     </entry>
         <entry>
         <title>一只去喵星的橘猫– 日常记事（二百一十九）</title>
@@ -55,6 +143,17 @@
             <uri>https://www.gujishe.com</uri>
         </author>
         <summary type="text"><![CDATA[差点被白嫖]]></summary>
+    </entry>
+        <entry>
+        <title>别让AI替你捣乱-致零软件工程经验新人的指南</title>
+        <id>160061</id>
+        <link href="https://xingwangzhe.fun/posts/zero-se-newcomer-guide/?utm_source=blogfinder" />
+        <published>2026-06-09T09:11:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[别让AI替你捣乱-致零软件工程经验新人的指南]]></summary>
     </entry>
         <entry>
         <title>关于人设的自证悖论</title>
@@ -1463,49 +1562,5 @@
             <uri>https://www.colinjiang.com</uri>
         </author>
         <summary type="text"><![CDATA[2026年5月：不远行的假期，与一次告别]]></summary>
-    </entry>
-        <entry>
-        <title>解决QQ浏览器等魔改内核下SVG背景图颜色异常变白的问题</title>
-        <id>159649</id>
-        <link href="https://xingwangzhe.fun/posts/fix-svg-background-forcedark-whitening/?utm_source=blogfinder" />
-        <published>2026-06-06T18:30:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[解决QQ浏览器等魔改内核下SVG背景图颜色异常变白的问题]]></summary>
-    </entry>
-        <entry>
-        <title>OpenClaw 搭建的工作团队</title>
-        <id>159792</id>
-        <link href="https://blog.nastree.cn/post/toss202606061744?utm_source=blogfinder" />
-        <published>2026-06-06T17:44:00+08:00</published>
-        <author>
-            <name>那是树</name>
-            <uri>https://blog.nastree.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenClaw 搭建的工作团队]]></summary>
-    </entry>
-        <entry>
-        <title>感谢BlogsClub和好站网的精美礼品</title>
-        <id>159650</id>
-        <link href="https://xingwangzhe.fun/posts/thanks-blogsclub-haozhanwang/?utm_source=blogfinder" />
-        <published>2026-06-06T17:30:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[感谢BlogsClub和好站网的精美礼品]]></summary>
-    </entry>
-        <entry>
-        <title>把微信读书的划线做成随机回顾卡片</title>
-        <id>159783</id>
-        <link href="http://www.jinhuaiyao.com/posts/turn-wechat-reading-highlights-into-random-review-cards/?utm_source=blogfinder" />
-        <published>2026-06-06T16:59:38+08:00</published>
-        <author>
-            <name>Huaiyao Jin</name>
-            <uri>https://www.jinhuaiyao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[把微信读书的划线做成随机回顾卡片]]></summary>
     </entry>
     </feed>
