@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-09T23:01:08+08:00</updated>
+    <updated>2026-06-10T00:00:18+08:00</updated>
+        <entry>
+        <title>从奶牛场到冰淇淋王国，嘉兴遛娃记</title>
+        <id>160069</id>
+        <link href="https://www.weisay.com/blog/jiaxing-from-cows-to-ice-cream.html?utm_source=blogfinder" />
+        <published>2026-06-09T23:30:54+08:00</published>
+        <author>
+            <name>威言威语</name>
+            <uri>https://www.weisay.com/blog/</uri>
+        </author>
+        <summary type="text"><![CDATA[从奶牛场到冰淇淋王国，嘉兴遛娃记]]></summary>
+    </entry>
+        <entry>
+        <title>把 MinIO 示例迁到 OtterIO：使用、部署与迁移验证</title>
+        <id>160070</id>
+        <link href="https://soulteary.com/2026/06/09/migrate-minio-examples-to-otterio-usage-deployment-and-verification.html?utm_source=blogfinder" />
+        <published>2026-06-09T22:34:00+08:00</published>
+        <author>
+            <name>苏洋博客</name>
+            <uri>https://soulteary.com</uri>
+        </author>
+        <summary type="text"><![CDATA[把 MinIO 示例迁到 OtterIO：使用、部署与迁移验证]]></summary>
+    </entry>
+        <entry>
+        <title>甜甜圈的数学：donut.c 是如何工作的</title>
+        <id>160073</id>
+        <link href="https://blog.kayro.cn/posts/e6681c2?utm_source=blogfinder" />
+        <published>2026-06-09T21:19:49+08:00</published>
+        <author>
+            <name>敖苛记</name>
+            <uri>https://blog.kayro.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[甜甜圈的数学：donut.c 是如何工作的]]></summary>
+    </entry>
         <entry>
         <title>两只虎皮鹦鹉互相咬嘴</title>
         <id>160068</id>
@@ -299,6 +332,17 @@
         <summary type="text"><![CDATA[Golang pprof 案例实战]]></summary>
     </entry>
         <entry>
+        <title>又到合约到期时：再次启动携号转网的考量与套餐对比</title>
+        <id>160072</id>
+        <link href="https://blog.solazy.me/20260608/?utm_source=blogfinder" />
+        <published>2026-06-08T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[又到合约到期时：再次启动携号转网的考量与套餐对比]]></summary>
+    </entry>
+        <entry>
         <title>Zine#51 - 把愛傳給「未來的自己」、優秀的網站設計原則</title>
         <id>159998</id>
         <link href="https://taxodium.ink/51.html?utm_source=blogfinder" />
@@ -539,6 +583,17 @@
             <uri>https://lenciel.com</uri>
         </author>
         <summary type="text"><![CDATA[马代(2)]]></summary>
+    </entry>
+        <entry>
+        <title>从 MinIO 到 OtterIO：整理一条 Apache 2.0 开源对象存储代码线</title>
+        <id>160071</id>
+        <link href="https://soulteary.com/2026/06/08/from-minio-to-otterio-curating-an-apache-2-object-storage-codeline.html?utm_source=blogfinder" />
+        <published>2026-06-08T12:11:00+08:00</published>
+        <author>
+            <name>苏洋博客</name>
+            <uri>https://soulteary.com</uri>
+        </author>
+        <summary type="text"><![CDATA[从 MinIO 到 OtterIO：整理一条 Apache 2.0 开源对象存储代码线]]></summary>
     </entry>
         <entry>
         <title>又时高考时</title>
@@ -1397,115 +1452,5 @@
             <uri>https://imxcy.cn</uri>
         </author>
         <summary type="text"><![CDATA[说说：#2026-06-07 00:36]]></summary>
-    </entry>
-        <entry>
-        <title>分析 Nginx 访问日志，在里面挖点宝</title>
-        <id>159662</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1353/?utm_source=blogfinder" />
-        <published>2026-06-07T00:00:04+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[分析 Nginx 访问日志，在里面挖点宝]]></summary>
-    </entry>
-        <entry>
-        <title>OpenCV：开源计算机视觉库的深度解析与实践指南</title>
-        <id>159967</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-07/opencv/?utm_source=blogfinder" />
-        <published>2026-06-07T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenCV：开源计算机视觉库的深度解析与实践指南]]></summary>
-    </entry>
-        <entry>
-        <title>MemPalace：本地优先的 AI 记忆系统，96.6% 检索准确率无需 API 调用</title>
-        <id>159966</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-07/mempalace/?utm_source=blogfinder" />
-        <published>2026-06-07T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[MemPalace：本地优先的 AI 记忆系统，96.6% 检索准确率无需 API 调用]]></summary>
-    </entry>
-        <entry>
-        <title>AiToEarn：一人公司的AI内容营销自动化利器</title>
-        <id>159965</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-07/aitoearn/?utm_source=blogfinder" />
-        <published>2026-06-07T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[AiToEarn：一人公司的AI内容营销自动化利器]]></summary>
-    </entry>
-        <entry>
-        <title>桑下书集第一次线装书制作记录</title>
-        <id>159952</id>
-        <link href="https://weiqiang.org/zh/2026-06-07-zhishu-xianzhuang-mengxue1.html?utm_source=blogfinder" />
-        <published>2026-06-07T00:00:00+08:00</published>
-        <author>
-            <name>村野闲居</name>
-            <uri>https://weiqiang.org</uri>
-        </author>
-        <summary type="text"><![CDATA[桑下书集第一次线装书制作记录]]></summary>
-    </entry>
-        <entry>
-        <title>你不知道的具身智能：从小机器狗到 Optimus</title>
-        <id>159837</id>
-        <link href="https://tw93.fun/2026-06-07/robot.html?utm_source=blogfinder" />
-        <published>2026-06-07T00:00:00+08:00</published>
-        <author>
-            <name>Tw93</name>
-            <uri>https://tw93.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[你不知道的具身智能：从小机器狗到 Optimus]]></summary>
-    </entry>
-        <entry>
-        <title>读：为什么 Discord 把实验指标从 50 个砍到 15 个</title>
-        <id>159835</id>
-        <link href="https://lujun9972.github.io/blog/2026/06/06/读：为什么-discord-把实验指标从-50-个砍到-15-个/index.html?utm_source=blogfinder" />
-        <published>2026-06-07T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：为什么 Discord 把实验指标从 50 个砍到 15 个]]></summary>
-    </entry>
-        <entry>
-        <title>数据备份，该怎么做？我又是怎么落实的？</title>
-        <id>159799</id>
-        <link href="https://www.imxb.de/new_archives/64.shtml?utm_source=blogfinder" />
-        <published>2026-06-07T00:00:00+08:00</published>
-        <author>
-            <name>Xiobb’s Blog</name>
-            <uri>https://www.imxb.de</uri>
-        </author>
-        <summary type="text"><![CDATA[数据备份，该怎么做？我又是怎么落实的？]]></summary>
-    </entry>
-        <entry>
-        <title>有点好奇宋朝的高考</title>
-        <id>159791</id>
-        <link href="https://me.xu19.com/imperial-examination-in-the-song-dynasty/?utm_source=blogfinder" />
-        <published>2026-06-06T23:55:49+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[有点好奇宋朝的高考]]></summary>
-    </entry>
-        <entry>
-        <title>中考加油！最后不到一个月</title>
-        <id>159712</id>
-        <link href="https://note.redcha.cn/archives/zhong-kao-jia-you-zui-hou-bu-dao-yi-ge-yue?utm_source=blogfinder" />
-        <published>2026-06-06T23:17:41+08:00</published>
-        <author>
-            <name>彬红茶日记</name>
-            <uri>https://note.redcha.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[中考加油！最后不到一个月]]></summary>
     </entry>
     </feed>
