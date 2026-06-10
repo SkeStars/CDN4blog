@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-10T20:00:12+08:00</updated>
+    <updated>2026-06-11T00:00:20+08:00</updated>
+        <entry>
+        <title>Alpine Linux 3.20 升级 3.24 操作记录</title>
+        <id>160142</id>
+        <link href="https://www.nekopara.uk/archives/Update_Alpine.html?utm_source=blogfinder" />
+        <published>2026-06-10T21:56:23+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[Alpine Linux 3.20 升级 3.24 操作记录]]></summary>
+    </entry>
+        <entry>
+        <title>喵糖布丁｜把甜软画进抱枕里</title>
+        <id>160275</id>
+        <link href="https://zhouayuan.com/post/53.html?utm_source=blogfinder" />
+        <published>2026-06-10T21:49:20+08:00</published>
+        <author>
+            <name>周阿源</name>
+            <uri>https://zhouayuan.com</uri>
+        </author>
+        <summary type="text"><![CDATA[喵糖布丁｜把甜软画进抱枕里]]></summary>
+    </entry>
+        <entry>
+        <title>随思 #92 - 2026-06-10</title>
+        <id>160140</id>
+        <link href="http://qthinker.net/content/92?utm_source=blogfinder" />
+        <published>2026-06-10T20:52:52+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[随思 #92 - 2026-06-10]]></summary>
+    </entry>
         <entry>
         <title>服务器高性能网络调优</title>
         <id>160133</id>
@@ -22,6 +55,72 @@
             <uri>https://www.kawabangga.com</uri>
         </author>
         <summary type="text"><![CDATA[服务器高性能网络调优]]></summary>
+    </entry>
+        <entry>
+        <title>又来一颗虫牙</title>
+        <id>160136</id>
+        <link href="https://ygz.ink/archives/5197.html?utm_source=blogfinder" />
+        <published>2026-06-10T19:51:34+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[又来一颗虫牙]]></summary>
+    </entry>
+        <entry>
+        <title>我特别的一天</title>
+        <id>160141</id>
+        <link href="https://blog.mcenahle.org.cn/2026/06/10/454.html?utm_source=blogfinder" />
+        <published>2026-06-10T19:46:50+08:00</published>
+        <author>
+            <name>梅之夏</name>
+            <uri>https://blog.mcenahle.org.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[我特别的一天]]></summary>
+    </entry>
+        <entry>
+        <title>把 Next.js 拆成壳：LobeHub 后端迁移 Hono 实录</title>
+        <id>160276</id>
+        <link href="https://innei.in/posts/tech/nextjs-shell-hono-backend-migration?utm_source=blogfinder" />
+        <published>2026-06-10T19:27:40+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[把 Next.js 拆成壳：LobeHub 后端迁移 Hono 实录]]></summary>
+    </entry>
+        <entry>
+        <title>“微博客”程序正式停止维护更新了</title>
+        <id>160277</id>
+        <link href="https://luolt.cn/archives/3177.html?utm_source=blogfinder" />
+        <published>2026-06-10T19:00:00+08:00</published>
+        <author>
+            <name>洛丽糖</name>
+            <uri>http://luolt.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[“微博客”程序正式停止维护更新了]]></summary>
+    </entry>
+        <entry>
+        <title>我不愿赶集就是因为不信任</title>
+        <id>160138</id>
+        <link href="https://www.pgoj.top/archives/gan-ji-xin-ren.html?utm_source=blogfinder" />
+        <published>2026-06-10T18:39:46+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[我不愿赶集就是因为不信任]]></summary>
+    </entry>
+        <entry>
+        <title>Photosuite EXIF 优化</title>
+        <id>160143</id>
+        <link href="https://blog.lhasa.icu/posts/technology/2026-06-09-photosuite-v0-5-0-beta/?utm_source=blogfinder" />
+        <published>2026-06-10T18:39:00+08:00</published>
+        <author>
+            <name>游钓四方的博客</name>
+            <uri>https://blog.lhasa.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[Photosuite EXIF 优化]]></summary>
     </entry>
         <entry>
         <title>云南丨普洱</title>
@@ -46,6 +145,17 @@
         <summary type="text"><![CDATA[云南丨景迈山]]></summary>
     </entry>
         <entry>
+        <title>这学期要结束了</title>
+        <id>160137</id>
+        <link href="https://ygz.ink/archives/5193.html?utm_source=blogfinder" />
+        <published>2026-06-10T16:26:18+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[这学期要结束了]]></summary>
+    </entry>
+        <entry>
         <title>站点升级</title>
         <id>160129</id>
         <link href="https://blog.mboker.cn/archives/60ApsM2A?utm_source=blogfinder" />
@@ -55,6 +165,17 @@
             <uri>https://blog.mboker.cn</uri>
         </author>
         <summary type="text"><![CDATA[站点升级]]></summary>
+    </entry>
+        <entry>
+        <title>流行</title>
+        <id>160139</id>
+        <link href="https://mobius.blog/24599.html?utm_source=blogfinder" />
+        <published>2026-06-10T15:38:21+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[流行]]></summary>
     </entry>
         <entry>
         <title>自勉</title>
@@ -1188,225 +1309,5 @@
             <uri>https://blog.yaten.xyz</uri>
         </author>
         <summary type="text"><![CDATA[初中总结 &amp; 高中目标]]></summary>
-    </entry>
-        <entry>
-        <title>Personal AI Infrastructure：构建你的个人 AI 生命操作系统</title>
-        <id>160031</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-08/personal-ai-infrastructure/?utm_source=blogfinder" />
-        <published>2026-06-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Personal AI Infrastructure：构建你的个人 AI 生命操作系统]]></summary>
-    </entry>
-        <entry>
-        <title>Google Skills：为 AI Agent 打造的技能库，覆盖全栈 Google Cloud 技术栈</title>
-        <id>160030</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-08/skills/?utm_source=blogfinder" />
-        <published>2026-06-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Google Skills：为 AI Agent 打造的技能库，覆盖全栈 Google Cloud 技术栈]]></summary>
-    </entry>
-        <entry>
-        <title>pg_durable：在 PostgreSQL 内实现持久化工作流编排</title>
-        <id>159982</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-08/pg-durable/?utm_source=blogfinder" />
-        <published>2026-06-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[pg_durable：在 PostgreSQL 内实现持久化工作流编排]]></summary>
-    </entry>
-        <entry>
-        <title>OpenAI Codex 插件生态：AI 编程助手的扩展革命</title>
-        <id>159981</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-08/plugins/?utm_source=blogfinder" />
-        <published>2026-06-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenAI Codex 插件生态：AI 编程助手的扩展革命]]></summary>
-    </entry>
-        <entry>
-        <title>GhostTrack：开源 OSINT 信息收集工具深度解析</title>
-        <id>159980</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-08/ghosttrack/?utm_source=blogfinder" />
-        <published>2026-06-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[GhostTrack：开源 OSINT 信息收集工具深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>turbovec：基于 Google TurboQuant 的高性能向量搜索引擎</title>
-        <id>159964</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-08/turbovec/?utm_source=blogfinder" />
-        <published>2026-06-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[turbovec：基于 Google TurboQuant 的高性能向量搜索引擎]]></summary>
-    </entry>
-        <entry>
-        <title>llama.cpp：纯 C/C++ 实现的高性能 LLM 推理引擎</title>
-        <id>159963</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-08/llama-cpp/?utm_source=blogfinder" />
-        <published>2026-06-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[llama.cpp：纯 C/C++ 实现的高性能 LLM 推理引擎]]></summary>
-    </entry>
-        <entry>
-        <title>Goose：Linux 基金会旗下的开源原生 AI 代理</title>
-        <id>159962</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-08/goose/?utm_source=blogfinder" />
-        <published>2026-06-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Goose：Linux 基金会旗下的开源原生 AI 代理]]></summary>
-    </entry>
-        <entry>
-        <title>ChinaTextbook：开源中国义务教育教材合集，让知识不再被垄断</title>
-        <id>159961</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-08/chinatextbook/?utm_source=blogfinder" />
-        <published>2026-06-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[ChinaTextbook：开源中国义务教育教材合集，让知识不再被垄断]]></summary>
-    </entry>
-        <entry>
-        <title>小小吃播上线🍜 早餐 Vlog</title>
-        <id>159973</id>
-        <link href="https://zhouayuan.com/post/52.html?utm_source=blogfinder" />
-        <published>2026-06-07T22:44:19+08:00</published>
-        <author>
-            <name>周阿源</name>
-            <uri>https://zhouayuan.com</uri>
-        </author>
-        <summary type="text"><![CDATA[小小吃播上线🍜 早餐 Vlog]]></summary>
-    </entry>
-        <entry>
-        <title>更换搬瓦工 VPS IP</title>
-        <id>159805</id>
-        <link href="https://blog.devtang.com/2026/06/07/change-bandwagon-host-ip/?utm_source=blogfinder" />
-        <published>2026-06-07T22:27:55+08:00</published>
-        <author>
-            <name>唐巧的博客</name>
-            <uri>https://blog.devtang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[更换搬瓦工 VPS IP]]></summary>
-    </entry>
-        <entry>
-        <title>关于适合什么模型,推荐下llmfit</title>
-        <id>159992</id>
-        <link href="https://nicksxs.me/2026/06/07/%E5%85%B3%E4%BA%8E%E9%80%82%E5%90%88%E4%BB%80%E4%B9%88%E6%A8%A1%E5%9E%8B-%E6%8E%A8%E8%8D%90%E4%B8%8Bllmfit/?utm_source=blogfinder" />
-        <published>2026-06-07T22:21:03+08:00</published>
-        <author>
-            <name>Nicksxs&#039;s Blog</name>
-            <uri>https://nicksxs.me</uri>
-        </author>
-        <summary type="text"><![CDATA[关于适合什么模型,推荐下llmfit]]></summary>
-    </entry>
-        <entry>
-        <title>周报 #2-聊聊本周的收获</title>
-        <id>159810</id>
-        <link href="https://yesreho.com/talking-about-the-weeks-takeaways-2/?utm_source=blogfinder" />
-        <published>2026-06-07T22:04:29+08:00</published>
-        <author>
-            <name>LookLeap</name>
-            <uri>https://yesreho.com</uri>
-        </author>
-        <summary type="text"><![CDATA[周报 #2-聊聊本周的收获]]></summary>
-    </entry>
-        <entry>
-        <title>手生了就要多练</title>
-        <id>159811</id>
-        <link href="https://blog.solazy.me/20260607/?utm_source=blogfinder" />
-        <published>2026-06-07T22:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[手生了就要多练]]></summary>
-    </entry>
-        <entry>
-        <title>石油障碍症</title>
-        <id>159976</id>
-        <link href="https://re.karlbaey.top/articles/return-to-dusk/oil-panic/?utm_source=blogfinder" />
-        <published>2026-06-07T21:44:43+08:00</published>
-        <author>
-            <name>Jerry Karlbaey</name>
-            <uri>https://re.karlbaey.top</uri>
-        </author>
-        <summary type="text"><![CDATA[石油障碍症]]></summary>
-    </entry>
-        <entry>
-        <title>房子依然是很多人意难平</title>
-        <id>159974</id>
-        <link href="https://joojen.com/archives/9012.html?utm_source=blogfinder" />
-        <published>2026-06-07T21:19:35+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[房子依然是很多人意难平]]></summary>
-    </entry>
-        <entry>
-        <title>30 秒，让你的 Mac 拥有一个不会忘事的剪贴板</title>
-        <id>159809</id>
-        <link href="https://www.evan.xin/5027/?utm_source=blogfinder" />
-        <published>2026-06-07T20:59:31+08:00</published>
-        <author>
-            <name>Evan&#039;s Space</name>
-            <uri>https://www.evan.xin</uri>
-        </author>
-        <summary type="text"><![CDATA[30 秒，让你的 Mac 拥有一个不会忘事的剪贴板]]></summary>
-    </entry>
-        <entry>
-        <title>五月记</title>
-        <id>159948</id>
-        <link href="https://blog.hantaotao.top/archives/201/?utm_source=blogfinder" />
-        <published>2026-06-07T20:57:00+08:00</published>
-        <author>
-            <name>一世繁华</name>
-            <uri>https://blog.hantaotao.top</uri>
-        </author>
-        <summary type="text"><![CDATA[五月记]]></summary>
-    </entry>
-        <entry>
-        <title>重新审视 MinIO：许可证、归档、社区 fork 与我的 Apache 2.0 基线</title>
-        <id>159807</id>
-        <link href="https://soulteary.com/2026/06/07/revisiting-minio-license-archive-community-forks-and-my-apache-2-baseline.html?utm_source=blogfinder" />
-        <published>2026-06-07T20:49:00+08:00</published>
-        <author>
-            <name>苏洋博客</name>
-            <uri>https://soulteary.com</uri>
-        </author>
-        <summary type="text"><![CDATA[重新审视 MinIO：许可证、归档、社区 fork 与我的 Apache 2.0 基线]]></summary>
-    </entry>
-        <entry>
-        <title>和产品一起成长 - 从 AI 猫娘到 Prowl 终端</title>
-        <id>159819</id>
-        <link href="https://onevcat.com/2026/06/develop-with-ai/?utm_source=blogfinder" />
-        <published>2026-06-07T20:10:00+08:00</published>
-        <author>
-            <name>OneV&#039;s Den</name>
-            <uri>https://onevcat.com</uri>
-        </author>
-        <summary type="text"><![CDATA[和产品一起成长 - 从 AI 猫娘到 Prowl 终端]]></summary>
     </entry>
     </feed>
