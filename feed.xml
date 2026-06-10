@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-10T12:00:48+08:00</updated>
+    <updated>2026-06-10T17:00:36+08:00</updated>
+        <entry>
+        <title>站点升级</title>
+        <id>160129</id>
+        <link href="https://blog.mboker.cn/archives/60ApsM2A?utm_source=blogfinder" />
+        <published>2026-06-10T15:39:18+08:00</published>
+        <author>
+            <name>蜉蝣手札</name>
+            <uri>https://blog.mboker.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[站点升级]]></summary>
+    </entry>
+        <entry>
+        <title>为什么法律作为复仇工具时必然会失效？</title>
+        <id>160126</id>
+        <link href="https://mobius.blog/24590.html?utm_source=blogfinder" />
+        <published>2026-06-10T10:55:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[为什么法律作为复仇工具时必然会失效？]]></summary>
+    </entry>
         <entry>
         <title>魍魉战记</title>
         <id>160119</id>
@@ -90,6 +112,17 @@
         <summary type="text"><![CDATA[【中考数学】杨辉三角：让你回归教材像会害了你一样]]></summary>
     </entry>
         <entry>
+        <title>红米手机黑屏如何导出数据（适用小米系列）</title>
+        <id>160123</id>
+        <link href="https://lklog.cn/course/1423.html?utm_source=blogfinder" />
+        <published>2026-06-10T00:33:32+08:00</published>
+        <author>
+            <name>龙鲲博客</name>
+            <uri>https://lklog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[红米手机黑屏如何导出数据（适用小米系列）]]></summary>
+    </entry>
+        <entry>
         <title>ESPectre：用 Wi-Fi 信号实现无摄像头人体感知，ESP32 成本仅 €10</title>
         <id>160114</id>
         <link href="http://blog.xlap.top/post/tech/2026-06-10/espectre/?utm_source=blogfinder" />
@@ -110,6 +143,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[Agent Skills：为 AI 编码助手注入生产级工程规范]]></summary>
+    </entry>
+        <entry>
+        <title>Ai信息差：国产无代码编程开发平台汇总</title>
+        <id>160124</id>
+        <link href="https://lklog.cn/share/1422.html?utm_source=blogfinder" />
+        <published>2026-06-09T23:40:43+08:00</published>
+        <author>
+            <name>龙鲲博客</name>
+            <uri>https://lklog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Ai信息差：国产无代码编程开发平台汇总]]></summary>
     </entry>
         <entry>
         <title>从奶牛场到冰淇淋王国，嘉兴遛娃记</title>
@@ -200,6 +244,17 @@
         <summary type="text"><![CDATA[两只虎皮鹦鹉互相咬嘴]]></summary>
     </entry>
         <entry>
+        <title>总感觉有什么不对——Anemoi 全线点评</title>
+        <id>160127</id>
+        <link href="https://blog.samhou.moe/anemoi-review/?utm_source=blogfinder" />
+        <published>2026-06-09T20:59:30+08:00</published>
+        <author>
+            <name>SamHou&#039;s Blog</name>
+            <uri>https://blog.samhou.moe</uri>
+        </author>
+        <summary type="text"><![CDATA[总感觉有什么不对——Anemoi 全线点评]]></summary>
+    </entry>
+        <entry>
         <title>给青春的一场正式告别</title>
         <id>160084</id>
         <link href="https://i.logr.cn/archives/400001.html?utm_source=blogfinder" />
@@ -288,6 +343,17 @@
         <summary type="text"><![CDATA[数据观察日报 · 2026-06-09]]></summary>
     </entry>
         <entry>
+        <title>此创新是彼创新吗</title>
+        <id>160128</id>
+        <link href="https://blog.huaxiangshan.com/zh-cn/posts/innovation/?utm_source=blogfinder" />
+        <published>2026-06-09T16:09:19+08:00</published>
+        <author>
+            <name>滑翔闪&#039;s Blog</name>
+            <uri>https://blog.huaxiangshan.com</uri>
+        </author>
+        <summary type="text"><![CDATA[此创新是彼创新吗]]></summary>
+    </entry>
+        <entry>
         <title>AI 博客问题挑战</title>
         <id>160057</id>
         <link href="https://kaix.in/2026/0609/?utm_source=blogfinder" />
@@ -319,6 +385,17 @@
             <uri>https://www.justzht.com</uri>
         </author>
         <summary type="text"><![CDATA[full circle.]]></summary>
+    </entry>
+        <entry>
+        <title>站点迁移后测试中</title>
+        <id>160125</id>
+        <link href="https://wusiyu.me/site-moved-to-new-vps-2026/?utm_source=blogfinder" />
+        <published>2026-06-09T14:41:03+08:00</published>
+        <author>
+            <name>WuSiYu Blog</name>
+            <uri>https://wusiyu.me</uri>
+        </author>
+        <summary type="text"><![CDATA[站点迁移后测试中]]></summary>
     </entry>
         <entry>
         <title>站点迁移后测试中</title>
@@ -1364,126 +1441,5 @@
             <uri>http://luolt.cn</uri>
         </author>
         <summary type="text"><![CDATA[救命！这串李子看得我口水狂飙！]]></summary>
-    </entry>
-        <entry>
-        <title>今日说法 节目汇总笔记</title>
-        <id>159814</id>
-        <link href="https://min168.top/com/read/%E4%BB%8A%E6%97%A5%E8%AF%B4%E6%B3%95%20%E8%8A%82%E7%9B%AE%E6%B1%87%E6%80%BB%E7%AC%94%E8%AE%B0.html?utm_source=blogfinder" />
-        <published>2026-06-07T16:07:32+08:00</published>
-        <author>
-            <name>卷卷</name>
-            <uri>https://min168.top</uri>
-        </author>
-        <summary type="text"><![CDATA[今日说法 节目汇总笔记]]></summary>
-    </entry>
-        <entry>
-        <title>Vol.106 Agent 产品加速落地，AI 重塑软件工程范式与组织变革</title>
-        <id>159985</id>
-        <link href="https://liduos.com/weekly/the-weekly-gradient-106?utm_source=blogfinder" />
-        <published>2026-06-07T16:00:00+08:00</published>
-        <author>
-            <name>莫尔索</name>
-            <uri>https://liduos.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Vol.106 Agent 产品加速落地，AI 重塑软件工程范式与组织变革]]></summary>
-    </entry>
-        <entry>
-        <title>和气生财，吵架啷个做生意？</title>
-        <id>159793</id>
-        <link href="http://etom.top/archives/so134.html?utm_source=blogfinder" />
-        <published>2026-06-07T16:00:00+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[和气生财，吵架啷个做生意？]]></summary>
-    </entry>
-        <entry>
-        <title>堕落 流放与王国</title>
-        <id>159796</id>
-        <link href="https://www.geedea.pro/library/2026/la-chute-l-exil-et-le-royaume/?utm_source=blogfinder" />
-        <published>2026-06-07T14:48:51+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[堕落 流放与王国]]></summary>
-    </entry>
-        <entry>
-        <title>装修日记（4）：618买家电</title>
-        <id>159790</id>
-        <link href="https://www.skyue.com/26060714.html?utm_source=blogfinder" />
-        <published>2026-06-07T14:24:00+08:00</published>
-        <author>
-            <name>拾月</name>
-            <uri>https://www.skyue.com</uri>
-        </author>
-        <summary type="text"><![CDATA[装修日记（4）：618买家电]]></summary>
-    </entry>
-        <entry>
-        <title>米朵小羊｜从画稿到毛绒，软乎乎的温柔落地</title>
-        <id>159789</id>
-        <link href="https://zhouayuan.com/post/51.html?utm_source=blogfinder" />
-        <published>2026-06-07T13:28:41+08:00</published>
-        <author>
-            <name>周阿源</name>
-            <uri>https://zhouayuan.com</uri>
-        </author>
-        <summary type="text"><![CDATA[米朵小羊｜从画稿到毛绒，软乎乎的温柔落地]]></summary>
-    </entry>
-        <entry>
-        <title>卸载搜狗输入法</title>
-        <id>159794</id>
-        <link href="https://i55.top/archives/532/?utm_source=blogfinder" />
-        <published>2026-06-07T13:00:18+08:00</published>
-        <author>
-            <name>安迪</name>
-            <uri>https://i55.top</uri>
-        </author>
-        <summary type="text"><![CDATA[卸载搜狗输入法]]></summary>
-    </entry>
-        <entry>
-        <title>博客版本更新 | 升级至 V4.3</title>
-        <id>159785</id>
-        <link href="https://www.zhounote.com/article/108?utm_source=blogfinder" />
-        <published>2026-06-07T13:00:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[博客版本更新 | 升级至 V4.3]]></summary>
-    </entry>
-        <entry>
-        <title>东京游记 Vol. 2 - 街头逛逛</title>
-        <id>159806</id>
-        <link href="https://blog.imalan.cn/archives/tokyo-travel-2024-vol2/?utm_source=blogfinder" />
-        <published>2026-06-07T12:55:38+08:00</published>
-        <author>
-            <name>失眠海峡</name>
-            <uri>https://blog.imalan.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[东京游记 Vol. 2 - 街头逛逛]]></summary>
-    </entry>
-        <entry>
-        <title>空话比废话更有危害 ｜隐说 NO.26</title>
-        <id>159798</id>
-        <link href="https://wangyurui.com/posts/kong-hua-bi-fei-hua-geng-you-wei-hai-yin-shuo-no-947bef58?utm_source=blogfinder" />
-        <published>2026-06-07T12:03:51+08:00</published>
-        <author>
-            <name>太隐</name>
-            <uri>https://wangyurui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[空话比废话更有危害 ｜隐说 NO.26]]></summary>
-    </entry>
-        <entry>
-        <title>自建图床服务</title>
-        <id>159786</id>
-        <link href="https://blog.flechazo.icu/2026/06/07/imghub/?utm_source=blogfinder" />
-        <published>2026-06-07T12:03:48+08:00</published>
-        <author>
-            <name>妄司逸</name>
-            <uri>https://blog.flechazo.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[自建图床服务]]></summary>
     </entry>
     </feed>
