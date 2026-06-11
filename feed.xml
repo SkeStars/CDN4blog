@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-11T13:06:50+08:00</updated>
+    <updated>2026-06-11T17:01:40+08:00</updated>
+        <entry>
+        <title>代码增强插件 — PluginCodeEnhance 发布</title>
+        <id>160317</id>
+        <link href="https://wuqishi.com/archives/halo-plugin-code-enhance-intro?utm_source=blogfinder" />
+        <published>2026-06-11T15:03:12+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[代码增强插件 — PluginCodeEnhance 发布]]></summary>
+    </entry>
+        <entry>
+        <title>宝宝满 5 个月了，茁壮成长，会翻身，练习坐立了</title>
+        <id>160313</id>
+        <link href="https://www.aiwazi.com/3104.html?utm_source=blogfinder" />
+        <published>2026-06-11T14:31:43+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[宝宝满 5 个月了，茁壮成长，会翻身，练习坐立了]]></summary>
+    </entry>
+        <entry>
+        <title>雨中生机</title>
+        <id>160318</id>
+        <link href="http://etom.top/archives/so145.html?utm_source=blogfinder" />
+        <published>2026-06-11T10:59:00+08:00</published>
+        <author>
+            <name>浮生事</name>
+            <uri>http://etom.top</uri>
+        </author>
+        <summary type="text"><![CDATA[雨中生机]]></summary>
+    </entry>
+        <entry>
+        <title>高考结束后的小剧场</title>
+        <id>160314</id>
+        <link href="https://mobius.blog/24612.html?utm_source=blogfinder" />
+        <published>2026-06-11T10:55:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[高考结束后的小剧场]]></summary>
+    </entry>
         <entry>
         <title>服务器版Linux系统的选择之2026</title>
         <id>160304</id>
@@ -55,6 +99,28 @@
             <uri>https://www.iliu.org</uri>
         </author>
         <summary type="text"><![CDATA[华严经三题：回向、因缘和合与穿越的秘密]]></summary>
+    </entry>
+        <entry>
+        <title>Lesson 29 量子场论 &amp; 广义相对论</title>
+        <id>160315</id>
+        <link href="https://physnya.top/GR/lesson-29/?utm_source=blogfinder" />
+        <published>2026-06-11T02:19:05+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lesson 29 量子场论 &amp; 广义相对论]]></summary>
+    </entry>
+        <entry>
+        <title>让Deepseek做交易效果会怎样？我做了个实验</title>
+        <id>160316</id>
+        <link href="http://qthinker.net/content/93?utm_source=blogfinder" />
+        <published>2026-06-11T01:18:18+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[让Deepseek做交易效果会怎样？我做了个实验]]></summary>
     </entry>
         <entry>
         <title>RuView：用普通 WiFi 穿墙感知人体，ESP32+脉冲神经网络实现无摄像头空间智能</title>
@@ -330,6 +396,17 @@
             <uri>https://i.logr.cn</uri>
         </author>
         <summary type="text"><![CDATA[自勉]]></summary>
+    </entry>
+        <entry>
+        <title>Rectangle Pro 使用教程：买了之后才搞懂</title>
+        <id>160312</id>
+        <link href="https://blog.forecho.com/rectangle-pro-usage-guide.html?utm_source=blogfinder" />
+        <published>2026-06-10T14:27:48+08:00</published>
+        <author>
+            <name>forecho&#039;s Blog</name>
+            <uri>https://blog.forecho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Rectangle Pro 使用教程：买了之后才搞懂]]></summary>
     </entry>
         <entry>
         <title>为什么法律作为复仇工具时必然会失效？</title>
@@ -1265,71 +1342,5 @@
             <uri>https://airy.ink</uri>
         </author>
         <summary type="text"><![CDATA[忘了记录]]></summary>
-    </entry>
-        <entry>
-        <title>数据观察日报 · 2026-06-08</title>
-        <id>160001</id>
-        <link href="http://hi-nikola.cn/2026/06/08/daily-observer/2026-06-08/?utm_source=blogfinder" />
-        <published>2026-06-08T17:00:00+08:00</published>
-        <author>
-            <name>Nikola</name>
-            <uri>https://hi-nikola.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[数据观察日报 · 2026-06-08]]></summary>
-    </entry>
-        <entry>
-        <title>Dream2.0 Plus 友链头像 400 错误：双重编码陷阱排查</title>
-        <id>159984</id>
-        <link href="https://wuqishi.com/archives/dream2-plus-avatar-double-encoding-fix?utm_source=blogfinder" />
-        <published>2026-06-08T16:10:23+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Dream2.0 Plus 友链头像 400 错误：双重编码陷阱排查]]></summary>
-    </entry>
-        <entry>
-        <title>语言成了我们为彼此设防的墙</title>
-        <id>160011</id>
-        <link href="https://www.pgoj.top/archives/yu-yan-qiang.html?utm_source=blogfinder" />
-        <published>2026-06-08T15:28:14+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[语言成了我们为彼此设防的墙]]></summary>
-    </entry>
-        <entry>
-        <title>恰到好处的隔阂与自由</title>
-        <id>160005</id>
-        <link href="https://zooyoo.top/article/9/?utm_source=blogfinder" />
-        <published>2026-06-08T15:20:00+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[恰到好处的隔阂与自由]]></summary>
-    </entry>
-        <entry>
-        <title>奇怪的梦境记录</title>
-        <id>159987</id>
-        <link href="https://www.renhuali.cn/journal/cmq4uwg4f006uchf19eartf3m?utm_source=blogfinder" />
-        <published>2026-06-08T14:55:17+08:00</published>
-        <author>
-            <name>华立博客</name>
-            <uri>https://renhuali.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[奇怪的梦境记录]]></summary>
-    </entry>
-        <entry>
-        <title>做了一款家庭资产管理 App — 知盈 iAssets</title>
-        <id>160002</id>
-        <link href="https://blog.debuginn.com/p/iassets-app/?utm_source=blogfinder" />
-        <published>2026-06-08T14:00:00+08:00</published>
-        <author>
-            <name>Debug 客栈</name>
-            <uri>https://blog.debuginn.com</uri>
-        </author>
-        <summary type="text"><![CDATA[做了一款家庭资产管理 App — 知盈 iAssets]]></summary>
     </entry>
     </feed>
