@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-12T21:00:40+08:00</updated>
+    <updated>2026-06-13T00:00:20+08:00</updated>
+        <entry>
+        <title>跟一位工作七八年的前端同事沟通让我血压飙升</title>
+        <id>160398</id>
+        <link href="https://552412.xyz/blog/2026-06-12/?utm_source=blogfinder" />
+        <published>2026-06-12T20:08:00+08:00</published>
+        <author>
+            <name>九月半</name>
+            <uri>https://552412.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[跟一位工作七八年的前端同事沟通让我血压飙升]]></summary>
+    </entry>
+        <entry>
+        <title>记一次出差时的 AirPods 巡回</title>
+        <id>160400</id>
+        <link href="https://blog.solazy.me/20260612/?utm_source=blogfinder" />
+        <published>2026-06-12T19:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[记一次出差时的 AirPods 巡回]]></summary>
+    </entry>
+        <entry>
+        <title>两款微信多开软件，一台电脑同时打开多个微信，神器！</title>
+        <id>160397</id>
+        <link href="https://www.zhyok.cn/archives/414/?utm_source=blogfinder" />
+        <published>2026-06-12T19:00:00+08:00</published>
+        <author>
+            <name>秋記 Autumn</name>
+            <uri>https://www.zhyok.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[两款微信多开软件，一台电脑同时打开多个微信，神器！]]></summary>
+    </entry>
         <entry>
         <title>关于工作本质的思考</title>
         <id>160395</id>
@@ -231,6 +264,17 @@
             <uri>https://blog.lhasa.icu</uri>
         </author>
         <summary type="text"><![CDATA[Astro Lite 6]]></summary>
+    </entry>
+        <entry>
+        <title>装饰器模式-如何封装一个好用的HttpUtils</title>
+        <id>160399</id>
+        <link href="https://www.fallrain.cn/?p=1802&amp;utm_source=blogfinder" />
+        <published>2026-06-11T23:31:27+08:00</published>
+        <author>
+            <name>秋雨 De blog</name>
+            <uri>https://www.fallrain.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[装饰器模式-如何封装一个好用的HttpUtils]]></summary>
     </entry>
         <entry>
         <title>专业的事，还是让专业的人做吧</title>
@@ -1089,148 +1133,5 @@
             <uri>https://hi.jeray.wang</uri>
         </author>
         <summary type="text"><![CDATA[夜爬 - 旺山小狗线]]></summary>
-    </entry>
-        <entry>
-        <title>Maigret：通过用户名一键收集数字身份档案的 OSINT 利器</title>
-        <id>160309</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-10/maigret/?utm_source=blogfinder" />
-        <published>2026-06-10T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Maigret：通过用户名一键收集数字身份档案的 OSINT 利器]]></summary>
-    </entry>
-        <entry>
-        <title>中心极限定理：为什么随机世界总会产生钟形曲线</title>
-        <id>160279</id>
-        <link href="https://lujun9972.github.io/blog/2026/06/10/中心极限定理：为什么随机世界总会产生钟形曲线/index.html?utm_source=blogfinder" />
-        <published>2026-06-10T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[中心极限定理：为什么随机世界总会产生钟形曲线]]></summary>
-    </entry>
-        <entry>
-        <title>ESPectre：用 Wi-Fi 信号实现无摄像头人体感知，ESP32 成本仅 €10</title>
-        <id>160114</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-10/espectre/?utm_source=blogfinder" />
-        <published>2026-06-10T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[ESPectre：用 Wi-Fi 信号实现无摄像头人体感知，ESP32 成本仅 €10]]></summary>
-    </entry>
-        <entry>
-        <title>Agent Skills：为 AI 编码助手注入生产级工程规范</title>
-        <id>160113</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-10/agent-skills/?utm_source=blogfinder" />
-        <published>2026-06-10T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Agent Skills：为 AI 编码助手注入生产级工程规范]]></summary>
-    </entry>
-        <entry>
-        <title>Ai信息差：国产无代码编程开发平台汇总</title>
-        <id>160124</id>
-        <link href="https://lklog.cn/share/1422.html?utm_source=blogfinder" />
-        <published>2026-06-09T23:40:43+08:00</published>
-        <author>
-            <name>龙鲲博客</name>
-            <uri>https://lklog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Ai信息差：国产无代码编程开发平台汇总]]></summary>
-    </entry>
-        <entry>
-        <title>从奶牛场到冰淇淋王国，嘉兴遛娃记</title>
-        <id>160069</id>
-        <link href="https://www.weisay.com/blog/jiaxing-from-cows-to-ice-cream.html?utm_source=blogfinder" />
-        <published>2026-06-09T23:30:54+08:00</published>
-        <author>
-            <name>威言威语</name>
-            <uri>https://www.weisay.com/blog/</uri>
-        </author>
-        <summary type="text"><![CDATA[从奶牛场到冰淇淋王国，嘉兴遛娃记]]></summary>
-    </entry>
-        <entry>
-        <title>关于自律</title>
-        <id>160117</id>
-        <link href="https://blog.solazy.me/20260609/?utm_source=blogfinder" />
-        <published>2026-06-09T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[关于自律]]></summary>
-    </entry>
-        <entry>
-        <title>手写 C++ Web 服务器：WebSocket 协议实现</title>
-        <id>160080</id>
-        <link href="https://www.fallrain.cn/?p=1797&amp;utm_source=blogfinder" />
-        <published>2026-06-09T22:44:51+08:00</published>
-        <author>
-            <name>秋雨 De blog</name>
-            <uri>https://www.fallrain.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[手写 C++ Web 服务器：WebSocket 协议实现]]></summary>
-    </entry>
-        <entry>
-        <title>把 MinIO 示例迁到 OtterIO：使用、部署与迁移验证</title>
-        <id>160070</id>
-        <link href="https://soulteary.com/2026/06/09/migrate-minio-examples-to-otterio-usage-deployment-and-verification.html?utm_source=blogfinder" />
-        <published>2026-06-09T22:34:00+08:00</published>
-        <author>
-            <name>苏洋博客</name>
-            <uri>https://soulteary.com</uri>
-        </author>
-        <summary type="text"><![CDATA[把 MinIO 示例迁到 OtterIO：使用、部署与迁移验证]]></summary>
-    </entry>
-        <entry>
-        <title>又是熟悉的配方：国足 0-0 泰国，一场没有灵魂的 “训练赛”！</title>
-        <id>160118</id>
-        <link href="https://www.zhounote.com/article/111?utm_source=blogfinder" />
-        <published>2026-06-09T22:15:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[又是熟悉的配方：国足 0-0 泰国，一场没有灵魂的 “训练赛”！]]></summary>
-    </entry>
-        <entry>
-        <title>第一次去看陶喆演唱会</title>
-        <id>160121</id>
-        <link href="https://www.tortorse.com/archives/tao-zhe-soul-power-ii-nanjing-concert/?utm_source=blogfinder" />
-        <published>2026-06-09T22:14:12+08:00</published>
-        <author>
-            <name>愆伏</name>
-            <uri>https://www.tortorse.com</uri>
-        </author>
-        <summary type="text"><![CDATA[第一次去看陶喆演唱会]]></summary>
-    </entry>
-        <entry>
-        <title>甜甜圈的数学：donut.c 是如何工作的</title>
-        <id>160073</id>
-        <link href="https://blog.kayro.cn/posts/e6681c2?utm_source=blogfinder" />
-        <published>2026-06-09T21:19:49+08:00</published>
-        <author>
-            <name>敖苛记</name>
-            <uri>https://blog.kayro.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[甜甜圈的数学：donut.c 是如何工作的]]></summary>
-    </entry>
-        <entry>
-        <title>两只虎皮鹦鹉互相咬嘴</title>
-        <id>160068</id>
-        <link href="https://www.bufanz.com/20260609659.html?utm_source=blogfinder" />
-        <published>2026-06-09T21:02:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[两只虎皮鹦鹉互相咬嘴]]></summary>
     </entry>
     </feed>
