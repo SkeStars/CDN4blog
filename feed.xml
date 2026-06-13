@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-13T12:00:26+08:00</updated>
+    <updated>2026-06-13T16:01:49+08:00</updated>
+        <entry>
+        <title>明镜荡｜上海出发一小时的宝藏湖荡露营地</title>
+        <id>160474</id>
+        <link href="https://blog.ops-coffee.com/r/city-china-jiangsu-suzhou-kunshan-mingjingdang.html?utm_source=blogfinder" />
+        <published>2026-06-13T13:13:24+08:00</published>
+        <author>
+            <name>运维咖啡吧</name>
+            <uri>https://blog.ops-coffee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[明镜荡｜上海出发一小时的宝藏湖荡露营地]]></summary>
+    </entry>
+        <entry>
+        <title>如何高雅地扣帽子？II</title>
+        <id>160473</id>
+        <link href="https://mobius.blog/24637.html?utm_source=blogfinder" />
+        <published>2026-06-13T10:56:08+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[如何高雅地扣帽子？II]]></summary>
+    </entry>
         <entry>
         <title>OpenAI Codex绿色免安装版+接入Deepseek教程+安装使用攻略</title>
         <id>160469</id>
@@ -33,6 +55,17 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[中年失业，最近两周在烟台找软件开发工作有感]]></summary>
+    </entry>
+        <entry>
+        <title>博客1周年</title>
+        <id>160477</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1162&amp;utm_source=blogfinder" />
+        <published>2026-06-13T10:32:55+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[博客1周年]]></summary>
     </entry>
         <entry>
         <title>数码评测(68)：组装高速U盘/移动硬盘</title>
@@ -77,6 +110,17 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[跑起来，真的累得很！]]></summary>
+    </entry>
+        <entry>
+        <title>iptv-org/iptv：一个收录全球公开 IPTV 频道的开源项目</title>
+        <id>160475</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-13/iptv/?utm_source=blogfinder" />
+        <published>2026-06-13T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[iptv-org/iptv：一个收录全球公开 IPTV 频道的开源项目]]></summary>
     </entry>
         <entry>
         <title>Music Assistant Server：开源多媒体库管理中心，无缝打通流媒体与智能家居</title>
@@ -1344,49 +1388,5 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[这学期要结束了]]></summary>
-    </entry>
-        <entry>
-        <title>站点升级</title>
-        <id>160129</id>
-        <link href="https://blog.mboker.cn/archives/60ApsM2A?utm_source=blogfinder" />
-        <published>2026-06-10T15:39:18+08:00</published>
-        <author>
-            <name>蜉蝣手札</name>
-            <uri>https://blog.mboker.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[站点升级]]></summary>
-    </entry>
-        <entry>
-        <title>流行</title>
-        <id>160139</id>
-        <link href="https://mobius.blog/24599.html?utm_source=blogfinder" />
-        <published>2026-06-10T15:38:21+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[流行]]></summary>
-    </entry>
-        <entry>
-        <title>自勉</title>
-        <id>160135</id>
-        <link href="https://i.logr.cn/archives/400002.html?utm_source=blogfinder" />
-        <published>2026-06-10T14:38:24+08:00</published>
-        <author>
-            <name>妮妮小太阳</name>
-            <uri>https://i.logr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[自勉]]></summary>
-    </entry>
-        <entry>
-        <title>Rectangle Pro 使用教程：买了之后才搞懂</title>
-        <id>160312</id>
-        <link href="https://blog.forecho.com/rectangle-pro-usage-guide.html?utm_source=blogfinder" />
-        <published>2026-06-10T14:27:48+08:00</published>
-        <author>
-            <name>forecho&#039;s Blog</name>
-            <uri>https://blog.forecho.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Rectangle Pro 使用教程：买了之后才搞懂]]></summary>
     </entry>
     </feed>
