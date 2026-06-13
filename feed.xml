@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-13T19:00:26+08:00</updated>
+    <updated>2026-06-13T21:01:10+08:00</updated>
+        <entry>
+        <title>淘了个锤子手机当备用机</title>
+        <id>160483</id>
+        <link href="https://ygz.ink/archives/5222.html?utm_source=blogfinder" />
+        <published>2026-06-13T18:33:28+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[淘了个锤子手机当备用机]]></summary>
+    </entry>
         <entry>
         <title>拼多多一角钱开通三个月省钱会员，领券买唯卓仕镜头优惠了100多</title>
         <id>160480</id>
@@ -121,6 +132,17 @@
             <uri>https://blog.devtang.com</uri>
         </author>
         <summary type="text"><![CDATA[玩教具行业的核心竞争力]]></summary>
+    </entry>
+        <entry>
+        <title>路边摊不再便宜，也该管管了</title>
+        <id>160482</id>
+        <link href="https://www.iliu.org/posts/street-vendor-normalization/?utm_source=blogfinder" />
+        <published>2026-06-13T08:00:00+08:00</published>
+        <author>
+            <name>老刘博客</name>
+            <uri>https://www.iliu.org</uri>
+        </author>
+        <summary type="text"><![CDATA[路边摊不再便宜，也该管管了]]></summary>
     </entry>
         <entry>
         <title>莲花</title>
@@ -1234,82 +1256,5 @@
             <uri>https://www.zhounote.com</uri>
         </author>
         <summary type="text"><![CDATA[世界杯将至，我却没了往日的热情]]></summary>
-    </entry>
-        <entry>
-        <title>随思 #92 - 2026-06-10</title>
-        <id>160140</id>
-        <link href="http://qthinker.net/content/92?utm_source=blogfinder" />
-        <published>2026-06-10T20:52:52+08:00</published>
-        <author>
-            <name>Qthinker</name>
-            <uri>https://qthinker.net</uri>
-        </author>
-        <summary type="text"><![CDATA[随思 #92 - 2026-06-10]]></summary>
-    </entry>
-        <entry>
-        <title>我做了一个现代Web版本的标签云，支持图片视频Web组件</title>
-        <id>160303</id>
-        <link href="https://xingwangzhe.fun/posts/modern-tags-cloud-3d/?utm_source=blogfinder" />
-        <published>2026-06-10T20:00:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[我做了一个现代Web版本的标签云，支持图片视频Web组件]]></summary>
-    </entry>
-        <entry>
-        <title>服务器高性能网络调优</title>
-        <id>160133</id>
-        <link href="https://www.kawabangga.com/posts/7292?utm_source=blogfinder" />
-        <published>2026-06-10T19:52:00+08:00</published>
-        <author>
-            <name>卡瓦邦噶</name>
-            <uri>https://www.kawabangga.com</uri>
-        </author>
-        <summary type="text"><![CDATA[服务器高性能网络调优]]></summary>
-    </entry>
-        <entry>
-        <title>又来一颗虫牙</title>
-        <id>160136</id>
-        <link href="https://ygz.ink/archives/5197.html?utm_source=blogfinder" />
-        <published>2026-06-10T19:51:34+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[又来一颗虫牙]]></summary>
-    </entry>
-        <entry>
-        <title>我特别的一天</title>
-        <id>160141</id>
-        <link href="https://blog.mcenahle.org.cn/2026/06/10/454.html?utm_source=blogfinder" />
-        <published>2026-06-10T19:46:50+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[我特别的一天]]></summary>
-    </entry>
-        <entry>
-        <title>把 Next.js 拆成壳：LobeHub 后端迁移 Hono 实录</title>
-        <id>160276</id>
-        <link href="https://innei.in/posts/tech/nextjs-shell-hono-backend-migration?utm_source=blogfinder" />
-        <published>2026-06-10T19:27:40+08:00</published>
-        <author>
-            <name>静かな森</name>
-            <uri>https://innei.in</uri>
-        </author>
-        <summary type="text"><![CDATA[把 Next.js 拆成壳：LobeHub 后端迁移 Hono 实录]]></summary>
-    </entry>
-        <entry>
-        <title>服务器安装Dokploy替代vercel</title>
-        <id>160320</id>
-        <link href="https://blog.xrbk.cn/post/82.html?utm_source=blogfinder" />
-        <published>2026-06-10T19:12:00+08:00</published>
-        <author>
-            <name>新锐博客</name>
-            <uri>https://blog.xrbk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[服务器安装Dokploy替代vercel]]></summary>
     </entry>
     </feed>
