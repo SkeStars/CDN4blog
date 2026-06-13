@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-13T23:00:44+08:00</updated>
+    <updated>2026-06-14T00:00:20+08:00</updated>
+        <entry>
+        <title>永久版本是个坑</title>
+        <id>160492</id>
+        <link href="https://me.xu19.com/he-permanent-version-of-the-software-is-a-pitfall/?utm_source=blogfinder" />
+        <published>2026-06-13T23:17:07+08:00</published>
+        <author>
+            <name>我是军爸</name>
+            <uri>https://me.xu19.com</uri>
+        </author>
+        <summary type="text"><![CDATA[永久版本是个坑]]></summary>
+    </entry>
         <entry>
         <title>【也闲谈·第四季】十五：无所为而为</title>
         <id>160489</id>
@@ -33,6 +44,17 @@
             <uri>https://www.skyue.com</uri>
         </author>
         <summary type="text"><![CDATA[宜兴三日游]]></summary>
+    </entry>
+        <entry>
+        <title>无需服务器低成本搭建域名邮箱</title>
+        <id>160491</id>
+        <link href="https://jyblog.cn/5701/?utm_source=blogfinder" />
+        <published>2026-06-13T20:46:25+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[无需服务器低成本搭建域名邮箱]]></summary>
     </entry>
         <entry>
         <title>淘了个锤子手机当备用机</title>
@@ -1190,82 +1212,5 @@
             <uri>https://qthinker.net</uri>
         </author>
         <summary type="text"><![CDATA[让Deepseek做交易效果会怎样？我做了个实验]]></summary>
-    </entry>
-        <entry>
-        <title>Doge生态系统——由我开发的一系列有道词典笔小程序</title>
-        <id>160340</id>
-        <link href="https://blog.mmoe.work/youdao-miniapp/?utm_source=blogfinder" />
-        <published>2026-06-11T00:00:00+08:00</published>
-        <author>
-            <name>Adogecheems</name>
-            <uri>https://blog.mmoe.work</uri>
-        </author>
-        <summary type="text"><![CDATA[Doge生态系统——由我开发的一系列有道词典笔小程序]]></summary>
-    </entry>
-        <entry>
-        <title>RuView：用普通 WiFi 穿墙感知人体，ESP32+脉冲神经网络实现无摄像头空间智能</title>
-        <id>160308</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-11/ruview/?utm_source=blogfinder" />
-        <published>2026-06-11T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[RuView：用普通 WiFi 穿墙感知人体，ESP32+脉冲神经网络实现无摄像头空间智能]]></summary>
-    </entry>
-        <entry>
-        <title>MasterDnsVPN：通过 DNS 隧道突破网络封锁的科学项目</title>
-        <id>160307</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-11/masterdnsvpn/?utm_source=blogfinder" />
-        <published>2026-06-11T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[MasterDnsVPN：通过 DNS 隧道突破网络封锁的科学项目]]></summary>
-    </entry>
-        <entry>
-        <title>Hivemind：让所有 AI 编程代理共享一个大脑</title>
-        <id>160306</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-11/hivemind/?utm_source=blogfinder" />
-        <published>2026-06-11T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Hivemind：让所有 AI 编程代理共享一个大脑]]></summary>
-    </entry>
-        <entry>
-        <title>Apple container：Swift 写的 Linux 容器工具，把容器当轻量虚拟机跑在 Mac 上</title>
-        <id>160305</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-11/container/?utm_source=blogfinder" />
-        <published>2026-06-11T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Apple container：Swift 写的 Linux 容器工具，把容器当轻量虚拟机跑在 Mac 上]]></summary>
-    </entry>
-        <entry>
-        <title>南遊記</title>
-        <id>160280</id>
-        <link href="https://taokeqing.com/s/articles/article.php?serial=2026-06-10-01&amp;utm_source=blogfinder" />
-        <published>2026-06-10T23:39:45+08:00</published>
-        <author>
-            <name>水雲鄉</name>
-            <uri>https://taokeqing.com</uri>
-        </author>
-        <summary type="text"><![CDATA[南遊記]]></summary>
-    </entry>
-        <entry>
-        <title>26春学14周杂记</title>
-        <id>160330</id>
-        <link href="https://nxxy335.top/archives/RT3OzGQy?utm_source=blogfinder" />
-        <published>2026-06-10T23:32:17+08:00</published>
-        <author>
-            <name>暖心向阳</name>
-            <uri>https://nxxy335.top</uri>
-        </author>
-        <summary type="text"><![CDATA[26春学14周杂记]]></summary>
     </entry>
     </feed>
