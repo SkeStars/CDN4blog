@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-14T13:07:02+08:00</updated>
+    <updated>2026-06-14T16:01:00+08:00</updated>
+        <entry>
+        <title>世界，您好！</title>
+        <id>160550</id>
+        <link href="https://blog.fxpai.com:446/2026/06/14/hello-world/?utm_source=blogfinder" />
+        <published>2026-06-14T15:18:35+08:00</published>
+        <author>
+            <name>非学·派</name>
+            <uri>https://fxpai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[世界，您好！]]></summary>
+    </entry>
+        <entry>
+        <title>说说：被朋友抓来当临时 “世界杯预言家”，帮他预测了明天四场比赛的比分，他说…</title>
+        <id>160549</id>
+        <link href="https://yigeboke.com/shuoshuo.php#shuo_29?utm_source=blogfinder" />
+        <published>2026-06-14T13:54:39+08:00</published>
+        <author>
+            <name>一个博客</name>
+            <uri>https://yigeboke.com</uri>
+        </author>
+        <summary type="text"><![CDATA[说说：被朋友抓来当临时 “世界杯预言家”，帮他预测了明天四场比赛的比分，他说…]]></summary>
+    </entry>
         <entry>
         <title>Nginx 又双叒给我挖坑了：HSTS 撞车 + 宝塔偷偷锁 Frame</title>
         <id>160546</id>
@@ -110,6 +132,17 @@
             <uri>https://impatrick.blog</uri>
         </author>
         <summary type="text"><![CDATA[馬灣東灣泳灘 看青馬大橋夜景]]></summary>
+    </entry>
+        <entry>
+        <title>第一次东京：迟到 26 年的旅行</title>
+        <id>160548</id>
+        <link href="https://innei.in/notes/215?utm_source=blogfinder" />
+        <published>2026-06-13T23:33:26+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[第一次东京：迟到 26 年的旅行]]></summary>
     </entry>
         <entry>
         <title>永久版本是个坑</title>
@@ -1287,95 +1320,5 @@
             <uri>https://hi-nikola.cn</uri>
         </author>
         <summary type="text"><![CDATA[数据观察日报 · 2026-06-11]]></summary>
-    </entry>
-        <entry>
-        <title>代码增强插件 — PluginCodeEnhance 发布</title>
-        <id>160317</id>
-        <link href="https://wuqishi.com/archives/halo-plugin-code-enhance-intro?utm_source=blogfinder" />
-        <published>2026-06-11T15:03:12+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[代码增强插件 — PluginCodeEnhance 发布]]></summary>
-    </entry>
-        <entry>
-        <title>用 Agent 写完文章直接排版发布——我做了一个工具让这件事变简单了</title>
-        <id>160415</id>
-        <link href="https://6mal.com/archives/109/?utm_source=blogfinder" />
-        <published>2026-06-11T14:56:00+08:00</published>
-        <author>
-            <name>飞鲤的自留地</name>
-            <uri>https://www.6mal.com</uri>
-        </author>
-        <summary type="text"><![CDATA[用 Agent 写完文章直接排版发布——我做了一个工具让这件事变简单了]]></summary>
-    </entry>
-        <entry>
-        <title>公众号差点被封</title>
-        <id>160323</id>
-        <link href="https://ygz.ink/archives/5206.html?utm_source=blogfinder" />
-        <published>2026-06-11T14:36:38+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[公众号差点被封]]></summary>
-    </entry>
-        <entry>
-        <title>宝宝满 5 个月了，茁壮成长，会翻身，练习坐立了</title>
-        <id>160313</id>
-        <link href="https://www.aiwazi.com/3104.html?utm_source=blogfinder" />
-        <published>2026-06-11T14:31:43+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[宝宝满 5 个月了，茁壮成长，会翻身，练习坐立了]]></summary>
-    </entry>
-        <entry>
-        <title>说说：yigeboke.com 域名备案顺利通过
-备案编号：苏ICP备19…</title>
-        <id>160437</id>
-        <link href="https://yigeboke.com/shuoshuo.php#shuo_26?utm_source=blogfinder" />
-        <published>2026-06-11T14:31:36+08:00</published>
-        <author>
-            <name>一个博客</name>
-            <uri>https://yigeboke.com</uri>
-        </author>
-        <summary type="text"><![CDATA[说说：yigeboke.com 域名备案顺利通过
-备案编号：苏ICP备19…]]></summary>
-    </entry>
-        <entry>
-        <title>40元的世界杯彩票</title>
-        <id>160324</id>
-        <link href="https://ygz.ink/archives/5201.html?utm_source=blogfinder" />
-        <published>2026-06-11T14:05:55+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[40元的世界杯彩票]]></summary>
-    </entry>
-        <entry>
-        <title>站点全新升级｜V1.4积分兑换系统 + 修仙境界会员体系正式上线</title>
-        <id>160438</id>
-        <link href="https://yigeboke.com/article.php?id=39&amp;utm_source=blogfinder" />
-        <published>2026-06-11T13:50:58+08:00</published>
-        <author>
-            <name>一个博客</name>
-            <uri>https://yigeboke.com</uri>
-        </author>
-        <summary type="text"><![CDATA[站点全新升级｜V1.4积分兑换系统 + 修仙境界会员体系正式上线]]></summary>
-    </entry>
-        <entry>
-        <title>HeoSticker3D发布：3D形态的Heo表情，个人免费使用</title>
-        <id>160322</id>
-        <link href="https://blog.zhheo.com/p/mjpbdtsh.html?utm_source=blogfinder" />
-        <published>2026-06-11T13:23:23+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[HeoSticker3D发布：3D形态的Heo表情，个人免费使用]]></summary>
     </entry>
     </feed>
