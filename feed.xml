@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-15T20:00:25+08:00</updated>
+    <updated>2026-06-16T00:00:44+08:00</updated>
+        <entry>
+        <title>Zine#52 - 我们都无法成为大人</title>
+        <id>160655</id>
+        <link href="https://taxodium.ink/52.html?utm_source=blogfinder" />
+        <published>2026-06-15T23:50:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[Zine#52 - 我们都无法成为大人]]></summary>
+    </entry>
+        <entry>
+        <title>雨露电视通：电视直播软件，多线路频道齐全播放稳定</title>
+        <id>160650</id>
+        <link href="https://www.wangdu.site/software/dianshihezi/2355.html?utm_source=blogfinder" />
+        <published>2026-06-15T22:20:47+08:00</published>
+        <author>
+            <name>文武科技柜</name>
+            <uri>https://www.wangdu.site</uri>
+        </author>
+        <summary type="text"><![CDATA[雨露电视通：电视直播软件，多线路频道齐全播放稳定]]></summary>
+    </entry>
+        <entry>
+        <title>WebHomeTV - 集点播、直播TV手机多架构影视软件，多源流畅播放</title>
+        <id>160651</id>
+        <link href="https://www.wangdu.site/software/dianshihezi/2354.html?utm_source=blogfinder" />
+        <published>2026-06-15T22:01:40+08:00</published>
+        <author>
+            <name>文武科技柜</name>
+            <uri>https://www.wangdu.site</uri>
+        </author>
+        <summary type="text"><![CDATA[WebHomeTV - 集点播、直播TV手机多架构影视软件，多源流畅播放]]></summary>
+    </entry>
+        <entry>
+        <title>博客装修记：专题页导航</title>
+        <id>160653</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1372/?utm_source=blogfinder" />
+        <published>2026-06-15T21:57:00+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[博客装修记：专题页导航]]></summary>
+    </entry>
         <entry>
         <title>Bug</title>
         <id>160643</id>
@@ -44,6 +88,28 @@
             <uri>https://xyzbz.cn</uri>
         </author>
         <summary type="text"><![CDATA[松声｜廿六年·六月中·荷花开]]></summary>
+    </entry>
+        <entry>
+        <title>说说：来复盘一下昨天的预测 vs 赛果，完美诠释了什么叫 “懂球但没完全懂”…</title>
+        <id>160649</id>
+        <link href="https://yigeboke.com/shuoshuo.php#shuo_30?utm_source=blogfinder" />
+        <published>2026-06-15T14:12:08+08:00</published>
+        <author>
+            <name>一个博客</name>
+            <uri>https://yigeboke.com</uri>
+        </author>
+        <summary type="text"><![CDATA[说说：来复盘一下昨天的预测 vs 赛果，完美诠释了什么叫 “懂球但没完全懂”…]]></summary>
+    </entry>
+        <entry>
+        <title>两小时用智谱 glm 5.2 实现了 CatReader 的移动微信版</title>
+        <id>160654</id>
+        <link href="https://macshuo.com/?p=2069&amp;utm_source=blogfinder" />
+        <published>2026-06-15T13:20:53+08:00</published>
+        <author>
+            <name>池建强的随想录</name>
+            <uri>https://macshuo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[两小时用智谱 glm 5.2 实现了 CatReader 的移动微信版]]></summary>
     </entry>
         <entry>
         <title>手记1</title>
@@ -165,6 +231,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1681】刘义良《辣椒的征途》]]></summary>
+    </entry>
+        <entry>
+        <title>街道道路拓宽</title>
+        <id>160652</id>
+        <link href="https://ilogs.cn/2026/06/15/385.html?utm_source=blogfinder" />
+        <published>2026-06-15T08:00:00+08:00</published>
+        <author>
+            <name>我的日志</name>
+            <uri>https://ilogs.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[街道道路拓宽]]></summary>
     </entry>
         <entry>
         <title>人在尿尿的时候最脆弱</title>
@@ -1199,137 +1276,5 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[跑起来，真的累得很！]]></summary>
-    </entry>
-        <entry>
-        <title>LMCache：LLM 推理的 KV Cache 管理层，让 GPU 显存压力骤降</title>
-        <id>160543</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-13/lmcache/?utm_source=blogfinder" />
-        <published>2026-06-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[LMCache：LLM 推理的 KV Cache 管理层，让 GPU 显存压力骤降]]></summary>
-    </entry>
-        <entry>
-        <title>Chatwoot：开源客户支持平台，Intercom/Zendesk 的自主可控替代方案</title>
-        <id>160542</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-13/chatwoot/?utm_source=blogfinder" />
-        <published>2026-06-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Chatwoot：开源客户支持平台，Intercom/Zendesk 的自主可控替代方案]]></summary>
-    </entry>
-        <entry>
-        <title>AgentsView：一站式 AI 编程助手成本追踪与分析平台</title>
-        <id>160541</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-13/agentsview/?utm_source=blogfinder" />
-        <published>2026-06-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[AgentsView：一站式 AI 编程助手成本追踪与分析平台]]></summary>
-    </entry>
-        <entry>
-        <title>Agency Agents：打造你的AI专属团队</title>
-        <id>160540</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-13/agency-agents/?utm_source=blogfinder" />
-        <published>2026-06-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Agency Agents：打造你的AI专属团队]]></summary>
-    </entry>
-        <entry>
-        <title>《给阿嬷的情书》值得细品</title>
-        <id>160501</id>
-        <link href="https://cuixiping.com/blog/life/xmlynr?utm_source=blogfinder" />
-        <published>2026-06-13T00:00:00+08:00</published>
-        <author>
-            <name>崔话记</name>
-            <uri>https://cuixiping.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《给阿嬷的情书》值得细品]]></summary>
-    </entry>
-        <entry>
-        <title>iptv-org/iptv：一个收录全球公开 IPTV 频道的开源项目</title>
-        <id>160475</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-13/iptv/?utm_source=blogfinder" />
-        <published>2026-06-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[iptv-org/iptv：一个收录全球公开 IPTV 频道的开源项目]]></summary>
-    </entry>
-        <entry>
-        <title>Music Assistant Server：开源多媒体库管理中心，无缝打通流媒体与智能家居</title>
-        <id>160467</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-13/server/?utm_source=blogfinder" />
-        <published>2026-06-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Music Assistant Server：开源多媒体库管理中心，无缝打通流媒体与智能家居]]></summary>
-    </entry>
-        <entry>
-        <title>Mattermost：开源自托管的团队协作与 DevSecOps 平台</title>
-        <id>160466</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-13/mattermost/?utm_source=blogfinder" />
-        <published>2026-06-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Mattermost：开源自托管的团队协作与 DevSecOps 平台]]></summary>
-    </entry>
-        <entry>
-        <title>由“点铁成金”说开去</title>
-        <id>160485</id>
-        <link href="https://blog.kfdzcoffee.cn/archives/composition-1?utm_source=blogfinder" />
-        <published>2026-06-12T23:31:38+08:00</published>
-        <author>
-            <name>咖啡豆子 coffee 的小站</name>
-            <uri>https://blog.kfdzcoffee.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[由“点铁成金”说开去]]></summary>
-    </entry>
-        <entry>
-        <title>理性买体彩</title>
-        <id>160472</id>
-        <link href="https://ygz.ink/archives/5215.html?utm_source=blogfinder" />
-        <published>2026-06-12T20:32:59+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[理性买体彩]]></summary>
-    </entry>
-        <entry>
-        <title>2026-06-12T20:29:00+08:00</title>
-        <id>160454</id>
-        <link href="https://www.sanji.one/moments/20260612-2029/?utm_source=blogfinder" />
-        <published>2026-06-12T20:29:00+08:00</published>
-        <author>
-            <name>时光散记</name>
-            <uri>https://www.sanji.one</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-06-12T20:29:00+08:00]]></summary>
-    </entry>
-        <entry>
-        <title>跟一位工作七八年的前端同事沟通让我血压飙升</title>
-        <id>160398</id>
-        <link href="https://552412.xyz/blog/2026-06-12/?utm_source=blogfinder" />
-        <published>2026-06-12T20:08:00+08:00</published>
-        <author>
-            <name>九月半</name>
-            <uri>https://552412.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[跟一位工作七八年的前端同事沟通让我血压飙升]]></summary>
     </entry>
     </feed>
