@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-15T13:04:47+08:00</updated>
+    <updated>2026-06-15T20:00:25+08:00</updated>
+        <entry>
+        <title>Bug</title>
+        <id>160643</id>
+        <link href="https://ygz.ink/archives/5251.html?utm_source=blogfinder" />
+        <published>2026-06-15T15:54:18+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[Bug]]></summary>
+    </entry>
+        <entry>
+        <title>2026年「徽章猎人」活动第二季度收官</title>
+        <id>160642</id>
+        <link href="https://zhujay.com/talk/talk_detail.html?id=1240&amp;utm_source=blogfinder" />
+        <published>2026-06-15T15:00:36+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026年「徽章猎人」活动第二季度收官]]></summary>
+    </entry>
+        <entry>
+        <title>松声｜廿六年·六月中·荷花开</title>
+        <id>160639</id>
+        <link href="https://xyzbz.cn/archives/1550/?utm_source=blogfinder" />
+        <published>2026-06-15T14:49:00+08:00</published>
+        <author>
+            <name>网友小宋</name>
+            <uri>https://xyzbz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[松声｜廿六年·六月中·荷花开]]></summary>
+    </entry>
+        <entry>
+        <title>手记1</title>
+        <id>160645</id>
+        <link href="https://www.velasx.com/am/6489?utm_source=blogfinder" />
+        <published>2026-06-15T12:57:53+08:00</published>
+        <author>
+            <name>Velas 电波站</name>
+            <uri>https://www.velasx.com</uri>
+        </author>
+        <summary type="text"><![CDATA[手记1]]></summary>
+    </entry>
+        <entry>
+        <title>鸭骗战争</title>
+        <id>160638</id>
+        <link href="https://mobius.blog/24643.html?utm_source=blogfinder" />
+        <published>2026-06-15T10:55:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[鸭骗战争]]></summary>
+    </entry>
         <entry>
         <title>谁制造了躺平、黄毛与蹦老头？</title>
         <id>160633</id>
@@ -79,6 +134,17 @@
         <summary type="text"><![CDATA[現此時我對 AI 的想法（2026）]]></summary>
     </entry>
         <entry>
+        <title>大脑充血 Vol.85</title>
+        <id>160646</id>
+        <link href="https://www.geedea.pro/weekly/85/?utm_source=blogfinder" />
+        <published>2026-06-15T08:28:26+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[大脑充血 Vol.85]]></summary>
+    </entry>
+        <entry>
         <title>你只看见昙花盛开的那一刻</title>
         <id>160619</id>
         <link href="https://www.dengxiaokang.com/1508/?utm_source=blogfinder" />
@@ -112,6 +178,17 @@
         <summary type="text"><![CDATA[人在尿尿的时候最脆弱]]></summary>
     </entry>
         <entry>
+        <title>吃瓜群众上线</title>
+        <id>160648</id>
+        <link href="https://www.luohuayu.cn/70.html?utm_source=blogfinder" />
+        <published>2026-06-15T03:10:00+08:00</published>
+        <author>
+            <name>落花雨记</name>
+            <uri>https://www.luohuayu.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[吃瓜群众上线]]></summary>
+    </entry>
+        <entry>
         <title>完全丧智的崇洋媚外患者，没有批判公民阶级的基础</title>
         <id>160587</id>
         <link href="https://www.dao.js.cn/new/2026061512217.html?utm_source=blogfinder" />
@@ -121,6 +198,17 @@
             <uri>https://www.dao.js.cn</uri>
         </author>
         <summary type="text"><![CDATA[完全丧智的崇洋媚外患者，没有批判公民阶级的基础]]></summary>
+    </entry>
+        <entry>
+        <title>IndexDB实现大文件下载的思路</title>
+        <id>160647</id>
+        <link href="https://blog.xrbk.cn/post/84.html?utm_source=blogfinder" />
+        <published>2026-06-15T01:31:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://blog.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[IndexDB实现大文件下载的思路]]></summary>
     </entry>
         <entry>
         <title>【日常碎碎念】AI取代前端？</title>
@@ -154,6 +242,17 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[一家老店]]></summary>
+    </entry>
+        <entry>
+        <title>Introduction to Autonomous Robots：MIT Press 开源机器人学教材</title>
+        <id>160640</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-15/introduction-to-autonomous-robots/?utm_source=blogfinder" />
+        <published>2026-06-15T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Introduction to Autonomous Robots：MIT Press 开源机器人学教材]]></summary>
     </entry>
         <entry>
         <title>Meshery：云原生基础设施的统一管理平台</title>
@@ -396,6 +495,17 @@
             <uri>https://www.weiwenchao.com</uri>
         </author>
         <summary type="text"><![CDATA[《弹弓情缘》]]></summary>
+    </entry>
+        <entry>
+        <title>Vol.107 Claude Fable 5 引爆AI圈：最强模型降价，高端版本受限，能力分发迎来转折</title>
+        <id>160641</id>
+        <link href="https://liduos.com/weekly/the-weekly-gradient-107?utm_source=blogfinder" />
+        <published>2026-06-14T16:00:00+08:00</published>
+        <author>
+            <name>莫尔索</name>
+            <uri>https://liduos.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Vol.107 Claude Fable 5 引爆AI圈：最强模型降价，高端版本受限，能力分发迎来转折]]></summary>
     </entry>
         <entry>
         <title>工作中如何做好技术积累</title>
@@ -1221,159 +1331,5 @@
             <uri>https://552412.xyz</uri>
         </author>
         <summary type="text"><![CDATA[跟一位工作七八年的前端同事沟通让我血压飙升]]></summary>
-    </entry>
-        <entry>
-        <title>记一次出差时的 AirPods 巡回</title>
-        <id>160400</id>
-        <link href="https://blog.solazy.me/20260612/?utm_source=blogfinder" />
-        <published>2026-06-12T19:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[记一次出差时的 AirPods 巡回]]></summary>
-    </entry>
-        <entry>
-        <title>两款微信多开软件，一台电脑同时打开多个微信，神器！</title>
-        <id>160397</id>
-        <link href="https://www.zhyok.cn/archives/414/?utm_source=blogfinder" />
-        <published>2026-06-12T19:00:00+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[两款微信多开软件，一台电脑同时打开多个微信，神器！]]></summary>
-    </entry>
-        <entry>
-        <title>先有潭柘寺，后有北京城~</title>
-        <id>160481</id>
-        <link href="https://blog.lichenghao.cn/article/p23c98vduhw8?utm_source=blogfinder" />
-        <published>2026-06-12T18:10:33+08:00</published>
-        <author>
-            <name>故事的程序猿</name>
-            <uri>https://blog.lichenghao.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[先有潭柘寺，后有北京城~]]></summary>
-    </entry>
-        <entry>
-        <title>关于工作本质的思考</title>
-        <id>160395</id>
-        <link href="https://joojen.com/archives/9018.html?utm_source=blogfinder" />
-        <published>2026-06-12T18:06:41+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[关于工作本质的思考]]></summary>
-    </entry>
-        <entry>
-        <title>给叫叫讲中国史40-五代十国（上）</title>
-        <id>160453</id>
-        <link href="http://stuit.cn/Xiaolu/Post/1515.html?utm_source=blogfinder" />
-        <published>2026-06-12T17:40:08+08:00</published>
-        <author>
-            <name>风雨行者</name>
-            <uri>http://stuit.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[给叫叫讲中国史40-五代十国（上）]]></summary>
-    </entry>
-        <entry>
-        <title>为了省钱买唯卓仕微单镜头开通淘宝88VIP会员，领券后居然不能使用！</title>
-        <id>160368</id>
-        <link href="https://www.bufanz.com/20260612660.html?utm_source=blogfinder" />
-        <published>2026-06-12T17:39:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为了省钱买唯卓仕微单镜头开通淘宝88VIP会员，领券后居然不能使用！]]></summary>
-    </entry>
-        <entry>
-        <title>数据观察日报 · 2026-06-12</title>
-        <id>160364</id>
-        <link href="http://hi-nikola.cn/2026/06/12/daily-observer/2026-06-12/?utm_source=blogfinder" />
-        <published>2026-06-12T17:00:00+08:00</published>
-        <author>
-            <name>Nikola</name>
-            <uri>https://hi-nikola.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[数据观察日报 · 2026-06-12]]></summary>
-    </entry>
-        <entry>
-        <title>远离VibeCoding的两周</title>
-        <id>160367</id>
-        <link href="https://knay.net/note/untitled-20260612?utm_source=blogfinder" />
-        <published>2026-06-12T16:54:42+08:00</published>
-        <author>
-            <name>Yang&#039;s Blog</name>
-            <uri>https://knay.net</uri>
-        </author>
-        <summary type="text"><![CDATA[远离VibeCoding的两周]]></summary>
-    </entry>
-        <entry>
-        <title>《2026年 6 月琐事小记》</title>
-        <id>160369</id>
-        <link href="https://www.weiwenchao.com/2666.html?utm_source=blogfinder" />
-        <published>2026-06-12T16:20:00+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《2026年 6 月琐事小记》]]></summary>
-    </entry>
-        <entry>
-        <title>补牙记</title>
-        <id>160471</id>
-        <link href="https://chidd.net/2026/06/12/dental-filling-story.html?utm_source=blogfinder" />
-        <published>2026-06-12T15:57:52+08:00</published>
-        <author>
-            <name>伪医生律师的博客</name>
-            <uri>https://chidd.net</uri>
-        </author>
-        <summary type="text"><![CDATA[补牙记]]></summary>
-    </entry>
-        <entry>
-        <title>Lesson 30 复习</title>
-        <id>160363</id>
-        <link href="https://physnya.top/GR/lesson-30-review/?utm_source=blogfinder" />
-        <published>2026-06-12T15:26:34+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lesson 30 复习]]></summary>
-    </entry>
-        <entry>
-        <title>罗马-佛罗伦萨-梵蒂冈之旅（四）</title>
-        <id>160394</id>
-        <link href="https://eduardoqian.com/archives/luo-ma-fo-luo-lun-sa-fan-di-gang-zhi-lu-si?utm_source=blogfinder" />
-        <published>2026-06-12T15:13:00+08:00</published>
-        <author>
-            <name>司云有崖</name>
-            <uri>https://eduardoqian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[罗马-佛罗伦萨-梵蒂冈之旅（四）]]></summary>
-    </entry>
-        <entry>
-        <title>车祸 XIII</title>
-        <id>160360</id>
-        <link href="https://mobius.blog/24607.html?utm_source=blogfinder" />
-        <published>2026-06-12T15:00:00+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[车祸 XIII]]></summary>
-    </entry>
-        <entry>
-        <title>回顾经典-程序员的三大美德</title>
-        <id>160366</id>
-        <link href="https://xingwangzhe.fun/posts/programmers-three-virtues/?utm_source=blogfinder" />
-        <published>2026-06-12T14:00:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[回顾经典-程序员的三大美德]]></summary>
     </entry>
     </feed>
