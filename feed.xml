@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-16T19:00:18+08:00</updated>
+    <updated>2026-06-17T00:00:26+08:00</updated>
+        <entry>
+        <title>当菜篮子抢占了停车位</title>
+        <id>160727</id>
+        <link href="http://etom.top/archives/so161.html?utm_source=blogfinder" />
+        <published>2026-06-16T23:53:00+08:00</published>
+        <author>
+            <name>浮生事</name>
+            <uri>http://etom.top</uri>
+        </author>
+        <summary type="text"><![CDATA[当菜篮子抢占了停车位]]></summary>
+    </entry>
+        <entry>
+        <title>新购的唯卓仕55mm f1.8 EVO镜头有瑕疵，已退货</title>
+        <id>160725</id>
+        <link href="https://www.bufanz.com/20260616675.html?utm_source=blogfinder" />
+        <published>2026-06-16T20:08:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[新购的唯卓仕55mm f1.8 EVO镜头有瑕疵，已退货]]></summary>
+    </entry>
         <entry>
         <title>购买了一个高级的杯子</title>
         <id>160720</id>
@@ -33,6 +55,17 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[工作、消费主义和新穷人]]></summary>
+    </entry>
+        <entry>
+        <title>第一百八十万字</title>
+        <id>160722</id>
+        <link href="https://mobius.blog/24693.html?utm_source=blogfinder" />
+        <published>2026-06-16T15:00:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[第一百八十万字]]></summary>
     </entry>
         <entry>
         <title>粽子好吃但吃不动了</title>
@@ -77,6 +110,17 @@
             <uri>http://stuit.cn</uri>
         </author>
         <summary type="text"><![CDATA[给叫叫讲中国史41-五代十国（下）]]></summary>
+    </entry>
+        <entry>
+        <title>无题</title>
+        <id>160724</id>
+        <link href="https://www.yang1120.com/archives/751?utm_source=blogfinder" />
+        <published>2026-06-16T14:08:51+08:00</published>
+        <author>
+            <name>氧化某人</name>
+            <uri>https://www.yang1120.com</uri>
+        </author>
+        <summary type="text"><![CDATA[无题]]></summary>
     </entry>
         <entry>
         <title>兰州牛肉面VS兰州凉面</title>
@@ -299,6 +343,17 @@
         <summary type="text"><![CDATA[特别的生日]]></summary>
     </entry>
         <entry>
+        <title>职场中的「可预期性」</title>
+        <id>160726</id>
+        <link href="https://blog.solazy.me/20260615/?utm_source=blogfinder" />
+        <published>2026-06-15T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[职场中的「可预期性」]]></summary>
+    </entry>
+        <entry>
         <title>你只是打个工而已</title>
         <id>160688</id>
         <link href="https://joojen.com/archives/9022.html?utm_source=blogfinder" />
@@ -308,6 +363,17 @@
             <uri>https://joojen.com</uri>
         </author>
         <summary type="text"><![CDATA[你只是打个工而已]]></summary>
+    </entry>
+        <entry>
+        <title>博客900天啦</title>
+        <id>160723</id>
+        <link href="https://blog.liseezn.top/%e5%8d%9a%e5%ae%a2900%e5%a4%a9%e5%95%a6.html/?utm_source=blogfinder" />
+        <published>2026-06-15T22:40:10+08:00</published>
+        <author>
+            <name>Liseezn&#039;blog</name>
+            <uri>https://blog.liseezn.top</uri>
+        </author>
+        <summary type="text"><![CDATA[博客900天啦]]></summary>
     </entry>
         <entry>
         <title>小米的新闻总能加深我的厌恶</title>
@@ -1331,225 +1397,5 @@
             <uri>https://blog.xrbk.cn</uri>
         </author>
         <summary type="text"><![CDATA[鱼鱼api使用教程]]></summary>
-    </entry>
-        <entry>
-        <title>SWC：用 Rust 重写的超快 JavaScript/TypeScript 编译器</title>
-        <id>160630</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-14/swc/?utm_source=blogfinder" />
-        <published>2026-06-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[SWC：用 Rust 重写的超快 JavaScript/TypeScript 编译器]]></summary>
-    </entry>
-        <entry>
-        <title>pytest：Python 生态中最强大的测试框架，你真的用好了吗？</title>
-        <id>160629</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-14/pytest/?utm_source=blogfinder" />
-        <published>2026-06-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[pytest：Python 生态中最强大的测试框架，你真的用好了吗？]]></summary>
-    </entry>
-        <entry>
-        <title>freeCodeCamp：免费学习编程的开源社区与课程体系</title>
-        <id>160628</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-14/freecodecamp/?utm_source=blogfinder" />
-        <published>2026-06-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[freeCodeCamp：免费学习编程的开源社区与课程体系]]></summary>
-    </entry>
-        <entry>
-        <title>SkillSpector：NVIDIA 开源 AI Agent 技能安全扫描工具</title>
-        <id>160539</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-14/skillspector/?utm_source=blogfinder" />
-        <published>2026-06-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[SkillSpector：NVIDIA 开源 AI Agent 技能安全扫描工具]]></summary>
-    </entry>
-        <entry>
-        <title>Microsoft PowerToys：Windows 效率神器完全解析</title>
-        <id>160538</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-14/powertoys/?utm_source=blogfinder" />
-        <published>2026-06-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Microsoft PowerToys：Windows 效率神器完全解析]]></summary>
-    </entry>
-        <entry>
-        <title>fanqiang：全平台科学上网工具与教程合集</title>
-        <id>160537</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-14/fanqiang/?utm_source=blogfinder" />
-        <published>2026-06-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[fanqiang：全平台科学上网工具与教程合集]]></summary>
-    </entry>
-        <entry>
-        <title>aisuite：统一调用多家 LLM 的轻量级 Python 库（by Andrew Ng）</title>
-        <id>160536</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-14/aisuite/?utm_source=blogfinder" />
-        <published>2026-06-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[aisuite：统一调用多家 LLM 的轻量级 Python 库（by Andrew Ng）]]></summary>
-    </entry>
-        <entry>
-        <title>馬灣東灣泳灘 看青馬大橋夜景</title>
-        <id>160529</id>
-        <link href="https://impatrick.blog/ma-wan-night-photography-tsing-ma-bridge/?utm_source=blogfinder" />
-        <published>2026-06-13T23:33:48+08:00</published>
-        <author>
-            <name>Patrick&#039;s Blog</name>
-            <uri>https://impatrick.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[馬灣東灣泳灘 看青馬大橋夜景]]></summary>
-    </entry>
-        <entry>
-        <title>第一次东京：迟到 26 年的旅行</title>
-        <id>160548</id>
-        <link href="https://innei.in/notes/215?utm_source=blogfinder" />
-        <published>2026-06-13T23:33:26+08:00</published>
-        <author>
-            <name>静かな森</name>
-            <uri>https://innei.in</uri>
-        </author>
-        <summary type="text"><![CDATA[第一次东京：迟到 26 年的旅行]]></summary>
-    </entry>
-        <entry>
-        <title>永久版本是个坑</title>
-        <id>160492</id>
-        <link href="https://me.xu19.com/he-permanent-version-of-the-software-is-a-pitfall/?utm_source=blogfinder" />
-        <published>2026-06-13T23:17:07+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[永久版本是个坑]]></summary>
-    </entry>
-        <entry>
-        <title>低频但高质量的友谊</title>
-        <id>160580</id>
-        <link href="https://blog.solazy.me/20260613/?utm_source=blogfinder" />
-        <published>2026-06-13T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[低频但高质量的友谊]]></summary>
-    </entry>
-        <entry>
-        <title>【也闲谈·第四季】十五：无所为而为</title>
-        <id>160489</id>
-        <link href="http://www.qncd.com/?p=12842&amp;utm_source=blogfinder" />
-        <published>2026-06-13T22:17:46+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【也闲谈·第四季】十五：无所为而为]]></summary>
-    </entry>
-        <entry>
-        <title>宜兴三日游</title>
-        <id>160490</id>
-        <link href="https://www.skyue.com/26061321.html?utm_source=blogfinder" />
-        <published>2026-06-13T21:27:00+08:00</published>
-        <author>
-            <name>拾月</name>
-            <uri>https://www.skyue.com</uri>
-        </author>
-        <summary type="text"><![CDATA[宜兴三日游]]></summary>
-    </entry>
-        <entry>
-        <title>高跟鞋</title>
-        <id>160493</id>
-        <link href="https://blog.xulihang.me/high-heels/?utm_source=blogfinder" />
-        <published>2026-06-13T21:22:50+08:00</published>
-        <author>
-            <name>xulihang&#039;s blog</name>
-            <uri>https://blog.xulihang.me</uri>
-        </author>
-        <summary type="text"><![CDATA[高跟鞋]]></summary>
-    </entry>
-        <entry>
-        <title>蜡笔小新</title>
-        <id>160494</id>
-        <link href="https://blog.xulihang.me/crayon-shin-chan/?utm_source=blogfinder" />
-        <published>2026-06-13T20:56:50+08:00</published>
-        <author>
-            <name>xulihang&#039;s blog</name>
-            <uri>https://blog.xulihang.me</uri>
-        </author>
-        <summary type="text"><![CDATA[蜡笔小新]]></summary>
-    </entry>
-        <entry>
-        <title>弃用 iCloud 邮箱，启用 QQ 域名邮箱</title>
-        <id>160668</id>
-        <link href="https://dahaizahuopu.com/archives/10?utm_source=blogfinder" />
-        <published>2026-06-13T20:48:19+08:00</published>
-        <author>
-            <name>大海杂货铺</name>
-            <uri>https://dahaizahuopu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[弃用 iCloud 邮箱，启用 QQ 域名邮箱]]></summary>
-    </entry>
-        <entry>
-        <title>无需服务器低成本搭建域名邮箱</title>
-        <id>160491</id>
-        <link href="https://jyblog.cn/5701/?utm_source=blogfinder" />
-        <published>2026-06-13T20:46:25+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[无需服务器低成本搭建域名邮箱]]></summary>
-    </entry>
-        <entry>
-        <title>AI时代还有必要写博客吗</title>
-        <id>160495</id>
-        <link href="https://blog.xulihang.me/is-blog-still-meaningful-in-the-AI-era/?utm_source=blogfinder" />
-        <published>2026-06-13T20:44:50+08:00</published>
-        <author>
-            <name>xulihang&#039;s blog</name>
-            <uri>https://blog.xulihang.me</uri>
-        </author>
-        <summary type="text"><![CDATA[AI时代还有必要写博客吗]]></summary>
-    </entry>
-        <entry>
-        <title>暧昧</title>
-        <id>160496</id>
-        <link href="https://blog.xulihang.me/ambiguous/?utm_source=blogfinder" />
-        <published>2026-06-13T20:27:50+08:00</published>
-        <author>
-            <name>xulihang&#039;s blog</name>
-            <uri>https://blog.xulihang.me</uri>
-        </author>
-        <summary type="text"><![CDATA[暧昧]]></summary>
-    </entry>
-        <entry>
-        <title>火车</title>
-        <id>160497</id>
-        <link href="https://blog.xulihang.me/train/?utm_source=blogfinder" />
-        <published>2026-06-13T19:49:50+08:00</published>
-        <author>
-            <name>xulihang&#039;s blog</name>
-            <uri>https://blog.xulihang.me</uri>
-        </author>
-        <summary type="text"><![CDATA[火车]]></summary>
     </entry>
     </feed>
