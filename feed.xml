@@ -11,7 +11,95 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-16T14:00:20+08:00</updated>
+    <updated>2026-06-16T19:00:18+08:00</updated>
+        <entry>
+        <title>购买了一个高级的杯子</title>
+        <id>160720</id>
+        <link href="https://dahaizahuopu.com/archives/52?utm_source=blogfinder" />
+        <published>2026-06-16T16:23:51+08:00</published>
+        <author>
+            <name>大海杂货铺</name>
+            <uri>https://dahaizahuopu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[购买了一个高级的杯子]]></summary>
+    </entry>
+        <entry>
+        <title>工作、消费主义和新穷人</title>
+        <id>160718</id>
+        <link href="https://www.geedea.pro/library/2026/work-consumerism-and-the-new-poor/?utm_source=blogfinder" />
+        <published>2026-06-16T15:30:56+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[工作、消费主义和新穷人]]></summary>
+    </entry>
+        <entry>
+        <title>粽子好吃但吃不动了</title>
+        <id>160713</id>
+        <link href="https://www.pgoj.top/archives/zong-zi-hao-chi.html?utm_source=blogfinder" />
+        <published>2026-06-16T14:46:02+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[粽子好吃但吃不动了]]></summary>
+    </entry>
+        <entry>
+        <title>朋友！勿忘国耻，振兴中华！</title>
+        <id>160714</id>
+        <link href="https://laoshao.net/index.php/archives/46/?utm_source=blogfinder" />
+        <published>2026-06-16T14:33:00+08:00</published>
+        <author>
+            <name>老邵博客</name>
+            <uri>https://laoshao.net</uri>
+        </author>
+        <summary type="text"><![CDATA[朋友！勿忘国耻，振兴中华！]]></summary>
+    </entry>
+        <entry>
+        <title>小确幸的一天</title>
+        <id>160719</id>
+        <link href="https://liuqingwushui.top/archives/163/?utm_source=blogfinder" />
+        <published>2026-06-16T14:12:55+08:00</published>
+        <author>
+            <name>流情的博客</name>
+            <uri>https://liuqingwushui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[小确幸的一天]]></summary>
+    </entry>
+        <entry>
+        <title>给叫叫讲中国史41-五代十国（下）</title>
+        <id>160715</id>
+        <link href="http://stuit.cn/Xiaolu/Post/1610.html?utm_source=blogfinder" />
+        <published>2026-06-16T14:09:11+08:00</published>
+        <author>
+            <name>风雨行者</name>
+            <uri>http://stuit.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[给叫叫讲中国史41-五代十国（下）]]></summary>
+    </entry>
+        <entry>
+        <title>兰州牛肉面VS兰州凉面</title>
+        <id>160705</id>
+        <link href="https://chrison.cn/live/474.html?utm_source=blogfinder" />
+        <published>2026-06-16T13:54:11+08:00</published>
+        <author>
+            <name>目的地</name>
+            <uri>https://chrison.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[兰州牛肉面VS兰州凉面]]></summary>
+    </entry>
+        <entry>
+        <title>[转载]-如何用AI写一个php程序</title>
+        <id>160712</id>
+        <link href="https://ygz.ink/archives/5268.html?utm_source=blogfinder" />
+        <published>2026-06-16T13:22:18+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[[转载]-如何用AI写一个php程序]]></summary>
+    </entry>
         <entry>
         <title>zui.re 上线记：把最热两个字，变成新闻站</title>
         <id>160697</id>
@@ -22,6 +110,28 @@
             <uri>https://www.evan.xin</uri>
         </author>
         <summary type="text"><![CDATA[zui.re 上线记：把最热两个字，变成新闻站]]></summary>
+    </entry>
+        <entry>
+        <title>月季从盛放至凋零</title>
+        <id>160717</id>
+        <link href="https://luolt.cn/archives/3180.html?utm_source=blogfinder" />
+        <published>2026-06-16T10:57:15+08:00</published>
+        <author>
+            <name>洛丽糖</name>
+            <uri>http://luolt.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[月季从盛放至凋零]]></summary>
+    </entry>
+        <entry>
+        <title>我的吸尘器哪儿去了？</title>
+        <id>160703</id>
+        <link href="https://mobius.blog/24649.html?utm_source=blogfinder" />
+        <published>2026-06-16T10:55:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[我的吸尘器哪儿去了？]]></summary>
     </entry>
         <entry>
         <title>【读书记1681】朱光潜《朱光潜谈美》</title>
@@ -44,6 +154,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[如何给你的手表/手机添加播客源订阅]]></summary>
+    </entry>
+        <entry>
+        <title>不要买“期货”</title>
+        <id>160721</id>
+        <link href="https://dahaizahuopu.com/archives/51?utm_source=blogfinder" />
+        <published>2026-06-16T09:31:40+08:00</published>
+        <author>
+            <name>大海杂货铺</name>
+            <uri>https://dahaizahuopu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[不要买“期货”]]></summary>
     </entry>
         <entry>
         <title>BlogsClub礼物</title>
@@ -99,6 +220,39 @@
             <uri>https://anotherdayu.com</uri>
         </author>
         <summary type="text"><![CDATA[Beren 与 Lúthien 长眠处]]></summary>
+    </entry>
+        <entry>
+        <title>世界加钱可及？若干 AWS / GreenCloud / Lightlayer / RFCHOST / SiliCloud / Vultr 的日本/新加坡/香港/美国VPS全天ping测试</title>
+        <id>160702</id>
+        <link href="https://wusiyu.me/aws-greencloud-lightlayer-rfchost-silicloud-vultr-vps-compare/?utm_source=blogfinder" />
+        <published>2026-06-16T02:50:11+08:00</published>
+        <author>
+            <name>WuSiYu Blog</name>
+            <uri>https://wusiyu.me</uri>
+        </author>
+        <summary type="text"><![CDATA[世界加钱可及？若干 AWS / GreenCloud / Lightlayer / RFCHOST / SiliCloud / Vultr 的日本/新加坡/香港/美国VPS全天ping测试]]></summary>
+    </entry>
+        <entry>
+        <title>随思 #95 - 2026-06-15</title>
+        <id>160711</id>
+        <link href="http://qthinker.net/content/95?utm_source=blogfinder" />
+        <published>2026-06-16T00:39:16+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[随思 #95 - 2026-06-15]]></summary>
+    </entry>
+        <entry>
+        <title>Win11Debloat: 一键精简 Windows 11，关闭遥测与预装全家桶</title>
+        <id>160704</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-16/win11debloat/?utm_source=blogfinder" />
+        <published>2026-06-16T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Win11Debloat: 一键精简 Windows 11，关闭遥测与预装全家桶]]></summary>
     </entry>
         <entry>
         <title>Free-TV/IPTV：一个收录全球免费电视频道的 M3U8 播放列表</title>
@@ -178,6 +332,17 @@
         <summary type="text"><![CDATA[雨露电视通：电视直播软件，多线路频道齐全播放稳定]]></summary>
     </entry>
         <entry>
+        <title>Legado 版本归档</title>
+        <id>160707</id>
+        <link href="http://www.tucong.vip/archives/legado-ban-ben-gui-dang?utm_source=blogfinder" />
+        <published>2026-06-15T22:08:59+08:00</published>
+        <author>
+            <name>Tea Bush</name>
+            <uri>https://www.tucong.vip</uri>
+        </author>
+        <summary type="text"><![CDATA[Legado 版本归档]]></summary>
+    </entry>
+        <entry>
         <title>WebHomeTV - 集点播、直播TV手机多架构影视软件，多源流畅播放</title>
         <id>160651</id>
         <link href="https://www.wangdu.site/software/dianshihezi/2354.html?utm_source=blogfinder" />
@@ -198,6 +363,17 @@
             <uri>https://blog.mfwt.top</uri>
         </author>
         <summary type="text"><![CDATA[博客装修记：专题页导航]]></summary>
+    </entry>
+        <entry>
+        <title>Baka</title>
+        <id>160708</id>
+        <link href="http://www.tucong.vip/archives/bakazf?utm_source=blogfinder" />
+        <published>2026-06-15T21:52:47+08:00</published>
+        <author>
+            <name>Tea Bush</name>
+            <uri>https://www.tucong.vip</uri>
+        </author>
+        <summary type="text"><![CDATA[Baka]]></summary>
     </entry>
         <entry>
         <title>记一次hexo-bilibili-bangumi分时函数渲染优化</title>
@@ -231,6 +407,39 @@
             <uri>https://myshawn.com</uri>
         </author>
         <summary type="text"><![CDATA[2026 AI 大模型数学高考]]></summary>
+    </entry>
+        <entry>
+        <title>中医祛湿食疗、代茶饮完整指南</title>
+        <id>160706</id>
+        <link href="https://www.lifd.site/2026/06/zhong-yi-qu-shi-shi-liao-dai-cha-yin-wan-zheng-zhi-nan/?utm_source=blogfinder" />
+        <published>2026-06-15T17:10:39+08:00</published>
+        <author>
+            <name>LiFD</name>
+            <uri>https://www.lifd.site</uri>
+        </author>
+        <summary type="text"><![CDATA[中医祛湿食疗、代茶饮完整指南]]></summary>
+    </entry>
+        <entry>
+        <title>数据观察日报 · 2026-06-15</title>
+        <id>160716</id>
+        <link href="http://hi-nikola.cn/2026/06/15/daily-observer/2026-06-15/?utm_source=blogfinder" />
+        <published>2026-06-15T17:00:00+08:00</published>
+        <author>
+            <name>Nikola</name>
+            <uri>https://hi-nikola.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[数据观察日报 · 2026-06-15]]></summary>
+    </entry>
+        <entry>
+        <title>用安卓模拟器开通 giffgaff eSIM 的记录</title>
+        <id>160701</id>
+        <link href="https://blog.forecho.com/open-giffgaff-esim-with-android-emulator.html?utm_source=blogfinder" />
+        <published>2026-06-15T16:58:35+08:00</published>
+        <author>
+            <name>forecho&#039;s Blog</name>
+            <uri>https://blog.forecho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[用安卓模拟器开通 giffgaff eSIM 的记录]]></summary>
     </entry>
         <entry>
         <title>高考之后（贰）</title>
@@ -649,6 +858,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[Clone Wars：100+ 流行网站开源克隆项目精选，学习必备资源库]]></summary>
+    </entry>
+        <entry>
+        <title>Pinkbin</title>
+        <id>160709</id>
+        <link href="http://www.tucong.vip/archives/pinkbin?utm_source=blogfinder" />
+        <published>2026-06-14T23:52:00+08:00</published>
+        <author>
+            <name>Tea Bush</name>
+            <uri>https://www.tucong.vip</uri>
+        </author>
+        <summary type="text"><![CDATA[Pinkbin]]></summary>
     </entry>
         <entry>
         <title>HHKB Professional HYBRID 购入</title>
@@ -1331,93 +1551,5 @@
             <uri>https://blog.xulihang.me</uri>
         </author>
         <summary type="text"><![CDATA[火车]]></summary>
-    </entry>
-        <entry>
-        <title>淘了个锤子手机当备用机</title>
-        <id>160483</id>
-        <link href="https://ygz.ink/archives/5222.html?utm_source=blogfinder" />
-        <published>2026-06-13T18:33:28+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[淘了个锤子手机当备用机]]></summary>
-    </entry>
-        <entry>
-        <title>说说：又到苏超抢票季，扬州队对阵连云港队的比赛预约通道 6 月 14 日 8…</title>
-        <id>160486</id>
-        <link href="https://yigeboke.com/shuoshuo.php#shuo_28?utm_source=blogfinder" />
-        <published>2026-06-13T17:53:37+08:00</published>
-        <author>
-            <name>一个博客</name>
-            <uri>https://yigeboke.com</uri>
-        </author>
-        <summary type="text"><![CDATA[说说：又到苏超抢票季，扬州队对阵连云港队的比赛预约通道 6 月 14 日 8…]]></summary>
-    </entry>
-        <entry>
-        <title>拼多多一角钱开通三个月省钱会员，领券买唯卓仕镜头优惠了100多</title>
-        <id>160480</id>
-        <link href="https://www.bufanz.com/20260613668.html?utm_source=blogfinder" />
-        <published>2026-06-13T17:17:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[拼多多一角钱开通三个月省钱会员，领券买唯卓仕镜头优惠了100多]]></summary>
-    </entry>
-        <entry>
-        <title>2026年，我在用的 3 款 笔记 App</title>
-        <id>160578</id>
-        <link href="https://yesreho.com/the-3-note-taking-apps-i-use-in-2026/?utm_source=blogfinder" />
-        <published>2026-06-13T17:05:44+08:00</published>
-        <author>
-            <name>LookLeap</name>
-            <uri>https://yesreho.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026年，我在用的 3 款 笔记 App]]></summary>
-    </entry>
-        <entry>
-        <title>其实这雨也没多大</title>
-        <id>160488</id>
-        <link href="https://laoshao.net/index.php/archives/41/?utm_source=blogfinder" />
-        <published>2026-06-13T16:25:00+08:00</published>
-        <author>
-            <name>老邵博客</name>
-            <uri>https://laoshao.net</uri>
-        </author>
-        <summary type="text"><![CDATA[其实这雨也没多大]]></summary>
-    </entry>
-        <entry>
-        <title>又是加班的一天</title>
-        <id>160478</id>
-        <link href="https://ygz.ink/archives/5217.html?utm_source=blogfinder" />
-        <published>2026-06-13T15:58:29+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[又是加班的一天]]></summary>
-    </entry>
-        <entry>
-        <title>番茄和土豆丝</title>
-        <id>160484</id>
-        <link href="http://99887766554433221100.cn/index.php/archives/192/?utm_source=blogfinder" />
-        <published>2026-06-13T15:24:00+08:00</published>
-        <author>
-            <name>南香香</name>
-            <uri>http://99887766554433221100.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[番茄和土豆丝]]></summary>
-    </entry>
-        <entry>
-        <title>新增积分抽奖页面｜趣味抽奖欢乐开启</title>
-        <id>160487</id>
-        <link href="https://yigeboke.com/article.php?id=41&amp;utm_source=blogfinder" />
-        <published>2026-06-13T15:10:02+08:00</published>
-        <author>
-            <name>一个博客</name>
-            <uri>https://yigeboke.com</uri>
-        </author>
-        <summary type="text"><![CDATA[新增积分抽奖页面｜趣味抽奖欢乐开启]]></summary>
     </entry>
     </feed>
