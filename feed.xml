@@ -11,7 +11,106 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-17T00:00:26+08:00</updated>
+    <updated>2026-06-17T13:05:29+08:00</updated>
+        <entry>
+        <title>哪吒探针爆致命漏洞（CVE-2026-53519）大批 MJJ 中招！探针就该老老实实做监测好不</title>
+        <id>160816</id>
+        <link href="https://www.tjsky.net/news/1664?utm_source=blogfinder" />
+        <published>2026-06-17T10:18:35+08:00</published>
+        <author>
+            <name>秋风于渭水</name>
+            <uri>https://www.tjsky.net</uri>
+        </author>
+        <summary type="text"><![CDATA[哪吒探针爆致命漏洞（CVE-2026-53519）大批 MJJ 中招！探针就该老老实实做监测好不]]></summary>
+    </entry>
+        <entry>
+        <title>微信读书未计入读完统计的原因</title>
+        <id>160807</id>
+        <link href="https://www.pgoj.top/archives/weread-du-ji.html?utm_source=blogfinder" />
+        <published>2026-06-17T08:55:43+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[微信读书未计入读完统计的原因]]></summary>
+    </entry>
+        <entry>
+        <title>为博客构建“轻量级知识索引”（五）：embedding的真正引入</title>
+        <id>160806</id>
+        <link href="http://blog.tangwudi.com/technology/homedatacenter14419/?utm_source=blogfinder" />
+        <published>2026-06-17T08:29:21+08:00</published>
+        <author>
+            <name>无敌的个人博客</name>
+            <uri>https://blog.tangwudi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[为博客构建“轻量级知识索引”（五）：embedding的真正引入]]></summary>
+    </entry>
+        <entry>
+        <title>入职轮胎厂的培训周，翌日</title>
+        <id>160810</id>
+        <link href="https://www.sunzhongwei.com/training-week-joining-tire-factory-next-day?utm_source=blogfinder" />
+        <published>2026-06-17T06:40:25+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[入职轮胎厂的培训周，翌日]]></summary>
+    </entry>
+        <entry>
+        <title>硅云十年之约虚拟主机</title>
+        <id>160799</id>
+        <link href="https://i55.top/archives/539/?utm_source=blogfinder" />
+        <published>2026-06-17T00:41:00+08:00</published>
+        <author>
+            <name>安迪</name>
+            <uri>https://i55.top</uri>
+        </author>
+        <summary type="text"><![CDATA[硅云十年之约虚拟主机]]></summary>
+    </entry>
+        <entry>
+        <title>GPT-Sovits 踩坑折腾记录</title>
+        <id>160819</id>
+        <link href="https://www.nekopara.uk/archives/setup_GPT-Sovits.html?utm_source=blogfinder" />
+        <published>2026-06-17T00:25:25+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[GPT-Sovits 踩坑折腾记录]]></summary>
+    </entry>
+        <entry>
+        <title>阿里巴巴开源 Zvec：嵌入应用的高性能进程内向量数据库</title>
+        <id>160813</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-17/zvec/?utm_source=blogfinder" />
+        <published>2026-06-17T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[阿里巴巴开源 Zvec：嵌入应用的高性能进程内向量数据库]]></summary>
+    </entry>
+        <entry>
+        <title>OpenWA：开源 WhatsApp API 网关，彻底摆脱商业短信 API 的枷锁</title>
+        <id>160812</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-17/openwa/?utm_source=blogfinder" />
+        <published>2026-06-17T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenWA：开源 WhatsApp API 网关，彻底摆脱商业短信 API 的枷锁]]></summary>
+    </entry>
+        <entry>
+        <title>Iroh：基于公钥直连的去中心化网络框架</title>
+        <id>160811</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-17/iroh/?utm_source=blogfinder" />
+        <published>2026-06-17T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Iroh：基于公钥直连的去中心化网络框架]]></summary>
+    </entry>
         <entry>
         <title>当菜篮子抢占了停车位</title>
         <id>160727</id>
@@ -22,6 +121,39 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[当菜篮子抢占了停车位]]></summary>
+    </entry>
+        <entry>
+        <title>壹個博客聚合平台无通知封禁我的博客RSS</title>
+        <id>160818</id>
+        <link href="https://ygz.ink/archives/5275.html?utm_source=blogfinder" />
+        <published>2026-06-16T22:58:56+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[壹個博客聚合平台无通知封禁我的博客RSS]]></summary>
+    </entry>
+        <entry>
+        <title>一个大模型从业者的 Vibe Coding 一些一线经验</title>
+        <id>160729</id>
+        <link href="https://www.qtmuniao.com/2026/06/16/vibe-coding/?utm_source=blogfinder" />
+        <published>2026-06-16T21:09:29+08:00</published>
+        <author>
+            <name>木鸟杂记</name>
+            <uri>https://www.qtmuniao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[一个大模型从业者的 Vibe Coding 一些一线经验]]></summary>
+    </entry>
+        <entry>
+        <title>掌控节奏</title>
+        <id>160762</id>
+        <link href="https://lomus.cc/archives/787?utm_source=blogfinder" />
+        <published>2026-06-16T20:16:07+08:00</published>
+        <author>
+            <name>Lumos&#039;s Blog</name>
+            <uri>https://lomus.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[掌控节奏]]></summary>
     </entry>
         <entry>
         <title>新购的唯卓仕55mm f1.8 EVO镜头有瑕疵，已退货</title>
@@ -35,6 +167,28 @@
         <summary type="text"><![CDATA[新购的唯卓仕55mm f1.8 EVO镜头有瑕疵，已退货]]></summary>
     </entry>
         <entry>
+        <title>怪事谈：办公室来了一群特殊访客</title>
+        <id>160808</id>
+        <link href="https://yishu-life.com/index.php/archives/482.html?utm_source=blogfinder" />
+        <published>2026-06-16T20:00:22+08:00</published>
+        <author>
+            <name>树下语</name>
+            <uri>https://yishu-life.com</uri>
+        </author>
+        <summary type="text"><![CDATA[怪事谈：办公室来了一群特殊访客]]></summary>
+    </entry>
+        <entry>
+        <title>又是一年端午前小记</title>
+        <id>160817</id>
+        <link href="https://airy.ink/daily/453?utm_source=blogfinder" />
+        <published>2026-06-16T18:26:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[又是一年端午前小记]]></summary>
+    </entry>
+        <entry>
         <title>购买了一个高级的杯子</title>
         <id>160720</id>
         <link href="https://dahaizahuopu.com/archives/52?utm_source=blogfinder" />
@@ -46,6 +200,17 @@
         <summary type="text"><![CDATA[购买了一个高级的杯子]]></summary>
     </entry>
         <entry>
+        <title>家里的NAS关机了</title>
+        <id>160809</id>
+        <link href="https://www.gujishe.com/archives/65.html?utm_source=blogfinder" />
+        <published>2026-06-16T15:45:15+08:00</published>
+        <author>
+            <name>咕唧舍</name>
+            <uri>https://www.gujishe.com</uri>
+        </author>
+        <summary type="text"><![CDATA[家里的NAS关机了]]></summary>
+    </entry>
+        <entry>
         <title>工作、消费主义和新穷人</title>
         <id>160718</id>
         <link href="https://www.geedea.pro/library/2026/work-consumerism-and-the-new-poor/?utm_source=blogfinder" />
@@ -55,6 +220,17 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[工作、消费主义和新穷人]]></summary>
+    </entry>
+        <entry>
+        <title>世界杯瞎话第六季——苟死以利国家生</title>
+        <id>160805</id>
+        <link href="https://pewae.com/2026/06/6th-world-cup-diray-1.html?utm_source=blogfinder" />
+        <published>2026-06-16T15:30:44+08:00</published>
+        <author>
+            <name>破袜子</name>
+            <uri>https://pewae.com</uri>
+        </author>
+        <summary type="text"><![CDATA[世界杯瞎话第六季——苟死以利国家生]]></summary>
     </entry>
         <entry>
         <title>第一百八十万字</title>
@@ -145,6 +321,17 @@
         <summary type="text"><![CDATA[[转载]-如何用AI写一个php程序]]></summary>
     </entry>
         <entry>
+        <title>讨厌礼物</title>
+        <id>160820</id>
+        <link href="https://blog.cytrogen.icu/posts/54b4.html?utm_source=blogfinder" />
+        <published>2026-06-16T12:00:00+08:00</published>
+        <author>
+            <name>Cytrogen&#039;s Blog</name>
+            <uri>https://blog.cytrogen.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[讨厌礼物]]></summary>
+    </entry>
+        <entry>
         <title>zui.re 上线记：把最热两个字，变成新闻站</title>
         <id>160697</id>
         <link href="https://www.evan.xin/5051/?utm_source=blogfinder" />
@@ -233,6 +420,39 @@
         <summary type="text"><![CDATA[入职轮胎厂的培训周，首日]]></summary>
     </entry>
         <entry>
+        <title>第三周刊_No.56｜有限与无限的游戏</title>
+        <id>160803</id>
+        <link href="https://joeytoday.com/blog/2026/weekly-56?utm_source=blogfinder" />
+        <published>2026-06-16T08:00:00+08:00</published>
+        <author>
+            <name>joeytoday</name>
+            <uri>https://www.joeytoday.com</uri>
+        </author>
+        <summary type="text"><![CDATA[第三周刊_No.56｜有限与无限的游戏]]></summary>
+    </entry>
+        <entry>
+        <title>突然加息了</title>
+        <id>160802</id>
+        <link href="https://ddbzhou.com/post/turanjiaxile/?utm_source=blogfinder" />
+        <published>2026-06-16T08:00:00+08:00</published>
+        <author>
+            <name>兜兜爸投资笔记</name>
+            <uri>https://ddbzhou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[突然加息了]]></summary>
+    </entry>
+        <entry>
+        <title>AI 越狱新姿势：当 Makefile 成为沙箱逃逸的后门</title>
+        <id>160740</id>
+        <link href="https://wsdjeg.net/ai-jailbreak-makefile-sandbox-escape/?utm_source=blogfinder" />
+        <published>2026-06-16T08:00:00+08:00</published>
+        <author>
+            <name>Eric&#039;s Blog</name>
+            <uri>https://wsdjeg.net</uri>
+        </author>
+        <summary type="text"><![CDATA[AI 越狱新姿势：当 Makefile 成为沙箱逃逸的后门]]></summary>
+    </entry>
+        <entry>
         <title>安静车厢</title>
         <id>160684</id>
         <link href="https://www.immarcus.com/blog/quiet-car?utm_source=blogfinder" />
@@ -253,6 +473,17 @@
             <uri>https://www.chenrui.com</uri>
         </author>
         <summary type="text"><![CDATA[川渝画展，众生悲喜]]></summary>
+    </entry>
+        <entry>
+        <title>Ep 59. 2026 Agent 编程新趋势</title>
+        <id>160728</id>
+        <link href="https://pythonhunter.org/episodes/ep59?utm_source=blogfinder" />
+        <published>2026-06-16T05:43:19+08:00</published>
+        <author>
+            <name>捕蛇者说</name>
+            <uri>https://pythonhunter.org</uri>
+        </author>
+        <summary type="text"><![CDATA[Ep 59. 2026 Agent 编程新趋势]]></summary>
     </entry>
         <entry>
         <title>Beren 与 Lúthien 长眠处</title>
@@ -286,6 +517,39 @@
             <uri>https://qthinker.net</uri>
         </author>
         <summary type="text"><![CDATA[随思 #95 - 2026-06-15]]></summary>
+    </entry>
+        <entry>
+        <title>Universal Android Debloater NG：跨平台 Rust 安卓去 bloater，为隐私与性能而生</title>
+        <id>160815</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-16/universal-android-debloater-next-generation/?utm_source=blogfinder" />
+        <published>2026-06-16T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Universal Android Debloater NG：跨平台 Rust 安卓去 bloater，为隐私与性能而生]]></summary>
+    </entry>
+        <entry>
+        <title>Puppeteer：Google 出品的浏览器自动化神器，从爬虫到测试全覆盖</title>
+        <id>160814</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-16/puppeteer/?utm_source=blogfinder" />
+        <published>2026-06-16T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Puppeteer：Google 出品的浏览器自动化神器，从爬虫到测试全覆盖]]></summary>
+    </entry>
+        <entry>
+        <title>天涯网重启，3年恢复了25个帖子！</title>
+        <id>160765</id>
+        <link href="https://cuixiping.com/blog/world/hgupzs?utm_source=blogfinder" />
+        <published>2026-06-16T00:00:00+08:00</published>
+        <author>
+            <name>崔话记</name>
+            <uri>https://cuixiping.com</uri>
+        </author>
+        <summary type="text"><![CDATA[天涯网重启，3年恢复了25个帖子！]]></summary>
     </entry>
         <entry>
         <title>Win11Debloat: 一键精简 Windows 11，关闭遥测与预装全家桶</title>
@@ -1254,148 +1518,5 @@
             <uri>https://yigeboke.com</uri>
         </author>
         <summary type="text"><![CDATA[说说：被朋友抓来当临时 “世界杯预言家”，帮他预测了明天四场比赛的比分，他说…]]></summary>
-    </entry>
-        <entry>
-        <title>Astro 中通过 Remark 插件兼容自定义语法</title>
-        <id>160589</id>
-        <link href="https://5ime.cn/astro-remark-plugins.html?utm_source=blogfinder" />
-        <published>2026-06-14T12:05:00+08:00</published>
-        <author>
-            <name>I Am I</name>
-            <uri>https://5ime.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Astro 中通过 Remark 插件兼容自定义语法]]></summary>
-    </entry>
-        <entry>
-        <title>Nginx 又双叒给我挖坑了：HSTS 撞车 + 宝塔偷偷锁 Frame</title>
-        <id>160546</id>
-        <link href="https://wuqishi.com/archives/nginx-hsts-csp-pitfall-bt-panel?utm_source=blogfinder" />
-        <published>2026-06-14T12:00:00+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Nginx 又双叒给我挖坑了：HSTS 撞车 + 宝塔偷偷锁 Frame]]></summary>
-    </entry>
-        <entry>
-        <title>一周记事</title>
-        <id>160563</id>
-        <link href="https://liuqingwushui.top/archives/161/?utm_source=blogfinder" />
-        <published>2026-06-14T11:35:11+08:00</published>
-        <author>
-            <name>流情的博客</name>
-            <uri>https://liuqingwushui.top</uri>
-        </author>
-        <summary type="text"><![CDATA[一周记事]]></summary>
-    </entry>
-        <entry>
-        <title>开始使用 Jetpack 订阅服务</title>
-        <id>160666</id>
-        <link href="https://dahaizahuopu.com/archives/32?utm_source=blogfinder" />
-        <published>2026-06-14T09:23:15+08:00</published>
-        <author>
-            <name>大海杂货铺</name>
-            <uri>https://dahaizahuopu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[开始使用 Jetpack 订阅服务]]></summary>
-    </entry>
-        <entry>
-        <title>数码评测(69)：家用电脑理性优化升级天梯图之2026</title>
-        <id>160535</id>
-        <link href="http://www.auiou.com/relevant/00002162.jsp?utm_source=blogfinder" />
-        <published>2026-06-14T09:18:00+08:00</published>
-        <author>
-            <name>王志勇的 Blog</name>
-            <uri>http://www.auiou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[数码评测(69)：家用电脑理性优化升级天梯图之2026]]></summary>
-    </entry>
-        <entry>
-        <title>inBox 笔记更新：支持导出 PDF，多选不闪了</title>
-        <id>160681</id>
-        <link href="https://blog.gudong.site/2026/06/14/inbox-239-release.html?utm_source=blogfinder" />
-        <published>2026-06-14T08:00:00+08:00</published>
-        <author>
-            <name>咕咚同学</name>
-            <uri>https://blog.gudong.site</uri>
-        </author>
-        <summary type="text"><![CDATA[inBox 笔记更新：支持导出 PDF，多选不闪了]]></summary>
-    </entry>
-        <entry>
-        <title>Agent 时代的软件接口</title>
-        <id>160680</id>
-        <link href="https://www.bmpi.dev/dev/agent-native-system-paradigm/?utm_source=blogfinder" />
-        <published>2026-06-14T08:00:00+08:00</published>
-        <author>
-            <name>构建我的被动收入</name>
-            <uri>https://www.bmpi.dev</uri>
-        </author>
-        <summary type="text"><![CDATA[Agent 时代的软件接口]]></summary>
-    </entry>
-        <entry>
-        <title>2026.06.14 博客阅读周记</title>
-        <id>160621</id>
-        <link href="https://www.immarcus.com/blog/weekly-20260614?utm_source=blogfinder" />
-        <published>2026-06-14T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.06.14 博客阅读周记]]></summary>
-    </entry>
-        <entry>
-        <title>美伊没有达成和平协议</title>
-        <id>160620</id>
-        <link href="https://ddbzhou.com/post/hepingxieyi/?utm_source=blogfinder" />
-        <published>2026-06-14T08:00:00+08:00</published>
-        <author>
-            <name>兜兜爸投资笔记</name>
-            <uri>https://ddbzhou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[美伊没有达成和平协议]]></summary>
-    </entry>
-        <entry>
-        <title>点外卖遇到的小惊喜</title>
-        <id>160667</id>
-        <link href="https://dahaizahuopu.com/archives/26?utm_source=blogfinder" />
-        <published>2026-06-14T07:58:00+08:00</published>
-        <author>
-            <name>大海杂货铺</name>
-            <uri>https://dahaizahuopu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[点外卖遇到的小惊喜]]></summary>
-    </entry>
-        <entry>
-        <title>世界杯有感</title>
-        <id>160544</id>
-        <link href="https://i55.top/archives/538/?utm_source=blogfinder" />
-        <published>2026-06-14T06:21:00+08:00</published>
-        <author>
-            <name>安迪</name>
-            <uri>https://i55.top</uri>
-        </author>
-        <summary type="text"><![CDATA[世界杯有感]]></summary>
-    </entry>
-        <entry>
-        <title>图片存档3</title>
-        <id>160545</id>
-        <link href="https://i55.top/archives/537/?utm_source=blogfinder" />
-        <published>2026-06-14T04:41:07+08:00</published>
-        <author>
-            <name>安迪</name>
-            <uri>https://i55.top</uri>
-        </author>
-        <summary type="text"><![CDATA[图片存档3]]></summary>
-    </entry>
-        <entry>
-        <title>鱼鱼api使用教程</title>
-        <id>160564</id>
-        <link href="https://blog.xrbk.cn/post/83.html?utm_source=blogfinder" />
-        <published>2026-06-14T00:30:00+08:00</published>
-        <author>
-            <name>新锐博客</name>
-            <uri>https://blog.xrbk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[鱼鱼api使用教程]]></summary>
     </entry>
     </feed>
