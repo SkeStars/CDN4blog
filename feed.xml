@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-17T18:00:44+08:00</updated>
+    <updated>2026-06-17T22:01:02+08:00</updated>
         <entry>
         <title>作品要有自己的人味</title>
         <id>160842</id>
@@ -35,6 +35,17 @@
         <summary type="text"><![CDATA[教育中不可或缺的死记硬背]]></summary>
     </entry>
         <entry>
+        <title>使用 Cloudflare Access 保护你的网站</title>
+        <id>160844</id>
+        <link href="https://blog.yeqing.net/cloudflare-access/?utm_source=blogfinder" />
+        <published>2026-06-17T16:08:47+08:00</published>
+        <author>
+            <name>夜轻 Blog</name>
+            <uri>https://blog.yeqing.net</uri>
+        </author>
+        <summary type="text"><![CDATA[使用 Cloudflare Access 保护你的网站]]></summary>
+    </entry>
+        <entry>
         <title>哪吒监控曝高危漏洞,请尽快升级</title>
         <id>160841</id>
         <link href="https://blog.xrbk.cn/post/85.html?utm_source=blogfinder" />
@@ -55,6 +66,17 @@
             <uri>https://taxodium.ink</uri>
         </author>
         <summary type="text"><![CDATA[分享一些 Zen 瀏覧器好用的功能 - Boost 自定義頁面樣式、Live Folder]]></summary>
+    </entry>
+        <entry>
+        <title>“日本人在世界杯作秀”这个结论是如何被制造出来的？</title>
+        <id>160845</id>
+        <link href="https://mobius.blog/24729.html?utm_source=blogfinder" />
+        <published>2026-06-17T15:00:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[“日本人在世界杯作秀”这个结论是如何被制造出来的？]]></summary>
     </entry>
         <entry>
         <title>Linux 服务器翻墙</title>
@@ -1509,93 +1531,5 @@
             <uri>https://veryatao.com</uri>
         </author>
         <summary type="text"><![CDATA[开发WP-AI插件：让WordPress 7.0接入DeepSeek]]></summary>
-    </entry>
-        <entry>
-        <title>听闻的一些故事</title>
-        <id>160631</id>
-        <link href="https://vrast.cn/posts/50713/?utm_source=blogfinder" />
-        <published>2026-06-14T21:51:18+08:00</published>
-        <author>
-            <name>Keyle&#039;s Blog</name>
-            <uri>https://vrast.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[听闻的一些故事]]></summary>
-    </entry>
-        <entry>
-        <title>关于github拉取下载加速的另一个方式</title>
-        <id>160573</id>
-        <link href="https://nicksxs.me/2026/06/14/%E5%85%B3%E4%BA%8Egithub%E6%8B%89%E5%8F%96%E4%B8%8B%E8%BD%BD%E5%8A%A0%E9%80%9F%E7%9A%84%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%96%B9%E5%BC%8F/?utm_source=blogfinder" />
-        <published>2026-06-14T21:45:35+08:00</published>
-        <author>
-            <name>Nicksxs&#039;s Blog</name>
-            <uri>https://nicksxs.me</uri>
-        </author>
-        <summary type="text"><![CDATA[关于github拉取下载加速的另一个方式]]></summary>
-    </entry>
-        <entry>
-        <title>My first office hour</title>
-        <id>160574</id>
-        <link href="https://cavill.site/articles/my-first-office-hour?utm_source=blogfinder" />
-        <published>2026-06-14T20:39:57+08:00</published>
-        <author>
-            <name>栖迟处</name>
-            <uri>https://cavill.site</uri>
-        </author>
-        <summary type="text"><![CDATA[My first office hour]]></summary>
-    </entry>
-        <entry>
-        <title>从零重建 macOS 开发机：可复现的环境初始化流程</title>
-        <id>160577</id>
-        <link href="https://soulteary.com/2026/06/14/rebuild-macos-dev-machine-from-scratch-reproducible-environment-setup.html?utm_source=blogfinder" />
-        <published>2026-06-14T20:36:00+08:00</published>
-        <author>
-            <name>苏洋博客</name>
-            <uri>https://soulteary.com</uri>
-        </author>
-        <summary type="text"><![CDATA[从零重建 macOS 开发机：可复现的环境初始化流程]]></summary>
-    </entry>
-        <entry>
-        <title>献血之看法</title>
-        <id>160568</id>
-        <link href="https://blog.mcenahle.org.cn/2026/06/14/455.html?utm_source=blogfinder" />
-        <published>2026-06-14T19:46:04+08:00</published>
-        <author>
-            <name>梅之夏</name>
-            <uri>https://blog.mcenahle.org.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[献血之看法]]></summary>
-    </entry>
-        <entry>
-        <title>有没有大型仙剑/修仙类游戏</title>
-        <id>160571</id>
-        <link href="https://ygz.ink/archives/5242.html?utm_source=blogfinder" />
-        <published>2026-06-14T19:13:59+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[有没有大型仙剑/修仙类游戏]]></summary>
-    </entry>
-        <entry>
-        <title>可笑的可能是嘲笑者本身</title>
-        <id>160572</id>
-        <link href="https://www.pgoj.top/archives/chao-xiao-ke-xiao.html?utm_source=blogfinder" />
-        <published>2026-06-14T18:59:09+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[可笑的可能是嘲笑者本身]]></summary>
-    </entry>
-        <entry>
-        <title>Typecho 搭建纯静态足迹地图功能教程</title>
-        <id>160569</id>
-        <link href="https://blog.tibtob.cn/archives/78/?utm_source=blogfinder" />
-        <published>2026-06-14T18:16:00+08:00</published>
-        <author>
-            <name>拾音博客</name>
-            <uri>https://blog.tibtob.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Typecho 搭建纯静态足迹地图功能教程]]></summary>
     </entry>
     </feed>
