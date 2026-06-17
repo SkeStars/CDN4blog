@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-17T22:01:02+08:00</updated>
+    <updated>2026-06-18T00:00:19+08:00</updated>
+        <entry>
+        <title>typing_extensions 有用(一)：使用 Self 终结继承时的类型推断灾难 | 阿尔的代码屋</title>
+        <id>160847</id>
+        <link href="https://blog.algieba12.cn/typeing-extensions-01-self/?utm_source=blogfinder" />
+        <published>2026-06-17T22:00:00+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[typing_extensions 有用(一)：使用 Self 终结继承时的类型推断灾难 | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1683】但丁《神曲》多雷插画本</title>
+        <id>160846</id>
+        <link href="http://www.qncd.com/?p=12852&amp;utm_source=blogfinder" />
+        <published>2026-06-17T21:36:45+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1683】但丁《神曲》多雷插画本]]></summary>
+    </entry>
         <entry>
         <title>作品要有自己的人味</title>
         <id>160842</id>
@@ -255,6 +277,17 @@
         <summary type="text"><![CDATA[ADHD 究竟是疾病还是一种“标签”？]]></summary>
     </entry>
         <entry>
+        <title>UniGetUI —— 可能是 Windows 下最好用的应用商店</title>
+        <id>160848</id>
+        <link href="https://www.ixiqin.com/2026/06/17/unigetui-may-be-the-best-app-store-for-windows/?utm_source=blogfinder" />
+        <published>2026-06-17T08:58:52+08:00</published>
+        <author>
+            <name>西秦公子</name>
+            <uri>https://www.ixiqin.com</uri>
+        </author>
+        <summary type="text"><![CDATA[UniGetUI —— 可能是 Windows 下最好用的应用商店]]></summary>
+    </entry>
+        <entry>
         <title>微信读书未计入读完统计的原因</title>
         <id>160807</id>
         <link href="https://www.pgoj.top/archives/weread-du-ji.html?utm_source=blogfinder" />
@@ -286,6 +319,17 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[入职轮胎厂的培训周，翌日]]></summary>
+    </entry>
+        <entry>
+        <title>把 hydration 从 React UI 里解耦：一次 SPA 启动期边界纠正</title>
+        <id>160852</id>
+        <link href="https://innei.in/posts/tech/decouple-hydration-from-react-ui?utm_source=blogfinder" />
+        <published>2026-06-17T03:16:41+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[把 hydration 从 React UI 里解耦：一次 SPA 启动期边界纠正]]></summary>
     </entry>
         <entry>
         <title>硅云十年之约虚拟主机</title>
@@ -354,6 +398,17 @@
         <summary type="text"><![CDATA[当菜篮子抢占了停车位]]></summary>
     </entry>
         <entry>
+        <title>半年过去了，我和 AI Coding 的关系有什么变化？</title>
+        <id>160849</id>
+        <link href="https://www.ixiqin.com/2026/06/16/half-a-year-has-passed-what-changes-have-occurred-in-my/?utm_source=blogfinder" />
+        <published>2026-06-16T23:30:22+08:00</published>
+        <author>
+            <name>西秦公子</name>
+            <uri>https://www.ixiqin.com</uri>
+        </author>
+        <summary type="text"><![CDATA[半年过去了，我和 AI Coding 的关系有什么变化？]]></summary>
+    </entry>
+        <entry>
         <title>壹個博客聚合平台无通知封禁我的博客RSS</title>
         <id>160818</id>
         <link href="https://ygz.ink/archives/5275.html?utm_source=blogfinder" />
@@ -387,6 +442,17 @@
             <uri>https://www.qtmuniao.com</uri>
         </author>
         <summary type="text"><![CDATA[一个大模型从业者的 Vibe Coding 一些一线经验]]></summary>
+    </entry>
+        <entry>
+        <title>2026 欧洲之旅：坐大巴</title>
+        <id>160850</id>
+        <link href="https://www.ixiqin.com/2026/06/16/2026-european-tour-by-bus/?utm_source=blogfinder" />
+        <published>2026-06-16T20:44:15+08:00</published>
+        <author>
+            <name>西秦公子</name>
+            <uri>https://www.ixiqin.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026 欧洲之旅：坐大巴]]></summary>
     </entry>
         <entry>
         <title>掌控节奏</title>
@@ -1313,6 +1379,17 @@
         <summary type="text"><![CDATA[人在尿尿的时候最脆弱]]></summary>
     </entry>
         <entry>
+        <title>2026 欧洲之旅：资产安全</title>
+        <id>160851</id>
+        <link href="https://www.ixiqin.com/2026/06/15/2026-european-tour-asset-security/?utm_source=blogfinder" />
+        <published>2026-06-15T03:49:25+08:00</published>
+        <author>
+            <name>西秦公子</name>
+            <uri>https://www.ixiqin.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026 欧洲之旅：资产安全]]></summary>
+    </entry>
+        <entry>
         <title>吃瓜群众上线</title>
         <id>160648</id>
         <link href="https://www.luohuayu.cn/70.html?utm_source=blogfinder" />
@@ -1377,159 +1454,5 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[一家老店]]></summary>
-    </entry>
-        <entry>
-        <title>TeslaMate：开源自托管 Tesla 数据记录与可视化平台</title>
-        <id>160693</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-15/teslamate/?utm_source=blogfinder" />
-        <published>2026-06-15T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[TeslaMate：开源自托管 Tesla 数据记录与可视化平台]]></summary>
-    </entry>
-        <entry>
-        <title>Hello 算法：动画图解数据结构与算法入门教程</title>
-        <id>160692</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-15/hello-algo/?utm_source=blogfinder" />
-        <published>2026-06-15T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Hello 算法：动画图解数据结构与算法入门教程]]></summary>
-    </entry>
-        <entry>
-        <title>有些个人博客屏蔽海外IP访问，是不是懒？</title>
-        <id>160660</id>
-        <link href="https://cuixiping.com/blog/think/olnsvk?utm_source=blogfinder" />
-        <published>2026-06-15T00:00:00+08:00</published>
-        <author>
-            <name>崔话记</name>
-            <uri>https://cuixiping.com</uri>
-        </author>
-        <summary type="text"><![CDATA[有些个人博客屏蔽海外IP访问，是不是懒？]]></summary>
-    </entry>
-        <entry>
-        <title>Introduction to Autonomous Robots：MIT Press 开源机器人学教材</title>
-        <id>160640</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-15/introduction-to-autonomous-robots/?utm_source=blogfinder" />
-        <published>2026-06-15T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Introduction to Autonomous Robots：MIT Press 开源机器人学教材]]></summary>
-    </entry>
-        <entry>
-        <title>Meshery：云原生基础设施的统一管理平台</title>
-        <id>160627</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-15/meshery/?utm_source=blogfinder" />
-        <published>2026-06-15T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Meshery：云原生基础设施的统一管理平台]]></summary>
-    </entry>
-        <entry>
-        <title>Cypress：现代 Web 应用测试的革命性工具</title>
-        <id>160626</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-15/cypress/?utm_source=blogfinder" />
-        <published>2026-06-15T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Cypress：现代 Web 应用测试的革命性工具]]></summary>
-    </entry>
-        <entry>
-        <title>Clone Wars：100+ 流行网站开源克隆项目精选，学习必备资源库</title>
-        <id>160625</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-15/clone-wars/?utm_source=blogfinder" />
-        <published>2026-06-15T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Clone Wars：100+ 流行网站开源克隆项目精选，学习必备资源库]]></summary>
-    </entry>
-        <entry>
-        <title>Pinkbin</title>
-        <id>160709</id>
-        <link href="http://www.tucong.vip/archives/pinkbin?utm_source=blogfinder" />
-        <published>2026-06-14T23:52:00+08:00</published>
-        <author>
-            <name>Tea Bush</name>
-            <uri>https://www.tucong.vip</uri>
-        </author>
-        <summary type="text"><![CDATA[Pinkbin]]></summary>
-    </entry>
-        <entry>
-        <title>HHKB Professional HYBRID 购入</title>
-        <id>160591</id>
-        <link href="https://erzbir.com/archives/hhkb-purchase?utm_source=blogfinder" />
-        <published>2026-06-14T23:43:07+08:00</published>
-        <author>
-            <name>Erzbir&#039;s Blog</name>
-            <uri>https://erzbir.com</uri>
-        </author>
-        <summary type="text"><![CDATA[HHKB Professional HYBRID 购入]]></summary>
-    </entry>
-        <entry>
-        <title>这个问题挺心酸的</title>
-        <id>160581</id>
-        <link href="http://etom.top/archives/so156.html?utm_source=blogfinder" />
-        <published>2026-06-14T23:38:23+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[这个问题挺心酸的]]></summary>
-    </entry>
-        <entry>
-        <title>一个人的生日</title>
-        <id>160616</id>
-        <link href="https://www.geedea.pro/article/birthday-alone/?utm_source=blogfinder" />
-        <published>2026-06-14T23:20:23+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[一个人的生日]]></summary>
-    </entry>
-        <entry>
-        <title>Halo CMS 表单定义的隐藏规则</title>
-        <id>160584</id>
-        <link href="https://howiehz.top/archives/halo-form-key?utm_source=blogfinder" />
-        <published>2026-06-14T23:09:32+08:00</published>
-        <author>
-            <name>皓子的小站</name>
-            <uri>https://howiehz.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Halo CMS 表单定义的隐藏规则]]></summary>
-    </entry>
-        <entry>
-        <title>AI 博客问题挑战</title>
-        <id>160576</id>
-        <link href="https://blog.imalan.cn/archives/ai-blog-question-challenge/?utm_source=blogfinder" />
-        <published>2026-06-14T22:20:37+08:00</published>
-        <author>
-            <name>失眠海峡</name>
-            <uri>https://blog.imalan.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[AI 博客问题挑战]]></summary>
-    </entry>
-        <entry>
-        <title>开发WP-AI插件：让WordPress 7.0接入DeepSeek</title>
-        <id>160615</id>
-        <link href="https://veryatao.com/technique/wp-ai-cj/?utm_source=blogfinder" />
-        <published>2026-06-14T22:09:25+08:00</published>
-        <author>
-            <name>Atao&#039;s Space</name>
-            <uri>https://veryatao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[开发WP-AI插件：让WordPress 7.0接入DeepSeek]]></summary>
     </entry>
     </feed>
