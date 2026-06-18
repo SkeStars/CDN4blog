@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-18T17:00:35+08:00</updated>
+    <updated>2026-06-18T21:00:27+08:00</updated>
+        <entry>
+        <title>数据观察日报 · 2026-06-18</title>
+        <id>160914</id>
+        <link href="http://hi-nikola.cn/2026/06/18/daily-observer/2026-06-18/?utm_source=blogfinder" />
+        <published>2026-06-18T17:00:00+08:00</published>
+        <author>
+            <name>Nikola</name>
+            <uri>https://hi-nikola.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[数据观察日报 · 2026-06-18]]></summary>
+    </entry>
+        <entry>
+        <title>Artitalk V4: 从Leancloud迁移至Vercel</title>
+        <id>160918</id>
+        <link href="https://blog.hclonely.com/posts/7fa46a11/?utm_source=blogfinder" />
+        <published>2026-06-18T15:46:47+08:00</published>
+        <author>
+            <name>HCLonely Blog</name>
+            <uri>https://blog.hclonely.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Artitalk V4: 从Leancloud迁移至Vercel]]></summary>
+    </entry>
         <entry>
         <title>独立博客像角落里绽放的苔花</title>
         <id>160912</id>
@@ -33,6 +55,17 @@
             <uri>https://renhuali.cn</uri>
         </author>
         <summary type="text"><![CDATA[Step Plan 限时免费体验， 海量 Token 放送中！]]></summary>
+    </entry>
+        <entry>
+        <title>端午出游—A计划，I启动</title>
+        <id>160916</id>
+        <link href="https://liuqingwushui.top/archives/164/?utm_source=blogfinder" />
+        <published>2026-06-18T11:40:00+08:00</published>
+        <author>
+            <name>流情的博客</name>
+            <uri>https://liuqingwushui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[端午出游—A计划，I启动]]></summary>
     </entry>
         <entry>
         <title>年中分界线：夏至前三天，我重新理解了「半程」的意义</title>
@@ -211,6 +244,17 @@
         <summary type="text"><![CDATA[【读书记1683】但丁《神曲》多雷插画本]]></summary>
     </entry>
         <entry>
+        <title>-</title>
+        <id>160917</id>
+        <link href="https://airy.ink/times/454?utm_source=blogfinder" />
+        <published>2026-06-17T21:31:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[-]]></summary>
+    </entry>
+        <entry>
         <title>网站被百度K掉不是个例</title>
         <id>160905</id>
         <link href="https://ygz.ink/archives/5300.html?utm_source=blogfinder" />
@@ -220,6 +264,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[网站被百度K掉不是个例]]></summary>
+    </entry>
+        <entry>
+        <title>26春学15周杂记</title>
+        <id>160919</id>
+        <link href="https://nxxy335.top/archives/73CNevxR?utm_source=blogfinder" />
+        <published>2026-06-17T21:07:08+08:00</published>
+        <author>
+            <name>暖心向阳</name>
+            <uri>https://nxxy335.top</uri>
+        </author>
+        <summary type="text"><![CDATA[26春学15周杂记]]></summary>
     </entry>
         <entry>
         <title>2026 年 5 月房地产数据来了</title>
@@ -264,6 +319,17 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[作品要有自己的人味]]></summary>
+    </entry>
+        <entry>
+        <title>数据观察日报 · 2026-06-17</title>
+        <id>160915</id>
+        <link href="http://hi-nikola.cn/2026/06/17/daily-observer/2026-06-17/?utm_source=blogfinder" />
+        <published>2026-06-17T17:00:00+08:00</published>
+        <author>
+            <name>Nikola</name>
+            <uri>https://hi-nikola.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[数据观察日报 · 2026-06-17]]></summary>
     </entry>
         <entry>
         <title>小米摄像头4 4K版接入Homekit分享</title>
@@ -1344,49 +1410,5 @@
             <uri>https://www.tucong.vip</uri>
         </author>
         <summary type="text"><![CDATA[Baka]]></summary>
-    </entry>
-        <entry>
-        <title>记一次hexo-bilibili-bangumi分时函数渲染优化</title>
-        <id>160695</id>
-        <link href="https://blog.hclonely.com/posts/eaef0590/?utm_source=blogfinder" />
-        <published>2026-06-15T20:11:24+08:00</published>
-        <author>
-            <name>HCLonely Blog</name>
-            <uri>https://blog.hclonely.com</uri>
-        </author>
-        <summary type="text"><![CDATA[记一次hexo-bilibili-bangumi分时函数渲染优化]]></summary>
-    </entry>
-        <entry>
-        <title>窗外的“邻居”</title>
-        <id>160659</id>
-        <link href="https://yyg.js.cool/yyg/fc7449c0/?utm_source=blogfinder" />
-        <published>2026-06-15T18:18:00+08:00</published>
-        <author>
-            <name>云野阁</name>
-            <uri>https://yyg.js.cool</uri>
-        </author>
-        <summary type="text"><![CDATA[窗外的“邻居”]]></summary>
-    </entry>
-        <entry>
-        <title>2026 AI 大模型数学高考</title>
-        <id>160658</id>
-        <link href="https://blog.myshawn.com/blog/2026-ai-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%95%B0%E5%AD%A6%E9%AB%98%E8%80%83/?utm_source=blogfinder" />
-        <published>2026-06-15T17:25:02+08:00</published>
-        <author>
-            <name>Shawn</name>
-            <uri>https://myshawn.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026 AI 大模型数学高考]]></summary>
-    </entry>
-        <entry>
-        <title>中医祛湿食疗、代茶饮完整指南</title>
-        <id>160706</id>
-        <link href="https://www.lifd.site/2026/06/zhong-yi-qu-shi-shi-liao-dai-cha-yin-wan-zheng-zhi-nan/?utm_source=blogfinder" />
-        <published>2026-06-15T17:10:39+08:00</published>
-        <author>
-            <name>LiFD</name>
-            <uri>https://www.lifd.site</uri>
-        </author>
-        <summary type="text"><![CDATA[中医祛湿食疗、代茶饮完整指南]]></summary>
     </entry>
     </feed>
