@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-18T21:00:27+08:00</updated>
+    <updated>2026-06-19T00:00:32+08:00</updated>
+        <entry>
+        <title>typing_extensions 有用(二)：使用 @override 打造重构代码时的“防呆神器” | 阿尔的代码屋</title>
+        <id>160923</id>
+        <link href="https://blog.algieba12.cn/typeing-extensions-02-override/?utm_source=blogfinder" />
+        <published>2026-06-18T22:00:00+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[typing_extensions 有用(二)：使用 @override 打造重构代码时的“防呆神器” | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
+        <title>Flutter 并发测试踩坑实录 - IsarCore 动态库下载冲突与 Widget 测试 HTTP 拦截全链路解决 | 阿尔的代码屋</title>
+        <id>160922</id>
+        <link href="https://blog.algieba12.cn/record08-isar-concurrency-test-fix/?utm_source=blogfinder" />
+        <published>2026-06-18T22:00:00+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Flutter 并发测试踩坑实录 - IsarCore 动态库下载冲突与 Widget 测试 HTTP 拦截全链路解决 | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
+        <title>Ubuntu 26.04 Btrfs+LUKS2安装</title>
+        <id>160920</id>
+        <link href="https://blog.goodboyboy.top/posts/4123452949.html?utm_source=blogfinder" />
+        <published>2026-06-18T21:04:44+08:00</published>
+        <author>
+            <name>GoodBoyboy</name>
+            <uri>https://blog.goodboyboy.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Ubuntu 26.04 Btrfs+LUKS2安装]]></summary>
+    </entry>
         <entry>
         <title>数据观察日报 · 2026-06-18</title>
         <id>160914</id>
@@ -22,6 +55,17 @@
             <uri>https://hi-nikola.cn</uri>
         </author>
         <summary type="text"><![CDATA[数据观察日报 · 2026-06-18]]></summary>
+    </entry>
+        <entry>
+        <title>回去喝奶吧，粉底液将军！《火遮眼》才是真爷们该看的降压药！</title>
+        <id>160921</id>
+        <link href="https://hi.jeray.wang/L/220.html?utm_source=blogfinder" />
+        <published>2026-06-18T16:53:00+08:00</published>
+        <author>
+            <name>Jeray 大叔</name>
+            <uri>https://hi.jeray.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[回去喝奶吧，粉底液将军！《火遮眼》才是真爷们该看的降压药！]]></summary>
     </entry>
         <entry>
         <title>Artitalk V4: 从Leancloud迁移至Vercel</title>
@@ -1223,192 +1267,5 @@
             <uri>https://qthinker.net</uri>
         </author>
         <summary type="text"><![CDATA[随思 #95 - 2026-06-15]]></summary>
-    </entry>
-        <entry>
-        <title>Universal Android Debloater NG：跨平台 Rust 安卓去 bloater，为隐私与性能而生</title>
-        <id>160815</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-16/universal-android-debloater-next-generation/?utm_source=blogfinder" />
-        <published>2026-06-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Universal Android Debloater NG：跨平台 Rust 安卓去 bloater，为隐私与性能而生]]></summary>
-    </entry>
-        <entry>
-        <title>Puppeteer：Google 出品的浏览器自动化神器，从爬虫到测试全覆盖</title>
-        <id>160814</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-16/puppeteer/?utm_source=blogfinder" />
-        <published>2026-06-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Puppeteer：Google 出品的浏览器自动化神器，从爬虫到测试全覆盖]]></summary>
-    </entry>
-        <entry>
-        <title>天涯网重启，3年恢复了25个帖子！</title>
-        <id>160765</id>
-        <link href="https://cuixiping.com/blog/world/hgupzs?utm_source=blogfinder" />
-        <published>2026-06-16T00:00:00+08:00</published>
-        <author>
-            <name>崔话记</name>
-            <uri>https://cuixiping.com</uri>
-        </author>
-        <summary type="text"><![CDATA[天涯网重启，3年恢复了25个帖子！]]></summary>
-    </entry>
-        <entry>
-        <title>Win11Debloat: 一键精简 Windows 11，关闭遥测与预装全家桶</title>
-        <id>160704</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-16/win11debloat/?utm_source=blogfinder" />
-        <published>2026-06-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Win11Debloat: 一键精简 Windows 11，关闭遥测与预装全家桶]]></summary>
-    </entry>
-        <entry>
-        <title>Free-TV/IPTV：一个收录全球免费电视频道的 M3U8 播放列表</title>
-        <id>160691</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-16/iptv/?utm_source=blogfinder" />
-        <published>2026-06-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Free-TV/IPTV：一个收录全球免费电视频道的 M3U8 播放列表]]></summary>
-    </entry>
-        <entry>
-        <title>Cua：构建、评估与部署计算机使用 Agent 的全栈平台</title>
-        <id>160690</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-16/cua/?utm_source=blogfinder" />
-        <published>2026-06-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Cua：构建、评估与部署计算机使用 Agent 的全栈平台]]></summary>
-    </entry>
-        <entry>
-        <title>Zine#52 - 我们都无法成为大人</title>
-        <id>160655</id>
-        <link href="https://taxodium.ink/52.html?utm_source=blogfinder" />
-        <published>2026-06-15T23:50:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[Zine#52 - 我们都无法成为大人]]></summary>
-    </entry>
-        <entry>
-        <title>特别的生日</title>
-        <id>160698</id>
-        <link href="https://ficor.net/archives/47?utm_source=blogfinder" />
-        <published>2026-06-15T23:16:00+08:00</published>
-        <author>
-            <name>荒野菲克</name>
-            <uri>https://ficor.net</uri>
-        </author>
-        <summary type="text"><![CDATA[特别的生日]]></summary>
-    </entry>
-        <entry>
-        <title>职场中的「可预期性」</title>
-        <id>160726</id>
-        <link href="https://blog.solazy.me/20260615/?utm_source=blogfinder" />
-        <published>2026-06-15T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[职场中的「可预期性」]]></summary>
-    </entry>
-        <entry>
-        <title>你只是打个工而已</title>
-        <id>160688</id>
-        <link href="https://joojen.com/archives/9022.html?utm_source=blogfinder" />
-        <published>2026-06-15T22:57:12+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[你只是打个工而已]]></summary>
-    </entry>
-        <entry>
-        <title>博客900天啦</title>
-        <id>160723</id>
-        <link href="https://blog.liseezn.top/%e5%8d%9a%e5%ae%a2900%e5%a4%a9%e5%95%a6.html/?utm_source=blogfinder" />
-        <published>2026-06-15T22:40:10+08:00</published>
-        <author>
-            <name>Liseezn&#039;blog</name>
-            <uri>https://blog.liseezn.top</uri>
-        </author>
-        <summary type="text"><![CDATA[博客900天啦]]></summary>
-    </entry>
-        <entry>
-        <title>小米的新闻总能加深我的厌恶</title>
-        <id>160686</id>
-        <link href="https://www.pgoj.top/archives/yan-wu-xiao-mi.html?utm_source=blogfinder" />
-        <published>2026-06-15T22:24:10+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[小米的新闻总能加深我的厌恶]]></summary>
-    </entry>
-        <entry>
-        <title>雨露电视通：电视直播软件，多线路频道齐全播放稳定</title>
-        <id>160650</id>
-        <link href="https://www.wangdu.site/software/dianshihezi/2355.html?utm_source=blogfinder" />
-        <published>2026-06-15T22:20:47+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[雨露电视通：电视直播软件，多线路频道齐全播放稳定]]></summary>
-    </entry>
-        <entry>
-        <title>Legado 版本归档</title>
-        <id>160707</id>
-        <link href="http://www.tucong.vip/archives/legado-ban-ben-gui-dang?utm_source=blogfinder" />
-        <published>2026-06-15T22:08:59+08:00</published>
-        <author>
-            <name>Tea Bush</name>
-            <uri>https://www.tucong.vip</uri>
-        </author>
-        <summary type="text"><![CDATA[Legado 版本归档]]></summary>
-    </entry>
-        <entry>
-        <title>WebHomeTV - 集点播、直播TV手机多架构影视软件，多源流畅播放</title>
-        <id>160651</id>
-        <link href="https://www.wangdu.site/software/dianshihezi/2354.html?utm_source=blogfinder" />
-        <published>2026-06-15T22:01:40+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[WebHomeTV - 集点播、直播TV手机多架构影视软件，多源流畅播放]]></summary>
-    </entry>
-        <entry>
-        <title>博客装修记：专题页导航</title>
-        <id>160653</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1372/?utm_source=blogfinder" />
-        <published>2026-06-15T21:57:00+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[博客装修记：专题页导航]]></summary>
-    </entry>
-        <entry>
-        <title>Baka</title>
-        <id>160708</id>
-        <link href="http://www.tucong.vip/archives/bakazf?utm_source=blogfinder" />
-        <published>2026-06-15T21:52:47+08:00</published>
-        <author>
-            <name>Tea Bush</name>
-            <uri>https://www.tucong.vip</uri>
-        </author>
-        <summary type="text"><![CDATA[Baka]]></summary>
     </entry>
     </feed>
