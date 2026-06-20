@@ -11,7 +11,95 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-20T00:00:21+08:00</updated>
+    <updated>2026-06-20T12:00:56+08:00</updated>
+        <entry>
+        <title>腾讯推出腾讯网盘</title>
+        <id>160999</id>
+        <link href="https://ygz.ink/archives/5326.html?utm_source=blogfinder" />
+        <published>2026-06-20T10:02:34+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[腾讯推出腾讯网盘]]></summary>
+    </entry>
+        <entry>
+        <title>快乐份子</title>
+        <id>160990</id>
+        <link href="https://mobius.blog/24805.html?utm_source=blogfinder" />
+        <published>2026-06-20T08:00:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[快乐份子]]></summary>
+    </entry>
+        <entry>
+        <title>完美的一天</title>
+        <id>160988</id>
+        <link href="https://d-d.design/single/19384?utm_source=blogfinder" />
+        <published>2026-06-20T01:18:16+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[完美的一天]]></summary>
+    </entry>
+        <entry>
+        <title>OpenMontage：首个开源的 Agentic 视频制作系统深度解析</title>
+        <id>160995</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-20/openmontage/?utm_source=blogfinder" />
+        <published>2026-06-20T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenMontage：首个开源的 Agentic 视频制作系统深度解析]]></summary>
+    </entry>
+        <entry>
+        <title>LTX-2：首个基于 DiT 的音视频基础模型</title>
+        <id>160994</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-20/ltx-2/?utm_source=blogfinder" />
+        <published>2026-06-20T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[LTX-2：首个基于 DiT 的音视频基础模型]]></summary>
+    </entry>
+        <entry>
+        <title>awesome-generative-ai-guide：一份仍在持续生长的生成式 AI 全栈学习路线图</title>
+        <id>160993</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-20/awesome-generative-ai-guide/?utm_source=blogfinder" />
+        <published>2026-06-20T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[awesome-generative-ai-guide：一份仍在持续生长的生成式 AI 全栈学习路线图]]></summary>
+    </entry>
+        <entry>
+        <title>Agent-Native：让 AI Agent 与 UI 真正融合的开源框架</title>
+        <id>160992</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-20/agent-native/?utm_source=blogfinder" />
+        <published>2026-06-20T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Agent-Native：让 AI Agent 与 UI 真正融合的开源框架]]></summary>
+    </entry>
+        <entry>
+        <title>七牛 CDN 域名免费证书续费报错：[400600] 前置订单未完成，请稍后重试</title>
+        <id>160991</id>
+        <link href="https://www.sunzhongwei.com/qiniu-cdn-domain-free-certificate-renewal-error-400600?utm_source=blogfinder" />
+        <published>2026-06-19T22:51:07+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[七牛 CDN 域名免费证书续费报错：[400600] 前置订单未完成，请稍后重试]]></summary>
+    </entry>
         <entry>
         <title>typing_extensions 有用(三)：使用 Unpack 结合 TypedDict 给 **kwargs 装上透视眼 | 阿尔的代码屋</title>
         <id>160983</id>
@@ -22,6 +110,17 @@
             <uri>https://blog.algieba12.cn</uri>
         </author>
         <summary type="text"><![CDATA[typing_extensions 有用(三)：使用 Unpack 结合 TypedDict 给 **kwargs 装上透视眼 | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
+        <title>关于博客相关的碎碎念</title>
+        <id>160985</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/114.html?utm_source=blogfinder" />
+        <published>2026-06-19T21:03:21+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[关于博客相关的碎碎念]]></summary>
     </entry>
         <entry>
         <title>每夫吐槽（117）</title>
@@ -121,6 +220,17 @@
             <uri>https://ltmltm.cn/bk</uri>
         </author>
         <summary type="text"><![CDATA[端午]]></summary>
+    </entry>
+        <entry>
+        <title>💰 我做了一个投资驾驶舱：L¥NX（灵猞）如何把看盘、记账、策略和复盘串成闭环</title>
+        <id>160986</id>
+        <link href="https://www.huluohu.com/posts/2060/?utm_source=blogfinder" />
+        <published>2026-06-19T12:38:26+08:00</published>
+        <author>
+            <name>胡萝虎的博客</name>
+            <uri>https://www.huluohu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[💰 我做了一个投资驾驶舱：L¥NX（灵猞）如何把看盘、记账、策略和复盘串成闭环]]></summary>
     </entry>
         <entry>
         <title>激活工具 - HEU KMS Activator</title>
@@ -277,6 +387,39 @@
         <summary type="text"><![CDATA[硅云养老主机]]></summary>
     </entry>
         <entry>
+        <title>World Monitor：AI 驱动的实时全球情报态势感知平台</title>
+        <id>160998</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-19/worldmonitor/?utm_source=blogfinder" />
+        <published>2026-06-19T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[World Monitor：AI 驱动的实时全球情报态势感知平台]]></summary>
+    </entry>
+        <entry>
+        <title>Palmier Pro：为 AI 而生的开源视频编辑器，支持 MCP 协议与 Agent 协作</title>
+        <id>160997</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-19/palmier-pro/?utm_source=blogfinder" />
+        <published>2026-06-19T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Palmier Pro：为 AI 而生的开源视频编辑器，支持 MCP 协议与 Agent 协作]]></summary>
+    </entry>
+        <entry>
+        <title>ASP.NET Core：微软开源的跨平台高性能 Web 框架深度解析</title>
+        <id>160996</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-19/aspnetcore/?utm_source=blogfinder" />
+        <published>2026-06-19T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[ASP.NET Core：微软开源的跨平台高性能 Web 框架深度解析]]></summary>
+    </entry>
+        <entry>
         <title>Plane：开源替代 Jira 的现代化项目管理工具</title>
         <id>160968</id>
         <link href="http://blog.xlap.top/post/tech/2026-06-19/plane/?utm_source=blogfinder" />
@@ -363,6 +506,17 @@
             <uri>https://www.oatse.com</uri>
         </author>
         <summary type="text"><![CDATA[常见海上求救设备]]></summary>
+    </entry>
+        <entry>
+        <title>TEM故障</title>
+        <id>160984</id>
+        <link href="https://slykiten.com/research/tem%e6%95%85%e9%9a%9c/?utm_source=blogfinder" />
+        <published>2026-06-18T23:27:31+08:00</published>
+        <author>
+            <name>狡猫三窝</name>
+            <uri>https://slykiten.com</uri>
+        </author>
+        <summary type="text"><![CDATA[TEM故障]]></summary>
     </entry>
         <entry>
         <title>端午流水账 0618</title>
@@ -1067,203 +1221,5 @@
             <uri>https://jyblog.cn</uri>
         </author>
         <summary type="text"><![CDATA[域名故事：低成本拿下域名 jyblog.com 从售价16万到350块]]></summary>
-    </entry>
-        <entry>
-        <title>4S店靠啥赚钱</title>
-        <id>160825</id>
-        <link href="https://hux.ink/posts/4s-business-model/?utm_source=blogfinder" />
-        <published>2026-06-17T11:54:00+08:00</published>
-        <author>
-            <name>Counting Stars</name>
-            <uri>https://hux.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[4S店靠啥赚钱]]></summary>
-    </entry>
-        <entry>
-        <title>2027徽章猎人·年度围猎 提前揭幕</title>
-        <id>160834</id>
-        <link href="https://zhujay.com/talk/talk_detail.html?id=1241&amp;utm_source=blogfinder" />
-        <published>2026-06-17T11:36:00+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2027徽章猎人·年度围猎 提前揭幕]]></summary>
-    </entry>
-        <entry>
-        <title>重要照片一定要备份，手机养成照片备份的好习惯</title>
-        <id>160821</id>
-        <link href="https://blog.zhheo.com/p/cyw9sqnh.html?utm_source=blogfinder" />
-        <published>2026-06-17T11:11:57+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[重要照片一定要备份，手机养成照片备份的好习惯]]></summary>
-    </entry>
-        <entry>
-        <title>车子又到了要续保的日子了</title>
-        <id>160840</id>
-        <link href="https://zhoutian.com/384.html?utm_source=blogfinder" />
-        <published>2026-06-17T10:45:00+08:00</published>
-        <author>
-            <name>周天记</name>
-            <uri>https://zhoutian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[车子又到了要续保的日子了]]></summary>
-    </entry>
-        <entry>
-        <title>别把职业足球的戾气，带到苏超这片城市绿茵</title>
-        <id>160822</id>
-        <link href="https://yigeboke.com/article.php?id=42&amp;utm_source=blogfinder" />
-        <published>2026-06-17T10:34:34+08:00</published>
-        <author>
-            <name>一个博客</name>
-            <uri>https://yigeboke.com</uri>
-        </author>
-        <summary type="text"><![CDATA[别把职业足球的戾气，带到苏超这片城市绿茵]]></summary>
-    </entry>
-        <entry>
-        <title>投票样式代码</title>
-        <id>160837</id>
-        <link href="https://laoshao.net/index.php/archives/53/?utm_source=blogfinder" />
-        <published>2026-06-17T10:24:41+08:00</published>
-        <author>
-            <name>老邵博客</name>
-            <uri>https://laoshao.net</uri>
-        </author>
-        <summary type="text"><![CDATA[投票样式代码]]></summary>
-    </entry>
-        <entry>
-        <title>哪吒探针爆致命漏洞（CVE-2026-53519）大批 MJJ 中招！探针就该老老实实做监测好不</title>
-        <id>160816</id>
-        <link href="https://www.tjsky.net/news/1664?utm_source=blogfinder" />
-        <published>2026-06-17T10:18:35+08:00</published>
-        <author>
-            <name>秋风于渭水</name>
-            <uri>https://www.tjsky.net</uri>
-        </author>
-        <summary type="text"><![CDATA[哪吒探针爆致命漏洞（CVE-2026-53519）大批 MJJ 中招！探针就该老老实实做监测好不]]></summary>
-    </entry>
-        <entry>
-        <title>ADHD 究竟是疾病还是一种“标签”？</title>
-        <id>160824</id>
-        <link href="https://mobius.blog/24656.html?utm_source=blogfinder" />
-        <published>2026-06-17T09:00:00+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[ADHD 究竟是疾病还是一种“标签”？]]></summary>
-    </entry>
-        <entry>
-        <title>UniGetUI —— 可能是 Windows 下最好用的应用商店</title>
-        <id>160848</id>
-        <link href="https://www.ixiqin.com/2026/06/17/unigetui-may-be-the-best-app-store-for-windows/?utm_source=blogfinder" />
-        <published>2026-06-17T08:58:52+08:00</published>
-        <author>
-            <name>西秦公子</name>
-            <uri>https://www.ixiqin.com</uri>
-        </author>
-        <summary type="text"><![CDATA[UniGetUI —— 可能是 Windows 下最好用的应用商店]]></summary>
-    </entry>
-        <entry>
-        <title>微信读书未计入读完统计的原因</title>
-        <id>160807</id>
-        <link href="https://www.pgoj.top/archives/weread-du-ji.html?utm_source=blogfinder" />
-        <published>2026-06-17T08:55:43+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[微信读书未计入读完统计的原因]]></summary>
-    </entry>
-        <entry>
-        <title>为博客构建“轻量级知识索引”（五）：embedding的真正引入</title>
-        <id>160806</id>
-        <link href="http://blog.tangwudi.com/technology/homedatacenter14419/?utm_source=blogfinder" />
-        <published>2026-06-17T08:29:21+08:00</published>
-        <author>
-            <name>无敌的个人博客</name>
-            <uri>https://blog.tangwudi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为博客构建“轻量级知识索引”（五）：embedding的真正引入]]></summary>
-    </entry>
-        <entry>
-        <title>募捐、求职履历和比特币</title>
-        <id>160890</id>
-        <link href="https://www.immarcus.com/blog/fundraising-resume-bitcoin?utm_source=blogfinder" />
-        <published>2026-06-17T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[募捐、求职履历和比特币]]></summary>
-    </entry>
-        <entry>
-        <title>第三周刊_No.57｜一个非程序员用AI写代码的思考</title>
-        <id>160889</id>
-        <link href="https://joeytoday.com/blog/2026/weekly-57?utm_source=blogfinder" />
-        <published>2026-06-17T08:00:00+08:00</published>
-        <author>
-            <name>joeytoday</name>
-            <uri>https://www.joeytoday.com</uri>
-        </author>
-        <summary type="text"><![CDATA[第三周刊_No.57｜一个非程序员用AI写代码的思考]]></summary>
-    </entry>
-        <entry>
-        <title>Subconverter 太臃肿？PHP 版轻量化替代来了！</title>
-        <id>160876</id>
-        <link href="https://blog.mcxiaochen.top/posts/p18tcoxk/?utm_source=blogfinder" />
-        <published>2026-06-17T07:30:48+08:00</published>
-        <author>
-            <name>辰渊尘の个人博客</name>
-            <uri>https://blog.mcxiaochen.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Subconverter 太臃肿？PHP 版轻量化替代来了！]]></summary>
-    </entry>
-        <entry>
-        <title>入职轮胎厂的培训周，翌日</title>
-        <id>160810</id>
-        <link href="https://www.sunzhongwei.com/training-week-joining-tire-factory-next-day?utm_source=blogfinder" />
-        <published>2026-06-17T06:40:25+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[入职轮胎厂的培训周，翌日]]></summary>
-    </entry>
-        <entry>
-        <title>把 hydration 从 React UI 里解耦：一次 SPA 启动期边界纠正</title>
-        <id>160852</id>
-        <link href="https://innei.in/posts/tech/decouple-hydration-from-react-ui?utm_source=blogfinder" />
-        <published>2026-06-17T03:16:41+08:00</published>
-        <author>
-            <name>静かな森</name>
-            <uri>https://innei.in</uri>
-        </author>
-        <summary type="text"><![CDATA[把 hydration 从 React UI 里解耦：一次 SPA 启动期边界纠正]]></summary>
-    </entry>
-        <entry>
-        <title>硅云十年之约虚拟主机</title>
-        <id>160799</id>
-        <link href="https://i55.top/archives/539/?utm_source=blogfinder" />
-        <published>2026-06-17T00:41:00+08:00</published>
-        <author>
-            <name>安迪</name>
-            <uri>https://i55.top</uri>
-        </author>
-        <summary type="text"><![CDATA[硅云十年之约虚拟主机]]></summary>
-    </entry>
-        <entry>
-        <title>GPT-Sovits 踩坑折腾记录</title>
-        <id>160819</id>
-        <link href="https://www.nekopara.uk/archives/setup_GPT-Sovits.html?utm_source=blogfinder" />
-        <published>2026-06-17T00:25:25+08:00</published>
-        <author>
-            <name>GTX690 战术核显卡导弹</name>
-            <uri>https://www.nekopara.uk</uri>
-        </author>
-        <summary type="text"><![CDATA[GPT-Sovits 踩坑折腾记录]]></summary>
     </entry>
     </feed>
