@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-20T23:00:44+08:00</updated>
+    <updated>2026-06-21T00:00:15+08:00</updated>
+        <entry>
+        <title>眼见与耳听，信哪个？</title>
+        <id>161022</id>
+        <link href="http://etom.top/archives/so164.html?utm_source=blogfinder" />
+        <published>2026-06-20T23:48:44+08:00</published>
+        <author>
+            <name>浮生事</name>
+            <uri>http://etom.top</uri>
+        </author>
+        <summary type="text"><![CDATA[眼见与耳听，信哪个？]]></summary>
+    </entry>
         <entry>
         <title>typing_extensions 有用(四)：使用 TypeIs 替代危险的 cast，做最严谨的类型收窄 | 阿尔的代码屋</title>
         <id>161017</id>
@@ -24,6 +35,17 @@
         <summary type="text"><![CDATA[typing_extensions 有用(四)：使用 TypeIs 替代危险的 cast，做最严谨的类型收窄 | 阿尔的代码屋]]></summary>
     </entry>
         <entry>
+        <title>Elfeed 4.0.0 使用分享</title>
+        <id>161020</id>
+        <link href="https://taxodium.ink/elfeed-4-0-0-usage-sharing.html?utm_source=blogfinder" />
+        <published>2026-06-20T20:50:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[Elfeed 4.0.0 使用分享]]></summary>
+    </entry>
+        <entry>
         <title>Natural Language Dates - Chinese：终于能在Obsidian中处理中文日期了</title>
         <id>161014</id>
         <link href="https://www.skyue.com/26062020.html?utm_source=blogfinder" />
@@ -33,6 +55,28 @@
             <uri>https://www.skyue.com</uri>
         </author>
         <summary type="text"><![CDATA[Natural Language Dates - Chinese：终于能在Obsidian中处理中文日期了]]></summary>
+    </entry>
+        <entry>
+        <title>使用 Docker 部署 Github Actions Self Hosted Runner</title>
+        <id>161018</id>
+        <link href="https://www.ixiqin.com/2026/06/20/use-dock-deployment-github-actions-self-hosted/?utm_source=blogfinder" />
+        <published>2026-06-20T20:28:57+08:00</published>
+        <author>
+            <name>西秦公子</name>
+            <uri>https://www.ixiqin.com</uri>
+        </author>
+        <summary type="text"><![CDATA[使用 Docker 部署 Github Actions Self Hosted Runner]]></summary>
+    </entry>
+        <entry>
+        <title>小小甲虫拿捏</title>
+        <id>161019</id>
+        <link href="https://luolt.cn/archives/3213.html?utm_source=blogfinder" />
+        <published>2026-06-20T19:07:28+08:00</published>
+        <author>
+            <name>洛丽糖</name>
+            <uri>http://luolt.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[小小甲虫拿捏]]></summary>
     </entry>
         <entry>
         <title>聚合博客与独立博主的自主选择</title>
@@ -264,6 +308,17 @@
             <uri>https://www.imxb.de</uri>
         </author>
         <summary type="text"><![CDATA[随手记：Win2008/WHS2011 开启TLS1.2支持]]></summary>
+    </entry>
+        <entry>
+        <title>电影院和耳机</title>
+        <id>161021</id>
+        <link href="https://blog.solazy.me/20260619/?utm_source=blogfinder" />
+        <published>2026-06-19T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[电影院和耳机]]></summary>
     </entry>
         <entry>
         <title>七牛 CDN 域名免费证书续费报错：[400600] 前置订单未完成，请稍后重试</title>
@@ -1001,115 +1056,5 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[你有多久没关注百度收录了？]]></summary>
-    </entry>
-        <entry>
-        <title>Unciv：开源跨平台的文明V重制版，用LibGDX打造怀旧4X策略游戏</title>
-        <id>160957</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-18/unciv/?utm_source=blogfinder" />
-        <published>2026-06-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Unciv：开源跨平台的文明V重制版，用LibGDX打造怀旧4X策略游戏]]></summary>
-    </entry>
-        <entry>
-        <title>Skills For Real Engineers：Matt Pocock 的 AI 编程技能体系</title>
-        <id>160956</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-18/skills/?utm_source=blogfinder" />
-        <published>2026-06-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Skills For Real Engineers：Matt Pocock 的 AI 编程技能体系]]></summary>
-    </entry>
-        <entry>
-        <title>GLM-5 系列深度解析：从 Vibe Coding 到 Agentic Engineering 的开源旗舰模型</title>
-        <id>160955</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-18/glm-5/?utm_source=blogfinder" />
-        <published>2026-06-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[GLM-5 系列深度解析：从 Vibe Coding 到 Agentic Engineering 的开源旗舰模型]]></summary>
-    </entry>
-        <entry>
-        <title>佳能 EOS 50D 一年浅度使用报告</title>
-        <id>160939</id>
-        <link href="https://blog.mmoe.work/eos50d-report/?utm_source=blogfinder" />
-        <published>2026-06-18T00:00:00+08:00</published>
-        <author>
-            <name>Adogecheems</name>
-            <uri>https://blog.mmoe.work</uri>
-        </author>
-        <summary type="text"><![CDATA[佳能 EOS 50D 一年浅度使用报告]]></summary>
-    </entry>
-        <entry>
-        <title>penpot — 开源项目深度解析</title>
-        <id>160907</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-18/penpot/?utm_source=blogfinder" />
-        <published>2026-06-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[penpot — 开源项目深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>Rocket.Chat：开源安全的团队通信解决方案</title>
-        <id>160900</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-18/rocket-chat/?utm_source=blogfinder" />
-        <published>2026-06-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Rocket.Chat：开源安全的团队通信解决方案]]></summary>
-    </entry>
-        <entry>
-        <title>Google TimesFM：谷歌开源的时间序列基础模型</title>
-        <id>160899</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-18/timesfm/?utm_source=blogfinder" />
-        <published>2026-06-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Google TimesFM：谷歌开源的时间序列基础模型]]></summary>
-    </entry>
-        <entry>
-        <title>Continue：开源编程代理的终章与遗产</title>
-        <id>160898</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-18/continue/?utm_source=blogfinder" />
-        <published>2026-06-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Continue：开源编程代理的终章与遗产]]></summary>
-    </entry>
-        <entry>
-        <title>新购神牛离机闪光灯iT32，功能多又实用！</title>
-        <id>160904</id>
-        <link href="https://www.bufanz.com/20260617680.html?utm_source=blogfinder" />
-        <published>2026-06-17T23:34:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[新购神牛离机闪光灯iT32，功能多又实用！]]></summary>
-    </entry>
-        <entry>
-        <title>快速启动工具 - Maye Nano</title>
-        <id>160906</id>
-        <link href="https://blog.biecui.com/25.html?utm_source=blogfinder" />
-        <published>2026-06-17T23:13:00+08:00</published>
-        <author>
-            <name>别催</name>
-            <uri>https://blog.biecui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[快速启动工具 - Maye Nano]]></summary>
     </entry>
     </feed>
