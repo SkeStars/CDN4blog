@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-20T21:01:21+08:00</updated>
+    <updated>2026-06-20T23:00:44+08:00</updated>
+        <entry>
+        <title>typing_extensions 有用(四)：使用 TypeIs 替代危险的 cast，做最严谨的类型收窄 | 阿尔的代码屋</title>
+        <id>161017</id>
+        <link href="https://blog.algieba12.cn/typing-extensions-04-typeis/?utm_source=blogfinder" />
+        <published>2026-06-20T22:00:00+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[typing_extensions 有用(四)：使用 TypeIs 替代危险的 cast，做最严谨的类型收窄 | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
+        <title>Natural Language Dates - Chinese：终于能在Obsidian中处理中文日期了</title>
+        <id>161014</id>
+        <link href="https://www.skyue.com/26062020.html?utm_source=blogfinder" />
+        <published>2026-06-20T20:48:00+08:00</published>
+        <author>
+            <name>拾月</name>
+            <uri>https://www.skyue.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Natural Language Dates - Chinese：终于能在Obsidian中处理中文日期了]]></summary>
+    </entry>
         <entry>
         <title>聚合博客与独立博主的自主选择</title>
         <id>161011</id>
@@ -220,6 +242,28 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[Agent-Native：让 AI Agent 与 UI 真正融合的开源框架]]></summary>
+    </entry>
+        <entry>
+        <title>生活碎碎念：镜花水月里的 Cosplay（续）</title>
+        <id>161016</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1375/?utm_source=blogfinder" />
+        <published>2026-06-19T23:57:31+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[生活碎碎念：镜花水月里的 Cosplay（续）]]></summary>
+    </entry>
+        <entry>
+        <title>随手记：Win2008/WHS2011 开启TLS1.2支持</title>
+        <id>161015</id>
+        <link href="https://www.imxb.de/new_archives/65.shtml?utm_source=blogfinder" />
+        <published>2026-06-19T23:49:46+08:00</published>
+        <author>
+            <name>Xiobb’s Blog</name>
+            <uri>https://www.imxb.de</uri>
+        </author>
+        <summary type="text"><![CDATA[随手记：Win2008/WHS2011 开启TLS1.2支持]]></summary>
     </entry>
         <entry>
         <title>七牛 CDN 域名免费证书续费报错：[400600] 前置订单未完成，请稍后重试</title>
@@ -1067,82 +1111,5 @@
             <uri>https://blog.biecui.com</uri>
         </author>
         <summary type="text"><![CDATA[快速启动工具 - Maye Nano]]></summary>
-    </entry>
-        <entry>
-        <title>开始万豪白金挑战</title>
-        <id>160909</id>
-        <link href="https://blog.solazy.me/20260617/?utm_source=blogfinder" />
-        <published>2026-06-17T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[开始万豪白金挑战]]></summary>
-    </entry>
-        <entry>
-        <title>Coffee</title>
-        <id>160875</id>
-        <link href="https://www.laomuzhu.cn/285.html?utm_source=blogfinder" />
-        <published>2026-06-17T22:40:00+08:00</published>
-        <author>
-            <name>木竹</name>
-            <uri>https://www.laomuzhu.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Coffee]]></summary>
-    </entry>
-        <entry>
-        <title>typing_extensions 有用(一)：使用 Self 终结继承时的类型推断灾难 | 阿尔的代码屋</title>
-        <id>160847</id>
-        <link href="https://blog.algieba12.cn/typeing-extensions-01-self/?utm_source=blogfinder" />
-        <published>2026-06-17T22:00:00+08:00</published>
-        <author>
-            <name>阿尔的代码屋</name>
-            <uri>https://blog.algieba12.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[typing_extensions 有用(一)：使用 Self 终结继承时的类型推断灾难 | 阿尔的代码屋]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1683】但丁《神曲》多雷插画本</title>
-        <id>160846</id>
-        <link href="http://www.qncd.com/?p=12852&amp;utm_source=blogfinder" />
-        <published>2026-06-17T21:36:45+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1683】但丁《神曲》多雷插画本]]></summary>
-    </entry>
-        <entry>
-        <title>-</title>
-        <id>160917</id>
-        <link href="https://airy.ink/times/454?utm_source=blogfinder" />
-        <published>2026-06-17T21:31:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[-]]></summary>
-    </entry>
-        <entry>
-        <title>网站被百度K掉不是个例</title>
-        <id>160905</id>
-        <link href="https://ygz.ink/archives/5300.html?utm_source=blogfinder" />
-        <published>2026-06-17T21:19:18+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[网站被百度K掉不是个例]]></summary>
-    </entry>
-        <entry>
-        <title>26春学15周杂记</title>
-        <id>160919</id>
-        <link href="https://nxxy335.top/archives/73CNevxR?utm_source=blogfinder" />
-        <published>2026-06-17T21:07:08+08:00</published>
-        <author>
-            <name>暖心向阳</name>
-            <uri>https://nxxy335.top</uri>
-        </author>
-        <summary type="text"><![CDATA[26春学15周杂记]]></summary>
     </entry>
     </feed>
