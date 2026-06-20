@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-20T19:01:01+08:00</updated>
+    <updated>2026-06-20T21:01:21+08:00</updated>
         <entry>
         <title>聚合博客与独立博主的自主选择</title>
         <id>161011</id>
@@ -77,6 +77,28 @@
             <uri>https://ltmltm.cn/bk</uri>
         </author>
         <summary type="text"><![CDATA[同学录]]></summary>
+    </entry>
+        <entry>
+        <title>个站商店悄悄的删除我的博客</title>
+        <id>161012</id>
+        <link href="https://www.suiyan.cc/blog/20260620131006?utm_source=blogfinder" />
+        <published>2026-06-20T13:10:06+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[个站商店悄悄的删除我的博客]]></summary>
+    </entry>
+        <entry>
+        <title>深扒博客聚合与博主们的江湖恩怨</title>
+        <id>161013</id>
+        <link href="https://www.suiyan.cc/blog/20260620122151?utm_source=blogfinder" />
+        <published>2026-06-20T12:21:52+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[深扒博客聚合与博主们的江湖恩怨]]></summary>
     </entry>
         <entry>
         <title>2026端午节快乐</title>
@@ -1122,38 +1144,5 @@
             <uri>https://nxxy335.top</uri>
         </author>
         <summary type="text"><![CDATA[26春学15周杂记]]></summary>
-    </entry>
-        <entry>
-        <title>2026 年 5 月房地产数据来了</title>
-        <id>160896</id>
-        <link href="https://joojen.com/archives/9034.html?utm_source=blogfinder" />
-        <published>2026-06-17T20:46:45+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026 年 5 月房地产数据来了]]></summary>
-    </entry>
-        <entry>
-        <title>大学生到技校回炉重造成为趋势</title>
-        <id>160897</id>
-        <link href="https://joojen.com/archives/9028.html?utm_source=blogfinder" />
-        <published>2026-06-17T20:45:32+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[大学生到技校回炉重造成为趋势]]></summary>
-    </entry>
-        <entry>
-        <title>老板让我防黑客，我反手写了个&quot;自爆程序&quot;</title>
-        <id>160874</id>
-        <link href="https://www.lycoris.cloud/archives/019ecfc8-90c5-70da-ada2-f2cec734b3f4?utm_source=blogfinder" />
-        <published>2026-06-17T20:30:45+08:00</published>
-        <author>
-            <name>Lycoris</name>
-            <uri>https://www.lycoris.cloud</uri>
-        </author>
-        <summary type="text"><![CDATA[老板让我防黑客，我反手写了个&quot;自爆程序&quot;]]></summary>
     </entry>
     </feed>
