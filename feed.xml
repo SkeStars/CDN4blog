@@ -11,7 +11,95 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-21T00:00:15+08:00</updated>
+    <updated>2026-06-21T13:05:27+08:00</updated>
+        <entry>
+        <title>随笔日记</title>
+        <id>161037</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1166&amp;utm_source=blogfinder" />
+        <published>2026-06-21T09:12:07+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[随笔日记]]></summary>
+    </entry>
+        <entry>
+        <title>这一周莫比乌斯环转到了哪里？</title>
+        <id>161027</id>
+        <link href="https://mobius.blog/24674.html?utm_source=blogfinder" />
+        <published>2026-06-21T09:00:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[这一周莫比乌斯环转到了哪里？]]></summary>
+    </entry>
+        <entry>
+        <title>Now</title>
+        <id>161025</id>
+        <link href="https://impatrick.blog/now/?utm_source=blogfinder" />
+        <published>2026-06-21T07:23:58+08:00</published>
+        <author>
+            <name>Patrick&#039;s Blog</name>
+            <uri>https://impatrick.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[Now]]></summary>
+    </entry>
+        <entry>
+        <title>悟了</title>
+        <id>161040</id>
+        <link href="https://shuiba.co/aha-moments?utm_source=blogfinder" />
+        <published>2026-06-21T05:20:00+08:00</published>
+        <author>
+            <name>水八口的冥想盆</name>
+            <uri>https://shuiba.co</uri>
+        </author>
+        <summary type="text"><![CDATA[悟了]]></summary>
+    </entry>
+        <entry>
+        <title>Voicebox：开源 AI 语音工作室，本地运行的全栈语音 I/O 方案</title>
+        <id>161033</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-21/voicebox/?utm_source=blogfinder" />
+        <published>2026-06-21T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Voicebox：开源 AI 语音工作室，本地运行的全栈语音 I/O 方案]]></summary>
+    </entry>
+        <entry>
+        <title>SmsForwarder：Android 短信转发神器，备用机必备</title>
+        <id>161032</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-21/smsforwarder/?utm_source=blogfinder" />
+        <published>2026-06-21T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[SmsForwarder：Android 短信转发神器，备用机必备]]></summary>
+    </entry>
+        <entry>
+        <title>jcode：新一代编码代理工具，极致性能与多会话协作</title>
+        <id>161031</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-21/jcode/?utm_source=blogfinder" />
+        <published>2026-06-21T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[jcode：新一代编码代理工具，极致性能与多会话协作]]></summary>
+    </entry>
+        <entry>
+        <title>Awesome Artificial Intelligence：AI 工程师的精选资源大全</title>
+        <id>161030</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-21/awesome-artificial-intelligence/?utm_source=blogfinder" />
+        <published>2026-06-21T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Awesome Artificial Intelligence：AI 工程师的精选资源大全]]></summary>
+    </entry>
         <entry>
         <title>眼见与耳听，信哪个？</title>
         <id>161022</id>
@@ -22,6 +110,41 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[眼见与耳听，信哪个？]]></summary>
+    </entry>
+        <entry>
+        <title>当电影在黑暗中寻找光</title>
+        <id>161038</id>
+        <link href="https://blog.solazy.me/20260620/?utm_source=blogfinder" />
+        <published>2026-06-20T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[当电影在黑暗中寻找光]]></summary>
+    </entry>
+        <entry>
+        <title>说说：端午趁着空闲逛荷花池公园，恰逢连日梅雨，满池荷叶被雨水润得鲜亮通透。
+…</title>
+        <id>161039</id>
+        <link href="https://yigeboke.com/shuoshuo.php#shuo_32?utm_source=blogfinder" />
+        <published>2026-06-20T22:49:12+08:00</published>
+        <author>
+            <name>一个博客</name>
+            <uri>https://yigeboke.com</uri>
+        </author>
+        <summary type="text"><![CDATA[说说：端午趁着空闲逛荷花池公园，恰逢连日梅雨，满池荷叶被雨水润得鲜亮通透。
+…]]></summary>
+    </entry>
+        <entry>
+        <title>PNG 元素分离工具 split_image</title>
+        <id>161036</id>
+        <link href="https://www.suiyan.cc/blog/20260620220607?utm_source=blogfinder" />
+        <published>2026-06-20T22:06:07+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[PNG 元素分离工具 split_image]]></summary>
     </entry>
         <entry>
         <title>typing_extensions 有用(四)：使用 TypeIs 替代危险的 cast，做最严谨的类型收窄 | 阿尔的代码屋</title>
@@ -77,6 +200,17 @@
             <uri>http://luolt.cn</uri>
         </author>
         <summary type="text"><![CDATA[小小甲虫拿捏]]></summary>
+    </entry>
+        <entry>
+        <title>我曾经杀过人</title>
+        <id>161024</id>
+        <link href="https://d-d.design/single/19419?utm_source=blogfinder" />
+        <published>2026-06-20T18:55:28+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[我曾经杀过人]]></summary>
     </entry>
         <entry>
         <title>聚合博客与独立博主的自主选择</title>
@@ -167,6 +301,17 @@
         <summary type="text"><![CDATA[深扒博客聚合与博主们的江湖恩怨]]></summary>
     </entry>
         <entry>
+        <title>抢房子大战</title>
+        <id>161023</id>
+        <link href="https://blog.cytrogen.icu/posts/293b.html?utm_source=blogfinder" />
+        <published>2026-06-20T12:00:00+08:00</published>
+        <author>
+            <name>Cytrogen&#039;s Blog</name>
+            <uri>https://blog.cytrogen.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[抢房子大战]]></summary>
+    </entry>
+        <entry>
         <title>2026端午节快乐</title>
         <id>161003</id>
         <link href="https://blog.moeworld.tech/2026/06/20/2026%e7%ab%af%e5%8d%88%e8%8a%82%e5%bf%ab%e4%b9%90/?utm_source=blogfinder" />
@@ -222,6 +367,39 @@
         <summary type="text"><![CDATA[[AndNode] 美国云-标准型 50Mbps 9929&amp;CMIN2]]></summary>
     </entry>
         <entry>
+        <title>MPC 的人生</title>
+        <id>161029</id>
+        <link href="https://www.immarcus.com/blog/model-predictive-controlled-life?utm_source=blogfinder" />
+        <published>2026-06-20T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[MPC 的人生]]></summary>
+    </entry>
+        <entry>
+        <title>Python 潮流周刊#155：Python 3.14 垃圾回收风波</title>
+        <id>161028</id>
+        <link href="https://pythoncat.top/posts/2026-06-20-weekly/?utm_source=blogfinder" />
+        <published>2026-06-20T08:00:00+08:00</published>
+        <author>
+            <name>豌豆花下猫</name>
+            <uri>https://pythoncat.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Python 潮流周刊#155：Python 3.14 垃圾回收风波]]></summary>
+    </entry>
+        <entry>
+        <title>我的产品 TinyShip 发布半年赚了多少钱？</title>
+        <id>161026</id>
+        <link href="https://vikingz.me/tinyship-recap/?utm_source=blogfinder" />
+        <published>2026-06-20T08:00:00+08:00</published>
+        <author>
+            <name>Viking Zhang</name>
+            <uri>https://vikingz.me</uri>
+        </author>
+        <summary type="text"><![CDATA[我的产品 TinyShip 发布半年赚了多少钱？]]></summary>
+    </entry>
+        <entry>
         <title>快乐份子</title>
         <id>160990</id>
         <link href="https://mobius.blog/24805.html?utm_source=blogfinder" />
@@ -242,6 +420,28 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[完美的一天]]></summary>
+    </entry>
+        <entry>
+        <title>Turso Database：用 Rust 重写 SQLite 的野心与实现</title>
+        <id>161035</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-20/turso/?utm_source=blogfinder" />
+        <published>2026-06-20T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Turso Database：用 Rust 重写 SQLite 的野心与实现]]></summary>
+    </entry>
+        <entry>
+        <title>Pake：一键将网页打包成轻量桌面应用</title>
+        <id>161034</id>
+        <link href="http://blog.xlap.top/post/tech/2026-06-20/pake/?utm_source=blogfinder" />
+        <published>2026-06-20T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Pake：一键将网页打包成轻量桌面应用]]></summary>
     </entry>
         <entry>
         <title>OpenMontage：首个开源的 Agentic 视频制作系统深度解析</title>
@@ -902,159 +1102,5 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[独立博客像角落里绽放的苔花]]></summary>
-    </entry>
-        <entry>
-        <title>Step Plan 限时免费体验， 海量 Token 放送中！</title>
-        <id>160913</id>
-        <link href="https://www.renhuali.cn/journal/cmqiyiryv0002chyjl7jhjlsc?utm_source=blogfinder" />
-        <published>2026-06-18T11:45:25+08:00</published>
-        <author>
-            <name>华立博客</name>
-            <uri>https://renhuali.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Step Plan 限时免费体验， 海量 Token 放送中！]]></summary>
-    </entry>
-        <entry>
-        <title>端午出游—A计划，I启动</title>
-        <id>160916</id>
-        <link href="https://liuqingwushui.top/archives/164/?utm_source=blogfinder" />
-        <published>2026-06-18T11:40:00+08:00</published>
-        <author>
-            <name>流情的博客</name>
-            <uri>https://liuqingwushui.top</uri>
-        </author>
-        <summary type="text"><![CDATA[端午出游—A计划，I启动]]></summary>
-    </entry>
-        <entry>
-        <title>年中分界线：夏至前三天，我重新理解了「半程」的意义</title>
-        <id>160902</id>
-        <link href="https://www.zhounote.com/article/114?utm_source=blogfinder" />
-        <published>2026-06-18T10:30:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[年中分界线：夏至前三天，我重新理解了「半程」的意义]]></summary>
-    </entry>
-        <entry>
-        <title>AI支付宝上手：内容全靠编，出问题甩锅给商家，付款快退款难</title>
-        <id>160903</id>
-        <link href="https://blog.zhheo.com/p/sir4kfs9.html?utm_source=blogfinder" />
-        <published>2026-06-18T10:27:38+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[AI支付宝上手：内容全靠编，出问题甩锅给商家，付款快退款难]]></summary>
-    </entry>
-        <entry>
-        <title>警惕西安钟楼附近的缝补衣服，大部分是诈骗呢</title>
-        <id>160928</id>
-        <link href="https://www.liuzen.com/xian-fengbu.html?utm_source=blogfinder" />
-        <published>2026-06-18T09:59:03+08:00</published>
-        <author>
-            <name>刘明禅</name>
-            <uri>https://www.liuzen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[警惕西安钟楼附近的缝补衣服，大部分是诈骗呢]]></summary>
-    </entry>
-        <entry>
-        <title>读博随笔 | 本学期的助教课结束，认识了一些可爱的大一新生</title>
-        <id>160895</id>
-        <link href="https://www.52txr.cn/2026/2026TA.html?utm_source=blogfinder" />
-        <published>2026-06-18T09:23:00+08:00</published>
-        <author>
-            <name>陶小桃</name>
-            <uri>https://www.52txr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[读博随笔 | 本学期的助教课结束，认识了一些可爱的大一新生]]></summary>
-    </entry>
-        <entry>
-        <title>越来越多的 ADHD 是现代社交媒体制造的吗？</title>
-        <id>160908</id>
-        <link href="https://mobius.blog/24661.html?utm_source=blogfinder" />
-        <published>2026-06-18T09:00:00+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[越来越多的 ADHD 是现代社交媒体制造的吗？]]></summary>
-    </entry>
-        <entry>
-        <title>哪吒探针风波之后，如何用 AI 自建服务器探针避免服务器被一锅端</title>
-        <id>160943</id>
-        <link href="https://lawtee.com/article/simple-server-monitor/?utm_source=blogfinder" />
-        <published>2026-06-18T08:50:00+08:00</published>
-        <author>
-            <name>老 T 博客</name>
-            <uri>https://lawtee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[哪吒探针风波之后，如何用 AI 自建服务器探针避免服务器被一锅端]]></summary>
-    </entry>
-        <entry>
-        <title>《哲学家的最后一课》读后感</title>
-        <id>160948</id>
-        <link href="https://lostdeer.xyz/reading-r14-a-philosophers-last-lesson/?utm_source=blogfinder" />
-        <published>2026-06-18T08:00:00+08:00</published>
-        <author>
-            <name>迷鹿屋</name>
-            <uri>https://lostdeer.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[《哲学家的最后一课》读后感]]></summary>
-    </entry>
-        <entry>
-        <title>麻醉体感实录</title>
-        <id>160947</id>
-        <link href="https://www.immarcus.com/blog/experiencing-anesthesia?utm_source=blogfinder" />
-        <published>2026-06-18T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[麻醉体感实录]]></summary>
-    </entry>
-        <entry>
-        <title>气氛已经烘托到这了</title>
-        <id>160945</id>
-        <link href="https://ddbzhou.com/post/qifenhongtuodaole/?utm_source=blogfinder" />
-        <published>2026-06-18T08:00:00+08:00</published>
-        <author>
-            <name>兜兜爸投资笔记</name>
-            <uri>https://ddbzhou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[气氛已经烘托到这了]]></summary>
-    </entry>
-        <entry>
-        <title>打了十几年球，这次冠军教会我一件事</title>
-        <id>160944</id>
-        <link href="https://blog.gudong.site/2026/06/18/basketball-champion.html?utm_source=blogfinder" />
-        <published>2026-06-18T08:00:00+08:00</published>
-        <author>
-            <name>咕咚同学</name>
-            <uri>https://blog.gudong.site</uri>
-        </author>
-        <summary type="text"><![CDATA[打了十几年球，这次冠军教会我一件事]]></summary>
-    </entry>
-        <entry>
-        <title>入职轮胎厂的培训周，day 3</title>
-        <id>160894</id>
-        <link href="https://www.sunzhongwei.com/training-week-joining-tire-factory-day-3?utm_source=blogfinder" />
-        <published>2026-06-18T07:06:55+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[入职轮胎厂的培训周，day 3]]></summary>
-    </entry>
-        <entry>
-        <title>你有多久没关注百度收录了？</title>
-        <id>160892</id>
-        <link href="http://etom.top/archives/so163.html?utm_source=blogfinder" />
-        <published>2026-06-18T00:19:00+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[你有多久没关注百度收录了？]]></summary>
     </entry>
     </feed>
