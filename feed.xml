@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-21T13:05:27+08:00</updated>
+    <updated>2026-06-21T17:00:52+08:00</updated>
+        <entry>
+        <title>告别朝夕路途中的寻常风光</title>
+        <id>161047</id>
+        <link href="https://ryqi.top/p/goodbye-to-my-morning-commute/?utm_source=blogfinder" />
+        <published>2026-06-21T13:45:00+08:00</published>
+        <author>
+            <name>合荒小站</name>
+            <uri>https://ryqi.top</uri>
+        </author>
+        <summary type="text"><![CDATA[告别朝夕路途中的寻常风光]]></summary>
+    </entry>
+        <entry>
+        <title>关于新能源车续保的事情</title>
+        <id>161041</id>
+        <link href="https://fxpai.com/article/guanyuxinnengyuanchexubaodeshiqing?utm_source=blogfinder" />
+        <published>2026-06-21T11:02:50+08:00</published>
+        <author>
+            <name>非学·派</name>
+            <uri>https://fxpai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[关于新能源车续保的事情]]></summary>
+    </entry>
         <entry>
         <title>随笔日记</title>
         <id>161037</id>
@@ -55,6 +77,28 @@
             <uri>https://shuiba.co</uri>
         </author>
         <summary type="text"><![CDATA[悟了]]></summary>
+    </entry>
+        <entry>
+        <title>年糕</title>
+        <id>161043</id>
+        <link href="https://cbc688.com/articles/ng?utm_source=blogfinder" />
+        <published>2026-06-21T02:59:37+08:00</published>
+        <author>
+            <name>CRIVU</name>
+            <uri>https://cbc688.com</uri>
+        </author>
+        <summary type="text"><![CDATA[年糕]]></summary>
+    </entry>
+        <entry>
+        <title>随思 #96 - 2026-06-20</title>
+        <id>161046</id>
+        <link href="http://qthinker.net/content/96?utm_source=blogfinder" />
+        <published>2026-06-21T01:33:59+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[随思 #96 - 2026-06-20]]></summary>
     </entry>
         <entry>
         <title>Voicebox：开源 AI 语音工作室，本地运行的全栈语音 I/O 方案</title>
@@ -420,6 +464,17 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[完美的一天]]></summary>
+    </entry>
+        <entry>
+        <title>GoRouter 结合 Isar 运行 Widget 测试并发/粘性线程死锁卡死排坑笔记 | 阿尔的代码屋</title>
+        <id>161042</id>
+        <link href="https://blog.algieba12.cn/record09-go-router-isar-deadlock-fix/?utm_source=blogfinder" />
+        <published>2026-06-20T00:10:00+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[GoRouter 结合 Isar 运行 Widget 测试并发/粘性线程死锁卡死排坑笔记 | 阿尔的代码屋]]></summary>
     </entry>
         <entry>
         <title>Turso Database：用 Rust 重写 SQLite 的野心与实现</title>
@@ -1036,71 +1091,5 @@
             <uri>https://pewae.com</uri>
         </author>
         <summary type="text"><![CDATA[终结者2：审判日]]></summary>
-    </entry>
-        <entry>
-        <title>数据观察日报 · 2026-06-18</title>
-        <id>160914</id>
-        <link href="http://hi-nikola.cn/2026/06/18/daily-observer/2026-06-18/?utm_source=blogfinder" />
-        <published>2026-06-18T17:00:00+08:00</published>
-        <author>
-            <name>Nikola</name>
-            <uri>https://hi-nikola.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[数据观察日报 · 2026-06-18]]></summary>
-    </entry>
-        <entry>
-        <title>回去喝奶吧，粉底液将军！《火遮眼》才是真爷们该看的降压药！</title>
-        <id>160921</id>
-        <link href="https://hi.jeray.wang/L/220.html?utm_source=blogfinder" />
-        <published>2026-06-18T16:53:00+08:00</published>
-        <author>
-            <name>Jeray 大叔</name>
-            <uri>https://hi.jeray.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[回去喝奶吧，粉底液将军！《火遮眼》才是真爷们该看的降压药！]]></summary>
-    </entry>
-        <entry>
-        <title>Artitalk V4: 从Leancloud迁移至Vercel</title>
-        <id>160918</id>
-        <link href="https://blog.hclonely.com/posts/7fa46a11/?utm_source=blogfinder" />
-        <published>2026-06-18T15:46:47+08:00</published>
-        <author>
-            <name>HCLonely Blog</name>
-            <uri>https://blog.hclonely.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Artitalk V4: 从Leancloud迁移至Vercel]]></summary>
-    </entry>
-        <entry>
-        <title>算算账，做好准备</title>
-        <id>160961</id>
-        <link href="https://retire50blog.wang/invest/%e5%9b%9e%e6%92%a4%e8%ae%a1%e7%ae%97%e5%92%8c%e5%af%b9%e6%af%94.html?utm_source=blogfinder" />
-        <published>2026-06-18T15:25:44+08:00</published>
-        <author>
-            <name>个人工作记录</name>
-            <uri>https://retire50blog.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[算算账，做好准备]]></summary>
-    </entry>
-        <entry>
-        <title>什么是Skill，它能迸发出什么能力</title>
-        <id>160925</id>
-        <link href="https://deepzz.com/post/what-is-ai-skil.html?utm_source=blogfinder" />
-        <published>2026-06-18T14:46:00+08:00</published>
-        <author>
-            <name>Deepzz</name>
-            <uri>https://deepzz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[什么是Skill，它能迸发出什么能力]]></summary>
-    </entry>
-        <entry>
-        <title>独立博客像角落里绽放的苔花</title>
-        <id>160912</id>
-        <link href="https://www.pgoj.top/archives/du-li-blog-tai-hua.html?utm_source=blogfinder" />
-        <published>2026-06-18T13:10:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[独立博客像角落里绽放的苔花]]></summary>
     </entry>
     </feed>
