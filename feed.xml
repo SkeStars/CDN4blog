@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-21T19:01:29+08:00</updated>
+    <updated>2026-06-21T22:01:44+08:00</updated>
+        <entry>
+        <title>百花山爬了5小时</title>
+        <id>161051</id>
+        <link href="https://fxpai.com/article/baihuashanpale5xiaoshi?utm_source=blogfinder" />
+        <published>2026-06-21T16:44:05+08:00</published>
+        <author>
+            <name>非学·派</name>
+            <uri>https://fxpai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[百花山爬了5小时]]></summary>
+    </entry>
+        <entry>
+        <title>端午节第三弹：Typecho Newsletter插件；及Claude Code + DeepSeek的使用体验</title>
+        <id>161052</id>
+        <link href="https://www.skyue.com/26062116.html?utm_source=blogfinder" />
+        <published>2026-06-21T16:41:00+08:00</published>
+        <author>
+            <name>拾月</name>
+            <uri>https://www.skyue.com</uri>
+        </author>
+        <summary type="text"><![CDATA[端午节第三弹：Typecho Newsletter插件；及Claude Code + DeepSeek的使用体验]]></summary>
+    </entry>
         <entry>
         <title>告别朝夕路途中的寻常风光</title>
         <id>161047</id>
@@ -22,6 +44,28 @@
             <uri>https://ryqi.top</uri>
         </author>
         <summary type="text"><![CDATA[告别朝夕路途中的寻常风光]]></summary>
+    </entry>
+        <entry>
+        <title>2026-06-21T12:19:00+08:00</title>
+        <id>161050</id>
+        <link href="https://www.sanji.one/moments/20260621-1219/?utm_source=blogfinder" />
+        <published>2026-06-21T12:19:00+08:00</published>
+        <author>
+            <name>时光散记</name>
+            <uri>https://www.sanji.one</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-06-21T12:19:00+08:00]]></summary>
+    </entry>
+        <entry>
+        <title>Linux OOM Killer 计分模型源码拆解：进程 adj 权重、内存透支机制与业务无辜被杀根因溯源</title>
+        <id>161054</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/115.html?utm_source=blogfinder" />
+        <published>2026-06-21T11:59:43+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[Linux OOM Killer 计分模型源码拆解：进程 adj 权重、内存透支机制与业务无辜被杀根因溯源]]></summary>
     </entry>
         <entry>
         <title>关于博客聚合平台</title>
@@ -176,6 +220,17 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[眼见与耳听，信哪个？]]></summary>
+    </entry>
+        <entry>
+        <title>端午能不能快乐？</title>
+        <id>161053</id>
+        <link href="https://dujun.io/duan-wu-kuai-le.html?utm_source=blogfinder" />
+        <published>2026-06-20T23:31:00+08:00</published>
+        <author>
+            <name>杜郎俊赏</name>
+            <uri>https://dujun.io</uri>
+        </author>
+        <summary type="text"><![CDATA[端午能不能快乐？]]></summary>
     </entry>
         <entry>
         <title>当电影在黑暗中寻找光</title>
@@ -1058,60 +1113,5 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[端午流水账 0618]]></summary>
-    </entry>
-        <entry>
-        <title>typing_extensions 有用(二)：使用 @override 打造重构代码时的“防呆神器” | 阿尔的代码屋</title>
-        <id>160923</id>
-        <link href="https://blog.algieba12.cn/typeing-extensions-02-override/?utm_source=blogfinder" />
-        <published>2026-06-18T22:00:00+08:00</published>
-        <author>
-            <name>阿尔的代码屋</name>
-            <uri>https://blog.algieba12.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[typing_extensions 有用(二)：使用 @override 打造重构代码时的“防呆神器” | 阿尔的代码屋]]></summary>
-    </entry>
-        <entry>
-        <title>Flutter 并发测试踩坑实录 - IsarCore 动态库下载冲突与 Widget 测试 HTTP 拦截全链路解决 | 阿尔的代码屋</title>
-        <id>160922</id>
-        <link href="https://blog.algieba12.cn/record08-isar-concurrency-test-fix/?utm_source=blogfinder" />
-        <published>2026-06-18T22:00:00+08:00</published>
-        <author>
-            <name>阿尔的代码屋</name>
-            <uri>https://blog.algieba12.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Flutter 并发测试踩坑实录 - IsarCore 动态库下载冲突与 Widget 测试 HTTP 拦截全链路解决 | 阿尔的代码屋]]></summary>
-    </entry>
-        <entry>
-        <title>过半年又拔掉一颗智齿</title>
-        <id>160960</id>
-        <link href="https://ygz.ink/archives/5303.html?utm_source=blogfinder" />
-        <published>2026-06-18T21:13:22+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[过半年又拔掉一颗智齿]]></summary>
-    </entry>
-        <entry>
-        <title>Ubuntu 26.04 Btrfs+LUKS2安装</title>
-        <id>160920</id>
-        <link href="https://blog.goodboyboy.top/posts/4123452949.html?utm_source=blogfinder" />
-        <published>2026-06-18T21:04:44+08:00</published>
-        <author>
-            <name>GoodBoyboy</name>
-            <uri>https://blog.goodboyboy.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Ubuntu 26.04 Btrfs+LUKS2安装]]></summary>
-    </entry>
-        <entry>
-        <title>终结者2：审判日</title>
-        <id>160949</id>
-        <link href="https://pewae.com/2026/06/terminator-2-judgment-day.html?utm_source=blogfinder" />
-        <published>2026-06-18T20:14:11+08:00</published>
-        <author>
-            <name>破袜子</name>
-            <uri>https://pewae.com</uri>
-        </author>
-        <summary type="text"><![CDATA[终结者2：审判日]]></summary>
     </entry>
     </feed>
