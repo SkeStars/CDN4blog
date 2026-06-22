@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-22T20:00:17+08:00</updated>
+    <updated>2026-06-23T00:00:28+08:00</updated>
+        <entry>
+        <title>光荣入团</title>
+        <id>161111</id>
+        <link href="https://www.wanghao.me/guangrongrutuan.html?utm_source=blogfinder" />
+        <published>2026-06-22T22:01:59+08:00</published>
+        <author>
+            <name>小王子</name>
+            <uri>https://www.wanghao.me</uri>
+        </author>
+        <summary type="text"><![CDATA[光荣入团]]></summary>
+    </entry>
+        <entry>
+        <title>投8吨生豆</title>
+        <id>161109</id>
+        <link href="https://hjyl.org/8-tons-of-coffee-beans/?utm_source=blogfinder" />
+        <published>2026-06-22T20:51:50+08:00</published>
+        <author>
+            <name>皇家元林</name>
+            <uri>https://hjyl.org</uri>
+        </author>
+        <summary type="text"><![CDATA[投8吨生豆]]></summary>
+    </entry>
         <entry>
         <title>记账才是成年人的清醒</title>
         <id>161102</id>
@@ -508,6 +530,17 @@
         <summary type="text"><![CDATA[Now]]></summary>
     </entry>
         <entry>
+        <title>尝个鲜  — 健民辣丝</title>
+        <id>161110</id>
+        <link href="https://www.ixiqin.com/2026/06/21/try-a-fresh-jianmin-spicy-silk/?utm_source=blogfinder" />
+        <published>2026-06-21T06:09:00+08:00</published>
+        <author>
+            <name>西秦公子</name>
+            <uri>https://www.ixiqin.com</uri>
+        </author>
+        <summary type="text"><![CDATA[尝个鲜  — 健民辣丝]]></summary>
+    </entry>
+        <entry>
         <title>悟了</title>
         <id>161040</id>
         <link href="https://shuiba.co/aha-moments?utm_source=blogfinder" />
@@ -970,159 +1003,5 @@
             <uri>https://blog.algieba12.cn</uri>
         </author>
         <summary type="text"><![CDATA[GoRouter 结合 Isar 运行 Widget 测试并发/粘性线程死锁卡死排坑笔记 | 阿尔的代码屋]]></summary>
-    </entry>
-        <entry>
-        <title>Turso Database：用 Rust 重写 SQLite 的野心与实现</title>
-        <id>161035</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-20/turso/?utm_source=blogfinder" />
-        <published>2026-06-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Turso Database：用 Rust 重写 SQLite 的野心与实现]]></summary>
-    </entry>
-        <entry>
-        <title>Pake：一键将网页打包成轻量桌面应用</title>
-        <id>161034</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-20/pake/?utm_source=blogfinder" />
-        <published>2026-06-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Pake：一键将网页打包成轻量桌面应用]]></summary>
-    </entry>
-        <entry>
-        <title>OpenMontage：首个开源的 Agentic 视频制作系统深度解析</title>
-        <id>160995</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-20/openmontage/?utm_source=blogfinder" />
-        <published>2026-06-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenMontage：首个开源的 Agentic 视频制作系统深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>LTX-2：首个基于 DiT 的音视频基础模型</title>
-        <id>160994</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-20/ltx-2/?utm_source=blogfinder" />
-        <published>2026-06-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[LTX-2：首个基于 DiT 的音视频基础模型]]></summary>
-    </entry>
-        <entry>
-        <title>awesome-generative-ai-guide：一份仍在持续生长的生成式 AI 全栈学习路线图</title>
-        <id>160993</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-20/awesome-generative-ai-guide/?utm_source=blogfinder" />
-        <published>2026-06-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[awesome-generative-ai-guide：一份仍在持续生长的生成式 AI 全栈学习路线图]]></summary>
-    </entry>
-        <entry>
-        <title>Agent-Native：让 AI Agent 与 UI 真正融合的开源框架</title>
-        <id>160992</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-20/agent-native/?utm_source=blogfinder" />
-        <published>2026-06-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Agent-Native：让 AI Agent 与 UI 真正融合的开源框架]]></summary>
-    </entry>
-        <entry>
-        <title>生活碎碎念：镜花水月里的 Cosplay（续）</title>
-        <id>161016</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1375/?utm_source=blogfinder" />
-        <published>2026-06-19T23:57:31+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[生活碎碎念：镜花水月里的 Cosplay（续）]]></summary>
-    </entry>
-        <entry>
-        <title>随手记：Win2008/WHS2011 开启TLS1.2支持</title>
-        <id>161015</id>
-        <link href="https://www.imxb.de/new_archives/65.shtml?utm_source=blogfinder" />
-        <published>2026-06-19T23:49:46+08:00</published>
-        <author>
-            <name>Xiobb’s Blog</name>
-            <uri>https://www.imxb.de</uri>
-        </author>
-        <summary type="text"><![CDATA[随手记：Win2008/WHS2011 开启TLS1.2支持]]></summary>
-    </entry>
-        <entry>
-        <title>电影院和耳机</title>
-        <id>161021</id>
-        <link href="https://blog.solazy.me/20260619/?utm_source=blogfinder" />
-        <published>2026-06-19T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[电影院和耳机]]></summary>
-    </entry>
-        <entry>
-        <title>七牛 CDN 域名免费证书续费报错：[400600] 前置订单未完成，请稍后重试</title>
-        <id>160991</id>
-        <link href="https://www.sunzhongwei.com/qiniu-cdn-domain-free-certificate-renewal-error-400600?utm_source=blogfinder" />
-        <published>2026-06-19T22:51:07+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[七牛 CDN 域名免费证书续费报错：[400600] 前置订单未完成，请稍后重试]]></summary>
-    </entry>
-        <entry>
-        <title>typing_extensions 有用(三)：使用 Unpack 结合 TypedDict 给 **kwargs 装上透视眼 | 阿尔的代码屋</title>
-        <id>160983</id>
-        <link href="https://blog.algieba12.cn/typing-extensions-03-unpack-typeddict/?utm_source=blogfinder" />
-        <published>2026-06-19T22:00:00+08:00</published>
-        <author>
-            <name>阿尔的代码屋</name>
-            <uri>https://blog.algieba12.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[typing_extensions 有用(三)：使用 Unpack 结合 TypedDict 给 **kwargs 装上透视眼 | 阿尔的代码屋]]></summary>
-    </entry>
-        <entry>
-        <title>关于博客相关的碎碎念</title>
-        <id>160985</id>
-        <link href="https://qaqbuyan.com:88/乔安文章/114.html?utm_source=blogfinder" />
-        <published>2026-06-19T21:03:21+08:00</published>
-        <author>
-            <name>卟言的个人博客</name>
-            <uri>https://qaqbuyan.com:88</uri>
-        </author>
-        <summary type="text"><![CDATA[关于博客相关的碎碎念]]></summary>
-    </entry>
-        <entry>
-        <title>我的宝藏书单</title>
-        <id>161010</id>
-        <link href="https://ryqi.top/p/book-recommendation/?utm_source=blogfinder" />
-        <published>2026-06-19T20:30:00+08:00</published>
-        <author>
-            <name>合荒小站</name>
-            <uri>https://ryqi.top</uri>
-        </author>
-        <summary type="text"><![CDATA[我的宝藏书单]]></summary>
-    </entry>
-        <entry>
-        <title>每夫吐槽（117）</title>
-        <id>160976</id>
-        <link href="https://pewae.com/2026/06/random_kuso_117.html?utm_source=blogfinder" />
-        <published>2026-06-19T20:24:06+08:00</published>
-        <author>
-            <name>破袜子</name>
-            <uri>https://pewae.com</uri>
-        </author>
-        <summary type="text"><![CDATA[每夫吐槽（117）]]></summary>
     </entry>
     </feed>
