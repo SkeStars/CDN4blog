@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-23T23:00:24+08:00</updated>
+    <updated>2026-06-24T00:00:27+08:00</updated>
+        <entry>
+        <title>2026 欧洲之旅：在意大利打车</title>
+        <id>161143</id>
+        <link href="https://www.ixiqin.com/2026/06/23/2026-european-tour-taking-a-taxi-in-italy/?utm_source=blogfinder" />
+        <published>2026-06-23T23:55:41+08:00</published>
+        <author>
+            <name>西秦公子</name>
+            <uri>https://www.ixiqin.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026 欧洲之旅：在意大利打车]]></summary>
+    </entry>
+        <entry>
+        <title>准备给猫咪换减肥猫粮</title>
+        <id>161145</id>
+        <link href="https://blog.solazy.me/20260623/?utm_source=blogfinder" />
+        <published>2026-06-23T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[准备给猫咪换减肥猫粮]]></summary>
+    </entry>
         <entry>
         <title>Magento 服务器负载居高不下问题排除</title>
         <id>161138</id>
@@ -55,6 +77,28 @@
             <uri>https://www.wangdu.site</uri>
         </author>
         <summary type="text"><![CDATA[六云666clouds：提供美/日/韩/美/德/英/香港原生双ISP住宅IP VPS 年付6折、月付8折、40元起优惠]]></summary>
+    </entry>
+        <entry>
+        <title>也说圈子</title>
+        <id>161147</id>
+        <link href="https://ficor.net/archives/48?utm_source=blogfinder" />
+        <published>2026-06-23T15:21:00+08:00</published>
+        <author>
+            <name>荒野菲克</name>
+            <uri>https://ficor.net</uri>
+        </author>
+        <summary type="text"><![CDATA[也说圈子]]></summary>
+    </entry>
+        <entry>
+        <title>2026 欧洲之旅：酒店</title>
+        <id>161144</id>
+        <link href="https://www.ixiqin.com/2026/06/23/2026-european-tour-hotel/?utm_source=blogfinder" />
+        <published>2026-06-23T12:56:00+08:00</published>
+        <author>
+            <name>西秦公子</name>
+            <uri>https://www.ixiqin.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026 欧洲之旅：酒店]]></summary>
     </entry>
         <entry>
         <title>新购星曜85mm f1.8镜头，试拍了一天，光圈全开画质一般，已退货</title>
@@ -231,6 +275,17 @@
             <uri>https://impatrick.blog</uri>
         </author>
         <summary type="text"><![CDATA[香港機場維修區 拍攝飛機兼拍日落 一日遊記]]></summary>
+    </entry>
+        <entry>
+        <title>反诈骚扰</title>
+        <id>161146</id>
+        <link href="https://blog.solazy.me/20260622/?utm_source=blogfinder" />
+        <published>2026-06-22T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[反诈骚扰]]></summary>
     </entry>
         <entry>
         <title>去哈的高铁上拍到了沈阳大爷游野泳</title>
@@ -902,82 +957,5 @@
             <uri>https://qthinker.net</uri>
         </author>
         <summary type="text"><![CDATA[随思 #96 - 2026-06-20]]></summary>
-    </entry>
-        <entry>
-        <title>Daily Stock Analysis：基于 AI 大模型的股票智能分析系统深度解析</title>
-        <id>161082</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-21/daily-stock-analysis/?utm_source=blogfinder" />
-        <published>2026-06-21T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Daily Stock Analysis：基于 AI 大模型的股票智能分析系统深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>Voicebox：开源 AI 语音工作室，本地运行的全栈语音 I/O 方案</title>
-        <id>161033</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-21/voicebox/?utm_source=blogfinder" />
-        <published>2026-06-21T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Voicebox：开源 AI 语音工作室，本地运行的全栈语音 I/O 方案]]></summary>
-    </entry>
-        <entry>
-        <title>SmsForwarder：Android 短信转发神器，备用机必备</title>
-        <id>161032</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-21/smsforwarder/?utm_source=blogfinder" />
-        <published>2026-06-21T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[SmsForwarder：Android 短信转发神器，备用机必备]]></summary>
-    </entry>
-        <entry>
-        <title>jcode：新一代编码代理工具，极致性能与多会话协作</title>
-        <id>161031</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-21/jcode/?utm_source=blogfinder" />
-        <published>2026-06-21T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[jcode：新一代编码代理工具，极致性能与多会话协作]]></summary>
-    </entry>
-        <entry>
-        <title>Awesome Artificial Intelligence：AI 工程师的精选资源大全</title>
-        <id>161030</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-21/awesome-artificial-intelligence/?utm_source=blogfinder" />
-        <published>2026-06-21T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Awesome Artificial Intelligence：AI 工程师的精选资源大全]]></summary>
-    </entry>
-        <entry>
-        <title>眼见与耳听，信哪个？</title>
-        <id>161022</id>
-        <link href="http://etom.top/archives/so164.html?utm_source=blogfinder" />
-        <published>2026-06-20T23:48:44+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[眼见与耳听，信哪个？]]></summary>
-    </entry>
-        <entry>
-        <title>端午能不能快乐？</title>
-        <id>161053</id>
-        <link href="https://dujun.io/duan-wu-kuai-le.html?utm_source=blogfinder" />
-        <published>2026-06-20T23:31:00+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[端午能不能快乐？]]></summary>
     </entry>
     </feed>
