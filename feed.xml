@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-24T23:01:03+08:00</updated>
+    <updated>2026-06-25T00:00:16+08:00</updated>
         <entry>
         <title>不会剪视频？OpenMontage让你一句话自动生成完整短视频</title>
         <id>161179</id>
@@ -55,6 +55,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[腻了]]></summary>
+    </entry>
+        <entry>
+        <title>我的 AI Coding Guide</title>
+        <id>161184</id>
+        <link href="https://www.ixiqin.com/2026/06/24/my-ai-coding-guide/?utm_source=blogfinder" />
+        <published>2026-06-24T18:06:29+08:00</published>
+        <author>
+            <name>西秦公子</name>
+            <uri>https://www.ixiqin.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我的 AI Coding Guide]]></summary>
     </entry>
         <entry>
         <title>人生的第一台单反：尼康D3200</title>
@@ -902,93 +913,5 @@
             <uri>https://shuiba.co</uri>
         </author>
         <summary type="text"><![CDATA[33岁生日之淡路岛+布引香草园]]></summary>
-    </entry>
-        <entry>
-        <title>Stirling PDF：功能最全的开源 PDF 处理平台，支持 50+ 工具私有化部署</title>
-        <id>161126</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-22/stirling-pdf/?utm_source=blogfinder" />
-        <published>2026-06-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Stirling PDF：功能最全的开源 PDF 处理平台，支持 50+ 工具私有化部署]]></summary>
-    </entry>
-        <entry>
-        <title>HyperFrames：用 HTML 写视频的开源框架，AI Agent 的视频生产利器</title>
-        <id>161125</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-22/hyperframes/?utm_source=blogfinder" />
-        <published>2026-06-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[HyperFrames：用 HTML 写视频的开源框架，AI Agent 的视频生产利器]]></summary>
-    </entry>
-        <entry>
-        <title>System Prompts Leaks：一个汇集主流 AI 助手 System Prompt 的开源项目</title>
-        <id>161086</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-22/system-prompts-leaks/?utm_source=blogfinder" />
-        <published>2026-06-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[System Prompts Leaks：一个汇集主流 AI 助手 System Prompt 的开源项目]]></summary>
-    </entry>
-        <entry>
-        <title>SpiderFoot：开源情报(OSINT)自动化利器，200+模块助你掌控网络空间侦察</title>
-        <id>161081</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-22/spiderfoot/?utm_source=blogfinder" />
-        <published>2026-06-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[SpiderFoot：开源情报(OSINT)自动化利器，200+模块助你掌控网络空间侦察]]></summary>
-    </entry>
-        <entry>
-        <title>DeerFlow 2.0：字节跳动的开源超级 Agent Harness 深度解析</title>
-        <id>161080</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-22/deer-flow/?utm_source=blogfinder" />
-        <published>2026-06-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[DeerFlow 2.0：字节跳动的开源超级 Agent Harness 深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>Cognee：开源 AI Agent 长期记忆平台实战解析</title>
-        <id>161079</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-22/cognee/?utm_source=blogfinder" />
-        <published>2026-06-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Cognee：开源 AI Agent 长期记忆平台实战解析]]></summary>
-    </entry>
-        <entry>
-        <title>biliTickerBuy：开源免费的 B 站会员购辅助工具</title>
-        <id>161078</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-22/bilitickerbuy/?utm_source=blogfinder" />
-        <published>2026-06-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[biliTickerBuy：开源免费的 B 站会员购辅助工具]]></summary>
-    </entry>
-        <entry>
-        <title>丙午夏至</title>
-        <id>161099</id>
-        <link href="https://cbc688.com/articles/bwxz?utm_source=blogfinder" />
-        <published>2026-06-21T23:26:59+08:00</published>
-        <author>
-            <name>CRIVU</name>
-            <uri>https://cbc688.com</uri>
-        </author>
-        <summary type="text"><![CDATA[丙午夏至]]></summary>
     </entry>
     </feed>
