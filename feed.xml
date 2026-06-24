@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-24T12:00:21+08:00</updated>
+    <updated>2026-06-24T16:00:42+08:00</updated>
         <entry>
         <title>魔兽世界插件 · 队伍查找器</title>
         <id>161162</id>
@@ -33,6 +33,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[大脑为对手机上瘾，或许是一种惯性]]></summary>
+    </entry>
+        <entry>
+        <title>Arduino UNO Q 开发板初体验</title>
+        <id>161163</id>
+        <link href="https://wusiyu.me/arduino-uno-q-board-first-look/?utm_source=blogfinder" />
+        <published>2026-06-24T06:01:31+08:00</published>
+        <author>
+            <name>WuSiYu Blog</name>
+            <uri>https://wusiyu.me</uri>
+        </author>
+        <summary type="text"><![CDATA[Arduino UNO Q 开发板初体验]]></summary>
     </entry>
         <entry>
         <title>Claude Code 最佳实践：从 Vibe Coding 到 Agentic Engineering</title>
@@ -121,6 +132,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1689】小林尚礼《梅里雪山：寻找十七位友人》]]></summary>
+    </entry>
+        <entry>
+        <title>一棵树</title>
+        <id>161165</id>
+        <link href="https://blog.yiyou.bj.cn/archives/yi-ke-shu?utm_source=blogfinder" />
+        <published>2026-06-23T16:09:59+08:00</published>
+        <author>
+            <name>益友网站</name>
+            <uri>https://blog.yiyou.bj.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[一棵树]]></summary>
     </entry>
         <entry>
         <title>六云666clouds：提供美/日/韩/美/德/英/香港原生双ISP住宅IP VPS 年付6折、月付8折、40元起优惠</title>
@@ -418,6 +440,17 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[反诈骚扰]]></summary>
+    </entry>
+        <entry>
+        <title>渣打银行内地见证开户攻略</title>
+        <id>161164</id>
+        <link href="https://blog.debuginn.com/p/bank-sc/?utm_source=blogfinder" />
+        <published>2026-06-22T22:34:20+08:00</published>
+        <author>
+            <name>Debug 客栈</name>
+            <uri>https://blog.debuginn.com</uri>
+        </author>
+        <summary type="text"><![CDATA[渣打银行内地见证开户攻略]]></summary>
     </entry>
         <entry>
         <title>去哈的高铁上拍到了沈阳大爷游野泳</title>
@@ -913,49 +946,5 @@
             <uri>https://www.skyue.com</uri>
         </author>
         <summary type="text"><![CDATA[端午节第三弹：Typecho Newsletter插件；及Claude Code + DeepSeek的使用体验]]></summary>
-    </entry>
-        <entry>
-        <title>记录自己第一个父亲节，最珍贵的礼物</title>
-        <id>161071</id>
-        <link href="https://www.aiwazi.com/3220.html?utm_source=blogfinder" />
-        <published>2026-06-21T15:35:48+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[记录自己第一个父亲节，最珍贵的礼物]]></summary>
-    </entry>
-        <entry>
-        <title>告别朝夕路途中的寻常风光</title>
-        <id>161047</id>
-        <link href="https://ryqi.top/p/goodbye-to-my-morning-commute/?utm_source=blogfinder" />
-        <published>2026-06-21T13:45:00+08:00</published>
-        <author>
-            <name>合荒小站</name>
-            <uri>https://ryqi.top</uri>
-        </author>
-        <summary type="text"><![CDATA[告别朝夕路途中的寻常风光]]></summary>
-    </entry>
-        <entry>
-        <title>没有运动手表的日子，我开始重视体感</title>
-        <id>161066</id>
-        <link href="https://hulatu.com/posts/2026/06/21/days-without-a-fitness-watch/?utm_source=blogfinder" />
-        <published>2026-06-21T13:02:13+08:00</published>
-        <author>
-            <name>胡拉图说</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[没有运动手表的日子，我开始重视体感]]></summary>
-    </entry>
-        <entry>
-        <title>2026-06-21T12:19:00+08:00</title>
-        <id>161050</id>
-        <link href="https://www.sanji.one/moments/20260621-1219/?utm_source=blogfinder" />
-        <published>2026-06-21T12:19:00+08:00</published>
-        <author>
-            <name>时光散记</name>
-            <uri>https://www.sanji.one</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-06-21T12:19:00+08:00]]></summary>
     </entry>
     </feed>
