@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-24T16:00:42+08:00</updated>
+    <updated>2026-06-24T20:00:14+08:00</updated>
+        <entry>
+        <title>每天的表扬就像是开玩笑</title>
+        <id>161170</id>
+        <link href="https://www.pgoj.top/archives/wan-xiao-biao-yang.html?utm_source=blogfinder" />
+        <published>2026-06-24T16:21:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[每天的表扬就像是开玩笑]]></summary>
+    </entry>
+        <entry>
+        <title>人工智能实训Day3：Agent智能体实践——工具调用与多技能协作</title>
+        <id>161173</id>
+        <link href="https://xingwangzhe.fun/posts/ai-training-agent-day3/?utm_source=blogfinder" />
+        <published>2026-06-24T16:00:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[人工智能实训Day3：Agent智能体实践——工具调用与多技能协作]]></summary>
+    </entry>
+        <entry>
+        <title>人工智能实训Day2：大模型对齐技术实践——SFT与DPO</title>
+        <id>161174</id>
+        <link href="https://xingwangzhe.fun/posts/ai-training-sft-dpo-day2/?utm_source=blogfinder" />
+        <published>2026-06-24T15:00:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[人工智能实训Day2：大模型对齐技术实践——SFT与DPO]]></summary>
+    </entry>
+        <entry>
+        <title>日更是没用的</title>
+        <id>161169</id>
+        <link href="https://joojen.com/archives/9040.html?utm_source=blogfinder" />
+        <published>2026-06-24T13:49:00+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[日更是没用的]]></summary>
+    </entry>
         <entry>
         <title>魔兽世界插件 · 队伍查找器</title>
         <id>161162</id>
@@ -22,6 +66,17 @@
             <uri>https://www.gaicas.com</uri>
         </author>
         <summary type="text"><![CDATA[魔兽世界插件 · 队伍查找器]]></summary>
+    </entry>
+        <entry>
+        <title>端午南京探店｜打卡 蜜雪冰城全球旗舰店+金粒门</title>
+        <id>161175</id>
+        <link href="https://blog.tibtob.cn/archives/92/?utm_source=blogfinder" />
+        <published>2026-06-24T09:31:00+08:00</published>
+        <author>
+            <name>拾音博客</name>
+            <uri>https://blog.tibtob.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[端午南京探店｜打卡 蜜雪冰城全球旗舰店+金粒门]]></summary>
     </entry>
         <entry>
         <title>大脑为对手机上瘾，或许是一种惯性</title>
@@ -44,6 +99,28 @@
             <uri>https://wusiyu.me</uri>
         </author>
         <summary type="text"><![CDATA[Arduino UNO Q 开发板初体验]]></summary>
+    </entry>
+        <entry>
+        <title>随思 #99 - 2026-06-23</title>
+        <id>161166</id>
+        <link href="http://qthinker.net/content/99?utm_source=blogfinder" />
+        <published>2026-06-24T01:11:53+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[随思 #99 - 2026-06-23]]></summary>
+    </entry>
+        <entry>
+        <title>随思 #98 - 2026-06-23</title>
+        <id>161167</id>
+        <link href="http://qthinker.net/content/98?utm_source=blogfinder" />
+        <published>2026-06-24T00:29:05+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[随思 #98 - 2026-06-23]]></summary>
     </entry>
         <entry>
         <title>Claude Code 最佳实践：从 Vibe Coding 到 Agentic Engineering</title>
@@ -77,6 +154,17 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[准备给猫咪换减肥猫粮]]></summary>
+    </entry>
+        <entry>
+        <title>随思 #97 - 2026-06-23</title>
+        <id>161168</id>
+        <link href="http://qthinker.net/content/97?utm_source=blogfinder" />
+        <published>2026-06-23T22:47:27+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[随思 #97 - 2026-06-23]]></summary>
     </entry>
         <entry>
         <title>[Ty云科技]香港一区 2c2g 20M</title>
@@ -132,6 +220,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1689】小林尚礼《梅里雪山：寻找十七位友人》]]></summary>
+    </entry>
+        <entry>
+        <title>数据观察日报 · 2026-06-23</title>
+        <id>161171</id>
+        <link href="http://hi-nikola.cn/2026/06/23/daily-observer/2026-06-23/?utm_source=blogfinder" />
+        <published>2026-06-23T17:00:00+08:00</published>
+        <author>
+            <name>Nikola</name>
+            <uri>https://hi-nikola.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[数据观察日报 · 2026-06-23]]></summary>
     </entry>
         <entry>
         <title>一棵树</title>
@@ -385,6 +484,17 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[写博客是为了什么]]></summary>
+    </entry>
+        <entry>
+        <title>在Linux上运行OpenAI Codex Desktop完整指南</title>
+        <id>161172</id>
+        <link href="https://blog.17lai.site/posts/fc764afd/?utm_source=blogfinder" />
+        <published>2026-06-23T00:00:00+08:00</published>
+        <author>
+            <name>夜法之书</name>
+            <uri>https://blog.17lai.site</uri>
+        </author>
+        <summary type="text"><![CDATA[在Linux上运行OpenAI Codex Desktop完整指南]]></summary>
     </entry>
         <entry>
         <title>Claude Code Plugins 官方插件目录：Claude Code 的插件生态系统</title>
@@ -891,60 +1001,5 @@
             <uri>https://nicksxs.me</uri>
         </author>
         <summary type="text"><![CDATA[浅析一下jpeg图片格式及其来源]]></summary>
-    </entry>
-        <entry>
-        <title>我做了一个免费的在线图片压缩工具——VeryPixel</title>
-        <id>161100</id>
-        <link href="https://veryjack.com/technique/verypixel/?utm_source=blogfinder" />
-        <published>2026-06-21T19:09:27+08:00</published>
-        <author>
-            <name>Jack&#039;s Space</name>
-            <uri>https://veryjack.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我做了一个免费的在线图片压缩工具——VeryPixel]]></summary>
-    </entry>
-        <entry>
-        <title>今天好像是父亲节</title>
-        <id>161060</id>
-        <link href="https://blog.biecui.com/28.html?utm_source=blogfinder" />
-        <published>2026-06-21T18:06:49+08:00</published>
-        <author>
-            <name>别催</name>
-            <uri>https://blog.biecui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[今天好像是父亲节]]></summary>
-    </entry>
-        <entry>
-        <title>《弹弓的魅力》</title>
-        <id>161101</id>
-        <link href="https://www.weiwenchao.com/2684.html?utm_source=blogfinder" />
-        <published>2026-06-21T17:09:15+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《弹弓的魅力》]]></summary>
-    </entry>
-        <entry>
-        <title>百花山爬了5小时</title>
-        <id>161051</id>
-        <link href="https://fxpai.com/article/baihuashanpale5xiaoshi?utm_source=blogfinder" />
-        <published>2026-06-21T16:44:05+08:00</published>
-        <author>
-            <name>非学·派</name>
-            <uri>https://fxpai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[百花山爬了5小时]]></summary>
-    </entry>
-        <entry>
-        <title>端午节第三弹：Typecho Newsletter插件；及Claude Code + DeepSeek的使用体验</title>
-        <id>161052</id>
-        <link href="https://www.skyue.com/26062116.html?utm_source=blogfinder" />
-        <published>2026-06-21T16:41:00+08:00</published>
-        <author>
-            <name>拾月</name>
-            <uri>https://www.skyue.com</uri>
-        </author>
-        <summary type="text"><![CDATA[端午节第三弹：Typecho Newsletter插件；及Claude Code + DeepSeek的使用体验]]></summary>
     </entry>
     </feed>
