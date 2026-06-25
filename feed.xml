@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-25T23:00:44+08:00</updated>
+    <updated>2026-06-26T00:00:44+08:00</updated>
         <entry>
         <title>开发者效率翻倍工具：Cockpit Tools支持AI IDE多账号与多实例并行运行</title>
         <id>161228</id>
@@ -1001,60 +1001,5 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[写博客是为了什么]]></summary>
-    </entry>
-        <entry>
-        <title>在Linux上运行OpenAI Codex Desktop完整指南</title>
-        <id>161172</id>
-        <link href="https://blog.17lai.site/posts/fc764afd/?utm_source=blogfinder" />
-        <published>2026-06-23T00:00:00+08:00</published>
-        <author>
-            <name>夜法之书</name>
-            <uri>https://blog.17lai.site</uri>
-        </author>
-        <summary type="text"><![CDATA[在Linux上运行OpenAI Codex Desktop完整指南]]></summary>
-    </entry>
-        <entry>
-        <title>Claude Code Plugins 官方插件目录：Claude Code 的插件生态系统</title>
-        <id>161160</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-23/claude-plugins-official/?utm_source=blogfinder" />
-        <published>2026-06-23T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude Code Plugins 官方插件目录：Claude Code 的插件生态系统]]></summary>
-    </entry>
-        <entry>
-        <title>Firecrawl：为 AI Agent 打造的大规模网页数据抓取 API</title>
-        <id>161124</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-23/firecrawl/?utm_source=blogfinder" />
-        <published>2026-06-23T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Firecrawl：为 AI Agent 打造的大规模网页数据抓取 API]]></summary>
-    </entry>
-        <entry>
-        <title>AI Website Cloner Template：用 AI 编程助手一键克隆任意网站</title>
-        <id>161123</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-23/ai-website-cloner-template/?utm_source=blogfinder" />
-        <published>2026-06-23T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[AI Website Cloner Template：用 AI 编程助手一键克隆任意网站]]></summary>
-    </entry>
-        <entry>
-        <title>香港機場維修區 拍攝飛機兼拍日落 一日遊記</title>
-        <id>161113</id>
-        <link href="https://impatrick.blog/airport-maintenance-area-sunset-photography/?utm_source=blogfinder" />
-        <published>2026-06-22T23:16:19+08:00</published>
-        <author>
-            <name>Patrick&#039;s Blog</name>
-            <uri>https://impatrick.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[香港機場維修區 拍攝飛機兼拍日落 一日遊記]]></summary>
     </entry>
     </feed>
