@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-26T16:00:49+08:00</updated>
+    <updated>2026-06-26T19:00:29+08:00</updated>
+        <entry>
+        <title>数据观察日报 · 2026-06-26</title>
+        <id>161275</id>
+        <link href="http://hi-nikola.cn/2026/06/26/daily-observer/2026-06-26/?utm_source=blogfinder" />
+        <published>2026-06-26T17:00:00+08:00</published>
+        <author>
+            <name>Nikola</name>
+            <uri>https://hi-nikola.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[数据观察日报 · 2026-06-26]]></summary>
+    </entry>
+        <entry>
+        <title>hi168停止对个人用户的运营</title>
+        <id>161276</id>
+        <link href="https://blog.xrbk.cn/post/86.html?utm_source=blogfinder" />
+        <published>2026-06-26T15:59:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://blog.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[hi168停止对个人用户的运营]]></summary>
+    </entry>
+        <entry>
+        <title>你的常识也许在他人的盲区</title>
+        <id>161273</id>
+        <link href="https://www.pgoj.top/archives/chang-shi-mang-qu.html?utm_source=blogfinder" />
+        <published>2026-06-26T15:47:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[你的常识也许在他人的盲区]]></summary>
+    </entry>
         <entry>
         <title>罪与余生</title>
         <id>161271</id>
@@ -178,6 +211,17 @@
         <summary type="text"><![CDATA[香港和台湾给我的两种感觉]]></summary>
     </entry>
         <entry>
+        <title>从猎户座之王到群星</title>
+        <id>161274</id>
+        <link href="https://blog.codingnow.com/2026/06/from_moo_to_stellaris.html?utm_source=blogfinder" />
+        <published>2026-06-25T21:23:09+08:00</published>
+        <author>
+            <name>云风的 BLOG</name>
+            <uri>https://blog.codingnow.com</uri>
+        </author>
+        <summary type="text"><![CDATA[从猎户座之王到群星]]></summary>
+    </entry>
+        <entry>
         <title>开发者效率翻倍工具：Cockpit Tools支持AI IDE多账号与多实例并行运行</title>
         <id>161228</id>
         <link href="https://www.wangdu.site/software/ai/2361.html?utm_source=blogfinder" />
@@ -209,6 +253,17 @@
             <uri>https://www.cry33.com</uri>
         </author>
         <summary type="text"><![CDATA[查分日沉默的朋友圈，藏着我们未尽的少年路]]></summary>
+    </entry>
+        <entry>
+        <title>第一次免费体验家政洗鞋服务</title>
+        <id>161272</id>
+        <link href="https://www.aiwazi.com/3236.html?utm_source=blogfinder" />
+        <published>2026-06-25T17:03:10+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[第一次免费体验家政洗鞋服务]]></summary>
     </entry>
         <entry>
         <title>世界杯瞎话第六季——鸿雁飞啊一双双</title>
@@ -990,27 +1045,5 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1689】小林尚礼《梅里雪山：寻找十七位友人》]]></summary>
-    </entry>
-        <entry>
-        <title>数据观察日报 · 2026-06-23</title>
-        <id>161171</id>
-        <link href="http://hi-nikola.cn/2026/06/23/daily-observer/2026-06-23/?utm_source=blogfinder" />
-        <published>2026-06-23T17:00:00+08:00</published>
-        <author>
-            <name>Nikola</name>
-            <uri>https://hi-nikola.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[数据观察日报 · 2026-06-23]]></summary>
-    </entry>
-        <entry>
-        <title>一棵树</title>
-        <id>161165</id>
-        <link href="https://blog.yiyou.bj.cn/archives/yi-ke-shu?utm_source=blogfinder" />
-        <published>2026-06-23T16:09:59+08:00</published>
-        <author>
-            <name>益友网站</name>
-            <uri>https://blog.yiyou.bj.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[一棵树]]></summary>
     </entry>
     </feed>
