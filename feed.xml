@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-26T23:00:47+08:00</updated>
+    <updated>2026-06-27T00:00:19+08:00</updated>
+        <entry>
+        <title>初夏荷花开-2026</title>
+        <id>161283</id>
+        <link href="https://xyzbz.cn/archives/1553/?utm_source=blogfinder" />
+        <published>2026-06-26T23:07:00+08:00</published>
+        <author>
+            <name>网友小宋</name>
+            <uri>https://xyzbz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[初夏荷花开-2026]]></summary>
+    </entry>
+        <entry>
+        <title>Zine#53 - 第一次录󠄃製視頻、要請作者喝咖啡嗎？</title>
+        <id>161284</id>
+        <link href="https://taxodium.ink/53.html?utm_source=blogfinder" />
+        <published>2026-06-26T20:00:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[Zine#53 - 第一次录󠄃製視頻、要請作者喝咖啡嗎？]]></summary>
+    </entry>
         <entry>
         <title>上周拔牙这周补牙😭</title>
         <id>161279</id>
@@ -396,6 +418,17 @@
             <uri>https://blog.giveanornot.com</uri>
         </author>
         <summary type="text"><![CDATA[一點點]]></summary>
+    </entry>
+        <entry>
+        <title>在紫阳花开的季节修TEM</title>
+        <id>161282</id>
+        <link href="https://slykiten.com/life-note/troubleshooting_for_tem_at_hydrangea_season/?utm_source=blogfinder" />
+        <published>2026-06-25T12:26:01+08:00</published>
+        <author>
+            <name>狡猫三窝</name>
+            <uri>https://slykiten.com</uri>
+        </author>
+        <summary type="text"><![CDATA[在紫阳花开的季节修TEM]]></summary>
     </entry>
         <entry>
         <title>读《虚构一九八七》</title>
@@ -979,49 +1012,5 @@
             <uri>https://qthinker.net</uri>
         </author>
         <summary type="text"><![CDATA[随思 #98 - 2026-06-23]]></summary>
-    </entry>
-        <entry>
-        <title>Hiring Agent：基于 LLM 的开源简历评分系统，解析 PDF 并输出可解释评估报告</title>
-        <id>161202</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-24/hiring-agent/?utm_source=blogfinder" />
-        <published>2026-06-24T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Hiring Agent：基于 LLM 的开源简历评分系统，解析 PDF 并输出可解释评估报告]]></summary>
-    </entry>
-        <entry>
-        <title>Flutter 深度解析：Google 跨平台 UI 框架的技术架构与实战指南</title>
-        <id>161201</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-24/flutter/?utm_source=blogfinder" />
-        <published>2026-06-24T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Flutter 深度解析：Google 跨平台 UI 框架的技术架构与实战指南]]></summary>
-    </entry>
-        <entry>
-        <title>Claude Code 最佳实践：从 Vibe Coding 到 Agentic Engineering</title>
-        <id>161159</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-24/claude-code-best-practice/?utm_source=blogfinder" />
-        <published>2026-06-24T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude Code 最佳实践：从 Vibe Coding 到 Agentic Engineering]]></summary>
-    </entry>
-        <entry>
-        <title>2026 欧洲之旅：在意大利打车</title>
-        <id>161143</id>
-        <link href="https://www.ixiqin.com/2026/06/23/2026-european-tour-taking-a-taxi-in-italy/?utm_source=blogfinder" />
-        <published>2026-06-23T23:55:41+08:00</published>
-        <author>
-            <name>西秦公子</name>
-            <uri>https://www.ixiqin.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026 欧洲之旅：在意大利打车]]></summary>
     </entry>
     </feed>
