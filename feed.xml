@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-27T23:00:45+08:00</updated>
+    <updated>2026-06-28T00:00:30+08:00</updated>
         <entry>
         <title>夏天就好这一口，冰镇酸辣鸡爪</title>
         <id>161311</id>
@@ -946,115 +946,5 @@
             <uri>https://www.justzht.com</uri>
         </author>
         <summary type="text"><![CDATA[2026.6.24]]></summary>
-    </entry>
-        <entry>
-        <title>建站小结3.0</title>
-        <id>161298</id>
-        <link href="https://xeonzilla.top/blog-summary-season3.md?utm_source=blogfinder" />
-        <published>2026-06-25T00:00:00+08:00</published>
-        <author>
-            <name>Xeonzilla’s Note</name>
-            <uri>https://xeonzilla.top</uri>
-        </author>
-        <summary type="text"><![CDATA[建站小结3.0]]></summary>
-    </entry>
-        <entry>
-        <title>TREK: 开源自托管旅行规划协作平台</title>
-        <id>161242</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-25/trek/?utm_source=blogfinder" />
-        <published>2026-06-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[TREK: 开源自托管旅行规划协作平台]]></summary>
-    </entry>
-        <entry>
-        <title>AI Berkshire：用 Claude Code 打造你的私人投研团队</title>
-        <id>161241</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-25/ai-berkshire/?utm_source=blogfinder" />
-        <published>2026-06-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[AI Berkshire：用 Claude Code 打造你的私人投研团队]]></summary>
-    </entry>
-        <entry>
-        <title>no-mistakes：一个 Git AI 审核门卫，让每次 PR 都干净体面</title>
-        <id>161205</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-25/no-mistakes/?utm_source=blogfinder" />
-        <published>2026-06-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[no-mistakes：一个 Git AI 审核门卫，让每次 PR 都干净体面]]></summary>
-    </entry>
-        <entry>
-        <title>zapret-discord-youtube：绕过 ISP 深度包检测的利器</title>
-        <id>161200</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-25/zapret-discord-youtube/?utm_source=blogfinder" />
-        <published>2026-06-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[zapret-discord-youtube：绕过 ISP 深度包检测的利器]]></summary>
-    </entry>
-        <entry>
-        <title>Orca：为 100x 开发者打造的 AI 编排器——并行 Agent 工作流终极 IDE</title>
-        <id>161199</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-25/orca/?utm_source=blogfinder" />
-        <published>2026-06-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Orca：为 100x 开发者打造的 AI 编排器——并行 Agent 工作流终极 IDE]]></summary>
-    </entry>
-        <entry>
-        <title>Headunit Revived：把 Android 平板变成 Android Auto 车机屏幕</title>
-        <id>161198</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-25/headunit-revived/?utm_source=blogfinder" />
-        <published>2026-06-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Headunit Revived：把 Android 平板变成 Android Auto 车机屏幕]]></summary>
-    </entry>
-        <entry>
-        <title>DESIGN.md：让 AI 编码助手理解你的设计系统</title>
-        <id>161197</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-25/design-md/?utm_source=blogfinder" />
-        <published>2026-06-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[DESIGN.md：让 AI 编码助手理解你的设计系统]]></summary>
-    </entry>
-        <entry>
-        <title>我的麦当劳社会兼职时光</title>
-        <id>161224</id>
-        <link href="https://t-t.live/archives/iJtd3uqR?utm_source=blogfinder" />
-        <published>2026-06-24T23:20:24+08:00</published>
-        <author>
-            <name>团团生活志</name>
-            <uri>https://t-t.live</uri>
-        </author>
-        <summary type="text"><![CDATA[我的麦当劳社会兼职时光]]></summary>
-    </entry>
-        <entry>
-        <title>每日牢骚：便宜宾馆历险记</title>
-        <id>161227</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1392/?utm_source=blogfinder" />
-        <published>2026-06-24T23:18:00+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[每日牢骚：便宜宾馆历险记]]></summary>
     </entry>
     </feed>
