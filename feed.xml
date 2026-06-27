@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-27T12:00:26+08:00</updated>
+    <updated>2026-06-27T16:00:40+08:00</updated>
+        <entry>
+        <title>朋友说帮我测测防御，结果打出了889MB/s的恐怖流量</title>
+        <id>161303</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/117.html?utm_source=blogfinder" />
+        <published>2026-06-27T14:10:08+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[朋友说帮我测测防御，结果打出了889MB/s的恐怖流量]]></summary>
+    </entry>
+        <entry>
+        <title>任意形状截图与图片裁剪工具</title>
+        <id>161304</id>
+        <link href="https://www.zhyok.cn/archives/434/?utm_source=blogfinder" />
+        <published>2026-06-27T11:51:00+08:00</published>
+        <author>
+            <name>秋記 Autumn</name>
+            <uri>https://www.zhyok.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[任意形状截图与图片裁剪工具]]></summary>
+    </entry>
+        <entry>
+        <title>熊猫小A: 镰仓，江之岛和河口湖附近。最近紫阳花开得正盛呢。</title>
+        <id>161300</id>
+        <link href="https://blog.imalan.cn/archives/memo-20260627-1137/?utm_source=blogfinder" />
+        <published>2026-06-27T11:36:39+08:00</published>
+        <author>
+            <name>失眠海峡</name>
+            <uri>https://blog.imalan.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[熊猫小A: 镰仓，江之岛和河口湖附近。最近紫阳花开得正盛呢。]]></summary>
+    </entry>
+        <entry>
+        <title>岐阜下吕温泉</title>
+        <id>161301</id>
+        <link href="https://shuiba.co/gero-onsen?utm_source=blogfinder" />
+        <published>2026-06-27T10:00:00+08:00</published>
+        <author>
+            <name>水八口的冥想盆</name>
+            <uri>https://shuiba.co</uri>
+        </author>
+        <summary type="text"><![CDATA[岐阜下吕温泉]]></summary>
+    </entry>
+        <entry>
+        <title>您受累，搞个大新闻儿！</title>
+        <id>161302</id>
+        <link href="https://mobius.blog/24866.html?utm_source=blogfinder" />
+        <published>2026-06-27T09:00:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[您受累，搞个大新闻儿！]]></summary>
+    </entry>
         <entry>
         <title>折腾了一个博客聚合程序</title>
         <id>161291</id>
@@ -990,49 +1045,5 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[每天的表扬就像是开玩笑]]></summary>
-    </entry>
-        <entry>
-        <title>人工智能实训Day3：Agent智能体实践——工具调用与多技能协作</title>
-        <id>161173</id>
-        <link href="https://xingwangzhe.fun/posts/ai-training-agent-day3/?utm_source=blogfinder" />
-        <published>2026-06-24T16:00:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[人工智能实训Day3：Agent智能体实践——工具调用与多技能协作]]></summary>
-    </entry>
-        <entry>
-        <title>人工智能实训Day2：大模型对齐技术实践——SFT与DPO</title>
-        <id>161174</id>
-        <link href="https://xingwangzhe.fun/posts/ai-training-sft-dpo-day2/?utm_source=blogfinder" />
-        <published>2026-06-24T15:00:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[人工智能实训Day2：大模型对齐技术实践——SFT与DPO]]></summary>
-    </entry>
-        <entry>
-        <title>日更是没用的</title>
-        <id>161169</id>
-        <link href="https://joojen.com/archives/9040.html?utm_source=blogfinder" />
-        <published>2026-06-24T13:49:00+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[日更是没用的]]></summary>
-    </entry>
-        <entry>
-        <title>又是一场送别</title>
-        <id>161189</id>
-        <link href="https://ilogs.cn/2026/06/24/386.html?utm_source=blogfinder" />
-        <published>2026-06-24T12:59:00+08:00</published>
-        <author>
-            <name>我的日志</name>
-            <uri>https://ilogs.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[又是一场送别]]></summary>
     </entry>
     </feed>
