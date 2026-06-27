@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-27T16:00:40+08:00</updated>
+    <updated>2026-06-27T18:00:24+08:00</updated>
+        <entry>
+        <title>不让青春留白</title>
+        <id>161309</id>
+        <link href="https://yishu-life.com/index.php/archives/485.html?utm_source=blogfinder" />
+        <published>2026-06-27T16:57:11+08:00</published>
+        <author>
+            <name>树下语</name>
+            <uri>https://yishu-life.com</uri>
+        </author>
+        <summary type="text"><![CDATA[不让青春留白]]></summary>
+    </entry>
+        <entry>
+        <title>Je déteste la vi(ll)e</title>
+        <id>161308</id>
+        <link href="https://www.geedea.pro/article/je-deteste-la-ville/?utm_source=blogfinder" />
+        <published>2026-06-27T16:40:03+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[Je déteste la vi(ll)e]]></summary>
+    </entry>
+        <entry>
+        <title>AI写会议纪要的挑战</title>
+        <id>161305</id>
+        <link href="https://fxpai.com/article/aixiehuiyijiyaodetiaozhan?utm_source=blogfinder" />
+        <published>2026-06-27T16:15:10+08:00</published>
+        <author>
+            <name>非学·派</name>
+            <uri>https://fxpai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[AI写会议纪要的挑战]]></summary>
+    </entry>
         <entry>
         <title>朋友说帮我测测防御，结果打出了889MB/s的恐怖流量</title>
         <id>161303</id>
@@ -22,6 +55,17 @@
             <uri>https://qaqbuyan.com:88</uri>
         </author>
         <summary type="text"><![CDATA[朋友说帮我测测防御，结果打出了889MB/s的恐怖流量]]></summary>
+    </entry>
+        <entry>
+        <title>&amp;quot;微博客&amp;quot;的重生与否之相关历程</title>
+        <id>161307</id>
+        <link href="https://luolt.cn/archives/quot-quot.html?utm_source=blogfinder" />
+        <published>2026-06-27T13:30:30+08:00</published>
+        <author>
+            <name>洛丽糖</name>
+            <uri>http://luolt.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[&amp;quot;微博客&amp;quot;的重生与否之相关历程]]></summary>
     </entry>
         <entry>
         <title>任意形状截图与图片裁剪工具</title>
@@ -77,6 +121,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[折腾了一个博客聚合程序]]></summary>
+    </entry>
+        <entry>
+        <title>A股&quot;老登资产&quot;系统性出清：2026年5-6月K型分化全景分析</title>
+        <id>161306</id>
+        <link href="http://qthinker.net/content/100?utm_source=blogfinder" />
+        <published>2026-06-27T04:46:52+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[A股&quot;老登资产&quot;系统性出清：2026年5-6月K型分化全景分析]]></summary>
     </entry>
         <entry>
         <title>被短剧迷了眼</title>
@@ -1023,27 +1078,5 @@
             <uri>https://www.ixiqin.com</uri>
         </author>
         <summary type="text"><![CDATA[我的 AI Coding Guide]]></summary>
-    </entry>
-        <entry>
-        <title>人生的第一台单反：尼康D3200</title>
-        <id>161177</id>
-        <link href="https://ygz.ink/archives/5347.html?utm_source=blogfinder" />
-        <published>2026-06-24T17:53:42+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[人生的第一台单反：尼康D3200]]></summary>
-    </entry>
-        <entry>
-        <title>每天的表扬就像是开玩笑</title>
-        <id>161170</id>
-        <link href="https://www.pgoj.top/archives/wan-xiao-biao-yang.html?utm_source=blogfinder" />
-        <published>2026-06-24T16:21:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[每天的表扬就像是开玩笑]]></summary>
     </entry>
     </feed>
