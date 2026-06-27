@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-27T20:00:33+08:00</updated>
+    <updated>2026-06-27T23:00:45+08:00</updated>
+        <entry>
+        <title>夏天就好这一口，冰镇酸辣鸡爪</title>
+        <id>161311</id>
+        <link href="https://zhujay.com/talk/talk_detail.html?id=1246&amp;utm_source=blogfinder" />
+        <published>2026-06-27T21:58:27+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[夏天就好这一口，冰镇酸辣鸡爪]]></summary>
+    </entry>
+        <entry>
+        <title>Java侧开源报表大屏 - jimureport 逆向学习及二开思路</title>
+        <id>161314</id>
+        <link href="https://www.51it.wang/ll/Java-jimureport?utm_source=blogfinder" />
+        <published>2026-06-27T21:31:00+08:00</published>
+        <author>
+            <name>Lcry</name>
+            <uri>https://www.51it.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[Java侧开源报表大屏 - jimureport 逆向学习及二开思路]]></summary>
+    </entry>
+        <entry>
+        <title>【也闲谈·第四季】十六：此间之乐不足为外人道也</title>
+        <id>161313</id>
+        <link href="http://www.qncd.com/?p=12882&amp;utm_source=blogfinder" />
+        <published>2026-06-27T21:19:26+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【也闲谈·第四季】十六：此间之乐不足为外人道也]]></summary>
+    </entry>
         <entry>
         <title>不让青春留白</title>
         <id>161309</id>
@@ -22,6 +55,17 @@
             <uri>https://yishu-life.com</uri>
         </author>
         <summary type="text"><![CDATA[不让青春留白]]></summary>
+    </entry>
+        <entry>
+        <title>[Advin] 堪萨斯城 KVM Standard VPS - KVM Standard S</title>
+        <id>161315</id>
+        <link href="https://blog.yeqing.net/Advin-Standard-VPS-Standard-S/?utm_source=blogfinder" />
+        <published>2026-06-27T16:50:58+08:00</published>
+        <author>
+            <name>夜轻 Blog</name>
+            <uri>https://blog.yeqing.net</uri>
+        </author>
+        <summary type="text"><![CDATA[[Advin] 堪萨斯城 KVM Standard VPS - KVM Standard S]]></summary>
     </entry>
         <entry>
         <title>Je déteste la vi(ll)e</title>
@@ -143,6 +187,17 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[被短剧迷了眼]]></summary>
+    </entry>
+        <entry>
+        <title>理解 Skill —— 读《图解 Skill》</title>
+        <id>161312</id>
+        <link href="https://blog.devtang.com/2026/06/26/illustrated-skill-review/?utm_source=blogfinder" />
+        <published>2026-06-27T03:04:00+08:00</published>
+        <author>
+            <name>唐巧的博客</name>
+            <uri>https://blog.devtang.com</uri>
+        </author>
+        <summary type="text"><![CDATA[理解 Skill —— 读《图解 Skill》]]></summary>
     </entry>
         <entry>
         <title>孩子小升初的事情尘埃落定</title>
@@ -1001,38 +1056,5 @@
             <uri>https://blog.mfwt.top</uri>
         </author>
         <summary type="text"><![CDATA[每日牢骚：便宜宾馆历险记]]></summary>
-    </entry>
-        <entry>
-        <title>我的被骗史</title>
-        <id>161212</id>
-        <link href="https://blog.solazy.me/20260624/?utm_source=blogfinder" />
-        <published>2026-06-24T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[我的被骗史]]></summary>
-    </entry>
-        <entry>
-        <title>不会剪视频？OpenMontage让你一句话自动生成完整短视频</title>
-        <id>161179</id>
-        <link href="https://www.wangdu.site/software/ai/2360.html?utm_source=blogfinder" />
-        <published>2026-06-24T20:39:26+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[不会剪视频？OpenMontage让你一句话自动生成完整短视频]]></summary>
-    </entry>
-        <entry>
-        <title>Tanso：一键搜索Bocha、火山引擎、知乎的搜索中枢</title>
-        <id>161180</id>
-        <link href="https://www.wangdu.site/software/ai/2359.html?utm_source=blogfinder" />
-        <published>2026-06-24T20:11:40+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[Tanso：一键搜索Bocha、火山引擎、知乎的搜索中枢]]></summary>
     </entry>
     </feed>
