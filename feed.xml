@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-28T16:00:35+08:00</updated>
+    <updated>2026-06-28T19:00:18+08:00</updated>
+        <entry>
+        <title>行者微评论225-娘们，走个面儿</title>
+        <id>161403</id>
+        <link href="http://stuit.cn/Xiaolu/Post/1619.html?utm_source=blogfinder" />
+        <published>2026-06-28T17:36:55+08:00</published>
+        <author>
+            <name>风雨行者</name>
+            <uri>http://stuit.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[行者微评论225-娘们，走个面儿]]></summary>
+    </entry>
+        <entry>
+        <title>d3-force-3d 构建时预计算 3D 网络布局，减少客户端渲染压力</title>
+        <id>161404</id>
+        <link href="https://xingwangzhe.fun/posts/d3-force-precompute-3d/?utm_source=blogfinder" />
+        <published>2026-06-28T15:17:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[d3-force-3d 构建时预计算 3D 网络布局，减少客户端渲染压力]]></summary>
+    </entry>
+        <entry>
+        <title>是朋友就不在乎虚言套语</title>
+        <id>161400</id>
+        <link href="https://www.pgoj.top/archives/peng-you-qing-yi.html?utm_source=blogfinder" />
+        <published>2026-06-28T14:13:29+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[是朋友就不在乎虚言套语]]></summary>
+    </entry>
+        <entry>
+        <title>Magento 服务器负载居高不下问题排除系列之二，屏蔽恶意爬虫</title>
+        <id>161401</id>
+        <link href="https://www.sunzhongwei.com/magento-server-high-load-problem-elimination-series-2-blocking-malicious-crawlers?utm_source=blogfinder" />
+        <published>2026-06-28T13:21:31+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Magento 服务器负载居高不下问题排除系列之二，屏蔽恶意爬虫]]></summary>
+    </entry>
+        <entry>
+        <title>RuoYi Vue 版本如何启动后台服务和前端</title>
+        <id>161402</id>
+        <link href="https://www.sunzhongwei.com/how-start-backend-services-frontend-ruoyi-vue-version?utm_source=blogfinder" />
+        <published>2026-06-28T12:10:47+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[RuoYi Vue 版本如何启动后台服务和前端]]></summary>
+    </entry>
         <entry>
         <title>学校定了来租房</title>
         <id>161352</id>
@@ -165,6 +220,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[爬山]]></summary>
+    </entry>
+        <entry>
+        <title>南方遥远，故土漫长｜《遥望南方的童年》观影记</title>
+        <id>161405</id>
+        <link href="https://mecll.com/1060.html?utm_source=blogfinder" />
+        <published>2026-06-27T19:36:27+08:00</published>
+        <author>
+            <name>流浪天下</name>
+            <uri>https://mecll.com</uri>
+        </author>
+        <summary type="text"><![CDATA[南方遥远，故土漫长｜《遥望南方的童年》观影记]]></summary>
     </entry>
         <entry>
         <title>友链图谱 2.0 - 3D 更美观的可视化</title>
@@ -880,38 +946,5 @@
             <uri>https://fxpai.com</uri>
         </author>
         <summary type="text"><![CDATA[头一次坐支线小飞机]]></summary>
-    </entry>
-        <entry>
-        <title>论文答辩过了</title>
-        <id>161280</id>
-        <link href="https://ygz.ink/archives/5367.html?utm_source=blogfinder" />
-        <published>2026-06-25T18:42:19+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[论文答辩过了]]></summary>
-    </entry>
-        <entry>
-        <title>查分日沉默的朋友圈，藏着我们未尽的少年路</title>
-        <id>161222</id>
-        <link href="https://www.cry33.com/archives/1334.html?utm_source=blogfinder" />
-        <published>2026-06-25T17:35:07+08:00</published>
-        <author>
-            <name>逍遥隐士</name>
-            <uri>https://www.cry33.com</uri>
-        </author>
-        <summary type="text"><![CDATA[查分日沉默的朋友圈，藏着我们未尽的少年路]]></summary>
-    </entry>
-        <entry>
-        <title>第一次免费体验家政洗鞋服务</title>
-        <id>161272</id>
-        <link href="https://www.aiwazi.com/3236.html?utm_source=blogfinder" />
-        <published>2026-06-25T17:03:10+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[第一次免费体验家政洗鞋服务]]></summary>
     </entry>
     </feed>
