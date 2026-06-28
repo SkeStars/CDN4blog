@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-28T23:00:44+08:00</updated>
+    <updated>2026-06-29T00:00:36+08:00</updated>
+        <entry>
+        <title>JustWrite：只要写，就行了</title>
+        <id>161421</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1388/?utm_source=blogfinder" />
+        <published>2026-06-28T23:53:46+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[JustWrite：只要写，就行了]]></summary>
+    </entry>
+        <entry>
+        <title>书源发布地址</title>
+        <id>161422</id>
+        <link href="http://www.tucong.vip/archives/shu-yuan-fa-bu-di-zhi?utm_source=blogfinder" />
+        <published>2026-06-28T22:41:36+08:00</published>
+        <author>
+            <name>Tea Bush</name>
+            <uri>https://www.tucong.vip</uri>
+        </author>
+        <summary type="text"><![CDATA[书源发布地址]]></summary>
+    </entry>
         <entry>
         <title>从 app.test 到小锁：valet 本地 HTTPS 的完整链路</title>
         <id>161413</id>
@@ -101,6 +123,17 @@
         <summary type="text"><![CDATA[解决 Codex 使用 cc-switch 使用第三方模型报错 We&amp;#039;re currently experiencing high demand, which may cause temporary errors.]]></summary>
     </entry>
         <entry>
+        <title>唯卓仕微距环长期闲置，在闲鱼成功卖掉，又回本132元</title>
+        <id>161420</id>
+        <link href="https://www.bufanz.com/20260628691.html?utm_source=blogfinder" />
+        <published>2026-06-28T20:24:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[唯卓仕微距环长期闲置，在闲鱼成功卖掉，又回本132元]]></summary>
+    </entry>
+        <entry>
         <title>Kopia配合OpenList安全备份个人数据到网盘</title>
         <id>161412</id>
         <link href="https://www.nekopara.uk/archives/Use_Kopia_Backup.html?utm_source=blogfinder" />
@@ -121,6 +154,17 @@
             <uri>http://stuit.cn</uri>
         </author>
         <summary type="text"><![CDATA[行者微评论225-娘们，走个面儿]]></summary>
+    </entry>
+        <entry>
+        <title>AirPods 一个月丢三次</title>
+        <id>161419</id>
+        <link href="https://blog.solazy.me/20260628/?utm_source=blogfinder" />
+        <published>2026-06-28T17:30:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[AirPods 一个月丢三次]]></summary>
     </entry>
         <entry>
         <title>d3-force-3d 构建时预计算 3D 网络布局，减少客户端渲染压力</title>
@@ -473,6 +517,17 @@
             <uri>http://luolt.cn</uri>
         </author>
         <summary type="text"><![CDATA[&amp;quot;微博客&amp;quot;的重生与否之相关历程]]></summary>
+    </entry>
+        <entry>
+        <title>湖北！</title>
+        <id>161418</id>
+        <link href="https://blog.kfdzcoffee.cn/archives/hu-bei?utm_source=blogfinder" />
+        <published>2026-06-27T12:07:59+08:00</published>
+        <author>
+            <name>咖啡豆子 coffee 的小站</name>
+            <uri>https://blog.kfdzcoffee.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[湖北！]]></summary>
     </entry>
         <entry>
         <title>任意形状截图与图片裁剪工具</title>
@@ -935,82 +990,5 @@
             <uri>https://wiki.eryajf.net</uri>
         </author>
         <summary type="text"><![CDATA[学习周刊-总第269期-2026年第26周]]></summary>
-    </entry>
-        <entry>
-        <title>SimpleX Chat：首个无用户标识的隐私即时通讯平台</title>
-        <id>161297</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-26/simplex-chat/?utm_source=blogfinder" />
-        <published>2026-06-26T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[SimpleX Chat：首个无用户标识的隐私即时通讯平台]]></summary>
-    </entry>
-        <entry>
-        <title>MediaCrawler：多平台自媒体数据采集利器，一键爬取小红书、抖音、B站</title>
-        <id>161267</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-26/mediacrawler/?utm_source=blogfinder" />
-        <published>2026-06-26T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[MediaCrawler：多平台自媒体数据采集利器，一键爬取小红书、抖音、B站]]></summary>
-    </entry>
-        <entry>
-        <title>Page Agent — 运行在网页里的 GUI Agent，用自然语言控制 Web 界面</title>
-        <id>161240</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-26/page-agent/?utm_source=blogfinder" />
-        <published>2026-06-26T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Page Agent — 运行在网页里的 GUI Agent，用自然语言控制 Web 界面]]></summary>
-    </entry>
-        <entry>
-        <title>OpenSEO：开源替代 Semrush/Ahrefs 的 AI 友好型 SEO 工具</title>
-        <id>161239</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-26/open-seo/?utm_source=blogfinder" />
-        <published>2026-06-26T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenSEO：开源替代 Semrush/Ahrefs 的 AI 友好型 SEO 工具]]></summary>
-    </entry>
-        <entry>
-        <title>MinerU：高精度文档解析引擎，一键转换 PDF/DOCX/PPTX/XLSX 为 Markdown</title>
-        <id>161238</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-26/mineru/?utm_source=blogfinder" />
-        <published>2026-06-26T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[MinerU：高精度文档解析引擎，一键转换 PDF/DOCX/PPTX/XLSX 为 Markdown]]></summary>
-    </entry>
-        <entry>
-        <title>CasaOS：打造简约优雅的家庭个人云操作系统</title>
-        <id>161237</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-26/casaos/?utm_source=blogfinder" />
-        <published>2026-06-26T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[CasaOS：打造简约优雅的家庭个人云操作系统]]></summary>
-    </entry>
-        <entry>
-        <title>AWS Agent Toolkit for AWS：让 AI 编码代理无缝玩转 AWS 全栈服务</title>
-        <id>161236</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-26/agent-toolkit-for-aws/?utm_source=blogfinder" />
-        <published>2026-06-26T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[AWS Agent Toolkit for AWS：让 AI 编码代理无缝玩转 AWS 全栈服务]]></summary>
     </entry>
     </feed>
