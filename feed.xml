@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-29T18:00:40+08:00</updated>
+    <updated>2026-06-29T22:00:52+08:00</updated>
+        <entry>
+        <title>2026-06小记</title>
+        <id>162041</id>
+        <link href="https://blog.storia.ren/posts/write-202606/?utm_source=blogfinder" />
+        <published>2026-06-29T19:57:11+08:00</published>
+        <author>
+            <name>绘星里</name>
+            <uri>https://blog.storia.ren</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-06小记]]></summary>
+    </entry>
         <entry>
         <title>这网站像是仿照我的又不像是</title>
         <id>162040</id>
@@ -22,6 +33,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[这网站像是仿照我的又不像是]]></summary>
+    </entry>
+        <entry>
+        <title>让无知者更顽固的短视频平台</title>
+        <id>162043</id>
+        <link href="https://www.pgoj.top/archives/duan-shi-pin-wu-zhi-1.html?utm_source=blogfinder" />
+        <published>2026-06-29T16:21:03+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[让无知者更顽固的短视频平台]]></summary>
     </entry>
         <entry>
         <title>八下语文 · 期末高频易错字音字形总结</title>
@@ -451,6 +473,17 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[唯卓仕微距环长期闲置，在闲鱼成功卖掉，又回本132元]]></summary>
+    </entry>
+        <entry>
+        <title>记忆里的屋子（一）</title>
+        <id>162042</id>
+        <link href="https://blog.goodboyboy.top/posts/930007696.html?utm_source=blogfinder" />
+        <published>2026-06-28T20:18:55+08:00</published>
+        <author>
+            <name>GoodBoyboy</name>
+            <uri>https://blog.goodboyboy.top</uri>
+        </author>
+        <summary type="text"><![CDATA[记忆里的屋子（一）]]></summary>
     </entry>
         <entry>
         <title>Kopia配合OpenList安全备份个人数据到网盘</title>
@@ -1584,60 +1617,5 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[鼠标垫与垃圾袋]]></summary>
-    </entry>
-        <entry>
-        <title>Zine#53 - 第一次录󠄃製視頻、要請作者喝咖啡嗎？</title>
-        <id>161284</id>
-        <link href="https://taxodium.ink/53.html?utm_source=blogfinder" />
-        <published>2026-06-26T20:00:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[Zine#53 - 第一次录󠄃製視頻、要請作者喝咖啡嗎？]]></summary>
-    </entry>
-        <entry>
-        <title>教程：RK98键盘 全部22种灯效 (在线视频)</title>
-        <id>161310</id>
-        <link href="https://www.bat69.com/20260626/%e6%95%99%e7%a8%8b%ef%bc%9ark98%e9%94%ae%e7%9b%98-%e5%85%a8%e9%83%a822%e7%a7%8d%e7%81%af%e6%95%88-%e5%9c%a8%e7%ba%bf%e8%a7%86%e9%a2%91.html?utm_source=blogfinder" />
-        <published>2026-06-26T19:12:34+08:00</published>
-        <author>
-            <name>严重浪漫</name>
-            <uri>https://www.bat69.com</uri>
-        </author>
-        <summary type="text"><![CDATA[教程：RK98键盘 全部22种灯效 (在线视频)]]></summary>
-    </entry>
-        <entry>
-        <title>上周拔牙这周补牙😭</title>
-        <id>161279</id>
-        <link href="https://ygz.ink/archives/5373.html?utm_source=blogfinder" />
-        <published>2026-06-26T18:58:22+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[上周拔牙这周补牙😭]]></summary>
-    </entry>
-        <entry>
-        <title>告别 Pagefind，用 Orama 实现静态博客的全文搜索</title>
-        <id>161290</id>
-        <link href="https://xingwangzhe.fun/posts/orama-search-replace-pagefind/?utm_source=blogfinder" />
-        <published>2026-06-26T18:30:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[告别 Pagefind，用 Orama 实现静态博客的全文搜索]]></summary>
-    </entry>
-        <entry>
-        <title>经验是资本，但也可以是偏见</title>
-        <id>161277</id>
-        <link href="https://hiwannz.com/archives/1277.html?utm_source=blogfinder" />
-        <published>2026-06-26T18:01:00+08:00</published>
-        <author>
-            <name>见字如面</name>
-            <uri>https://hiwannz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[经验是资本，但也可以是偏见]]></summary>
     </entry>
     </feed>
