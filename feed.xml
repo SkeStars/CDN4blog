@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-29T22:00:52+08:00</updated>
+    <updated>2026-06-30T00:00:27+08:00</updated>
+        <entry>
+        <title>第一节课</title>
+        <id>162045</id>
+        <link href="https://www.vergilisme.com/index.php/2026/06/29/2400.html?utm_source=blogfinder" />
+        <published>2026-06-29T23:39:00+08:00</published>
+        <author>
+            <name>八咫乌</name>
+            <uri>https://www.vergilisme.com</uri>
+        </author>
+        <summary type="text"><![CDATA[第一节课]]></summary>
+    </entry>
+        <entry>
+        <title>恢复师承关系表功能页面</title>
+        <id>162046</id>
+        <link href="https://blog.dao.js.cn/posts/wJP9?utm_source=blogfinder" />
+        <published>2026-06-29T22:00:39+08:00</published>
+        <author>
+            <name>懋和道人</name>
+            <uri>https://blog.dao.js.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[恢复师承关系表功能页面]]></summary>
+    </entry>
+        <entry>
+        <title>恢复联系方式功能页面</title>
+        <id>162047</id>
+        <link href="https://blog.dao.js.cn/posts/kynn?utm_source=blogfinder" />
+        <published>2026-06-29T21:56:30+08:00</published>
+        <author>
+            <name>懋和道人</name>
+            <uri>https://blog.dao.js.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[恢复联系方式功能页面]]></summary>
+    </entry>
         <entry>
         <title>2026-06小记</title>
         <id>162041</id>
@@ -308,6 +341,17 @@
             <uri>https://blog.mfwt.top</uri>
         </author>
         <summary type="text"><![CDATA[JustWrite：只要写，就行了]]></summary>
+    </entry>
+        <entry>
+        <title>在 AI 浪潮下，如何留在牌桌上</title>
+        <id>162044</id>
+        <link href="https://innei.in/notes/216?utm_source=blogfinder" />
+        <published>2026-06-28T23:51:02+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[在 AI 浪潮下，如何留在牌桌上]]></summary>
     </entry>
         <entry>
         <title>天津-吃饭-吃刨冰-逛海河</title>
@@ -1025,6 +1069,17 @@
         <summary type="text"><![CDATA[用尼康D3200拍的第一组照片]]></summary>
     </entry>
         <entry>
+        <title>JTPL 试题</title>
+        <id>162048</id>
+        <link href="https://erzbir.com/archives/jlpt-exam?utm_source=blogfinder" />
+        <published>2026-06-28T00:47:31+08:00</published>
+        <author>
+            <name>Erzbir&#039;s Blog</name>
+            <uri>https://erzbir.com</uri>
+        </author>
+        <summary type="text"><![CDATA[JTPL 试题]]></summary>
+    </entry>
+        <entry>
         <title>重新认识一下亲戚关系</title>
         <id>161351</id>
         <link href="http://etom.top/archives/so168.html?utm_source=blogfinder" />
@@ -1551,71 +1606,5 @@
             <uri>https://fxpai.com</uri>
         </author>
         <summary type="text"><![CDATA[孩子小升初的事情尘埃落定]]></summary>
-    </entry>
-        <entry>
-        <title>张雪峰.skill：把「考研名师」装进 AI Agent，用认知框架而非语录复读</title>
-        <id>161296</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-27/zhangxuefeng-skill/?utm_source=blogfinder" />
-        <published>2026-06-27T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[张雪峰.skill：把「考研名师」装进 AI Agent，用认知框架而非语录复读]]></summary>
-    </entry>
-        <entry>
-        <title>openpilot：comma.ai 开源自动驾驶辅助系统，让 300+ 车型秒变智能驾驶</title>
-        <id>161295</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-27/openpilot/?utm_source=blogfinder" />
-        <published>2026-06-27T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[openpilot：comma.ai 开源自动驾驶辅助系统，让 300+ 车型秒变智能驾驶]]></summary>
-    </entry>
-        <entry>
-        <title>Grafana：开源可观测性平台的架构设计与最佳实践</title>
-        <id>161294</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-27/grafana/?utm_source=blogfinder" />
-        <published>2026-06-27T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Grafana：开源可观测性平台的架构设计与最佳实践]]></summary>
-    </entry>
-        <entry>
-        <title>free-for-dev：开发者免费服务大全，涵盖 70+ 类别的终极资源清单</title>
-        <id>161293</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-27/free-for-dev/?utm_source=blogfinder" />
-        <published>2026-06-27T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[free-for-dev：开发者免费服务大全，涵盖 70+ 类别的终极资源清单]]></summary>
-    </entry>
-        <entry>
-        <title>初夏荷花开-2026</title>
-        <id>161283</id>
-        <link href="https://xyzbz.cn/archives/1553/?utm_source=blogfinder" />
-        <published>2026-06-26T23:07:00+08:00</published>
-        <author>
-            <name>网友小宋</name>
-            <uri>https://xyzbz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[初夏荷花开-2026]]></summary>
-    </entry>
-        <entry>
-        <title>鼠标垫与垃圾袋</title>
-        <id>161348</id>
-        <link href="https://blog.solazy.me/20260626/?utm_source=blogfinder" />
-        <published>2026-06-26T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[鼠标垫与垃圾袋]]></summary>
     </entry>
     </feed>
