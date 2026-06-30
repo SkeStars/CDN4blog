@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-30T19:00:35+08:00</updated>
+    <updated>2026-06-30T23:00:52+08:00</updated>
+        <entry>
+        <title>📷人文摄影练习</title>
+        <id>162088</id>
+        <link href="https://ygz.ink/archives/5414.html?utm_source=blogfinder" />
+        <published>2026-06-30T21:18:40+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[📷人文摄影练习]]></summary>
+    </entry>
+        <entry>
+        <title>ian-xiaohei-illustrations 保姆级教程：用 Codex 给中文文章生成小黑手绘认知配图</title>
+        <id>162085</id>
+        <link href="https://www.wangdu.site/software/ai/2363.html?utm_source=blogfinder" />
+        <published>2026-06-30T20:35:12+08:00</published>
+        <author>
+            <name>文武科技柜</name>
+            <uri>https://www.wangdu.site</uri>
+        </author>
+        <summary type="text"><![CDATA[ian-xiaohei-illustrations 保姆级教程：用 Codex 给中文文章生成小黑手绘认知配图]]></summary>
+    </entry>
+        <entry>
+        <title>我被 AI &quot;蒸馏&quot; 了</title>
+        <id>162087</id>
+        <link href="https://kanchuan.com/blog/242?utm_source=blogfinder" />
+        <published>2026-06-30T20:15:00+08:00</published>
+        <author>
+            <name>陈看川博客</name>
+            <uri>https://kanchuan.com/blog</uri>
+        </author>
+        <summary type="text"><![CDATA[我被 AI &quot;蒸馏&quot; 了]]></summary>
+    </entry>
+        <entry>
+        <title>弃书《毒士帝婿》和《我的舅舅是万历皇帝》</title>
+        <id>162089</id>
+        <link href="https://www.pgoj.top/archives/qi-shu-du-shi.html?utm_source=blogfinder" />
+        <published>2026-06-30T17:41:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[弃书《毒士帝婿》和《我的舅舅是万历皇帝》]]></summary>
+    </entry>
+        <entry>
+        <title>最近的工作、還有對工作的看法</title>
+        <id>162086</id>
+        <link href="https://blog.giveanornot.com/full-time-job-2026/?utm_source=blogfinder" />
+        <published>2026-06-30T16:45:43+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[最近的工作、還有對工作的看法]]></summary>
+    </entry>
         <entry>
         <title>世界杯瞎话第六季——滚滚滚滚滚滚长江东逝水</title>
         <id>162075</id>
@@ -220,6 +275,17 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[AirPods 追回记]]></summary>
+    </entry>
+        <entry>
+        <title>生活来在一个包里</title>
+        <id>162084</id>
+        <link href="https://www.kawabangga.com/posts/7314?utm_source=blogfinder" />
+        <published>2026-06-29T22:55:30+08:00</published>
+        <author>
+            <name>卡瓦邦噶</name>
+            <uri>https://www.kawabangga.com</uri>
+        </author>
+        <summary type="text"><![CDATA[生活来在一个包里]]></summary>
     </entry>
         <entry>
         <title>六月小结｜继续走，别停</title>
@@ -1518,93 +1584,5 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[为什么我只跟练帕梅拉？]]></summary>
-    </entry>
-        <entry>
-        <title>别把道德当武器</title>
-        <id>162025</id>
-        <link href="https://blog.solazy.me/20260627/?utm_source=blogfinder" />
-        <published>2026-06-27T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[别把道德当武器]]></summary>
-    </entry>
-        <entry>
-        <title>swagger文档</title>
-        <id>161715</id>
-        <link href="https://blog.share888.top/note/back-end/go/hertz/swagger文档.html?utm_source=blogfinder" />
-        <published>2026-06-27T22:41:05+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[swagger文档]]></summary>
-    </entry>
-        <entry>
-        <title>夏天就好这一口，冰镇酸辣鸡爪</title>
-        <id>161311</id>
-        <link href="https://zhujay.com/talk/talk_detail.html?id=1246&amp;utm_source=blogfinder" />
-        <published>2026-06-27T21:58:27+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[夏天就好这一口，冰镇酸辣鸡爪]]></summary>
-    </entry>
-        <entry>
-        <title>Java侧开源报表大屏 - jimureport 逆向学习及二开思路</title>
-        <id>161314</id>
-        <link href="https://www.51it.wang/ll/Java-jimureport?utm_source=blogfinder" />
-        <published>2026-06-27T21:31:00+08:00</published>
-        <author>
-            <name>Lcry</name>
-            <uri>https://www.51it.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[Java侧开源报表大屏 - jimureport 逆向学习及二开思路]]></summary>
-    </entry>
-        <entry>
-        <title>【也闲谈·第四季】十六：此间之乐不足为外人道也</title>
-        <id>161313</id>
-        <link href="http://www.qncd.com/?p=12882&amp;utm_source=blogfinder" />
-        <published>2026-06-27T21:19:26+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【也闲谈·第四季】十六：此间之乐不足为外人道也]]></summary>
-    </entry>
-        <entry>
-        <title>爬山</title>
-        <id>161350</id>
-        <link href="https://ygz.ink/archives/5378.html?utm_source=blogfinder" />
-        <published>2026-06-27T21:02:37+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[爬山]]></summary>
-    </entry>
-        <entry>
-        <title>如何让 AI 成为 24 小时牛马：我的个人项目实践</title>
-        <id>161449</id>
-        <link href="https://www.codesky.me/archives/ai-newmor.wind?utm_source=blogfinder" />
-        <published>2026-06-27T20:32:04+08:00</published>
-        <author>
-            <name>CodeSky 代码之空</name>
-            <uri>https://www.codesky.me</uri>
-        </author>
-        <summary type="text"><![CDATA[如何让 AI 成为 24 小时牛马：我的个人项目实践]]></summary>
-    </entry>
-        <entry>
-        <title>南方遥远，故土漫长｜《遥望南方的童年》观影记</title>
-        <id>161405</id>
-        <link href="https://mecll.com/1060.html?utm_source=blogfinder" />
-        <published>2026-06-27T19:36:27+08:00</published>
-        <author>
-            <name>流浪天下</name>
-            <uri>https://mecll.com</uri>
-        </author>
-        <summary type="text"><![CDATA[南方遥远，故土漫长｜《遥望南方的童年》观影记]]></summary>
     </entry>
     </feed>
