@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-30T23:00:52+08:00</updated>
+    <updated>2026-07-01T00:00:44+08:00</updated>
         <entry>
         <title>📷人文摄影练习</title>
         <id>162088</id>
@@ -44,6 +44,17 @@
             <uri>https://kanchuan.com/blog</uri>
         </author>
         <summary type="text"><![CDATA[我被 AI &quot;蒸馏&quot; 了]]></summary>
+    </entry>
+        <entry>
+        <title>卓尔UV镜和绿巨能UV镜，镜片看不出区别，效果一样</title>
+        <id>162091</id>
+        <link href="https://www.bufanz.com/20260630695.html?utm_source=blogfinder" />
+        <published>2026-06-30T18:23:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[卓尔UV镜和绿巨能UV镜，镜片看不出区别，效果一样]]></summary>
     </entry>
         <entry>
         <title>弃书《毒士帝婿》和《我的舅舅是万历皇帝》</title>
@@ -1496,93 +1507,5 @@
             <uri>https://www.xhhao.com</uri>
         </author>
         <summary type="text"><![CDATA[评论组件 Next：给 Halo 评论区换一个更顺手的选择]]></summary>
-    </entry>
-        <entry>
-        <title>LingBot-Map：基于几何上下文 Transformer 的流式 3D 重建基础模型</title>
-        <id>162023</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-28/lingbot-map/?utm_source=blogfinder" />
-        <published>2026-06-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[LingBot-Map：基于几何上下文 Transformer 的流式 3D 重建基础模型]]></summary>
-    </entry>
-        <entry>
-        <title>CuPy：让 NumPy 代码零修改跑在 GPU 上</title>
-        <id>162022</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-28/cupy/?utm_source=blogfinder" />
-        <published>2026-06-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[CuPy：让 NumPy 代码零修改跑在 GPU 上]]></summary>
-    </entry>
-        <entry>
-        <title>Codex 橙皮书：从入门到实战的全链路 AI 编程指南</title>
-        <id>162021</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-28/codex-orange-book/?utm_source=blogfinder" />
-        <published>2026-06-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Codex 橙皮书：从入门到实战的全链路 AI 编程指南]]></summary>
-    </entry>
-        <entry>
-        <title>苏州穹窿山小恐龙</title>
-        <id>161851</id>
-        <link href="https://www.blackbzy.com/posts/little-dragron01/?utm_source=blogfinder" />
-        <published>2026-06-28T00:00:00+08:00</published>
-        <author>
-            <name>blackbzy</name>
-            <uri>https://www.blackbzy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[苏州穹窿山小恐龙]]></summary>
-    </entry>
-        <entry>
-        <title>PPT Master: 用 AI 从任意文档生成原生可编辑的 PPTX</title>
-        <id>161327</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-28/ppt-master/?utm_source=blogfinder" />
-        <published>2026-06-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[PPT Master: 用 AI 从任意文档生成原生可编辑的 PPTX]]></summary>
-    </entry>
-        <entry>
-        <title>Open Generative AI：打破内容过滤的开源 AI 创作工作室，200+ 模型自由调用</title>
-        <id>161326</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-28/open-generative-ai/?utm_source=blogfinder" />
-        <published>2026-06-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Open Generative AI：打破内容过滤的开源 AI 创作工作室，200+ 模型自由调用]]></summary>
-    </entry>
-        <entry>
-        <title>dbt Core v2.0：用 Rust 重写的数据转换利器</title>
-        <id>161325</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-28/dbt-core/?utm_source=blogfinder" />
-        <published>2026-06-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[dbt Core v2.0：用 Rust 重写的数据转换利器]]></summary>
-    </entry>
-        <entry>
-        <title>为什么我只跟练帕梅拉？</title>
-        <id>161316</id>
-        <link href="https://www.geedea.pro/article/pamela-reif/?utm_source=blogfinder" />
-        <published>2026-06-27T23:24:07+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么我只跟练帕梅拉？]]></summary>
     </entry>
     </feed>
