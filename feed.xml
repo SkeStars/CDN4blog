@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-06-30T12:00:32+08:00</updated>
+    <updated>2026-06-30T16:00:51+08:00</updated>
+        <entry>
+        <title>世界杯瞎话第六季——滚滚滚滚滚滚长江东逝水</title>
+        <id>162075</id>
+        <link href="https://pewae.com/2026/06/6th-world-cup-diray-3.html?utm_source=blogfinder" />
+        <published>2026-06-30T15:41:31+08:00</published>
+        <author>
+            <name>破袜子</name>
+            <uri>https://pewae.com</uri>
+        </author>
+        <summary type="text"><![CDATA[世界杯瞎话第六季——滚滚滚滚滚滚长江东逝水]]></summary>
+    </entry>
+        <entry>
+        <title>最近有些祸不单行</title>
+        <id>162078</id>
+        <link href="https://www.gujishe.com/archives/67.html?utm_source=blogfinder" />
+        <published>2026-06-30T15:00:50+08:00</published>
+        <author>
+            <name>咕唧舍</name>
+            <uri>https://www.gujishe.com</uri>
+        </author>
+        <summary type="text"><![CDATA[最近有些祸不单行]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1690】卢永康《朱启钤传》</title>
+        <id>162076</id>
+        <link href="http://www.qncd.com/?p=12888&amp;utm_source=blogfinder" />
+        <published>2026-06-30T13:04:09+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1690】卢永康《朱启钤传》]]></summary>
+    </entry>
+        <entry>
+        <title>人工智能实训Week2：B4 LLM决策模块五维升级实战</title>
+        <id>162077</id>
+        <link href="https://xingwangzhe.fun/posts/ai-training-b4-llm-week2/?utm_source=blogfinder" />
+        <published>2026-06-30T10:00:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[人工智能实训Week2：B4 LLM决策模块五维升级实战]]></summary>
+    </entry>
         <entry>
         <title>这言论，好特么有道理</title>
         <id>162066</id>
@@ -33,6 +77,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[男性有资格认为自己被“歧视”了吗？]]></summary>
+    </entry>
+        <entry>
+        <title>Arch Linux 电源优化指南</title>
+        <id>162074</id>
+        <link href="https://www.iliu.org/posts/arch-linux-power-optimize/?utm_source=blogfinder" />
+        <published>2026-06-30T08:00:00+08:00</published>
+        <author>
+            <name>老刘博客</name>
+            <uri>https://www.iliu.org</uri>
+        </author>
+        <summary type="text"><![CDATA[Arch Linux 电源优化指南]]></summary>
     </entry>
         <entry>
         <title>用 ai 修复 ai 写出来的 bug</title>
@@ -1584,60 +1639,5 @@
             <uri>https://fxpai.com</uri>
         </author>
         <summary type="text"><![CDATA[AI写会议纪要的挑战]]></summary>
-    </entry>
-        <entry>
-        <title>监控卡</title>
-        <id>161353</id>
-        <link href="https://ltmltm.cn/bk/1469.html?utm_source=blogfinder" />
-        <published>2026-06-27T14:15:00+08:00</published>
-        <author>
-            <name>因为很想念</name>
-            <uri>https://ltmltm.cn/bk</uri>
-        </author>
-        <summary type="text"><![CDATA[监控卡]]></summary>
-    </entry>
-        <entry>
-        <title>朋友说帮我测测防御，结果打出了889MB/s的恐怖流量</title>
-        <id>161303</id>
-        <link href="https://qaqbuyan.com:88/乔安文章/117.html?utm_source=blogfinder" />
-        <published>2026-06-27T14:10:08+08:00</published>
-        <author>
-            <name>卟言的个人博客</name>
-            <uri>https://qaqbuyan.com:88</uri>
-        </author>
-        <summary type="text"><![CDATA[朋友说帮我测测防御，结果打出了889MB/s的恐怖流量]]></summary>
-    </entry>
-        <entry>
-        <title>华为交换机流策略匹配逻辑</title>
-        <id>161697</id>
-        <link href="https://www.x8xx.cn/1127.html?utm_source=blogfinder" />
-        <published>2026-06-27T14:06:29+08:00</published>
-        <author>
-            <name>树洞笔记</name>
-            <uri>https://www.x8xx.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[华为交换机流策略匹配逻辑]]></summary>
-    </entry>
-        <entry>
-        <title>&amp;quot;微博客&amp;quot;的重生与否之相关历程</title>
-        <id>161307</id>
-        <link href="https://luolt.cn/archives/quot-quot.html?utm_source=blogfinder" />
-        <published>2026-06-27T13:30:30+08:00</published>
-        <author>
-            <name>洛丽糖</name>
-            <uri>http://luolt.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[&amp;quot;微博客&amp;quot;的重生与否之相关历程]]></summary>
-    </entry>
-        <entry>
-        <title>湖北！</title>
-        <id>161418</id>
-        <link href="https://blog.kfdzcoffee.cn/archives/hu-bei?utm_source=blogfinder" />
-        <published>2026-06-27T12:07:59+08:00</published>
-        <author>
-            <name>咖啡豆子 coffee 的小站</name>
-            <uri>https://blog.kfdzcoffee.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[湖北！]]></summary>
     </entry>
     </feed>
