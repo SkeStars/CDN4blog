@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-01T12:00:41+08:00</updated>
+    <updated>2026-07-01T16:01:24+08:00</updated>
+        <entry>
+        <title>六月读书手账</title>
+        <id>162268</id>
+        <link href="http://www.qncd.com/?p=12895&amp;utm_source=blogfinder" />
+        <published>2026-07-01T14:38:40+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[六月读书手账]]></summary>
+    </entry>
+        <entry>
+        <title>[object Object]</title>
+        <id>162270</id>
+        <link href="https://blog.algieba12.cn/record11-npm-install-err/?utm_source=blogfinder" />
+        <published>2026-07-01T14:31:32+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[[object Object]]]></summary>
+    </entry>
+        <entry>
+        <title>OpenClaw Workboard 功能上手：让 Agent 自己干活，你只管盯进度</title>
+        <id>162267</id>
+        <link href="https://blog.zhheo.com/p/s3li91qz.html?utm_source=blogfinder" />
+        <published>2026-07-01T13:20:00+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenClaw Workboard 功能上手：让 Agent 自己干活，你只管盯进度]]></summary>
+    </entry>
         <entry>
         <title>消费电子产品中的MIM技术：从粉末到精密结构件的工程考量</title>
         <id>162265</id>
@@ -132,6 +165,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[CUPP：交互式社工密码字典生成利器]]></summary>
+    </entry>
+        <entry>
+        <title>结缘苏超–再游镇江</title>
+        <id>162269</id>
+        <link href="https://pwsz.com/life/4988.html?utm_source=blogfinder" />
+        <published>2026-06-30T23:43:03+08:00</published>
+        <author>
+            <name>品味苏州</name>
+            <uri>https://pwsz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[结缘苏超–再游镇江]]></summary>
     </entry>
         <entry>
         <title>贪便宜要吃亏啊</title>
@@ -1298,225 +1342,5 @@
             <uri>https://colobu.com</uri>
         </author>
         <summary type="text"><![CDATA[Understand-Anything：代码知识图谱]]></summary>
-    </entry>
-        <entry>
-        <title>Vol.109 慢下来才能更快：AI编程的下一个瓶颈是验证与审查</title>
-        <id>162038</id>
-        <link href="https://liduos.com/weekly/the-weekly-gradient-109?utm_source=blogfinder" />
-        <published>2026-06-28T16:00:00+08:00</published>
-        <author>
-            <name>莫尔索</name>
-            <uri>https://liduos.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Vol.109 慢下来才能更快：AI编程的下一个瓶颈是验证与审查]]></summary>
-    </entry>
-        <entry>
-        <title>Anthropic 官方插件：AI Agent 的领域知识插件</title>
-        <id>161431</id>
-        <link href="https://colobu.com/2026/06/28/anthropic-official-plugins-domain-knowledge-ai-agent/?utm_source=blogfinder" />
-        <published>2026-06-28T16:00:00+08:00</published>
-        <author>
-            <name>鸟窝</name>
-            <uri>https://colobu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Anthropic 官方插件：AI Agent 的领域知识插件]]></summary>
-    </entry>
-        <entry>
-        <title>agent-skills：用生产级工程纪律武装 AI Agent</title>
-        <id>161432</id>
-        <link href="https://colobu.com/2026/06/28/agent-skills-production-grade-discipline-for-ai-agent/?utm_source=blogfinder" />
-        <published>2026-06-28T15:30:00+08:00</published>
-        <author>
-            <name>鸟窝</name>
-            <uri>https://colobu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[agent-skills：用生产级工程纪律武装 AI Agent]]></summary>
-    </entry>
-        <entry>
-        <title>d3-force-3d 构建时预计算 3D 网络布局，减少客户端渲染压力</title>
-        <id>161404</id>
-        <link href="https://xingwangzhe.fun/posts/d3-force-precompute-3d/?utm_source=blogfinder" />
-        <published>2026-06-28T15:17:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[d3-force-3d 构建时预计算 3D 网络布局，减少客户端渲染压力]]></summary>
-    </entry>
-        <entry>
-        <title>Compound Engineering：让每一份工作都让下一份更容易</title>
-        <id>161433</id>
-        <link href="https://colobu.com/2026/06/28/compound-engineering-each-job-eases-the-next/?utm_source=blogfinder" />
-        <published>2026-06-28T15:00:00+08:00</published>
-        <author>
-            <name>鸟窝</name>
-            <uri>https://colobu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Compound Engineering：让每一份工作都让下一份更容易]]></summary>
-    </entry>
-        <entry>
-        <title>童童第二次发烧</title>
-        <id>162052</id>
-        <link href="https://www.webersongao.com/baby/2026/4899.html?utm_source=blogfinder" />
-        <published>2026-06-28T14:55:55+08:00</published>
-        <author>
-            <name>卫博生</name>
-            <uri>https://www.webersongao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[童童第二次发烧]]></summary>
-    </entry>
-        <entry>
-        <title>老薛主机注销我账号</title>
-        <id>161410</id>
-        <link href="https://i55.top/archives/543/?utm_source=blogfinder" />
-        <published>2026-06-28T14:53:03+08:00</published>
-        <author>
-            <name>安迪</name>
-            <uri>https://i55.top</uri>
-        </author>
-        <summary type="text"><![CDATA[老薛主机注销我账号]]></summary>
-    </entry>
-        <entry>
-        <title>2026-06 书影音总结</title>
-        <id>162029</id>
-        <link href="https://www.javis.me/2026-06/?utm_source=blogfinder" />
-        <published>2026-06-28T14:43:00+08:00</published>
-        <author>
-            <name>查令十字街 84 号</name>
-            <uri>https://javis.me</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-06 书影音总结]]></summary>
-    </entry>
-        <entry>
-        <title>Pensieve: 2606</title>
-        <id>161661</id>
-        <link href="https://xiaket.github.io/2026/pensieve-2606.html?utm_source=blogfinder" />
-        <published>2026-06-28T14:38:00+08:00</published>
-        <author>
-            <name>年华转瞬</name>
-            <uri>https://blog.xiaket.org</uri>
-        </author>
-        <summary type="text"><![CDATA[Pensieve: 2606]]></summary>
-    </entry>
-        <entry>
-        <title>逍遥仙</title>
-        <id>161699</id>
-        <link href="http://www.yveji.com/Cultural/xiao-yao-xian.html?utm_source=blogfinder" />
-        <published>2026-06-28T14:35:00+08:00</published>
-        <author>
-            <name>悦己</name>
-            <uri>http://www.yveji.com</uri>
-        </author>
-        <summary type="text"><![CDATA[逍遥仙]]></summary>
-    </entry>
-        <entry>
-        <title>improve：用强模型审计、让弱模型执行的&quot;计划即产品&quot;工作流</title>
-        <id>161434</id>
-        <link href="https://colobu.com/2026/06/28/improve-strong-audit-weak-execute-plan-as-product/?utm_source=blogfinder" />
-        <published>2026-06-28T14:30:00+08:00</published>
-        <author>
-            <name>鸟窝</name>
-            <uri>https://colobu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[improve：用强模型审计、让弱模型执行的&quot;计划即产品&quot;工作流]]></summary>
-    </entry>
-        <entry>
-        <title>是朋友就不在乎虚言套语</title>
-        <id>161400</id>
-        <link href="https://www.pgoj.top/archives/peng-you-qing-yi.html?utm_source=blogfinder" />
-        <published>2026-06-28T14:13:29+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[是朋友就不在乎虚言套语]]></summary>
-    </entry>
-        <entry>
-        <title>GSD Core：对抗上下文腐化的阶段循环引擎</title>
-        <id>161435</id>
-        <link href="https://colobu.com/2026/06/28/gsd-core-against-context-rot-stage-loop-engine/?utm_source=blogfinder" />
-        <published>2026-06-28T14:00:00+08:00</published>
-        <author>
-            <name>鸟窝</name>
-            <uri>https://colobu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[GSD Core：对抗上下文腐化的阶段循环引擎]]></summary>
-    </entry>
-        <entry>
-        <title>听课笔记1 - 优势是一切的起点（夏鹏课程）</title>
-        <id>161408</id>
-        <link href="https://www.52txr.cn/2026/youshistart.html?utm_source=blogfinder" />
-        <published>2026-06-28T13:50:00+08:00</published>
-        <author>
-            <name>陶小桃</name>
-            <uri>https://www.52txr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[听课笔记1 - 优势是一切的起点（夏鹏课程）]]></summary>
-    </entry>
-        <entry>
-        <title>Loop Engineering：从提示 Agent 到设计循环</title>
-        <id>161436</id>
-        <link href="https://colobu.com/2026/06/28/loop-engineering-from-prompting-to-designing-loops/?utm_source=blogfinder" />
-        <published>2026-06-28T13:30:00+08:00</published>
-        <author>
-            <name>鸟窝</name>
-            <uri>https://colobu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Loop Engineering：从提示 Agent 到设计循环]]></summary>
-    </entry>
-        <entry>
-        <title>Magento 服务器负载居高不下问题排除系列之二，屏蔽恶意爬虫</title>
-        <id>161401</id>
-        <link href="https://www.sunzhongwei.com/magento-server-high-load-problem-elimination-series-2-blocking-malicious-crawlers?utm_source=blogfinder" />
-        <published>2026-06-28T13:21:31+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Magento 服务器负载居高不下问题排除系列之二，屏蔽恶意爬虫]]></summary>
-    </entry>
-        <entry>
-        <title>Kanban：用看板编排 AI Agent 项目</title>
-        <id>161437</id>
-        <link href="https://colobu.com/2026/06/28/kanban-orchestrate-ai-agent-projects/?utm_source=blogfinder" />
-        <published>2026-06-28T13:00:00+08:00</published>
-        <author>
-            <name>鸟窝</name>
-            <uri>https://colobu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Kanban：用看板编排 AI Agent 项目]]></summary>
-    </entry>
-        <entry>
-        <title>Harness Engineering：AI Agent 的工程实践</title>
-        <id>161438</id>
-        <link href="https://colobu.com/2026/06/28/harness-engineering-ai-agent-practice/?utm_source=blogfinder" />
-        <published>2026-06-28T12:30:00+08:00</published>
-        <author>
-            <name>鸟窝</name>
-            <uri>https://colobu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Harness Engineering：AI Agent 的工程实践]]></summary>
-    </entry>
-        <entry>
-        <title>世間有大愛，世間有大我</title>
-        <id>161423</id>
-        <link href="https://leileiluoluo.com/posts/shi-jian-you-da-ai.html?utm_source=blogfinder" />
-        <published>2026-06-28T12:30:00+08:00</published>
-        <author>
-            <name>磊磊落落</name>
-            <uri>https://leileiluoluo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[世間有大愛，世間有大我]]></summary>
-    </entry>
-        <entry>
-        <title>RuoYi Vue 版本如何启动后台服务和前端</title>
-        <id>161402</id>
-        <link href="https://www.sunzhongwei.com/how-start-backend-services-frontend-ruoyi-vue-version?utm_source=blogfinder" />
-        <published>2026-06-28T12:10:47+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[RuoYi Vue 版本如何启动后台服务和前端]]></summary>
     </entry>
     </feed>
