@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-01T20:01:53+08:00</updated>
+    <updated>2026-07-01T23:00:44+08:00</updated>
+        <entry>
+        <title>📷单反摄影练习</title>
+        <id>162281</id>
+        <link href="https://ygz.ink/archives/5421.html?utm_source=blogfinder" />
+        <published>2026-07-01T20:18:19+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[📷单反摄影练习]]></summary>
+    </entry>
+        <entry>
+        <title>X/Twitter 长文复制不了？用 Codex 自动抓正文、图片和互动数据保存成 Markdown</title>
+        <id>162278</id>
+        <link href="https://www.wangdu.site/course/2364.html?utm_source=blogfinder" />
+        <published>2026-07-01T20:07:54+08:00</published>
+        <author>
+            <name>文武科技柜</name>
+            <uri>https://www.wangdu.site</uri>
+        </author>
+        <summary type="text"><![CDATA[X/Twitter 长文复制不了？用 Codex 自动抓正文、图片和互动数据保存成 Markdown]]></summary>
+    </entry>
+        <entry>
+        <title>MCP协议流式分片传输的粘包乱序问题：二进制帧校验与滑动窗口重传机制设计</title>
+        <id>162280</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/118.html?utm_source=blogfinder" />
+        <published>2026-07-01T19:59:15+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[MCP协议流式分片传输的粘包乱序问题：二进制帧校验与滑动窗口重传机制设计]]></summary>
+    </entry>
+        <entry>
+        <title>虽然Gemini被说是美国大豆包，但面对不熟领域我不得不两个Pro号一起冲了</title>
+        <id>162276</id>
+        <link href="https://www.52txr.cn/2026/geminixianyupro.html?utm_source=blogfinder" />
+        <published>2026-07-01T15:58:00+08:00</published>
+        <author>
+            <name>陶小桃</name>
+            <uri>https://www.52txr.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[虽然Gemini被说是美国大豆包，但面对不熟领域我不得不两个Pro号一起冲了]]></summary>
+    </entry>
         <entry>
         <title>配料表干净</title>
         <id>162275</id>
@@ -22,6 +66,17 @@
             <uri>https://kaix.in</uri>
         </author>
         <summary type="text"><![CDATA[配料表干净]]></summary>
+    </entry>
+        <entry>
+        <title>读博随笔 |  买个美国工业硬件是一波三折且烧钱</title>
+        <id>162277</id>
+        <link href="https://www.52txr.cn/2026/buyrusefi.html?utm_source=blogfinder" />
+        <published>2026-07-01T15:23:00+08:00</published>
+        <author>
+            <name>陶小桃</name>
+            <uri>https://www.52txr.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[读博随笔 |  买个美国工业硬件是一波三折且烧钱]]></summary>
     </entry>
         <entry>
         <title>六月读书手账</title>
@@ -44,6 +99,17 @@
             <uri>https://blog.algieba12.cn</uri>
         </author>
         <summary type="text"><![CDATA[[object Object]]]></summary>
+    </entry>
+        <entry>
+        <title>六月记：个人无错，真的对吗</title>
+        <id>162279</id>
+        <link href="https://blog.hantaotao.top/archives/202/?utm_source=blogfinder" />
+        <published>2026-07-01T13:44:00+08:00</published>
+        <author>
+            <name>一世繁华</name>
+            <uri>https://blog.hantaotao.top</uri>
+        </author>
+        <summary type="text"><![CDATA[六月记：个人无错，真的对吗]]></summary>
     </entry>
         <entry>
         <title>OpenClaw Workboard 功能上手：让 Agent 自己干活，你只管盯进度</title>
@@ -1144,170 +1210,5 @@
             <uri>https://xsmy.wang</uri>
         </author>
         <summary type="text"><![CDATA[天津-吃饭-吃刨冰-逛海河]]></summary>
-    </entry>
-        <entry>
-        <title>堵不如疏，禁不如教</title>
-        <id>162015</id>
-        <link href="https://blog.verdant.ee/posts/%E5%A0%B5%E4%B8%8D%E5%A6%82%E7%96%8F%E7%A6%81%E4%B8%8D%E5%A6%82%E6%95%99/?utm_source=blogfinder" />
-        <published>2026-06-28T23:00:00+08:00</published>
-        <author>
-            <name>映屿</name>
-            <uri>https://blog.verdant.ee</uri>
-        </author>
-        <summary type="text"><![CDATA[堵不如疏，禁不如教]]></summary>
-    </entry>
-        <entry>
-        <title>书源发布地址</title>
-        <id>161422</id>
-        <link href="http://www.tucong.vip/archives/shu-yuan-fa-bu-di-zhi?utm_source=blogfinder" />
-        <published>2026-06-28T22:41:36+08:00</published>
-        <author>
-            <name>Tea Bush</name>
-            <uri>https://www.tucong.vip</uri>
-        </author>
-        <summary type="text"><![CDATA[书源发布地址]]></summary>
-    </entry>
-        <entry>
-        <title>单反今日练习</title>
-        <id>162027</id>
-        <link href="https://ygz.ink/archives/5391.html?utm_source=blogfinder" />
-        <published>2026-06-28T22:21:31+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[单反今日练习]]></summary>
-    </entry>
-        <entry>
-        <title>Thinking in Bets</title>
-        <id>161662</id>
-        <link href="https://maxoxo.me/thinking-in-bets/?utm_source=blogfinder" />
-        <published>2026-06-28T22:18:24+08:00</published>
-        <author>
-            <name>maxOS</name>
-            <uri>https://maxoxo.me</uri>
-        </author>
-        <summary type="text"><![CDATA[Thinking in Bets]]></summary>
-    </entry>
-        <entry>
-        <title>从 app.test 到小锁：valet 本地 HTTPS 的完整链路</title>
-        <id>161413</id>
-        <link href="https://nicksxs.me/2026/06/28/%E4%BB%8E-app-test-%E5%88%B0%E5%B0%8F%E9%94%81%EF%BC%9A%E6%9C%AC%E5%9C%B0-HTTPS-%E7%9A%84%E5%AE%8C%E6%95%B4%E9%93%BE%E8%B7%AF/?utm_source=blogfinder" />
-        <published>2026-06-28T22:18:00+08:00</published>
-        <author>
-            <name>Nicksxs&#039;s Blog</name>
-            <uri>https://nicksxs.me</uri>
-        </author>
-        <summary type="text"><![CDATA[从 app.test 到小锁：valet 本地 HTTPS 的完整链路]]></summary>
-    </entry>
-        <entry>
-        <title>小组第三都能出线，世界杯的“死亡之组”已死</title>
-        <id>161417</id>
-        <link href="https://www.wanghao.me/xiaozudisandounengchuxianshijiebeidesiwangzhizuyisi.html?utm_source=blogfinder" />
-        <published>2026-06-28T22:15:46+08:00</published>
-        <author>
-            <name>小王子</name>
-            <uri>https://www.wanghao.me</uri>
-        </author>
-        <summary type="text"><![CDATA[小组第三都能出线，世界杯的“死亡之组”已死]]></summary>
-    </entry>
-        <entry>
-        <title>社会学为什么在中国难以发展？｜ 隐说 NO. 27</title>
-        <id>161414</id>
-        <link href="https://wangyurui.com/posts/she-hui-xue-wei-shi-yao-zai-zhong-guo-nan-yi-fa-112bb4cd?utm_source=blogfinder" />
-        <published>2026-06-28T21:56:42+08:00</published>
-        <author>
-            <name>太隐</name>
-            <uri>https://wangyurui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[社会学为什么在中国难以发展？｜ 隐说 NO. 27]]></summary>
-    </entry>
-        <entry>
-        <title>学习日志：开发mac-pkg-history —— 从 pkgutil 到 PyPI 发布</title>
-        <id>161741</id>
-        <link href="https://blog.sky233.top/posts/6cca3ef?utm_source=blogfinder" />
-        <published>2026-06-28T21:34:44+08:00</published>
-        <author>
-            <name>YaloisBlog</name>
-            <uri>https://blog.sky233.top</uri>
-        </author>
-        <summary type="text"><![CDATA[学习日志：开发mac-pkg-history —— 从 pkgutil 到 PyPI 发布]]></summary>
-    </entry>
-        <entry>
-        <title>vibe coding上瘾，真上瘾</title>
-        <id>161409</id>
-        <link href="https://www.skyue.com/26062821.html?utm_source=blogfinder" />
-        <published>2026-06-28T21:12:00+08:00</published>
-        <author>
-            <name>拾月</name>
-            <uri>https://www.skyue.com</uri>
-        </author>
-        <summary type="text"><![CDATA[vibe coding上瘾，真上瘾]]></summary>
-    </entry>
-        <entry>
-        <title>在国内油车会死的另一个原因</title>
-        <id>161406</id>
-        <link href="https://fxpai.com/article/zaiguoneiyouchehuisidelingyigeyuanyin?utm_source=blogfinder" />
-        <published>2026-06-28T20:57:47+08:00</published>
-        <author>
-            <name>非学·派</name>
-            <uri>https://fxpai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[在国内油车会死的另一个原因]]></summary>
-    </entry>
-        <entry>
-        <title>静态博客如何添加rss文章聚合？</title>
-        <id>161407</id>
-        <link href="https://www.suiyan.cc/blog/20260628204100?utm_source=blogfinder" />
-        <published>2026-06-28T20:41:00+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[静态博客如何添加rss文章聚合？]]></summary>
-    </entry>
-        <entry>
-        <title>【与Mondo同行·第四季】13：成为君子之路</title>
-        <id>161415</id>
-        <link href="http://www.qncd.com/?p=12885&amp;utm_source=blogfinder" />
-        <published>2026-06-28T20:36:37+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【与Mondo同行·第四季】13：成为君子之路]]></summary>
-    </entry>
-        <entry>
-        <title>解决 Codex 使用 cc-switch 使用第三方模型报错 We&amp;#039;re currently experiencing high demand, which may cause temporary errors.</title>
-        <id>161411</id>
-        <link href="https://www.51it.wang/ll/Codex-cc-switch-We-039-re-currently-experiencing-high-demand-which-may-cause-temporary-errors?utm_source=blogfinder" />
-        <published>2026-06-28T20:35:28+08:00</published>
-        <author>
-            <name>Lcry</name>
-            <uri>https://www.51it.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[解决 Codex 使用 cc-switch 使用第三方模型报错 We&amp;#039;re currently experiencing high demand, which may cause temporary errors.]]></summary>
-    </entry>
-        <entry>
-        <title>唯卓仕微距环长期闲置，在闲鱼成功卖掉，又回本132元</title>
-        <id>161420</id>
-        <link href="https://www.bufanz.com/20260628691.html?utm_source=blogfinder" />
-        <published>2026-06-28T20:24:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[唯卓仕微距环长期闲置，在闲鱼成功卖掉，又回本132元]]></summary>
-    </entry>
-        <entry>
-        <title>记忆里的屋子（一）</title>
-        <id>162042</id>
-        <link href="https://blog.goodboyboy.top/posts/930007696.html?utm_source=blogfinder" />
-        <published>2026-06-28T20:18:55+08:00</published>
-        <author>
-            <name>GoodBoyboy</name>
-            <uri>https://blog.goodboyboy.top</uri>
-        </author>
-        <summary type="text"><![CDATA[记忆里的屋子（一）]]></summary>
     </entry>
     </feed>
