@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-02T12:00:17+08:00</updated>
+    <updated>2026-07-02T16:01:12+08:00</updated>
+        <entry>
+        <title>美团longcat上手：缓存免费，主打便宜，就是速度太慢，思考时间looooong</title>
+        <id>162324</id>
+        <link href="https://blog.zhheo.com/p/e1l2qom9.html?utm_source=blogfinder" />
+        <published>2026-07-02T10:10:07+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[美团longcat上手：缓存免费，主打便宜，就是速度太慢，思考时间looooong]]></summary>
+    </entry>
         <entry>
         <title>笔记本电脑接口的演进：从USB-A到雷电5</title>
         <id>162318</id>
@@ -396,6 +407,28 @@
             <uri>https://airy.ink</uri>
         </author>
         <summary type="text"><![CDATA[六月小结]]></summary>
+    </entry>
+        <entry>
+        <title>班级政治</title>
+        <id>162323</id>
+        <link href="https://blog.cytrogen.icu/posts/851c.html?utm_source=blogfinder" />
+        <published>2026-07-01T12:00:00+08:00</published>
+        <author>
+            <name>Cytrogen&#039;s Blog</name>
+            <uri>https://blog.cytrogen.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[班级政治]]></summary>
+    </entry>
+        <entry>
+        <title>想法在丙午荷月迭代</title>
+        <id>162322</id>
+        <link href="https://blog.cytrogen.icu/posts/b02e.html?utm_source=blogfinder" />
+        <published>2026-07-01T12:00:00+08:00</published>
+        <author>
+            <name>Cytrogen&#039;s Blog</name>
+            <uri>https://blog.cytrogen.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[想法在丙午荷月迭代]]></summary>
     </entry>
         <entry>
         <title>2026年六月小结</title>
@@ -1287,38 +1320,5 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[让无知者更顽固的短视频平台]]></summary>
-    </entry>
-        <entry>
-        <title>八下语文 · 期末高频易错字音字形总结</title>
-        <id>162035</id>
-        <link href="https://upxuu.com/posts/grade8-chinese-final-review/?utm_source=blogfinder" />
-        <published>2026-06-29T15:00:00+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[八下语文 · 期末高频易错字音字形总结]]></summary>
-    </entry>
-        <entry>
-        <title>学习吹葫芦丝（2）</title>
-        <id>162036</id>
-        <link href="https://www.jfsay.com/archives/4022.html?utm_source=blogfinder" />
-        <published>2026-06-29T12:26:55+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[学习吹葫芦丝（2）]]></summary>
-    </entry>
-        <entry>
-        <title>最近让AI帮忙做的一些事</title>
-        <id>162034</id>
-        <link href="https://blog.2broear.com/notes/29-06-2026_ai-powered-blog?utm_source=blogfinder" />
-        <published>2026-06-29T12:03:28+08:00</published>
-        <author>
-            <name>2BROEAR</name>
-            <uri>https://blog.2broear.com</uri>
-        </author>
-        <summary type="text"><![CDATA[最近让AI帮忙做的一些事]]></summary>
     </entry>
     </feed>
