@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-02T23:00:27+08:00</updated>
+    <updated>2026-07-03T00:00:44+08:00</updated>
         <entry>
         <title>codebuddy/workbuddy 重构大型项目代码一周体会</title>
         <id>162333</id>
@@ -88,6 +88,28 @@
             <uri>https://blog.forecho.com</uri>
         </author>
         <summary type="text"><![CDATA[用交易平台风控设置改掉逆市加仓这个坏习惯]]></summary>
+    </entry>
+        <entry>
+        <title>简单聊一下抄我博客这件事</title>
+        <id>162341</id>
+        <link href="https://d-d.design/single/19498?utm_source=blogfinder" />
+        <published>2026-07-02T18:03:17+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[简单聊一下抄我博客这件事]]></summary>
+    </entry>
+        <entry>
+        <title>不做结论</title>
+        <id>162339</id>
+        <link href="https://www.geedea.pro/article/inconclusive/?utm_source=blogfinder" />
+        <published>2026-07-02T17:40:29+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[不做结论]]></summary>
     </entry>
         <entry>
         <title>如何看待“开局像坐马斯克火箭，后期变成屎坑扫雷”的 AI 编程？附防爆指南</title>
@@ -266,6 +288,17 @@
         <summary type="text"><![CDATA[eSIM居然是免费的]]></summary>
     </entry>
         <entry>
+        <title>洗手间里的社交退路</title>
+        <id>162340</id>
+        <link href="https://blog.solazy.me/20260701/?utm_source=blogfinder" />
+        <published>2026-07-01T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[洗手间里的社交退路]]></summary>
+    </entry>
+        <entry>
         <title>猜猜这是什么？夏天的味道。</title>
         <id>162317</id>
         <link href="https://luolt.cn/archives/3215.html?utm_source=blogfinder" />
@@ -363,6 +396,17 @@
             <uri>https://qaqbuyan.com:88</uri>
         </author>
         <summary type="text"><![CDATA[MCP协议流式分片传输的粘包乱序问题：二进制帧校验与滑动窗口重传机制设计]]></summary>
+    </entry>
+        <entry>
+        <title>26春学17周杂记</title>
+        <id>162342</id>
+        <link href="https://nxxy335.top/archives/5YXJq1yP?utm_source=blogfinder" />
+        <published>2026-07-01T19:12:40+08:00</published>
+        <author>
+            <name>暖心向阳</name>
+            <uri>https://nxxy335.top</uri>
+        </author>
+        <summary type="text"><![CDATA[26春学17周杂记]]></summary>
     </entry>
         <entry>
         <title>路还长</title>
@@ -673,6 +717,17 @@
         <summary type="text"><![CDATA[《商君书》读后记]]></summary>
     </entry>
         <entry>
+        <title>2026夏：放弃幻想 准备斗争</title>
+        <id>162338</id>
+        <link href="https://macin.org/2026/06/30/202604/?utm_source=blogfinder" />
+        <published>2026-07-01T05:37:32+08:00</published>
+        <author>
+            <name>Macin&#039;s Blog</name>
+            <uri>https://macin.org</uri>
+        </author>
+        <summary type="text"><![CDATA[2026夏：放弃幻想 准备斗争]]></summary>
+    </entry>
+        <entry>
         <title>达梦数据库备份恢复操作指南</title>
         <id>162274</id>
         <link href="https://chegva.com/6719.html?utm_source=blogfinder" />
@@ -693,6 +748,17 @@
             <uri>https://www.haoyu233.com</uri>
         </author>
         <summary type="text"><![CDATA[拾花小记#46：中考、初中毕业和网站优化]]></summary>
+    </entry>
+        <entry>
+        <title>电视台卖课做局，小菲菲童真入戏</title>
+        <id>162337</id>
+        <link href="https://dujun.io/796e2c35-952f-5bb9-95ba-687f803e98ab.html?utm_source=blogfinder" />
+        <published>2026-07-01T00:28:00+08:00</published>
+        <author>
+            <name>杜郎俊赏</name>
+            <uri>https://dujun.io</uri>
+        </author>
+        <summary type="text"><![CDATA[电视台卖课做局，小菲菲童真入戏]]></summary>
     </entry>
         <entry>
         <title>olmOCR：基于视觉语言模型的开源 PDF 文档 OCR 工具包</title>
@@ -1221,93 +1287,5 @@
             <uri>https://ihello.cc</uri>
         </author>
         <summary type="text"><![CDATA[Hello LiMhy]]></summary>
-    </entry>
-        <entry>
-        <title>给博客搭了一个 AI 虚拟团队</title>
-        <id>162297</id>
-        <link href="https://oheng.com/%e7%bb%99%e5%8d%9a%e5%ae%a2%e6%90%ad%e4%ba%86%e4%b8%80%e4%b8%aa-ai-%e8%99%9a%e6%8b%9f%e5%9b%a2%e9%98%9f/?utm_source=blogfinder" />
-        <published>2026-06-30T00:00:00+08:00</published>
-        <author>
-            <name>飞觞醉月</name>
-            <uri>https://oheng.com</uri>
-        </author>
-        <summary type="text"><![CDATA[给博客搭了一个 AI 虚拟团队]]></summary>
-    </entry>
-        <entry>
-        <title>OmniRoute：聚合 236 个 AI 提供商的免费网关，每月 16 亿免费 Token</title>
-        <id>162261</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-30/omniroute/?utm_source=blogfinder" />
-        <published>2026-06-30T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OmniRoute：聚合 236 个 AI 提供商的免费网关，每月 16 亿免费 Token]]></summary>
-    </entry>
-        <entry>
-        <title>VulnClaw：基于 LLM Agent 与 MCP 工具链的 AI 渗透测试 CLI 工具</title>
-        <id>162064</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-30/vulnclaw/?utm_source=blogfinder" />
-        <published>2026-06-30T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[VulnClaw：基于 LLM Agent 与 MCP 工具链的 AI 渗透测试 CLI 工具]]></summary>
-    </entry>
-        <entry>
-        <title>VeraCrypt：TrueCrypt 的继承者，开源磁盘加密的安全增强方案</title>
-        <id>162063</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-30/veracrypt/?utm_source=blogfinder" />
-        <published>2026-06-30T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[VeraCrypt：TrueCrypt 的继承者，开源磁盘加密的安全增强方案]]></summary>
-    </entry>
-        <entry>
-        <title>Council of High Intelligence：让 18 位 AI 智者为你的重要决策提供多元视角</title>
-        <id>162062</id>
-        <link href="http://blog.xlap.top/post/tech/2026-06-30/council-of-high-intelligence/?utm_source=blogfinder" />
-        <published>2026-06-30T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Council of High Intelligence：让 18 位 AI 智者为你的重要决策提供多元视角]]></summary>
-    </entry>
-        <entry>
-        <title>奈时首届肖像节完美收官</title>
-        <id>162327</id>
-        <link href="https://hi.jeray.wang/L/221.html?utm_source=blogfinder" />
-        <published>2026-06-29T23:53:00+08:00</published>
-        <author>
-            <name>Jeray 大叔</name>
-            <uri>https://hi.jeray.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[奈时首届肖像节完美收官]]></summary>
-    </entry>
-        <entry>
-        <title>天宝寺遗址：从那条路去，过这座桥来</title>
-        <id>162299</id>
-        <link href="https://macin.org/2026/06/29/fu-ling-tian-bao-si/?utm_source=blogfinder" />
-        <published>2026-06-29T23:39:55+08:00</published>
-        <author>
-            <name>Macin&#039;s Blog</name>
-            <uri>https://macin.org</uri>
-        </author>
-        <summary type="text"><![CDATA[天宝寺遗址：从那条路去，过这座桥来]]></summary>
-    </entry>
-        <entry>
-        <title>第一节课</title>
-        <id>162045</id>
-        <link href="https://www.vergilisme.com/index.php/2026/06/29/2400.html?utm_source=blogfinder" />
-        <published>2026-06-29T23:39:00+08:00</published>
-        <author>
-            <name>八咫乌</name>
-            <uri>https://www.vergilisme.com</uri>
-        </author>
-        <summary type="text"><![CDATA[第一节课]]></summary>
     </entry>
     </feed>
