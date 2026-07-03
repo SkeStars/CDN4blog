@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-03T19:00:35+08:00</updated>
+    <updated>2026-07-03T21:00:36+08:00</updated>
+        <entry>
+        <title>为了你的小海马，好好睡一觉吧💤</title>
+        <id>162453</id>
+        <link href="https://www.suiyan.cc/blog/20260703193611?utm_source=blogfinder" />
+        <published>2026-07-03T19:36:11+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[为了你的小海马，好好睡一觉吧💤]]></summary>
+    </entry>
         <entry>
         <title>野狗</title>
         <id>162452</id>
@@ -1366,38 +1377,5 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[📷人文摄影练习]]></summary>
-    </entry>
-        <entry>
-        <title>ian-xiaohei-illustrations 保姆级教程：用 Codex 给中文文章生成小黑手绘认知配图</title>
-        <id>162085</id>
-        <link href="https://www.wangdu.site/software/ai/2363.html?utm_source=blogfinder" />
-        <published>2026-06-30T20:35:12+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[ian-xiaohei-illustrations 保姆级教程：用 Codex 给中文文章生成小黑手绘认知配图]]></summary>
-    </entry>
-        <entry>
-        <title>我被 AI &quot;蒸馏&quot; 了</title>
-        <id>162087</id>
-        <link href="https://kanchuan.com/blog/242?utm_source=blogfinder" />
-        <published>2026-06-30T20:15:00+08:00</published>
-        <author>
-            <name>陈看川博客</name>
-            <uri>https://kanchuan.com/blog</uri>
-        </author>
-        <summary type="text"><![CDATA[我被 AI &quot;蒸馏&quot; 了]]></summary>
-    </entry>
-        <entry>
-        <title>给谷歌浏览器办个成人礼：今晚，我要亲手把它扒个精光</title>
-        <id>162262</id>
-        <link href="https://wuqishi.com/archives/google-adult-mode-no-safesearch-ncr?utm_source=blogfinder" />
-        <published>2026-06-30T20:00:00+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[给谷歌浏览器办个成人礼：今晚，我要亲手把它扒个精光]]></summary>
     </entry>
     </feed>
