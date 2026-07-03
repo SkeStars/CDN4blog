@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-03T12:00:55+08:00</updated>
+    <updated>2026-07-03T15:00:21+08:00</updated>
         <entry>
         <title>说说：葡萄牙送走克罗地亚，C罗留下继续征战，莫德里奇遗憾告别
 到了淘汰赛阶…</title>
@@ -255,6 +255,17 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[不做结论]]></summary>
+    </entry>
+        <entry>
+        <title>博士毕业这天，我看见了她走过的路</title>
+        <id>162451</id>
+        <link href="https://www.webersongao.com/life/2026/4908.html?utm_source=blogfinder" />
+        <published>2026-07-02T16:34:54+08:00</published>
+        <author>
+            <name>卫博生</name>
+            <uri>https://www.webersongao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[博士毕业这天，我看见了她走过的路]]></summary>
     </entry>
         <entry>
         <title>Kruskal 重构树</title>
@@ -1454,49 +1465,5 @@
             <uri>https://www.gujishe.com</uri>
         </author>
         <summary type="text"><![CDATA[最近有些祸不单行]]></summary>
-    </entry>
-        <entry>
-        <title>6月收官：在折腾与安定之间</title>
-        <id>162245</id>
-        <link href="https://limaomao810.com/archives/1010?utm_source=blogfinder" />
-        <published>2026-06-30T14:34:25+08:00</published>
-        <author>
-            <name>李毛毛</name>
-            <uri>https://limaomao810.com</uri>
-        </author>
-        <summary type="text"><![CDATA[6月收官：在折腾与安定之间]]></summary>
-    </entry>
-        <entry>
-        <title>泰国｜我在你眼中经过</title>
-        <id>162083</id>
-        <link href="https://d-d.design/single/19446?utm_source=blogfinder" />
-        <published>2026-06-30T13:46:32+08:00</published>
-        <author>
-            <name>孤斗</name>
-            <uri>https://d-d.design</uri>
-        </author>
-        <summary type="text"><![CDATA[泰国｜我在你眼中经过]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1690】卢永康《朱启钤传》</title>
-        <id>162076</id>
-        <link href="http://www.qncd.com/?p=12888&amp;utm_source=blogfinder" />
-        <published>2026-06-30T13:04:09+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1690】卢永康《朱启钤传》]]></summary>
-    </entry>
-        <entry>
-        <title>用 codebase-memory-mcp 给 AI 编程加一层“代码记忆”</title>
-        <id>162243</id>
-        <link href="https://www.webjing.cn/archives/0zs2jJjj?utm_source=blogfinder" />
-        <published>2026-06-30T13:03:00+08:00</published>
-        <author>
-            <name>webjing</name>
-            <uri>https://www.webjing.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[用 codebase-memory-mcp 给 AI 编程加一层“代码记忆”]]></summary>
     </entry>
     </feed>
