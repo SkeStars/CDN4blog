@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-03T23:00:34+08:00</updated>
+    <updated>2026-07-04T00:00:51+08:00</updated>
         <entry>
         <title>长安公园荷花</title>
         <id>162456</id>
@@ -563,6 +563,17 @@
             <uri>https://hutusi.com</uri>
         </author>
         <summary type="text"><![CDATA[Fable 5 回归，但是用不起……]]></summary>
+    </entry>
+        <entry>
+        <title>Go并发编程</title>
+        <id>162457</id>
+        <link href="https://santisify.top/blog/other/go-concurrent-programming?utm_source=blogfinder" />
+        <published>2026-07-02T06:00:00+08:00</published>
+        <author>
+            <name>santisify site</name>
+            <uri>https://santisify.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Go并发编程]]></summary>
     </entry>
         <entry>
         <title>How I drove a rental Mazda across America in 59 hours</title>
@@ -1201,181 +1212,5 @@
             <uri>https://www.biibii.cn</uri>
         </author>
         <summary type="text"><![CDATA[Redmi AX5400（RA74）路由器刷OpenWrt过程整理和记录]]></summary>
-    </entry>
-        <entry>
-        <title>olmOCR：基于视觉语言模型的开源 PDF 文档 OCR 工具包</title>
-        <id>162316</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-01/olmocr/?utm_source=blogfinder" />
-        <published>2026-07-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[olmOCR：基于视觉语言模型的开源 PDF 文档 OCR 工具包]]></summary>
-    </entry>
-        <entry>
-        <title>DeepSpec：DeepSeek 开源的投机解码全栈训练与评估框架</title>
-        <id>162315</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-01/deepspec/?utm_source=blogfinder" />
-        <published>2026-07-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[DeepSpec：DeepSeek 开源的投机解码全栈训练与评估框架]]></summary>
-    </entry>
-        <entry>
-        <title>Astryx：Meta 开源的全面可定制设计系统</title>
-        <id>162314</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-01/astryx/?utm_source=blogfinder" />
-        <published>2026-07-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Astryx：Meta 开源的全面可定制设计系统]]></summary>
-    </entry>
-        <entry>
-        <title>七月 – July</title>
-        <id>162296</id>
-        <link href="https://oheng.com/july/?utm_source=blogfinder" />
-        <published>2026-07-01T00:00:00+08:00</published>
-        <author>
-            <name>飞觞醉月</name>
-            <uri>https://oheng.com</uri>
-        </author>
-        <summary type="text"><![CDATA[七月 – July]]></summary>
-    </entry>
-        <entry>
-        <title>你的依赖列表里，有多少是业务逻辑</title>
-        <id>162291</id>
-        <link href="https://lujun9972.github.io/blog/2026/06/29/你的依赖列表里，有多少是业务逻辑/index.html?utm_source=blogfinder" />
-        <published>2026-07-01T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[你的依赖列表里，有多少是业务逻辑]]></summary>
-    </entry>
-        <entry>
-        <title>100 行 C 代码拆解 traceroute 的 TTL 把戏</title>
-        <id>162290</id>
-        <link href="https://lujun9972.github.io/blog/2026/06/29/100-行-c-代码拆解-traceroute-的-ttl-把戏/index.html?utm_source=blogfinder" />
-        <published>2026-07-01T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[100 行 C 代码拆解 traceroute 的 TTL 把戏]]></summary>
-    </entry>
-        <entry>
-        <title>Microsoft AI for Beginners：12周系统化人工智能课程，从符号AI到深度学习的完整学习路径</title>
-        <id>162260</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/?utm_source=blogfinder" />
-        <published>2026-07-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Microsoft AI for Beginners：12周系统化人工智能课程，从符号AI到深度学习的完整学习路径]]></summary>
-    </entry>
-        <entry>
-        <title>Instatic：自带可视化编辑器的自托管 CMS，输出纯净 HTML/CSS</title>
-        <id>162259</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-01/instatic/?utm_source=blogfinder" />
-        <published>2026-07-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Instatic：自带可视化编辑器的自托管 CMS，输出纯净 HTML/CSS]]></summary>
-    </entry>
-        <entry>
-        <title>herdr——为 AI 编程助手打造的终端工作区管理器</title>
-        <id>162258</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-01/herdr/?utm_source=blogfinder" />
-        <published>2026-07-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[herdr——为 AI 编程助手打造的终端工作区管理器]]></summary>
-    </entry>
-        <entry>
-        <title>Google agents-cli：让编程助手成为 Google Cloud Agent 专家</title>
-        <id>162257</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-01/agents-cli/?utm_source=blogfinder" />
-        <published>2026-07-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Google agents-cli：让编程助手成为 Google Cloud Agent 专家]]></summary>
-    </entry>
-        <entry>
-        <title>Exercises Dataset：含 1,324 个健身练习的多语言结构化数据集与开发者脚手架</title>
-        <id>162256</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-01/exercises-dataset/?utm_source=blogfinder" />
-        <published>2026-07-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Exercises Dataset：含 1,324 个健身练习的多语言结构化数据集与开发者脚手架]]></summary>
-    </entry>
-        <entry>
-        <title>CUPP：交互式社工密码字典生成利器</title>
-        <id>162255</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-01/cupp/?utm_source=blogfinder" />
-        <published>2026-07-01T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[CUPP：交互式社工密码字典生成利器]]></summary>
-    </entry>
-        <entry>
-        <title>结缘苏超–再游镇江</title>
-        <id>162269</id>
-        <link href="https://pwsz.com/life/4988.html?utm_source=blogfinder" />
-        <published>2026-06-30T23:43:03+08:00</published>
-        <author>
-            <name>品味苏州</name>
-            <uri>https://pwsz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[结缘苏超–再游镇江]]></summary>
-    </entry>
-        <entry>
-        <title>贪便宜要吃亏啊</title>
-        <id>162266</id>
-        <link href="https://blog.biecui.com/29.html?utm_source=blogfinder" />
-        <published>2026-06-30T23:21:00+08:00</published>
-        <author>
-            <name>别催</name>
-            <uri>https://blog.biecui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[贪便宜要吃亏啊]]></summary>
-    </entry>
-        <entry>
-        <title>百度网络监控工具开源第四弹：evr — 构造 VXLAN 探测</title>
-        <id>162264</id>
-        <link href="https://colobu.com/2026/06/30/baidu-network-monitor-evr-vxlan-probe/?utm_source=blogfinder" />
-        <published>2026-06-30T23:15:45+08:00</published>
-        <author>
-            <name>鸟窝</name>
-            <uri>https://colobu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[百度网络监控工具开源第四弹：evr — 构造 VXLAN 探测]]></summary>
-    </entry>
-        <entry>
-        <title>你是谁，你知道么</title>
-        <id>162246</id>
-        <link href="https://d-d.design/single/19465?utm_source=blogfinder" />
-        <published>2026-06-30T23:10:00+08:00</published>
-        <author>
-            <name>孤斗</name>
-            <uri>https://d-d.design</uri>
-        </author>
-        <summary type="text"><![CDATA[你是谁，你知道么]]></summary>
     </entry>
     </feed>
