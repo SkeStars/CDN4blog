@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-03T21:00:36+08:00</updated>
+    <updated>2026-07-03T23:00:34+08:00</updated>
+        <entry>
+        <title>长安公园荷花</title>
+        <id>162456</id>
+        <link href="https://dongjunke.cn/posts/2026/07/03/6858.html?utm_source=blogfinder" />
+        <published>2026-07-03T21:08:47+08:00</published>
+        <author>
+            <name>东评西就</name>
+            <uri>https://dongjunke.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[长安公园荷花]]></summary>
+    </entry>
         <entry>
         <title>为了你的小海马，好好睡一觉吧💤</title>
         <id>162453</id>
@@ -33,6 +44,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[野狗]]></summary>
+    </entry>
+        <entry>
+        <title>断更的这几天</title>
+        <id>162455</id>
+        <link href="https://dahai.plus/archives/112?utm_source=blogfinder" />
+        <published>2026-07-03T10:52:54+08:00</published>
+        <author>
+            <name>大海拾光</name>
+            <uri>https://dahai.plus</uri>
+        </author>
+        <summary type="text"><![CDATA[断更的这几天]]></summary>
     </entry>
         <entry>
         <title>说说：葡萄牙送走克罗地亚，C罗留下继续征战，莫德里奇遗憾告别
@@ -156,6 +178,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[actions/checkout：GitHub Actions 官方代码检出 Action 深度解析]]></summary>
+    </entry>
+        <entry>
+        <title>六月小记 | 0点睡，7点起，为了考驾照我拼了！</title>
+        <id>162454</id>
+        <link href="https://www.rua.ink/1356.html?utm_source=blogfinder" />
+        <published>2026-07-02T23:03:33+08:00</published>
+        <author>
+            <name>Mello 的赛博本子</name>
+            <uri>https://www.rua.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[六月小记 | 0点睡，7点起，为了考驾照我拼了！]]></summary>
     </entry>
         <entry>
         <title>读博随笔 | 喜欢在线刷网课的人一定不能错过这个免费的千问浏览器插件，实时转录、思维导图.......</title>
@@ -1344,38 +1377,5 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[你是谁，你知道么]]></summary>
-    </entry>
-        <entry>
-        <title>#19 探寻古寺的六月月报</title>
-        <id>162222</id>
-        <link href="https://isming.me/2026-06-30-june-summary/?utm_source=blogfinder" />
-        <published>2026-06-30T23:00:27+08:00</published>
-        <author>
-            <name>码农明明桑</name>
-            <uri>https://isming.me</uri>
-        </author>
-        <summary type="text"><![CDATA[#19 探寻古寺的六月月报]]></summary>
-    </entry>
-        <entry>
-        <title>AirPods 找回合影</title>
-        <id>162273</id>
-        <link href="https://blog.solazy.me/20260630/?utm_source=blogfinder" />
-        <published>2026-06-30T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[AirPods 找回合影]]></summary>
-    </entry>
-        <entry>
-        <title>📷人文摄影练习</title>
-        <id>162088</id>
-        <link href="https://ygz.ink/archives/5414.html?utm_source=blogfinder" />
-        <published>2026-06-30T21:18:40+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[📷人文摄影练习]]></summary>
     </entry>
     </feed>
