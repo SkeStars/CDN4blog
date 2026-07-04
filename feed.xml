@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-04T17:01:57+08:00</updated>
+    <updated>2026-07-04T19:00:13+08:00</updated>
+        <entry>
+        <title>代码在发臭：一个能&quot;闻&quot;出坏味道的 AI 技能，我拿它扫了最新的开源代码</title>
+        <id>162570</id>
+        <link href="https://colobu.com/2026/07/04/ai-skill-sniffs-out-code-smells/?utm_source=blogfinder" />
+        <published>2026-07-04T16:08:14+08:00</published>
+        <author>
+            <name>鸟窝</name>
+            <uri>https://colobu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[代码在发臭：一个能&quot;闻&quot;出坏味道的 AI 技能，我拿它扫了最新的开源代码]]></summary>
+    </entry>
+        <entry>
+        <title>第一次做学术 Poster——人工智能实训 Week2 的报告体验</title>
+        <id>162576</id>
+        <link href="https://xingwangzhe.fun/posts/ai-week2end-poster/?utm_source=blogfinder" />
+        <published>2026-07-04T15:00:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[第一次做学术 Poster——人工智能实训 Week2 的报告体验]]></summary>
+    </entry>
         <entry>
         <title>腾讯EO开始发多余套餐啦！速领</title>
         <id>162569</id>
@@ -22,6 +44,17 @@
             <uri>https://blog.xrbk.cn</uri>
         </author>
         <summary type="text"><![CDATA[腾讯EO开始发多余套餐啦！速领]]></summary>
+    </entry>
+        <entry>
+        <title>腾讯云API接口自动快照教程</title>
+        <id>162575</id>
+        <link href="https://bluehe.cn/archives/snapshot_backup?utm_source=blogfinder" />
+        <published>2026-07-04T14:10:00+08:00</published>
+        <author>
+            <name>云心怀鹤</name>
+            <uri>https://bluehe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[腾讯云API接口自动快照教程]]></summary>
     </entry>
         <entry>
         <title>AI + Rust 两连发：从 20 分钟到 12 秒，博客宇宙的构建优化之旅</title>
@@ -79,6 +112,17 @@
         <summary type="text"><![CDATA[两个 2-1 之间]]></summary>
     </entry>
         <entry>
+        <title>创新药行业深度研究报告：政策、产业、估值三重共振，盈利拐点确认</title>
+        <id>162572</id>
+        <link href="http://qthinker.net/content/101?utm_source=blogfinder" />
+        <published>2026-07-04T03:20:57+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[创新药行业深度研究报告：政策、产业、估值三重共振，盈利拐点确认]]></summary>
+    </entry>
+        <entry>
         <title>[Cloudnium] US Los Angeles - KVM VPS-1</title>
         <id>162547</id>
         <link href="https://blog.yeqing.net/Cloudnium-US-LA-KVM-VPS-1/?utm_source=blogfinder" />
@@ -88,6 +132,17 @@
             <uri>https://blog.yeqing.net</uri>
         </author>
         <summary type="text"><![CDATA[[Cloudnium] US Los Angeles - KVM VPS-1]]></summary>
+    </entry>
+        <entry>
+        <title>二刷滁州（20250915-19）</title>
+        <id>162571</id>
+        <link href="http://stuit.cn/Xiaolu/Post/1582.html?utm_source=blogfinder" />
+        <published>2026-07-04T01:23:23+08:00</published>
+        <author>
+            <name>风雨行者</name>
+            <uri>http://stuit.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[二刷滁州（20250915-19）]]></summary>
     </entry>
         <entry>
         <title>七月了，该记录生活了</title>
@@ -176,6 +231,17 @@
             <uri>https://61.life</uri>
         </author>
         <summary type="text"><![CDATA[20260702]]></summary>
+    </entry>
+        <entry>
+        <title>完成比完美更诚实</title>
+        <id>162573</id>
+        <link href="https://blog.solazy.me/20260703/?utm_source=blogfinder" />
+        <published>2026-07-03T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[完成比完美更诚实]]></summary>
     </entry>
         <entry>
         <title>sim-use - 给 agent 装上眼睛和手，让 mobile 开发跟上 AI 时代</title>
@@ -519,6 +585,17 @@
             <uri>https://www.rua.ink</uri>
         </author>
         <summary type="text"><![CDATA[六月小记 | 0点睡，7点起，为了考驾照我拼了！]]></summary>
+    </entry>
+        <entry>
+        <title>职场上的靠谱，就是不让人猜</title>
+        <id>162574</id>
+        <link href="https://blog.solazy.me/20260702/?utm_source=blogfinder" />
+        <published>2026-07-02T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[职场上的靠谱，就是不让人猜]]></summary>
     </entry>
         <entry>
         <title>读博随笔 | 喜欢在线刷网课的人一定不能错过这个免费的千问浏览器插件，实时转录、思维导图.......</title>
@@ -1190,38 +1267,5 @@
             <uri>https://nxxy335.top</uri>
         </author>
         <summary type="text"><![CDATA[26春学17周杂记]]></summary>
-    </entry>
-        <entry>
-        <title>路还长</title>
-        <id>162288</id>
-        <link href="http://etom.top/archives/so173.html?utm_source=blogfinder" />
-        <published>2026-07-01T18:49:48+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[路还长]]></summary>
-    </entry>
-        <entry>
-        <title>这玩意儿有点意思</title>
-        <id>162289</id>
-        <link href="http://etom.top/archives/so171.html?utm_source=blogfinder" />
-        <published>2026-07-01T18:14:00+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[这玩意儿有点意思]]></summary>
-    </entry>
-        <entry>
-        <title>对平台存在敬畏</title>
-        <id>162282</id>
-        <link href="https://www.ixiqin.com/2026/07/01/respect-for-the-platform/?utm_source=blogfinder" />
-        <published>2026-07-01T17:33:15+08:00</published>
-        <author>
-            <name>西秦公子</name>
-            <uri>https://www.ixiqin.com</uri>
-        </author>
-        <summary type="text"><![CDATA[对平台存在敬畏]]></summary>
     </entry>
     </feed>
