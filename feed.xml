@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-04T23:00:36+08:00</updated>
+    <updated>2026-07-05T00:00:44+08:00</updated>
+        <entry>
+        <title>廿周年｜纪念周边兑换说明</title>
+        <id>162582</id>
+        <link href="https://zhujay.com/talk/talk_detail.html?id=1252&amp;utm_source=blogfinder" />
+        <published>2026-07-04T20:20:40+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[廿周年｜纪念周边兑换说明]]></summary>
+    </entry>
+        <entry>
+        <title>无用命途：酒精，酒精膏？</title>
+        <id>162583</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1410/?utm_source=blogfinder" />
+        <published>2026-07-04T19:58:00+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[无用命途：酒精，酒精膏？]]></summary>
+    </entry>
         <entry>
         <title>拖延确实很折磨人</title>
         <id>162581</id>
@@ -1069,137 +1091,5 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[有些事不吐不快]]></summary>
-    </entry>
-        <entry>
-        <title>DBX：仅 15MB 却支持 60+ 数据库的 Rust 桌面管理器，内置 AI 助手的数据库瑞士军刀</title>
-        <id>162447</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-02/dbx/?utm_source=blogfinder" />
-        <published>2026-07-02T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[DBX：仅 15MB 却支持 60+ 数据库的 Rust 桌面管理器，内置 AI 助手的数据库瑞士军刀]]></summary>
-    </entry>
-        <entry>
-        <title>Caveman：让 AI 编程助手减少 75% 输出 Token 的 Claude Code 技能</title>
-        <id>162446</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-02/caveman/?utm_source=blogfinder" />
-        <published>2026-07-02T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Caveman：让 AI 编程助手减少 75% 输出 Token 的 Claude Code 技能]]></summary>
-    </entry>
-        <entry>
-        <title>记忆-欲望-自我</title>
-        <id>162409</id>
-        <link href="https://www.blackbzy.com/posts/self-desire-memery/?utm_source=blogfinder" />
-        <published>2026-07-02T00:00:00+08:00</published>
-        <author>
-            <name>blackbzy</name>
-            <uri>https://www.blackbzy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[记忆-欲望-自我]]></summary>
-    </entry>
-        <entry>
-        <title>WordPress 网站性能又优化了一次，这次 AI 帮了大忙</title>
-        <id>162406</id>
-        <link href="https://oheng.com/wordpress-website-performance-has-been-optimized-again-and-this-time-ai-played-a-big-role/?utm_source=blogfinder" />
-        <published>2026-07-02T00:00:00+08:00</published>
-        <author>
-            <name>飞觞醉月</name>
-            <uri>https://oheng.com</uri>
-        </author>
-        <summary type="text"><![CDATA[WordPress 网站性能又优化了一次，这次 AI 帮了大忙]]></summary>
-    </entry>
-        <entry>
-        <title>LLM 抽属性，规则判重复：CMDB 数据治理的一种分工模式</title>
-        <id>162344</id>
-        <link href="https://lujun9972.github.io/blog/2026/06/29/llm-抽属性，规则判重复：cmdb-数据治理的一种分工模式/index.html?utm_source=blogfinder" />
-        <published>2026-07-02T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[LLM 抽属性，规则判重复：CMDB 数据治理的一种分工模式]]></summary>
-    </entry>
-        <entry>
-        <title>Karukan：基于神经网络的现代日语输入法引擎深度解析</title>
-        <id>162313</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-02/karukan/?utm_source=blogfinder" />
-        <published>2026-07-02T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Karukan：基于神经网络的现代日语输入法引擎深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>CubeSandbox：为 AI Agent 打造的高性能安全沙箱，60ms 启动、硬件级隔离</title>
-        <id>162312</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-02/cubesandbox/?utm_source=blogfinder" />
-        <published>2026-07-02T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[CubeSandbox：为 AI Agent 打造的高性能安全沙箱，60ms 启动、硬件级隔离]]></summary>
-    </entry>
-        <entry>
-        <title>阅读阿伦特如何帮我理解后室和架空文学</title>
-        <id>162284</id>
-        <link href="https://www.geedea.pro/article/all-human-condition/?utm_source=blogfinder" />
-        <published>2026-07-01T23:35:49+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[阅读阿伦特如何帮我理解后室和架空文学]]></summary>
-    </entry>
-        <entry>
-        <title>Mysql数据库损坏导致丢失部分数据</title>
-        <id>162298</id>
-        <link href="https://t-t.live/archives/Epw1vK9w?utm_source=blogfinder" />
-        <published>2026-07-01T23:21:52+08:00</published>
-        <author>
-            <name>团团生活志</name>
-            <uri>https://t-t.live</uri>
-        </author>
-        <summary type="text"><![CDATA[Mysql数据库损坏导致丢失部分数据]]></summary>
-    </entry>
-        <entry>
-        <title>徽章猎人第三季度正式开启</title>
-        <id>162321</id>
-        <link href="https://zhujay.com/talk/talk_detail.html?id=1249&amp;utm_source=blogfinder" />
-        <published>2026-07-01T23:11:05+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[徽章猎人第三季度正式开启]]></summary>
-    </entry>
-        <entry>
-        <title>eSIM居然是免费的</title>
-        <id>162286</id>
-        <link href="https://me.xu19.com/china-unicom-esim-is-free/?utm_source=blogfinder" />
-        <published>2026-07-01T23:10:07+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[eSIM居然是免费的]]></summary>
-    </entry>
-        <entry>
-        <title>先让自己吃饱饭，才有余力谈理想</title>
-        <id>162346</id>
-        <link href="https://ourai.ws/posts/started-taking-on-software-outsourcing-projects/?utm_source=blogfinder" />
-        <published>2026-07-01T23:04:50+08:00</published>
-        <author>
-            <name>欧雷流</name>
-            <uri>https://ourai.ws</uri>
-        </author>
-        <summary type="text"><![CDATA[先让自己吃饱饭，才有余力谈理想]]></summary>
     </entry>
     </feed>
