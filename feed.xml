@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-04T15:01:06+08:00</updated>
+    <updated>2026-07-04T17:01:57+08:00</updated>
+        <entry>
+        <title>腾讯EO开始发多余套餐啦！速领</title>
+        <id>162569</id>
+        <link href="https://blog.xrbk.cn/post/87.html?utm_source=blogfinder" />
+        <published>2026-07-04T14:22:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://blog.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[腾讯EO开始发多余套餐啦！速领]]></summary>
+    </entry>
+        <entry>
+        <title>AI + Rust 两连发：从 20 分钟到 12 秒，博客宇宙的构建优化之旅</title>
+        <id>162568</id>
+        <link href="https://xingwangzhe.fun/posts/ai-rust-bfs-force-two-wheels/?utm_source=blogfinder" />
+        <published>2026-07-04T13:00:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[AI + Rust 两连发：从 20 分钟到 12 秒，博客宇宙的构建优化之旅]]></summary>
+    </entry>
         <entry>
         <title>随笔日记</title>
         <id>162561</id>
@@ -1201,38 +1223,5 @@
             <uri>https://www.ixiqin.com</uri>
         </author>
         <summary type="text"><![CDATA[对平台存在敬畏]]></summary>
-    </entry>
-        <entry>
-        <title>虽然Gemini被说是美国大豆包，但面对不熟领域我不得不两个Pro号一起冲了</title>
-        <id>162276</id>
-        <link href="https://www.52txr.cn/2026/geminixianyupro.html?utm_source=blogfinder" />
-        <published>2026-07-01T15:58:00+08:00</published>
-        <author>
-            <name>陶小桃</name>
-            <uri>https://www.52txr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[虽然Gemini被说是美国大豆包，但面对不熟领域我不得不两个Pro号一起冲了]]></summary>
-    </entry>
-        <entry>
-        <title>配料表干净</title>
-        <id>162275</id>
-        <link href="https://kaix.in/2026/0701/?utm_source=blogfinder" />
-        <published>2026-07-01T15:51:24+08:00</published>
-        <author>
-            <name>KAIX.IN</name>
-            <uri>https://kaix.in</uri>
-        </author>
-        <summary type="text"><![CDATA[配料表干净]]></summary>
-    </entry>
-        <entry>
-        <title>读博随笔 |  买个美国工业硬件是一波三折且烧钱</title>
-        <id>162277</id>
-        <link href="https://www.52txr.cn/2026/buyrusefi.html?utm_source=blogfinder" />
-        <published>2026-07-01T15:23:00+08:00</published>
-        <author>
-            <name>陶小桃</name>
-            <uri>https://www.52txr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[读博随笔 |  买个美国工业硬件是一波三折且烧钱]]></summary>
     </entry>
     </feed>
