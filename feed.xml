@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-04T12:00:25+08:00</updated>
+    <updated>2026-07-04T15:01:06+08:00</updated>
         <entry>
         <title>随笔日记</title>
         <id>162561</id>
@@ -90,6 +90,28 @@
         <summary type="text"><![CDATA[📷洪崖洞单反摄影练习]]></summary>
     </entry>
         <entry>
+        <title>哈佛 CS249R：重新定义机器学习系统教育，从训练模型到工程智能系统</title>
+        <id>162567</id>
+        <link href="http://blog.xlap.top/post/tech/2026-07-04/cs249r-book/?utm_source=blogfinder" />
+        <published>2026-07-04T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[哈佛 CS249R：重新定义机器学习系统教育，从训练模型到工程智能系统]]></summary>
+    </entry>
+        <entry>
+        <title>PyTorch：深度学习领域的首选框架</title>
+        <id>162566</id>
+        <link href="http://blog.xlap.top/post/tech/2026-07-04/pytorch/?utm_source=blogfinder" />
+        <published>2026-07-04T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[PyTorch：深度学习领域的首选框架]]></summary>
+    </entry>
+        <entry>
         <title>RomM：自托管游戏 ROM 管理神器，打造专属游娱库</title>
         <id>162550</id>
         <link href="http://blog.xlap.top/post/tech/2026-07-04/romm/?utm_source=blogfinder" />
@@ -121,6 +143,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[Ansible：颠覆传统的 IT 自动化利器，彻底解放运维生产力]]></summary>
+    </entry>
+        <entry>
+        <title>20260702</title>
+        <id>162565</id>
+        <link href="https://61.life/2026/0702?utm_source=blogfinder" />
+        <published>2026-07-03T23:24:53+08:00</published>
+        <author>
+            <name>61’s life</name>
+            <uri>https://61.life</uri>
+        </author>
+        <summary type="text"><![CDATA[20260702]]></summary>
     </entry>
         <entry>
         <title>sim-use - 给 agent 装上眼睛和手，让 mobile 开发跟上 AI 时代</title>
@@ -1201,104 +1234,5 @@
             <uri>https://www.52txr.cn</uri>
         </author>
         <summary type="text"><![CDATA[读博随笔 |  买个美国工业硬件是一波三折且烧钱]]></summary>
-    </entry>
-        <entry>
-        <title>六月读书手账</title>
-        <id>162268</id>
-        <link href="http://www.qncd.com/?p=12895&amp;utm_source=blogfinder" />
-        <published>2026-07-01T14:38:40+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[六月读书手账]]></summary>
-    </entry>
-        <entry>
-        <title>[object Object]</title>
-        <id>162270</id>
-        <link href="https://blog.algieba12.cn/record11-npm-install-err/?utm_source=blogfinder" />
-        <published>2026-07-01T14:31:32+08:00</published>
-        <author>
-            <name>阿尔的代码屋</name>
-            <uri>https://blog.algieba12.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[[object Object]]]></summary>
-    </entry>
-        <entry>
-        <title>Chrome 插件 - 超链新标签页打开</title>
-        <id>162294</id>
-        <link href="https://imxcy.cn/archives/18849e18.html?utm_source=blogfinder" />
-        <published>2026-07-01T14:19:00+08:00</published>
-        <author>
-            <name>许大阳的日记本</name>
-            <uri>https://imxcy.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Chrome 插件 - 超链新标签页打开]]></summary>
-    </entry>
-        <entry>
-        <title>为什么说 Anthropic 是邪恶的？</title>
-        <id>162293</id>
-        <link href="https://1q43.blog/post/12498/?utm_source=blogfinder" />
-        <published>2026-07-01T13:59:02+08:00</published>
-        <author>
-            <name>虹线</name>
-            <uri>https://1q43.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么说 Anthropic 是邪恶的？]]></summary>
-    </entry>
-        <entry>
-        <title>悟</title>
-        <id>162310</id>
-        <link href="https://nocoding.life/archives/ordnx98v?utm_source=blogfinder" />
-        <published>2026-07-01T13:58:20+08:00</published>
-        <author>
-            <name>No Coding Life</name>
-            <uri>https://nocoding.life</uri>
-        </author>
-        <summary type="text"><![CDATA[悟]]></summary>
-    </entry>
-        <entry>
-        <title>探索 Nuxt.js 全栈能力：用 Better-Auth 打造类型安全的 RBAC 权限系统</title>
-        <id>162292</id>
-        <link href="https://baiwumm.com/archives/NmIGAVkr?utm_source=blogfinder" />
-        <published>2026-07-01T13:49:31+08:00</published>
-        <author>
-            <name>谜叶象限</name>
-            <uri>https://baiwumm.com</uri>
-        </author>
-        <summary type="text"><![CDATA[探索 Nuxt.js 全栈能力：用 Better-Auth 打造类型安全的 RBAC 权限系统]]></summary>
-    </entry>
-        <entry>
-        <title>六月记：个人无错，真的对吗</title>
-        <id>162279</id>
-        <link href="https://blog.hantaotao.top/archives/202/?utm_source=blogfinder" />
-        <published>2026-07-01T13:44:00+08:00</published>
-        <author>
-            <name>一世繁华</name>
-            <uri>https://blog.hantaotao.top</uri>
-        </author>
-        <summary type="text"><![CDATA[六月记：个人无错，真的对吗]]></summary>
-    </entry>
-        <entry>
-        <title>OpenClaw Workboard 功能上手：让 Agent 自己干活，你只管盯进度</title>
-        <id>162267</id>
-        <link href="https://blog.zhheo.com/p/s3li91qz.html?utm_source=blogfinder" />
-        <published>2026-07-01T13:20:00+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenClaw Workboard 功能上手：让 Agent 自己干活，你只管盯进度]]></summary>
-    </entry>
-        <entry>
-        <title>六月小结</title>
-        <id>162272</id>
-        <link href="https://airy.ink/daily/457?utm_source=blogfinder" />
-        <published>2026-07-01T12:08:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[六月小结]]></summary>
     </entry>
     </feed>
