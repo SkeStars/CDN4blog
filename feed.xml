@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-04T22:02:19+08:00</updated>
+    <updated>2026-07-04T23:00:36+08:00</updated>
+        <entry>
+        <title>拖延确实很折磨人</title>
+        <id>162581</id>
+        <link href="https://www.suiyan.cc/blog/20260704183515?utm_source=blogfinder" />
+        <published>2026-07-04T18:35:15+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[拖延确实很折磨人]]></summary>
+    </entry>
         <entry>
         <title>代码在发臭：一个能&quot;闻&quot;出坏味道的 AI 技能，我拿它扫了最新的开源代码</title>
         <id>162570</id>
@@ -121,6 +132,17 @@
             <uri>https://i55.top</uri>
         </author>
         <summary type="text"><![CDATA[佛得角对战阿根廷，虽败犹荣]]></summary>
+    </entry>
+        <entry>
+        <title>黑洞健身的进化 — AI 时代的一人 App</title>
+        <id>162580</id>
+        <link href="https://blog.devtang.com/2026/07/03/heidong-fitness-evolution/?utm_source=blogfinder" />
+        <published>2026-07-04T07:00:34+08:00</published>
+        <author>
+            <name>唐巧的博客</name>
+            <uri>https://blog.devtang.com</uri>
+        </author>
+        <summary type="text"><![CDATA[黑洞健身的进化 — AI 时代的一人 App]]></summary>
     </entry>
         <entry>
         <title>两个 2-1 之间</title>
@@ -1179,49 +1201,5 @@
             <uri>https://ourai.ws</uri>
         </author>
         <summary type="text"><![CDATA[先让自己吃饱饭，才有余力谈理想]]></summary>
-    </entry>
-        <entry>
-        <title>洗手间里的社交退路</title>
-        <id>162340</id>
-        <link href="https://blog.solazy.me/20260701/?utm_source=blogfinder" />
-        <published>2026-07-01T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[洗手间里的社交退路]]></summary>
-    </entry>
-        <entry>
-        <title>猜猜这是什么？夏天的味道。</title>
-        <id>162317</id>
-        <link href="https://luolt.cn/archives/3215.html?utm_source=blogfinder" />
-        <published>2026-07-01T22:37:55+08:00</published>
-        <author>
-            <name>洛丽糖</name>
-            <uri>http://luolt.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[猜猜这是什么？夏天的味道。]]></summary>
-    </entry>
-        <entry>
-        <title>Claude 迷惑操作，希望国产模型崛起</title>
-        <id>162335</id>
-        <link href="https://www.51it.wang/ll/claude-news-0701?utm_source=blogfinder" />
-        <published>2026-07-01T22:25:00+08:00</published>
-        <author>
-            <name>Lcry</name>
-            <uri>https://www.51it.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude 迷惑操作，希望国产模型崛起]]></summary>
-    </entry>
-        <entry>
-        <title>恢复支持道长功能页面</title>
-        <id>162285</id>
-        <link href="https://blog.dao.js.cn/posts/jtrL?utm_source=blogfinder" />
-        <published>2026-07-01T22:08:39+08:00</published>
-        <author>
-            <name>懋和道人</name>
-            <uri>https://blog.dao.js.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[恢复支持道长功能页面]]></summary>
     </entry>
     </feed>
