@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-04T19:00:13+08:00</updated>
+    <updated>2026-07-04T22:02:19+08:00</updated>
         <entry>
         <title>代码在发臭：一个能&quot;闻&quot;出坏味道的 AI 技能，我拿它扫了最新的开源代码</title>
         <id>162570</id>
@@ -33,6 +33,17 @@
             <uri>https://xingwangzhe.fun</uri>
         </author>
         <summary type="text"><![CDATA[第一次做学术 Poster——人工智能实训 Week2 的报告体验]]></summary>
+    </entry>
+        <entry>
+        <title>拖延，不是懒</title>
+        <id>162579</id>
+        <link href="https://wangyurui.com/posts/tuo-yan-zheng-bu-shi-lan-6eede5f3?utm_source=blogfinder" />
+        <published>2026-07-04T14:22:27+08:00</published>
+        <author>
+            <name>太隐</name>
+            <uri>https://wangyurui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[拖延，不是懒]]></summary>
     </entry>
         <entry>
         <title>腾讯EO开始发多余套餐啦！速领</title>
@@ -66,6 +77,17 @@
             <uri>https://xingwangzhe.fun</uri>
         </author>
         <summary type="text"><![CDATA[AI + Rust 两连发：从 20 分钟到 12 秒，博客宇宙的构建优化之旅]]></summary>
+    </entry>
+        <entry>
+        <title>共和国的缔造者</title>
+        <id>162578</id>
+        <link href="https://cavill.site/articles/washington?utm_source=blogfinder" />
+        <published>2026-07-04T10:37:13+08:00</published>
+        <author>
+            <name>栖迟处</name>
+            <uri>https://cavill.site</uri>
+        </author>
+        <summary type="text"><![CDATA[共和国的缔造者]]></summary>
     </entry>
         <entry>
         <title>随笔日记</title>
@@ -154,6 +176,17 @@
             <uri>https://ihello.cc</uri>
         </author>
         <summary type="text"><![CDATA[七月了，该记录生活了]]></summary>
+    </entry>
+        <entry>
+        <title>当我考完高数和大物后</title>
+        <id>162577</id>
+        <link href="https://blog.224418.xyz/posts/ed369745/?utm_source=blogfinder" />
+        <published>2026-07-04T00:36:00+08:00</published>
+        <author>
+            <name>傥师妹的小空间</name>
+            <uri>https://blog.224418.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[当我考完高数和大物后]]></summary>
     </entry>
         <entry>
         <title>📷洪崖洞单反摄影练习</title>
@@ -1190,82 +1223,5 @@
             <uri>https://blog.dao.js.cn</uri>
         </author>
         <summary type="text"><![CDATA[恢复支持道长功能页面]]></summary>
-    </entry>
-        <entry>
-        <title>开放世界ARPG×赛博朋克题材×霓虹视觉风格《赛博朋克2077 终极版》史低价164.5元</title>
-        <id>162287</id>
-        <link href="https://www.bufanz.com/20260701701.html?utm_source=blogfinder" />
-        <published>2026-07-01T21:57:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[开放世界ARPG×赛博朋克题材×霓虹视觉风格《赛博朋克2077 终极版》史低价164.5元]]></summary>
-    </entry>
-        <entry>
-        <title>松声｜廿六年·六月末·暑渐浓</title>
-        <id>162283</id>
-        <link href="https://xyzbz.cn/archives/1557/?utm_source=blogfinder" />
-        <published>2026-07-01T21:54:35+08:00</published>
-        <author>
-            <name>网友小宋</name>
-            <uri>https://xyzbz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[松声｜廿六年·六月末·暑渐浓]]></summary>
-    </entry>
-        <entry>
-        <title>笔记本电脑散热设计的演进：从热管到均温板的工程实践</title>
-        <id>162319</id>
-        <link href="https://buqi.cn/archives/211?utm_source=blogfinder" />
-        <published>2026-07-01T21:05:55+08:00</published>
-        <author>
-            <name>不器之器</name>
-            <uri>https://buqi.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[笔记本电脑散热设计的演进：从热管到均温板的工程实践]]></summary>
-    </entry>
-        <entry>
-        <title>📷单反摄影练习</title>
-        <id>162281</id>
-        <link href="https://ygz.ink/archives/5421.html?utm_source=blogfinder" />
-        <published>2026-07-01T20:18:19+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[📷单反摄影练习]]></summary>
-    </entry>
-        <entry>
-        <title>X/Twitter 长文复制不了？用 Codex 自动抓正文、图片和互动数据保存成 Markdown</title>
-        <id>162278</id>
-        <link href="https://www.wangdu.site/course/2364.html?utm_source=blogfinder" />
-        <published>2026-07-01T20:07:54+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[X/Twitter 长文复制不了？用 Codex 自动抓正文、图片和互动数据保存成 Markdown]]></summary>
-    </entry>
-        <entry>
-        <title>MCP协议流式分片传输的粘包乱序问题：二进制帧校验与滑动窗口重传机制设计</title>
-        <id>162280</id>
-        <link href="https://qaqbuyan.com:88/乔安文章/118.html?utm_source=blogfinder" />
-        <published>2026-07-01T19:59:15+08:00</published>
-        <author>
-            <name>卟言的个人博客</name>
-            <uri>https://qaqbuyan.com:88</uri>
-        </author>
-        <summary type="text"><![CDATA[MCP协议流式分片传输的粘包乱序问题：二进制帧校验与滑动窗口重传机制设计]]></summary>
-    </entry>
-        <entry>
-        <title>26春学17周杂记</title>
-        <id>162342</id>
-        <link href="https://nxxy335.top/archives/5YXJq1yP?utm_source=blogfinder" />
-        <published>2026-07-01T19:12:40+08:00</published>
-        <author>
-            <name>暖心向阳</name>
-            <uri>https://nxxy335.top</uri>
-        </author>
-        <summary type="text"><![CDATA[26春学17周杂记]]></summary>
     </entry>
     </feed>
