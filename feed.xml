@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-05T12:00:31+08:00</updated>
+    <updated>2026-07-05T16:02:17+08:00</updated>
+        <entry>
+        <title>[文章] 最近用 AI 开发产品的一些感受</title>
+        <id>162646</id>
+        <link href="https://blog.boguan.site/articles/1fe227c3-706d-44cd-9957-1e1a9cdcf991?utm_source=blogfinder" />
+        <published>2026-07-05T14:05:20+08:00</published>
+        <author>
+            <name>开发者十一</name>
+            <uri>https://blog.boguan.site</uri>
+        </author>
+        <summary type="text"><![CDATA[[文章] 最近用 AI 开发产品的一些感受]]></summary>
+    </entry>
+        <entry>
+        <title>演唱会退票经历分享 退票需要收取高额手续费 维权的过程更难</title>
+        <id>162643</id>
+        <link href="https://jyblog.com/5747/?utm_source=blogfinder" />
+        <published>2026-07-05T10:22:25+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.com</uri>
+        </author>
+        <summary type="text"><![CDATA[演唱会退票经历分享 退票需要收取高额手续费 维权的过程更难]]></summary>
+    </entry>
         <entry>
         <title>≡ 003｜这一周莫比乌斯环转到了哪里？</title>
         <id>162600</id>
@@ -22,6 +44,28 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[≡ 003｜这一周莫比乌斯环转到了哪里？]]></summary>
+    </entry>
+        <entry>
+        <title>最近惦念 20260625</title>
+        <id>162609</id>
+        <link href="https://z.arlmy.me/posts/TILs/thoughts/20260625_Recently/?utm_source=blogfinder" />
+        <published>2026-07-05T08:35:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[最近惦念 20260625]]></summary>
+    </entry>
+        <entry>
+        <title>Toots 426 2026 Jun.27 - Jul.4</title>
+        <id>162610</id>
+        <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260704/?utm_source=blogfinder" />
+        <published>2026-07-05T08:26:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[Toots 426 2026 Jun.27 - Jul.4]]></summary>
     </entry>
         <entry>
         <title>Bear Blog Theme: Vermilion</title>
@@ -90,6 +134,17 @@
         <summary type="text"><![CDATA[【也闲谈·第四季】十七：斯人若彩虹，遇上方知有（终章）]]></summary>
     </entry>
         <entry>
+        <title>试图使用 Ungoogled Chromium</title>
+        <id>162645</id>
+        <link href="https://re.karlbaey.top/articles/rocky-road/ungoogled-chromium/?utm_source=blogfinder" />
+        <published>2026-07-04T21:50:31+08:00</published>
+        <author>
+            <name>Jerry Karlbaey</name>
+            <uri>https://re.karlbaey.top</uri>
+        </author>
+        <summary type="text"><![CDATA[试图使用 Ungoogled Chromium]]></summary>
+    </entry>
+        <entry>
         <title>在闪烁的屏幕后准备跃起的人</title>
         <id>162599</id>
         <link href="https://www.pgoj.top/archives/xiao-an-xin-wen.html?utm_source=blogfinder" />
@@ -121,6 +176,17 @@
             <uri>https://blog.mfwt.top</uri>
         </author>
         <summary type="text"><![CDATA[无用命途：酒精，酒精膏？]]></summary>
+    </entry>
+        <entry>
+        <title>于日常处 · 七月记</title>
+        <id>162644</id>
+        <link href="https://bluehe.cn/archives/2026-diary?utm_source=blogfinder" />
+        <published>2026-07-04T19:32:00+08:00</published>
+        <author>
+            <name>云心怀鹤</name>
+            <uri>https://bluehe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[于日常处 · 七月记]]></summary>
     </entry>
         <entry>
         <title>聊一聊大家博客的设计</title>
@@ -363,6 +429,17 @@
             <uri>https://justgoidea.com</uri>
         </author>
         <summary type="text"><![CDATA[两个 2-1 之间]]></summary>
+    </entry>
+        <entry>
+        <title>彩云易散</title>
+        <id>162608</id>
+        <link href="https://lenciel.com/2026/07/nothing-gold-can-stay/?utm_source=blogfinder" />
+        <published>2026-07-04T04:52:11+08:00</published>
+        <author>
+            <name>@Lenciel</name>
+            <uri>https://lenciel.com</uri>
+        </author>
+        <summary type="text"><![CDATA[彩云易散]]></summary>
     </entry>
         <entry>
         <title>创新药行业深度研究报告：政策、产业、估值三重共振，盈利拐点确认</title>
@@ -1025,60 +1102,5 @@
             <uri>https://blog.ooliver.cn</uri>
         </author>
         <summary type="text"><![CDATA[Kruskal 重构树]]></summary>
-    </entry>
-        <entry>
-        <title>汽车保养</title>
-        <id>162404</id>
-        <link href="https://vjo.cc/1983?utm_source=blogfinder" />
-        <published>2026-07-02T15:57:00+08:00</published>
-        <author>
-            <name>刘郎阁</name>
-            <uri>https://vjo.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[汽车保养]]></summary>
-    </entry>
-        <entry>
-        <title>庄子不会喜欢 AI：效率，机心，伯乐之罪</title>
-        <id>162343</id>
-        <link href="https://greatdk.com/2144.html?utm_source=blogfinder" />
-        <published>2026-07-02T14:44:27+08:00</published>
-        <author>
-            <name>王登科</name>
-            <uri>https://greatdk.com</uri>
-        </author>
-        <summary type="text"><![CDATA[庄子不会喜欢 AI：效率，机心，伯乐之罪]]></summary>
-    </entry>
-        <entry>
-        <title>如何看待“开局像坐马斯克火箭，后期变成屎坑扫雷”的 AI 编程？附防爆指南</title>
-        <id>162326</id>
-        <link href="https://wuqishi.com/archives/vibe-coding-anti-shishan-guide?utm_source=blogfinder" />
-        <published>2026-07-02T14:29:28+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[如何看待“开局像坐马斯克火箭，后期变成屎坑扫雷”的 AI 编程？附防爆指南]]></summary>
-    </entry>
-        <entry>
-        <title>纵有难堪，亦自持体面</title>
-        <id>162328</id>
-        <link href="https://mojue88.com/15?utm_source=blogfinder" />
-        <published>2026-07-02T13:46:32+08:00</published>
-        <author>
-            <name>墨觉の日记</name>
-            <uri>https://mojue88.com</uri>
-        </author>
-        <summary type="text"><![CDATA[纵有难堪，亦自持体面]]></summary>
-    </entry>
-        <entry>
-        <title>20260701</title>
-        <id>162345</id>
-        <link href="https://61.life/2026/0701?utm_source=blogfinder" />
-        <published>2026-07-02T12:56:22+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260701]]></summary>
     </entry>
     </feed>
