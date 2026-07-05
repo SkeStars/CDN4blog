@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-05T16:02:17+08:00</updated>
+    <updated>2026-07-05T18:00:11+08:00</updated>
+        <entry>
+        <title>获得无限的生命</title>
+        <id>162653</id>
+        <link href="https://d-d.design/single/19557?utm_source=blogfinder" />
+        <published>2026-07-05T17:40:20+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[获得无限的生命]]></summary>
+    </entry>
+        <entry>
+        <title>互联网规则偏爱那些随时准备走的人</title>
+        <id>162651</id>
+        <link href="https://blog.solazy.me/20260705/?utm_source=blogfinder" />
+        <published>2026-07-05T17:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[互联网规则偏爱那些随时准备走的人]]></summary>
+    </entry>
         <entry>
         <title>[文章] 最近用 AI 开发产品的一些感受</title>
         <id>162646</id>
@@ -79,6 +101,28 @@
         <summary type="text"><![CDATA[Bear Blog Theme: Vermilion]]></summary>
     </entry>
         <entry>
+        <title>随思 #102 - 2026-07-04</title>
+        <id>162649</id>
+        <link href="http://qthinker.net/content/102?utm_source=blogfinder" />
+        <published>2026-07-05T04:47:06+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[随思 #102 - 2026-07-04]]></summary>
+    </entry>
+        <entry>
+        <title>2026年7月 黛西花园重游</title>
+        <id>162650</id>
+        <link href="https://siwei.li/2026nian-7yue-dai-xi-hua-yuan-zhong-you/?utm_source=blogfinder" />
+        <published>2026-07-05T00:57:32+08:00</published>
+        <author>
+            <name>Siwei Li</name>
+            <uri>https://siwei.li</uri>
+        </author>
+        <summary type="text"><![CDATA[2026年7月 黛西花园重游]]></summary>
+    </entry>
+        <entry>
         <title>只拍了两张照片</title>
         <id>162607</id>
         <link href="https://ygz.ink/archives/5451.html?utm_source=blogfinder" />
@@ -132,6 +176,28 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【也闲谈·第四季】十七：斯人若彩虹，遇上方知有（终章）]]></summary>
+    </entry>
+        <entry>
+        <title>金色扶梯（20260703）</title>
+        <id>162648</id>
+        <link href="http://stuit.cn/Xiaolu/Post/1621.html?utm_source=blogfinder" />
+        <published>2026-07-04T23:07:06+08:00</published>
+        <author>
+            <name>风雨行者</name>
+            <uri>http://stuit.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[金色扶梯（20260703）]]></summary>
+    </entry>
+        <entry>
+        <title>周末流水账 0704</title>
+        <id>162652</id>
+        <link href="https://blog.solazy.me/20260704/?utm_source=blogfinder" />
+        <published>2026-07-04T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0704]]></summary>
     </entry>
         <entry>
         <title>试图使用 Ungoogled Chromium</title>
@@ -1069,38 +1135,5 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[简单聊一下抄我博客这件事]]></summary>
-    </entry>
-        <entry>
-        <title>不做结论</title>
-        <id>162339</id>
-        <link href="https://www.geedea.pro/article/inconclusive/?utm_source=blogfinder" />
-        <published>2026-07-02T17:40:29+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[不做结论]]></summary>
-    </entry>
-        <entry>
-        <title>博士毕业这天，我看见了她走过的路</title>
-        <id>162451</id>
-        <link href="https://www.webersongao.com/life/2026/4908.html?utm_source=blogfinder" />
-        <published>2026-07-02T16:34:54+08:00</published>
-        <author>
-            <name>卫博生</name>
-            <uri>https://www.webersongao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[博士毕业这天，我看见了她走过的路]]></summary>
-    </entry>
-        <entry>
-        <title>Kruskal 重构树</title>
-        <id>162419</id>
-        <link href="https://blog.ooliver.cn/kruskal-%e9%87%8d%e6%9e%84%e6%a0%91/?utm_source=blogfinder" />
-        <published>2026-07-02T16:02:49+08:00</published>
-        <author>
-            <name>ooliver 的博客</name>
-            <uri>https://blog.ooliver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Kruskal 重构树]]></summary>
     </entry>
     </feed>
