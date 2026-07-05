@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-05T18:00:11+08:00</updated>
+    <updated>2026-07-05T20:02:15+08:00</updated>
         <entry>
         <title>获得无限的生命</title>
         <id>162653</id>
@@ -33,6 +33,17 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[互联网规则偏爱那些随时准备走的人]]></summary>
+    </entry>
+        <entry>
+        <title>站在火山口边上等风来</title>
+        <id>162654</id>
+        <link href="https://zooyoo.top/article/27/?utm_source=blogfinder" />
+        <published>2026-07-05T16:50:00+08:00</published>
+        <author>
+            <name>热衷于的博客</name>
+            <uri>https://zooyoo.top</uri>
+        </author>
+        <summary type="text"><![CDATA[站在火山口边上等风来]]></summary>
     </entry>
         <entry>
         <title>[文章] 最近用 AI 开发产品的一些感受</title>
@@ -1091,49 +1102,5 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[📷单反摄影练习]]></summary>
-    </entry>
-        <entry>
-        <title>AI，还是AI</title>
-        <id>162336</id>
-        <link href="https://zhongxiaojie.cn/2026/07/1580/?utm_source=blogfinder" />
-        <published>2026-07-02T19:08:14+08:00</published>
-        <author>
-            <name>obaby 𝐢‍𝐧⃝  void</name>
-            <uri>https://oba.by</uri>
-        </author>
-        <summary type="text"><![CDATA[AI，还是AI]]></summary>
-    </entry>
-        <entry>
-        <title>豆言豆语Skill发布：让AI学会豆包的毒舌说话风格</title>
-        <id>162443</id>
-        <link href="https://blog.zhheo.com/p/ojxzvqar.html?utm_source=blogfinder" />
-        <published>2026-07-02T19:04:48+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[豆言豆语Skill发布：让AI学会豆包的毒舌说话风格]]></summary>
-    </entry>
-        <entry>
-        <title>用交易平台风控设置改掉逆市加仓这个坏习惯</title>
-        <id>162334</id>
-        <link href="https://blog.forecho.com/platform-risk-settings-stop-revenge-trading.html?utm_source=blogfinder" />
-        <published>2026-07-02T18:29:43+08:00</published>
-        <author>
-            <name>forecho&#039;s Blog</name>
-            <uri>https://blog.forecho.com</uri>
-        </author>
-        <summary type="text"><![CDATA[用交易平台风控设置改掉逆市加仓这个坏习惯]]></summary>
-    </entry>
-        <entry>
-        <title>简单聊一下抄我博客这件事</title>
-        <id>162341</id>
-        <link href="https://d-d.design/single/19498?utm_source=blogfinder" />
-        <published>2026-07-02T18:03:17+08:00</published>
-        <author>
-            <name>孤斗</name>
-            <uri>https://d-d.design</uri>
-        </author>
-        <summary type="text"><![CDATA[简单聊一下抄我博客这件事]]></summary>
     </entry>
     </feed>
