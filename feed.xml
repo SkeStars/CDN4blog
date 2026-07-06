@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-06T22:00:58+08:00</updated>
+    <updated>2026-07-07T00:00:48+08:00</updated>
+        <entry>
+        <title>Android 模拟器代理联网与 No Internet WiFi 锁死排坑笔记 | 阿尔的代码屋</title>
+        <id>162710</id>
+        <link href="https://blog.algieba12.cn/record12-simulator-proxy/?utm_source=blogfinder" />
+        <published>2026-07-06T19:48:50+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Android 模拟器代理联网与 No Internet WiFi 锁死排坑笔记 | 阿尔的代码屋]]></summary>
+    </entry>
         <entry>
         <title>当编程变得不再有趣</title>
         <id>162707</id>
@@ -33,6 +44,17 @@
             <uri>https://fxpai.com</uri>
         </author>
         <summary type="text"><![CDATA[儿子毕业典礼，刚开始就被大雨袭击了😅]]></summary>
+    </entry>
+        <entry>
+        <title>年中记</title>
+        <id>162711</id>
+        <link href="https://ficor.net/archives/50?utm_source=blogfinder" />
+        <published>2026-07-06T16:57:00+08:00</published>
+        <author>
+            <name>荒野菲克</name>
+            <uri>https://ficor.net</uri>
+        </author>
+        <summary type="text"><![CDATA[年中记]]></summary>
     </entry>
         <entry>
         <title>大脑充血 Vol.88</title>
@@ -209,6 +231,17 @@
             <uri>https://blog.ops-coffee.com</uri>
         </author>
         <summary type="text"><![CDATA[游记｜吹17度江风，吃地道豆腐包，建德3天2晚散漫自驾]]></summary>
+    </entry>
+        <entry>
+        <title>腾讯云EdgeOne零元薅多个免费套餐教程</title>
+        <id>162709</id>
+        <link href="https://www.wanghao.me/tengxunyunedgeonelingyuanhaoduogemianfeitaocanjiaocheng.html?utm_source=blogfinder" />
+        <published>2026-07-06T00:18:07+08:00</published>
+        <author>
+            <name>小王子</name>
+            <uri>https://www.wanghao.me</uri>
+        </author>
+        <summary type="text"><![CDATA[腾讯云EdgeOne零元薅多个免费套餐教程]]></summary>
     </entry>
         <entry>
         <title>planning-with-files：让AI编程助手不再失忆的持久化规划技能</title>
@@ -1166,137 +1199,5 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[📷洪崖洞单反摄影练习]]></summary>
-    </entry>
-        <entry>
-        <title>Meetily：隐私优先的开源 AI 会议助手，本地转录与总结</title>
-        <id>162606</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-04/meetily/?utm_source=blogfinder" />
-        <published>2026-07-04T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Meetily：隐私优先的开源 AI 会议助手，本地转录与总结]]></summary>
-    </entry>
-        <entry>
-        <title>Apache Maven：Java 项目构建管理的行业标准与架构演进</title>
-        <id>162605</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-04/maven/?utm_source=blogfinder" />
-        <published>2026-07-04T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Apache Maven：Java 项目构建管理的行业标准与架构演进]]></summary>
-    </entry>
-        <entry>
-        <title>哈佛 CS249R：重新定义机器学习系统教育，从训练模型到工程智能系统</title>
-        <id>162567</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-04/cs249r-book/?utm_source=blogfinder" />
-        <published>2026-07-04T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[哈佛 CS249R：重新定义机器学习系统教育，从训练模型到工程智能系统]]></summary>
-    </entry>
-        <entry>
-        <title>PyTorch：深度学习领域的首选框架</title>
-        <id>162566</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-04/pytorch/?utm_source=blogfinder" />
-        <published>2026-07-04T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[PyTorch：深度学习领域的首选框架]]></summary>
-    </entry>
-        <entry>
-        <title>RomM：自托管游戏 ROM 管理神器，打造专属游娱库</title>
-        <id>162550</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-04/romm/?utm_source=blogfinder" />
-        <published>2026-07-04T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[RomM：自托管游戏 ROM 管理神器，打造专属游娱库]]></summary>
-    </entry>
-        <entry>
-        <title>Elasticsearch：分布式搜索与向量数据库的工业级实践</title>
-        <id>162549</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-04/elasticsearch/?utm_source=blogfinder" />
-        <published>2026-07-04T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Elasticsearch：分布式搜索与向量数据库的工业级实践]]></summary>
-    </entry>
-        <entry>
-        <title>Ansible：颠覆传统的 IT 自动化利器，彻底解放运维生产力</title>
-        <id>162548</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-04/ansible/?utm_source=blogfinder" />
-        <published>2026-07-04T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Ansible：颠覆传统的 IT 自动化利器，彻底解放运维生产力]]></summary>
-    </entry>
-        <entry>
-        <title>20260702</title>
-        <id>162565</id>
-        <link href="https://61.life/2026/0702?utm_source=blogfinder" />
-        <published>2026-07-03T23:24:53+08:00</published>
-        <author>
-            <name>61’s life</name>
-            <uri>https://61.life</uri>
-        </author>
-        <summary type="text"><![CDATA[20260702]]></summary>
-    </entry>
-        <entry>
-        <title>完成比完美更诚实</title>
-        <id>162573</id>
-        <link href="https://blog.solazy.me/20260703/?utm_source=blogfinder" />
-        <published>2026-07-03T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[完成比完美更诚实]]></summary>
-    </entry>
-        <entry>
-        <title>sim-use - 给 agent 装上眼睛和手，让 mobile 开发跟上 AI 时代</title>
-        <id>162458</id>
-        <link href="https://onevcat.com/2026/07/sim-use/?utm_source=blogfinder" />
-        <published>2026-07-03T22:50:00+08:00</published>
-        <author>
-            <name>OneV&#039;s Den</name>
-            <uri>https://onevcat.com/#blog</uri>
-        </author>
-        <summary type="text"><![CDATA[sim-use - 给 agent 装上眼睛和手，让 mobile 开发跟上 AI 时代]]></summary>
-    </entry>
-        <entry>
-        <title>下班以后</title>
-        <id>162473</id>
-        <link href="https://yinji.org/life-after-work.html?utm_source=blogfinder" />
-        <published>2026-07-03T22:41:24+08:00</published>
-        <author>
-            <name>印记</name>
-            <uri>https://yinji.org</uri>
-        </author>
-        <summary type="text"><![CDATA[下班以后]]></summary>
-    </entry>
-        <entry>
-        <title>[说说] 最近公司小道消息不断，年底大概率要来一大波。 AI 时代滚滚而来，谁都没办法阻挡。 但说实话，比起「...</title>
-        <id>162486</id>
-        <link href="https://blog.boguan.site/moments/98e86896-584b-4aa4-ae67-95cd35858522?utm_source=blogfinder" />
-        <published>2026-07-03T22:38:33+08:00</published>
-        <author>
-            <name>开发者十一</name>
-            <uri>https://blog.boguan.site</uri>
-        </author>
-        <summary type="text"><![CDATA[[说说] 最近公司小道消息不断，年底大概率要来一大波。 AI 时代滚滚而来，谁都没办法阻挡。 但说实话，比起「...]]></summary>
     </entry>
     </feed>
