@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-07T20:02:00+08:00</updated>
+    <updated>2026-07-07T23:00:33+08:00</updated>
+        <entry>
+        <title>7月7没有情</title>
+        <id>162763</id>
+        <link href="https://hjyl.org/7-7-fucking-day/?utm_source=blogfinder" />
+        <published>2026-07-07T20:57:15+08:00</published>
+        <author>
+            <name>皇家元林</name>
+            <uri>https://hjyl.org</uri>
+        </author>
+        <summary type="text"><![CDATA[7月7没有情]]></summary>
+    </entry>
         <entry>
         <title>给OpenClaw加上rm删除保护：防止AI误删你的整个电脑</title>
         <id>162757</id>
@@ -264,6 +275,17 @@
             <uri>https://hulatu.com</uri>
         </author>
         <summary type="text"><![CDATA[第一次进健身房，深蹲破 100 Kg]]></summary>
+    </entry>
+        <entry>
+        <title>补:2025年度总结</title>
+        <id>162771</id>
+        <link href="https://blog.liseezn.top/2025%e5%b9%b4%e5%ba%a6%e6%80%bb%e7%bb%93.html/?utm_source=blogfinder" />
+        <published>2026-07-06T23:20:08+08:00</published>
+        <author>
+            <name>Liseezn&#039;blog</name>
+            <uri>https://blog.liseezn.top</uri>
+        </author>
+        <summary type="text"><![CDATA[补:2025年度总结]]></summary>
     </entry>
         <entry>
         <title>第一次进健身房，深蹲破</title>
@@ -706,6 +728,17 @@
         <summary type="text"><![CDATA[CodexBar — 开源项目深度解析]]></summary>
     </entry>
         <entry>
+        <title>你好</title>
+        <id>162759</id>
+        <link href="https://blog.aqcoder.cn/posts/50a2b841/?utm_source=blogfinder" />
+        <published>2026-07-05T22:02:00+08:00</published>
+        <author>
+            <name>枫叶</name>
+            <uri>https://blog.aqcoder.cn/</uri>
+        </author>
+        <summary type="text"><![CDATA[你好]]></summary>
+    </entry>
+        <entry>
         <title>最新可用 Anna&#039;s Archive 安娜的档案 官方镜像站</title>
         <id>162661</id>
         <link href="https://meledee.com/2026/07/4827.html?utm_source=blogfinder" />
@@ -726,6 +759,39 @@
             <uri>https://ichov.com</uri>
         </author>
         <summary type="text"><![CDATA[得过且过]]></summary>
+    </entry>
+        <entry>
+        <title>Notion示例文章</title>
+        <id>162762</id>
+        <link href="https://blog.aqcoder.cn/posts/730cbf39/?utm_source=blogfinder" />
+        <published>2026-07-05T21:39:00+08:00</published>
+        <author>
+            <name>枫叶</name>
+            <uri>https://blog.aqcoder.cn/</uri>
+        </author>
+        <summary type="text"><![CDATA[Notion示例文章]]></summary>
+    </entry>
+        <entry>
+        <title>Notion-Hexo 的 Elog 配置详解</title>
+        <id>162761</id>
+        <link href="https://blog.aqcoder.cn/posts/cfaae164/?utm_source=blogfinder" />
+        <published>2026-07-05T21:39:00+08:00</published>
+        <author>
+            <name>枫叶</name>
+            <uri>https://blog.aqcoder.cn/</uri>
+        </author>
+        <summary type="text"><![CDATA[Notion-Hexo 的 Elog 配置详解]]></summary>
+    </entry>
+        <entry>
+        <title>Notion + Hexo + GitHub Actions + Vercel 博客解决方案</title>
+        <id>162760</id>
+        <link href="https://blog.aqcoder.cn/posts/a65df701/?utm_source=blogfinder" />
+        <published>2026-07-05T21:39:00+08:00</published>
+        <author>
+            <name>枫叶</name>
+            <uri>https://blog.aqcoder.cn/</uri>
+        </author>
+        <summary type="text"><![CDATA[Notion + Hexo + GitHub Actions + Vercel 博客解决方案]]></summary>
     </entry>
         <entry>
         <title>Notion示例文章</title>
@@ -1276,49 +1342,5 @@
             <uri>http://stuit.cn</uri>
         </author>
         <summary type="text"><![CDATA[金色扶梯（20260703）]]></summary>
-    </entry>
-        <entry>
-        <title>周末流水账 0704</title>
-        <id>162652</id>
-        <link href="https://blog.solazy.me/20260704/?utm_source=blogfinder" />
-        <published>2026-07-04T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[周末流水账 0704]]></summary>
-    </entry>
-        <entry>
-        <title>试图使用 Ungoogled Chromium</title>
-        <id>162645</id>
-        <link href="https://re.karlbaey.top/articles/rocky-road/ungoogled-chromium/?utm_source=blogfinder" />
-        <published>2026-07-04T21:50:31+08:00</published>
-        <author>
-            <name>Jerry Karlbaey</name>
-            <uri>https://re.karlbaey.top</uri>
-        </author>
-        <summary type="text"><![CDATA[试图使用 Ungoogled Chromium]]></summary>
-    </entry>
-        <entry>
-        <title>在闪烁的屏幕后准备跃起的人</title>
-        <id>162599</id>
-        <link href="https://www.pgoj.top/archives/xiao-an-xin-wen.html?utm_source=blogfinder" />
-        <published>2026-07-04T20:44:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[在闪烁的屏幕后准备跃起的人]]></summary>
-    </entry>
-        <entry>
-        <title>廿周年｜纪念周边兑换说明</title>
-        <id>162582</id>
-        <link href="https://zhujay.com/talk/talk_detail.html?id=1252&amp;utm_source=blogfinder" />
-        <published>2026-07-04T20:20:40+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[廿周年｜纪念周边兑换说明]]></summary>
     </entry>
     </feed>
