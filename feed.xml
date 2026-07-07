@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-07T16:00:16+08:00</updated>
+    <updated>2026-07-07T20:02:00+08:00</updated>
+        <entry>
+        <title>给OpenClaw加上rm删除保护：防止AI误删你的整个电脑</title>
+        <id>162757</id>
+        <link href="https://blog.zhheo.com/p/owiixgnk.html?utm_source=blogfinder" />
+        <published>2026-07-07T19:06:00+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[给OpenClaw加上rm删除保护：防止AI误删你的整个电脑]]></summary>
+    </entry>
+        <entry>
+        <title>GitHub毒舌评分</title>
+        <id>162754</id>
+        <link href="http://www.tucong.vip/archives/githubdu-she-ping-fen?utm_source=blogfinder" />
+        <published>2026-07-07T15:10:09+08:00</published>
+        <author>
+            <name>Tea Bush</name>
+            <uri>https://www.tucong.vip</uri>
+        </author>
+        <summary type="text"><![CDATA[GitHub毒舌评分]]></summary>
+    </entry>
+        <entry>
+        <title>Clash Plus</title>
+        <id>162755</id>
+        <link href="http://www.tucong.vip/archives/clash-plus?utm_source=blogfinder" />
+        <published>2026-07-07T15:02:07+08:00</published>
+        <author>
+            <name>Tea Bush</name>
+            <uri>https://www.tucong.vip</uri>
+        </author>
+        <summary type="text"><![CDATA[Clash Plus]]></summary>
+    </entry>
+        <entry>
+        <title>DINOv2 与 AnyLoc：自监督基础模型与零训练位置检索</title>
+        <id>162758</id>
+        <link href="https://www.zywvvd.com/notes/study/SLAM/dinov2-anyloc/dinov2-anyloc/?utm_source=blogfinder" />
+        <published>2026-07-07T14:50:24+08:00</published>
+        <author>
+            <name>又见苍岚</name>
+            <uri>https://www.zywvvd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[DINOv2 与 AnyLoc：自监督基础模型与零训练位置检索]]></summary>
+    </entry>
         <entry>
         <title>为了让用户给博客投稿 我做了一个投稿系统</title>
         <id>162749</id>
@@ -242,6 +286,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1691】陈荻洲辑《纪文达公笔记摘要》]]></summary>
+    </entry>
+        <entry>
+        <title>志愿表上的那些事</title>
+        <id>162756</id>
+        <link href="https://blog.veitzn.top/%e5%bf%97%e6%84%bf%e8%a1%a8%e4%b8%8a%e7%9a%84%e9%82%a3%e4%ba%9b%e4%ba%8b/?utm_source=blogfinder" />
+        <published>2026-07-06T20:52:29+08:00</published>
+        <author>
+            <name>Veitzn 的小屋</name>
+            <uri>https://blog.veitzn.top</uri>
+        </author>
+        <summary type="text"><![CDATA[志愿表上的那些事]]></summary>
     </entry>
         <entry>
         <title>Android 模拟器代理联网与 No Internet WiFi 锁死排坑笔记 | 阿尔的代码屋</title>
@@ -1265,60 +1320,5 @@
             <uri>https://zhujay.com</uri>
         </author>
         <summary type="text"><![CDATA[廿周年｜纪念周边兑换说明]]></summary>
-    </entry>
-        <entry>
-        <title>无用命途：酒精，酒精膏？</title>
-        <id>162583</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1410/?utm_source=blogfinder" />
-        <published>2026-07-04T19:58:00+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[无用命途：酒精，酒精膏？]]></summary>
-    </entry>
-        <entry>
-        <title>于日常处 · 七月记</title>
-        <id>162644</id>
-        <link href="https://bluehe.cn/archives/2026-diary?utm_source=blogfinder" />
-        <published>2026-07-04T19:32:00+08:00</published>
-        <author>
-            <name>云心怀鹤</name>
-            <uri>https://bluehe.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[于日常处 · 七月记]]></summary>
-    </entry>
-        <entry>
-        <title>聊一聊大家博客的设计</title>
-        <id>162594</id>
-        <link href="https://d-d.design/single/19535?utm_source=blogfinder" />
-        <published>2026-07-04T19:05:16+08:00</published>
-        <author>
-            <name>孤斗</name>
-            <uri>https://d-d.design</uri>
-        </author>
-        <summary type="text"><![CDATA[聊一聊大家博客的设计]]></summary>
-    </entry>
-        <entry>
-        <title>拖延确实很折磨人</title>
-        <id>162581</id>
-        <link href="https://www.suiyan.cc/blog/20260704183515?utm_source=blogfinder" />
-        <published>2026-07-04T18:35:15+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[拖延确实很折磨人]]></summary>
-    </entry>
-        <entry>
-        <title>代码在发臭：一个能&quot;闻&quot;出坏味道的 AI 技能，我拿它扫了最新的开源代码</title>
-        <id>162570</id>
-        <link href="https://colobu.com/2026/07/04/ai-skill-sniffs-out-code-smells/?utm_source=blogfinder" />
-        <published>2026-07-04T16:08:14+08:00</published>
-        <author>
-            <name>鸟窝</name>
-            <uri>https://colobu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[代码在发臭：一个能&quot;闻&quot;出坏味道的 AI 技能，我拿它扫了最新的开源代码]]></summary>
     </entry>
     </feed>
