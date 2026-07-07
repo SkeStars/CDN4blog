@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-07T23:00:33+08:00</updated>
+    <updated>2026-07-08T00:01:15+08:00</updated>
+        <entry>
+        <title>副业是一场独谋</title>
+        <id>162772</id>
+        <link href="https://blog.solazy.me/20260707/?utm_source=blogfinder" />
+        <published>2026-07-07T21:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[副业是一场独谋]]></summary>
+    </entry>
         <entry>
         <title>7月7没有情</title>
         <id>162763</id>
@@ -1199,148 +1210,5 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[只拍了两张照片]]></summary>
-    </entry>
-        <entry>
-        <title>山陕漫游</title>
-        <id>162720</id>
-        <link href="http://kangaroogao.com/posts/f9d1/?utm_source=blogfinder" />
-        <published>2026-07-05T00:00:00+08:00</published>
-        <author>
-            <name>三峡星河</name>
-            <uri>https://kangaroogao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[山陕漫游]]></summary>
-    </entry>
-        <entry>
-        <title>MCP for Unity：用自然语言控制 Unity 编辑器，AI 驱动的游戏开发新范式</title>
-        <id>162688</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-05/unity-mcp/?utm_source=blogfinder" />
-        <published>2026-07-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[MCP for Unity：用自然语言控制 Unity 编辑器，AI 驱动的游戏开发新范式]]></summary>
-    </entry>
-        <entry>
-        <title>MarketingSkills：为 AI Agent 打造的营销技能库</title>
-        <id>162687</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-05/marketingskills/?utm_source=blogfinder" />
-        <published>2026-07-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[MarketingSkills：为 AI Agent 打造的营销技能库]]></summary>
-    </entry>
-        <entry>
-        <title>Awesome Claude Code：Claude Code 生态资源大全，打造你的 AI 编程终极武器</title>
-        <id>162686</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-05/awesome-claude-code/?utm_source=blogfinder" />
-        <published>2026-07-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Awesome Claude Code：Claude Code 生态资源大全，打造你的 AI 编程终极武器]]></summary>
-    </entry>
-        <entry>
-        <title>354 个生产级 Claude Code 技能包：覆盖 13 个 AI 编程工具的超全开源技能库</title>
-        <id>162685</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-05/claude-skills/?utm_source=blogfinder" />
-        <published>2026-07-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[354 个生产级 Claude Code 技能包：覆盖 13 个 AI 编程工具的超全开源技能库]]></summary>
-    </entry>
-        <entry>
-        <title>人生无意义</title>
-        <id>162672</id>
-        <link href="https://weiqiang.org/zh/2026-07-05-rensheng-yiyi.html?utm_source=blogfinder" />
-        <published>2026-07-05T00:00:00+08:00</published>
-        <author>
-            <name>村野闲居</name>
-            <uri>https://weiqiang.org</uri>
-        </author>
-        <summary type="text"><![CDATA[人生无意义]]></summary>
-    </entry>
-        <entry>
-        <title>夏雨</title>
-        <id>162669</id>
-        <link href="https://tianheg.co/posts/summer-rain/?utm_source=blogfinder" />
-        <published>2026-07-05T00:00:00+08:00</published>
-        <author>
-            <name>一大加贝</name>
-            <uri>https://tianheg.co</uri>
-        </author>
-        <summary type="text"><![CDATA[夏雨]]></summary>
-    </entry>
-        <entry>
-        <title>Immich：高性能自托管照片和视频管理解决方案</title>
-        <id>162604</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-05/immich/?utm_source=blogfinder" />
-        <published>2026-07-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Immich：高性能自托管照片和视频管理解决方案]]></summary>
-    </entry>
-        <entry>
-        <title>Folia：全屏沉浸式歌词播放器，让音乐可视化如文字PV般震撼</title>
-        <id>162603</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-05/folia-major/?utm_source=blogfinder" />
-        <published>2026-07-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Folia：全屏沉浸式歌词播放器，让音乐可视化如文字PV般震撼]]></summary>
-    </entry>
-        <entry>
-        <title>.NET Agent Skills：微软官方出品的 AI 编程代理技能库</title>
-        <id>162602</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-05/skills/?utm_source=blogfinder" />
-        <published>2026-07-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[.NET Agent Skills：微软官方出品的 AI 编程代理技能库]]></summary>
-    </entry>
-        <entry>
-        <title>【也闲谈·第四季】十七：斯人若彩虹，遇上方知有（终章）</title>
-        <id>162601</id>
-        <link href="http://www.qncd.com/?p=12899&amp;utm_source=blogfinder" />
-        <published>2026-07-04T23:19:11+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【也闲谈·第四季】十七：斯人若彩虹，遇上方知有（终章）]]></summary>
-    </entry>
-        <entry>
-        <title>关于执行者到领导者的痛苦转换</title>
-        <id>162659</id>
-        <link href="https://blog.imalan.cn/archives/painful-shift-from-a-executor-to-a-leader/?utm_source=blogfinder" />
-        <published>2026-07-04T23:18:52+08:00</published>
-        <author>
-            <name>失眠海峡</name>
-            <uri>https://blog.imalan.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[关于执行者到领导者的痛苦转换]]></summary>
-    </entry>
-        <entry>
-        <title>金色扶梯（20260703）</title>
-        <id>162648</id>
-        <link href="http://stuit.cn/Xiaolu/Post/1621.html?utm_source=blogfinder" />
-        <published>2026-07-04T23:07:06+08:00</published>
-        <author>
-            <name>风雨行者</name>
-            <uri>http://stuit.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[金色扶梯（20260703）]]></summary>
     </entry>
     </feed>
