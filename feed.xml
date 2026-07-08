@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-08T20:01:06+08:00</updated>
+    <updated>2026-07-08T22:01:20+08:00</updated>
+        <entry>
+        <title>自动同步 GitHub copilot 和 codebuddy 的配置目录</title>
+        <id>162904</id>
+        <link href="https://www.sunzhongwei.com/auto-sync-configuration-directories-of-github-copilot-codebuddy?utm_source=blogfinder" />
+        <published>2026-07-08T21:08:54+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[自动同步 GitHub copilot 和 codebuddy 的配置目录]]></summary>
+    </entry>
+        <entry>
+        <title>摄影练习·平凡众生相</title>
+        <id>162914</id>
+        <link href="https://ygz.ink/archives/5475.html?utm_source=blogfinder" />
+        <published>2026-07-08T19:55:50+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[摄影练习·平凡众生相]]></summary>
+    </entry>
+        <entry>
+        <title>我本偏爱，人间漂泊</title>
+        <id>162913</id>
+        <link href="https://airy.ink/times/459?utm_source=blogfinder" />
+        <published>2026-07-08T18:38:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[我本偏爱，人间漂泊]]></summary>
+    </entry>
+        <entry>
+        <title>ai-job-search 新手使用教程：把 Claude Code 变成你的求职工作台</title>
+        <id>162903</id>
+        <link href="https://www.wangdu.site/course/2366.html?utm_source=blogfinder" />
+        <published>2026-07-08T17:52:44+08:00</published>
+        <author>
+            <name>文武科技柜</name>
+            <uri>https://www.wangdu.site</uri>
+        </author>
+        <summary type="text"><![CDATA[ai-job-search 新手使用教程：把 Claude Code 变成你的求职工作台]]></summary>
+    </entry>
+        <entry>
+        <title>公益服务迁移通知</title>
+        <id>162906</id>
+        <link href="https://blog.goodboyboy.top/posts/2030627247.html?utm_source=blogfinder" />
+        <published>2026-07-08T16:51:55+08:00</published>
+        <author>
+            <name>GoodBoyboy</name>
+            <uri>https://blog.goodboyboy.top</uri>
+        </author>
+        <summary type="text"><![CDATA[公益服务迁移通知]]></summary>
+    </entry>
         <entry>
         <title>CloudCone的鬼才运营：提前 10 小时通知“机房物理搬迁”，还说不服不给退款？</title>
         <id>162900</id>
@@ -99,6 +154,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[论梦]]></summary>
+    </entry>
+        <entry>
+        <title>被京东的省钱卡坑了</title>
+        <id>162915</id>
+        <link href="https://dahai.plus/archives/116?utm_source=blogfinder" />
+        <published>2026-07-08T09:35:47+08:00</published>
+        <author>
+            <name>大海拾光</name>
+            <uri>https://dahai.plus</uri>
+        </author>
+        <summary type="text"><![CDATA[被京东的省钱卡坑了]]></summary>
     </entry>
         <entry>
         <title>26年6月总结-摆烂</title>
@@ -253,6 +319,17 @@
             <uri>https://blog.zhheo.com</uri>
         </author>
         <summary type="text"><![CDATA[给OpenClaw加上rm删除保护：防止AI误删你的整个电脑]]></summary>
+    </entry>
+        <entry>
+        <title>一种基于argon2id算法与shamir算法的内存PoW（工作量证明）解密游戏</title>
+        <id>162907</id>
+        <link href="https://blog.goodboyboy.top/posts/4010684677.html?utm_source=blogfinder" />
+        <published>2026-07-07T18:45:47+08:00</published>
+        <author>
+            <name>GoodBoyboy</name>
+            <uri>https://blog.goodboyboy.top</uri>
+        </author>
+        <summary type="text"><![CDATA[一种基于argon2id算法与shamir算法的内存PoW（工作量证明）解密游戏]]></summary>
     </entry>
         <entry>
         <title>287、小暑</title>
@@ -1124,6 +1201,17 @@
         <summary type="text"><![CDATA[CodexBar — 开源项目深度解析]]></summary>
     </entry>
         <entry>
+        <title>终于可以搞定notion自动部署了</title>
+        <id>162905</id>
+        <link href="https://blog.aqcoder.cn/posts/5310c379/?utm_source=blogfinder" />
+        <published>2026-07-05T22:02:00+08:00</published>
+        <author>
+            <name>枫叶</name>
+            <uri>https://blog.aqcoder.cn/</uri>
+        </author>
+        <summary type="text"><![CDATA[终于可以搞定notion自动部署了]]></summary>
+    </entry>
+        <entry>
         <title>你好</title>
         <id>162759</id>
         <link href="https://blog.aqcoder.cn/posts/50a2b841/?utm_source=blogfinder" />
@@ -1133,126 +1221,5 @@
             <uri>https://blog.aqcoder.cn/</uri>
         </author>
         <summary type="text"><![CDATA[你好]]></summary>
-    </entry>
-        <entry>
-        <title>最新可用 Anna&#039;s Archive 安娜的档案 官方镜像站</title>
-        <id>162661</id>
-        <link href="https://meledee.com/2026/07/4827.html?utm_source=blogfinder" />
-        <published>2026-07-05T21:56:28+08:00</published>
-        <author>
-            <name>美樂地</name>
-            <uri>https://meledee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[最新可用 Anna&#039;s Archive 安娜的档案 官方镜像站]]></summary>
-    </entry>
-        <entry>
-        <title>得过且过</title>
-        <id>162673</id>
-        <link href="https://ichov.com/blog/deguoqieguo.html?utm_source=blogfinder" />
-        <published>2026-07-05T21:46:09+08:00</published>
-        <author>
-            <name>江子渔</name>
-            <uri>https://ichov.com</uri>
-        </author>
-        <summary type="text"><![CDATA[得过且过]]></summary>
-    </entry>
-        <entry>
-        <title>Notion示例文章</title>
-        <id>162762</id>
-        <link href="https://blog.aqcoder.cn/posts/730cbf39/?utm_source=blogfinder" />
-        <published>2026-07-05T21:39:00+08:00</published>
-        <author>
-            <name>枫叶</name>
-            <uri>https://blog.aqcoder.cn/</uri>
-        </author>
-        <summary type="text"><![CDATA[Notion示例文章]]></summary>
-    </entry>
-        <entry>
-        <title>Notion-Hexo 的 Elog 配置详解</title>
-        <id>162761</id>
-        <link href="https://blog.aqcoder.cn/posts/cfaae164/?utm_source=blogfinder" />
-        <published>2026-07-05T21:39:00+08:00</published>
-        <author>
-            <name>枫叶</name>
-            <uri>https://blog.aqcoder.cn/</uri>
-        </author>
-        <summary type="text"><![CDATA[Notion-Hexo 的 Elog 配置详解]]></summary>
-    </entry>
-        <entry>
-        <title>Notion + Hexo + GitHub Actions + Vercel 博客解决方案</title>
-        <id>162760</id>
-        <link href="https://blog.aqcoder.cn/posts/a65df701/?utm_source=blogfinder" />
-        <published>2026-07-05T21:39:00+08:00</published>
-        <author>
-            <name>枫叶</name>
-            <uri>https://blog.aqcoder.cn/</uri>
-        </author>
-        <summary type="text"><![CDATA[Notion + Hexo + GitHub Actions + Vercel 博客解决方案]]></summary>
-    </entry>
-        <entry>
-        <title>Notion示例文章</title>
-        <id>162716</id>
-        <link href="https://blog.aqcoder.cn/notion-example/?utm_source=blogfinder" />
-        <published>2026-07-05T21:39:00+08:00</published>
-        <author>
-            <name>枫叶</name>
-            <uri>https://blog.aqcoder.cn/</uri>
-        </author>
-        <summary type="text"><![CDATA[Notion示例文章]]></summary>
-    </entry>
-        <entry>
-        <title>Notion-Hexo 的 Elog 配置详解</title>
-        <id>162715</id>
-        <link href="https://blog.aqcoder.cn/notion-notice/?utm_source=blogfinder" />
-        <published>2026-07-05T21:39:00+08:00</published>
-        <author>
-            <name>枫叶</name>
-            <uri>https://blog.aqcoder.cn/</uri>
-        </author>
-        <summary type="text"><![CDATA[Notion-Hexo 的 Elog 配置详解]]></summary>
-    </entry>
-        <entry>
-        <title>Notion + Hexo + GitHub Actions + Vercel 博客解决方案</title>
-        <id>162714</id>
-        <link href="https://blog.aqcoder.cn/notion-hexo/?utm_source=blogfinder" />
-        <published>2026-07-05T21:39:00+08:00</published>
-        <author>
-            <name>枫叶</name>
-            <uri>https://blog.aqcoder.cn/</uri>
-        </author>
-        <summary type="text"><![CDATA[Notion + Hexo + GitHub Actions + Vercel 博客解决方案]]></summary>
-    </entry>
-        <entry>
-        <title>📷“拍照特种兵”的下午</title>
-        <id>162658</id>
-        <link href="https://ygz.ink/archives/5457.html?utm_source=blogfinder" />
-        <published>2026-07-05T21:38:16+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[📷“拍照特种兵”的下午]]></summary>
-    </entry>
-        <entry>
-        <title>看下chrome的内置模型</title>
-        <id>162660</id>
-        <link href="https://nicksxs.me/2026/07/05/%E7%9C%8B%E4%B8%8Bchrome%E7%9A%84%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9E%8B/?utm_source=blogfinder" />
-        <published>2026-07-05T20:52:32+08:00</published>
-        <author>
-            <name>Nicksxs&#039;s Blog</name>
-            <uri>https://nicksxs.me</uri>
-        </author>
-        <summary type="text"><![CDATA[看下chrome的内置模型]]></summary>
-    </entry>
-        <entry>
-        <title>专业的事情还得专业人士来做</title>
-        <id>162679</id>
-        <link href="https://www.pgoj.top/archives/zhuan-ye-shi-qing.html?utm_source=blogfinder" />
-        <published>2026-07-05T20:04:05+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[专业的事情还得专业人士来做]]></summary>
     </entry>
     </feed>
