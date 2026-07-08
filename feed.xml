@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-08T11:00:43+08:00</updated>
+    <updated>2026-07-08T15:01:27+08:00</updated>
         <entry>
         <title>七月七日</title>
         <id>162893</id>
@@ -33,6 +33,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[倒计时两天，迎接暑假]]></summary>
+    </entry>
+        <entry>
+        <title>inBox笔记：你的灵感捕捉与知识管理利器</title>
+        <id>162894</id>
+        <link href="https://blog.flechazo.icu/2026/07/08/inbox-%E5%8D%A1%E7%89%87%E5%BC%8F%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6/?utm_source=blogfinder" />
+        <published>2026-07-08T09:57:37+08:00</published>
+        <author>
+            <name>妄司逸</name>
+            <uri>https://blog.flechazo.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[inBox笔记：你的灵感捕捉与知识管理利器]]></summary>
     </entry>
         <entry>
         <title>论梦</title>
@@ -187,6 +198,17 @@
             <uri>https://1900.live</uri>
         </author>
         <summary type="text"><![CDATA[287、小暑]]></summary>
+    </entry>
+        <entry>
+        <title>电源保护器</title>
+        <id>162895</id>
+        <link href="https://ltmltm.cn/bk/1475.html?utm_source=blogfinder" />
+        <published>2026-07-07T16:27:21+08:00</published>
+        <author>
+            <name>因为很想念</name>
+            <uri>https://ltmltm.cn/bk</uri>
+        </author>
+        <summary type="text"><![CDATA[电源保护器]]></summary>
     </entry>
         <entry>
         <title>GitHub毒舌评分</title>
@@ -1320,38 +1342,5 @@
             <uri>https://blog.debuginn.com</uri>
         </author>
         <summary type="text"><![CDATA[恒生银行内地见证开户攻略]]></summary>
-    </entry>
-        <entry>
-        <title>[文章] 最近用 AI 开发产品的一些感受</title>
-        <id>162646</id>
-        <link href="https://blog.boguan.site/articles/1fe227c3-706d-44cd-9957-1e1a9cdcf991?utm_source=blogfinder" />
-        <published>2026-07-05T14:05:20+08:00</published>
-        <author>
-            <name>开发者十一</name>
-            <uri>https://blog.boguan.site</uri>
-        </author>
-        <summary type="text"><![CDATA[[文章] 最近用 AI 开发产品的一些感受]]></summary>
-    </entry>
-        <entry>
-        <title>片刻・Jdeal 发布了一条新动态~</title>
-        <id>162670</id>
-        <link href="https://www.jdeal.cn/cross.html#5252?utm_source=blogfinder" />
-        <published>2026-07-05T12:40:08+08:00</published>
-        <author>
-            <name>Jdeal</name>
-            <uri>https://www.jdeal.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[片刻・Jdeal 发布了一条新动态~]]></summary>
-    </entry>
-        <entry>
-        <title>误操作导致部分数据丢失</title>
-        <id>162681</id>
-        <link href="http://www.auiou.com/relevant/00002166.jsp?utm_source=blogfinder" />
-        <published>2026-07-05T11:18:00+08:00</published>
-        <author>
-            <name>王志勇的 Blog</name>
-            <uri>http://www.auiou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[误操作导致部分数据丢失]]></summary>
     </entry>
     </feed>
