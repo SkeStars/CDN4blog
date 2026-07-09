@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-09T12:00:58+08:00</updated>
+    <updated>2026-07-09T16:00:44+08:00</updated>
+        <entry>
+        <title>野猫与公鸡</title>
+        <id>163025</id>
+        <link href="https://mobius.blog/25016.html?utm_source=blogfinder" />
+        <published>2026-07-09T15:27:22+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[野猫与公鸡]]></summary>
+    </entry>
+        <entry>
+        <title>本站评论提示“评论发布者的邮箱地址被管理员屏蔽”已修复！</title>
+        <id>163024</id>
+        <link href="https://imxcy.cn/archives/e200075c.html?utm_source=blogfinder" />
+        <published>2026-07-09T14:34:33+08:00</published>
+        <author>
+            <name>许大阳的日记本</name>
+            <uri>https://imxcy.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[本站评论提示“评论发布者的邮箱地址被管理员屏蔽”已修复！]]></summary>
+    </entry>
+        <entry>
+        <title>海洋电脑助手 v1.7</title>
+        <id>163022</id>
+        <link href="https://jyblog.com/5820/?utm_source=blogfinder" />
+        <published>2026-07-09T13:33:54+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.com</uri>
+        </author>
+        <summary type="text"><![CDATA[海洋电脑助手 v1.7]]></summary>
+    </entry>
         <entry>
         <title>Wireshark 在 Ubuntu 上的安装配置与抓包实践</title>
         <id>163019</id>
@@ -24,6 +57,17 @@
         <summary type="text"><![CDATA[Wireshark 在 Ubuntu 上的安装配置与抓包实践]]></summary>
     </entry>
         <entry>
+        <title>收到地震预警</title>
+        <id>163023</id>
+        <link href="http://etom.top/archives/so181.html?utm_source=blogfinder" />
+        <published>2026-07-09T09:13:20+08:00</published>
+        <author>
+            <name>浮生事</name>
+            <uri>http://etom.top</uri>
+        </author>
+        <summary type="text"><![CDATA[收到地震预警]]></summary>
+    </entry>
+        <entry>
         <title>命题错误，答即有错</title>
         <id>162932</id>
         <link href="https://www.jianker.cn/386.html?utm_source=blogfinder" />
@@ -33,6 +77,17 @@
             <uri>https://www.jianker.cn</uri>
         </author>
         <summary type="text"><![CDATA[命题错误，答即有错]]></summary>
+    </entry>
+        <entry>
+        <title>不要在情绪激动时候做决定</title>
+        <id>163021</id>
+        <link href="https://www.sanji.one/fu-sheng-za-ji/dont-make-decisions-in-the-heat-of-the-moment.html?utm_source=blogfinder" />
+        <published>2026-07-09T02:18:00+08:00</published>
+        <author>
+            <name>时光散记</name>
+            <uri>https://www.sanji.one</uri>
+        </author>
+        <summary type="text"><![CDATA[不要在情绪激动时候做决定]]></summary>
     </entry>
         <entry>
         <title>美团众包蜂鸟众包京东秒送新手入门技巧</title>
@@ -55,6 +110,17 @@
             <uri>https://pwsz.com</uri>
         </author>
         <summary type="text"><![CDATA[2026射箭达级赛之苏州站]]></summary>
+    </entry>
+        <entry>
+        <title>酥米的碎碎念（14），我毕业啦！</title>
+        <id>163026</id>
+        <link href="https://www.sumi233.top/%E9%85%A5%E7%B1%B3%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/%E9%85%A5%E7%B1%B3%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B514/?utm_source=blogfinder" />
+        <published>2026-07-08T23:00:00+08:00</published>
+        <author>
+            <name>酥米的小站</name>
+            <uri>https://www.sumi233.top</uri>
+        </author>
+        <summary type="text"><![CDATA[酥米的碎碎念（14），我毕业啦！]]></summary>
     </entry>
         <entry>
         <title>超哥的自动铅笔</title>
@@ -1089,104 +1155,5 @@
             <uri>https://ficor.net</uri>
         </author>
         <summary type="text"><![CDATA[年中记]]></summary>
-    </entry>
-        <entry>
-        <title>停电</title>
-        <id>162748</id>
-        <link href="https://ltmltm.cn/bk/1472.html?utm_source=blogfinder" />
-        <published>2026-07-06T15:58:00+08:00</published>
-        <author>
-            <name>因为很想念</name>
-            <uri>https://ltmltm.cn/bk</uri>
-        </author>
-        <summary type="text"><![CDATA[停电]]></summary>
-    </entry>
-        <entry>
-        <title>淘小胖</title>
-        <id>162745</id>
-        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1175&amp;utm_source=blogfinder" />
-        <published>2026-07-06T15:37:55+08:00</published>
-        <author>
-            <name>徐建伟</name>
-            <uri>http://www.xulog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[淘小胖]]></summary>
-    </entry>
-        <entry>
-        <title>大脑充血 Vol.88</title>
-        <id>162703</id>
-        <link href="https://www.geedea.pro/weekly/88/?utm_source=blogfinder" />
-        <published>2026-07-06T15:32:45+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[大脑充血 Vol.88]]></summary>
-    </entry>
-        <entry>
-        <title>PVE下it87安装驱动+风扇调速教程</title>
-        <id>162722</id>
-        <link href="https://www.sumi233.top/%E6%95%99%E7%A8%8B/pveit87/?utm_source=blogfinder" />
-        <published>2026-07-06T15:30:13+08:00</published>
-        <author>
-            <name>酥米的小站</name>
-            <uri>https://www.sumi233.top</uri>
-        </author>
-        <summary type="text"><![CDATA[PVE下it87安装驱动+风扇调速教程]]></summary>
-    </entry>
-        <entry>
-        <title>[文章] 因为没备份，我的博客数据全丢了</title>
-        <id>162697</id>
-        <link href="https://blog.boguan.site/articles/78eae47a-bb09-46be-8f43-7fe7c8e7a713?utm_source=blogfinder" />
-        <published>2026-07-06T14:19:41+08:00</published>
-        <author>
-            <name>开发者十一</name>
-            <uri>https://blog.boguan.site</uri>
-        </author>
-        <summary type="text"><![CDATA[[文章] 因为没备份，我的博客数据全丢了]]></summary>
-    </entry>
-        <entry>
-        <title>说说：时隔很久没有走进电影院，周星驰新作《功夫女足》定档 7 月 11 日，…</title>
-        <id>162698</id>
-        <link href="https://yigeboke.com/shuoshuo.php#shuo_34?utm_source=blogfinder" />
-        <published>2026-07-06T13:53:52+08:00</published>
-        <author>
-            <name>一个博客</name>
-            <uri>https://yigeboke.com</uri>
-        </author>
-        <summary type="text"><![CDATA[说说：时隔很久没有走进电影院，周星驰新作《功夫女足》定档 7 月 11 日，…]]></summary>
-    </entry>
-        <entry>
-        <title>智阅 V4：从文章助手，到站点 AI 助手</title>
-        <id>162719</id>
-        <link href="https://www.xhhao.com/archives/SzJg675K?utm_source=blogfinder" />
-        <published>2026-07-06T13:37:27+08:00</published>
-        <author>
-            <name>林间拾语</name>
-            <uri>https://www.xhhao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[智阅 V4：从文章助手，到站点 AI 助手]]></summary>
-    </entry>
-        <entry>
-        <title>入伏倒计时</title>
-        <id>162699</id>
-        <link href="https://zhujay.com/talk/talk_detail.html?id=1253&amp;utm_source=blogfinder" />
-        <published>2026-07-06T13:10:21+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[入伏倒计时]]></summary>
-    </entry>
-        <entry>
-        <title>热烈庆祝 严重浪漫网站 运行6000天！</title>
-        <id>162706</id>
-        <link href="https://www.bat69.com/20260706/%e7%83%ad%e7%83%88%e5%ba%86%e7%a5%9d-%e4%b8%a5%e9%87%8d%e6%b5%aa%e6%bc%ab%e7%bd%91%e7%ab%99-%e8%bf%90%e8%a1%8c6000%e5%a4%a9%ef%bc%81.html?utm_source=blogfinder" />
-        <published>2026-07-06T13:05:07+08:00</published>
-        <author>
-            <name>严重浪漫</name>
-            <uri>https://www.bat69.com</uri>
-        </author>
-        <summary type="text"><![CDATA[热烈庆祝 严重浪漫网站 运行6000天！]]></summary>
     </entry>
     </feed>
