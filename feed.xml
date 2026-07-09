@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-09T16:00:44+08:00</updated>
+    <updated>2026-07-09T20:02:20+08:00</updated>
+        <entry>
+        <title>小孩的英语辅导</title>
+        <id>163031</id>
+        <link href="https://blog.codingnow.com/2026/07/learning_english.html?utm_source=blogfinder" />
+        <published>2026-07-09T16:32:46+08:00</published>
+        <author>
+            <name>云风的 BLOG</name>
+            <uri>https://blog.codingnow.com</uri>
+        </author>
+        <summary type="text"><![CDATA[小孩的英语辅导]]></summary>
+    </entry>
+        <entry>
+        <title>申请 Edgeone Makers 提升额度</title>
+        <id>163033</id>
+        <link href="https://xingwangzhe.fun/posts/apply-edgeone-makers/?utm_source=blogfinder" />
+        <published>2026-07-09T16:00:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[申请 Edgeone Makers 提升额度]]></summary>
+    </entry>
         <entry>
         <title>野猫与公鸡</title>
         <id>163025</id>
@@ -46,6 +68,39 @@
         <summary type="text"><![CDATA[海洋电脑助手 v1.7]]></summary>
     </entry>
         <entry>
+        <title>碎 碎 碎 言</title>
+        <id>163027</id>
+        <link href="https://www.suiyan.cc/blog/20260709112000?utm_source=blogfinder" />
+        <published>2026-07-09T11:20:00+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[碎 碎 碎 言]]></summary>
+    </entry>
+        <entry>
+        <title>从邮件里捞回丢失的评论：SQLite WAL 备份踩坑全记录</title>
+        <id>163029</id>
+        <link href="https://lcrworld.xyz/articles/47?utm_source=blogfinder" />
+        <published>2026-07-09T10:11:54+08:00</published>
+        <author>
+            <name>lcrworld</name>
+            <uri>https://lcrworld.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[从邮件里捞回丢失的评论：SQLite WAL 备份踩坑全记录]]></summary>
+    </entry>
+        <entry>
+        <title>一条 git reset --hard，我的数据库空了!</title>
+        <id>163030</id>
+        <link href="https://lcrworld.xyz/articles/46?utm_source=blogfinder" />
+        <published>2026-07-09T09:46:01+08:00</published>
+        <author>
+            <name>lcrworld</name>
+            <uri>https://lcrworld.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[一条 git reset --hard，我的数据库空了!]]></summary>
+    </entry>
+        <entry>
         <title>Wireshark 在 Ubuntu 上的安装配置与抓包实践</title>
         <id>163019</id>
         <link href="https://www.zywvvd.com/notes/tools/wireshark/wireshark/?utm_source=blogfinder" />
@@ -66,6 +121,17 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[收到地震预警]]></summary>
+    </entry>
+        <entry>
+        <title>當部落格超越 Threads</title>
+        <id>163028</id>
+        <link href="https://blog.giveanornot.com/when-blog-beats-threads/?utm_source=blogfinder" />
+        <published>2026-07-09T08:13:00+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[當部落格超越 Threads]]></summary>
     </entry>
         <entry>
         <title>命题错误，答即有错</title>
@@ -110,6 +176,17 @@
             <uri>https://pwsz.com</uri>
         </author>
         <summary type="text"><![CDATA[2026射箭达级赛之苏州站]]></summary>
+    </entry>
+        <entry>
+        <title>职场中的投诉</title>
+        <id>163032</id>
+        <link href="https://blog.solazy.me/20260708/?utm_source=blogfinder" />
+        <published>2026-07-08T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[职场中的投诉]]></summary>
     </entry>
         <entry>
         <title>酥米的碎碎念（14），我毕业啦！</title>
@@ -662,6 +739,17 @@
         <summary type="text"><![CDATA[电源保护器]]></summary>
     </entry>
         <entry>
+        <title>人工智能 Poster 专业展示</title>
+        <id>163034</id>
+        <link href="https://xingwangzhe.fun/posts/week3-ai-poster/?utm_source=blogfinder" />
+        <published>2026-07-07T16:00:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[人工智能 Poster 专业展示]]></summary>
+    </entry>
+        <entry>
         <title>GitHub毒舌评分</title>
         <id>162754</id>
         <link href="http://www.tucong.vip/archives/githubdu-she-ping-fen?utm_source=blogfinder" />
@@ -1089,71 +1177,5 @@
             <uri>https://blog.veitzn.top</uri>
         </author>
         <summary type="text"><![CDATA[志愿表上的那些事]]></summary>
-    </entry>
-        <entry>
-        <title>Android 模拟器代理联网与 No Internet WiFi 锁死排坑笔记 | 阿尔的代码屋</title>
-        <id>162710</id>
-        <link href="https://blog.algieba12.cn/record12-simulator-proxy/?utm_source=blogfinder" />
-        <published>2026-07-06T19:48:50+08:00</published>
-        <author>
-            <name>阿尔的代码屋</name>
-            <uri>https://blog.algieba12.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Android 模拟器代理联网与 No Internet WiFi 锁死排坑笔记 | 阿尔的代码屋]]></summary>
-    </entry>
-        <entry>
-        <title>AI自动回复评论，你怎么看？</title>
-        <id>162729</id>
-        <link href="https://www.suiyan.cc/blog/20260706192737?utm_source=blogfinder" />
-        <published>2026-07-06T19:27:40+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[AI自动回复评论，你怎么看？]]></summary>
-    </entry>
-        <entry>
-        <title>当编程变得不再有趣</title>
-        <id>162707</id>
-        <link href="https://onevcat.com/2026/07/coding-not-funny-anymore/?utm_source=blogfinder" />
-        <published>2026-07-06T19:18:00+08:00</published>
-        <author>
-            <name>OneV&#039;s Den</name>
-            <uri>https://onevcat.com</uri>
-        </author>
-        <summary type="text"><![CDATA[当编程变得不再有趣]]></summary>
-    </entry>
-        <entry>
-        <title>世界，您好！</title>
-        <id>162713</id>
-        <link href="https://ninan.me/2026/07/06/hello-world/?utm_source=blogfinder" />
-        <published>2026-07-06T18:28:13+08:00</published>
-        <author>
-            <name>呢喃</name>
-            <uri>https://ninan.me</uri>
-        </author>
-        <summary type="text"><![CDATA[世界，您好！]]></summary>
-    </entry>
-        <entry>
-        <title>儿子毕业典礼，刚开始就被大雨袭击了😅</title>
-        <id>162708</id>
-        <link href="https://fxpai.com/article/erzibiyedianligangkaishijiubeidayuxijile?utm_source=blogfinder" />
-        <published>2026-07-06T18:01:07+08:00</published>
-        <author>
-            <name>非学·派</name>
-            <uri>https://fxpai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[儿子毕业典礼，刚开始就被大雨袭击了😅]]></summary>
-    </entry>
-        <entry>
-        <title>年中记</title>
-        <id>162711</id>
-        <link href="https://ficor.net/archives/50?utm_source=blogfinder" />
-        <published>2026-07-06T16:57:00+08:00</published>
-        <author>
-            <name>荒野菲克</name>
-            <uri>https://ficor.net</uri>
-        </author>
-        <summary type="text"><![CDATA[年中记]]></summary>
     </entry>
     </feed>
