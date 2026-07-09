@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-09T23:00:53+08:00</updated>
+    <updated>2026-07-10T00:00:44+08:00</updated>
+        <entry>
+        <title>给三花猫的小儿子起名“小不点”</title>
+        <id>163050</id>
+        <link href="https://www.bufanz.com/20260709727.html?utm_source=blogfinder" />
+        <published>2026-07-09T21:57:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[给三花猫的小儿子起名“小不点”]]></summary>
+    </entry>
         <entry>
         <title>价值每月10美元的主机到底值得买吗？DMIT LAX.AS3.Pro.TINY 主机评测</title>
         <id>163036</id>
@@ -110,6 +121,17 @@
             <uri>https://xingwangzhe.fun</uri>
         </author>
         <summary type="text"><![CDATA[申请 Edgeone Makers 提升额度]]></summary>
+    </entry>
+        <entry>
+        <title>[伪需求1]用上CF大善人搭建的图床了</title>
+        <id>163051</id>
+        <link href="https://blog.biecui.com/30.html?utm_source=blogfinder" />
+        <published>2026-07-09T15:38:00+08:00</published>
+        <author>
+            <name>别催</name>
+            <uri>https://blog.biecui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[[伪需求1]用上CF大善人搭建的图床了]]></summary>
     </entry>
         <entry>
         <title>野猫与公鸡</title>
@@ -618,6 +640,17 @@
         <summary type="text"><![CDATA[26年6月总结-摆烂]]></summary>
     </entry>
         <entry>
+        <title>在 CDN 边缘做灰度：分流在缓存前，资产在灰度外</title>
+        <id>163048</id>
+        <link href="https://innei.in/posts/tech/canary-at-the-cdn-edge?utm_source=blogfinder" />
+        <published>2026-07-08T03:47:49+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[在 CDN 边缘做灰度：分流在缓存前，资产在灰度外]]></summary>
+    </entry>
+        <entry>
         <title>下一条</title>
         <id>163009</id>
         <link href="https://liWanr.com/essays/2026/next/?utm_source=blogfinder" />
@@ -1091,6 +1124,17 @@
         <summary type="text"><![CDATA[我的生日纪实~]]></summary>
     </entry>
         <entry>
+        <title>别让 404 唤醒你的 Vercel 函数</title>
+        <id>163049</id>
+        <link href="https://innei.in/posts/tech/dont-let-404-wake-your-vercel-function?utm_source=blogfinder" />
+        <published>2026-07-07T02:30:19+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[别让 404 唤醒你的 Vercel 函数]]></summary>
+    </entry>
+        <entry>
         <title>渲染进程和主进程之间如何通信</title>
         <id>162712</id>
         <link href="https://www.xiabingbao.com/post/electron-ipcrenderer-ipcmain-thrhfd.html?utm_source=blogfinder" />
@@ -1100,137 +1144,5 @@
             <uri>https://www.xiabingbao.com</uri>
         </author>
         <summary type="text"><![CDATA[渲染进程和主进程之间如何通信]]></summary>
-    </entry>
-        <entry>
-        <title>用 Claude Code 打造 AI 求职助手：从自我画像到简历、求职信全自动生成</title>
-        <id>162891</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-07/ai-job-search/?utm_source=blogfinder" />
-        <published>2026-07-07T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[用 Claude Code 打造 AI 求职助手：从自我画像到简历、求职信全自动生成]]></summary>
-    </entry>
-        <entry>
-        <title>二十五六年，竟只在眨眼间</title>
-        <id>162791</id>
-        <link href="https://weiqiang.org/zh/2026-07-07-time-goes-fast.html?utm_source=blogfinder" />
-        <published>2026-07-07T00:00:00+08:00</published>
-        <author>
-            <name>村野闲居</name>
-            <uri>https://weiqiang.org</uri>
-        </author>
-        <summary type="text"><![CDATA[二十五六年，竟只在眨眼间]]></summary>
-    </entry>
-        <entry>
-        <title>一叠间漫画咖啡屋生活！</title>
-        <id>162789</id>
-        <link href="https://xeonzilla.top/ichijouma/?utm_source=blogfinder" />
-        <published>2026-07-07T00:00:00+08:00</published>
-        <author>
-            <name>Xeonzilla’s Note</name>
-            <uri>https://xeonzilla.top</uri>
-        </author>
-        <summary type="text"><![CDATA[一叠间漫画咖啡屋生活！]]></summary>
-    </entry>
-        <entry>
-        <title>近思录 2026-07-07</title>
-        <id>162774</id>
-        <link href="https://chriszheng.science/2026/07/07/Recent-thoughts-2026-07-07/?utm_source=blogfinder" />
-        <published>2026-07-07T00:00:00+08:00</published>
-        <author>
-            <name>M-x Chris-An-Emacser</name>
-            <uri>https://chriszheng.science</uri>
-        </author>
-        <summary type="text"><![CDATA[近思录 2026-07-07]]></summary>
-    </entry>
-        <entry>
-        <title>Karakeep：一个带 AI 的极简「万物收藏」自托管书签应用</title>
-        <id>162741</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-07/karakeep/?utm_source=blogfinder" />
-        <published>2026-07-07T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Karakeep：一个带 AI 的极简「万物收藏」自托管书签应用]]></summary>
-    </entry>
-        <entry>
-        <title>Awesome：GitHub 上最全的开源项目资源汇总索引</title>
-        <id>162740</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-07/awesome/?utm_source=blogfinder" />
-        <published>2026-07-07T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Awesome：GitHub 上最全的开源项目资源汇总索引]]></summary>
-    </entry>
-        <entry>
-        <title>荐《给阿嬷的情书》</title>
-        <id>162717</id>
-        <link href="https://tianheg.co/posts/recommend-dear-you/?utm_source=blogfinder" />
-        <published>2026-07-07T00:00:00+08:00</published>
-        <author>
-            <name>一大加贝</name>
-            <uri>https://tianheg.co</uri>
-        </author>
-        <summary type="text"><![CDATA[荐《给阿嬷的情书》]]></summary>
-    </entry>
-        <entry>
-        <title>近况，碎碎念和焦虑</title>
-        <id>162721</id>
-        <link href="https://blog.guanglai.me/posts/2026-07-recent-situation/?utm_source=blogfinder" />
-        <published>2026-07-06T23:50:58+08:00</published>
-        <author>
-            <name>来都来了</name>
-            <uri>https://blog.guanglai.me/</uri>
-        </author>
-        <summary type="text"><![CDATA[近况，碎碎念和焦虑]]></summary>
-    </entry>
-        <entry>
-        <title>第一次进健身房，深蹲破 100 Kg</title>
-        <id>162750</id>
-        <link href="https://hulatu.com/posts/2026/07/06/squat-breakthrough-100-kg/?utm_source=blogfinder" />
-        <published>2026-07-06T23:25:31+08:00</published>
-        <author>
-            <name>胡拉图说</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[第一次进健身房，深蹲破 100 Kg]]></summary>
-    </entry>
-        <entry>
-        <title>补:2025年度总结</title>
-        <id>162771</id>
-        <link href="https://blog.liseezn.top/2025%e5%b9%b4%e5%ba%a6%e6%80%bb%e7%bb%93.html/?utm_source=blogfinder" />
-        <published>2026-07-06T23:20:08+08:00</published>
-        <author>
-            <name>Liseezn&#039;blog</name>
-            <uri>https://blog.liseezn.top</uri>
-        </author>
-        <summary type="text"><![CDATA[补:2025年度总结]]></summary>
-    </entry>
-        <entry>
-        <title>六月记</title>
-        <id>162786</id>
-        <link href="https://www.luming.cool/posts/2026/07/june?utm_source=blogfinder" />
-        <published>2026-07-06T23:09:00+08:00</published>
-        <author>
-            <name>路明笔记</name>
-            <uri>https://www.luming.cool</uri>
-        </author>
-        <summary type="text"><![CDATA[六月记]]></summary>
-    </entry>
-        <entry>
-        <title>第一次进健身房，深蹲破</title>
-        <id>162751</id>
-        <link href="https://hulatu.com/blog/%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%BF%9B%E5%81%A5%E8%BA%AB%E6%88%BF%E6%B7%B1%E8%B9%B2%E7%A0%B4/?utm_source=blogfinder" />
-        <published>2026-07-06T23:08:27+08:00</published>
-        <author>
-            <name>胡拉图说</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[第一次进健身房，深蹲破]]></summary>
     </entry>
     </feed>
