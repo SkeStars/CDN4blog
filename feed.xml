@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-10T12:01:17+08:00</updated>
+    <updated>2026-07-10T16:01:33+08:00</updated>
+        <entry>
+        <title>央地博弈</title>
+        <id>163072</id>
+        <link href="https://wangyurui.com/posts/yang-di-bo-yi-07e25c1f?utm_source=blogfinder" />
+        <published>2026-07-10T12:13:11+08:00</published>
+        <author>
+            <name>太隐</name>
+            <uri>https://wangyurui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[央地博弈]]></summary>
+    </entry>
         <entry>
         <title>两位小宝宝的开荤仪式圆满完成</title>
         <id>163069</id>
@@ -22,6 +33,17 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[两位小宝宝的开荤仪式圆满完成]]></summary>
+    </entry>
+        <entry>
+        <title>嗯，我的专属工位红绿灯</title>
+        <id>163071</id>
+        <link href="https://www.jdeal.cn/561.html?utm_source=blogfinder" />
+        <published>2026-07-10T10:00:00+08:00</published>
+        <author>
+            <name>Jdeal</name>
+            <uri>https://www.jdeal.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[嗯，我的专属工位红绿灯]]></summary>
     </entry>
         <entry>
         <title>公开目标，可能会让人更难开始</title>
@@ -1056,93 +1078,5 @@
             <uri>https://ltmltm.cn/bk</uri>
         </author>
         <summary type="text"><![CDATA[电源保护器]]></summary>
-    </entry>
-        <entry>
-        <title>人工智能 Poster 专业展示</title>
-        <id>163034</id>
-        <link href="https://xingwangzhe.fun/posts/week3-ai-poster/?utm_source=blogfinder" />
-        <published>2026-07-07T16:00:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[人工智能 Poster 专业展示]]></summary>
-    </entry>
-        <entry>
-        <title>GitHub毒舌评分</title>
-        <id>162754</id>
-        <link href="http://www.tucong.vip/archives/githubdu-she-ping-fen?utm_source=blogfinder" />
-        <published>2026-07-07T15:10:09+08:00</published>
-        <author>
-            <name>Tea Bush</name>
-            <uri>https://www.tucong.vip</uri>
-        </author>
-        <summary type="text"><![CDATA[GitHub毒舌评分]]></summary>
-    </entry>
-        <entry>
-        <title>Clash Plus</title>
-        <id>162755</id>
-        <link href="http://www.tucong.vip/archives/clash-plus?utm_source=blogfinder" />
-        <published>2026-07-07T15:02:07+08:00</published>
-        <author>
-            <name>Tea Bush</name>
-            <uri>https://www.tucong.vip</uri>
-        </author>
-        <summary type="text"><![CDATA[Clash Plus]]></summary>
-    </entry>
-        <entry>
-        <title>蛰伏的大半年</title>
-        <id>162775</id>
-        <link href="https://lhcy.org/archives/zhe-fu-de-da-ban-nian.html?utm_source=blogfinder" />
-        <published>2026-07-07T15:00:03+08:00</published>
-        <author>
-            <name>林海草原</name>
-            <uri>https://lhcy.org</uri>
-        </author>
-        <summary type="text"><![CDATA[蛰伏的大半年]]></summary>
-    </entry>
-        <entry>
-        <title>DINOv2 与 AnyLoc：自监督基础模型与零训练位置检索</title>
-        <id>162758</id>
-        <link href="https://www.zywvvd.com/notes/study/SLAM/dinov2-anyloc/dinov2-anyloc/?utm_source=blogfinder" />
-        <published>2026-07-07T14:50:24+08:00</published>
-        <author>
-            <name>又见苍岚</name>
-            <uri>https://www.zywvvd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[DINOv2 与 AnyLoc：自监督基础模型与零训练位置检索]]></summary>
-    </entry>
-        <entry>
-        <title>说说：#2026-07-07 14:40</title>
-        <id>162790</id>
-        <link href="https://bi1vmm.cn/index.php/archives/119/?utm_source=blogfinder" />
-        <published>2026-07-07T14:40:29+08:00</published>
-        <author>
-            <name>喂猫猫</name>
-            <uri>https://bi1vmm.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[说说：#2026-07-07 14:40]]></summary>
-    </entry>
-        <entry>
-        <title>既然不知道写什么，那就聊聊如何写博客吧</title>
-        <id>162776</id>
-        <link href="https://www.sanji.one/fu-sheng-za-ji/how-to-write-a-blog-post.html?utm_source=blogfinder" />
-        <published>2026-07-07T13:48:00+08:00</published>
-        <author>
-            <name>时光散记</name>
-            <uri>https://www.sanji.one</uri>
-        </author>
-        <summary type="text"><![CDATA[既然不知道写什么，那就聊聊如何写博客吧]]></summary>
-    </entry>
-        <entry>
-        <title>为了让用户给博客投稿 我做了一个投稿系统</title>
-        <id>162749</id>
-        <link href="https://jyblog.com/5779/?utm_source=blogfinder" />
-        <published>2026-07-07T12:58:16+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为了让用户给博客投稿 我做了一个投稿系统]]></summary>
     </entry>
     </feed>
