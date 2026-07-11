@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-11T11:00:56+08:00</updated>
+    <updated>2026-07-11T14:02:43+08:00</updated>
+        <entry>
+        <title>Hello, World!</title>
+        <id>163110</id>
+        <link href="https://www.kawabangga.com/posts/7336?utm_source=blogfinder" />
+        <published>2026-07-11T11:13:58+08:00</published>
+        <author>
+            <name>卡瓦邦噶</name>
+            <uri>https://www.kawabangga.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Hello, World!]]></summary>
+    </entry>
+        <entry>
+        <title>TLS1.3 0-RTT握手的安全博弈：重放攻击漏洞原理与工业级降级适配方案</title>
+        <id>163108</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/120.html?utm_source=blogfinder" />
+        <published>2026-07-11T10:36:56+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[TLS1.3 0-RTT握手的安全博弈：重放攻击漏洞原理与工业级降级适配方案]]></summary>
+    </entry>
         <entry>
         <title>你的专属生肖徽章上线</title>
         <id>163103</id>
@@ -46,6 +68,17 @@
         <summary type="text"><![CDATA[致敬周星驰]]></summary>
     </entry>
         <entry>
+        <title>7月11日，1995年斯雷布雷尼察灭绝种族罪国际反思和纪念日</title>
+        <id>163109</id>
+        <link href="https://www.munue.com/srebrenica-genocide-commemoration-day.html?utm_source=blogfinder" />
+        <published>2026-07-11T08:20:12+08:00</published>
+        <author>
+            <name>随风沐虐</name>
+            <uri>https://www.munue.com</uri>
+        </author>
+        <summary type="text"><![CDATA[7月11日，1995年斯雷布雷尼察灭绝种族罪国际反思和纪念日]]></summary>
+    </entry>
+        <entry>
         <title>[文章] 大模型上下文窗口完全指南：从4K到200万Token，一文讲透</title>
         <id>163097</id>
         <link href="https://blog.boguan.site/articles/9d2b5588-be2c-46c6-8789-9a593464f77e?utm_source=blogfinder" />
@@ -77,6 +110,17 @@
             <uri>https://blog.52hyjs.com</uri>
         </author>
         <summary type="text"><![CDATA[无限的焦虑和内耗]]></summary>
+    </entry>
+        <entry>
+        <title>计划之外，也有生活</title>
+        <id>163111</id>
+        <link href="https://www.sanji.one/ren-jian-yan-huo/186.html?utm_source=blogfinder" />
+        <published>2026-07-10T21:33:00+08:00</published>
+        <author>
+            <name>时光散记</name>
+            <uri>https://www.sanji.one</uri>
+        </author>
+        <summary type="text"><![CDATA[计划之外，也有生活]]></summary>
     </entry>
         <entry>
         <title>放假了</title>
@@ -143,6 +187,17 @@
             <uri>https://wiki.eryajf.net</uri>
         </author>
         <summary type="text"><![CDATA[学习周刊-总第271期-2026年第28周]]></summary>
+    </entry>
+        <entry>
+        <title>关于AI的一些碎片思考</title>
+        <id>163107</id>
+        <link href="https://chidd.net/2026/07/10/about-ai.html?utm_source=blogfinder" />
+        <published>2026-07-10T16:27:53+08:00</published>
+        <author>
+            <name>伪医生律师的博客</name>
+            <uri>https://chidd.net</uri>
+        </author>
+        <summary type="text"><![CDATA[关于AI的一些碎片思考]]></summary>
     </entry>
         <entry>
         <title>回顾2009年时的第一个完成的PHP项目</title>
@@ -979,60 +1034,5 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[在后台看到的AI评论]]></summary>
-    </entry>
-        <entry>
-        <title>将Gnome的panel美化插件组合成Windows风格！</title>
-        <id>162930</id>
-        <link href="https://blog.mmoe.work/quick-gnome-beautification/?utm_source=blogfinder" />
-        <published>2026-07-08T14:02:35+08:00</published>
-        <author>
-            <name>Adogecheems</name>
-            <uri>https://blog.mmoe.work</uri>
-        </author>
-        <summary type="text"><![CDATA[将Gnome的panel美化插件组合成Windows风格！]]></summary>
-    </entry>
-        <entry>
-        <title>大雨</title>
-        <id>162896</id>
-        <link href="https://ihaihe.cn/3664.htm?utm_source=blogfinder" />
-        <published>2026-07-08T13:22:39+08:00</published>
-        <author>
-            <name>三十里海河</name>
-            <uri>https://ihaihe.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[大雨]]></summary>
-    </entry>
-        <entry>
-        <title>告别素材文件，WPF 内嵌视频实现高颜值动态窗口背景</title>
-        <id>162926</id>
-        <link href="https://styunlen.cn/archives/post-1797.html?utm_source=blogfinder" />
-        <published>2026-07-08T11:33:59+08:00</published>
-        <author>
-            <name>九仞之行</name>
-            <uri>https://styunlen.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[告别素材文件，WPF 内嵌视频实现高颜值动态窗口背景]]></summary>
-    </entry>
-        <entry>
-        <title>苹果的电源</title>
-        <id>162924</id>
-        <link href="https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/?utm_source=blogfinder" />
-        <published>2026-07-08T11:12:34+08:00</published>
-        <author>
-            <name>@Lenciel</name>
-            <uri>https://lenciel.com</uri>
-        </author>
-        <summary type="text"><![CDATA[苹果的电源]]></summary>
-    </entry>
-        <entry>
-        <title>混元hy3模型上手：腾讯送了云函数个人版6个月，怎么才能用上</title>
-        <id>162902</id>
-        <link href="https://blog.zhheo.com/p/2orxjo9r.html?utm_source=blogfinder" />
-        <published>2026-07-08T11:08:54+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[混元hy3模型上手：腾讯送了云函数个人版6个月，怎么才能用上]]></summary>
     </entry>
     </feed>
