@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-11T14:02:43+08:00</updated>
+    <updated>2026-07-11T17:00:57+08:00</updated>
         <entry>
         <title>Hello, World!</title>
         <id>163110</id>
@@ -22,6 +22,17 @@
             <uri>https://www.kawabangga.com</uri>
         </author>
         <summary type="text"><![CDATA[Hello, World!]]></summary>
+    </entry>
+        <entry>
+        <title>连续的大暴雨里想起了以前的时光</title>
+        <id>163114</id>
+        <link href="https://www.pgoj.top/archives/da-yu-hui-yi.html?utm_source=blogfinder" />
+        <published>2026-07-11T10:45:59+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[连续的大暴雨里想起了以前的时光]]></summary>
     </entry>
         <entry>
         <title>TLS1.3 0-RTT握手的安全博弈：重放攻击漏洞原理与工业级降级适配方案</title>
@@ -79,6 +90,17 @@
         <summary type="text"><![CDATA[7月11日，1995年斯雷布雷尼察灭绝种族罪国际反思和纪念日]]></summary>
     </entry>
         <entry>
+        <title>为什么我的眼睛里，渐渐没了光？</title>
+        <id>163112</id>
+        <link href="https://www.puresky.top/archives/odP6qayP?utm_source=blogfinder" />
+        <published>2026-07-11T00:55:57+08:00</published>
+        <author>
+            <name>轻雅阁</name>
+            <uri>https://www.puresky.top</uri>
+        </author>
+        <summary type="text"><![CDATA[为什么我的眼睛里，渐渐没了光？]]></summary>
+    </entry>
+        <entry>
         <title>[文章] 大模型上下文窗口完全指南：从4K到200万Token，一文讲透</title>
         <id>163097</id>
         <link href="https://blog.boguan.site/articles/9d2b5588-be2c-46c6-8789-9a593464f77e?utm_source=blogfinder" />
@@ -99,6 +121,17 @@
             <uri>https://chegva.com</uri>
         </author>
         <summary type="text"><![CDATA[第一次评上三好学生]]></summary>
+    </entry>
+        <entry>
+        <title>【好物分享】 小林制药 一滴消臭元</title>
+        <id>163113</id>
+        <link href="https://7gugu.com/index.php/2026/07/10/%e3%80%90%e5%a5%bd%e7%89%a9%e5%88%86%e4%ba%ab%e3%80%91-%e5%b0%8f%e6%9e%97%e5%88%b6%e8%8d%af-%e4%b8%80%e6%bb%b4%e6%b6%88%e8%87%ad%e5%85%83/?utm_source=blogfinder" />
+        <published>2026-07-10T23:01:05+08:00</published>
+        <author>
+            <name>7gugu’s Blog</name>
+            <uri>https://7gugu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【好物分享】 小林制药 一滴消臭元]]></summary>
     </entry>
         <entry>
         <title>无限的焦虑和内耗</title>
@@ -990,49 +1023,5 @@
             <uri>https://www.wangdu.site</uri>
         </author>
         <summary type="text"><![CDATA[ai-job-search 新手使用教程：把 Claude Code 变成你的求职工作台]]></summary>
-    </entry>
-        <entry>
-        <title>公益服务迁移通知</title>
-        <id>162906</id>
-        <link href="https://blog.goodboyboy.top/posts/2030627247.html?utm_source=blogfinder" />
-        <published>2026-07-08T16:51:55+08:00</published>
-        <author>
-            <name>GoodBoyboy</name>
-            <uri>https://blog.goodboyboy.top</uri>
-        </author>
-        <summary type="text"><![CDATA[公益服务迁移通知]]></summary>
-    </entry>
-        <entry>
-        <title>CloudCone的鬼才运营：提前 10 小时通知“机房物理搬迁”，还说不服不给退款？</title>
-        <id>162900</id>
-        <link href="https://www.tjsky.net/natter/1689?utm_source=blogfinder" />
-        <published>2026-07-08T16:05:47+08:00</published>
-        <author>
-            <name>秋风于渭水</name>
-            <uri>https://www.tjsky.net</uri>
-        </author>
-        <summary type="text"><![CDATA[CloudCone的鬼才运营：提前 10 小时通知“机房物理搬迁”，还说不服不给退款？]]></summary>
-    </entry>
-        <entry>
-        <title>送了几天的外卖众包</title>
-        <id>162929</id>
-        <link href="https://ihello.cc/post/31?utm_source=blogfinder" />
-        <published>2026-07-08T15:06:00+08:00</published>
-        <author>
-            <name>小稚生活志</name>
-            <uri>https://ihello.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[送了几天的外卖众包]]></summary>
-    </entry>
-        <entry>
-        <title>在后台看到的AI评论</title>
-        <id>162897</id>
-        <link href="https://www.pgoj.top/archives/AI-ping-lun.html?utm_source=blogfinder" />
-        <published>2026-07-08T15:04:00+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[在后台看到的AI评论]]></summary>
     </entry>
     </feed>
