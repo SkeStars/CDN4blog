@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-11T20:04:34+08:00</updated>
+    <updated>2026-07-11T22:00:40+08:00</updated>
+        <entry>
+        <title>PHP 网站第五次被黑，Joomla 网站显示 hacked by trenggalek6etar</title>
+        <id>163120</id>
+        <link href="https://www.sunzhongwei.com/php-website-hacked-trendgalek6tar?utm_source=blogfinder" />
+        <published>2026-07-11T21:06:11+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[PHP 网站第五次被黑，Joomla 网站显示 hacked by trenggalek6etar]]></summary>
+    </entry>
+        <entry>
+        <title>演唱会高额手续费退款后续 戏剧化反转</title>
+        <id>163119</id>
+        <link href="https://jyblog.com/5852/?utm_source=blogfinder" />
+        <published>2026-07-11T18:36:47+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.com</uri>
+        </author>
+        <summary type="text"><![CDATA[演唱会高额手续费退款后续 戏剧化反转]]></summary>
+    </entry>
         <entry>
         <title>夜色中的路牌（20260710）</title>
         <id>163115</id>
@@ -33,6 +55,28 @@
             <uri>https://xingwangzhe.fun</uri>
         </author>
         <summary type="text"><![CDATA[后来-人们管这叫作魔法]]></summary>
+    </entry>
+        <entry>
+        <title>脱离人生系统 一段时间后的感受</title>
+        <id>163118</id>
+        <link href="https://joojen.com/archives/9046.html?utm_source=blogfinder" />
+        <published>2026-07-11T16:04:21+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[脱离人生系统 一段时间后的感受]]></summary>
+    </entry>
+        <entry>
+        <title>好站网全新 V3.0 版本上线：日式手账风格重构，轻量化精简改版</title>
+        <id>163122</id>
+        <link href="https://www.zhounote.com/article/115?utm_source=blogfinder" />
+        <published>2026-07-11T12:50:00+08:00</published>
+        <author>
+            <name>Zhou’s Notes</name>
+            <uri>https://www.zhounote.com</uri>
+        </author>
+        <summary type="text"><![CDATA[好站网全新 V3.0 版本上线：日式手账风格重构，轻量化精简改版]]></summary>
     </entry>
         <entry>
         <title>早上醒来，知了在我身边睡觉</title>
@@ -176,6 +220,17 @@
             <uri>https://blog.52hyjs.com</uri>
         </author>
         <summary type="text"><![CDATA[无限的焦虑和内耗]]></summary>
+    </entry>
+        <entry>
+        <title>计划之外，也有生活</title>
+        <id>163121</id>
+        <link href="https://www.sanji.one/ren-jian-yan-huo/life-beyond-the-plan.html?utm_source=blogfinder" />
+        <published>2026-07-10T21:33:00+08:00</published>
+        <author>
+            <name>时光散记</name>
+            <uri>https://www.sanji.one</uri>
+        </author>
+        <summary type="text"><![CDATA[计划之外，也有生活]]></summary>
     </entry>
         <entry>
         <title>计划之外，也有生活</title>
@@ -968,27 +1023,5 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[超哥的自动铅笔]]></summary>
-    </entry>
-        <entry>
-        <title>蜜月之旅</title>
-        <id>162916</id>
-        <link href="http://99887766554433221100.cn/index.php/archives/194/?utm_source=blogfinder" />
-        <published>2026-07-08T21:32:00+08:00</published>
-        <author>
-            <name>南香香</name>
-            <uri>http://99887766554433221100.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[蜜月之旅]]></summary>
-    </entry>
-        <entry>
-        <title>自动同步 GitHub copilot 和 codebuddy 的配置目录</title>
-        <id>162904</id>
-        <link href="https://www.sunzhongwei.com/auto-sync-configuration-directories-of-github-copilot-codebuddy?utm_source=blogfinder" />
-        <published>2026-07-08T21:08:54+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[自动同步 GitHub copilot 和 codebuddy 的配置目录]]></summary>
     </entry>
     </feed>
