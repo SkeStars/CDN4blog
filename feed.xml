@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-11T18:00:19+08:00</updated>
+    <updated>2026-07-11T20:04:34+08:00</updated>
         <entry>
         <title>夜色中的路牌（20260710）</title>
         <id>163115</id>
@@ -22,6 +22,17 @@
             <uri>http://stuit.cn</uri>
         </author>
         <summary type="text"><![CDATA[夜色中的路牌（20260710）]]></summary>
+    </entry>
+        <entry>
+        <title>后来-人们管这叫作魔法</title>
+        <id>163117</id>
+        <link href="https://xingwangzhe.fun/posts/later-they-called-it-magic/?utm_source=blogfinder" />
+        <published>2026-07-11T16:48:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[后来-人们管这叫作魔法]]></summary>
     </entry>
         <entry>
         <title>早上醒来，知了在我身边睡觉</title>
@@ -979,60 +990,5 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[自动同步 GitHub copilot 和 codebuddy 的配置目录]]></summary>
-    </entry>
-        <entry>
-        <title>摄影练习·平凡众生相</title>
-        <id>162914</id>
-        <link href="https://ygz.ink/archives/5475.html?utm_source=blogfinder" />
-        <published>2026-07-08T19:55:50+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[摄影练习·平凡众生相]]></summary>
-    </entry>
-        <entry>
-        <title>早不锯晚不锯，非在最热的时候锯树枝，门店里更热了</title>
-        <id>162920</id>
-        <link href="https://www.bufanz.com/20260708719.html?utm_source=blogfinder" />
-        <published>2026-07-08T19:03:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[早不锯晚不锯，非在最热的时候锯树枝，门店里更热了]]></summary>
-    </entry>
-        <entry>
-        <title>我不为丰巢买单</title>
-        <id>162917</id>
-        <link href="https://dujun.io/fuck-hive-box.html?utm_source=blogfinder" />
-        <published>2026-07-08T18:43:49+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[我不为丰巢买单]]></summary>
-    </entry>
-        <entry>
-        <title>我本偏爱，人间漂泊</title>
-        <id>162913</id>
-        <link href="https://airy.ink/times/459?utm_source=blogfinder" />
-        <published>2026-07-08T18:38:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[我本偏爱，人间漂泊]]></summary>
-    </entry>
-        <entry>
-        <title>未来10年内互联网大方向</title>
-        <id>163020</id>
-        <link href="https://www.renhuali.cn/journal/cmrbwri7z022kchyjzcns49ey?utm_source=blogfinder" />
-        <published>2026-07-08T18:01:32+08:00</published>
-        <author>
-            <name>华立博客</name>
-            <uri>https://renhuali.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[未来10年内互联网大方向]]></summary>
     </entry>
     </feed>
