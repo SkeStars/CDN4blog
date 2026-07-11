@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-11T17:00:57+08:00</updated>
+    <updated>2026-07-11T18:00:19+08:00</updated>
+        <entry>
+        <title>夜色中的路牌（20260710）</title>
+        <id>163115</id>
+        <link href="http://stuit.cn/Xiaolu/Post/1622.html?utm_source=blogfinder" />
+        <published>2026-07-11T17:16:45+08:00</published>
+        <author>
+            <name>风雨行者</name>
+            <uri>http://stuit.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[夜色中的路牌（20260710）]]></summary>
+    </entry>
+        <entry>
+        <title>早上醒来，知了在我身边睡觉</title>
+        <id>163116</id>
+        <link href="https://www.bufanz.com/20260711729.html?utm_source=blogfinder" />
+        <published>2026-07-11T11:16:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[早上醒来，知了在我身边睡觉]]></summary>
+    </entry>
         <entry>
         <title>Hello, World!</title>
         <id>163110</id>
@@ -1012,16 +1034,5 @@
             <uri>https://renhuali.cn</uri>
         </author>
         <summary type="text"><![CDATA[未来10年内互联网大方向]]></summary>
-    </entry>
-        <entry>
-        <title>ai-job-search 新手使用教程：把 Claude Code 变成你的求职工作台</title>
-        <id>162903</id>
-        <link href="https://www.wangdu.site/course/2366.html?utm_source=blogfinder" />
-        <published>2026-07-08T17:52:44+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[ai-job-search 新手使用教程：把 Claude Code 变成你的求职工作台]]></summary>
     </entry>
     </feed>
