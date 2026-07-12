@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-12T12:01:26+08:00</updated>
+    <updated>2026-07-12T15:01:14+08:00</updated>
+        <entry>
+        <title>【致歉声明】关于评论功能异常问题的说明</title>
+        <id>163246</id>
+        <link href="https://jyblog.com/5865/?utm_source=blogfinder" />
+        <published>2026-07-12T12:27:40+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【致歉声明】关于评论功能异常问题的说明]]></summary>
+    </entry>
         <entry>
         <title>≡ 004｜这一周莫比乌斯环转到了哪里？</title>
         <id>163236</id>
@@ -1320,38 +1331,5 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[野猫与公鸡]]></summary>
-    </entry>
-        <entry>
-        <title>本站评论提示“评论发布者的邮箱地址被管理员屏蔽”已修复！</title>
-        <id>163024</id>
-        <link href="https://imxcy.cn/archives/e200075c.html?utm_source=blogfinder" />
-        <published>2026-07-09T14:34:33+08:00</published>
-        <author>
-            <name>许大阳的日记本</name>
-            <uri>https://imxcy.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[本站评论提示“评论发布者的邮箱地址被管理员屏蔽”已修复！]]></summary>
-    </entry>
-        <entry>
-        <title>海洋电脑助手 v1.7</title>
-        <id>163022</id>
-        <link href="https://jyblog.com/5820/?utm_source=blogfinder" />
-        <published>2026-07-09T13:33:54+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.com</uri>
-        </author>
-        <summary type="text"><![CDATA[海洋电脑助手 v1.7]]></summary>
-    </entry>
-        <entry>
-        <title>水星冲浪日志 4</title>
-        <id>163037</id>
-        <link href="https://blog.samhou.moe/aqua-surf-4/?utm_source=blogfinder" />
-        <published>2026-07-09T12:07:53+08:00</published>
-        <author>
-            <name>SamHou&#039;s Blog</name>
-            <uri>https://blog.samhou.moe</uri>
-        </author>
-        <summary type="text"><![CDATA[水星冲浪日志 4]]></summary>
     </entry>
     </feed>
