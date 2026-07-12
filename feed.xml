@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-12T20:02:01+08:00</updated>
+    <updated>2026-07-12T22:01:34+08:00</updated>
+        <entry>
+        <title>软著自动生成 Skill</title>
+        <id>163266</id>
+        <link href="https://www.sunzhongwei.com/software-cert-auto-generate-skills?utm_source=blogfinder" />
+        <published>2026-07-12T21:55:13+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[软著自动生成 Skill]]></summary>
+    </entry>
+        <entry>
+        <title>搬家</title>
+        <id>163268</id>
+        <link href="https://www.skyue.com/26071218.html?utm_source=blogfinder" />
+        <published>2026-07-12T18:36:00+08:00</published>
+        <author>
+            <name>拾月</name>
+            <uri>https://www.skyue.com</uri>
+        </author>
+        <summary type="text"><![CDATA[搬家]]></summary>
+    </entry>
+        <entry>
+        <title>工程中的经典“意象”（一）：滑动窗口</title>
+        <id>163267</id>
+        <link href="https://www.qtmuniao.com/2026/07/12/eng-metaphor-1-sliding-window/?utm_source=blogfinder" />
+        <published>2026-07-12T17:14:56+08:00</published>
+        <author>
+            <name>木鸟杂记</name>
+            <uri>https://www.qtmuniao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[工程中的经典“意象”（一）：滑动窗口]]></summary>
+    </entry>
         <entry>
         <title>保护别人也保护自己的规范与要求</title>
         <id>163253</id>
@@ -33,6 +66,17 @@
             <uri>https://zooyoo.top</uri>
         </author>
         <summary type="text"><![CDATA[h-card：一个标准，一张名片]]></summary>
+    </entry>
+        <entry>
+        <title>一位课长——不幸与幸运交加之人</title>
+        <id>163265</id>
+        <link href="https://www.ryqi.top/p/section-chief/?utm_source=blogfinder" />
+        <published>2026-07-12T16:45:00+08:00</published>
+        <author>
+            <name>合荒小站</name>
+            <uri>https://ryqi.top</uri>
+        </author>
+        <summary type="text"><![CDATA[一位课长——不幸与幸运交加之人]]></summary>
     </entry>
         <entry>
         <title>TLS1.3 0-RTT握手的安全博弈：重放攻击漏洞原理与工业级降级适配方案</title>
@@ -1232,16 +1276,5 @@
             <uri>https://www.luming.cool</uri>
         </author>
         <summary type="text"><![CDATA[7 月 9 日 - 期末考试内耗录]]></summary>
-    </entry>
-        <entry>
-        <title>给三花猫的小儿子起名“小不点”</title>
-        <id>163050</id>
-        <link href="https://www.bufanz.com/20260709727.html?utm_source=blogfinder" />
-        <published>2026-07-09T21:57:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[给三花猫的小儿子起名“小不点”]]></summary>
     </entry>
     </feed>
