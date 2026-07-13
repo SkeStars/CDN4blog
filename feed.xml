@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-13T23:01:57+08:00</updated>
+    <updated>2026-07-14T00:01:36+08:00</updated>
+        <entry>
+        <title>逛闲鱼看到小法庭，试着申请评审员，现已是初级评审员</title>
+        <id>163450</id>
+        <link href="https://www.bufanz.com/20260713739.html?utm_source=blogfinder" />
+        <published>2026-07-13T22:33:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[逛闲鱼看到小法庭，试着申请评审员，现已是初级评审员]]></summary>
+    </entry>
         <entry>
         <title>再写一次设计</title>
         <id>163448</id>
@@ -33,6 +44,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[今日摄影练习]]></summary>
+    </entry>
+        <entry>
+        <title>无用命途：只有 32v 的家用电？</title>
+        <id>163452</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1435/?utm_source=blogfinder" />
+        <published>2026-07-13T20:59:00+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[无用命途：只有 32v 的家用电？]]></summary>
     </entry>
         <entry>
         <title>受不了被网红食品愚弄的无聊</title>
@@ -66,6 +88,17 @@
             <uri>https://qaqbuyan.com:88</uri>
         </author>
         <summary type="text"><![CDATA[Linux 内存脏页回写机制深度剖析：flusher 线程、双阈值与 dirty_ratio 对高吞吐服务的隐形阻塞]]></summary>
+    </entry>
+        <entry>
+        <title>《庄子·齐物论》哲学解读与批判</title>
+        <id>163449</id>
+        <link href="https://chegva.com/6759.html?utm_source=blogfinder" />
+        <published>2026-07-13T19:02:15+08:00</published>
+        <author>
+            <name>安志合的学习博客</name>
+            <uri>https://chegva.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《庄子·齐物论》哲学解读与批判]]></summary>
     </entry>
         <entry>
         <title>分享一款魔王大佬开源的朋友圈程序</title>
@@ -121,6 +154,17 @@
             <uri>https://kaix.in</uri>
         </author>
         <summary type="text"><![CDATA[第一卷 02]]></summary>
+    </entry>
+        <entry>
+        <title>终于解决了我的文章更新时间不对的问题</title>
+        <id>163453</id>
+        <link href="https://blog.weasel6.cn/posts/rss-time/?utm_source=blogfinder" />
+        <published>2026-07-13T14:56:00+08:00</published>
+        <author>
+            <name>小黄的日记本</name>
+            <uri>https://blog.weasel6.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[终于解决了我的文章更新时间不对的问题]]></summary>
     </entry>
         <entry>
         <title>2026.7.12</title>
@@ -451,6 +495,17 @@
             <uri>https://blog.devtang.com</uri>
         </author>
         <summary type="text"><![CDATA[用 CLIProxyAPI 把 Codex 变成一个 OpenAI 兼容的 API 服务]]></summary>
+    </entry>
+        <entry>
+        <title>Hotel California Solo - Flute 楽譜</title>
+        <id>163451</id>
+        <link href="https://erzbir.com/archives/hotel-california-solo-flute-sheet-music?utm_source=blogfinder" />
+        <published>2026-07-12T21:58:51+08:00</published>
+        <author>
+            <name>Erzbir&#039;s Blog</name>
+            <uri>https://erzbir.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Hotel California Solo - Flute 楽譜]]></summary>
     </entry>
         <entry>
         <title>Hotel California アウトロのフルート楽譜</title>
@@ -1518,148 +1573,5 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[摘：《见证疯狂》]]></summary>
-    </entry>
-        <entry>
-        <title>自行车安全准则</title>
-        <id>163170</id>
-        <link href="https://www.blackbzy.com/posts/bicycle-security-principle/?utm_source=blogfinder" />
-        <published>2026-07-11T00:00:00+08:00</published>
-        <author>
-            <name>blackbzy</name>
-            <uri>https://www.blackbzy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[自行车安全准则]]></summary>
-    </entry>
-        <entry>
-        <title>yaml-cpp：C++ 中的 YAML 解析与生成利器</title>
-        <id>163148</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-11/yaml-cpp/?utm_source=blogfinder" />
-        <published>2026-07-11T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[yaml-cpp：C++ 中的 YAML 解析与生成利器]]></summary>
-    </entry>
-        <entry>
-        <title>TypeScript 6.0：让 JavaScript 拥有工业级类型安全的大型应用语言</title>
-        <id>163147</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-11/typescript/?utm_source=blogfinder" />
-        <published>2026-07-11T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[TypeScript 6.0：让 JavaScript 拥有工业级类型安全的大型应用语言]]></summary>
-    </entry>
-        <entry>
-        <title>Terraform 1.x：基础设施即代码的工业级实践</title>
-        <id>163146</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-11/terraform/?utm_source=blogfinder" />
-        <published>2026-07-11T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Terraform 1.x：基础设施即代码的工业级实践]]></summary>
-    </entry>
-        <entry>
-        <title>tailscale — 开源项目深度解析</title>
-        <id>163145</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-11/tailscale/?utm_source=blogfinder" />
-        <published>2026-07-11T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[tailscale — 开源项目深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>meshoptimizer：为 GPU 渲染而生的网格优化与压缩库</title>
-        <id>163144</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-11/meshoptimizer/?utm_source=blogfinder" />
-        <published>2026-07-11T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[meshoptimizer：为 GPU 渲染而生的网格优化与压缩库]]></summary>
-    </entry>
-        <entry>
-        <title>Google Stitch Design Skills：用 Agent Skills 标准把设计稿变成可落地的生产代码</title>
-        <id>163143</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-11/stitch-skills/?utm_source=blogfinder" />
-        <published>2026-07-11T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Google Stitch Design Skills：用 Agent Skills 标准把设计稿变成可落地的生产代码]]></summary>
-    </entry>
-        <entry>
-        <title>Claude Code Templates：打造你的 AI 编程助手工具箱</title>
-        <id>163142</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-11/claude-code-templates/?utm_source=blogfinder" />
-        <published>2026-07-11T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude Code Templates：打造你的 AI 编程助手工具箱]]></summary>
-    </entry>
-        <entry>
-        <title>Catch2：现代 C++ 原生的单元测试、微基准与 BDD 框架</title>
-        <id>163141</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-11/catch2/?utm_source=blogfinder" />
-        <published>2026-07-11T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Catch2：现代 C++ 原生的单元测试、微基准与 BDD 框架]]></summary>
-    </entry>
-        <entry>
-        <title>asio — 开源项目深度解析</title>
-        <id>163140</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-11/asio/?utm_source=blogfinder" />
-        <published>2026-07-11T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[asio — 开源项目深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>Abseil：C++ 标准库的有力补充</title>
-        <id>163139</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-11/abseil-cpp/?utm_source=blogfinder" />
-        <published>2026-07-11T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Abseil：C++ 标准库的有力补充]]></summary>
-    </entry>
-        <entry>
-        <title>[文章] 大模型上下文窗口完全指南：从4K到200万Token，一文讲透</title>
-        <id>163307</id>
-        <link href="https://blog.boguan.site/articles/da-mo-xing-shang-xia-wen-chuang-kou-wan-quan-zhi-nan-cong-4kdao-200wan-token-yi?utm_source=blogfinder" />
-        <published>2026-07-10T23:45:56+08:00</published>
-        <author>
-            <name>开发者十一</name>
-            <uri>https://boguan.site</uri>
-        </author>
-        <summary type="text"><![CDATA[[文章] 大模型上下文窗口完全指南：从4K到200万Token，一文讲透]]></summary>
-    </entry>
-        <entry>
-        <title>第一次评上三好学生</title>
-        <id>163093</id>
-        <link href="https://chegva.com/6763.html?utm_source=blogfinder" />
-        <published>2026-07-10T23:09:35+08:00</published>
-        <author>
-            <name>安志合的学习博客</name>
-            <uri>https://chegva.com</uri>
-        </author>
-        <summary type="text"><![CDATA[第一次评上三好学生]]></summary>
     </entry>
     </feed>
