@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-13T11:32:37+08:00</updated>
+    <updated>2026-07-13T15:02:05+08:00</updated>
+        <entry>
+        <title>用 Cloudflare 给 WordPress 减负</title>
+        <id>163420</id>
+        <link href="https://zeeko.dev/2026/07/cloudflare-for-wordpress-optimization/?utm_source=blogfinder" />
+        <published>2026-07-13T11:19:54+08:00</published>
+        <author>
+            <name>网上冲浪指南</name>
+            <uri>https://zeeko.dev</uri>
+        </author>
+        <summary type="text"><![CDATA[用 Cloudflare 给 WordPress 减负]]></summary>
+    </entry>
+        <entry>
+        <title>接二连三修电脑</title>
+        <id>163421</id>
+        <link href="https://zeeko.dev/2026/07/repairing-computers-again-and-again/?utm_source=blogfinder" />
+        <published>2026-07-13T10:58:52+08:00</published>
+        <author>
+            <name>网上冲浪指南</name>
+            <uri>https://zeeko.dev</uri>
+        </author>
+        <summary type="text"><![CDATA[接二连三修电脑]]></summary>
+    </entry>
         <entry>
         <title>Paper Reading (63)</title>
         <id>163380</id>
@@ -46,6 +68,17 @@
         <summary type="text"><![CDATA[城市与农村]]></summary>
     </entry>
         <entry>
+        <title>彻底放弃虚拟主机</title>
+        <id>163383</id>
+        <link href="https://www.gujishe.com/archives/71.html?utm_source=blogfinder" />
+        <published>2026-07-13T09:09:38+08:00</published>
+        <author>
+            <name>咕唧舍</name>
+            <uri>https://www.gujishe.com</uri>
+        </author>
+        <summary type="text"><![CDATA[彻底放弃虚拟主机]]></summary>
+    </entry>
+        <entry>
         <title>梦女又没有伤害谁，凭什么批评她们？</title>
         <id>163374</id>
         <link href="https://mobius.blog/25059.html?utm_source=blogfinder" />
@@ -55,6 +88,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[梦女又没有伤害谁，凭什么批评她们？]]></summary>
+    </entry>
+        <entry>
+        <title>大脑充血 Vol.89</title>
+        <id>163382</id>
+        <link href="https://www.geedea.pro/weekly/89/?utm_source=blogfinder" />
+        <published>2026-07-13T08:15:11+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[大脑充血 Vol.89]]></summary>
     </entry>
         <entry>
         <title>新买的kindle colorsoft到了</title>
@@ -145,6 +189,17 @@
         <summary type="text"><![CDATA[听《于是-邓紫棋》有感]]></summary>
     </entry>
         <entry>
+        <title>车辆保养与小思</title>
+        <id>163419</id>
+        <link href="https://blog.hantaotao.top/archives/203/?utm_source=blogfinder" />
+        <published>2026-07-12T22:59:43+08:00</published>
+        <author>
+            <name>一世繁华</name>
+            <uri>https://blog.hantaotao.top</uri>
+        </author>
+        <summary type="text"><![CDATA[车辆保养与小思]]></summary>
+    </entry>
+        <entry>
         <title>变更博客访问者头像源，恢复显示</title>
         <id>163271</id>
         <link href="https://pwsz.com/share/5027.html?utm_source=blogfinder" />
@@ -220,6 +275,17 @@
             <uri>https://blog.grtsinry43.com</uri>
         </author>
         <summary type="text"><![CDATA[从头开始的勇气]]></summary>
+    </entry>
+        <entry>
+        <title>也聊博客的主题设计</title>
+        <id>163381</id>
+        <link href="https://www.suiyan.cc/blog/20260712193417?utm_source=blogfinder" />
+        <published>2026-07-12T19:34:17+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[也聊博客的主题设计]]></summary>
     </entry>
         <entry>
         <title>反智流量背后的情绪生意</title>
@@ -299,6 +365,17 @@
         <summary type="text"><![CDATA[yuanrenxue_practice01]]></summary>
     </entry>
         <entry>
+        <title>Toots 427 2026 Jul.5 - Jul.11</title>
+        <id>163384</id>
+        <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260711/?utm_source=blogfinder" />
+        <published>2026-07-12T17:20:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[Toots 427 2026 Jul.5 - Jul.11]]></summary>
+    </entry>
+        <entry>
         <title>工程中的经典“意象”（一）：滑动窗口</title>
         <id>163267</id>
         <link href="https://www.qtmuniao.com/2026/07/12/eng-metaphor-1-sliding-window/?utm_source=blogfinder" />
@@ -308,6 +385,17 @@
             <uri>https://www.qtmuniao.com</uri>
         </author>
         <summary type="text"><![CDATA[工程中的经典“意象”（一）：滑动窗口]]></summary>
+    </entry>
+        <entry>
+        <title>无名</title>
+        <id>163385</id>
+        <link href="https://z.arlmy.me/posts/Poems/2026/20260708_WuMing/?utm_source=blogfinder" />
+        <published>2026-07-12T17:12:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[无名]]></summary>
     </entry>
         <entry>
         <title>[说说] 今天打开B站的时候，首页突然推送了多年前的一个博主更新视频，很是激动，都已经停更三年了。 之前超级喜...</title>
@@ -365,6 +453,17 @@
         <summary type="text"><![CDATA[TLS1.3 0-RTT握手的安全博弈：重放攻击漏洞原理与工业级降级适配方案]]></summary>
     </entry>
         <entry>
+        <title>失望</title>
+        <id>163418</id>
+        <link href="https://ltmltm.cn/bk/1477.html?utm_source=blogfinder" />
+        <published>2026-07-12T14:24:46+08:00</published>
+        <author>
+            <name>因为很想念</name>
+            <uri>https://ltmltm.cn/bk</uri>
+        </author>
+        <summary type="text"><![CDATA[失望]]></summary>
+    </entry>
+        <entry>
         <title>食虫植物的养护记录</title>
         <id>163280</id>
         <link href="https://blog.wanyijizi.com/2026/07/12/669?utm_source=blogfinder" />
@@ -407,6 +506,17 @@
             <uri>https://www.jinhuaiyao.com</uri>
         </author>
         <summary type="text"><![CDATA[我还在订阅的服务 - 2026]]></summary>
+    </entry>
+        <entry>
+        <title>向云端｜西南自驾01 - 裸辞</title>
+        <id>163417</id>
+        <link href="https://blog.ops-coffee.com/r/2026-southwest-road-trip-01-luoci.html?utm_source=blogfinder" />
+        <published>2026-07-12T11:54:06+08:00</published>
+        <author>
+            <name>运维咖啡吧</name>
+            <uri>https://blog.ops-coffee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[向云端｜西南自驾01 - 裸辞]]></summary>
     </entry>
         <entry>
         <title>摄影练习作品</title>
@@ -869,6 +979,17 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[摘：《我就要自由》]]></summary>
+    </entry>
+        <entry>
+        <title>周六带十六去植物园和文博</title>
+        <id>163422</id>
+        <link href="https://xsmy.wang/1422.html?utm_source=blogfinder" />
+        <published>2026-07-11T13:46:20+08:00</published>
+        <author>
+            <name>相思明月</name>
+            <uri>https://xsmy.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[周六带十六去植物园和文博]]></summary>
     </entry>
         <entry>
         <title>好站网全新 V3.0 版本上线：日式手账风格重构，轻量化精简改版</title>
@@ -1441,82 +1562,5 @@
             <uri>https://dahai.plus</uri>
         </author>
         <summary type="text"><![CDATA[新买了一台kindle]]></summary>
-    </entry>
-        <entry>
-        <title>每天上一当，当当不一样</title>
-        <id>163086</id>
-        <link href="https://blog.biecui.com/32.html?utm_source=blogfinder" />
-        <published>2026-07-10T13:46:00+08:00</published>
-        <author>
-            <name>别催</name>
-            <uri>https://blog.biecui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[每天上一当，当当不一样]]></summary>
-    </entry>
-        <entry>
-        <title>纸笔、AI，和学习那点事</title>
-        <id>163098</id>
-        <link href="https://lawtee.com/article/paper-pencil-and-ai/?utm_source=blogfinder" />
-        <published>2026-07-10T13:23:20+08:00</published>
-        <author>
-            <name>老 T 博客</name>
-            <uri>https://lawtee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[纸笔、AI，和学习那点事]]></summary>
-    </entry>
-        <entry>
-        <title>第一次在 dynadot 上卖出两枚域名</title>
-        <id>163073</id>
-        <link href="https://www.aiwazi.com/3246.html?utm_source=blogfinder" />
-        <published>2026-07-10T12:39:54+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[第一次在 dynadot 上卖出两枚域名]]></summary>
-    </entry>
-        <entry>
-        <title>On Children</title>
-        <id>163082</id>
-        <link href="https://www.kawabangga.com/posts/7328?utm_source=blogfinder" />
-        <published>2026-07-10T12:34:30+08:00</published>
-        <author>
-            <name>卡瓦邦噶</name>
-            <uri>https://www.kawabangga.com</uri>
-        </author>
-        <summary type="text"><![CDATA[On Children]]></summary>
-    </entry>
-        <entry>
-        <title>央地博弈</title>
-        <id>163072</id>
-        <link href="https://wangyurui.com/posts/yang-di-bo-yi-07e25c1f?utm_source=blogfinder" />
-        <published>2026-07-10T12:13:11+08:00</published>
-        <author>
-            <name>太隐</name>
-            <uri>https://wangyurui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[央地博弈]]></summary>
-    </entry>
-        <entry>
-        <title>两位小宝宝的开荤仪式圆满完成</title>
-        <id>163069</id>
-        <link href="https://www.aiwazi.com/3242.html?utm_source=blogfinder" />
-        <published>2026-07-10T11:47:48+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[两位小宝宝的开荤仪式圆满完成]]></summary>
-    </entry>
-        <entry>
-        <title>决定放弃cloudcone了</title>
-        <id>163169</id>
-        <link href="https://www.gujishe.com/archives/70.html?utm_source=blogfinder" />
-        <published>2026-07-10T11:42:22+08:00</published>
-        <author>
-            <name>咕唧舍</name>
-            <uri>https://www.gujishe.com</uri>
-        </author>
-        <summary type="text"><![CDATA[决定放弃cloudcone了]]></summary>
     </entry>
     </feed>
