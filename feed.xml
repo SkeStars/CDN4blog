@@ -11,7 +11,84 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-13T19:00:14+08:00</updated>
+    <updated>2026-07-13T23:01:57+08:00</updated>
+        <entry>
+        <title>再写一次设计</title>
+        <id>163448</id>
+        <link href="https://d-d.design/single/19741?utm_source=blogfinder" />
+        <published>2026-07-13T22:05:58+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[再写一次设计]]></summary>
+    </entry>
+        <entry>
+        <title>今日摄影练习</title>
+        <id>163445</id>
+        <link href="https://ygz.ink/archives/5518.html?utm_source=blogfinder" />
+        <published>2026-07-13T21:03:05+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[今日摄影练习]]></summary>
+    </entry>
+        <entry>
+        <title>受不了被网红食品愚弄的无聊</title>
+        <id>163442</id>
+        <link href="https://www.pgoj.top/archives/wang-hong-shi-pin.html?utm_source=blogfinder" />
+        <published>2026-07-13T20:42:37+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[受不了被网红食品愚弄的无聊]]></summary>
+    </entry>
+        <entry>
+        <title>我设计的软件 iAssets 知盈 上少数派热门了</title>
+        <id>163447</id>
+        <link href="https://blog.debuginn.com/p/iassets-sspai/?utm_source=blogfinder" />
+        <published>2026-07-13T20:00:00+08:00</published>
+        <author>
+            <name>Debug 客栈</name>
+            <uri>https://blog.debuginn.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我设计的软件 iAssets 知盈 上少数派热门了]]></summary>
+    </entry>
+        <entry>
+        <title>Linux 内存脏页回写机制深度剖析：flusher 线程、双阈值与 dirty_ratio 对高吞吐服务的隐形阻塞</title>
+        <id>163443</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/122.html?utm_source=blogfinder" />
+        <published>2026-07-13T19:43:43+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[Linux 内存脏页回写机制深度剖析：flusher 线程、双阈值与 dirty_ratio 对高吞吐服务的隐形阻塞]]></summary>
+    </entry>
+        <entry>
+        <title>分享一款魔王大佬开源的朋友圈程序</title>
+        <id>163446</id>
+        <link href="https://ygz.ink/archives/5502.html?utm_source=blogfinder" />
+        <published>2026-07-13T18:38:09+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[分享一款魔王大佬开源的朋友圈程序]]></summary>
+    </entry>
+        <entry>
+        <title>TIL: lang 属性會影响文字的尺寸</title>
+        <id>163441</id>
+        <link href="https://taxodium.ink/til-lang-attribute-affects-text-size.html?utm_source=blogfinder" />
+        <published>2026-07-13T17:30:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[TIL: lang 属性會影响文字的尺寸]]></summary>
+    </entry>
         <entry>
         <title>我在工厂当了六年“网络工程师”，最近才开始敢想走</title>
         <id>163434</id>
@@ -143,6 +220,17 @@
             <uri>https://liuqingwushui.top</uri>
         </author>
         <summary type="text"><![CDATA[孤独行者的孤独记]]></summary>
+    </entry>
+        <entry>
+        <title>天干火热，不死，不负</title>
+        <id>163444</id>
+        <link href="https://ichov.com/blog/tianganhuore.html?utm_source=blogfinder" />
+        <published>2026-07-13T10:42:27+08:00</published>
+        <author>
+            <name>江子渔</name>
+            <uri>https://ichov.com</uri>
+        </author>
+        <summary type="text"><![CDATA[天干火热，不死，不负]]></summary>
     </entry>
         <entry>
         <title>城市与农村</title>
@@ -310,6 +398,17 @@
         <summary type="text"><![CDATA[车辆保养与小思]]></summary>
     </entry>
         <entry>
+        <title>独生子女如何继承农村房产</title>
+        <id>163439</id>
+        <link href="https://mecll.com/1061.html?utm_source=blogfinder" />
+        <published>2026-07-12T22:40:36+08:00</published>
+        <author>
+            <name>流浪天下</name>
+            <uri>https://mecll.com</uri>
+        </author>
+        <summary type="text"><![CDATA[独生子女如何继承农村房产]]></summary>
+    </entry>
+        <entry>
         <title>变更博客访问者头像源，恢复显示</title>
         <id>163271</id>
         <link href="https://pwsz.com/share/5027.html?utm_source=blogfinder" />
@@ -319,6 +418,17 @@
             <uri>https://pwsz.com</uri>
         </author>
         <summary type="text"><![CDATA[变更博客访问者头像源，恢复显示]]></summary>
+    </entry>
+        <entry>
+        <title>学一下chrome的扩展开发</title>
+        <id>163440</id>
+        <link href="https://nicksxs.me/2026/07/12/%E5%AD%A6%E4%B8%80%E4%B8%8Bchrome%E7%9A%84%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91/?utm_source=blogfinder" />
+        <published>2026-07-12T22:18:19+08:00</published>
+        <author>
+            <name>Nicksxs&#039;s Blog</name>
+            <uri>https://nicksxs.me</uri>
+        </author>
+        <summary type="text"><![CDATA[学一下chrome的扩展开发]]></summary>
     </entry>
         <entry>
         <title>观影观后感｜看完《功夫女足》聊聊真实感受</title>
@@ -1551,115 +1661,5 @@
             <uri>https://chegva.com</uri>
         </author>
         <summary type="text"><![CDATA[第一次评上三好学生]]></summary>
-    </entry>
-        <entry>
-        <title>【好物分享】 小林制药 一滴消臭元</title>
-        <id>163113</id>
-        <link href="https://7gugu.com/index.php/2026/07/10/%e3%80%90%e5%a5%bd%e7%89%a9%e5%88%86%e4%ba%ab%e3%80%91-%e5%b0%8f%e6%9e%97%e5%88%b6%e8%8d%af-%e4%b8%80%e6%bb%b4%e6%b6%88%e8%87%ad%e5%85%83/?utm_source=blogfinder" />
-        <published>2026-07-10T23:01:05+08:00</published>
-        <author>
-            <name>7gugu’s Blog</name>
-            <uri>https://7gugu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【好物分享】 小林制药 一滴消臭元]]></summary>
-    </entry>
-        <entry>
-        <title>拧巴的人</title>
-        <id>163129</id>
-        <link href="https://blog.solazy.me/20260710/?utm_source=blogfinder" />
-        <published>2026-07-10T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[拧巴的人]]></summary>
-    </entry>
-        <entry>
-        <title>下大雨去幼儿园接十六</title>
-        <id>163126</id>
-        <link href="https://xsmy.wang/1421.html?utm_source=blogfinder" />
-        <published>2026-07-10T22:54:44+08:00</published>
-        <author>
-            <name>相思明月</name>
-            <uri>https://xsmy.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[下大雨去幼儿园接十六]]></summary>
-    </entry>
-        <entry>
-        <title>无限的焦虑和内耗</title>
-        <id>163095</id>
-        <link href="https://blog.52hyjs.com/post-1279.html?utm_source=blogfinder" />
-        <published>2026-07-10T22:09:18+08:00</published>
-        <author>
-            <name>幻影博客</name>
-            <uri>https://blog.52hyjs.com</uri>
-        </author>
-        <summary type="text"><![CDATA[无限的焦虑和内耗]]></summary>
-    </entry>
-        <entry>
-        <title>计划之外，也有生活</title>
-        <id>163121</id>
-        <link href="https://www.sanji.one/ren-jian-yan-huo/life-beyond-the-plan.html?utm_source=blogfinder" />
-        <published>2026-07-10T21:33:00+08:00</published>
-        <author>
-            <name>时光散记</name>
-            <uri>https://www.sanji.one</uri>
-        </author>
-        <summary type="text"><![CDATA[计划之外，也有生活]]></summary>
-    </entry>
-        <entry>
-        <title>计划之外，也有生活</title>
-        <id>163111</id>
-        <link href="https://www.sanji.one/ren-jian-yan-huo/186.html?utm_source=blogfinder" />
-        <published>2026-07-10T21:33:00+08:00</published>
-        <author>
-            <name>时光散记</name>
-            <uri>https://www.sanji.one</uri>
-        </author>
-        <summary type="text"><![CDATA[计划之外，也有生活]]></summary>
-    </entry>
-        <entry>
-        <title>放假了</title>
-        <id>163080</id>
-        <link href="https://ygz.ink/archives/5481.html?utm_source=blogfinder" />
-        <published>2026-07-10T20:28:33+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[放假了]]></summary>
-    </entry>
-        <entry>
-        <title>旧系统迁移到 RuoYi 的账号系统</title>
-        <id>163078</id>
-        <link href="https://www.sunzhongwei.com/migration-of-old-system-ruoyis-account-system?utm_source=blogfinder" />
-        <published>2026-07-10T20:19:29+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[旧系统迁移到 RuoYi 的账号系统]]></summary>
-    </entry>
-        <entry>
-        <title>给博客加上隐式 LLM 提示词</title>
-        <id>163105</id>
-        <link href="https://xingwangzhe.fun/posts/llm-prompt-injection-defense/?utm_source=blogfinder" />
-        <published>2026-07-10T20:00:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[给博客加上隐式 LLM 提示词]]></summary>
-    </entry>
-        <entry>
-        <title>流量阴谋论</title>
-        <id>163083</id>
-        <link href="https://www.geedea.pro/article/clout-conspiracy-theory/?utm_source=blogfinder" />
-        <published>2026-07-10T19:20:45+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[流量阴谋论]]></summary>
     </entry>
     </feed>
