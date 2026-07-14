@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-14T14:01:45+08:00</updated>
+    <updated>2026-07-14T17:00:44+08:00</updated>
         <entry>
         <title>macOS 里 神秘的 kernel_task ，为什么一直在写入硬盘？</title>
         <id>163528</id>
@@ -22,6 +22,28 @@
             <uri>https://wocai.de</uri>
         </author>
         <summary type="text"><![CDATA[macOS 里 神秘的 kernel_task ，为什么一直在写入硬盘？]]></summary>
+    </entry>
+        <entry>
+        <title>开奖啦！5斤巫山脆李花落谁家？速来围观！</title>
+        <id>163532</id>
+        <link href="https://zhujay.com/talk/talk_detail.html?id=1261&amp;utm_source=blogfinder" />
+        <published>2026-07-14T11:45:29+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[开奖啦！5斤巫山脆李花落谁家？速来围观！]]></summary>
+    </entry>
+        <entry>
+        <title>手腕悬空，真的会影响输入速度吗？</title>
+        <id>163531</id>
+        <link href="https://mobius.blog/25071.html?utm_source=blogfinder" />
+        <published>2026-07-14T11:33:44+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[手腕悬空，真的会影响输入速度吗？]]></summary>
     </entry>
         <entry>
         <title>Baby APP备案辅助工具</title>
@@ -55,6 +77,17 @@
             <uri>https://www.sanji.one</uri>
         </author>
         <summary type="text"><![CDATA[那年 S6 的夏天]]></summary>
+    </entry>
+        <entry>
+        <title>最近得到的好消息</title>
+        <id>163533</id>
+        <link href="https://dahai.plus/archives/130?utm_source=blogfinder" />
+        <published>2026-07-14T10:21:02+08:00</published>
+        <author>
+            <name>大海拾光</name>
+            <uri>https://dahai.plus</uri>
+        </author>
+        <summary type="text"><![CDATA[最近得到的好消息]]></summary>
     </entry>
         <entry>
         <title>下班准点儿走，也错了？</title>
@@ -132,6 +165,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[OpenMAIC：用多智能体把任意主题一键变成沉浸式 AI 互动课堂]]></summary>
+    </entry>
+        <entry>
+        <title>小区里的小花猫 – 日常记事（二百二十）</title>
+        <id>163530</id>
+        <link href="https://blog.2broear.com/weblog/13-07-2026_%e5%b0%8f%e5%8c%ba%e9%87%8c%e7%9a%84%e5%b0%8f%e8%8a%b1%e7%8c%ab-%e6%97%a5%e5%b8%b8%e8%ae%b0%e4%ba%8b%ef%bc%88%e4%ba%8c%e7%99%be%e4%ba%8c%e5%8d%81%ef%bc%89?utm_source=blogfinder" />
+        <published>2026-07-13T23:42:02+08:00</published>
+        <author>
+            <name>2BROEAR</name>
+            <uri>https://blog.2broear.com</uri>
+        </author>
+        <summary type="text"><![CDATA[小区里的小花猫 – 日常记事（二百二十）]]></summary>
     </entry>
         <entry>
         <title>为什么我认为“早恋”这个词有存在的必要</title>
@@ -1683,49 +1727,5 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[卡利古拉]]></summary>
-    </entry>
-        <entry>
-        <title>后来-人们管这叫作魔法</title>
-        <id>163117</id>
-        <link href="https://xingwangzhe.fun/posts/later-they-called-it-magic/?utm_source=blogfinder" />
-        <published>2026-07-11T16:48:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[后来-人们管这叫作魔法]]></summary>
-    </entry>
-        <entry>
-        <title>脱离人生系统 一段时间后的感受</title>
-        <id>163118</id>
-        <link href="https://joojen.com/archives/9046.html?utm_source=blogfinder" />
-        <published>2026-07-11T16:04:21+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[脱离人生系统 一段时间后的感受]]></summary>
-    </entry>
-        <entry>
-        <title>摘：《李卓吾·两种阳明学》</title>
-        <id>163240</id>
-        <link href="https://z.arlmy.me/posts/Note/Note_GouKouXiongSan_LiZhuoWuLiangZhongYangMingXue/?utm_source=blogfinder" />
-        <published>2026-07-11T15:53:46+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[摘：《李卓吾·两种阳明学》]]></summary>
-    </entry>
-        <entry>
-        <title>摘：《我就要自由》</title>
-        <id>163241</id>
-        <link href="https://z.arlmy.me/posts/Note/Note_ZuoYeYangZi_WoJiuYaoZiYou/?utm_source=blogfinder" />
-        <published>2026-07-11T15:49:46+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[摘：《我就要自由》]]></summary>
     </entry>
     </feed>
