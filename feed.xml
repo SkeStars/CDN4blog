@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-14T17:00:44+08:00</updated>
+    <updated>2026-07-14T19:00:57+08:00</updated>
+        <entry>
+        <title>当职业素养成了稀缺品</title>
+        <id>163535</id>
+        <link href="https://blog.solazy.me/20260714/?utm_source=blogfinder" />
+        <published>2026-07-14T12:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[当职业素养成了稀缺品]]></summary>
+    </entry>
         <entry>
         <title>macOS 里 神秘的 kernel_task ，为什么一直在写入硬盘？</title>
         <id>163528</id>
@@ -132,6 +143,17 @@
             <uri>https://upxuu.com</uri>
         </author>
         <summary type="text"><![CDATA[焕然一新！暑假博客优化的总结！]]></summary>
+    </entry>
+        <entry>
+        <title>Zine#54 - 世界杯、純文本、隨機頁面、巫師三</title>
+        <id>163534</id>
+        <link href="https://taxodium.ink/54.html?utm_source=blogfinder" />
+        <published>2026-07-14T01:30:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[Zine#54 - 世界杯、純文本、隨機頁面、巫師三]]></summary>
     </entry>
         <entry>
         <title>713解锁节来辣！小米17全系，k90pm又能解bl了</title>
@@ -1672,60 +1694,5 @@
             <uri>https://siwei.li</uri>
         </author>
         <summary type="text"><![CDATA[哈尔滨花之语养息谷]]></summary>
-    </entry>
-        <entry>
-        <title>演唱会高额手续费退款后续 戏剧化反转</title>
-        <id>163119</id>
-        <link href="https://jyblog.com/5852/?utm_source=blogfinder" />
-        <published>2026-07-11T18:36:47+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.com</uri>
-        </author>
-        <summary type="text"><![CDATA[演唱会高额手续费退款后续 戏剧化反转]]></summary>
-    </entry>
-        <entry>
-        <title>[已解决]一个极其诡异的现象——我的博客在搜索结果里没了描述</title>
-        <id>163125</id>
-        <link href="https://upxuu.com/posts/wrong-about-seo/?utm_source=blogfinder" />
-        <published>2026-07-11T18:28:55+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[[已解决]一个极其诡异的现象——我的博客在搜索结果里没了描述]]></summary>
-    </entry>
-        <entry>
-        <title>台风天</title>
-        <id>163132</id>
-        <link href="https://me.xu19.com/%e5%8f%b0%e9%a3%8e%e5%a4%a9/?utm_source=blogfinder" />
-        <published>2026-07-11T18:20:25+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[台风天]]></summary>
-    </entry>
-        <entry>
-        <title>夜色中的路牌（20260710）</title>
-        <id>163115</id>
-        <link href="http://stuit.cn/Xiaolu/Post/1622.html?utm_source=blogfinder" />
-        <published>2026-07-11T17:16:45+08:00</published>
-        <author>
-            <name>风雨行者</name>
-            <uri>http://stuit.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[夜色中的路牌（20260710）]]></summary>
-    </entry>
-        <entry>
-        <title>卡利古拉</title>
-        <id>163127</id>
-        <link href="https://www.geedea.pro/library/2026/caligula/?utm_source=blogfinder" />
-        <published>2026-07-11T17:02:40+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[卡利古拉]]></summary>
     </entry>
     </feed>
