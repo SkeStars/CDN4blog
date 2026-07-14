@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-14T11:00:57+08:00</updated>
+    <updated>2026-07-14T14:01:45+08:00</updated>
+        <entry>
+        <title>macOS 里 神秘的 kernel_task ，为什么一直在写入硬盘？</title>
+        <id>163528</id>
+        <link href="https://wocai.de/post/2026/07/macos-kernel-task-disk-write/?utm_source=blogfinder" />
+        <published>2026-07-14T12:00:00+08:00</published>
+        <author>
+            <name>kok的笔记本</name>
+            <uri>https://wocai.de</uri>
+        </author>
+        <summary type="text"><![CDATA[macOS 里 神秘的 kernel_task ，为什么一直在写入硬盘？]]></summary>
+    </entry>
         <entry>
         <title>Baby APP备案辅助工具</title>
         <id>163525</id>
@@ -35,6 +46,17 @@
         <summary type="text"><![CDATA[没有意思又满是意思的西北大学]]></summary>
     </entry>
         <entry>
+        <title>那年 S6 的夏天</title>
+        <id>163529</id>
+        <link href="https://www.sanji.one/fu-sheng-za-ji/that-summer-of-s6.html?utm_source=blogfinder" />
+        <published>2026-07-14T10:28:00+08:00</published>
+        <author>
+            <name>时光散记</name>
+            <uri>https://www.sanji.one</uri>
+        </author>
+        <summary type="text"><![CDATA[那年 S6 的夏天]]></summary>
+    </entry>
+        <entry>
         <title>下班准点儿走，也错了？</title>
         <id>163520</id>
         <link href="https://zhoutian.com/387.html?utm_source=blogfinder" />
@@ -44,6 +66,17 @@
             <uri>https://zhoutian.com</uri>
         </author>
         <summary type="text"><![CDATA[下班准点儿走，也错了？]]></summary>
+    </entry>
+        <entry>
+        <title>台风停产停工</title>
+        <id>163527</id>
+        <link href="https://www.gujishe.com/archives/72.html?utm_source=blogfinder" />
+        <published>2026-07-14T08:49:21+08:00</published>
+        <author>
+            <name>咕唧舍</name>
+            <uri>https://www.gujishe.com</uri>
+        </author>
+        <summary type="text"><![CDATA[台风停产停工]]></summary>
     </entry>
         <entry>
         <title>此地无银，垃圾请绕道</title>
@@ -1694,60 +1727,5 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[摘：《我就要自由》]]></summary>
-    </entry>
-        <entry>
-        <title>周六带十六去植物园和文博</title>
-        <id>163422</id>
-        <link href="https://xsmy.wang/1422.html?utm_source=blogfinder" />
-        <published>2026-07-11T13:46:20+08:00</published>
-        <author>
-            <name>相思明月</name>
-            <uri>https://xsmy.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[周六带十六去植物园和文博]]></summary>
-    </entry>
-        <entry>
-        <title>好站网全新 V3.0 版本上线：日式手账风格重构，轻量化精简改版</title>
-        <id>163122</id>
-        <link href="https://www.zhounote.com/article/115?utm_source=blogfinder" />
-        <published>2026-07-11T12:50:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[好站网全新 V3.0 版本上线：日式手账风格重构，轻量化精简改版]]></summary>
-    </entry>
-        <entry>
-        <title>在 systemd 服务失败时发送邮件</title>
-        <id>163136</id>
-        <link href="https://sh.alynx.one/posts/Send-Email-on-systemd-Unit-Failure/?utm_source=blogfinder" />
-        <published>2026-07-11T11:22:33+08:00</published>
-        <author>
-            <name>喵&#039;s StackHarbor</name>
-            <uri>https://sh.alynx.one</uri>
-        </author>
-        <summary type="text"><![CDATA[在 systemd 服务失败时发送邮件]]></summary>
-    </entry>
-        <entry>
-        <title>早上醒来，知了在我身边睡觉</title>
-        <id>163116</id>
-        <link href="https://www.bufanz.com/20260711729.html?utm_source=blogfinder" />
-        <published>2026-07-11T11:16:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[早上醒来，知了在我身边睡觉]]></summary>
-    </entry>
-        <entry>
-        <title>Hello, World!</title>
-        <id>163110</id>
-        <link href="https://www.kawabangga.com/posts/7336?utm_source=blogfinder" />
-        <published>2026-07-11T11:13:58+08:00</published>
-        <author>
-            <name>卡瓦邦噶</name>
-            <uri>https://www.kawabangga.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Hello, World!]]></summary>
     </entry>
     </feed>
