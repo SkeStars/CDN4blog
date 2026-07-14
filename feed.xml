@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-14T23:01:49+08:00</updated>
+    <updated>2026-07-15T00:00:44+08:00</updated>
         <entry>
         <title>VS Code 连接 WSL 精确每 10 分钟掉线 排坑笔记 | 阿尔的代码屋</title>
         <id>163572</id>
@@ -22,6 +22,17 @@
             <uri>https://blog.algieba12.cn</uri>
         </author>
         <summary type="text"><![CDATA[VS Code 连接 WSL 精确每 10 分钟掉线 排坑笔记 | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
+        <title>我为小说忙：（二）插件的几个前端页面</title>
+        <id>163574</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1417/?utm_source=blogfinder" />
+        <published>2026-07-14T22:24:42+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[我为小说忙：（二）插件的几个前端页面]]></summary>
     </entry>
         <entry>
         <title>Fisher 信息与精度下界</title>
@@ -44,6 +55,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1693】李辛《精神健康讲记》]]></summary>
+    </entry>
+        <entry>
+        <title>看完了《功夫女足》，简单影评一下</title>
+        <id>163575</id>
+        <link href="https://blog.weasel6.cn/posts/movie-kungfusoccer/?utm_source=blogfinder" />
+        <published>2026-07-14T15:34:00+08:00</published>
+        <author>
+            <name>小黄的日记本</name>
+            <uri>https://blog.weasel6.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[看完了《功夫女足》，简单影评一下]]></summary>
     </entry>
         <entry>
         <title>为什么我要将知识库与博客分开</title>
@@ -242,6 +264,17 @@
             <uri>https://blog.2broear.com</uri>
         </author>
         <summary type="text"><![CDATA[小区里的小花猫 – 日常记事（二百二十）]]></summary>
+    </entry>
+        <entry>
+        <title>尖山子石刻：比大足石刻还早300年</title>
+        <id>163573</id>
+        <link href="https://macin.org/2026/07/13/jian-shan-zi-shi-ke/?utm_source=blogfinder" />
+        <published>2026-07-13T23:17:26+08:00</published>
+        <author>
+            <name>Macin&#039;s Blog</name>
+            <uri>https://macin.org</uri>
+        </author>
+        <summary type="text"><![CDATA[尖山子石刻：比大足石刻还早300年]]></summary>
     </entry>
         <entry>
         <title>为什么我认为“早恋”这个词有存在的必要</title>
@@ -1463,159 +1496,5 @@
             <uri>https://blog.xrbk.cn</uri>
         </author>
         <summary type="text"><![CDATA[最近网站的一些变动]]></summary>
-    </entry>
-        <entry>
-        <title>SpaceX的IPO新股申购记</title>
-        <id>163426</id>
-        <link href="https://tumutanzi.com/archives/17616?utm_source=blogfinder" />
-        <published>2026-07-12T00:00:37+08:00</published>
-        <author>
-            <name>土木坛子</name>
-            <uri>https://tumutanzi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[SpaceX的IPO新股申购记]]></summary>
-    </entry>
-        <entry>
-        <title>【book】《Can&#039;t Hurt Me》+《Never Finished》</title>
-        <id>163475</id>
-        <link href="https://www.blackbzy.com/posts/read-david-goggins-books/?utm_source=blogfinder" />
-        <published>2026-07-12T00:00:00+08:00</published>
-        <author>
-            <name>blackbzy</name>
-            <uri>https://www.blackbzy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【book】《Can&#039;t Hurt Me》+《Never Finished》]]></summary>
-    </entry>
-        <entry>
-        <title>X4G：一个现代化的 VLESS 隧道网关，支持 WebSocket/XHTTP 与可视化管控面板</title>
-        <id>163300</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-12/x4g/?utm_source=blogfinder" />
-        <published>2026-07-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[X4G：一个现代化的 VLESS 隧道网关，支持 WebSocket/XHTTP 与可视化管控面板]]></summary>
-    </entry>
-        <entry>
-        <title>Prefect：让 Python 脚本秒变生产级数据工作流的利器</title>
-        <id>163299</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-12/prefect/?utm_source=blogfinder" />
-        <published>2026-07-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Prefect：让 Python 脚本秒变生产级数据工作流的利器]]></summary>
-    </entry>
-        <entry>
-        <title>pgrust: 用 Rust 从头重写 Postgres，已通过 46000+ 回归测试</title>
-        <id>163298</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-12/pgrust/?utm_source=blogfinder" />
-        <published>2026-07-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[pgrust: 用 Rust 从头重写 Postgres，已通过 46000+ 回归测试]]></summary>
-    </entry>
-        <entry>
-        <title>OpenWiki：为 AI Agent 打造的代码文档自动化 CLI 工具</title>
-        <id>163297</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-12/openwiki/?utm_source=blogfinder" />
-        <published>2026-07-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenWiki：为 AI Agent 打造的代码文档自动化 CLI 工具]]></summary>
-    </entry>
-        <entry>
-        <title>Next.js：React 全栈框架的工业级解决方案</title>
-        <id>163296</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-12/next-js/?utm_source=blogfinder" />
-        <published>2026-07-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Next.js：React 全栈框架的工业级解决方案]]></summary>
-    </entry>
-        <entry>
-        <title>Next AI Draw.io：用自然语言对话式创建 draw.io 图表的开源神器</title>
-        <id>163295</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-12/next-ai-draw-io/?utm_source=blogfinder" />
-        <published>2026-07-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Next AI Draw.io：用自然语言对话式创建 draw.io 图表的开源神器]]></summary>
-    </entry>
-        <entry>
-        <title>Home Assistant Core：把本地控制与隐私放在第一位的开源智能家居中枢</title>
-        <id>163294</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-12/core/?utm_source=blogfinder" />
-        <published>2026-07-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Home Assistant Core：把本地控制与隐私放在第一位的开源智能家居中枢]]></summary>
-    </entry>
-        <entry>
-        <title>F Prime：NASA 开源的航天飞行软件框架，让小卫星也能拥有「大脑」</title>
-        <id>163293</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-12/fprime/?utm_source=blogfinder" />
-        <published>2026-07-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[F Prime：NASA 开源的航天飞行软件框架，让小卫星也能拥有「大脑」]]></summary>
-    </entry>
-        <entry>
-        <title>dcg：一款防止 AI 编程助手误删代码的 Rust 安全钩子</title>
-        <id>163292</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-12/destructive-command-guard/?utm_source=blogfinder" />
-        <published>2026-07-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[dcg：一款防止 AI 编程助手误删代码的 Rust 安全钩子]]></summary>
-    </entry>
-        <entry>
-        <title>3x-ui-Upgrade：基于 Railway 单端口部署的代理面板方案</title>
-        <id>163291</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-12/3x-ui-upgrade/?utm_source=blogfinder" />
-        <published>2026-07-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[3x-ui-Upgrade：基于 Railway 单端口部署的代理面板方案]]></summary>
-    </entry>
-        <entry>
-        <title>Skills For Design Engineers：让 AI Agent 拥有「设计品味」的开源技能包</title>
-        <id>163138</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-12/skills/?utm_source=blogfinder" />
-        <published>2026-07-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Skills For Design Engineers：让 AI Agent 拥有「设计品味」的开源技能包]]></summary>
-    </entry>
-        <entry>
-        <title>“散帅”成违禁词？我不理解</title>
-        <id>163137</id>
-        <link href="https://www.ntiy.com/2365.html?utm_source=blogfinder" />
-        <published>2026-07-11T23:34:13+08:00</published>
-        <author>
-            <name>非理勿试</name>
-            <uri>https://www.ntiy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[“散帅”成违禁词？我不理解]]></summary>
     </entry>
     </feed>
