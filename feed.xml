@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-14T20:02:20+08:00</updated>
+    <updated>2026-07-14T23:01:49+08:00</updated>
+        <entry>
+        <title>VS Code 连接 WSL 精确每 10 分钟掉线 排坑笔记 | 阿尔的代码屋</title>
+        <id>163572</id>
+        <link href="https://blog.algieba12.cn/record13-vscode-wsl-connection/?utm_source=blogfinder" />
+        <published>2026-07-14T22:30:00+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[VS Code 连接 WSL 精确每 10 分钟掉线 排坑笔记 | 阿尔的代码屋]]></summary>
+    </entry>
         <entry>
         <title>Fisher 信息与精度下界</title>
         <id>163568</id>
@@ -22,6 +33,28 @@
             <uri>https://www.zywvvd.com</uri>
         </author>
         <summary type="text"><![CDATA[Fisher 信息与精度下界]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1693】李辛《精神健康讲记》</title>
+        <id>163571</id>
+        <link href="http://www.qncd.com/?p=12919&amp;utm_source=blogfinder" />
+        <published>2026-07-14T15:37:51+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1693】李辛《精神健康讲记》]]></summary>
+    </entry>
+        <entry>
+        <title>为什么我要将知识库与博客分开</title>
+        <id>163569</id>
+        <link href="https://cavill.site/articles/separating-blog-and-knowledge-base?utm_source=blogfinder" />
+        <published>2026-07-14T13:37:30+08:00</published>
+        <author>
+            <name>栖迟处</name>
+            <uri>https://cavill.site</uri>
+        </author>
+        <summary type="text"><![CDATA[为什么我要将知识库与博客分开]]></summary>
     </entry>
         <entry>
         <title>当职业素养成了稀缺品</title>
@@ -1584,93 +1617,5 @@
             <uri>https://www.ntiy.com</uri>
         </author>
         <summary type="text"><![CDATA[“散帅”成违禁词？我不理解]]></summary>
-    </entry>
-        <entry>
-        <title>「随便」才是最贵的</title>
-        <id>163128</id>
-        <link href="https://blog.solazy.me/20260711/?utm_source=blogfinder" />
-        <published>2026-07-11T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[「随便」才是最贵的]]></summary>
-    </entry>
-        <entry>
-        <title>好像...是放暑假了吧？</title>
-        <id>163133</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1427/?utm_source=blogfinder" />
-        <published>2026-07-11T21:58:00+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[好像...是放暑假了吧？]]></summary>
-    </entry>
-        <entry>
-        <title>新城步道独悠然</title>
-        <id>163131</id>
-        <link href="https://zhujay.com/talk/talk_detail.html?id=1258&amp;utm_source=blogfinder" />
-        <published>2026-07-11T21:57:02+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[新城步道独悠然]]></summary>
-    </entry>
-        <entry>
-        <title>最近的一些碎片</title>
-        <id>163124</id>
-        <link href="https://dongjunke.cn/posts/2026/07/11/57824.html?utm_source=blogfinder" />
-        <published>2026-07-11T21:39:05+08:00</published>
-        <author>
-            <name>东评西就</name>
-            <uri>https://dongjunke.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[最近的一些碎片]]></summary>
-    </entry>
-        <entry>
-        <title>博客折腾小记，添加 Memos 展示和 Moe Counter 统计</title>
-        <id>163273</id>
-        <link href="https://blog.guanglai.me/posts/astro-blog-add-memos-and-moe-counter/?utm_source=blogfinder" />
-        <published>2026-07-11T21:28:09+08:00</published>
-        <author>
-            <name>来都来了</name>
-            <uri>https://blog.guanglai.me/</uri>
-        </author>
-        <summary type="text"><![CDATA[博客折腾小记，添加 Memos 展示和 Moe Counter 统计]]></summary>
-    </entry>
-        <entry>
-        <title>CloudCone VPS“挂了”？原来罪魁祸首竟是MTU</title>
-        <id>163123</id>
-        <link href="https://meledee.com/2026/07/4830.html?utm_source=blogfinder" />
-        <published>2026-07-11T21:17:00+08:00</published>
-        <author>
-            <name>美樂地</name>
-            <uri>https://meledee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[CloudCone VPS“挂了”？原来罪魁祸首竟是MTU]]></summary>
-    </entry>
-        <entry>
-        <title>PHP 网站第五次被黑，Joomla 网站显示 hacked by trenggalek6etar</title>
-        <id>163120</id>
-        <link href="https://www.sunzhongwei.com/php-website-hacked-trendgalek6tar?utm_source=blogfinder" />
-        <published>2026-07-11T21:06:11+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[PHP 网站第五次被黑，Joomla 网站显示 hacked by trenggalek6etar]]></summary>
-    </entry>
-        <entry>
-        <title>我决定不再等了</title>
-        <id>163239</id>
-        <link href="https://lcrworld.xyz/articles/48?utm_source=blogfinder" />
-        <published>2026-07-11T20:29:45+08:00</published>
-        <author>
-            <name>lcrworld</name>
-            <uri>https://lcrworld.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[我决定不再等了]]></summary>
     </entry>
     </feed>
