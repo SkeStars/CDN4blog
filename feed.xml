@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-15T11:00:33+08:00</updated>
+    <updated>2026-07-15T14:02:55+08:00</updated>
+        <entry>
+        <title>观影有感｜看完《功夫女足》，聊聊我的真实看法</title>
+        <id>163606</id>
+        <link href="https://www.zhounote.com/article/116?utm_source=blogfinder" />
+        <published>2026-07-15T12:50:00+08:00</published>
+        <author>
+            <name>Zhou’s Notes</name>
+            <uri>https://www.zhounote.com</uri>
+        </author>
+        <summary type="text"><![CDATA[观影有感｜看完《功夫女足》，聊聊我的真实看法]]></summary>
+    </entry>
         <entry>
         <title>深入剖析现代分布式数据库的架构与一致性协议——以TiDB为例</title>
         <id>163601</id>
@@ -44,6 +55,17 @@
             <uri>https://shuiba.co</uri>
         </author>
         <summary type="text"><![CDATA[学习雷锋好榜样]]></summary>
+    </entry>
+        <entry>
+        <title>https 是智商税？网站没必要用https？https是庞氏骗局？</title>
+        <id>163605</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/123.html?utm_source=blogfinder" />
+        <published>2026-07-15T01:30:06+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[https 是智商税？网站没必要用https？https是庞氏骗局？]]></summary>
     </entry>
         <entry>
         <title>适用Handsome主题的友链巡检插件</title>
@@ -1606,93 +1628,5 @@
             <uri>https://ltmltm.cn/bk</uri>
         </author>
         <summary type="text"><![CDATA[失望]]></summary>
-    </entry>
-        <entry>
-        <title>泛读《理想国》</title>
-        <id>163425</id>
-        <link href="https://kaix.in/2026/0712/?utm_source=blogfinder" />
-        <published>2026-07-12T13:14:00+08:00</published>
-        <author>
-            <name>KAIX.IN</name>
-            <uri>https://kaix.in</uri>
-        </author>
-        <summary type="text"><![CDATA[泛读《理想国》]]></summary>
-    </entry>
-        <entry>
-        <title>食虫植物的养护记录</title>
-        <id>163280</id>
-        <link href="https://blog.wanyijizi.com/2026/07/12/669?utm_source=blogfinder" />
-        <published>2026-07-12T13:03:00+08:00</published>
-        <author>
-            <name>peachRL Blog</name>
-            <uri>https://blog.wanyijizi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[食虫植物的养护记录]]></summary>
-    </entry>
-        <entry>
-        <title>1000片的四人行</title>
-        <id>163248</id>
-        <link href="https://airy.ink/daily/460?utm_source=blogfinder" />
-        <published>2026-07-12T12:52:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[1000片的四人行]]></summary>
-    </entry>
-        <entry>
-        <title>【致歉声明】关于评论功能异常问题的说明</title>
-        <id>163246</id>
-        <link href="https://jyblog.com/5865/?utm_source=blogfinder" />
-        <published>2026-07-12T12:27:40+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【致歉声明】关于评论功能异常问题的说明]]></summary>
-    </entry>
-        <entry>
-        <title>我还在订阅的服务 - 2026</title>
-        <id>163302</id>
-        <link href="http://www.jinhuaiyao.com/posts/my-active-subscriptions---2026/?utm_source=blogfinder" />
-        <published>2026-07-12T11:55:11+08:00</published>
-        <author>
-            <name>Huaiyao Jin</name>
-            <uri>https://www.jinhuaiyao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我还在订阅的服务 - 2026]]></summary>
-    </entry>
-        <entry>
-        <title>向云端｜西南自驾01 - 裸辞</title>
-        <id>163417</id>
-        <link href="https://blog.ops-coffee.com/r/2026-southwest-road-trip-01-luoci.html?utm_source=blogfinder" />
-        <published>2026-07-12T11:54:06+08:00</published>
-        <author>
-            <name>运维咖啡吧</name>
-            <uri>https://blog.ops-coffee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[向云端｜西南自驾01 - 裸辞]]></summary>
-    </entry>
-        <entry>
-        <title>摄影练习作品</title>
-        <id>163249</id>
-        <link href="https://ygz.ink/archives/5487.html?utm_source=blogfinder" />
-        <published>2026-07-12T11:53:59+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[摄影练习作品]]></summary>
-    </entry>
-        <entry>
-        <title>老小区的夏日午后（20260705）</title>
-        <id>163254</id>
-        <link href="http://stuit.cn/Xiaolu/Post/1623.html?utm_source=blogfinder" />
-        <published>2026-07-12T11:30:14+08:00</published>
-        <author>
-            <name>风雨行者</name>
-            <uri>http://stuit.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[老小区的夏日午后（20260705）]]></summary>
     </entry>
     </feed>
