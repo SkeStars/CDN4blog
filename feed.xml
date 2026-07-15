@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-15T19:00:14+08:00</updated>
+    <updated>2026-07-15T20:03:28+08:00</updated>
         <entry>
         <title>macOS 使用 Crossover 游戏中文输入显示问号乱码问题</title>
         <id>163622</id>
@@ -1551,38 +1551,5 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[It Takes Time]]></summary>
-    </entry>
-        <entry>
-        <title>从头开始的勇气</title>
-        <id>163305</id>
-        <link href="https://blog.grtsinry43.com/moments/2026/07/12/courage-to-start-over?utm_source=blogfinder" />
-        <published>2026-07-12T19:53:36+08:00</published>
-        <author>
-            <name>Grtsinry43&#039;s Blog</name>
-            <uri>https://blog.grtsinry43.com</uri>
-        </author>
-        <summary type="text"><![CDATA[从头开始的勇气]]></summary>
-    </entry>
-        <entry>
-        <title>也聊博客的主题设计</title>
-        <id>163381</id>
-        <link href="https://www.suiyan.cc/blog/20260712193417?utm_source=blogfinder" />
-        <published>2026-07-12T19:34:17+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[也聊博客的主题设计]]></summary>
-    </entry>
-        <entry>
-        <title>【AI】给Codex加上rm防误删Hook</title>
-        <id>163477</id>
-        <link href="https://blog.musnow.top/posts/1314859114/?utm_source=blogfinder" />
-        <published>2026-07-12T19:11:01+08:00</published>
-        <author>
-            <name>慕雪的寒舍</name>
-            <uri>https://blog.musnow.top</uri>
-        </author>
-        <summary type="text"><![CDATA[【AI】给Codex加上rm防误删Hook]]></summary>
     </entry>
     </feed>
