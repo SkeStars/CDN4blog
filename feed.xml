@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-15T23:00:29+08:00</updated>
+    <updated>2026-07-16T00:00:44+08:00</updated>
+        <entry>
+        <title>【不凡摄影作品 | 2026.7.15】</title>
+        <id>163629</id>
+        <link href="https://www.bufanz.com/20260715744.html?utm_source=blogfinder" />
+        <published>2026-07-15T22:40:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【不凡摄影作品 | 2026.7.15】]]></summary>
+    </entry>
         <entry>
         <title>RuoYi 框架从旧 MES 系统迁移数据心得</title>
         <id>163623</id>
@@ -22,6 +33,17 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[RuoYi 框架从旧 MES 系统迁移数据心得]]></summary>
+    </entry>
+        <entry>
+        <title>10年火花塞的状态</title>
+        <id>163628</id>
+        <link href="https://me.xu19.com/mercedes-benz-glk300-spark-plug-condition-after-ten-years/?utm_source=blogfinder" />
+        <published>2026-07-15T19:45:30+08:00</published>
+        <author>
+            <name>我是军爸</name>
+            <uri>https://me.xu19.com</uri>
+        </author>
+        <summary type="text"><![CDATA[10年火花塞的状态]]></summary>
     </entry>
         <entry>
         <title>彭州小记</title>
@@ -66,6 +88,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[摄影练习]]></summary>
+    </entry>
+        <entry>
+        <title>松声｜廿六年·七月中·蝉鸣繁</title>
+        <id>163627</id>
+        <link href="https://xyzbz.cn/archives/1558/?utm_source=blogfinder" />
+        <published>2026-07-15T16:21:50+08:00</published>
+        <author>
+            <name>网友小宋</name>
+            <uri>https://xyzbz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[松声｜廿六年·七月中·蝉鸣繁]]></summary>
     </entry>
         <entry>
         <title>【读书记1694】梁思成《蓟县独乐寺观音阁山门考》</title>
@@ -1353,126 +1386,5 @@
             <uri>https://blog.liushen.fun</uri>
         </author>
         <summary type="text"><![CDATA[Cloudflare/Vercel项目推荐(6)]]></summary>
-    </entry>
-        <entry>
-        <title>烟雨过金陵</title>
-        <id>163471</id>
-        <link href="http://kangaroogao.com/posts/cbd7/?utm_source=blogfinder" />
-        <published>2026-07-13T00:00:00+08:00</published>
-        <author>
-            <name>三峡星河</name>
-            <uri>https://kangaroogao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[烟雨过金陵]]></summary>
-    </entry>
-        <entry>
-        <title>OpenCut：一套代码跨三端，开源视频编辑器进入 Rust 时代</title>
-        <id>163467</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-13/opencut/?utm_source=blogfinder" />
-        <published>2026-07-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenCut：一套代码跨三端，开源视频编辑器进入 Rust 时代]]></summary>
-    </entry>
-        <entry>
-        <title>Open-Inspect：开源背景编码代理系统，让 AI 替你做开发</title>
-        <id>163466</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-13/background-agents/?utm_source=blogfinder" />
-        <published>2026-07-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Open-Inspect：开源背景编码代理系统，让 AI 替你做开发]]></summary>
-    </entry>
-        <entry>
-        <title>nihaisha：用 AI Agent 技能把倪海厦中医课程变成可检索、可追溯的学习助手</title>
-        <id>163465</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-13/nihaisha-nishi-tcm/?utm_source=blogfinder" />
-        <published>2026-07-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[nihaisha：用 AI Agent 技能把倪海厦中医课程变成可检索、可追溯的学习助手]]></summary>
-    </entry>
-        <entry>
-        <title>K8sQuest：50 关本地闯关，把 Kubernetes 排障玩成游戏</title>
-        <id>163464</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-13/k8squest/?utm_source=blogfinder" />
-        <published>2026-07-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[K8sQuest：50 关本地闯关，把 Kubernetes 排障玩成游戏]]></summary>
-    </entry>
-        <entry>
-        <title>DNSHE Free Domains：面向开发者的免费域名与 DNS 解析服务</title>
-        <id>163463</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-13/dnshe-freedomains/?utm_source=blogfinder" />
-        <published>2026-07-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[DNSHE Free Domains：面向开发者的免费域名与 DNS 解析服务]]></summary>
-    </entry>
-        <entry>
-        <title>Awesome LLM Apps：100+ 开箱即用的 AI Agent 与 RAG 应用模板合集</title>
-        <id>163462</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-13/awesome-llm-apps/?utm_source=blogfinder" />
-        <published>2026-07-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Awesome LLM Apps：100+ 开箱即用的 AI Agent 与 RAG 应用模板合集]]></summary>
-    </entry>
-        <entry>
-        <title>9Router: 用 RTK Token 节省 + 自动Fallback 打通所有 AI 编程工具</title>
-        <id>163461</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-13/9router/?utm_source=blogfinder" />
-        <published>2026-07-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[9Router: 用 RTK Token 节省 + 自动Fallback 打通所有 AI 编程工具]]></summary>
-    </entry>
-        <entry>
-        <title>video-autopilot-kit：一套让你搭出『属于自己』而非照搬他人的 YouTube 短视频自动化脚手架</title>
-        <id>163290</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-13/video-autopilot-kit/?utm_source=blogfinder" />
-        <published>2026-07-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[video-autopilot-kit：一套让你搭出『属于自己』而非照搬他人的 YouTube 短视频自动化脚手架]]></summary>
-    </entry>
-        <entry>
-        <title>Free Claude Code：用本地代理让 Claude Code 和 Codex 畅连所有 AI 提供商</title>
-        <id>163289</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-13/free-claude-code/?utm_source=blogfinder" />
-        <published>2026-07-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Free Claude Code：用本地代理让 Claude Code 和 Codex 畅连所有 AI 提供商]]></summary>
-    </entry>
-        <entry>
-        <title>听《于是-邓紫棋》有感</title>
-        <id>163373</id>
-        <link href="https://blog.weasel6.cn/posts/music-so/?utm_source=blogfinder" />
-        <published>2026-07-12T23:47:00+08:00</published>
-        <author>
-            <name>小黄的日记本</name>
-            <uri>https://blog.weasel6.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[听《于是-邓紫棋》有感]]></summary>
     </entry>
     </feed>
