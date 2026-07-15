@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-15T20:03:28+08:00</updated>
+    <updated>2026-07-15T23:00:29+08:00</updated>
+        <entry>
+        <title>RuoYi 框架从旧 MES 系统迁移数据心得</title>
+        <id>163623</id>
+        <link href="https://www.sunzhongwei.com/experience-of-migrating-data-old-systems-using-ruoyi-framework?utm_source=blogfinder" />
+        <published>2026-07-15T19:57:30+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[RuoYi 框架从旧 MES 系统迁移数据心得]]></summary>
+    </entry>
+        <entry>
+        <title>彭州小记</title>
+        <id>163626</id>
+        <link href="https://mecll.com/1075.html?utm_source=blogfinder" />
+        <published>2026-07-15T18:00:24+08:00</published>
+        <author>
+            <name>流浪天下</name>
+            <uri>https://mecll.com</uri>
+        </author>
+        <summary type="text"><![CDATA[彭州小记]]></summary>
+    </entry>
+        <entry>
+        <title>第一卷 03</title>
+        <id>163624</id>
+        <link href="https://kaix.in/2026/0712/339a/?utm_source=blogfinder" />
+        <published>2026-07-15T17:15:04+08:00</published>
+        <author>
+            <name>KAIX.IN</name>
+            <uri>https://kaix.in</uri>
+        </author>
+        <summary type="text"><![CDATA[第一卷 03]]></summary>
+    </entry>
         <entry>
         <title>macOS 使用 Crossover 游戏中文输入显示问号乱码问题</title>
         <id>163622</id>
@@ -22,6 +55,17 @@
             <uri>https://anotherdayu.com</uri>
         </author>
         <summary type="text"><![CDATA[macOS 使用 Crossover 游戏中文输入显示问号乱码问题]]></summary>
+    </entry>
+        <entry>
+        <title>摄影练习</title>
+        <id>163625</id>
+        <link href="https://ygz.ink/archives/5534.html?utm_source=blogfinder" />
+        <published>2026-07-15T16:23:34+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[摄影练习]]></summary>
     </entry>
         <entry>
         <title>【读书记1694】梁思成《蓟县独乐寺观音阁山门考》</title>
@@ -1430,126 +1474,5 @@
             <uri>https://blog.weasel6.cn</uri>
         </author>
         <summary type="text"><![CDATA[听《于是-邓紫棋》有感]]></summary>
-    </entry>
-        <entry>
-        <title>车辆保养与小思</title>
-        <id>163419</id>
-        <link href="https://blog.hantaotao.top/archives/203/?utm_source=blogfinder" />
-        <published>2026-07-12T22:59:43+08:00</published>
-        <author>
-            <name>一世繁华</name>
-            <uri>https://blog.hantaotao.top</uri>
-        </author>
-        <summary type="text"><![CDATA[车辆保养与小思]]></summary>
-    </entry>
-        <entry>
-        <title>独生子女如何继承农村房产</title>
-        <id>163439</id>
-        <link href="https://mecll.com/1061.html?utm_source=blogfinder" />
-        <published>2026-07-12T22:40:36+08:00</published>
-        <author>
-            <name>流浪天下</name>
-            <uri>https://mecll.com</uri>
-        </author>
-        <summary type="text"><![CDATA[独生子女如何继承农村房产]]></summary>
-    </entry>
-        <entry>
-        <title>变更博客访问者头像源，恢复显示</title>
-        <id>163271</id>
-        <link href="https://pwsz.com/share/5027.html?utm_source=blogfinder" />
-        <published>2026-07-12T22:35:40+08:00</published>
-        <author>
-            <name>品味苏州</name>
-            <uri>https://pwsz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[变更博客访问者头像源，恢复显示]]></summary>
-    </entry>
-        <entry>
-        <title>学一下chrome的扩展开发</title>
-        <id>163440</id>
-        <link href="https://nicksxs.me/2026/07/12/%E5%AD%A6%E4%B8%80%E4%B8%8Bchrome%E7%9A%84%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91/?utm_source=blogfinder" />
-        <published>2026-07-12T22:18:19+08:00</published>
-        <author>
-            <name>Nicksxs&#039;s Blog</name>
-            <uri>https://nicksxs.me</uri>
-        </author>
-        <summary type="text"><![CDATA[学一下chrome的扩展开发]]></summary>
-    </entry>
-        <entry>
-        <title>观影观后感｜看完《功夫女足》聊聊真实感受</title>
-        <id>163270</id>
-        <link href="https://yigeboke.com/article.php?id=46&amp;utm_source=blogfinder" />
-        <published>2026-07-12T22:08:24+08:00</published>
-        <author>
-            <name>一个博客</name>
-            <uri>https://yigeboke.com</uri>
-        </author>
-        <summary type="text"><![CDATA[观影观后感｜看完《功夫女足》聊聊真实感受]]></summary>
-    </entry>
-        <entry>
-        <title>用 CLIProxyAPI 把 Codex 变成一个 OpenAI 兼容的 API 服务</title>
-        <id>163376</id>
-        <link href="https://blog.devtang.com/2026/07/12/cliproxyapi-codex/?utm_source=blogfinder" />
-        <published>2026-07-12T22:05:00+08:00</published>
-        <author>
-            <name>唐巧的博客</name>
-            <uri>https://blog.devtang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[用 CLIProxyAPI 把 Codex 变成一个 OpenAI 兼容的 API 服务]]></summary>
-    </entry>
-        <entry>
-        <title>Hotel California Solo - Flute 楽譜</title>
-        <id>163451</id>
-        <link href="https://erzbir.com/archives/hotel-california-solo-flute-sheet-music?utm_source=blogfinder" />
-        <published>2026-07-12T21:58:51+08:00</published>
-        <author>
-            <name>Erzbir&#039;s Blog</name>
-            <uri>https://erzbir.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Hotel California Solo - Flute 楽譜]]></summary>
-    </entry>
-        <entry>
-        <title>Hotel California アウトロのフルート楽譜</title>
-        <id>163276</id>
-        <link href="https://erzbir.com/archives/hotel-california-outro-sheet-music?utm_source=blogfinder" />
-        <published>2026-07-12T21:58:51+08:00</published>
-        <author>
-            <name>Erzbir&#039;s Blog</name>
-            <uri>https://erzbir.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Hotel California アウトロのフルート楽譜]]></summary>
-    </entry>
-        <entry>
-        <title>软著自动生成 Skill</title>
-        <id>163266</id>
-        <link href="https://www.sunzhongwei.com/software-cert-auto-generate-skills?utm_source=blogfinder" />
-        <published>2026-07-12T21:55:13+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[软著自动生成 Skill]]></summary>
-    </entry>
-        <entry>
-        <title>第一卷 01</title>
-        <id>163424</id>
-        <link href="https://kaix.in/2026/0712/327a/?utm_source=blogfinder" />
-        <published>2026-07-12T21:51:24+08:00</published>
-        <author>
-            <name>KAIX.IN</name>
-            <uri>https://kaix.in</uri>
-        </author>
-        <summary type="text"><![CDATA[第一卷 01]]></summary>
-    </entry>
-        <entry>
-        <title>It Takes Time</title>
-        <id>163272</id>
-        <link href="https://www.geedea.pro/article/it-takes-time/?utm_source=blogfinder" />
-        <published>2026-07-12T21:50:29+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[It Takes Time]]></summary>
     </entry>
     </feed>
