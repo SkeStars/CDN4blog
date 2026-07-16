@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-16T11:00:55+08:00</updated>
+    <updated>2026-07-16T14:02:13+08:00</updated>
+        <entry>
+        <title>OpenClaw记忆系统升级：从memory-core到memory-lancedb-pro的迁移与配置</title>
+        <id>163676</id>
+        <link href="https://blog.zhheo.com/p/0kl9erod.html?utm_source=blogfinder" />
+        <published>2026-07-16T12:17:53+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenClaw记忆系统升级：从memory-core到memory-lancedb-pro的迁移与配置]]></summary>
+    </entry>
+        <entry>
+        <title>低质量协作的本质是逃避思考</title>
+        <id>163675</id>
+        <link href="https://blog.solazy.me/20260716/?utm_source=blogfinder" />
+        <published>2026-07-16T10:40:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[低质量协作的本质是逃避思考]]></summary>
+    </entry>
         <entry>
         <title>达成一个小目标：10000ml</title>
         <id>163671</id>
@@ -123,6 +145,17 @@
         <summary type="text"><![CDATA[10年火花塞的状态]]></summary>
     </entry>
         <entry>
+        <title>浅谈分布式事务#1</title>
+        <id>163673</id>
+        <link href="https://www.bytecho.net/archives/distributed_transaction.html?utm_source=blogfinder" />
+        <published>2026-07-15T18:25:33+08:00</published>
+        <author>
+            <name>字节星球</name>
+            <uri>https://www.bytecho.net</uri>
+        </author>
+        <summary type="text"><![CDATA[浅谈分布式事务#1]]></summary>
+    </entry>
+        <entry>
         <title>彭州小记</title>
         <id>163626</id>
         <link href="https://mecll.com/1075.html?utm_source=blogfinder" />
@@ -154,6 +187,17 @@
             <uri>https://anotherdayu.com</uri>
         </author>
         <summary type="text"><![CDATA[macOS 使用 Crossover 游戏中文输入显示问号乱码问题]]></summary>
+    </entry>
+        <entry>
+        <title>聊聊大学里面的奇葩</title>
+        <id>163674</id>
+        <link href="https://www.bytecho.net/archives/260715.html?utm_source=blogfinder" />
+        <published>2026-07-15T16:24:24+08:00</published>
+        <author>
+            <name>字节星球</name>
+            <uri>https://www.bytecho.net</uri>
+        </author>
+        <summary type="text"><![CDATA[聊聊大学里面的奇葩]]></summary>
     </entry>
         <entry>
         <title>摄影练习</title>
@@ -1287,82 +1331,5 @@
             <uri>https://blog.224418.xyz</uri>
         </author>
         <summary type="text"><![CDATA[换了个新眼镜]]></summary>
-    </entry>
-        <entry>
-        <title>2026.7.12</title>
-        <id>163437</id>
-        <link href="https://www.justzht.com/2026-7-12/?utm_source=blogfinder" />
-        <published>2026-07-13T13:48:49+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.7.12]]></summary>
-    </entry>
-        <entry>
-        <title>在线字体编辑器-魔法精灵</title>
-        <id>163432</id>
-        <link href="https://zooyoo.top/article/30/?utm_source=blogfinder" />
-        <published>2026-07-13T12:30:00+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[在线字体编辑器-魔法精灵]]></summary>
-    </entry>
-        <entry>
-        <title>我的多邻国2000天“微习惯革命”</title>
-        <id>163427</id>
-        <link href="https://zhujay.com/talk/talk_detail.html?id=1260&amp;utm_source=blogfinder" />
-        <published>2026-07-13T12:07:23+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我的多邻国2000天“微习惯革命”]]></summary>
-    </entry>
-        <entry>
-        <title>渣男理论 II</title>
-        <id>163433</id>
-        <link href="https://blog.solazy.me/20260713/?utm_source=blogfinder" />
-        <published>2026-07-13T12:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[渣男理论 II]]></summary>
-    </entry>
-        <entry>
-        <title>MySQL 加锁机制分析与死锁排查</title>
-        <id>163474</id>
-        <link href="https://www.bytecho.net/archives/innodb-locking-deadlock.html?utm_source=blogfinder" />
-        <published>2026-07-13T11:30:00+08:00</published>
-        <author>
-            <name>字节星球</name>
-            <uri>https://www.bytecho.net</uri>
-        </author>
-        <summary type="text"><![CDATA[MySQL 加锁机制分析与死锁排查]]></summary>
-    </entry>
-        <entry>
-        <title>《功夫女足》——这或许是星爷的“封笔之作”吧</title>
-        <id>163428</id>
-        <link href="https://zhujay.com/blog/blog_detail.html?id=1259&amp;utm_source=blogfinder" />
-        <published>2026-07-13T11:27:57+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《功夫女足》——这或许是星爷的“封笔之作”吧]]></summary>
-    </entry>
-        <entry>
-        <title>用 Cloudflare 给 WordPress 减负</title>
-        <id>163420</id>
-        <link href="https://zeeko.dev/2026/07/cloudflare-for-wordpress-optimization/?utm_source=blogfinder" />
-        <published>2026-07-13T11:19:54+08:00</published>
-        <author>
-            <name>网上冲浪指南</name>
-            <uri>https://zeeko.dev</uri>
-        </author>
-        <summary type="text"><![CDATA[用 Cloudflare 给 WordPress 减负]]></summary>
     </entry>
     </feed>
