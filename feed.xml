@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-16T19:00:28+08:00</updated>
+    <updated>2026-07-16T22:01:01+08:00</updated>
+        <entry>
+        <title>【读书记1695】奥勒留《沉思录》</title>
+        <id>163690</id>
+        <link href="http://www.qncd.com/?p=12927&amp;utm_source=blogfinder" />
+        <published>2026-07-16T21:34:39+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1695】奥勒留《沉思录》]]></summary>
+    </entry>
+        <entry>
+        <title>Git Rebase 规整分支杂乱的 commit</title>
+        <id>163689</id>
+        <link href="https://www.sunzhongwei.com/git-rebase-organizing-branches-chaotic-commits?utm_source=blogfinder" />
+        <published>2026-07-16T21:30:26+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Git Rebase 规整分支杂乱的 commit]]></summary>
+    </entry>
+        <entry>
+        <title>摄影练习</title>
+        <id>163691</id>
+        <link href="https://ygz.ink/archives/5546.html?utm_source=blogfinder" />
+        <published>2026-07-16T21:06:04+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[摄影练习]]></summary>
+    </entry>
+        <entry>
+        <title>在折腾一个静态博客程序</title>
+        <id>163688</id>
+        <link href="https://www.pgoj.top/archives/jing-tai-cheng-xu.html?utm_source=blogfinder" />
+        <published>2026-07-16T20:26:00+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[在折腾一个静态博客程序]]></summary>
+    </entry>
+        <entry>
+        <title>说说：期末考完了，有点微死……</title>
+        <id>163687</id>
+        <link href="https://www.ryqi.top/p/grade/?utm_source=blogfinder" />
+        <published>2026-07-16T18:30:00+08:00</published>
+        <author>
+            <name>合荒小站</name>
+            <uri>https://ryqi.top</uri>
+        </author>
+        <summary type="text"><![CDATA[说说：期末考完了，有点微死……]]></summary>
+    </entry>
         <entry>
         <title>我买过一把枪</title>
         <id>163681</id>
@@ -22,6 +77,17 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[我买过一把枪]]></summary>
+    </entry>
+        <entry>
+        <title>HTTP2 帧层调度与流控机制：多路复用并非无代价，头部阻塞底层根源</title>
+        <id>163684</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/124.html?utm_source=blogfinder" />
+        <published>2026-07-16T15:43:27+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[HTTP2 帧层调度与流控机制：多路复用并非无代价，头部阻塞底层根源]]></summary>
     </entry>
         <entry>
         <title>皇帝的新衣</title>
@@ -99,6 +165,39 @@
             <uri>https://www.munue.com</uri>
         </author>
         <summary type="text"><![CDATA[达成一个小目标：10000ml]]></summary>
+    </entry>
+        <entry>
+        <title>微信早已不是熟人社交</title>
+        <id>163686</id>
+        <link href="https://lomus.cc/archives/793?utm_source=blogfinder" />
+        <published>2026-07-16T07:30:00+08:00</published>
+        <author>
+            <name>Lumos&#039;s Blog</name>
+            <uri>https://lomus.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[微信早已不是熟人社交]]></summary>
+    </entry>
+        <entry>
+        <title>我是怎样使用 AI Agent 写代码的</title>
+        <id>163685</id>
+        <link href="https://blog.grtsinry43.com/posts/coding-with-ai-agent?utm_source=blogfinder" />
+        <published>2026-07-16T00:52:37+08:00</published>
+        <author>
+            <name>Grtsinry43&#039;s Blog</name>
+            <uri>https://blog.grtsinry43.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我是怎样使用 AI Agent 写代码的]]></summary>
+    </entry>
+        <entry>
+        <title>screenpipe：开源本地的 AI 记忆引擎，让电脑更懂你</title>
+        <id>163683</id>
+        <link href="https://blog.zhheo.com/p/94w0byur.html?utm_source=blogfinder" />
+        <published>2026-07-16T00:00:00+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[screenpipe：开源本地的 AI 记忆引擎，让电脑更懂你]]></summary>
     </entry>
         <entry>
         <title>不容易等的电梯，容易受伤的膝盖</title>
@@ -1188,93 +1287,5 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[再写一次设计]]></summary>
-    </entry>
-        <entry>
-        <title>B4 LLM决策模块：验收讲解 —— 从基础到进阶的五维实践</title>
-        <id>163523</id>
-        <link href="https://xingwangzhe.fun/posts/ai-training-b4-week2-review/?utm_source=blogfinder" />
-        <published>2026-07-13T22:00:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[B4 LLM决策模块：验收讲解 —— 从基础到进阶的五维实践]]></summary>
-    </entry>
-        <entry>
-        <title>MCSM容器化功能详解</title>
-        <id>163468</id>
-        <link href="https://mei.lv/articles/2026/mcsm-container.html?utm_source=blogfinder" />
-        <published>2026-07-13T21:30:23+08:00</published>
-        <author>
-            <name>mei の blog</name>
-            <uri>https://www.mmeiblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[MCSM容器化功能详解]]></summary>
-    </entry>
-        <entry>
-        <title>今日摄影练习</title>
-        <id>163445</id>
-        <link href="https://ygz.ink/archives/5518.html?utm_source=blogfinder" />
-        <published>2026-07-13T21:03:05+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[今日摄影练习]]></summary>
-    </entry>
-        <entry>
-        <title>无用命途：只有 32v 的家用电？</title>
-        <id>163452</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1435/?utm_source=blogfinder" />
-        <published>2026-07-13T20:59:00+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[无用命途：只有 32v 的家用电？]]></summary>
-    </entry>
-        <entry>
-        <title>受不了被网红食品愚弄的无聊</title>
-        <id>163442</id>
-        <link href="https://www.pgoj.top/archives/wang-hong-shi-pin.html?utm_source=blogfinder" />
-        <published>2026-07-13T20:42:37+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[受不了被网红食品愚弄的无聊]]></summary>
-    </entry>
-        <entry>
-        <title>我设计的软件 iAssets 知盈 上少数派热门了</title>
-        <id>163447</id>
-        <link href="https://blog.debuginn.com/p/iassets-sspai/?utm_source=blogfinder" />
-        <published>2026-07-13T20:00:00+08:00</published>
-        <author>
-            <name>Debug 客栈</name>
-            <uri>https://blog.debuginn.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我设计的软件 iAssets 知盈 上少数派热门了]]></summary>
-    </entry>
-        <entry>
-        <title>Linux 内存脏页回写机制深度剖析：flusher 线程、双阈值与 dirty_ratio 对高吞吐服务的隐形阻塞</title>
-        <id>163443</id>
-        <link href="https://qaqbuyan.com:88/乔安文章/122.html?utm_source=blogfinder" />
-        <published>2026-07-13T19:43:43+08:00</published>
-        <author>
-            <name>卟言的个人博客</name>
-            <uri>https://qaqbuyan.com:88</uri>
-        </author>
-        <summary type="text"><![CDATA[Linux 内存脏页回写机制深度剖析：flusher 线程、双阈值与 dirty_ratio 对高吞吐服务的隐形阻塞]]></summary>
-    </entry>
-        <entry>
-        <title>《庄子·齐物论》哲学解读与批判</title>
-        <id>163449</id>
-        <link href="https://chegva.com/6759.html?utm_source=blogfinder" />
-        <published>2026-07-13T19:02:15+08:00</published>
-        <author>
-            <name>安志合的学习博客</name>
-            <uri>https://chegva.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《庄子·齐物论》哲学解读与批判]]></summary>
     </entry>
     </feed>
