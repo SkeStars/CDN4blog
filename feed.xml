@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-16T17:01:20+08:00</updated>
+    <updated>2026-07-16T19:00:28+08:00</updated>
+        <entry>
+        <title>我买过一把枪</title>
+        <id>163681</id>
+        <link href="https://d-d.design/single/19774?utm_source=blogfinder" />
+        <published>2026-07-16T17:43:55+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[我买过一把枪]]></summary>
+    </entry>
+        <entry>
+        <title>皇帝的新衣</title>
+        <id>163682</id>
+        <link href="https://liWanr.com/essays/2026/named-silence/?utm_source=blogfinder" />
+        <published>2026-07-16T15:33:00+08:00</published>
+        <author>
+            <name>liWanr</name>
+            <uri>https://liWanr.com</uri>
+        </author>
+        <summary type="text"><![CDATA[皇帝的新衣]]></summary>
+    </entry>
         <entry>
         <title>相聚苏州</title>
         <id>163678</id>
@@ -1254,49 +1276,5 @@
             <uri>https://chegva.com</uri>
         </author>
         <summary type="text"><![CDATA[《庄子·齐物论》哲学解读与批判]]></summary>
-    </entry>
-        <entry>
-        <title>分享一款魔王大佬开源的朋友圈程序</title>
-        <id>163446</id>
-        <link href="https://ygz.ink/archives/5502.html?utm_source=blogfinder" />
-        <published>2026-07-13T18:38:09+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[分享一款魔王大佬开源的朋友圈程序]]></summary>
-    </entry>
-        <entry>
-        <title>CVE-2026-23086浅析</title>
-        <id>163470</id>
-        <link href="https://blog.deepchirp.com/2026/07/13/CVE-2026-23086-Notes/?utm_source=blogfinder" />
-        <published>2026-07-13T17:55:15+08:00</published>
-        <author>
-            <name>空鸣深语</name>
-            <uri>https://blog.deepchirp.com</uri>
-        </author>
-        <summary type="text"><![CDATA[CVE-2026-23086浅析]]></summary>
-    </entry>
-        <entry>
-        <title>TIL: lang 属性會影响文字的尺寸</title>
-        <id>163441</id>
-        <link href="https://taxodium.ink/til-lang-attribute-affects-text-size.html?utm_source=blogfinder" />
-        <published>2026-07-13T17:30:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[TIL: lang 属性會影响文字的尺寸]]></summary>
-    </entry>
-        <entry>
-        <title>从分域防护到体系免疫：数字政府“云数网端智”一体化安全建设方法论</title>
-        <id>163473</id>
-        <link href="https://bluedog.website/posts/archive/%E6%8A%80%E6%9C%AF%E5%A5%BD%E6%96%87/digital-government-integrated-security/?utm_source=blogfinder" />
-        <published>2026-07-13T17:14:22+08:00</published>
-        <author>
-            <name>BlueDog&#039;s Blog</name>
-            <uri>https://bluedog.website</uri>
-        </author>
-        <summary type="text"><![CDATA[从分域防护到体系免疫：数字政府“云数网端智”一体化安全建设方法论]]></summary>
     </entry>
     </feed>
