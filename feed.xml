@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-16T14:02:13+08:00</updated>
+    <updated>2026-07-16T17:01:20+08:00</updated>
+        <entry>
+        <title>相聚苏州</title>
+        <id>163678</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1183&amp;utm_source=blogfinder" />
+        <published>2026-07-16T14:36:55+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[相聚苏州]]></summary>
+    </entry>
         <entry>
         <title>OpenClaw记忆系统升级：从memory-core到memory-lancedb-pro的迁移与配置</title>
         <id>163676</id>
@@ -24,6 +35,17 @@
         <summary type="text"><![CDATA[OpenClaw记忆系统升级：从memory-core到memory-lancedb-pro的迁移与配置]]></summary>
     </entry>
         <entry>
+        <title>台风巴威&amp;过境之后的台州</title>
+        <id>163677</id>
+        <link href="https://blog.moeworld.tech/2026/07/16/%e5%8f%b0%e9%a3%8e%e5%b7%b4%e5%a8%81%e8%bf%87%e5%a2%83%e4%b9%8b%e5%90%8e%e7%9a%84%e5%8f%b0%e5%b7%9e/?utm_source=blogfinder" />
+        <published>2026-07-16T11:45:00+08:00</published>
+        <author>
+            <name>晓空 Blog</name>
+            <uri>https://blog.moeworld.tech</uri>
+        </author>
+        <summary type="text"><![CDATA[台风巴威&amp;过境之后的台州]]></summary>
+    </entry>
+        <entry>
         <title>低质量协作的本质是逃避思考</title>
         <id>163675</id>
         <link href="https://blog.solazy.me/20260716/?utm_source=blogfinder" />
@@ -33,6 +55,17 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[低质量协作的本质是逃避思考]]></summary>
+    </entry>
+        <entry>
+        <title>用Qclaw搭建博客专属通知机器人</title>
+        <id>163679</id>
+        <link href="https://dahai.plus/archives/137?utm_source=blogfinder" />
+        <published>2026-07-16T10:16:07+08:00</published>
+        <author>
+            <name>大海拾光</name>
+            <uri>https://dahai.plus</uri>
+        </author>
+        <summary type="text"><![CDATA[用Qclaw搭建博客专属通知机器人]]></summary>
     </entry>
         <entry>
         <title>达成一个小目标：10000ml</title>
@@ -99,6 +132,17 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[【不凡摄影作品 | 2026.7.15】]]></summary>
+    </entry>
+        <entry>
+        <title>YouTube 无限重定向报错，谷歌账号身份验证无限失败，罪魁祸首居然是“已分区 cookie”？！</title>
+        <id>163680</id>
+        <link href="https://www.tjsky.net/tutorial/1708?utm_source=blogfinder" />
+        <published>2026-07-15T22:12:22+08:00</published>
+        <author>
+            <name>秋风于渭水</name>
+            <uri>https://www.tjsky.net</uri>
+        </author>
+        <summary type="text"><![CDATA[YouTube 无限重定向报错，谷歌账号身份验证无限失败，罪魁祸首居然是“已分区 cookie”？！]]></summary>
     </entry>
         <entry>
         <title>嘿嘿，分享一下好吃的</title>
@@ -1254,82 +1298,5 @@
             <uri>https://bluedog.website</uri>
         </author>
         <summary type="text"><![CDATA[从分域防护到体系免疫：数字政府“云数网端智”一体化安全建设方法论]]></summary>
-    </entry>
-        <entry>
-        <title>网络安全面经持续更新中..</title>
-        <id>163472</id>
-        <link href="https://www.yunyanck.cn/index.php/archives/145/?utm_source=blogfinder" />
-        <published>2026-07-13T16:49:00+08:00</published>
-        <author>
-            <name>云烟博客</name>
-            <uri>https://www.yunyanck.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[网络安全面经持续更新中..]]></summary>
-    </entry>
-        <entry>
-        <title>目前来看，连廊设计是百害无一利</title>
-        <id>163521</id>
-        <link href="https://zhoutian.com/386.html?utm_source=blogfinder" />
-        <published>2026-07-13T16:02:00+08:00</published>
-        <author>
-            <name>周天记</name>
-            <uri>https://zhoutian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[目前来看，连廊设计是百害无一利]]></summary>
-    </entry>
-        <entry>
-        <title>我在工厂当了六年“网络工程师”，最近才开始敢想走</title>
-        <id>163434</id>
-        <link href="https://www.cry33.com/archives/1337.html?utm_source=blogfinder" />
-        <published>2026-07-13T15:52:24+08:00</published>
-        <author>
-            <name>逍遥隐士</name>
-            <uri>https://www.cry33.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我在工厂当了六年“网络工程师”，最近才开始敢想走]]></summary>
-    </entry>
-        <entry>
-        <title>当下年轻人只喝饮料不喝水的现状</title>
-        <id>163429</id>
-        <link href="https://www.zhyok.cn/archives/438/?utm_source=blogfinder" />
-        <published>2026-07-13T15:44:00+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[当下年轻人只喝饮料不喝水的现状]]></summary>
-    </entry>
-        <entry>
-        <title>第一卷 02</title>
-        <id>163423</id>
-        <link href="https://kaix.in/2026/0712/333a/?utm_source=blogfinder" />
-        <published>2026-07-13T15:10:04+08:00</published>
-        <author>
-            <name>KAIX.IN</name>
-            <uri>https://kaix.in</uri>
-        </author>
-        <summary type="text"><![CDATA[第一卷 02]]></summary>
-    </entry>
-        <entry>
-        <title>终于解决了我的文章更新时间不对的问题</title>
-        <id>163453</id>
-        <link href="https://blog.weasel6.cn/posts/rss-time/?utm_source=blogfinder" />
-        <published>2026-07-13T14:56:00+08:00</published>
-        <author>
-            <name>小黄的日记本</name>
-            <uri>https://blog.weasel6.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[终于解决了我的文章更新时间不对的问题]]></summary>
-    </entry>
-        <entry>
-        <title>换了个新眼镜</title>
-        <id>163481</id>
-        <link href="https://blog.224418.xyz/posts/b3f7b0dd/?utm_source=blogfinder" />
-        <published>2026-07-13T14:35:00+08:00</published>
-        <author>
-            <name>傥师妹的小空间</name>
-            <uri>https://blog.224418.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[换了个新眼镜]]></summary>
     </entry>
     </feed>
