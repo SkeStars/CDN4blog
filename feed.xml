@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-17T11:01:10+08:00</updated>
+    <updated>2026-07-17T14:02:16+08:00</updated>
+        <entry>
+        <title>给 SearXNG 接入豆包搜索，解决 OpenClaw 信源难题</title>
+        <id>163731</id>
+        <link href="https://blog.zhheo.com/p/1ffvrvyd.html?utm_source=blogfinder" />
+        <published>2026-07-17T13:08:17+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[给 SearXNG 接入豆包搜索，解决 OpenClaw 信源难题]]></summary>
+    </entry>
+        <entry>
+        <title>为开发中的游戏注册域名</title>
+        <id>163727</id>
+        <link href="https://www.suiyan.cc/blog/20260717113532?utm_source=blogfinder" />
+        <published>2026-07-17T11:35:32+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[为开发中的游戏注册域名]]></summary>
+    </entry>
+        <entry>
+        <title>《我的博客》招募博主群众演员</title>
+        <id>163728</id>
+        <link href="https://www.suiyan.cc/blog/20260717112354?utm_source=blogfinder" />
+        <published>2026-07-17T11:23:54+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[《我的博客》招募博主群众演员]]></summary>
+    </entry>
+        <entry>
+        <title>善用“古法 AI”，能帮你省下很多 Token</title>
+        <id>163732</id>
+        <link href="https://1q43.blog/post/12539/?utm_source=blogfinder" />
+        <published>2026-07-17T09:54:23+08:00</published>
+        <author>
+            <name>虹线</name>
+            <uri>https://1q43.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[善用“古法 AI”，能帮你省下很多 Token]]></summary>
+    </entry>
         <entry>
         <title>末日大霾</title>
         <id>163722</id>
@@ -22,6 +66,17 @@
             <uri>https://immarcus.com</uri>
         </author>
         <summary type="text"><![CDATA[末日大霾]]></summary>
+    </entry>
+        <entry>
+        <title>14亿中国人在世界的位置</title>
+        <id>163733</id>
+        <link href="https://lawtee.com/article/economic-status-of-chinese/?utm_source=blogfinder" />
+        <published>2026-07-17T02:24:30+08:00</published>
+        <author>
+            <name>老 T 博客</name>
+            <uri>https://lawtee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[14亿中国人在世界的位置]]></summary>
     </entry>
         <entry>
         <title>全新相册Kaleido现已上线！来看看我的日常吧~</title>
@@ -88,6 +143,17 @@
             <uri>http://www.auiou.com</uri>
         </author>
         <summary type="text"><![CDATA[数码评测(71)：超低价享受i7-7700的体验]]></summary>
+    </entry>
+        <entry>
+        <title>耐心等待，静待花开</title>
+        <id>163730</id>
+        <link href="https://blog.hudd.cn/1435.html?utm_source=blogfinder" />
+        <published>2026-07-16T21:38:00+08:00</published>
+        <author>
+            <name>胡东东博客</name>
+            <uri>https://blog.hudd.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[耐心等待，静待花开]]></summary>
     </entry>
         <entry>
         <title>【读书记1695】奥勒留《沉思录》</title>
@@ -209,6 +275,17 @@
             <uri>https://numb.tech</uri>
         </author>
         <summary type="text"><![CDATA[自省与离开#381]]></summary>
+    </entry>
+        <entry>
+        <title>浅谈分布式事务#2</title>
+        <id>163729</id>
+        <link href="https://www.bytecho.net/archives/distributed_transaction_tcc.html?utm_source=blogfinder" />
+        <published>2026-07-16T17:00:00+08:00</published>
+        <author>
+            <name>字节星球</name>
+            <uri>https://www.bytecho.net</uri>
+        </author>
+        <summary type="text"><![CDATA[浅谈分布式事务#2]]></summary>
     </entry>
         <entry>
         <title>HTTP2 帧层调度与流控机制：多路复用并非无代价，头部阻塞底层根源</title>
@@ -1199,60 +1276,5 @@
             <uri>https://www.aserver.cn</uri>
         </author>
         <summary type="text"><![CDATA[中小型企业使用AI做系统开发的可行性评估与研究]]></summary>
-    </entry>
-        <entry>
-        <title>为什么我要将知识库与博客分开</title>
-        <id>163569</id>
-        <link href="https://cavill.site/articles/separating-blog-and-knowledge-base?utm_source=blogfinder" />
-        <published>2026-07-14T13:37:30+08:00</published>
-        <author>
-            <name>栖迟处</name>
-            <uri>https://cavill.site</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么我要将知识库与博客分开]]></summary>
-    </entry>
-        <entry>
-        <title>当职业素养成了稀缺品</title>
-        <id>163535</id>
-        <link href="https://blog.solazy.me/20260714/?utm_source=blogfinder" />
-        <published>2026-07-14T12:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[当职业素养成了稀缺品]]></summary>
-    </entry>
-        <entry>
-        <title>macOS 里 神秘的 kernel_task ，为什么一直在写入硬盘？</title>
-        <id>163528</id>
-        <link href="https://wocai.de/post/2026/07/macos-kernel-task-disk-write/?utm_source=blogfinder" />
-        <published>2026-07-14T12:00:00+08:00</published>
-        <author>
-            <name>kok的笔记本</name>
-            <uri>https://wocai.de</uri>
-        </author>
-        <summary type="text"><![CDATA[macOS 里 神秘的 kernel_task ，为什么一直在写入硬盘？]]></summary>
-    </entry>
-        <entry>
-        <title>开奖啦！5斤巫山脆李花落谁家？速来围观！</title>
-        <id>163532</id>
-        <link href="https://zhujay.com/talk/talk_detail.html?id=1261&amp;utm_source=blogfinder" />
-        <published>2026-07-14T11:45:29+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[开奖啦！5斤巫山脆李花落谁家？速来围观！]]></summary>
-    </entry>
-        <entry>
-        <title>手腕悬空，真的会影响输入速度吗？</title>
-        <id>163531</id>
-        <link href="https://mobius.blog/25071.html?utm_source=blogfinder" />
-        <published>2026-07-14T11:33:44+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[手腕悬空，真的会影响输入速度吗？]]></summary>
     </entry>
     </feed>
