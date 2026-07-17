@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-17T00:01:04+08:00</updated>
+    <updated>2026-07-17T11:01:10+08:00</updated>
+        <entry>
+        <title>末日大霾</title>
+        <id>163722</id>
+        <link href="https://www.immarcus.com/blog/apocalyptic-haze?utm_source=blogfinder" />
+        <published>2026-07-17T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[末日大霾]]></summary>
+    </entry>
+        <entry>
+        <title>全新相册Kaleido现已上线！来看看我的日常吧~</title>
+        <id>163721</id>
+        <link href="https://upxuu.com/posts/kaleido/?utm_source=blogfinder" />
+        <published>2026-07-17T02:13:19+08:00</published>
+        <author>
+            <name>UpXuu&#039;s blog</name>
+            <uri>https://upxuu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[全新相册Kaleido现已上线！来看看我的日常吧~]]></summary>
+    </entry>
+        <entry>
+        <title>时隔10个月又来香港CityWalk 🇭🇰</title>
+        <id>163707</id>
+        <link href="https://rawchen.com/210?utm_source=blogfinder" />
+        <published>2026-07-17T01:09:39+08:00</published>
+        <author>
+            <name>RawChen · Blog</name>
+            <uri>https://rawchen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[时隔10个月又来香港CityWalk 🇭🇰]]></summary>
+    </entry>
+        <entry>
+        <title>逆向 Claude「思考签名」：用开源服务端解锁被封存的思维链</title>
+        <id>163709</id>
+        <link href="http://blog.xlap.top/post/tech/2026-07-17/open-open-reasoning/?utm_source=blogfinder" />
+        <published>2026-07-17T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[逆向 Claude「思考签名」：用开源服务端解锁被封存的思维链]]></summary>
+    </entry>
+        <entry>
+        <title>Apache Ossie：打破数据孤岛，打造统一语义模型规范</title>
+        <id>163708</id>
+        <link href="http://blog.xlap.top/post/tech/2026-07-17/ossie/?utm_source=blogfinder" />
+        <published>2026-07-17T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Apache Ossie：打破数据孤岛，打造统一语义模型规范]]></summary>
+    </entry>
         <entry>
         <title>Typecho文章默认排序方式修改</title>
         <id>163698</id>
@@ -22,6 +77,17 @@
             <uri>https://blog.biecui.com</uri>
         </author>
         <summary type="text"><![CDATA[Typecho文章默认排序方式修改]]></summary>
+    </entry>
+        <entry>
+        <title>数码评测(71)：超低价享受i7-7700的体验</title>
+        <id>163725</id>
+        <link href="http://www.auiou.com/relevant/00002169.jsp?utm_source=blogfinder" />
+        <published>2026-07-16T23:17:00+08:00</published>
+        <author>
+            <name>王志勇的 Blog</name>
+            <uri>http://www.auiou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[数码评测(71)：超低价享受i7-7700的体验]]></summary>
     </entry>
         <entry>
         <title>【读书记1695】奥勒留《沉思录》</title>
@@ -79,6 +145,17 @@
         <summary type="text"><![CDATA[贺信（不良超限）]]></summary>
     </entry>
         <entry>
+        <title>诚实的代价</title>
+        <id>163724</id>
+        <link href="https://mobius.blog/25093.html?utm_source=blogfinder" />
+        <published>2026-07-16T20:01:08+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[诚实的代价]]></summary>
+    </entry>
+        <entry>
         <title>为什么日本人偏偏只爱.co.jp</title>
         <id>163697</id>
         <link href="https://zooyoo.top/article/33/?utm_source=blogfinder" />
@@ -123,6 +200,17 @@
         <summary type="text"><![CDATA[我买过一把枪]]></summary>
     </entry>
         <entry>
+        <title>自省与离开#381</title>
+        <id>163716</id>
+        <link href="https://numb.tech/2026/07/16/leave433/?utm_source=blogfinder" />
+        <published>2026-07-16T17:42:44+08:00</published>
+        <author>
+            <name>双绞麻痹</name>
+            <uri>https://numb.tech</uri>
+        </author>
+        <summary type="text"><![CDATA[自省与离开#381]]></summary>
+    </entry>
+        <entry>
         <title>HTTP2 帧层调度与流控机制：多路复用并非无代价，头部阻塞底层根源</title>
         <id>163684</id>
         <link href="https://qaqbuyan.com:88/乔安文章/124.html?utm_source=blogfinder" />
@@ -154,6 +242,39 @@
             <uri>http://www.xulog.cn</uri>
         </author>
         <summary type="text"><![CDATA[相聚苏州]]></summary>
+    </entry>
+        <entry>
+        <title>代码缩进</title>
+        <id>163703</id>
+        <link href="https://blog.xulihang.me/indentation-in-coding/?utm_source=blogfinder" />
+        <published>2026-07-16T14:27:50+08:00</published>
+        <author>
+            <name>xulihang&#039;s blog</name>
+            <uri>https://blog.xulihang.me</uri>
+        </author>
+        <summary type="text"><![CDATA[代码缩进]]></summary>
+    </entry>
+        <entry>
+        <title>微说 | 阿里确认通义千问集成至苹果智能系统</title>
+        <id>163702</id>
+        <link href="https://www.xiabingbao.com/talk/t/mrn465gv.html?utm_source=blogfinder" />
+        <published>2026-07-16T14:14:20+08:00</published>
+        <author>
+            <name>蚊子</name>
+            <uri>https://www.xiabingbao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[微说 | 阿里确认通义千问集成至苹果智能系统]]></summary>
+    </entry>
+        <entry>
+        <title>叮，智能桌面灯牌系统已完工！</title>
+        <id>163726</id>
+        <link href="https://www.jdeal.cn/562.html?utm_source=blogfinder" />
+        <published>2026-07-16T14:00:00+08:00</published>
+        <author>
+            <name>Jdeal</name>
+            <uri>https://www.jdeal.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[叮，智能桌面灯牌系统已完工！]]></summary>
     </entry>
         <entry>
         <title>OpenClaw记忆系统升级：从memory-core到memory-lancedb-pro的迁移与配置</title>
@@ -211,6 +332,17 @@
         <summary type="text"><![CDATA[用Qclaw搭建博客专属通知机器人]]></summary>
     </entry>
         <entry>
+        <title>AI 时代下程序员的价值：一些可能会过时的个人思考</title>
+        <id>163718</id>
+        <link href="https://jt26wzz.com/posts/0017-the-value-of-programmers-in-the-ai-era/?utm_source=blogfinder" />
+        <published>2026-07-16T09:24:36+08:00</published>
+        <author>
+            <name>从不说安全词</name>
+            <uri>https://jt26wzz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[AI 时代下程序员的价值：一些可能会过时的个人思考]]></summary>
+    </entry>
+        <entry>
         <title>达成一个小目标：10000ml</title>
         <id>163671</id>
         <link href="https://www.munue.com/807.html?utm_source=blogfinder" />
@@ -220,6 +352,17 @@
             <uri>https://www.munue.com</uri>
         </author>
         <summary type="text"><![CDATA[达成一个小目标：10000ml]]></summary>
+    </entry>
+        <entry>
+        <title>区块链里的 PoW vs PoS</title>
+        <id>163723</id>
+        <link href="https://www.immarcus.com/blog/blockchain-pow-vs-pos?utm_source=blogfinder" />
+        <published>2026-07-16T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[区块链里的 PoW vs PoS]]></summary>
     </entry>
         <entry>
         <title>微信早已不是熟人社交</title>
@@ -242,6 +385,116 @@
             <uri>https://blog.grtsinry43.com</uri>
         </author>
         <summary type="text"><![CDATA[我是怎样使用 AI Agent 写代码的]]></summary>
+    </entry>
+        <entry>
+        <title>Java applet 研究</title>
+        <id>163719</id>
+        <link href="https://ie12blog.36102025.xyz/articles/research-logs/smhy-java/?utm_source=blogfinder" />
+        <published>2026-07-16T00:00:00+08:00</published>
+        <author>
+            <name>ie12的博客</name>
+            <uri>https://ie12blog.36102025.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[Java applet 研究]]></summary>
+    </entry>
+        <entry>
+        <title>YimMenuV2：面向 GTA 5 Enhanced 的实验性注入式菜单框架</title>
+        <id>163715</id>
+        <link href="http://blog.xlap.top/post/tech/2026-07-16/yimmenuv2/?utm_source=blogfinder" />
+        <published>2026-07-16T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[YimMenuV2：面向 GTA 5 Enhanced 的实验性注入式菜单框架]]></summary>
+    </entry>
+        <entry>
+        <title>pi-computer-use：让 AI Agent 操控 macOS 和 Windows 桌面应用的 Pi 扩展</title>
+        <id>163714</id>
+        <link href="http://blog.xlap.top/post/tech/2026-07-16/pi-computer-use/?utm_source=blogfinder" />
+        <published>2026-07-16T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[pi-computer-use：让 AI Agent 操控 macOS 和 Windows 桌面应用的 Pi 扩展]]></summary>
+    </entry>
+        <entry>
+        <title>Loop Engineering：用循环设计替代反复 Prompt 的 AI 编程新范式</title>
+        <id>163713</id>
+        <link href="http://blog.xlap.top/post/tech/2026-07-16/loop-engineering/?utm_source=blogfinder" />
+        <published>2026-07-16T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Loop Engineering：用循环设计替代反复 Prompt 的 AI 编程新范式]]></summary>
+    </entry>
+        <entry>
+        <title>DeepTutor：把辅导、解题、出题与研究融进同一套 Agent 的终身学习工作台</title>
+        <id>163712</id>
+        <link href="http://blog.xlap.top/post/tech/2026-07-16/deeptutor/?utm_source=blogfinder" />
+        <published>2026-07-16T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[DeepTutor：把辅导、解题、出题与研究融进同一套 Agent 的终身学习工作台]]></summary>
+    </entry>
+        <entry>
+        <title>Codex gpt-5.6-sol 破甲提示词包：一键突破安全限制，测试120/120全通过</title>
+        <id>163711</id>
+        <link href="http://blog.xlap.top/post/tech/2026-07-16/gpt-5-6-instruct/?utm_source=blogfinder" />
+        <published>2026-07-16T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Codex gpt-5.6-sol 破甲提示词包：一键突破安全限制，测试120/120全通过]]></summary>
+    </entry>
+        <entry>
+        <title>Archify：用一句话在聊天里生成架构与技术流程图的开源 Agent Skill</title>
+        <id>163710</id>
+        <link href="http://blog.xlap.top/post/tech/2026-07-16/archify/?utm_source=blogfinder" />
+        <published>2026-07-16T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Archify：用一句话在聊天里生成架构与技术流程图的开源 Agent Skill]]></summary>
+    </entry>
+        <entry>
+        <title>订阅语义与 Ack 边界：Pulsar 消息投递的设计逻辑</title>
+        <id>163706</id>
+        <link href="https://lujun9972.github.io/blog/2026/06/25/订阅语义与-ack-边界：pulsar-消息投递的设计逻辑/index.html?utm_source=blogfinder" />
+        <published>2026-07-16T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[订阅语义与 Ack 边界：Pulsar 消息投递的设计逻辑]]></summary>
+    </entry>
+        <entry>
+        <title>读：witr——从源码看 Linux 如何获取进程信息</title>
+        <id>163705</id>
+        <link href="https://lujun9972.github.io/blog/2026/06/09/读：witr——从源码看-linux-如何获取进程信息/index.html?utm_source=blogfinder" />
+        <published>2026-07-16T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[读：witr——从源码看 Linux 如何获取进程信息]]></summary>
+    </entry>
+        <entry>
+        <title>EMCP：让 AI agent 操控 Emacs 的 MCP 服务器</title>
+        <id>163704</id>
+        <link href="https://lujun9972.github.io/blog/2026/07/06/emcp：让-ai-agent-操控-emacs-的-mcp-服务器/index.html?utm_source=blogfinder" />
+        <published>2026-07-16T00:00:00+08:00</published>
+        <author>
+            <name>暗无天日</name>
+            <uri>https://www.lujun9972.win</uri>
+        </author>
+        <summary type="text"><![CDATA[EMCP：让 AI agent 操控 Emacs 的 MCP 服务器]]></summary>
     </entry>
         <entry>
         <title>screenpipe：开源本地的 AI 记忆引擎，让电脑更懂你</title>
@@ -297,6 +550,17 @@
             <uri>https://blog.224418.xyz</uri>
         </author>
         <summary type="text"><![CDATA[Artitalk的数据从leancloud迁移到了vercel+neon]]></summary>
+    </entry>
+        <entry>
+        <title>一文教你如何申请免费版的阿里企业邮箱</title>
+        <id>163717</id>
+        <link href="https://blog.noah0932.top/2026/07/15/%E4%B8%80%E6%96%87%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E5%85%8D%E8%B4%B9%E7%89%88%E7%9A%84%E9%98%BF%E9%87%8C%E4%BC%81%E4%B8%9A%E9%82%AE%E7%AE%B1/?utm_source=blogfinder" />
+        <published>2026-07-15T22:40:23+08:00</published>
+        <author>
+            <name>Noah&#039;blog</name>
+            <uri>https://blog.noah0932.top</uri>
+        </author>
+        <summary type="text"><![CDATA[一文教你如何申请免费版的阿里企业邮箱]]></summary>
     </entry>
         <entry>
         <title>【不凡摄影作品 | 2026.7.15】</title>
@@ -990,170 +1254,5 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[手腕悬空，真的会影响输入速度吗？]]></summary>
-    </entry>
-        <entry>
-        <title>Baby APP备案辅助工具</title>
-        <id>163525</id>
-        <link href="https://zhongxiaojie.cn/2026/07/1626/?utm_source=blogfinder" />
-        <published>2026-07-14T10:49:45+08:00</published>
-        <author>
-            <name>obaby 𝐢‍𝐧⃝  void</name>
-            <uri>https://oba.by</uri>
-        </author>
-        <summary type="text"><![CDATA[Baby APP备案辅助工具]]></summary>
-    </entry>
-        <entry>
-        <title>没有意思又满是意思的西北大学</title>
-        <id>163524</id>
-        <link href="https://www.pgoj.top/archives/jia-qian-qian-xi-bei.html?utm_source=blogfinder" />
-        <published>2026-07-14T10:33:07+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[没有意思又满是意思的西北大学]]></summary>
-    </entry>
-        <entry>
-        <title>那年 S6 的夏天</title>
-        <id>163529</id>
-        <link href="https://www.sanji.one/fu-sheng-za-ji/that-summer-of-s6.html?utm_source=blogfinder" />
-        <published>2026-07-14T10:28:00+08:00</published>
-        <author>
-            <name>时光散记</name>
-            <uri>https://www.sanji.one</uri>
-        </author>
-        <summary type="text"><![CDATA[那年 S6 的夏天]]></summary>
-    </entry>
-        <entry>
-        <title>最近得到的好消息</title>
-        <id>163533</id>
-        <link href="https://dahai.plus/archives/130?utm_source=blogfinder" />
-        <published>2026-07-14T10:21:02+08:00</published>
-        <author>
-            <name>大海拾光</name>
-            <uri>https://dahai.plus</uri>
-        </author>
-        <summary type="text"><![CDATA[最近得到的好消息]]></summary>
-    </entry>
-        <entry>
-        <title>下班准点儿走，也错了？</title>
-        <id>163520</id>
-        <link href="https://zhoutian.com/387.html?utm_source=blogfinder" />
-        <published>2026-07-14T10:11:00+08:00</published>
-        <author>
-            <name>周天记</name>
-            <uri>https://zhoutian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[下班准点儿走，也错了？]]></summary>
-    </entry>
-        <entry>
-        <title>台风停产停工</title>
-        <id>163527</id>
-        <link href="https://www.gujishe.com/archives/72.html?utm_source=blogfinder" />
-        <published>2026-07-14T08:49:21+08:00</published>
-        <author>
-            <name>咕唧舍</name>
-            <uri>https://www.gujishe.com</uri>
-        </author>
-        <summary type="text"><![CDATA[台风停产停工]]></summary>
-    </entry>
-        <entry>
-        <title>夜猫子才是正常的吧</title>
-        <id>163595</id>
-        <link href="https://www.immarcus.com/blog/night-owl-was-the-norm?utm_source=blogfinder" />
-        <published>2026-07-14T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[夜猫子才是正常的吧]]></summary>
-    </entry>
-        <entry>
-        <title>第三周刊_No.63｜人在跑步的时候就很容易进行自我反思</title>
-        <id>163594</id>
-        <link href="https://joeytoday.com/blog/2026/weekly-63?utm_source=blogfinder" />
-        <published>2026-07-14T08:00:00+08:00</published>
-        <author>
-            <name>joeytoday</name>
-            <uri>https://www.joeytoday.com</uri>
-        </author>
-        <summary type="text"><![CDATA[第三周刊_No.63｜人在跑步的时候就很容易进行自我反思]]></summary>
-    </entry>
-        <entry>
-        <title>中东战争烈度增加</title>
-        <id>163593</id>
-        <link href="https://ddbzhou.com/post/zhongdonglieduzengjia/?utm_source=blogfinder" />
-        <published>2026-07-14T08:00:00+08:00</published>
-        <author>
-            <name>兜兜爸投资笔记</name>
-            <uri>https://ddbzhou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[中东战争烈度增加]]></summary>
-    </entry>
-        <entry>
-        <title>别拿 X 当创作主阵地：被幽灵禁言后我才明白</title>
-        <id>163592</id>
-        <link href="https://wsdjeg.net/dont-use-x-as-primary-platform/?utm_source=blogfinder" />
-        <published>2026-07-14T08:00:00+08:00</published>
-        <author>
-            <name>Eric&#039;s Blog</name>
-            <uri>https://wsdjeg.net</uri>
-        </author>
-        <summary type="text"><![CDATA[别拿 X 当创作主阵地：被幽灵禁言后我才明白]]></summary>
-    </entry>
-        <entry>
-        <title>此地无银，垃圾请绕道</title>
-        <id>163519</id>
-        <link href="http://etom.top/archives/so182.html?utm_source=blogfinder" />
-        <published>2026-07-14T07:17:02+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[此地无银，垃圾请绕道]]></summary>
-    </entry>
-        <entry>
-        <title>那些让人笑出声的Meme排序算法</title>
-        <id>163576</id>
-        <link href="https://xiaozhou.net/meme-sorting-algorithms-2026-07-13.html?utm_source=blogfinder" />
-        <published>2026-07-14T06:19:17+08:00</published>
-        <author>
-            <name>iTimothy</name>
-            <uri>https://xiaozhou.net</uri>
-        </author>
-        <summary type="text"><![CDATA[那些让人笑出声的Meme排序算法]]></summary>
-    </entry>
-        <entry>
-        <title>焕然一新！暑假博客优化的总结！</title>
-        <id>163476</id>
-        <link href="https://upxuu.com/posts/26summer/?utm_source=blogfinder" />
-        <published>2026-07-14T05:58:05+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[焕然一新！暑假博客优化的总结！]]></summary>
-    </entry>
-        <entry>
-        <title>Zine#54 - 世界杯、純文本、隨機頁面、巫師三</title>
-        <id>163534</id>
-        <link href="https://taxodium.ink/54.html?utm_source=blogfinder" />
-        <published>2026-07-14T01:30:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[Zine#54 - 世界杯、純文本、隨機頁面、巫師三]]></summary>
-    </entry>
-        <entry>
-        <title>713解锁节来辣！小米17全系，k90pm又能解bl了</title>
-        <id>163518</id>
-        <link href="https://blog.mcxiaochen.top/posts/mi-unlock-713/?utm_source=blogfinder" />
-        <published>2026-07-14T01:02:03+08:00</published>
-        <author>
-            <name>辰渊尘の个人博客</name>
-            <uri>https://blog.mcxiaochen.top</uri>
-        </author>
-        <summary type="text"><![CDATA[713解锁节来辣！小米17全系，k90pm又能解bl了]]></summary>
     </entry>
     </feed>
