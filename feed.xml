@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-17T17:01:41+08:00</updated>
+    <updated>2026-07-17T19:00:40+08:00</updated>
         <entry>
         <title>高二小结：不完美，却珍贵！</title>
         <id>163743</id>
@@ -33,6 +33,17 @@
             <uri>https://blog.ooliver.cn</uri>
         </author>
         <summary type="text"><![CDATA[ZR 集训 Day1 – 基础数据结构及其应用]]></summary>
+    </entry>
+        <entry>
+        <title>浅谈 DDD 领域驱动设计架构</title>
+        <id>163746</id>
+        <link href="https://www.bytecho.net/archives/domain_driven_design.html?utm_source=blogfinder" />
+        <published>2026-07-17T14:18:41+08:00</published>
+        <author>
+            <name>字节星球</name>
+            <uri>https://www.bytecho.net</uri>
+        </author>
+        <summary type="text"><![CDATA[浅谈 DDD 领域驱动设计架构]]></summary>
     </entry>
         <entry>
         <title>be water</title>
@@ -176,6 +187,17 @@
             <uri>https://wiki.eryajf.net</uri>
         </author>
         <summary type="text"><![CDATA[学习周刊-总第272期-2026年第29周]]></summary>
+    </entry>
+        <entry>
+        <title>挪威西部峡湾徒步之旅</title>
+        <id>163747</id>
+        <link href="https://eduardoqian.com/archives/nuo-wei-xi-bu-xia-wan-tu-bu-zhi-lu?utm_source=blogfinder" />
+        <published>2026-07-17T04:08:00+08:00</published>
+        <author>
+            <name>司云有崖</name>
+            <uri>https://eduardoqian.com</uri>
+        </author>
+        <summary type="text"><![CDATA[挪威西部峡湾徒步之旅]]></summary>
     </entry>
         <entry>
         <title>14亿中国人在世界的位置</title>
@@ -1342,16 +1364,5 @@
             <uri>https://ltmltm.cn/bk</uri>
         </author>
         <summary type="text"><![CDATA[填志愿]]></summary>
-    </entry>
-        <entry>
-        <title>走一趟格聂南线！</title>
-        <id>163590</id>
-        <link href="https://leoon.cn/travel/616?utm_source=blogfinder" />
-        <published>2026-07-14T17:27:56+08:00</published>
-        <author>
-            <name>Leoon</name>
-            <uri>https://www.leoon.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[走一趟格聂南线！]]></summary>
     </entry>
     </feed>
