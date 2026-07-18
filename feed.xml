@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-18T19:00:22+08:00</updated>
+    <updated>2026-07-18T20:01:00+08:00</updated>
+        <entry>
+        <title>简单对比几个模型唱粤语歌</title>
+        <id>163890</id>
+        <link href="https://ezo.biz/New_Learning/1501.html?utm_source=blogfinder" />
+        <published>2026-07-18T17:14:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[简单对比几个模型唱粤语歌]]></summary>
+    </entry>
         <entry>
         <title>读懂林冲才懂：最可悲的人生，是向强权弯腰，向弱者拔刀</title>
         <id>163889</id>
@@ -55,6 +66,28 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[RuoYi 中开启 mybatis debug 日志]]></summary>
+    </entry>
+        <entry>
+        <title>我开始用 Codex 写博客</title>
+        <id>163891</id>
+        <link href="https://siwei.li/writing-blog-with-codex/?utm_source=blogfinder" />
+        <published>2026-07-18T10:19:30+08:00</published>
+        <author>
+            <name>Siwei Li</name>
+            <uri>https://siwei.li</uri>
+        </author>
+        <summary type="text"><![CDATA[我开始用 Codex 写博客]]></summary>
+    </entry>
+        <entry>
+        <title>Adobe 账号被封后，我换到了 Affinity</title>
+        <id>163892</id>
+        <link href="https://siwei.li/adobe-account-blocked-switch-to-affinity/?utm_source=blogfinder" />
+        <published>2026-07-18T10:11:46+08:00</published>
+        <author>
+            <name>Siwei Li</name>
+            <uri>https://siwei.li</uri>
+        </author>
+        <summary type="text"><![CDATA[Adobe 账号被封后，我换到了 Affinity]]></summary>
     </entry>
         <entry>
         <title>锐评简笔记/某站商店/某彦</title>
@@ -1386,27 +1419,5 @@
             <uri>https://xingwangzhe.fun</uri>
         </author>
         <summary type="text"><![CDATA[关于博客组织友链迁移的公告]]></summary>
-    </entry>
-        <entry>
-        <title>RuoYi 框架从旧 MES 系统迁移数据心得</title>
-        <id>163623</id>
-        <link href="https://www.sunzhongwei.com/experience-of-migrating-data-old-systems-using-ruoyi-framework?utm_source=blogfinder" />
-        <published>2026-07-15T19:57:30+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[RuoYi 框架从旧 MES 系统迁移数据心得]]></summary>
-    </entry>
-        <entry>
-        <title>10年火花塞的状态</title>
-        <id>163628</id>
-        <link href="https://me.xu19.com/mercedes-benz-glk300-spark-plug-condition-after-ten-years/?utm_source=blogfinder" />
-        <published>2026-07-15T19:45:30+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[10年火花塞的状态]]></summary>
     </entry>
     </feed>
