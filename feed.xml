@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-18T16:00:20+08:00</updated>
+    <updated>2026-07-18T17:01:03+08:00</updated>
+        <entry>
+        <title>ZR 集训 Day2 – 线段树进阶</title>
+        <id>163888</id>
+        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day2-%e7%ba%bf%e6%ae%b5%e6%a0%91%e8%bf%9b%e9%98%b6/?utm_source=blogfinder" />
+        <published>2026-07-18T16:05:18+08:00</published>
+        <author>
+            <name>ooliver 的博客</name>
+            <uri>https://blog.ooliver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[ZR 集训 Day2 – 线段树进阶]]></summary>
+    </entry>
         <entry>
         <title>[文章] 普通人做 AI 创业，培训真的是更好的方向吗？</title>
         <id>163858</id>
@@ -80,6 +91,17 @@
     </entry>
         <entry>
         <title>给博客换了个新域名</title>
+        <id>163860</id>
+        <link href="https://5b4b2aef.hehuangsite.pages.dev/p/new-domain/?utm_source=blogfinder" />
+        <published>2026-07-18T07:00:00+08:00</published>
+        <author>
+            <name>合荒小站</name>
+            <uri>https://ryqi.top</uri>
+        </author>
+        <summary type="text"><![CDATA[给博客换了个新域名]]></summary>
+    </entry>
+        <entry>
+        <title>给博客换了个新域名</title>
         <id>163819</id>
         <link href="https://656d3569.hehuangsite.pages.dev/p/new-domain/?utm_source=blogfinder" />
         <published>2026-07-18T07:00:00+08:00</published>
@@ -132,6 +154,17 @@
             <uri>https://blog.lichenghao.cn</uri>
         </author>
         <summary type="text"><![CDATA[博客升级,脱骨换皮～]]></summary>
+    </entry>
+        <entry>
+        <title>AI清理C盘的优缺点</title>
+        <id>163859</id>
+        <link href="https://blog.xrbk.cn/post/90.html?utm_source=blogfinder" />
+        <published>2026-07-17T22:11:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://blog.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[AI清理C盘的优缺点]]></summary>
     </entry>
         <entry>
         <title>从参考视频到成片：7 个提示词让 Codex 接管 Remotion 全流程</title>
@@ -220,6 +253,17 @@
             <uri>https://hexo.limour.top</uri>
         </author>
         <summary type="text"><![CDATA[【观点】转向]]></summary>
+    </entry>
+        <entry>
+        <title>高二小结：不完美，却珍贵！</title>
+        <id>163861</id>
+        <link href="https://5b4b2aef.hehuangsite.pages.dev/p/grade2-summery/?utm_source=blogfinder" />
+        <published>2026-07-17T16:30:00+08:00</published>
+        <author>
+            <name>合荒小站</name>
+            <uri>https://ryqi.top</uri>
+        </author>
+        <summary type="text"><![CDATA[高二小结：不完美，却珍贵！]]></summary>
     </entry>
         <entry>
         <title>高二小结：不完美，却珍贵！</title>
@@ -839,6 +883,17 @@
     </entry>
         <entry>
         <title>说说：期末考完了，有点微死……</title>
+        <id>163862</id>
+        <link href="https://5b4b2aef.hehuangsite.pages.dev/p/grade/?utm_source=blogfinder" />
+        <published>2026-07-16T18:30:00+08:00</published>
+        <author>
+            <name>合荒小站</name>
+            <uri>https://ryqi.top</uri>
+        </author>
+        <summary type="text"><![CDATA[说说：期末考完了，有点微死……]]></summary>
+    </entry>
+        <entry>
+        <title>说说：期末考完了，有点微死……</title>
         <id>163821</id>
         <link href="https://656d3569.hehuangsite.pages.dev/p/grade/?utm_source=blogfinder" />
         <published>2026-07-16T18:30:00+08:00</published>
@@ -1375,49 +1430,5 @@
             <uri>https://kaix.in</uri>
         </author>
         <summary type="text"><![CDATA[第一卷 03]]></summary>
-    </entry>
-        <entry>
-        <title>macOS 使用 Crossover 游戏中文输入显示问号乱码问题</title>
-        <id>163622</id>
-        <link href="https://anotherdayu.com/crossover-macos-chinese/?utm_source=blogfinder" />
-        <published>2026-07-15T16:48:00+08:00</published>
-        <author>
-            <name>Another Dayu</name>
-            <uri>https://anotherdayu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[macOS 使用 Crossover 游戏中文输入显示问号乱码问题]]></summary>
-    </entry>
-        <entry>
-        <title>聊聊大学里面的奇葩</title>
-        <id>163674</id>
-        <link href="https://www.bytecho.net/archives/260715.html?utm_source=blogfinder" />
-        <published>2026-07-15T16:24:24+08:00</published>
-        <author>
-            <name>字节星球</name>
-            <uri>https://www.bytecho.net</uri>
-        </author>
-        <summary type="text"><![CDATA[聊聊大学里面的奇葩]]></summary>
-    </entry>
-        <entry>
-        <title>摄影练习</title>
-        <id>163625</id>
-        <link href="https://ygz.ink/archives/5534.html?utm_source=blogfinder" />
-        <published>2026-07-15T16:23:34+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[摄影练习]]></summary>
-    </entry>
-        <entry>
-        <title>松声｜廿六年·七月中·蝉鸣繁</title>
-        <id>163627</id>
-        <link href="https://xyzbz.cn/archives/1558/?utm_source=blogfinder" />
-        <published>2026-07-15T16:21:50+08:00</published>
-        <author>
-            <name>网友小宋</name>
-            <uri>https://xyzbz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[松声｜廿六年·七月中·蝉鸣繁]]></summary>
     </entry>
     </feed>
