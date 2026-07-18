@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-18T22:00:49+08:00</updated>
+    <updated>2026-07-19T00:01:16+08:00</updated>
+        <entry>
+        <title>WordPress 6.9.0-6.9.4、7.0.0-7.0.1存在严重安全漏洞，尽快更新！</title>
+        <id>164119</id>
+        <link href="https://www.bufanz.com/20260718754.html?utm_source=blogfinder" />
+        <published>2026-07-18T22:23:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[WordPress 6.9.0-6.9.4、7.0.0-7.0.1存在严重安全漏洞，尽快更新！]]></summary>
+    </entry>
+        <entry>
+        <title>【排版分享】2025年普通高等学校招生统一考试 语文 全国一卷</title>
+        <id>164122</id>
+        <link href="https://www.imxb.de/new_archives/66.shtml?utm_source=blogfinder" />
+        <published>2026-07-18T22:12:53+08:00</published>
+        <author>
+            <name>Xiobb’s Blog</name>
+            <uri>https://www.imxb.de</uri>
+        </author>
+        <summary type="text"><![CDATA[【排版分享】2025年普通高等学校招生统一考试 语文 全国一卷]]></summary>
+    </entry>
+        <entry>
+        <title>随思 #104 - 2026-07-18</title>
+        <id>164118</id>
+        <link href="http://qthinker.net/content/104?utm_source=blogfinder" />
+        <published>2026-07-18T22:10:43+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[随思 #104 - 2026-07-18]]></summary>
+    </entry>
         <entry>
         <title>博客廿周年，纪念明信片正式发布啦！</title>
         <id>164116</id>
@@ -33,6 +66,28 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[摄影练习]]></summary>
+    </entry>
+        <entry>
+        <title>[文章] 从“赛博劳工”到可复利资产：我看月入 23w 这篇复盘</title>
+        <id>164123</id>
+        <link href="https://blog.boguan.site/articles/cong-sai-bo-lao-gong-dao-ke-fu-li-zi-chan-wo-kan-yue-ru-23w-zhe-pian-fu-pan?utm_source=blogfinder" />
+        <published>2026-07-18T18:47:40+08:00</published>
+        <author>
+            <name>开发者十一</name>
+            <uri>https://boguan.site</uri>
+        </author>
+        <summary type="text"><![CDATA[[文章] 从“赛博劳工”到可复利资产：我看月入 23w 这篇复盘]]></summary>
+    </entry>
+        <entry>
+        <title>「说说」服务器又崩咯~</title>
+        <id>164120</id>
+        <link href="https://upxuu.com/talk/2026-07-18-服务器又崩咯/?utm_source=blogfinder" />
+        <published>2026-07-18T17:55:54+08:00</published>
+        <author>
+            <name>UpXuu&#039;s blog</name>
+            <uri>https://upxuu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[「说说」服务器又崩咯~]]></summary>
     </entry>
         <entry>
         <title>简单对比几个模型唱粤语歌</title>
@@ -66,6 +121,17 @@
             <uri>https://blog.ooliver.cn</uri>
         </author>
         <summary type="text"><![CDATA[ZR 集训 Day2 – 线段树进阶]]></summary>
+    </entry>
+        <entry>
+        <title>如何拯救一个负载过高而崩溃的服务器</title>
+        <id>164121</id>
+        <link href="https://upxuu.com/posts/oh-my-serverrrr/?utm_source=blogfinder" />
+        <published>2026-07-18T13:36:34+08:00</published>
+        <author>
+            <name>UpXuu&#039;s blog</name>
+            <uri>https://upxuu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[如何拯救一个负载过高而崩溃的服务器]]></summary>
     </entry>
         <entry>
         <title>[文章] 普通人做 AI 创业，培训真的是更好的方向吗？</title>
@@ -1243,203 +1309,5 @@
             <uri>https://blog.grtsinry43.com</uri>
         </author>
         <summary type="text"><![CDATA[我是怎样使用 AI Agent 写代码的]]></summary>
-    </entry>
-        <entry>
-        <title>Java applet 研究</title>
-        <id>163719</id>
-        <link href="https://ie12blog.36102025.xyz/articles/research-logs/smhy-java/?utm_source=blogfinder" />
-        <published>2026-07-16T00:00:00+08:00</published>
-        <author>
-            <name>ie12的博客</name>
-            <uri>https://ie12blog.36102025.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[Java applet 研究]]></summary>
-    </entry>
-        <entry>
-        <title>YimMenuV2：面向 GTA 5 Enhanced 的实验性注入式菜单框架</title>
-        <id>163715</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-16/yimmenuv2/?utm_source=blogfinder" />
-        <published>2026-07-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[YimMenuV2：面向 GTA 5 Enhanced 的实验性注入式菜单框架]]></summary>
-    </entry>
-        <entry>
-        <title>pi-computer-use：让 AI Agent 操控 macOS 和 Windows 桌面应用的 Pi 扩展</title>
-        <id>163714</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-16/pi-computer-use/?utm_source=blogfinder" />
-        <published>2026-07-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[pi-computer-use：让 AI Agent 操控 macOS 和 Windows 桌面应用的 Pi 扩展]]></summary>
-    </entry>
-        <entry>
-        <title>Loop Engineering：用循环设计替代反复 Prompt 的 AI 编程新范式</title>
-        <id>163713</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-16/loop-engineering/?utm_source=blogfinder" />
-        <published>2026-07-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Loop Engineering：用循环设计替代反复 Prompt 的 AI 编程新范式]]></summary>
-    </entry>
-        <entry>
-        <title>DeepTutor：把辅导、解题、出题与研究融进同一套 Agent 的终身学习工作台</title>
-        <id>163712</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-16/deeptutor/?utm_source=blogfinder" />
-        <published>2026-07-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[DeepTutor：把辅导、解题、出题与研究融进同一套 Agent 的终身学习工作台]]></summary>
-    </entry>
-        <entry>
-        <title>Codex gpt-5.6-sol 破甲提示词包：一键突破安全限制，测试120/120全通过</title>
-        <id>163711</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-16/gpt-5-6-instruct/?utm_source=blogfinder" />
-        <published>2026-07-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Codex gpt-5.6-sol 破甲提示词包：一键突破安全限制，测试120/120全通过]]></summary>
-    </entry>
-        <entry>
-        <title>Archify：用一句话在聊天里生成架构与技术流程图的开源 Agent Skill</title>
-        <id>163710</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-16/archify/?utm_source=blogfinder" />
-        <published>2026-07-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Archify：用一句话在聊天里生成架构与技术流程图的开源 Agent Skill]]></summary>
-    </entry>
-        <entry>
-        <title>订阅语义与 Ack 边界：Pulsar 消息投递的设计逻辑</title>
-        <id>163706</id>
-        <link href="https://lujun9972.github.io/blog/2026/06/25/订阅语义与-ack-边界：pulsar-消息投递的设计逻辑/index.html?utm_source=blogfinder" />
-        <published>2026-07-16T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[订阅语义与 Ack 边界：Pulsar 消息投递的设计逻辑]]></summary>
-    </entry>
-        <entry>
-        <title>读：witr——从源码看 Linux 如何获取进程信息</title>
-        <id>163705</id>
-        <link href="https://lujun9972.github.io/blog/2026/06/09/读：witr——从源码看-linux-如何获取进程信息/index.html?utm_source=blogfinder" />
-        <published>2026-07-16T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[读：witr——从源码看 Linux 如何获取进程信息]]></summary>
-    </entry>
-        <entry>
-        <title>EMCP：让 AI agent 操控 Emacs 的 MCP 服务器</title>
-        <id>163704</id>
-        <link href="https://lujun9972.github.io/blog/2026/07/06/emcp：让-ai-agent-操控-emacs-的-mcp-服务器/index.html?utm_source=blogfinder" />
-        <published>2026-07-16T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[EMCP：让 AI agent 操控 Emacs 的 MCP 服务器]]></summary>
-    </entry>
-        <entry>
-        <title>screenpipe：开源本地的 AI 记忆引擎，让电脑更懂你</title>
-        <id>163683</id>
-        <link href="https://blog.zhheo.com/p/94w0byur.html?utm_source=blogfinder" />
-        <published>2026-07-16T00:00:00+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[screenpipe：开源本地的 AI 记忆引擎，让电脑更懂你]]></summary>
-    </entry>
-        <entry>
-        <title>不容易等的电梯，容易受伤的膝盖</title>
-        <id>163654</id>
-        <link href="https://cuixiping.com/blog/others/vcfhuy?utm_source=blogfinder" />
-        <published>2026-07-16T00:00:00+08:00</published>
-        <author>
-            <name>崔话记</name>
-            <uri>https://cuixiping.com</uri>
-        </author>
-        <summary type="text"><![CDATA[不容易等的电梯，容易受伤的膝盖]]></summary>
-    </entry>
-        <entry>
-        <title>Sub2API：把订阅额度做成 AI API 网关，统一管理 Claude / OpenAI / Gemini / Grok</title>
-        <id>163631</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-16/sub2api/?utm_source=blogfinder" />
-        <published>2026-07-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Sub2API：把订阅额度做成 AI API 网关，统一管理 Claude / OpenAI / Gemini / Grok]]></summary>
-    </entry>
-        <entry>
-        <title>LLM Wiki：让大模型自动为你构建个人知识库的桌面应用</title>
-        <id>163630</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-16/llm-wiki/?utm_source=blogfinder" />
-        <published>2026-07-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[LLM Wiki：让大模型自动为你构建个人知识库的桌面应用]]></summary>
-    </entry>
-        <entry>
-        <title>Artitalk的数据从leancloud迁移到了vercel+neon</title>
-        <id>163669</id>
-        <link href="https://blog.224418.xyz/posts/32ec0d8a/?utm_source=blogfinder" />
-        <published>2026-07-15T23:27:00+08:00</published>
-        <author>
-            <name>傥师妹的小空间</name>
-            <uri>https://blog.224418.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[Artitalk的数据从leancloud迁移到了vercel+neon]]></summary>
-    </entry>
-        <entry>
-        <title>一文教你如何申请免费版的阿里企业邮箱</title>
-        <id>163717</id>
-        <link href="https://blog.noah0932.top/2026/07/15/%E4%B8%80%E6%96%87%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E5%85%8D%E8%B4%B9%E7%89%88%E7%9A%84%E9%98%BF%E9%87%8C%E4%BC%81%E4%B8%9A%E9%82%AE%E7%AE%B1/?utm_source=blogfinder" />
-        <published>2026-07-15T22:40:23+08:00</published>
-        <author>
-            <name>Noah&#039;blog</name>
-            <uri>https://blog.noah0932.top</uri>
-        </author>
-        <summary type="text"><![CDATA[一文教你如何申请免费版的阿里企业邮箱]]></summary>
-    </entry>
-        <entry>
-        <title>【不凡摄影作品 | 2026.7.15】</title>
-        <id>163629</id>
-        <link href="https://www.bufanz.com/20260715744.html?utm_source=blogfinder" />
-        <published>2026-07-15T22:40:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【不凡摄影作品 | 2026.7.15】]]></summary>
-    </entry>
-        <entry>
-        <title>YouTube 无限重定向报错，谷歌账号身份验证无限失败，罪魁祸首居然是“已分区 cookie”？！</title>
-        <id>163680</id>
-        <link href="https://www.tjsky.net/tutorial/1708?utm_source=blogfinder" />
-        <published>2026-07-15T22:12:22+08:00</published>
-        <author>
-            <name>秋风于渭水</name>
-            <uri>https://www.tjsky.net</uri>
-        </author>
-        <summary type="text"><![CDATA[YouTube 无限重定向报错，谷歌账号身份验证无限失败，罪魁祸首居然是“已分区 cookie”？！]]></summary>
     </entry>
     </feed>
