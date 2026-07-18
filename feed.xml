@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-18T20:01:00+08:00</updated>
+    <updated>2026-07-18T22:00:49+08:00</updated>
+        <entry>
+        <title>博客廿周年，纪念明信片正式发布啦！</title>
+        <id>164116</id>
+        <link href="https://zhujay.com/talk/talk_detail.html?id=1262&amp;utm_source=blogfinder" />
+        <published>2026-07-18T20:58:10+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[博客廿周年，纪念明信片正式发布啦！]]></summary>
+    </entry>
+        <entry>
+        <title>摄影练习</title>
+        <id>164117</id>
+        <link href="https://ygz.ink/archives/5556.html?utm_source=blogfinder" />
+        <published>2026-07-18T20:17:10+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[摄影练习]]></summary>
+    </entry>
         <entry>
         <title>简单对比几个模型唱粤语歌</title>
         <id>163890</id>
@@ -198,6 +220,17 @@
             <uri>https://blog.lichenghao.cn</uri>
         </author>
         <summary type="text"><![CDATA[博客升级,脱骨换皮～]]></summary>
+    </entry>
+        <entry>
+        <title>说说：分享我做的烤鸡架！</title>
+        <id>163893</id>
+        <link href="https://www.mmbkz.cn/fd1a73c0.html?utm_source=blogfinder" />
+        <published>2026-07-17T22:41:00+08:00</published>
+        <author>
+            <name>绯色之喵</name>
+            <uri>https://www.mmbkz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[说说：分享我做的烤鸡架！]]></summary>
     </entry>
         <entry>
         <title>AI清理C盘的优缺点</title>
@@ -440,6 +473,17 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[又到一年车险续保了，继续坚持太平洋]]></summary>
+    </entry>
+        <entry>
+        <title>人工智能实训结题报告：B4 Agent LLM决策模块 —— 从架构设计到五维进阶</title>
+        <id>163894</id>
+        <link href="https://stalux.needhelp.icu/posts/ai-training-b4-final-report/?utm_source=blogfinder" />
+        <published>2026-07-17T13:30:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[人工智能实训结题报告：B4 Agent LLM决策模块 —— 从架构设计到五维进阶]]></summary>
     </entry>
         <entry>
         <title>人工智能实训结题报告：B4 Agent LLM决策模块 —— 从架构设计到五维进阶</title>
@@ -1397,27 +1441,5 @@
             <uri>https://www.tjsky.net</uri>
         </author>
         <summary type="text"><![CDATA[YouTube 无限重定向报错，谷歌账号身份验证无限失败，罪魁祸首居然是“已分区 cookie”？！]]></summary>
-    </entry>
-        <entry>
-        <title>嘿嘿，分享一下好吃的</title>
-        <id>163641</id>
-        <link href="https://www.mmbkz.cn/5bd06cb7.html?utm_source=blogfinder" />
-        <published>2026-07-15T20:55:00+08:00</published>
-        <author>
-            <name>绯色之喵</name>
-            <uri>https://www.mmbkz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[嘿嘿，分享一下好吃的]]></summary>
-    </entry>
-        <entry>
-        <title>关于博客组织友链迁移的公告</title>
-        <id>163672</id>
-        <link href="https://xingwangzhe.fun/posts/blogroll-migration-notice/?utm_source=blogfinder" />
-        <published>2026-07-15T20:30:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[关于博客组织友链迁移的公告]]></summary>
     </entry>
     </feed>
