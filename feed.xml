@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-18T17:01:03+08:00</updated>
+    <updated>2026-07-18T19:00:22+08:00</updated>
+        <entry>
+        <title>读懂林冲才懂：最可悲的人生，是向强权弯腰，向弱者拔刀</title>
+        <id>163889</id>
+        <link href="https://www.cry33.com/archives/1339.html?utm_source=blogfinder" />
+        <published>2026-07-18T16:37:54+08:00</published>
+        <author>
+            <name>逍遥隐士</name>
+            <uri>https://www.cry33.com</uri>
+        </author>
+        <summary type="text"><![CDATA[读懂林冲才懂：最可悲的人生，是向强权弯腰，向弱者拔刀]]></summary>
+    </entry>
         <entry>
         <title>ZR 集训 Day2 – 线段树进阶</title>
         <id>163888</id>
@@ -1397,38 +1408,5 @@
             <uri>https://me.xu19.com</uri>
         </author>
         <summary type="text"><![CDATA[10年火花塞的状态]]></summary>
-    </entry>
-        <entry>
-        <title>浅谈分布式事务#1</title>
-        <id>163673</id>
-        <link href="https://www.bytecho.net/archives/distributed_transaction.html?utm_source=blogfinder" />
-        <published>2026-07-15T18:25:33+08:00</published>
-        <author>
-            <name>字节星球</name>
-            <uri>https://www.bytecho.net</uri>
-        </author>
-        <summary type="text"><![CDATA[浅谈分布式事务#1]]></summary>
-    </entry>
-        <entry>
-        <title>彭州小记</title>
-        <id>163626</id>
-        <link href="https://mecll.com/1075.html?utm_source=blogfinder" />
-        <published>2026-07-15T18:00:24+08:00</published>
-        <author>
-            <name>流浪天下</name>
-            <uri>https://mecll.com</uri>
-        </author>
-        <summary type="text"><![CDATA[彭州小记]]></summary>
-    </entry>
-        <entry>
-        <title>第一卷 03</title>
-        <id>163624</id>
-        <link href="https://kaix.in/2026/0712/339a/?utm_source=blogfinder" />
-        <published>2026-07-15T17:15:04+08:00</published>
-        <author>
-            <name>KAIX.IN</name>
-            <uri>https://kaix.in</uri>
-        </author>
-        <summary type="text"><![CDATA[第一卷 03]]></summary>
     </entry>
     </feed>
