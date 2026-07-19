@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-19T12:02:16+08:00</updated>
+    <updated>2026-07-19T15:00:22+08:00</updated>
+        <entry>
+        <title>Linux 服务器上将 Excel 文件转换为 PDF，docker 镜像 gotenberg</title>
+        <id>164191</id>
+        <link href="https://www.sunzhongwei.com/convert-excel-files-pdf-linux-servers-docker-image-gotenberg?utm_source=blogfinder" />
+        <published>2026-07-19T11:20:32+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Linux 服务器上将 Excel 文件转换为 PDF，docker 镜像 gotenberg]]></summary>
+    </entry>
         <entry>
         <title>一个袋子，十个商标</title>
         <id>164189</id>
@@ -77,6 +88,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[Wardrobe：用 AI 把衣服装进你的数字衣橱]]></summary>
+    </entry>
+        <entry>
+        <title>我与乙方，我与甲方</title>
+        <id>164192</id>
+        <link href="https://blog.hantaotao.top/archives/204/?utm_source=blogfinder" />
+        <published>2026-07-18T23:08:00+08:00</published>
+        <author>
+            <name>一世繁华</name>
+            <uri>https://blog.hantaotao.top</uri>
+        </author>
+        <summary type="text"><![CDATA[我与乙方，我与甲方]]></summary>
     </entry>
         <entry>
         <title>WordPress 6.9.0-6.9.4、7.0.0-7.0.1存在严重安全漏洞，尽快更新！</title>
@@ -189,6 +211,17 @@
         <summary type="text"><![CDATA[从 yir.me 到 wind.ink，哪个是属于我自己的名字]]></summary>
     </entry>
         <entry>
+        <title>新主题（但是新域名）</title>
+        <id>164190</id>
+        <link href="https://blog.kfdzcoffee.cn/archives/newthemedomain?utm_source=blogfinder" />
+        <published>2026-07-18T19:46:58+08:00</published>
+        <author>
+            <name>咖啡豆子 coffee 的小站</name>
+            <uri>https://blog.kfdzcoffee.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[新主题（但是新域名）]]></summary>
+    </entry>
+        <entry>
         <title>[文章] 从“赛博劳工”到可复利资产：我看月入 23w 这篇复盘</title>
         <id>164123</id>
         <link href="https://blog.boguan.site/articles/cong-sai-bo-lao-gong-dao-ke-fu-li-zi-chan-wo-kan-yue-ru-23w-zhe-pian-fu-pan?utm_source=blogfinder" />
@@ -231,6 +264,17 @@
             <uri>https://www.cry33.com</uri>
         </author>
         <summary type="text"><![CDATA[读懂林冲才懂：最可悲的人生，是向强权弯腰，向弱者拔刀]]></summary>
+    </entry>
+        <entry>
+        <title>WordPress 安全问题</title>
+        <id>164193</id>
+        <link href="https://wp.qwq2022.top/2026/07/18/wordpress-%e5%ae%89%e5%85%a8%e9%97%ae%e9%a2%98/?utm_source=blogfinder" />
+        <published>2026-07-18T16:12:06+08:00</published>
+        <author>
+            <name>清枫の小窝</name>
+            <uri>https://wp.qwq2022.top</uri>
+        </author>
+        <summary type="text"><![CDATA[WordPress 安全问题]]></summary>
     </entry>
         <entry>
         <title>旧照片</title>
@@ -1452,60 +1496,5 @@
             <uri>https://liWanr.com</uri>
         </author>
         <summary type="text"><![CDATA[皇帝的新衣]]></summary>
-    </entry>
-        <entry>
-        <title>相聚苏州</title>
-        <id>163678</id>
-        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1183&amp;utm_source=blogfinder" />
-        <published>2026-07-16T14:36:55+08:00</published>
-        <author>
-            <name>徐建伟</name>
-            <uri>http://www.xulog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[相聚苏州]]></summary>
-    </entry>
-        <entry>
-        <title>代码缩进</title>
-        <id>163703</id>
-        <link href="https://blog.xulihang.me/indentation-in-coding/?utm_source=blogfinder" />
-        <published>2026-07-16T14:27:50+08:00</published>
-        <author>
-            <name>xulihang&#039;s blog</name>
-            <uri>https://blog.xulihang.me</uri>
-        </author>
-        <summary type="text"><![CDATA[代码缩进]]></summary>
-    </entry>
-        <entry>
-        <title>微说 | 阿里确认通义千问集成至苹果智能系统</title>
-        <id>163702</id>
-        <link href="https://www.xiabingbao.com/talk/t/mrn465gv.html?utm_source=blogfinder" />
-        <published>2026-07-16T14:14:20+08:00</published>
-        <author>
-            <name>蚊子</name>
-            <uri>https://www.xiabingbao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[微说 | 阿里确认通义千问集成至苹果智能系统]]></summary>
-    </entry>
-        <entry>
-        <title>叮，智能桌面灯牌系统已完工！</title>
-        <id>163726</id>
-        <link href="https://www.jdeal.cn/562.html?utm_source=blogfinder" />
-        <published>2026-07-16T14:00:00+08:00</published>
-        <author>
-            <name>Jdeal</name>
-            <uri>https://www.jdeal.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[叮，智能桌面灯牌系统已完工！]]></summary>
-    </entry>
-        <entry>
-        <title>OpenClaw记忆系统升级：从memory-core到memory-lancedb-pro的迁移与配置</title>
-        <id>163676</id>
-        <link href="https://blog.zhheo.com/p/0kl9erod.html?utm_source=blogfinder" />
-        <published>2026-07-16T12:17:53+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenClaw记忆系统升级：从memory-core到memory-lancedb-pro的迁移与配置]]></summary>
     </entry>
     </feed>
