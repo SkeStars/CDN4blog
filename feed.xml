@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-19T17:02:06+08:00</updated>
+    <updated>2026-07-19T18:00:21+08:00</updated>
+        <entry>
+        <title>确实，天蝎座挺记仇的</title>
+        <id>164202</id>
+        <link href="https://blog.weasel6.cn/posts/scorpio/?utm_source=blogfinder" />
+        <published>2026-07-19T17:42:00+08:00</published>
+        <author>
+            <name>小黄的日记本</name>
+            <uri>https://blog.weasel6.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[确实，天蝎座挺记仇的]]></summary>
+    </entry>
+        <entry>
+        <title>我以为凶手是穿越后的自己</title>
+        <id>164200</id>
+        <link href="https://d-d.design/single/19812?utm_source=blogfinder" />
+        <published>2026-07-19T16:50:31+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[我以为凶手是穿越后的自己]]></summary>
+    </entry>
+        <entry>
+        <title>《女儿比我通透》</title>
+        <id>164199</id>
+        <link href="https://www.weiwenchao.com/2689.html?utm_source=blogfinder" />
+        <published>2026-07-19T16:06:00+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《女儿比我通透》]]></summary>
+    </entry>
         <entry>
         <title>推荐一个免费在线图片处理网站</title>
         <id>164196</id>
@@ -33,6 +66,28 @@
             <uri>https://blog.ooliver.cn</uri>
         </author>
         <summary type="text"><![CDATA[ZR 集训 Day3 – 基础分块算法与离线算法]]></summary>
+    </entry>
+        <entry>
+        <title>逃离合居生活</title>
+        <id>164198</id>
+        <link href="https://www.geedea.pro/article/bye-roomate/?utm_source=blogfinder" />
+        <published>2026-07-19T15:35:59+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[逃离合居生活]]></summary>
+    </entry>
+        <entry>
+        <title>迟来的 “天命人”</title>
+        <id>164201</id>
+        <link href="https://yishu-life.com/index.php/archives/489.html?utm_source=blogfinder" />
+        <published>2026-07-19T12:20:10+08:00</published>
+        <author>
+            <name>树下语</name>
+            <uri>https://yishu-life.com</uri>
+        </author>
+        <summary type="text"><![CDATA[迟来的 “天命人”]]></summary>
     </entry>
         <entry>
         <title>Linux 服务器上将 Excel 文件转换为 PDF，docker 镜像 gotenberg</title>
@@ -1474,38 +1529,5 @@
             <uri>https://ryqi.top</uri>
         </author>
         <summary type="text"><![CDATA[说说：期末考完了，有点微死……]]></summary>
-    </entry>
-        <entry>
-        <title>我的RSS文章聚合页优化总结</title>
-        <id>163701</id>
-        <link href="https://blog.weasel6.cn/posts/feeds-optimization/?utm_source=blogfinder" />
-        <published>2026-07-16T17:52:00+08:00</published>
-        <author>
-            <name>小黄的日记本</name>
-            <uri>https://blog.weasel6.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[我的RSS文章聚合页优化总结]]></summary>
-    </entry>
-        <entry>
-        <title>我买过一把枪</title>
-        <id>163681</id>
-        <link href="https://d-d.design/single/19774?utm_source=blogfinder" />
-        <published>2026-07-16T17:43:55+08:00</published>
-        <author>
-            <name>孤斗</name>
-            <uri>https://d-d.design</uri>
-        </author>
-        <summary type="text"><![CDATA[我买过一把枪]]></summary>
-    </entry>
-        <entry>
-        <title>自省与离开#381</title>
-        <id>163716</id>
-        <link href="https://numb.tech/2026/07/16/leave433/?utm_source=blogfinder" />
-        <published>2026-07-16T17:42:44+08:00</published>
-        <author>
-            <name>双绞麻痹</name>
-            <uri>https://numb.tech</uri>
-        </author>
-        <summary type="text"><![CDATA[自省与离开#381]]></summary>
     </entry>
     </feed>
