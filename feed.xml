@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-19T23:03:06+08:00</updated>
+    <updated>2026-07-20T00:01:24+08:00</updated>
+        <entry>
+        <title>《旧梦》</title>
+        <id>164210</id>
+        <link href="https://chegva.com/6769.html?utm_source=blogfinder" />
+        <published>2026-07-19T23:31:22+08:00</published>
+        <author>
+            <name>安志合的学习博客</name>
+            <uri>https://chegva.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《旧梦》]]></summary>
+    </entry>
         <entry>
         <title>说说：夏日小记（2026.7）</title>
         <id>164207</id>
@@ -33,6 +44,17 @@
             <uri>https://nicksxs.me</uri>
         </author>
         <summary type="text"><![CDATA[记一个gitea推送失败的问题]]></summary>
+    </entry>
+        <entry>
+        <title>我为小说忙：（三）插件（读取部分）</title>
+        <id>164213</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1445/?utm_source=blogfinder" />
+        <published>2026-07-19T19:59:00+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[我为小说忙：（三）插件（读取部分）]]></summary>
     </entry>
         <entry>
         <title>王计兵的诗意记录充满着真实的声音</title>
@@ -255,6 +277,17 @@
         <summary type="text"><![CDATA[我与乙方，我与甲方]]></summary>
     </entry>
         <entry>
+        <title>那些无所不能的幻觉</title>
+        <id>164211</id>
+        <link href="https://blog.solazy.me/20260718/?utm_source=blogfinder" />
+        <published>2026-07-18T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[那些无所不能的幻觉]]></summary>
+    </entry>
+        <entry>
         <title>WordPress 6.9.0-6.9.4、7.0.0-7.0.1存在严重安全漏洞，尽快更新！</title>
         <id>164119</id>
         <link href="https://www.bufanz.com/20260718754.html?utm_source=blogfinder" />
@@ -286,6 +319,17 @@
             <uri>https://qthinker.net</uri>
         </author>
         <summary type="text"><![CDATA[随思 #104 - 2026-07-18]]></summary>
+    </entry>
+        <entry>
+        <title>把 Electron 的 Sparkle 更新器抽成库：bug 都住在边界上</title>
+        <id>164209</id>
+        <link href="https://innei.in/posts/tinkering/electron-sparkle-updater-extraction?utm_source=blogfinder" />
+        <published>2026-07-18T21:59:08+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[把 Electron 的 Sparkle 更新器抽成库：bug 都住在边界上]]></summary>
     </entry>
         <entry>
         <title>创造者悖论</title>
@@ -770,6 +814,17 @@
             <uri>https://blog.lichenghao.cn</uri>
         </author>
         <summary type="text"><![CDATA[博客升级,脱骨换皮～]]></summary>
+    </entry>
+        <entry>
+        <title>当技术被平权，基本功反而最贵</title>
+        <id>164212</id>
+        <link href="https://blog.solazy.me/20260717/?utm_source=blogfinder" />
+        <published>2026-07-17T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[当技术被平权，基本功反而最贵]]></summary>
     </entry>
         <entry>
         <title>说说：分享我做的烤鸡架！</title>
@@ -1287,148 +1342,5 @@
             <uri>https://rawchen.com</uri>
         </author>
         <summary type="text"><![CDATA[时隔10个月又来香港CityWalk 🇭🇰]]></summary>
-    </entry>
-        <entry>
-        <title>UI Skills：为 AI 时代设计工程师打造的 UI 技能导航</title>
-        <id>163797</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-17/ui-skills/?utm_source=blogfinder" />
-        <published>2026-07-17T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[UI Skills：为 AI 时代设计工程师打造的 UI 技能导航]]></summary>
-    </entry>
-        <entry>
-        <title>shadcn/improve：让 AI Agent 自主审计代码库并生成可执行改进计划</title>
-        <id>163796</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-17/improve/?utm_source=blogfinder" />
-        <published>2026-07-17T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[shadcn/improve：让 AI Agent 自主审计代码库并生成可执行改进计划]]></summary>
-    </entry>
-        <entry>
-        <title>Protocol Buffers：Google 高性能序列化框架深度解读</title>
-        <id>163795</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-17/protobuf/?utm_source=blogfinder" />
-        <published>2026-07-17T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Protocol Buffers：Google 高性能序列化框架深度解读]]></summary>
-    </entry>
-        <entry>
-        <title>PostHog：一站式开源产品分析平台，用数据驱动产品「自动驾驶」</title>
-        <id>163794</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-17/posthog/?utm_source=blogfinder" />
-        <published>2026-07-17T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[PostHog：一站式开源产品分析平台，用数据驱动产品「自动驾驶」]]></summary>
-    </entry>
-        <entry>
-        <title>OSSU Computer Science：GitHub 上最完整的免费计算机科学自学体系</title>
-        <id>163793</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-17/computer-science/?utm_source=blogfinder" />
-        <published>2026-07-17T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OSSU Computer Science：GitHub 上最完整的免费计算机科学自学体系]]></summary>
-    </entry>
-        <entry>
-        <title>LobeHub：把 AI Agent 当成「团队组员」来雇佣、调度与汇报的开源智能体工作台</title>
-        <id>163792</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-17/lobehub/?utm_source=blogfinder" />
-        <published>2026-07-17T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[LobeHub：把 AI Agent 当成「团队组员」来雇佣、调度与汇报的开源智能体工作台]]></summary>
-    </entry>
-        <entry>
-        <title>EverOS：让 AI 代理拥有持久化记忆的开源框架</title>
-        <id>163791</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-17/everos/?utm_source=blogfinder" />
-        <published>2026-07-17T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[EverOS：让 AI 代理拥有持久化记忆的开源框架]]></summary>
-    </entry>
-        <entry>
-        <title>Anthropic cwc-workshops：跟着官方学用 Claude 构建生产级智能体</title>
-        <id>163790</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-17/cwc-workshops/?utm_source=blogfinder" />
-        <published>2026-07-17T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Anthropic cwc-workshops：跟着官方学用 Claude 构建生产级智能体]]></summary>
-    </entry>
-        <entry>
-        <title>AI4Paper：从找文献到写综述，一站式打通的 AI 科研工作台</title>
-        <id>163789</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-17/ai4paper/?utm_source=blogfinder" />
-        <published>2026-07-17T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[AI4Paper：从找文献到写综述，一站式打通的 AI 科研工作台]]></summary>
-    </entry>
-        <entry>
-        <title>逆向 Claude「思考签名」：用开源服务端解锁被封存的思维链</title>
-        <id>163709</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-17/open-open-reasoning/?utm_source=blogfinder" />
-        <published>2026-07-17T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[逆向 Claude「思考签名」：用开源服务端解锁被封存的思维链]]></summary>
-    </entry>
-        <entry>
-        <title>Apache Ossie：打破数据孤岛，打造统一语义模型规范</title>
-        <id>163708</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-17/ossie/?utm_source=blogfinder" />
-        <published>2026-07-17T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Apache Ossie：打破数据孤岛，打造统一语义模型规范]]></summary>
-    </entry>
-        <entry>
-        <title>Typecho文章默认排序方式修改</title>
-        <id>163698</id>
-        <link href="https://blog.biecui.com/35.html?utm_source=blogfinder" />
-        <published>2026-07-16T23:59:39+08:00</published>
-        <author>
-            <name>别催</name>
-            <uri>https://blog.biecui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Typecho文章默认排序方式修改]]></summary>
-    </entry>
-        <entry>
-        <title>数码评测(71)：超低价享受i7-7700的体验</title>
-        <id>163725</id>
-        <link href="http://www.auiou.com/relevant/00002169.jsp?utm_source=blogfinder" />
-        <published>2026-07-16T23:17:00+08:00</published>
-        <author>
-            <name>王志勇的 Blog</name>
-            <uri>http://www.auiou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[数码评测(71)：超低价享受i7-7700的体验]]></summary>
     </entry>
     </feed>
