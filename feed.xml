@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-19T15:00:22+08:00</updated>
+    <updated>2026-07-19T17:02:06+08:00</updated>
+        <entry>
+        <title>推荐一个免费在线图片处理网站</title>
+        <id>164196</id>
+        <link href="https://blog.xrbk.cn/post/91.html?utm_source=blogfinder" />
+        <published>2026-07-19T15:51:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://blog.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[推荐一个免费在线图片处理网站]]></summary>
+    </entry>
+        <entry>
+        <title>ZR 集训 Day3 – 基础分块算法与离线算法</title>
+        <id>164197</id>
+        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day3-%e5%9f%ba%e7%a1%80%e5%88%86%e5%9d%97%e7%ae%97%e6%b3%95%e4%b8%8e%e7%a6%bb%e7%ba%bf%e7%ae%97%e6%b3%95/?utm_source=blogfinder" />
+        <published>2026-07-19T15:39:57+08:00</published>
+        <author>
+            <name>ooliver 的博客</name>
+            <uri>https://blog.ooliver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[ZR 集训 Day3 – 基础分块算法与离线算法]]></summary>
+    </entry>
         <entry>
         <title>Linux 服务器上将 Excel 文件转换为 PDF，docker 镜像 gotenberg</title>
         <id>164191</id>
@@ -22,6 +44,28 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[Linux 服务器上将 Excel 文件转换为 PDF，docker 镜像 gotenberg]]></summary>
+    </entry>
+        <entry>
+        <title>【儿女记】历史</title>
+        <id>164195</id>
+        <link href="http://www.qncd.com/?p=12930&amp;utm_source=blogfinder" />
+        <published>2026-07-19T11:14:47+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【儿女记】历史]]></summary>
+    </entry>
+        <entry>
+        <title>学会用擅长的事让自己偷懒</title>
+        <id>164194</id>
+        <link href="https://mobius.blog/25103.html?utm_source=blogfinder" />
+        <published>2026-07-19T10:55:06+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[学会用擅长的事让自己偷懒]]></summary>
     </entry>
         <entry>
         <title>一个袋子，十个商标</title>
@@ -1463,38 +1507,5 @@
             <uri>https://numb.tech</uri>
         </author>
         <summary type="text"><![CDATA[自省与离开#381]]></summary>
-    </entry>
-        <entry>
-        <title>浅谈分布式事务#2</title>
-        <id>163729</id>
-        <link href="https://www.bytecho.net/archives/distributed_transaction_tcc.html?utm_source=blogfinder" />
-        <published>2026-07-16T17:00:00+08:00</published>
-        <author>
-            <name>字节星球</name>
-            <uri>https://www.bytecho.net</uri>
-        </author>
-        <summary type="text"><![CDATA[浅谈分布式事务#2]]></summary>
-    </entry>
-        <entry>
-        <title>HTTP2 帧层调度与流控机制：多路复用并非无代价，头部阻塞底层根源</title>
-        <id>163684</id>
-        <link href="https://qaqbuyan.com:88/乔安文章/124.html?utm_source=blogfinder" />
-        <published>2026-07-16T15:43:27+08:00</published>
-        <author>
-            <name>卟言的个人博客</name>
-            <uri>https://qaqbuyan.com:88</uri>
-        </author>
-        <summary type="text"><![CDATA[HTTP2 帧层调度与流控机制：多路复用并非无代价，头部阻塞底层根源]]></summary>
-    </entry>
-        <entry>
-        <title>皇帝的新衣</title>
-        <id>163682</id>
-        <link href="https://liWanr.com/essays/2026/named-silence/?utm_source=blogfinder" />
-        <published>2026-07-16T15:33:00+08:00</published>
-        <author>
-            <name>liWanr</name>
-            <uri>https://liWanr.com</uri>
-        </author>
-        <summary type="text"><![CDATA[皇帝的新衣]]></summary>
     </entry>
     </feed>
