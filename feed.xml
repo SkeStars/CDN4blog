@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-20T23:00:45+08:00</updated>
+    <updated>2026-07-21T00:03:12+08:00</updated>
         <entry>
         <title>嘉信理财限制登录</title>
         <id>164325</id>
@@ -33,6 +33,28 @@
             <uri>https://qthinker.net</uri>
         </author>
         <summary type="text"><![CDATA[随思 #105 - 2026-07-20]]></summary>
+    </entry>
+        <entry>
+        <title>国产手机浏览器居然开始好用了</title>
+        <id>164331</id>
+        <link href="https://blog.weasel6.cn/posts/vivobrowser/?utm_source=blogfinder" />
+        <published>2026-07-20T21:30:00+08:00</published>
+        <author>
+            <name>小黄的日记本</name>
+            <uri>https://blog.weasel6.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[国产手机浏览器居然开始好用了]]></summary>
+    </entry>
+        <entry>
+        <title>熊猫小A: 凌晨终场哨一响我就直接蒙头大睡，缓了一天好点了。当赢球时，你感叹梅西的强大；当输...</title>
+        <id>164329</id>
+        <link href="https://blog.imalan.cn/archives/memo-20260720-1914/?utm_source=blogfinder" />
+        <published>2026-07-20T19:13:25+08:00</published>
+        <author>
+            <name>失眠海峡</name>
+            <uri>https://blog.imalan.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[熊猫小A: 凌晨终场哨一响我就直接蒙头大睡，缓了一天好点了。当赢球时，你感叹梅西的强大；当输...]]></summary>
     </entry>
         <entry>
         <title>《随感言论杂录2607-1》</title>
@@ -1287,115 +1309,5 @@
             <uri>https://qaqbuyan.com:88</uri>
         </author>
         <summary type="text"><![CDATA[我用 50 行代码写了一个恶意 MCP Server，它如何窃取你的文件系统]]></summary>
-    </entry>
-        <entry>
-        <title>简谱：ReTrymenT</title>
-        <id>164150</id>
-        <link href="https://vnyzm.top/html/%E7%AE%80%E8%B0%B1%EF%BC%9AReTrymenT.html?utm_source=blogfinder" />
-        <published>2026-07-18T00:00:00+08:00</published>
-        <author>
-            <name>VnYzm 的博客</name>
-            <uri>https://vnyzm.top</uri>
-        </author>
-        <summary type="text"><![CDATA[简谱：ReTrymenT]]></summary>
-    </entry>
-        <entry>
-        <title>观影小结 2026年春</title>
-        <id>164147</id>
-        <link href="https://xeonzilla.top/anime-impressions-spring2026/?utm_source=blogfinder" />
-        <published>2026-07-18T00:00:00+08:00</published>
-        <author>
-            <name>Xeonzilla’s Note</name>
-            <uri>https://xeonzilla.top</uri>
-        </author>
-        <summary type="text"><![CDATA[观影小结 2026年春]]></summary>
-    </entry>
-        <entry>
-        <title>NitroStack：企业级 TypeScript 框架，一站式构建生产级 MCP 服务器</title>
-        <id>164141</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-18/nitrostack/?utm_source=blogfinder" />
-        <published>2026-07-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[NitroStack：企业级 TypeScript 框架，一站式构建生产级 MCP 服务器]]></summary>
-    </entry>
-        <entry>
-        <title>G0DM0D3：开源多模型AI聊天界面，突破后训练层的极限</title>
-        <id>164140</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-18/g0dm0d3/?utm_source=blogfinder" />
-        <published>2026-07-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[G0DM0D3：开源多模型AI聊天界面，突破后训练层的极限]]></summary>
-    </entry>
-        <entry>
-        <title>Colibrì：用25GB内存在消费级机器上运行744B参数的GLM-5.2模型</title>
-        <id>164139</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-18/colibri/?utm_source=blogfinder" />
-        <published>2026-07-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Colibrì：用25GB内存在消费级机器上运行744B参数的GLM-5.2模型]]></summary>
-    </entry>
-        <entry>
-        <title>Codex Dream Skin：给 Codex 桌面端换一张会呼吸的脸</title>
-        <id>164138</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-18/codex-dream-skin/?utm_source=blogfinder" />
-        <published>2026-07-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Codex Dream Skin：给 Codex 桌面端换一张会呼吸的脸]]></summary>
-    </entry>
-        <entry>
-        <title>DMIT 主机自定义 IPv6 地址</title>
-        <id>164124</id>
-        <link href="https://tao.zz.ac/unix/dmit-ipv6.html?utm_source=blogfinder" />
-        <published>2026-07-18T00:00:00+08:00</published>
-        <author>
-            <name>涛叔</name>
-            <uri>https://tao.zz.ac</uri>
-        </author>
-        <summary type="text"><![CDATA[DMIT 主机自定义 IPv6 地址]]></summary>
-    </entry>
-        <entry>
-        <title>DocuSeal：开源文档填写与电子签名平台，几分钟完成私有化部署</title>
-        <id>163788</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-18/docuseal/?utm_source=blogfinder" />
-        <published>2026-07-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[DocuSeal：开源文档填写与电子签名平台，几分钟完成私有化部署]]></summary>
-    </entry>
-        <entry>
-        <title>code-review-graph：让 AI 代码审查节省 82 倍 Token 的知识图谱工具</title>
-        <id>163787</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-18/code-review-graph/?utm_source=blogfinder" />
-        <published>2026-07-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[code-review-graph：让 AI 代码审查节省 82 倍 Token 的知识图谱工具]]></summary>
-    </entry>
-        <entry>
-        <title>博客升级,脱骨换皮～</title>
-        <id>163802</id>
-        <link href="https://blog.lichenghao.cn/article/znoiqu3hvjse/?utm_source=blogfinder" />
-        <published>2026-07-17T23:57:27+08:00</published>
-        <author>
-            <name>故事的程序猿</name>
-            <uri>https://blog.lichenghao.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[博客升级,脱骨换皮～]]></summary>
     </entry>
     </feed>
