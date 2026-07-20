@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-20T12:03:17+08:00</updated>
+    <updated>2026-07-20T15:00:25+08:00</updated>
+        <entry>
+        <title>如何用 OpenClaw 配置早报晚报，科技新闻信源、微博热搜获取</title>
+        <id>164310</id>
+        <link href="https://blog.zhheo.com/p/u61vslr3.html?utm_source=blogfinder" />
+        <published>2026-07-20T13:15:38+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[如何用 OpenClaw 配置早报晚报，科技新闻信源、微博热搜获取]]></summary>
+    </entry>
         <entry>
         <title>ZR 集训 Day4 – 平衡树及其应用</title>
         <id>164309</id>
@@ -1408,93 +1419,5 @@
             <uri>https://heitaosan.com</uri>
         </author>
         <summary type="text"><![CDATA[为什么加一箱油四五百块不心疼，充个电贵十块却难受半天？]]></summary>
-    </entry>
-        <entry>
-        <title>盛夏记事+水库悲剧</title>
-        <id>163856</id>
-        <link href="https://ilogs.cn/2026/07/17/388.html?utm_source=blogfinder" />
-        <published>2026-07-17T14:24:00+08:00</published>
-        <author>
-            <name>我的日志</name>
-            <uri>https://ilogs.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[盛夏记事+水库悲剧]]></summary>
-    </entry>
-        <entry>
-        <title>浅谈 DDD 领域驱动设计架构</title>
-        <id>163746</id>
-        <link href="https://www.bytecho.net/archives/domain_driven_design.html?utm_source=blogfinder" />
-        <published>2026-07-17T14:18:41+08:00</published>
-        <author>
-            <name>字节星球</name>
-            <uri>https://www.bytecho.net</uri>
-        </author>
-        <summary type="text"><![CDATA[浅谈 DDD 领域驱动设计架构]]></summary>
-    </entry>
-        <entry>
-        <title>be water</title>
-        <id>163744</id>
-        <link href="https://zhongxiaojie.cn/2026/07/1653/?utm_source=blogfinder" />
-        <published>2026-07-17T14:07:02+08:00</published>
-        <author>
-            <name>obaby 𝐢‍𝐧⃝  void</name>
-            <uri>https://oba.by</uri>
-        </author>
-        <summary type="text"><![CDATA[be water]]></summary>
-    </entry>
-        <entry>
-        <title>BUG复盘分析：Typecho CommentFilter 插件的“换行符”血案与修复逻辑</title>
-        <id>163741</id>
-        <link href="https://www.nekopara.uk/archives/Fix_Typecho_Comment_Filter.html?utm_source=blogfinder" />
-        <published>2026-07-17T13:57:52+08:00</published>
-        <author>
-            <name>GTX690 战术核显卡导弹</name>
-            <uri>https://www.nekopara.uk</uri>
-        </author>
-        <summary type="text"><![CDATA[BUG复盘分析：Typecho CommentFilter 插件的“换行符”血案与修复逻辑]]></summary>
-    </entry>
-        <entry>
-        <title>又到一年车险续保了，继续坚持太平洋</title>
-        <id>163739</id>
-        <link href="https://www.aiwazi.com/3251.html?utm_source=blogfinder" />
-        <published>2026-07-17T13:37:29+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[又到一年车险续保了，继续坚持太平洋]]></summary>
-    </entry>
-        <entry>
-        <title>人工智能实训结题报告：B4 Agent LLM决策模块 —— 从架构设计到五维进阶</title>
-        <id>163894</id>
-        <link href="https://stalux.needhelp.icu/posts/ai-training-b4-final-report/?utm_source=blogfinder" />
-        <published>2026-07-17T13:30:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[人工智能实训结题报告：B4 Agent LLM决策模块 —— 从架构设计到五维进阶]]></summary>
-    </entry>
-        <entry>
-        <title>人工智能实训结题报告：B4 Agent LLM决策模块 —— 从架构设计到五维进阶</title>
-        <id>163737</id>
-        <link href="https://xingwangzhe.fun/posts/ai-training-b4-final-report/?utm_source=blogfinder" />
-        <published>2026-07-17T13:30:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[人工智能实训结题报告：B4 Agent LLM决策模块 —— 从架构设计到五维进阶]]></summary>
-    </entry>
-        <entry>
-        <title>给 SearXNG 接入豆包搜索，解决 OpenClaw 信源难题</title>
-        <id>163731</id>
-        <link href="https://blog.zhheo.com/p/1ffvrvyd.html?utm_source=blogfinder" />
-        <published>2026-07-17T13:08:17+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[给 SearXNG 接入豆包搜索，解决 OpenClaw 信源难题]]></summary>
     </entry>
     </feed>
