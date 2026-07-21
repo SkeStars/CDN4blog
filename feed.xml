@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-21T11:00:24+08:00</updated>
+    <updated>2026-07-21T15:00:29+08:00</updated>
+        <entry>
+        <title>会后悔吗</title>
+        <id>164419</id>
+        <link href="https://ihaihe.cn/3670.htm?utm_source=blogfinder" />
+        <published>2026-07-21T11:02:48+08:00</published>
+        <author>
+            <name>三十里海河</name>
+            <uri>https://ihaihe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[会后悔吗]]></summary>
+    </entry>
+        <entry>
+        <title>我和她的智能表</title>
+        <id>164416</id>
+        <link href="https://blog.yiyou.bj.cn/archives/wo-he-ta-de-zhi-neng-biao?utm_source=blogfinder" />
+        <published>2026-07-21T10:51:10+08:00</published>
+        <author>
+            <name>益友网站</name>
+            <uri>https://blog.yiyou.bj.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[我和她的智能表]]></summary>
+    </entry>
+        <entry>
+        <title>ZR 集训 Day5 – 树上信息维护</title>
+        <id>164418</id>
+        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day5-%e6%a0%91%e4%b8%8a%e4%bf%a1%e6%81%af%e7%bb%b4%e6%8a%a4/?utm_source=blogfinder" />
+        <published>2026-07-21T10:28:51+08:00</published>
+        <author>
+            <name>ooliver 的博客</name>
+            <uri>https://blog.ooliver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[ZR 集训 Day5 – 树上信息维护]]></summary>
+    </entry>
+        <entry>
+        <title>随笔日记</title>
+        <id>164420</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1186&amp;utm_source=blogfinder" />
+        <published>2026-07-21T10:20:05+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[随笔日记]]></summary>
+    </entry>
         <entry>
         <title>被强行拖入的 SOP</title>
         <id>164406</id>
@@ -90,6 +134,17 @@
         <summary type="text"><![CDATA[262 小窝的电脑旁挂上离卦，提醒自己]]></summary>
     </entry>
         <entry>
+        <title>台阶上钻出来的一株小草（20260523）</title>
+        <id>164414</id>
+        <link href="http://stuit.cn/Xiaolu/Post/1625.html?utm_source=blogfinder" />
+        <published>2026-07-21T00:04:26+08:00</published>
+        <author>
+            <name>风雨行者</name>
+            <uri>http://stuit.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[台阶上钻出来的一株小草（20260523）]]></summary>
+    </entry>
+        <entry>
         <title>手动挡教程：起步、熄火处理、搭电</title>
         <id>164344</id>
         <link href="https://cyrusyip.org/zh-cn/posts/2026/07/21/manual-car-tutorial-start-stall-jump-start/?utm_source=blogfinder" />
@@ -121,6 +176,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[AstronRPA：讯飞开源企业级 RPA 桌面应用，支持低代码可视化流程设计]]></summary>
+    </entry>
+        <entry>
+        <title>百元行车记录仪DIY平替运动相机Vlog方案</title>
+        <id>164417</id>
+        <link href="https://ygz.ink/archives/5568.html?utm_source=blogfinder" />
+        <published>2026-07-20T23:43:35+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[百元行车记录仪DIY平替运动相机Vlog方案]]></summary>
     </entry>
         <entry>
         <title>通过.hk域名看当今两地互联网</title>
@@ -176,6 +242,17 @@
             <uri>https://022220.xyz</uri>
         </author>
         <summary type="text"><![CDATA[GRUB优化：Windows+Ubuntu双系统引导配置指南]]></summary>
+    </entry>
+        <entry>
+        <title>向云端｜西南自驾02 - 婺源</title>
+        <id>164415</id>
+        <link href="https://blog.ops-coffee.com/r/2026-southwest-road-trip-02-wuyuan.html?utm_source=blogfinder" />
+        <published>2026-07-20T19:35:14+08:00</published>
+        <author>
+            <name>运维咖啡吧</name>
+            <uri>https://blog.ops-coffee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[向云端｜西南自驾02 - 婺源]]></summary>
     </entry>
         <entry>
         <title>「说说」我这Windows10磁铁有格调</title>
@@ -1507,49 +1584,5 @@
             <uri>https://wonse.info</uri>
         </author>
         <summary type="text"><![CDATA[Seafile服务端，修改文件存储目录（二）]]></summary>
-    </entry>
-        <entry>
-        <title>如何拯救一个负载过高而崩溃的服务器</title>
-        <id>164121</id>
-        <link href="https://upxuu.com/posts/oh-my-serverrrr/?utm_source=blogfinder" />
-        <published>2026-07-18T13:36:34+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[如何拯救一个负载过高而崩溃的服务器]]></summary>
-    </entry>
-        <entry>
-        <title>我的云服务器上运行了什么 - 2026</title>
-        <id>164188</id>
-        <link href="http://www.jinhuaiyao.com/posts/what-is-running-on-my-vps-2026/?utm_source=blogfinder" />
-        <published>2026-07-18T13:26:23+08:00</published>
-        <author>
-            <name>Huaiyao Jin</name>
-            <uri>https://www.jinhuaiyao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我的云服务器上运行了什么 - 2026]]></summary>
-    </entry>
-        <entry>
-        <title>[文章] 普通人做 AI 创业，培训真的是更好的方向吗？</title>
-        <id>163858</id>
-        <link href="https://blog.boguan.site/articles/pu-tong-ren-zuo-ai-chuang-ye-pei-xun-zhen-de-shi-geng-hao-de-fang-xiang-ma?utm_source=blogfinder" />
-        <published>2026-07-18T12:51:37+08:00</published>
-        <author>
-            <name>开发者十一</name>
-            <uri>https://boguan.site</uri>
-        </author>
-        <summary type="text"><![CDATA[[文章] 普通人做 AI 创业，培训真的是更好的方向吗？]]></summary>
-    </entry>
-        <entry>
-        <title>自己动手更换空调滤芯</title>
-        <id>164149</id>
-        <link href="https://me.xu19.com/diy-replace-mercedes-benz-glk300-cabin-air-filter/?utm_source=blogfinder" />
-        <published>2026-07-18T11:55:28+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[自己动手更换空调滤芯]]></summary>
     </entry>
     </feed>
