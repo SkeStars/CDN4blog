@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-21T20:00:15+08:00</updated>
+    <updated>2026-07-21T22:00:52+08:00</updated>
+        <entry>
+        <title>众生易度不</title>
+        <id>164427</id>
+        <link href="http://www.qncd.com/?p=12933&amp;utm_source=blogfinder" />
+        <published>2026-07-21T21:25:31+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[众生易度不]]></summary>
+    </entry>
         <entry>
         <title>灵栖洞仙琢奇石，葫芦峡浪卷飞舟</title>
         <id>164424</id>
@@ -88,6 +99,17 @@
             <uri>http://www.xulog.cn</uri>
         </author>
         <summary type="text"><![CDATA[随笔日记]]></summary>
+    </entry>
+        <entry>
+        <title>我收到了 Mozilla Monitor 的泄露警报，你的邮箱可能也一样</title>
+        <id>164426</id>
+        <link href="https://xingwangzhe.fun/posts/mozilla-monitor-check/?utm_source=blogfinder" />
+        <published>2026-07-21T09:50:51+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[我收到了 Mozilla Monitor 的泄露警报，你的邮箱可能也一样]]></summary>
     </entry>
         <entry>
         <title>被强行拖入的 SOP</title>
@@ -1419,104 +1441,5 @@
             <uri>https://qthinker.net</uri>
         </author>
         <summary type="text"><![CDATA[随思 #104 - 2026-07-18]]></summary>
-    </entry>
-        <entry>
-        <title>把 Electron 的 Sparkle 更新器抽成库：bug 都住在边界上</title>
-        <id>164209</id>
-        <link href="https://innei.in/posts/tinkering/electron-sparkle-updater-extraction?utm_source=blogfinder" />
-        <published>2026-07-18T21:59:08+08:00</published>
-        <author>
-            <name>静かな森</name>
-            <uri>https://innei.in</uri>
-        </author>
-        <summary type="text"><![CDATA[把 Electron 的 Sparkle 更新器抽成库：bug 都住在边界上]]></summary>
-    </entry>
-        <entry>
-        <title>创造者悖论</title>
-        <id>164186</id>
-        <link href="https://www.suiyan.cc/blog/20260718215503?utm_source=blogfinder" />
-        <published>2026-07-18T21:55:03+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[创造者悖论]]></summary>
-    </entry>
-        <entry>
-        <title>言不由衷身成为我们生存的本能</title>
-        <id>164185</id>
-        <link href="https://www.pgoj.top/archives/yan-bu-you-zhong.html?utm_source=blogfinder" />
-        <published>2026-07-18T21:54:53+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[言不由衷身成为我们生存的本能]]></summary>
-    </entry>
-        <entry>
-        <title>为半死不活的 CarrotTV 重做网站</title>
-        <id>164148</id>
-        <link href="https://imgradeone.com/thoughts/carrottv-website-remake?utm_source=blogfinder" />
-        <published>2026-07-18T21:22:00+08:00</published>
-        <author>
-            <name>the real imgradeone</name>
-            <uri>https://imgradeone.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为半死不活的 CarrotTV 重做网站]]></summary>
-    </entry>
-        <entry>
-        <title>博客廿周年，纪念明信片正式发布啦！</title>
-        <id>164116</id>
-        <link href="https://zhujay.com/talk/talk_detail.html?id=1262&amp;utm_source=blogfinder" />
-        <published>2026-07-18T20:58:10+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[博客廿周年，纪念明信片正式发布啦！]]></summary>
-    </entry>
-        <entry>
-        <title>28岁你好，感谢这段日子有你陪着我。</title>
-        <id>164184</id>
-        <link href="https://jyblog.com/5873/?utm_source=blogfinder" />
-        <published>2026-07-18T20:49:56+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.com</uri>
-        </author>
-        <summary type="text"><![CDATA[28岁你好，感谢这段日子有你陪着我。]]></summary>
-    </entry>
-        <entry>
-        <title>找个工作好难啊</title>
-        <id>164203</id>
-        <link href="https://imqi1.com/content/note/1018?utm_source=blogfinder" />
-        <published>2026-07-18T20:36:00+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[找个工作好难啊]]></summary>
-    </entry>
-        <entry>
-        <title>摄影练习</title>
-        <id>164117</id>
-        <link href="https://ygz.ink/archives/5556.html?utm_source=blogfinder" />
-        <published>2026-07-18T20:17:10+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[摄影练习]]></summary>
-    </entry>
-        <entry>
-        <title>从 yir.me 到 wind.ink，哪个是属于我自己的名字</title>
-        <id>164125</id>
-        <link href="https://wind.ink/archives/10170?utm_source=blogfinder" />
-        <published>2026-07-18T20:10:59+08:00</published>
-        <author>
-            <name>风清</name>
-            <uri>https://wind.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[从 yir.me 到 wind.ink，哪个是属于我自己的名字]]></summary>
     </entry>
     </feed>
