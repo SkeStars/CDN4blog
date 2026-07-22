@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-22T20:00:39+08:00</updated>
+    <updated>2026-07-22T22:00:43+08:00</updated>
+        <entry>
+        <title>Red Hat 8 / Rocky Linux 配置国内软件源</title>
+        <id>164551</id>
+        <link href="https://www.sunzhongwei.com/red-hat-rocky-linux-configuration-domestic-software-sources?utm_source=blogfinder" />
+        <published>2026-07-22T20:38:46+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Red Hat 8 / Rocky Linux 配置国内软件源]]></summary>
+    </entry>
         <entry>
         <title>“星”派大电影</title>
         <id>164543</id>
@@ -22,6 +33,28 @@
             <uri>https://ficor.net</uri>
         </author>
         <summary type="text"><![CDATA[“星”派大电影]]></summary>
+    </entry>
+        <entry>
+        <title>入手GoPro7运动相机</title>
+        <id>164554</id>
+        <link href="https://ygz.ink/archives/5590.html?utm_source=blogfinder" />
+        <published>2026-07-22T18:35:58+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[入手GoPro7运动相机]]></summary>
+    </entry>
+        <entry>
+        <title>充送</title>
+        <id>164552</id>
+        <link href="https://ltmltm.cn/bk/1480.html?utm_source=blogfinder" />
+        <published>2026-07-22T16:25:30+08:00</published>
+        <author>
+            <name>因为很想念</name>
+            <uri>https://ltmltm.cn/bk</uri>
+        </author>
+        <summary type="text"><![CDATA[充送]]></summary>
     </entry>
         <entry>
         <title>《随感言论杂录2607-2》</title>
@@ -794,6 +827,17 @@
         <summary type="text"><![CDATA[国产手机浏览器居然开始好用了]]></summary>
     </entry>
         <entry>
+        <title>太原之殇</title>
+        <id>164553</id>
+        <link href="https://mei.lv/articles/2026/taiyuan.html?utm_source=blogfinder" />
+        <published>2026-07-20T20:24:12+08:00</published>
+        <author>
+            <name>mei の blog</name>
+            <uri>https://www.mmeiblog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[太原之殇]]></summary>
+    </entry>
+        <entry>
         <title>GRUB优化：Windows+Ubuntu双系统引导配置指南</title>
         <id>164366</id>
         <link href="https://022220.xyz/note/120.html?utm_source=blogfinder" />
@@ -1452,49 +1496,5 @@
             <uri>https://www.mmbkz.cn</uri>
         </author>
         <summary type="text"><![CDATA[说说：夏日小记（2026.7）]]></summary>
-    </entry>
-        <entry>
-        <title>康德与人参果 #1</title>
-        <id>164227</id>
-        <link href="https://sliun.com/kantandcaohuandan1/?utm_source=blogfinder" />
-        <published>2026-07-19T21:56:00+08:00</published>
-        <author>
-            <name>理论派</name>
-            <uri>https://sliun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[康德与人参果 #1]]></summary>
-    </entry>
-        <entry>
-        <title>小象超市鮮啤簡評</title>
-        <id>164320</id>
-        <link href="https://taxodium.ink/xiaoxiang-supermarket-fresh-beer-review.html?utm_source=blogfinder" />
-        <published>2026-07-19T21:49:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[小象超市鮮啤簡評]]></summary>
-    </entry>
-        <entry>
-        <title>特定的体育训练会诱发代脉脉象</title>
-        <id>164396</id>
-        <link href="https://jiangcl.com/4658?utm_source=blogfinder" />
-        <published>2026-07-19T21:39:18+08:00</published>
-        <author>
-            <name>蒙需</name>
-            <uri>https://jiangcl.com/</uri>
-        </author>
-        <summary type="text"><![CDATA[特定的体育训练会诱发代脉脉象]]></summary>
-    </entry>
-        <entry>
-        <title>记一个gitea推送失败的问题</title>
-        <id>164206</id>
-        <link href="https://nicksxs.me/2026/07/19/%E8%AE%B0%E4%B8%80%E4%B8%AAgiea%E6%8E%A8%E9%80%81%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/?utm_source=blogfinder" />
-        <published>2026-07-19T20:53:14+08:00</published>
-        <author>
-            <name>Nicksxs&#039;s Blog</name>
-            <uri>https://nicksxs.me</uri>
-        </author>
-        <summary type="text"><![CDATA[记一个gitea推送失败的问题]]></summary>
     </entry>
     </feed>
