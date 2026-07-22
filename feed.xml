@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-22T22:00:43+08:00</updated>
+    <updated>2026-07-23T00:02:27+08:00</updated>
+        <entry>
+        <title>SpringBoot下载文件打不开问题</title>
+        <id>164557</id>
+        <link href="https://blog.lichenghao.cn/article/f7940r53580s?utm_source=blogfinder" />
+        <published>2026-07-22T22:45:24+08:00</published>
+        <author>
+            <name>故事的程序猿</name>
+            <uri>https://blog.lichenghao.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[SpringBoot下载文件打不开问题]]></summary>
+    </entry>
         <entry>
         <title>Red Hat 8 / Rocky Linux 配置国内软件源</title>
         <id>164551</id>
@@ -112,6 +123,17 @@
         <summary type="text"><![CDATA[ZR 集训 Day 6 – 可持久化、虚树]]></summary>
     </entry>
         <entry>
+        <title>全屋小米智能家居，从设计到安装，自己搞定</title>
+        <id>164556</id>
+        <link href="https://blog.52hyjs.com/post-1283.html?utm_source=blogfinder" />
+        <published>2026-07-22T13:52:32+08:00</published>
+        <author>
+            <name>幻影博客</name>
+            <uri>https://blog.52hyjs.com</uri>
+        </author>
+        <summary type="text"><![CDATA[全屋小米智能家居，从设计到安装，自己搞定]]></summary>
+    </entry>
+        <entry>
         <title>「一府二鹿三艋舺」的下一句是什麼？</title>
         <id>164538</id>
         <link href="https://blog.giveanornot.com/tsao-oo/?utm_source=blogfinder" />
@@ -198,6 +220,17 @@
             <uri>https://www.cry33.com</uri>
         </author>
         <summary type="text"><![CDATA[离职复盘：我不愿用人生窗口期，兑换无尽的内耗与透支]]></summary>
+    </entry>
+        <entry>
+        <title>随思 #107 - 2026-07-21</title>
+        <id>164555</id>
+        <link href="http://qthinker.net/content/107?utm_source=blogfinder" />
+        <published>2026-07-22T00:35:44+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[随思 #107 - 2026-07-21]]></summary>
     </entry>
         <entry>
         <title>百度开源 Unlimited-OCR：一键搞定任意长度文档的高精度 OCR 模型</title>
@@ -1276,225 +1309,5 @@
             <uri>https://siwei.li</uri>
         </author>
         <summary type="text"><![CDATA[哈苏 X2D II 顶盖浅划痕修复]]></summary>
-    </entry>
-        <entry>
-        <title>走河西</title>
-        <id>164370</id>
-        <link href="http://kangaroogao.com/posts/c866/?utm_source=blogfinder" />
-        <published>2026-07-20T00:00:00+08:00</published>
-        <author>
-            <name>三峡星河</name>
-            <uri>https://kangaroogao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[走河西]]></summary>
-    </entry>
-        <entry>
-        <title>深入理解 AI Agent：设计原理与工程实践 — 开源书+配套代码全解读</title>
-        <id>164343</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-20/ai-agent-book/?utm_source=blogfinder" />
-        <published>2026-07-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[深入理解 AI Agent：设计原理与工程实践 — 开源书+配套代码全解读]]></summary>
-    </entry>
-        <entry>
-        <title>WrenAI：用上下文层让 AI Agents 真正读懂你的业务数据</title>
-        <id>164342</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-20/wrenai/?utm_source=blogfinder" />
-        <published>2026-07-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[WrenAI：用上下文层让 AI Agents 真正读懂你的业务数据]]></summary>
-    </entry>
-        <entry>
-        <title>Windows Terminal 深度解析：微软如何重塑命令行体验</title>
-        <id>164341</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-20/terminal/?utm_source=blogfinder" />
-        <published>2026-07-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Windows Terminal 深度解析：微软如何重塑命令行体验]]></summary>
-    </entry>
-        <entry>
-        <title>Topcoat：Rust 全栈框架的新选择</title>
-        <id>164340</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-20/topcoat/?utm_source=blogfinder" />
-        <published>2026-07-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Topcoat：Rust 全栈框架的新选择]]></summary>
-    </entry>
-        <entry>
-        <title>SkillHub：一个企业级开源 Agent 技能仓库，让团队共享 AI 能力</title>
-        <id>164339</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-20/skillhub/?utm_source=blogfinder" />
-        <published>2026-07-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[SkillHub：一个企业级开源 Agent 技能仓库，让团队共享 AI 能力]]></summary>
-    </entry>
-        <entry>
-        <title>Paseo：一个接口掌控所有 AI 编程 Agent（Claude Code / Codex / Copilot）</title>
-        <id>164338</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-20/paseo/?utm_source=blogfinder" />
-        <published>2026-07-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Paseo：一个接口掌控所有 AI 编程 Agent（Claude Code / Codex / Copilot）]]></summary>
-    </entry>
-        <entry>
-        <title>GitHub 爆火的 CS 自学指南：北大开源，涵盖从入门到就业的全套计算机学习路径</title>
-        <id>164337</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-20/cs-self-learning/?utm_source=blogfinder" />
-        <published>2026-07-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[GitHub 爆火的 CS 自学指南：北大开源，涵盖从入门到就业的全套计算机学习路径]]></summary>
-    </entry>
-        <entry>
-        <title>FastMCP：用 Python 快速构建生产级 MCP 服务端与客户端</title>
-        <id>164336</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-20/fastmcp/?utm_source=blogfinder" />
-        <published>2026-07-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[FastMCP：用 Python 快速构建生产级 MCP 服务端与客户端]]></summary>
-    </entry>
-        <entry>
-        <title>AstrBot：一站式开源 AI 聊天机器人平台，让 IM 秒变 Agent 工作台</title>
-        <id>164335</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-20/astrbot/?utm_source=blogfinder" />
-        <published>2026-07-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[AstrBot：一站式开源 AI 聊天机器人平台，让 IM 秒变 Agent 工作台]]></summary>
-    </entry>
-        <entry>
-        <title>《我们最幸福》：看得到星星的国度</title>
-        <id>164324</id>
-        <link href="https://tumutanzi.com/archives/17618?utm_source=blogfinder" />
-        <published>2026-07-20T00:00:00+08:00</published>
-        <author>
-            <name>土木坛子</name>
-            <uri>https://tumutanzi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《我们最幸福》：看得到星星的国度]]></summary>
-    </entry>
-        <entry>
-        <title>NullHub：一个 Zig 构建的本地化 AI 工具管理中枢</title>
-        <id>164217</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-20/nullhub/?utm_source=blogfinder" />
-        <published>2026-07-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[NullHub：一个 Zig 构建的本地化 AI 工具管理中枢]]></summary>
-    </entry>
-        <entry>
-        <title>fireworks-tech-graph：用自然语言描述生成专业级技术图形的开源工具</title>
-        <id>164216</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-20/fireworks-tech-graph/?utm_source=blogfinder" />
-        <published>2026-07-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[fireworks-tech-graph：用自然语言描述生成专业级技术图形的开源工具]]></summary>
-    </entry>
-        <entry>
-        <title>波动的理解</title>
-        <id>164264</id>
-        <link href="https://z.arlmy.me/posts/ZArlmyMe/Damping_20260719/?utm_source=blogfinder" />
-        <published>2026-07-19T23:51:03+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[波动的理解]]></summary>
-    </entry>
-        <entry>
-        <title>《旧梦》</title>
-        <id>164210</id>
-        <link href="https://chegva.com/6769.html?utm_source=blogfinder" />
-        <published>2026-07-19T23:31:22+08:00</published>
-        <author>
-            <name>安志合的学习博客</name>
-            <uri>https://chegva.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《旧梦》]]></summary>
-    </entry>
-        <entry>
-        <title>SOP 复制不了那双手</title>
-        <id>164259</id>
-        <link href="https://blog.solazy.me/20260719/?utm_source=blogfinder" />
-        <published>2026-07-19T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[SOP 复制不了那双手]]></summary>
-    </entry>
-        <entry>
-        <title>博客文件接近4个G</title>
-        <id>164260</id>
-        <link href="https://ygz.ink/archives/5565.html?utm_source=blogfinder" />
-        <published>2026-07-19T22:43:08+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[博客文件接近4个G]]></summary>
-    </entry>
-        <entry>
-        <title>游牧地活着</title>
-        <id>164265</id>
-        <link href="https://z.arlmy.me/posts/ZArlmyMe/BeHunterGatherer_20260719/?utm_source=blogfinder" />
-        <published>2026-07-19T22:41:03+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[游牧地活着]]></summary>
-    </entry>
-        <entry>
-        <title>Trip to Mt. Lushan 1</title>
-        <id>164215</id>
-        <link href="https://muidar.com/posts/cmuidar/trip-to-mt-lushan-1/?utm_source=blogfinder" />
-        <published>2026-07-19T22:37:15+08:00</published>
-        <author>
-            <name>Muidar&#039;s Site</name>
-            <uri>https://muidar.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Trip to Mt. Lushan 1]]></summary>
-    </entry>
-        <entry>
-        <title>说说：夏日小记（2026.7）</title>
-        <id>164207</id>
-        <link href="https://www.mmbkz.cn/dcce026.html?utm_source=blogfinder" />
-        <published>2026-07-19T22:30:48+08:00</published>
-        <author>
-            <name>绯色之喵</name>
-            <uri>https://www.mmbkz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[说说：夏日小记（2026.7）]]></summary>
     </entry>
     </feed>
