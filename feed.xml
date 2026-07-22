@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-22T17:01:05+08:00</updated>
+    <updated>2026-07-22T20:00:39+08:00</updated>
+        <entry>
+        <title>“星”派大电影</title>
+        <id>164543</id>
+        <link href="https://ficor.net/archives/52?utm_source=blogfinder" />
+        <published>2026-07-22T19:27:00+08:00</published>
+        <author>
+            <name>荒野菲克</name>
+            <uri>https://ficor.net</uri>
+        </author>
+        <summary type="text"><![CDATA[“星”派大电影]]></summary>
+    </entry>
         <entry>
         <title>《随感言论杂录2607-2》</title>
         <id>164536</id>
@@ -33,6 +44,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[越来越多的孩子与家长看淡学历了]]></summary>
+    </entry>
+        <entry>
+        <title>2026.7.21</title>
+        <id>164542</id>
+        <link href="https://www.justzht.com/2026-7-21/?utm_source=blogfinder" />
+        <published>2026-07-22T14:51:50+08:00</published>
+        <author>
+            <name>JustZht</name>
+            <uri>https://www.justzht.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026.7.21]]></summary>
     </entry>
         <entry>
         <title>我今天才知道……</title>
@@ -132,6 +154,17 @@
             <uri>https://boguan.site</uri>
         </author>
         <summary type="text"><![CDATA[[文章] 孙宇晨2026投资观点全梳理：从比特币、AI基础设施到具身智能与太空探索]]></summary>
+    </entry>
+        <entry>
+        <title>离职复盘：我不愿用人生窗口期，兑换无尽的内耗与透支</title>
+        <id>164541</id>
+        <link href="https://www.cry33.com/archives/1345.html?utm_source=blogfinder" />
+        <published>2026-07-22T04:37:39+08:00</published>
+        <author>
+            <name>逍遥隐士</name>
+            <uri>https://www.cry33.com</uri>
+        </author>
+        <summary type="text"><![CDATA[离职复盘：我不愿用人生窗口期，兑换无尽的内耗与透支]]></summary>
     </entry>
         <entry>
         <title>百度开源 Unlimited-OCR：一键搞定任意长度文档的高精度 OCR 模型</title>
@@ -1463,82 +1496,5 @@
             <uri>https://nicksxs.me</uri>
         </author>
         <summary type="text"><![CDATA[记一个gitea推送失败的问题]]></summary>
-    </entry>
-        <entry>
-        <title>我为小说忙：（三）插件（读取部分）</title>
-        <id>164213</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1445/?utm_source=blogfinder" />
-        <published>2026-07-19T19:59:00+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[我为小说忙：（三）插件（读取部分）]]></summary>
-    </entry>
-        <entry>
-        <title>六月六日夏</title>
-        <id>164317</id>
-        <link href="https://ficor.net/archives/51?utm_source=blogfinder" />
-        <published>2026-07-19T19:58:00+08:00</published>
-        <author>
-            <name>荒野菲克</name>
-            <uri>https://ficor.net</uri>
-        </author>
-        <summary type="text"><![CDATA[六月六日夏]]></summary>
-    </entry>
-        <entry>
-        <title>NAS服务器系统迁移回Debian 13</title>
-        <id>164322</id>
-        <link href="https://eduardoqian.com/archives/nasfu-wu-qi-xi-tong-qian-yi-hui-debian-13?utm_source=blogfinder" />
-        <published>2026-07-19T19:13:00+08:00</published>
-        <author>
-            <name>司云有崖</name>
-            <uri>https://eduardoqian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[NAS服务器系统迁移回Debian 13]]></summary>
-    </entry>
-        <entry>
-        <title>发布 @xingwangzhe/satteri-mermaid：剔除mermaid.js，用Rust原生渲染流程图，构建时产出纯静态SVG</title>
-        <id>164255</id>
-        <link href="https://xingwangzhe.fun/posts/satteri-mermaid-npm-package/?utm_source=blogfinder" />
-        <published>2026-07-19T19:00:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[发布 @xingwangzhe/satteri-mermaid：剔除mermaid.js，用Rust原生渲染流程图，构建时产出纯静态SVG]]></summary>
-    </entry>
-        <entry>
-        <title>终其一生，做不完一场梦</title>
-        <id>164222</id>
-        <link href="https://xn--otsr53afot.com/posts/zqyszbwycm/?utm_source=blogfinder" />
-        <published>2026-07-19T18:43:00+08:00</published>
-        <author>
-            <name>老朝奉</name>
-            <uri>https://xn--otsr53afot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[终其一生，做不完一场梦]]></summary>
-    </entry>
-        <entry>
-        <title>王计兵的诗意记录充满着真实的声音</title>
-        <id>164204</id>
-        <link href="https://www.pgoj.top/archives/wang-ji-bing.html?utm_source=blogfinder" />
-        <published>2026-07-19T17:57:51+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[王计兵的诗意记录充满着真实的声音]]></summary>
-    </entry>
-        <entry>
-        <title>确实，天蝎座挺记仇的</title>
-        <id>164202</id>
-        <link href="https://blog.weasel6.cn/posts/scorpio/?utm_source=blogfinder" />
-        <published>2026-07-19T17:42:00+08:00</published>
-        <author>
-            <name>小黄的日记本</name>
-            <uri>https://blog.weasel6.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[确实，天蝎座挺记仇的]]></summary>
     </entry>
     </feed>
