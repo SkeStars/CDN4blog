@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-23T22:00:56+08:00</updated>
+    <updated>2026-07-24T00:03:10+08:00</updated>
+        <entry>
+        <title>无用命途：布谷鸟叫（可选屏蔽）</title>
+        <id>164654</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1444/?utm_source=blogfinder" />
+        <published>2026-07-23T23:54:33+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[无用命途：布谷鸟叫（可选屏蔽）]]></summary>
+    </entry>
+        <entry>
+        <title>Vercel更新Waline(1.41.3)失败问题</title>
+        <id>164655</id>
+        <link href="https://blog.lichenghao.cn/article/7o4qu64ln9fj?utm_source=blogfinder" />
+        <published>2026-07-23T23:52:43+08:00</published>
+        <author>
+            <name>故事的程序猿</name>
+            <uri>https://blog.lichenghao.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Vercel更新Waline(1.41.3)失败问题]]></summary>
+    </entry>
+        <entry>
+        <title>Windows 装机必备软件清单</title>
+        <id>164656</id>
+        <link href="https://blog.liseezn.top/windows-%e8%a3%85%e6%9c%ba%e5%bf%85%e5%a4%87%e8%bd%af%e4%bb%b6%e6%b8%85%e5%8d%95.html/?utm_source=blogfinder" />
+        <published>2026-07-23T23:13:29+08:00</published>
+        <author>
+            <name>Liseezn&#039;blog</name>
+            <uri>https://blog.liseezn.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Windows 装机必备软件清单]]></summary>
+    </entry>
+        <entry>
+        <title>虎皮鹦鹉会玩跑轮了</title>
+        <id>164650</id>
+        <link href="https://www.bufanz.com/20260723762.html?utm_source=blogfinder" />
+        <published>2026-07-23T21:56:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[虎皮鹦鹉会玩跑轮了]]></summary>
+    </entry>
+        <entry>
+        <title>是谁在傍晚二次渡劫</title>
+        <id>164653</id>
+        <link href="https://zhujay.com/talk/talk_detail.html?id=1265&amp;utm_source=blogfinder" />
+        <published>2026-07-23T19:24:54+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[是谁在傍晚二次渡劫]]></summary>
+    </entry>
         <entry>
         <title>缺少情感陪伴的老人容易上当</title>
         <id>164646</id>
@@ -275,6 +330,17 @@
             <uri>http://weiwuhui.com</uri>
         </author>
         <summary type="text"><![CDATA[都是抓“奴隶” 这两个游戏的内核是完全不同的]]></summary>
+    </entry>
+        <entry>
+        <title>事情要一件一件来</title>
+        <id>164652</id>
+        <link href="https://blog.solazy.me/20260722/?utm_source=blogfinder" />
+        <published>2026-07-22T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[事情要一件一件来]]></summary>
     </entry>
         <entry>
         <title>SpringBoot下载文件打不开问题</title>
@@ -572,6 +638,17 @@
             <uri>https://zhujay.com</uri>
         </author>
         <summary type="text"><![CDATA[2026 年度榜单前三奖杯效果图正式出炉]]></summary>
+    </entry>
+        <entry>
+        <title>妈妈提着东西追上来，我回头后泪崩</title>
+        <id>164651</id>
+        <link href="https://www.rua.ink/1359.html?utm_source=blogfinder" />
+        <published>2026-07-22T09:19:00+08:00</published>
+        <author>
+            <name>Mello 的赛博本子</name>
+            <uri>https://www.rua.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[妈妈提着东西追上来，我回头后泪崩]]></summary>
     </entry>
         <entry>
         <title>[文章] 孙宇晨2026投资观点全梳理：从比特币、AI基础设施到具身智能与太空探索</title>
@@ -1232,192 +1309,5 @@
             <uri>http://stuit.cn</uri>
         </author>
         <summary type="text"><![CDATA[台阶上钻出来的一株小草（20260523）]]></summary>
-    </entry>
-        <entry>
-        <title>另一种轻量的 Linux VPS 共享方案</title>
-        <id>164567</id>
-        <link href="https://tao.zz.ac/unix/multi-tenant-linux-v2.html?utm_source=blogfinder" />
-        <published>2026-07-21T00:00:00+08:00</published>
-        <author>
-            <name>涛叔</name>
-            <uri>https://tao.zz.ac</uri>
-        </author>
-        <summary type="text"><![CDATA[另一种轻量的 Linux VPS 共享方案]]></summary>
-    </entry>
-        <entry>
-        <title>transcribe.cpp：基于 GGML 的 C/C++ 语音识别推理引擎</title>
-        <id>164444</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-21/transcribe-cpp/?utm_source=blogfinder" />
-        <published>2026-07-21T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[transcribe.cpp：基于 GGML 的 C/C++ 语音识别推理引擎]]></summary>
-    </entry>
-        <entry>
-        <title>text-to-cad：AI驱动的CAD与机器人设计技能库</title>
-        <id>164443</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-21/text-to-cad/?utm_source=blogfinder" />
-        <published>2026-07-21T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[text-to-cad：AI驱动的CAD与机器人设计技能库]]></summary>
-    </entry>
-        <entry>
-        <title>Ontology Playground：微软开源的交互式本体图谱可视化与设计工具</title>
-        <id>164442</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-21/ontology-playground/?utm_source=blogfinder" />
-        <published>2026-07-21T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Ontology Playground：微软开源的交互式本体图谱可视化与设计工具]]></summary>
-    </entry>
-        <entry>
-        <title>Moonshine Voice：让语音交互真正属于所有人，端侧运行还比 Whisper 更准</title>
-        <id>164441</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-21/moonshine/?utm_source=blogfinder" />
-        <published>2026-07-21T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Moonshine Voice：让语音交互真正属于所有人，端侧运行还比 Whisper 更准]]></summary>
-    </entry>
-        <entry>
-        <title>img2threejs: 一张图片重建可交互的 Three.js 3D 模型</title>
-        <id>164440</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-21/img2threejs/?utm_source=blogfinder" />
-        <published>2026-07-21T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[img2threejs: 一张图片重建可交互的 Three.js 3D 模型]]></summary>
-    </entry>
-        <entry>
-        <title>i-have-adhd：让 AI 助手直击重点，告别冗长废话</title>
-        <id>164439</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-21/i-have-adhd/?utm_source=blogfinder" />
-        <published>2026-07-21T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[i-have-adhd：让 AI 助手直击重点，告别冗长废话]]></summary>
-    </entry>
-        <entry>
-        <title>Castor：终端驱动的智能电视视频推送利器</title>
-        <id>164438</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-21/castor/?utm_source=blogfinder" />
-        <published>2026-07-21T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Castor：终端驱动的智能电视视频推送利器]]></summary>
-    </entry>
-        <entry>
-        <title>Awesome Zhuiju Free：一份每日自动检测可用性的免费追剧资源索引</title>
-        <id>164437</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-21/awesome-zhuiju-free/?utm_source=blogfinder" />
-        <published>2026-07-21T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Awesome Zhuiju Free：一份每日自动检测可用性的免费追剧资源索引]]></summary>
-    </entry>
-        <entry>
-        <title>手动挡教程：起步、熄火处理、搭电</title>
-        <id>164344</id>
-        <link href="https://cyrusyip.org/zh-cn/posts/2026/07/21/manual-car-tutorial-start-stall-jump-start/?utm_source=blogfinder" />
-        <published>2026-07-21T00:00:00+08:00</published>
-        <author>
-            <name>叶寻的博客</name>
-            <uri>https://cyrusyip.org</uri>
-        </author>
-        <summary type="text"><![CDATA[手动挡教程：起步、熄火处理、搭电]]></summary>
-    </entry>
-        <entry>
-        <title>Openship: 开源一键部署平台, 推代码即上线</title>
-        <id>164334</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-21/openship/?utm_source=blogfinder" />
-        <published>2026-07-21T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Openship: 开源一键部署平台, 推代码即上线]]></summary>
-    </entry>
-        <entry>
-        <title>AstronRPA：讯飞开源企业级 RPA 桌面应用，支持低代码可视化流程设计</title>
-        <id>164333</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-21/astron-rpa/?utm_source=blogfinder" />
-        <published>2026-07-21T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[AstronRPA：讯飞开源企业级 RPA 桌面应用，支持低代码可视化流程设计]]></summary>
-    </entry>
-        <entry>
-        <title>百元行车记录仪DIY平替运动相机Vlog方案</title>
-        <id>164417</id>
-        <link href="https://ygz.ink/archives/5568.html?utm_source=blogfinder" />
-        <published>2026-07-20T23:43:35+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[百元行车记录仪DIY平替运动相机Vlog方案]]></summary>
-    </entry>
-        <entry>
-        <title>text2mermaid — 我做了一个用自然语言生成 Mermaid 图的网站：为什么做、怎么用、支持哪些图</title>
-        <id>164466</id>
-        <link href="https://xilidou.com/2026/07/20/text2mermaid/?utm_source=blogfinder" />
-        <published>2026-07-20T23:30:00+08:00</published>
-        <author>
-            <name>犀利豆的博客</name>
-            <uri>https://xilidou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[text2mermaid — 我做了一个用自然语言生成 Mermaid 图的网站：为什么做、怎么用、支持哪些图]]></summary>
-    </entry>
-        <entry>
-        <title>当广东荔枝下市，四川合江的才刚红透</title>
-        <id>164606</id>
-        <link href="https://macin.org/2026/07/20/he-jiang-li-zhi-2/?utm_source=blogfinder" />
-        <published>2026-07-20T23:17:17+08:00</published>
-        <author>
-            <name>Macin&#039;s Blog</name>
-            <uri>https://macin.org</uri>
-        </author>
-        <summary type="text"><![CDATA[当广东荔枝下市，四川合江的才刚红透]]></summary>
-    </entry>
-        <entry>
-        <title>壮了，还是胖了</title>
-        <id>164525</id>
-        <link href="https://blog.solazy.me/20260720/?utm_source=blogfinder" />
-        <published>2026-07-20T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[壮了，还是胖了]]></summary>
-    </entry>
-        <entry>
-        <title>通过.hk域名看当今两地互联网</title>
-        <id>164407</id>
-        <link href="http://www.auiou.com/relevant/00002171.jsp?utm_source=blogfinder" />
-        <published>2026-07-20T22:11:00+08:00</published>
-        <author>
-            <name>王志勇的 Blog</name>
-            <uri>http://www.auiou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[通过.hk域名看当今两地互联网]]></summary>
     </entry>
     </feed>
