@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-23T17:01:33+08:00</updated>
+    <updated>2026-07-23T20:00:37+08:00</updated>
+        <entry>
+        <title>无需服务器，让文件在各个设备自由流转——LocalSend</title>
+        <id>164613</id>
+        <link href="https://upxuu.com/posts/seed-file/?utm_source=blogfinder" />
+        <published>2026-07-23T17:44:34+08:00</published>
+        <author>
+            <name>UpXuu&#039;s blog</name>
+            <uri>https://upxuu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[无需服务器，让文件在各个设备自由流转——LocalSend]]></summary>
+    </entry>
+        <entry>
+        <title>通过右键菜单关机和睡眠 [Win11]</title>
+        <id>164611</id>
+        <link href="https://zooyoo.top/article/38/?utm_source=blogfinder" />
+        <published>2026-07-23T17:25:00+08:00</published>
+        <author>
+            <name>热衷于的博客</name>
+            <uri>https://zooyoo.top</uri>
+        </author>
+        <summary type="text"><![CDATA[通过右键菜单关机和睡眠 [Win11]]]></summary>
+    </entry>
+        <entry>
+        <title>小西天的美景</title>
+        <id>164607</id>
+        <link href="https://yishu-life.com/index.php/archives/514.html?utm_source=blogfinder" />
+        <published>2026-07-23T17:01:43+08:00</published>
+        <author>
+            <name>树下语</name>
+            <uri>https://yishu-life.com</uri>
+        </author>
+        <summary type="text"><![CDATA[小西天的美景]]></summary>
+    </entry>
+        <entry>
+        <title>自家娃口算不好 昨晚搞了一个口算的游戏</title>
+        <id>164612</id>
+        <link href="https://www.renhuali.cn/journal/cmrx76hcw00bfchujbcqj7ywd?utm_source=blogfinder" />
+        <published>2026-07-23T15:36:16+08:00</published>
+        <author>
+            <name>华立博客</name>
+            <uri>https://renhuali.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[自家娃口算不好 昨晚搞了一个口算的游戏]]></summary>
+    </entry>
         <entry>
         <title>ZR 集训 Day 7 – 模拟赛</title>
         <id>164605</id>
@@ -68,6 +112,39 @@
         <summary type="text"><![CDATA[深入剖析 Apache Pulsar：云原生消息平台的架构、存储与流处理融合]]></summary>
     </entry>
         <entry>
+        <title>腾讯miora上手：设计师又又又失业的一集？</title>
+        <id>164614</id>
+        <link href="https://blog.zhheo.com/p/lw65vj43.html?utm_source=blogfinder" />
+        <published>2026-07-23T11:31:16+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[腾讯miora上手：设计师又又又失业的一集？]]></summary>
+    </entry>
+        <entry>
+        <title>Mac 合盖不休眠：用 pmset 彻底禁止系统睡眠</title>
+        <id>164615</id>
+        <link href="https://blog.zhheo.com/p/xvupxvv6.html?utm_source=blogfinder" />
+        <published>2026-07-23T10:48:01+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Mac 合盖不休眠：用 pmset 彻底禁止系统睡眠]]></summary>
+    </entry>
+        <entry>
+        <title>Fisher 信息：相机标定真实数据实操</title>
+        <id>164608</id>
+        <link href="https://www.zywvvd.com/notes/study/camera-imaging/fisher-information-real/fisher-information-real/?utm_source=blogfinder" />
+        <published>2026-07-23T10:00:00+08:00</published>
+        <author>
+            <name>又见苍岚</name>
+            <uri>https://www.zywvvd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Fisher 信息：相机标定真实数据实操]]></summary>
+    </entry>
+        <entry>
         <title>AI 还原已故亲人，也制造精神病人？II</title>
         <id>164596</id>
         <link href="https://mobius.blog/25130.html?utm_source=blogfinder" />
@@ -88,6 +165,17 @@
             <uri>https://immarcus.com</uri>
         </author>
         <summary type="text"><![CDATA[疯狂的美国体育文化]]></summary>
+    </entry>
+        <entry>
+        <title>Giffgaff Sim 卡使用体验和注意事项</title>
+        <id>164610</id>
+        <link href="https://yesreho.com/giffgaff-sim/?utm_source=blogfinder" />
+        <published>2026-07-23T07:52:13+08:00</published>
+        <author>
+            <name>LookLeap</name>
+            <uri>https://yesreho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Giffgaff Sim 卡使用体验和注意事项]]></summary>
     </entry>
         <entry>
         <title>实用为基，搞一个场地预约系统</title>
@@ -308,6 +396,17 @@
             <uri>http://www.yveji.com</uri>
         </author>
         <summary type="text"><![CDATA[舞阳吃什么？]]></summary>
+    </entry>
+        <entry>
+        <title>别再用封禁 DevTools 来掩盖你的无能</title>
+        <id>164609</id>
+        <link href="https://blog.liuzhen932.top/posts/why-not-block-devtools/?utm_source=blogfinder" />
+        <published>2026-07-22T15:03:18+08:00</published>
+        <author>
+            <name>liuzhen932 的小窝</name>
+            <uri>https://blog.liuzhen932.top</uri>
+        </author>
+        <summary type="text"><![CDATA[别再用封禁 DevTools 来掩盖你的无能]]></summary>
     </entry>
         <entry>
         <title>2026.7.21</title>
@@ -1245,6 +1344,17 @@
         <summary type="text"><![CDATA[text2mermaid — 我做了一个用自然语言生成 Mermaid 图的网站：为什么做、怎么用、支持哪些图]]></summary>
     </entry>
         <entry>
+        <title>当广东荔枝下市，四川合江的才刚红透</title>
+        <id>164606</id>
+        <link href="https://macin.org/2026/07/20/he-jiang-li-zhi-2/?utm_source=blogfinder" />
+        <published>2026-07-20T23:17:17+08:00</published>
+        <author>
+            <name>Macin&#039;s Blog</name>
+            <uri>https://macin.org</uri>
+        </author>
+        <summary type="text"><![CDATA[当广东荔枝下市，四川合江的才刚红透]]></summary>
+    </entry>
+        <entry>
         <title>壮了，还是胖了</title>
         <id>164525</id>
         <link href="https://blog.solazy.me/20260720/?utm_source=blogfinder" />
@@ -1320,60 +1430,5 @@
             <uri>https://022220.xyz</uri>
         </author>
         <summary type="text"><![CDATA[GRUB优化：Windows+Ubuntu双系统引导配置指南]]></summary>
-    </entry>
-        <entry>
-        <title>向云端｜西南自驾02 - 婺源</title>
-        <id>164415</id>
-        <link href="https://blog.ops-coffee.com/r/2026-southwest-road-trip-02-wuyuan.html?utm_source=blogfinder" />
-        <published>2026-07-20T19:35:14+08:00</published>
-        <author>
-            <name>运维咖啡吧</name>
-            <uri>https://blog.ops-coffee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[向云端｜西南自驾02 - 婺源]]></summary>
-    </entry>
-        <entry>
-        <title>「说说」我这Windows10磁铁有格调</title>
-        <id>164405</id>
-        <link href="https://upxuu.com/talk/2026-07-20-我这window-10磁铁有格调/?utm_source=blogfinder" />
-        <published>2026-07-20T19:24:00+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[「说说」我这Windows10磁铁有格调]]></summary>
-    </entry>
-        <entry>
-        <title>熊猫小A: 凌晨终场哨一响我就直接蒙头大睡，缓了一天好点了。当赢球时，你感叹梅西的强大；当输...</title>
-        <id>164329</id>
-        <link href="https://blog.imalan.cn/archives/memo-20260720-1914/?utm_source=blogfinder" />
-        <published>2026-07-20T19:13:25+08:00</published>
-        <author>
-            <name>失眠海峡</name>
-            <uri>https://blog.imalan.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[熊猫小A: 凌晨终场哨一响我就直接蒙头大睡，缓了一天好点了。当赢球时，你感叹梅西的强大；当输...]]></summary>
-    </entry>
-        <entry>
-        <title>世界杯瞎话第六季——好球</title>
-        <id>164421</id>
-        <link href="https://pewae.com/2026/07/6th-world-cup-diray-4.html?utm_source=blogfinder" />
-        <published>2026-07-20T18:46:15+08:00</published>
-        <author>
-            <name>破袜子</name>
-            <uri>https://pewae.com</uri>
-        </author>
-        <summary type="text"><![CDATA[世界杯瞎话第六季——好球]]></summary>
-    </entry>
-        <entry>
-        <title>闪游：开元寺-泉州</title>
-        <id>164423</id>
-        <link href="https://yishu-life.com/index.php/archives/487.html?utm_source=blogfinder" />
-        <published>2026-07-20T18:33:48+08:00</published>
-        <author>
-            <name>树下语</name>
-            <uri>https://yishu-life.com</uri>
-        </author>
-        <summary type="text"><![CDATA[闪游：开元寺-泉州]]></summary>
     </entry>
     </feed>
