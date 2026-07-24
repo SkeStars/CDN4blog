@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-24T23:03:04+08:00</updated>
+    <updated>2026-07-25T00:00:44+08:00</updated>
+        <entry>
+        <title>Agent 架构设计</title>
+        <id>164831</id>
+        <link href="https://xilidou.com/2026/07/24/chat-agent/?utm_source=blogfinder" />
+        <published>2026-07-24T23:11:02+08:00</published>
+        <author>
+            <name>犀利豆的博客</name>
+            <uri>https://xilidou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Agent 架构设计]]></summary>
+    </entry>
+        <entry>
+        <title>人为什么要中庸 AI从一个意想不到的角度给了我雷霆一击</title>
+        <id>164825</id>
+        <link href="http://weiwuhui.com/10798.html?utm_source=blogfinder" />
+        <published>2026-07-24T23:06:26+08:00</published>
+        <author>
+            <name>扯氮集</name>
+            <uri>http://weiwuhui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[人为什么要中庸 AI从一个意想不到的角度给了我雷霆一击]]></summary>
+    </entry>
         <entry>
         <title>流量不够用？大流量卡免费领</title>
         <id>164823</id>
@@ -121,6 +143,17 @@
             <uri>https://dahaishiguang.cn</uri>
         </author>
         <summary type="text"><![CDATA[Kindle Colorsoft 半个月体验]]></summary>
+    </entry>
+        <entry>
+        <title>骑行的尽头是折叠车，应验啦～</title>
+        <id>164830</id>
+        <link href="https://blog.lichenghao.cn/article/bpt8rlyktk1s?utm_source=blogfinder" />
+        <published>2026-07-24T16:24:55+08:00</published>
+        <author>
+            <name>故事的程序猿</name>
+            <uri>https://blog.lichenghao.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[骑行的尽头是折叠车，应验啦～]]></summary>
     </entry>
         <entry>
         <title>矩阵分解 -3- 方法综述</title>
@@ -343,6 +376,17 @@
         <summary type="text"><![CDATA[很想写些荷尔蒙很强的东西]]></summary>
     </entry>
         <entry>
+        <title>AI 浪潮下的职业焦虑、产品实践与人生选择</title>
+        <id>164826</id>
+        <link href="https://innei.in/notes/217?utm_source=blogfinder" />
+        <published>2026-07-24T01:17:08+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[AI 浪潮下的职业焦虑、产品实践与人生选择]]></summary>
+    </entry>
+        <entry>
         <title>有双无形的大手，扼住了我的喉咙</title>
         <id>164770</id>
         <link href="https://blog.weasel6.cn/posts/life-hand/?utm_source=blogfinder" />
@@ -363,6 +407,17 @@
             <uri>https://blog.zhecydn.asia</uri>
         </author>
         <summary type="text"><![CDATA[edgeone配置加速s3 cloudflare r2对象存储（水）]]></summary>
+    </entry>
+        <entry>
+        <title>讀《1973 年的彈子球》</title>
+        <id>164827</id>
+        <link href="https://blog.verdant.ee/posts/1973-nen-no-pin-bo-ru/?utm_source=blogfinder" />
+        <published>2026-07-24T00:00:00+08:00</published>
+        <author>
+            <name>映屿</name>
+            <uri>https://blog.verdant.ee</uri>
+        </author>
+        <summary type="text"><![CDATA[讀《1973 年的彈子球》]]></summary>
     </entry>
         <entry>
         <title>OpenCodeReview：阿里开源的 AI 代码评审工具，精度更高、Token 消耗仅通用 Agent 的 1/9</title>
@@ -1375,148 +1430,5 @@
             <uri>https://qthinker.net</uri>
         </author>
         <summary type="text"><![CDATA[随思 #107 - 2026-07-21]]></summary>
-    </entry>
-        <entry>
-        <title>wloc：一行不改 GPS 也能改定位？深挖 Apple 网络定位（WLOC）虚拟定位黑科技</title>
-        <id>164578</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-22/wloc/?utm_source=blogfinder" />
-        <published>2026-07-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[wloc：一行不改 GPS 也能改定位？深挖 Apple 网络定位（WLOC）虚拟定位黑科技]]></summary>
-    </entry>
-        <entry>
-        <title>TradingView MCP：用 Claude Code 接管你本地的 TradingView 图表</title>
-        <id>164577</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-22/tradingview-mcp/?utm_source=blogfinder" />
-        <published>2026-07-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[TradingView MCP：用 Claude Code 接管你本地的 TradingView 图表]]></summary>
-    </entry>
-        <entry>
-        <title>SkillOpt：用训练神经网络的思路优化 Agent 技能文档</title>
-        <id>164576</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-22/skillopt/?utm_source=blogfinder" />
-        <published>2026-07-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[SkillOpt：用训练神经网络的思路优化 Agent 技能文档]]></summary>
-    </entry>
-        <entry>
-        <title>llmfit：智能匹配你的硬件与大语言模型</title>
-        <id>164575</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-22/llmfit/?utm_source=blogfinder" />
-        <published>2026-07-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[llmfit：智能匹配你的硬件与大语言模型]]></summary>
-    </entry>
-        <entry>
-        <title>Kimi Code CLI：月之暗面出品的开箱即用的终端 AI 编程智能体</title>
-        <id>164574</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-22/kimi-code/?utm_source=blogfinder" />
-        <published>2026-07-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Kimi Code CLI：月之暗面出品的开箱即用的终端 AI 编程智能体]]></summary>
-    </entry>
-        <entry>
-        <title>Hyprland：打造最炫酷的 Wayland 动态平铺窗口管理器</title>
-        <id>164573</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-22/hyprland/?utm_source=blogfinder" />
-        <published>2026-07-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Hyprland：打造最炫酷的 Wayland 动态平铺窗口管理器]]></summary>
-    </entry>
-        <entry>
-        <title>Harness Engineering：通过环境塑造让 AI Agent 输出质量提升 100 倍</title>
-        <id>164572</id>
-        <link href="http://blog.xlap.top/post/tech/harness-engineering/?utm_source=blogfinder" />
-        <published>2026-07-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Harness Engineering：通过环境塑造让 AI Agent 输出质量提升 100 倍]]></summary>
-    </entry>
-        <entry>
-        <title>croc：一行命令在任意两台电脑间安全传输文件</title>
-        <id>164571</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-22/croc/?utm_source=blogfinder" />
-        <published>2026-07-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[croc：一行命令在任意两台电脑间安全传输文件]]></summary>
-    </entry>
-        <entry>
-        <title>Buzz：人类与 AI Agent 协作的下一代工作空间</title>
-        <id>164570</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-22/buzz/?utm_source=blogfinder" />
-        <published>2026-07-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Buzz：人类与 AI Agent 协作的下一代工作空间]]></summary>
-    </entry>
-        <entry>
-        <title>使用 DDNS 动态更新 ZZ.AC 域名</title>
-        <id>164566</id>
-        <link href="https://tao.zz.ac/zz/ddns.html?utm_source=blogfinder" />
-        <published>2026-07-22T00:00:00+08:00</published>
-        <author>
-            <name>涛叔</name>
-            <uri>https://tao.zz.ac</uri>
-        </author>
-        <summary type="text"><![CDATA[使用 DDNS 动态更新 ZZ.AC 域名]]></summary>
-    </entry>
-        <entry>
-        <title>百度开源 Unlimited-OCR：一键搞定任意长度文档的高精度 OCR 模型</title>
-        <id>164436</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-22/unlimited-ocr/?utm_source=blogfinder" />
-        <published>2026-07-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[百度开源 Unlimited-OCR：一键搞定任意长度文档的高精度 OCR 模型]]></summary>
-    </entry>
-        <entry>
-        <title>opencodex：一款通用大模型代理网关，让 Codex 自由切换任意 LLM</title>
-        <id>164435</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-22/opencodex/?utm_source=blogfinder" />
-        <published>2026-07-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[opencodex：一款通用大模型代理网关，让 Codex 自由切换任意 LLM]]></summary>
-    </entry>
-        <entry>
-        <title>2026 徽章猎人【年度猎王】奖杯效果图正式出炉</title>
-        <id>164522</id>
-        <link href="https://zhujay.com/talk/talk_detail.html?id=1263&amp;utm_source=blogfinder" />
-        <published>2026-07-21T23:34:43+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026 徽章猎人【年度猎王】奖杯效果图正式出炉]]></summary>
     </entry>
     </feed>
