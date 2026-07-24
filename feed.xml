@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-24T15:00:32+08:00</updated>
+    <updated>2026-07-24T17:00:55+08:00</updated>
+        <entry>
+        <title>矩阵分解 -3- 方法综述</title>
+        <id>164785</id>
+        <link href="https://www.zywvvd.com/notes/study/linear-algebra/matrix-decomp/matrix-decomp-overview/matrix-decomp-overview/?utm_source=blogfinder" />
+        <published>2026-07-24T15:00:00+08:00</published>
+        <author>
+            <name>又见苍岚</name>
+            <uri>https://www.zywvvd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[矩阵分解 -3- 方法综述]]></summary>
+    </entry>
+        <entry>
+        <title>区间 DP、树形 DP</title>
+        <id>164784</id>
+        <link href="https://blog.ooliver.cn/%e5%8c%ba%e9%97%b4-dp%e3%80%81%e6%a0%91%e5%bd%a2-dp/?utm_source=blogfinder" />
+        <published>2026-07-24T14:40:56+08:00</published>
+        <author>
+            <name>ooliver 的博客</name>
+            <uri>https://blog.ooliver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[区间 DP、树形 DP]]></summary>
+    </entry>
         <entry>
         <title>读《女国土局长》《机关滋味》</title>
         <id>164779</id>
@@ -66,6 +88,28 @@
             <uri>https://zhujay.com</uri>
         </author>
         <summary type="text"><![CDATA[褪去流量滤镜，读懂《功夫女足》：周星驰从未辜负平凡的梦想]]></summary>
+    </entry>
+        <entry>
+        <title>本地部署 Qwen3-TTS 读取字幕文件为视频配音</title>
+        <id>164786</id>
+        <link href="https://www.nekopara.uk/archives/Qwen3-TTS_dubbing.html?utm_source=blogfinder" />
+        <published>2026-07-24T09:36:00+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[本地部署 Qwen3-TTS 读取字幕文件为视频配音]]></summary>
+    </entry>
+        <entry>
+        <title>日照值得一玩</title>
+        <id>164783</id>
+        <link href="https://www.gujishe.com/archives/73.html?utm_source=blogfinder" />
+        <published>2026-07-24T09:16:16+08:00</published>
+        <author>
+            <name>咕唧舍</name>
+            <uri>https://www.gujishe.com</uri>
+        </author>
+        <summary type="text"><![CDATA[日照值得一玩]]></summary>
     </entry>
         <entry>
         <title>为了反对而反对的人，如何反对为了反对而反对他们的人？</title>
@@ -187,6 +231,17 @@
             <uri>https://blog.liseezn.top</uri>
         </author>
         <summary type="text"><![CDATA[Windows 装机必备软件清单]]></summary>
+    </entry>
+        <entry>
+        <title>家长会之暗人不说明话</title>
+        <id>164782</id>
+        <link href="https://pewae.com/2026/07/twenty-second-parents-and-teachers-committee.html?utm_source=blogfinder" />
+        <published>2026-07-23T22:57:44+08:00</published>
+        <author>
+            <name>破袜子</name>
+            <uri>https://pewae.com</uri>
+        </author>
+        <summary type="text"><![CDATA[家长会之暗人不说明话]]></summary>
     </entry>
         <entry>
         <title>【26年29周记】梅开二度、高强度衔接班</title>
@@ -1452,16 +1507,5 @@
             <uri>https://www.luming.cool</uri>
         </author>
         <summary type="text"><![CDATA[关于 7 月 20 日异常发送通知邮件的说明]]></summary>
-    </entry>
-        <entry>
-        <title>记一次离谱的服务器迁移</title>
-        <id>164432</id>
-        <link href="https://www.luming.cool/posts/2026/07/108?utm_source=blogfinder" />
-        <published>2026-07-21T16:15:00+08:00</published>
-        <author>
-            <name>路明笔记</name>
-            <uri>https://www.luming.cool</uri>
-        </author>
-        <summary type="text"><![CDATA[记一次离谱的服务器迁移]]></summary>
     </entry>
     </feed>
