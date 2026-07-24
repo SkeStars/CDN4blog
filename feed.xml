@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-24T17:00:55+08:00</updated>
+    <updated>2026-07-24T20:00:57+08:00</updated>
+        <entry>
+        <title>T2I 开源生图的新王 Krea2</title>
+        <id>164813</id>
+        <link href="https://eduardoqian.com/archives/t2i-xin-wang-chu-xian-krea2?utm_source=blogfinder" />
+        <published>2026-07-24T19:56:59+08:00</published>
+        <author>
+            <name>司云有崖</name>
+            <uri>https://eduardoqian.com</uri>
+        </author>
+        <summary type="text"><![CDATA[T2I 开源生图的新王 Krea2]]></summary>
+    </entry>
+        <entry>
+        <title>写一个所谓的通用状态机</title>
+        <id>164809</id>
+        <link href="https://www.bytecho.net/archives/state_machine.html?utm_source=blogfinder" />
+        <published>2026-07-24T17:00:00+08:00</published>
+        <author>
+            <name>字节星球</name>
+            <uri>https://www.bytecho.net</uri>
+        </author>
+        <summary type="text"><![CDATA[写一个所谓的通用状态机]]></summary>
+    </entry>
+        <entry>
+        <title>嗯，要少刷抖音</title>
+        <id>164810</id>
+        <link href="https://blog.biecui.com/37.html?utm_source=blogfinder" />
+        <published>2026-07-24T16:47:00+08:00</published>
+        <author>
+            <name>别催</name>
+            <uri>https://blog.biecui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[嗯，要少刷抖音]]></summary>
+    </entry>
         <entry>
         <title>矩阵分解 -3- 方法综述</title>
         <id>164785</id>
@@ -24,6 +57,17 @@
         <summary type="text"><![CDATA[矩阵分解 -3- 方法综述]]></summary>
     </entry>
         <entry>
+        <title>续租合约的坑</title>
+        <id>164807</id>
+        <link href="https://liuqingwushui.top/archives/176/?utm_source=blogfinder" />
+        <published>2026-07-24T14:47:50+08:00</published>
+        <author>
+            <name>流情的博客</name>
+            <uri>https://liuqingwushui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[续租合约的坑]]></summary>
+    </entry>
+        <entry>
         <title>区间 DP、树形 DP</title>
         <id>164784</id>
         <link href="https://blog.ooliver.cn/%e5%8c%ba%e9%97%b4-dp%e3%80%81%e6%a0%91%e5%bd%a2-dp/?utm_source=blogfinder" />
@@ -33,6 +77,17 @@
             <uri>https://blog.ooliver.cn</uri>
         </author>
         <summary type="text"><![CDATA[区间 DP、树形 DP]]></summary>
+    </entry>
+        <entry>
+        <title>云低垂 草色青</title>
+        <id>164812</id>
+        <link href="https://xn--otsr53afot.com/posts/ydccsq/?utm_source=blogfinder" />
+        <published>2026-07-24T14:35:47+08:00</published>
+        <author>
+            <name>老朝奉</name>
+            <uri>https://xn--otsr53afot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[云低垂 草色青]]></summary>
     </entry>
         <entry>
         <title>读《女国土局长》《机关滋味》</title>
@@ -55,6 +110,17 @@
             <uri>https://zooyoo.top</uri>
         </author>
         <summary type="text"><![CDATA[“视觉中国”居然不是中国的？]]></summary>
+    </entry>
+        <entry>
+        <title>从 800U 到爆仓：过度交易和扛单，最后还是把账户做没了</title>
+        <id>164811</id>
+        <link href="https://blog.forecho.com/from-800u-to-liquidation-overtrading-countertrend.html?utm_source=blogfinder" />
+        <published>2026-07-24T10:00:00+08:00</published>
+        <author>
+            <name>forecho&#039;s Blog</name>
+            <uri>https://blog.forecho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[从 800U 到爆仓：过度交易和扛单，最后还是把账户做没了]]></summary>
     </entry>
         <entry>
         <title>记不清上次看见彩虹是什么时候了</title>
@@ -154,6 +220,17 @@
             <uri>https://wiki.eryajf.net</uri>
         </author>
         <summary type="text"><![CDATA[学习周刊-总第273期-2026年第30周]]></summary>
+    </entry>
+        <entry>
+        <title>很想写些荷尔蒙很强的东西</title>
+        <id>164808</id>
+        <link href="https://d-d.design/single/19816?utm_source=blogfinder" />
+        <published>2026-07-24T04:26:03+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[很想写些荷尔蒙很强的东西]]></summary>
     </entry>
         <entry>
         <title>有双无形的大手，扼住了我的喉咙</title>
@@ -1386,126 +1463,5 @@
             <uri>http://weiwuhui.com</uri>
         </author>
         <summary type="text"><![CDATA[TRAE Work已正式上岗 成为我的教学小助理]]></summary>
-    </entry>
-        <entry>
-        <title>把新域名换到赛博菩萨了，也换新主机了</title>
-        <id>164589</id>
-        <link href="https://chenbozheng.com/ss/1647.html?utm_source=blogfinder" />
-        <published>2026-07-21T19:58:12+08:00</published>
-        <author>
-            <name>伯正博客</name>
-            <uri>https://chenbozheng.com</uri>
-        </author>
-        <summary type="text"><![CDATA[把新域名换到赛博菩萨了，也换新主机了]]></summary>
-    </entry>
-        <entry>
-        <title>四川地区室外太阳下温度超50度！</title>
-        <id>164430</id>
-        <link href="https://www.bufanz.com/20260721759.html?utm_source=blogfinder" />
-        <published>2026-07-21T19:05:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[四川地区室外太阳下温度超50度！]]></summary>
-    </entry>
-        <entry>
-        <title>父范学堂 2630 动脑还是动气</title>
-        <id>164526</id>
-        <link href="https://conge.livingwithfcs.org/2026/07/21/NewDaddy-conflicts/?utm_source=blogfinder" />
-        <published>2026-07-21T18:50:20+08:00</published>
-        <author>
-            <name>Conge</name>
-            <uri>https://conge.livingwithfcs.org</uri>
-        </author>
-        <summary type="text"><![CDATA[父范学堂 2630 动脑还是动气]]></summary>
-    </entry>
-        <entry>
-        <title>解放@初三毕业后的闲杂日记</title>
-        <id>164447</id>
-        <link href="https://note.redcha.cn/archives/jie-fang-chu-san-bi-ye-hou-de-xian-za-ri-ji?utm_source=blogfinder" />
-        <published>2026-07-21T18:45:09+08:00</published>
-        <author>
-            <name>彬红茶日记</name>
-            <uri>https://note.redcha.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[解放@初三毕业后的闲杂日记]]></summary>
-    </entry>
-        <entry>
-        <title>为什么我又从 Twikoo 换回了 Artalk</title>
-        <id>164446</id>
-        <link href="https://blog.liuzhen932.top/posts/why-i-switched-back-from-twikoo-to-artalk/?utm_source=blogfinder" />
-        <published>2026-07-21T18:30:00+08:00</published>
-        <author>
-            <name>liuzhen932 的小窝</name>
-            <uri>https://blog.liuzhen932.top</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么我又从 Twikoo 换回了 Artalk]]></summary>
-    </entry>
-        <entry>
-        <title>灵栖洞仙琢奇石，葫芦峡浪卷飞舟</title>
-        <id>164424</id>
-        <link href="https://dujun.io/df99df0b-8df0-5f0b-914c-f2b7cf7c08ba.html?utm_source=blogfinder" />
-        <published>2026-07-21T18:06:00+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[灵栖洞仙琢奇石，葫芦峡浪卷飞舟]]></summary>
-    </entry>
-        <entry>
-        <title>新起点，新时代，新故事</title>
-        <id>164431</id>
-        <link href="https://www.vergilisme.com/index.php/2026/07/21/2402.html?utm_source=blogfinder" />
-        <published>2026-07-21T17:40:00+08:00</published>
-        <author>
-            <name>八咫乌</name>
-            <uri>https://www.vergilisme.com</uri>
-        </author>
-        <summary type="text"><![CDATA[新起点，新时代，新故事]]></summary>
-    </entry>
-        <entry>
-        <title>使用必应搜索：一年兑换300元猫超卡/盒马卡/沃尔玛卡/KFC消费券/麦德龙消费券</title>
-        <id>164533</id>
-        <link href="https://lklog.cn/chat/1432.html?utm_source=blogfinder" />
-        <published>2026-07-21T17:36:18+08:00</published>
-        <author>
-            <name>龙鲲博客</name>
-            <uri>https://lklog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[使用必应搜索：一年兑换300元猫超卡/盒马卡/沃尔玛卡/KFC消费券/麦德龙消费券]]></summary>
-    </entry>
-        <entry>
-        <title>前几天拍的北京的绝美的晚霞，分享一下</title>
-        <id>164464</id>
-        <link href="https://www.lifd.site/2026/07/qian-ji-tian-pai-de-bei-jing-de-jue-mei-di-wan-xia-fen-xiang-yi-xia/?utm_source=blogfinder" />
-        <published>2026-07-21T17:32:18+08:00</published>
-        <author>
-            <name>LiFD</name>
-            <uri>https://www.lifd.site</uri>
-        </author>
-        <summary type="text"><![CDATA[前几天拍的北京的绝美的晚霞，分享一下]]></summary>
-    </entry>
-        <entry>
-        <title>致敬「书格」，兼述桑下書集的愿景与短期打算</title>
-        <id>164457</id>
-        <link href="https://weiqiang.org/zh/2026-07-19-road-of-sangxia-shuji.html?utm_source=blogfinder" />
-        <published>2026-07-21T17:21:00+08:00</published>
-        <author>
-            <name>村野闲居</name>
-            <uri>https://weiqiang.org</uri>
-        </author>
-        <summary type="text"><![CDATA[致敬「书格」，兼述桑下書集的愿景与短期打算]]></summary>
-    </entry>
-        <entry>
-        <title>关于 7 月 20 日异常发送通知邮件的说明</title>
-        <id>164535</id>
-        <link href="https://www.luming.cool/posts/2026/07/explanation-regarding-abnormal-email-sending?utm_source=blogfinder" />
-        <published>2026-07-21T17:05:00+08:00</published>
-        <author>
-            <name>路明笔记</name>
-            <uri>https://www.luming.cool</uri>
-        </author>
-        <summary type="text"><![CDATA[关于 7 月 20 日异常发送通知邮件的说明]]></summary>
     </entry>
     </feed>
