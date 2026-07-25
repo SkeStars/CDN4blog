@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-25T20:00:13+08:00</updated>
+    <updated>2026-07-25T22:00:35+08:00</updated>
+        <entry>
+        <title>厕所</title>
+        <id>164892</id>
+        <link href="https://mobius.blog/25199.html?utm_source=blogfinder" />
+        <published>2026-07-25T19:50:30+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[厕所]]></summary>
+    </entry>
+        <entry>
+        <title>狗屁倒灶的政治正确</title>
+        <id>164893</id>
+        <link href="https://ichov.com/blog/goupidaozaode.html?utm_source=blogfinder" />
+        <published>2026-07-25T18:44:44+08:00</published>
+        <author>
+            <name>江子渔</name>
+            <uri>https://ichov.com</uri>
+        </author>
+        <summary type="text"><![CDATA[狗屁倒灶的政治正确]]></summary>
+    </entry>
         <entry>
         <title>一次高铁旅程，看清某些素质低下的家教和教育程度👎</title>
         <id>164890</id>
@@ -1562,38 +1584,5 @@
             <uri>https://qaqbuyan.com:88</uri>
         </author>
         <summary type="text"><![CDATA[Linux内核网络协议栈数据包全链路流转与DDoS攻防防护]]></summary>
-    </entry>
-        <entry>
-        <title>世界杯散场以后</title>
-        <id>164676</id>
-        <link href="https://n2g.cn/posts/worldcup/?utm_source=blogfinder" />
-        <published>2026-07-22T20:42:00+08:00</published>
-        <author>
-            <name>Xio&#039;s</name>
-            <uri>https://n2g.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[世界杯散场以后]]></summary>
-    </entry>
-        <entry>
-        <title>Red Hat 8 / Rocky Linux 配置国内软件源</title>
-        <id>164551</id>
-        <link href="https://www.sunzhongwei.com/red-hat-rocky-linux-configuration-domestic-software-sources?utm_source=blogfinder" />
-        <published>2026-07-22T20:38:46+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Red Hat 8 / Rocky Linux 配置国内软件源]]></summary>
-    </entry>
-        <entry>
-        <title>今天游泳累炸了</title>
-        <id>164599</id>
-        <link href="https://blog.goodboyboy.top/posts/1191362153.html?utm_source=blogfinder" />
-        <published>2026-07-22T20:38:04+08:00</published>
-        <author>
-            <name>GoodBoyboy</name>
-            <uri>https://blog.goodboyboy.top</uri>
-        </author>
-        <summary type="text"><![CDATA[今天游泳累炸了]]></summary>
     </entry>
     </feed>
