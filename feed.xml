@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-26T23:00:44+08:00</updated>
+    <updated>2026-07-27T00:02:25+08:00</updated>
         <entry>
         <title>联想 G400 安装 Windows 7 折腾记录</title>
         <id>164951</id>
@@ -55,6 +55,17 @@
             <uri>https://fxpai.com</uri>
         </author>
         <summary type="text"><![CDATA[陪孩子九寨沟游学第一日]]></summary>
+    </entry>
+        <entry>
+        <title>断层里的心理学</title>
+        <id>164963</id>
+        <link href="https://blog.solazy.me/20260726/?utm_source=blogfinder" />
+        <published>2026-07-26T20:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[断层里的心理学]]></summary>
     </entry>
         <entry>
         <title>免费开通 Claude Max 20x plan Bug 复现教程</title>
@@ -200,6 +211,17 @@
         <summary type="text"><![CDATA[网站出现意外，恢复后部分评论遗失]]></summary>
     </entry>
         <entry>
+        <title>Tracks#1: Life</title>
+        <id>164965</id>
+        <link href="https://blog.verdant.ee/posts/tracks/1/?utm_source=blogfinder" />
+        <published>2026-07-26T08:00:00+08:00</published>
+        <author>
+            <name>映屿</name>
+            <uri>https://blog.verdant.ee</uri>
+        </author>
+        <summary type="text"><![CDATA[Tracks#1: Life]]></summary>
+    </entry>
+        <entry>
         <title>关于蒙需和友情链接页面的视觉改版</title>
         <id>164929</id>
         <link href="https://jiangcl.com/4857?utm_source=blogfinder" />
@@ -253,6 +275,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[Claude Scholar：面向 AI 科研人员的半自动化研究助理工作流]]></summary>
+    </entry>
+        <entry>
+        <title>周末流水账 0725</title>
+        <id>164964</id>
+        <link href="https://blog.solazy.me/20260725/?utm_source=blogfinder" />
+        <published>2026-07-25T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0725]]></summary>
     </entry>
         <entry>
         <title>人活着，到底为了什么？</title>
@@ -1364,159 +1397,5 @@
             <uri>https://blog.zhecydn.asia</uri>
         </author>
         <summary type="text"><![CDATA[edgeone配置加速s3 cloudflare r2对象存储（水）]]></summary>
-    </entry>
-        <entry>
-        <title>免费领取你的专属子域名：Stackryze FreeDomains 项目解析</title>
-        <id>164844</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-24/freedomains/?utm_source=blogfinder" />
-        <published>2026-07-24T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[免费领取你的专属子域名：Stackryze FreeDomains 项目解析]]></summary>
-    </entry>
-        <entry>
-        <title>video-shotcraft：将 AI 变成影视级产品视频工作室</title>
-        <id>164843</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-24/video-shotcraft/?utm_source=blogfinder" />
-        <published>2026-07-24T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[video-shotcraft：将 AI 变成影视级产品视频工作室]]></summary>
-    </entry>
-        <entry>
-        <title>Vercel 开源 Agent Skills：一套让 AI 编程助手变专业的技能包</title>
-        <id>164842</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-24/agent-skills/?utm_source=blogfinder" />
-        <published>2026-07-24T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Vercel 开源 Agent Skills：一套让 AI 编程助手变专业的技能包]]></summary>
-    </entry>
-        <entry>
-        <title>Superfile：现代化的终端文件管理器，让命令行操作更优雅</title>
-        <id>164841</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-24/superfile/?utm_source=blogfinder" />
-        <published>2026-07-24T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Superfile：现代化的终端文件管理器，让命令行操作更优雅]]></summary>
-    </entry>
-        <entry>
-        <title>Nature Skills：面向全球学者的科研 Agent Skill 库</title>
-        <id>164840</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-24/nature-skills/?utm_source=blogfinder" />
-        <published>2026-07-24T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Nature Skills：面向全球学者的科研 Agent Skill 库]]></summary>
-    </entry>
-        <entry>
-        <title>Harper：轻量级隐私优先的英语语法检查器</title>
-        <id>164839</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-24/harper/?utm_source=blogfinder" />
-        <published>2026-07-24T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Harper：轻量级隐私优先的英语语法检查器]]></summary>
-    </entry>
-        <entry>
-        <title>ARS-Codex：为学术研究者打造的 AI 助手套件</title>
-        <id>164838</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-24/academic-research-skills-codex/?utm_source=blogfinder" />
-        <published>2026-07-24T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[ARS-Codex：为学术研究者打造的 AI 助手套件]]></summary>
-    </entry>
-        <entry>
-        <title>用 /proc/pid/fd 追踪进程网络连接</title>
-        <id>164832</id>
-        <link href="https://lujun9972.github.io/blog/2026/07/22/用-proc-pid-fd-追踪进程网络连接/index.html?utm_source=blogfinder" />
-        <published>2026-07-24T00:00:00+08:00</published>
-        <author>
-            <name>暗无天日</name>
-            <uri>https://www.lujun9972.win</uri>
-        </author>
-        <summary type="text"><![CDATA[用 /proc/pid/fd 追踪进程网络连接]]></summary>
-    </entry>
-        <entry>
-        <title>讀《1973 年的彈子球》</title>
-        <id>164827</id>
-        <link href="https://blog.verdant.ee/posts/1973-nen-no-pin-bo-ru/?utm_source=blogfinder" />
-        <published>2026-07-24T00:00:00+08:00</published>
-        <author>
-            <name>映屿</name>
-            <uri>https://blog.verdant.ee</uri>
-        </author>
-        <summary type="text"><![CDATA[讀《1973 年的彈子球》]]></summary>
-    </entry>
-        <entry>
-        <title>OpenCodeReview：阿里开源的 AI 代码评审工具，精度更高、Token 消耗仅通用 Agent 的 1/9</title>
-        <id>164660</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-24/open-code-review/?utm_source=blogfinder" />
-        <published>2026-07-24T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenCodeReview：阿里开源的 AI 代码评审工具，精度更高、Token 消耗仅通用 Agent 的 1/9]]></summary>
-    </entry>
-        <entry>
-        <title>ego-lite：让你和 AI 代理并行浏览的智能浏览器</title>
-        <id>164659</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-24/ego-lite/?utm_source=blogfinder" />
-        <published>2026-07-24T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[ego-lite：让你和 AI 代理并行浏览的智能浏览器]]></summary>
-    </entry>
-        <entry>
-        <title>无用命途：布谷鸟叫（可选屏蔽）</title>
-        <id>164654</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1444/?utm_source=blogfinder" />
-        <published>2026-07-23T23:54:33+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[无用命途：布谷鸟叫（可选屏蔽）]]></summary>
-    </entry>
-        <entry>
-        <title>Vercel更新Waline(1.41.3)失败问题</title>
-        <id>164655</id>
-        <link href="https://blog.lichenghao.cn/article/7o4qu64ln9fj?utm_source=blogfinder" />
-        <published>2026-07-23T23:52:43+08:00</published>
-        <author>
-            <name>故事的程序猿</name>
-            <uri>https://blog.lichenghao.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Vercel更新Waline(1.41.3)失败问题]]></summary>
-    </entry>
-        <entry>
-        <title>Windows 装机必备软件清单</title>
-        <id>164656</id>
-        <link href="https://blog.liseezn.top/windows-%e8%a3%85%e6%9c%ba%e5%bf%85%e5%a4%87%e8%bd%af%e4%bb%b6%e6%b8%85%e5%8d%95.html/?utm_source=blogfinder" />
-        <published>2026-07-23T23:13:29+08:00</published>
-        <author>
-            <name>Liseezn&#039;blog</name>
-            <uri>https://blog.liseezn.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Windows 装机必备软件清单]]></summary>
     </entry>
     </feed>
