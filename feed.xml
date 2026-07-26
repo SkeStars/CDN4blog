@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-26T17:04:02+08:00</updated>
+    <updated>2026-07-26T19:01:51+08:00</updated>
+        <entry>
+        <title>02-GitHubPages的使用</title>
+        <id>164947</id>
+        <link href="https://blog.share888.top/note/efficiency/gitHub/02-GitHubPages的使用.html?utm_source=blogfinder" />
+        <published>2026-07-26T16:05:40+08:00</published>
+        <author>
+            <name>卡卡罗特</name>
+            <uri>https://blog.share888.top</uri>
+        </author>
+        <summary type="text"><![CDATA[02-GitHubPages的使用]]></summary>
+    </entry>
         <entry>
         <title>网吧复兴？</title>
         <id>164939</id>
@@ -44,6 +55,28 @@
             <uri>https://joojen.com</uri>
         </author>
         <summary type="text"><![CDATA[2026年上半年房地产数据发布]]></summary>
+    </entry>
+        <entry>
+        <title>最近惦念 20260716</title>
+        <id>164943</id>
+        <link href="https://z.arlmy.me/posts/TILs/thoughts/20260716_Recently/?utm_source=blogfinder" />
+        <published>2026-07-26T12:10:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[最近惦念 20260716]]></summary>
+    </entry>
+        <entry>
+        <title>Toots 429 2026 Jul.19 - Jul.25</title>
+        <id>164944</id>
+        <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260725/?utm_source=blogfinder" />
+        <published>2026-07-26T12:02:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[Toots 429 2026 Jul.19 - Jul.25]]></summary>
     </entry>
         <entry>
         <title>说说：昨天去看了扬州主场VS徐州的比赛，但是由于天气太热，身体不舒服，上半场…</title>
@@ -99,6 +132,17 @@
             <uri>https://jiangcl.com/</uri>
         </author>
         <summary type="text"><![CDATA[关于蒙需和友情链接页面的视觉改版]]></summary>
+    </entry>
+        <entry>
+        <title>Qexo 在线验证</title>
+        <id>164946</id>
+        <link href="https://hi-nikola.cn/2026/07/25/qexo-online-check/?utm_source=blogfinder" />
+        <published>2026-07-26T07:50:00+08:00</published>
+        <author>
+            <name>Nikola</name>
+            <uri>https://hi-nikola.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Qexo 在线验证]]></summary>
     </entry>
         <entry>
         <title>【故事】我给自己写了一只手</title>
@@ -1441,49 +1485,5 @@
             <uri>https://zhujay.com</uri>
         </author>
         <summary type="text"><![CDATA[是谁在傍晚二次渡劫]]></summary>
-    </entry>
-        <entry>
-        <title>缺少情感陪伴的老人容易上当</title>
-        <id>164646</id>
-        <link href="https://www.pgoj.top/archives/lao-ren-gou-wu.html?utm_source=blogfinder" />
-        <published>2026-07-23T18:30:47+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[缺少情感陪伴的老人容易上当]]></summary>
-    </entry>
-        <entry>
-        <title>无需服务器，让文件在各个设备自由流转——LocalSend</title>
-        <id>164613</id>
-        <link href="https://upxuu.com/posts/seed-file/?utm_source=blogfinder" />
-        <published>2026-07-23T17:44:34+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[无需服务器，让文件在各个设备自由流转——LocalSend]]></summary>
-    </entry>
-        <entry>
-        <title>四季与我</title>
-        <id>164776</id>
-        <link href="https://www.puresky.top/archives/VrE78Nk7?utm_source=blogfinder" />
-        <published>2026-07-23T17:39:51+08:00</published>
-        <author>
-            <name>轻雅阁</name>
-            <uri>https://www.puresky.top</uri>
-        </author>
-        <summary type="text"><![CDATA[四季与我]]></summary>
-    </entry>
-        <entry>
-        <title>通过右键菜单关机和睡眠 [Win11]</title>
-        <id>164611</id>
-        <link href="https://zooyoo.top/article/38/?utm_source=blogfinder" />
-        <published>2026-07-23T17:25:00+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[通过右键菜单关机和睡眠 [Win11]]]></summary>
     </entry>
     </feed>
