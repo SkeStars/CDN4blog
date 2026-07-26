@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-26T12:01:43+08:00</updated>
+    <updated>2026-07-26T15:00:16+08:00</updated>
+        <entry>
+        <title>说说：昨天去看了扬州主场VS徐州的比赛，但是由于天气太热，身体不舒服，上半场…</title>
+        <id>164936</id>
+        <link href="https://yigeboke.com/shuoshuo.php#shuo_37?utm_source=blogfinder" />
+        <published>2026-07-26T11:13:14+08:00</published>
+        <author>
+            <name>一个博客</name>
+            <uri>https://yigeboke.com</uri>
+        </author>
+        <summary type="text"><![CDATA[说说：昨天去看了扬州主场VS徐州的比赛，但是由于天气太热，身体不舒服，上半场…]]></summary>
+    </entry>
+        <entry>
+        <title>做规划与下功夫</title>
+        <id>164934</id>
+        <link href="https://blog.kfdzcoffee.cn/archives/composition-2?utm_source=blogfinder" />
+        <published>2026-07-26T09:17:24+08:00</published>
+        <author>
+            <name>咖啡豆子 coffee 的小站</name>
+            <uri>https://blog.kfdzcoffee.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[做规划与下功夫]]></summary>
+    </entry>
         <entry>
         <title>≡ 005｜这两周莫比乌斯环转到了哪里？</title>
         <id>164927</id>
@@ -198,6 +220,17 @@
             <uri>https://upxuu.com</uri>
         </author>
         <summary type="text"><![CDATA[一次高铁旅程，看清某些素质低下的家教和教育程度👎]]></summary>
+    </entry>
+        <entry>
+        <title>大熊猫送快递</title>
+        <id>164935</id>
+        <link href="https://blog.cytrogen.icu/posts/3a5e.html?utm_source=blogfinder" />
+        <published>2026-07-25T12:00:00+08:00</published>
+        <author>
+            <name>Cytrogen&#039;s Blog</name>
+            <uri>https://blog.cytrogen.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[大熊猫送快递]]></summary>
     </entry>
         <entry>
         <title>こんにちは、Astro</title>
@@ -1463,71 +1496,5 @@
             <uri>http://www.xulog.cn</uri>
         </author>
         <summary type="text"><![CDATA[吐槽10086]]></summary>
-    </entry>
-        <entry>
-        <title>给 Linux 上的 Chrome 打一针肾上腺素——我的 GPU 加速调优方案</title>
-        <id>164645</id>
-        <link href="https://xingwangzhe.fun/posts/chrome-linux-gpu-tuning/?utm_source=blogfinder" />
-        <published>2026-07-23T15:00:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[给 Linux 上的 Chrome 打一针肾上腺素——我的 GPU 加速调优方案]]></summary>
-    </entry>
-        <entry>
-        <title>高效办理车辆解除抵押手续</title>
-        <id>164602</id>
-        <link href="https://chidd.net/2026/07/23/jie-chu-di-ya.html?utm_source=blogfinder" />
-        <published>2026-07-23T14:57:51+08:00</published>
-        <author>
-            <name>伪医生律师的博客</name>
-            <uri>https://chidd.net</uri>
-        </author>
-        <summary type="text"><![CDATA[高效办理车辆解除抵押手续]]></summary>
-    </entry>
-        <entry>
-        <title>静态博客隐藏着一个容易被人忽略的隐私问题</title>
-        <id>164603</id>
-        <link href="https://www.suiyan.cc/blog/20260723143703?utm_source=blogfinder" />
-        <published>2026-07-23T14:37:03+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[静态博客隐藏着一个容易被人忽略的隐私问题]]></summary>
-    </entry>
-        <entry>
-        <title>【记录】虚拟机安装Debian</title>
-        <id>164604</id>
-        <link href="https://hexo.limour.top/installing-debian-on-vmware?utm_source=blogfinder" />
-        <published>2026-07-23T13:40:47+08:00</published>
-        <author>
-            <name>Limour&#039;s Blog</name>
-            <uri>https://hexo.limour.top</uri>
-        </author>
-        <summary type="text"><![CDATA[【记录】虚拟机安装Debian]]></summary>
-    </entry>
-        <entry>
-        <title>深入剖析 Apache Pulsar：云原生消息平台的架构、存储与流处理融合</title>
-        <id>164601</id>
-        <link href="https://www.aserver.cn/?post=174&amp;utm_source=blogfinder" />
-        <published>2026-07-23T13:25:17+08:00</published>
-        <author>
-            <name>俞事</name>
-            <uri>https://www.aserver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[深入剖析 Apache Pulsar：云原生消息平台的架构、存储与流处理融合]]></summary>
-    </entry>
-        <entry>
-        <title>chatgpt太夯了！终于手搓出属于自己的博客主题</title>
-        <id>164648</id>
-        <link href="https://dongjunke.cn/posts/2026/07/23/14600.html?utm_source=blogfinder" />
-        <published>2026-07-23T13:15:10+08:00</published>
-        <author>
-            <name>东评西就</name>
-            <uri>https://dongjunke.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[chatgpt太夯了！终于手搓出属于自己的博客主题]]></summary>
     </entry>
     </feed>
