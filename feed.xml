@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-27T16:00:16+08:00</updated>
+    <updated>2026-07-27T19:00:53+08:00</updated>
+        <entry>
+        <title>基于 TCC 写一个所谓的分布式事务#1</title>
+        <id>165059</id>
+        <link href="https://www.bytecho.net/archives/tcc_golang_1.html?utm_source=blogfinder" />
+        <published>2026-07-27T17:17:17+08:00</published>
+        <author>
+            <name>字节星球</name>
+            <uri>https://www.bytecho.net</uri>
+        </author>
+        <summary type="text"><![CDATA[基于 TCC 写一个所谓的分布式事务#1]]></summary>
+    </entry>
+        <entry>
+        <title>小小册子，情谊深深</title>
+        <id>165054</id>
+        <link href="https://zooyoo.top/article/42/?utm_source=blogfinder" />
+        <published>2026-07-27T16:35:00+08:00</published>
+        <author>
+            <name>热衷于的博客</name>
+            <uri>https://zooyoo.top</uri>
+        </author>
+        <summary type="text"><![CDATA[小小册子，情谊深深]]></summary>
+    </entry>
+        <entry>
+        <title>Webmanifest：给一处居所办理名姓</title>
+        <id>165055</id>
+        <link href="https://zooyoo.top/article/43/?utm_source=blogfinder" />
+        <published>2026-07-27T15:55:00+08:00</published>
+        <author>
+            <name>热衷于的博客</name>
+            <uri>https://zooyoo.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Webmanifest：给一处居所办理名姓]]></summary>
+    </entry>
         <entry>
         <title>没想到有一天被Handsome主题授权给坑了，授权机制拉爆服务器的CPU和负载</title>
         <id>165052</id>
@@ -22,6 +55,17 @@
             <uri>https://www.52txr.cn</uri>
         </author>
         <summary type="text"><![CDATA[没想到有一天被Handsome主题授权给坑了，授权机制拉爆服务器的CPU和负载]]></summary>
+    </entry>
+        <entry>
+        <title>Album#43 - 天使音乐 (Hint Notes)</title>
+        <id>165058</id>
+        <link href="https://taxodium.ink/album-43.html?utm_source=blogfinder" />
+        <published>2026-07-27T13:20:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[Album#43 - 天使音乐 (Hint Notes)]]></summary>
     </entry>
         <entry>
         <title>ZR 集训 Day11 – 矩阵、递推与动态 DP</title>
@@ -123,6 +167,17 @@
         <summary type="text"><![CDATA[从一次心电图异常看运动对心率的影响]]></summary>
     </entry>
         <entry>
+        <title>大脑充血 Vol.91</title>
+        <id>165057</id>
+        <link href="https://www.geedea.pro/weekly/91/?utm_source=blogfinder" />
+        <published>2026-07-27T08:10:59+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[大脑充血 Vol.91]]></summary>
+    </entry>
+        <entry>
         <title>Starryblu 注册教程</title>
         <id>165033</id>
         <link href="https://yesreho.com/starryblu-register/?utm_source=blogfinder" />
@@ -165,6 +220,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[PasarGuard：开源抗审查代理管理面板，统一管理 Xray 与 WireGuard]]></summary>
+    </entry>
+        <entry>
+        <title>重定向</title>
+        <id>165056</id>
+        <link href="https://ezo.biz/Diary/1510.html?utm_source=blogfinder" />
+        <published>2026-07-26T23:14:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[重定向]]></summary>
     </entry>
         <entry>
         <title>「说说」666 我微信有点炸了</title>
@@ -297,6 +363,17 @@
             <uri>https://blog.share888.top</uri>
         </author>
         <summary type="text"><![CDATA[02-GitHubPages的使用]]></summary>
+    </entry>
+        <entry>
+        <title>Vol.113 软件工厂的瓶颈从生成转向验证：自动化与人类判断的平衡</title>
+        <id>165053</id>
+        <link href="https://liduos.com/weekly/the-weekly-gradient-113?utm_source=blogfinder" />
+        <published>2026-07-26T16:00:00+08:00</published>
+        <author>
+            <name>莫尔索</name>
+            <uri>https://liduos.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Vol.113 软件工厂的瓶颈从生成转向验证：自动化与人类判断的平衡]]></summary>
     </entry>
         <entry>
         <title>「世界」一词真的是佛教带进汉语的吗？</title>
@@ -1397,82 +1474,5 @@
             <uri>https://upxuu.com</uri>
         </author>
         <summary type="text"><![CDATA[「说说」明天我将这辈子第一次自己出省玩😄]]></summary>
-    </entry>
-        <entry>
-        <title>《一声吆喝》</title>
-        <id>164886</id>
-        <link href="https://www.weiwenchao.com/2699.html?utm_source=blogfinder" />
-        <published>2026-07-24T18:18:00+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《一声吆喝》]]></summary>
-    </entry>
-        <entry>
-        <title>荷风送香气，竹露滴清响</title>
-        <id>164845</id>
-        <link href="https://blog.shaoxiao.net/2026/07/24/%e8%8a%b0%e8%8d%b7%e6%98%a0%e8%94%9a/?utm_source=blogfinder" />
-        <published>2026-07-24T17:34:01+08:00</published>
-        <author>
-            <name>喂马劈柴</name>
-            <uri>https://blog.shaoxiao.net</uri>
-        </author>
-        <summary type="text"><![CDATA[荷风送香气，竹露滴清响]]></summary>
-    </entry>
-        <entry>
-        <title>写一个所谓的通用状态机</title>
-        <id>164809</id>
-        <link href="https://www.bytecho.net/archives/state_machine.html?utm_source=blogfinder" />
-        <published>2026-07-24T17:00:00+08:00</published>
-        <author>
-            <name>字节星球</name>
-            <uri>https://www.bytecho.net</uri>
-        </author>
-        <summary type="text"><![CDATA[写一个所谓的通用状态机]]></summary>
-    </entry>
-        <entry>
-        <title>【26年30周记】小~调整——第n次博客微调计划</title>
-        <id>164824</id>
-        <link href="https://www.haoyu233.com/2563.html?utm_source=blogfinder" />
-        <published>2026-07-24T16:54:43+08:00</published>
-        <author>
-            <name>小改学习志</name>
-            <uri>https://www.haoyu233.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【26年30周记】小~调整——第n次博客微调计划]]></summary>
-    </entry>
-        <entry>
-        <title>嗯，要少刷抖音</title>
-        <id>164810</id>
-        <link href="https://blog.biecui.com/37.html?utm_source=blogfinder" />
-        <published>2026-07-24T16:47:00+08:00</published>
-        <author>
-            <name>别催</name>
-            <uri>https://blog.biecui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[嗯，要少刷抖音]]></summary>
-    </entry>
-        <entry>
-        <title>Kindle Colorsoft 半个月体验</title>
-        <id>164817</id>
-        <link href="https://dahaishiguang.cn/posts/853247/?utm_source=blogfinder" />
-        <published>2026-07-24T16:44:00+08:00</published>
-        <author>
-            <name>大海拾光</name>
-            <uri>https://dahaishiguang.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Kindle Colorsoft 半个月体验]]></summary>
-    </entry>
-        <entry>
-        <title>骑行的尽头是折叠车，应验啦～</title>
-        <id>164830</id>
-        <link href="https://blog.lichenghao.cn/article/bpt8rlyktk1s?utm_source=blogfinder" />
-        <published>2026-07-24T16:24:55+08:00</published>
-        <author>
-            <name>故事的程序猿</name>
-            <uri>https://blog.lichenghao.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[骑行的尽头是折叠车，应验啦～]]></summary>
     </entry>
     </feed>
