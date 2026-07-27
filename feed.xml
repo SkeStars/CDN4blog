@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-27T23:01:18+08:00</updated>
+    <updated>2026-07-28T00:03:06+08:00</updated>
+        <entry>
+        <title>我为小说忙：（四）插件（写入部分）</title>
+        <id>165076</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1457/?utm_source=blogfinder" />
+        <published>2026-07-27T23:59:16+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[我为小说忙：（四）插件（写入部分）]]></summary>
+    </entry>
+        <entry>
+        <title>Why me？</title>
+        <id>165075</id>
+        <link href="https://blog.solazy.me/20260727/?utm_source=blogfinder" />
+        <published>2026-07-27T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[Why me？]]></summary>
+    </entry>
         <entry>
         <title>每夫吐槽（118）</title>
         <id>165070</id>
@@ -22,6 +44,39 @@
             <uri>https://pewae.com</uri>
         </author>
         <summary type="text"><![CDATA[每夫吐槽（118）]]></summary>
+    </entry>
+        <entry>
+        <title>难题</title>
+        <id>165072</id>
+        <link href="https://ezo.biz/Diary/1514.html?utm_source=blogfinder" />
+        <published>2026-07-27T21:34:33+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[难题]]></summary>
+    </entry>
+        <entry>
+        <title>《我所理解的水下航行器》-摘要</title>
+        <id>165074</id>
+        <link href="https://blog.hantaotao.top/archives/205/?utm_source=blogfinder" />
+        <published>2026-07-27T20:40:00+08:00</published>
+        <author>
+            <name>一世繁华</name>
+            <uri>https://blog.hantaotao.top</uri>
+        </author>
+        <summary type="text"><![CDATA[《我所理解的水下航行器》-摘要]]></summary>
+    </entry>
+        <entry>
+        <title>七月记</title>
+        <id>165073</id>
+        <link href="https://www.luming.cool/posts/2026/07/july?utm_source=blogfinder" />
+        <published>2026-07-27T20:40:00+08:00</published>
+        <author>
+            <name>路明笔记</name>
+            <uri>https://www.luming.cool</uri>
+        </author>
+        <summary type="text"><![CDATA[七月记]]></summary>
     </entry>
         <entry>
         <title>福利羊毛：下载蚂蚁阿福 1 分钱领 AI 体脂秤</title>
@@ -1331,137 +1386,5 @@
             <uri>https://seo.g2soft.net</uri>
         </author>
         <summary type="text"><![CDATA[安装 Ubuntu 26.04 (LTS)， Webmin， Nginx， MariaDB， PHP8.5-FPM，Perl-Fastcgi 到 DigitalOcean 的 VPS（1）]]></summary>
-    </entry>
-        <entry>
-        <title>LangGraph运行时上下文（Runtime Context）</title>
-        <id>164919</id>
-        <link href="https://blog.liuzijian.com/post/2026/07/25/langgraph-runtime-context/?utm_source=blogfinder" />
-        <published>2026-07-25T00:00:00+08:00</published>
-        <author>
-            <name>Liu Zijian&#039;s Blog</name>
-            <uri>https://blog.liuzijian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[LangGraph运行时上下文（Runtime Context）]]></summary>
-    </entry>
-        <entry>
-        <title>LangGraph流式（Stream）</title>
-        <id>164918</id>
-        <link href="https://blog.liuzijian.com/post/2026/07/25/langgraph-stream/?utm_source=blogfinder" />
-        <published>2026-07-25T00:00:00+08:00</published>
-        <author>
-            <name>Liu Zijian&#039;s Blog</name>
-            <uri>https://blog.liuzijian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[LangGraph流式（Stream）]]></summary>
-    </entry>
-        <entry>
-        <title>LangGraph持久化（Persistence）</title>
-        <id>164917</id>
-        <link href="https://blog.liuzijian.com/post/2026/07/25/langgraph-persistence/?utm_source=blogfinder" />
-        <published>2026-07-25T00:00:00+08:00</published>
-        <author>
-            <name>Liu Zijian&#039;s Blog</name>
-            <uri>https://blog.liuzijian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[LangGraph持久化（Persistence）]]></summary>
-    </entry>
-        <entry>
-        <title>img2threejs：将一张图片重建为可交互的 Three.js 3D 模型</title>
-        <id>164913</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-25/img2threejs/?utm_source=blogfinder" />
-        <published>2026-07-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[img2threejs：将一张图片重建为可交互的 Three.js 3D 模型]]></summary>
-    </entry>
-        <entry>
-        <title>iFixAi: AI 操作偏差诊断工具，让你的 AI 代理更安全可控</title>
-        <id>164912</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-25/ifixai/?utm_source=blogfinder" />
-        <published>2026-07-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[iFixAi: AI 操作偏差诊断工具，让你的 AI 代理更安全可控]]></summary>
-    </entry>
-        <entry>
-        <title>Codex++：不改动 app.asar 的 Codex / ChatGPT 桌面端启动器与增强管家</title>
-        <id>164911</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-25/codexplusplus/?utm_source=blogfinder" />
-        <published>2026-07-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Codex++：不改动 app.asar 的 Codex / ChatGPT 桌面端启动器与增强管家]]></summary>
-    </entry>
-        <entry>
-        <title>BitChat：蓝牙Mesh+Nostr协议的去中心化P2P聊天应用</title>
-        <id>164910</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-25/bitchat/?utm_source=blogfinder" />
-        <published>2026-07-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[BitChat：蓝牙Mesh+Nostr协议的去中心化P2P聊天应用]]></summary>
-    </entry>
-        <entry>
-        <title>我不知道的《易经》</title>
-        <id>164902</id>
-        <link href="https://lucifer.ren/blog/2026/07/25/yi-jing/?utm_source=blogfinder" />
-        <published>2026-07-25T00:00:00+08:00</published>
-        <author>
-            <name>lucifer的网络博客</name>
-            <uri>https://lucifer.ren/blog/</uri>
-        </author>
-        <summary type="text"><![CDATA[我不知道的《易经》]]></summary>
-    </entry>
-        <entry>
-        <title>Chat2DB：AI 驱动的跨平台数据库客户端与 SQL 工作台</title>
-        <id>164837</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-25/chat2db/?utm_source=blogfinder" />
-        <published>2026-07-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Chat2DB：AI 驱动的跨平台数据库客户端与 SQL 工作台]]></summary>
-    </entry>
-        <entry>
-        <title>《动手学大模型》：上海交大出品的大模型编程实践教程，11 章从微调、提示工程到越狱与水印</title>
-        <id>164836</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-25/dive-into-llms/?utm_source=blogfinder" />
-        <published>2026-07-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[《动手学大模型》：上海交大出品的大模型编程实践教程，11 章从微调、提示工程到越狱与水印]]></summary>
-    </entry>
-        <entry>
-        <title>Agent 架构设计</title>
-        <id>164831</id>
-        <link href="https://xilidou.com/2026/07/24/chat-agent/?utm_source=blogfinder" />
-        <published>2026-07-24T23:11:02+08:00</published>
-        <author>
-            <name>犀利豆的博客</name>
-            <uri>https://xilidou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Agent 架构设计]]></summary>
-    </entry>
-        <entry>
-        <title>人为什么要中庸 AI从一个意想不到的角度给了我雷霆一击</title>
-        <id>164825</id>
-        <link href="http://weiwuhui.com/10798.html?utm_source=blogfinder" />
-        <published>2026-07-24T23:06:26+08:00</published>
-        <author>
-            <name>扯氮集</name>
-            <uri>http://weiwuhui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[人为什么要中庸 AI从一个意想不到的角度给了我雷霆一击]]></summary>
     </entry>
     </feed>
