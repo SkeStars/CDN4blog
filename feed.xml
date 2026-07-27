@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-27T19:00:53+08:00</updated>
+    <updated>2026-07-27T23:01:18+08:00</updated>
+        <entry>
+        <title>每夫吐槽（118）</title>
+        <id>165070</id>
+        <link href="https://pewae.com/2026/07/random_kuso_118.html?utm_source=blogfinder" />
+        <published>2026-07-27T21:42:36+08:00</published>
+        <author>
+            <name>破袜子</name>
+            <uri>https://pewae.com</uri>
+        </author>
+        <summary type="text"><![CDATA[每夫吐槽（118）]]></summary>
+    </entry>
+        <entry>
+        <title>福利羊毛：下载蚂蚁阿福 1 分钱领 AI 体脂秤</title>
+        <id>165071</id>
+        <link href="https://www.51it.wang/ll/1-AI?utm_source=blogfinder" />
+        <published>2026-07-27T20:36:50+08:00</published>
+        <author>
+            <name>Lcry</name>
+            <uri>https://www.51it.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[福利羊毛：下载蚂蚁阿福 1 分钱领 AI 体脂秤]]></summary>
+    </entry>
+        <entry>
+        <title>大模型推理优化：vLLM 连续批处理与 PagedAttention 原理</title>
+        <id>165060</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/130.html?utm_source=blogfinder" />
+        <published>2026-07-27T19:07:32+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[大模型推理优化：vLLM 连续批处理与 PagedAttention 原理]]></summary>
+    </entry>
         <entry>
         <title>基于 TCC 写一个所谓的分布式事务#1</title>
         <id>165059</id>
@@ -35,6 +68,17 @@
         <summary type="text"><![CDATA[小小册子，情谊深深]]></summary>
     </entry>
         <entry>
+        <title>MCP 协议层的重放攻击与中间人风险——为什么 STDIO 传输并非绝对安全</title>
+        <id>165061</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/129.html?utm_source=blogfinder" />
+        <published>2026-07-27T16:29:52+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[MCP 协议层的重放攻击与中间人风险——为什么 STDIO 传输并非绝对安全]]></summary>
+    </entry>
+        <entry>
         <title>Webmanifest：给一处居所办理名姓</title>
         <id>165055</id>
         <link href="https://zooyoo.top/article/43/?utm_source=blogfinder" />
@@ -44,6 +88,28 @@
             <uri>https://zooyoo.top</uri>
         </author>
         <summary type="text"><![CDATA[Webmanifest：给一处居所办理名姓]]></summary>
+    </entry>
+        <entry>
+        <title>雨停在海鸥岛，而我刚好停在这里</title>
+        <id>165067</id>
+        <link href="https://www.sanji.one/ren-jian-yan-huo/wind-rain-and-solitude.html?utm_source=blogfinder" />
+        <published>2026-07-27T14:31:00+08:00</published>
+        <author>
+            <name>时光散记</name>
+            <uri>https://www.sanji.one</uri>
+        </author>
+        <summary type="text"><![CDATA[雨停在海鸥岛，而我刚好停在这里]]></summary>
+    </entry>
+        <entry>
+        <title>放弃了</title>
+        <id>165063</id>
+        <link href="https://airy.ink/times/461?utm_source=blogfinder" />
+        <published>2026-07-27T14:27:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[放弃了]]></summary>
     </entry>
         <entry>
         <title>没想到有一天被Handsome主题授权给坑了，授权机制拉爆服务器的CPU和负载</title>
@@ -88,6 +154,17 @@
             <uri>http://www.auiou.com</uri>
         </author>
         <summary type="text"><![CDATA[人生讨论(26)：为什么很多人成功后很少发声？]]></summary>
+    </entry>
+        <entry>
+        <title>再多来点</title>
+        <id>165066</id>
+        <link href="https://retire50blog.wang/invest/%e5%86%8d%e5%a4%9a%e6%9d%a5%e7%82%b9.html?utm_source=blogfinder" />
+        <published>2026-07-27T11:15:08+08:00</published>
+        <author>
+            <name>个人工作记录</name>
+            <uri>https://retire50blog.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[再多来点]]></summary>
     </entry>
         <entry>
         <title>【乡下父母的人生课】13：要避开消费主义陷阱的死循环</title>
@@ -178,6 +255,17 @@
         <summary type="text"><![CDATA[大脑充血 Vol.91]]></summary>
     </entry>
         <entry>
+        <title>Linux 人脸识别登录折腾记：Howdy + Arch Linux 实战</title>
+        <id>165068</id>
+        <link href="https://www.iliu.org/posts/linux-face-recognition-setup/?utm_source=blogfinder" />
+        <published>2026-07-27T08:00:00+08:00</published>
+        <author>
+            <name>老刘博客</name>
+            <uri>https://www.iliu.org</uri>
+        </author>
+        <summary type="text"><![CDATA[Linux 人脸识别登录折腾记：Howdy + Arch Linux 实战]]></summary>
+    </entry>
+        <entry>
         <title>Starryblu 注册教程</title>
         <id>165033</id>
         <link href="https://yesreho.com/starryblu-register/?utm_source=blogfinder" />
@@ -198,6 +286,17 @@
             <uri>https://blog.xiaket.org</uri>
         </author>
         <summary type="text"><![CDATA[Pensieve: 2607]]></summary>
+    </entry>
+        <entry>
+        <title>【Nginx】使用OpenResty Lua拦截Artalk广告昵称</title>
+        <id>165062</id>
+        <link href="https://blog.musnow.top/posts/3586282243/?utm_source=blogfinder" />
+        <published>2026-07-27T07:13:55+08:00</published>
+        <author>
+            <name>慕雪的寒舍</name>
+            <uri>https://blog.musnow.top</uri>
+        </author>
+        <summary type="text"><![CDATA[【Nginx】使用OpenResty Lua拦截Artalk广告昵称]]></summary>
     </entry>
         <entry>
         <title>2026.7.26</title>
@@ -1364,115 +1463,5 @@
             <uri>http://weiwuhui.com</uri>
         </author>
         <summary type="text"><![CDATA[人为什么要中庸 AI从一个意想不到的角度给了我雷霆一击]]></summary>
-    </entry>
-        <entry>
-        <title>那些没有拍下来的时刻</title>
-        <id>164873</id>
-        <link href="https://blog.solazy.me/20260724/?utm_source=blogfinder" />
-        <published>2026-07-24T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[那些没有拍下来的时刻]]></summary>
-    </entry>
-        <entry>
-        <title>对抗系统的桌游</title>
-        <id>164874</id>
-        <link href="https://blog.codingnow.com/2026/07/deckers.html?utm_source=blogfinder" />
-        <published>2026-07-24T22:03:34+08:00</published>
-        <author>
-            <name>云风的 BLOG</name>
-            <uri>https://blog.codingnow.com</uri>
-        </author>
-        <summary type="text"><![CDATA[对抗系统的桌游]]></summary>
-    </entry>
-        <entry>
-        <title>流量不够用？大流量卡免费领</title>
-        <id>164823</id>
-        <link href="https://blog.xrbk.cn/post/92.html?utm_source=blogfinder" />
-        <published>2026-07-24T21:39:00+08:00</published>
-        <author>
-            <name>新锐博客</name>
-            <uri>https://blog.xrbk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[流量不够用？大流量卡免费领]]></summary>
-    </entry>
-        <entry>
-        <title>一次网站被黑的排查记录</title>
-        <id>164833</id>
-        <link href="https://www.weisay.com/blog/website-hack-investigation.html?utm_source=blogfinder" />
-        <published>2026-07-24T20:55:06+08:00</published>
-        <author>
-            <name>威言威语</name>
-            <uri>https://www.weisay.com/blog/</uri>
-        </author>
-        <summary type="text"><![CDATA[一次网站被黑的排查记录]]></summary>
-    </entry>
-        <entry>
-        <title>车祸后的这一个月</title>
-        <id>164816</id>
-        <link href="https://dahaishiguang.cn/posts/565194/?utm_source=blogfinder" />
-        <published>2026-07-24T20:10:00+08:00</published>
-        <author>
-            <name>大海拾光</name>
-            <uri>https://dahaishiguang.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[车祸后的这一个月]]></summary>
-    </entry>
-        <entry>
-        <title>家有中考生，从备考到录取的那些忐忑日子</title>
-        <id>164822</id>
-        <link href="https://www.wanghao.me/jiayouzhongkaoshengcongbeikaodaoluqudenaxietanterizi.html?utm_source=blogfinder" />
-        <published>2026-07-24T20:01:32+08:00</published>
-        <author>
-            <name>小王子</name>
-            <uri>https://www.wanghao.me</uri>
-        </author>
-        <summary type="text"><![CDATA[家有中考生，从备考到录取的那些忐忑日子]]></summary>
-    </entry>
-        <entry>
-        <title>近期觀影 - 無間道三部曲、醉好的時光、阿波羅 13 號</title>
-        <id>164820</id>
-        <link href="https://taxodium.ink/movie-2026-07-22.html?utm_source=blogfinder" />
-        <published>2026-07-24T20:00:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[近期觀影 - 無間道三部曲、醉好的時光、阿波羅 13 號]]></summary>
-    </entry>
-        <entry>
-        <title>T2I 开源生图的新王 Krea2</title>
-        <id>164813</id>
-        <link href="https://eduardoqian.com/archives/t2i-xin-wang-chu-xian-krea2?utm_source=blogfinder" />
-        <published>2026-07-24T19:56:59+08:00</published>
-        <author>
-            <name>司云有崖</name>
-            <uri>https://eduardoqian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[T2I 开源生图的新王 Krea2]]></summary>
-    </entry>
-        <entry>
-        <title>这个时代，只有好心、善意是不行的</title>
-        <id>164815</id>
-        <link href="https://www.pgoj.top/archives/hao-xin-shan-yi.html?utm_source=blogfinder" />
-        <published>2026-07-24T19:36:45+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[这个时代，只有好心、善意是不行的]]></summary>
-    </entry>
-        <entry>
-        <title>「说说」明天我将这辈子第一次自己出省玩😄</title>
-        <id>164869</id>
-        <link href="https://upxuu.com/talk/2026-07-24-明天我将这辈子第一次自己出省玩/?utm_source=blogfinder" />
-        <published>2026-07-24T19:08:55+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[「说说」明天我将这辈子第一次自己出省玩😄]]></summary>
     </entry>
     </feed>
