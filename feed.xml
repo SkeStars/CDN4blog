@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-28T11:00:41+08:00</updated>
+    <updated>2026-07-28T15:00:59+08:00</updated>
         <entry>
         <title>聊聊Riven主题后续</title>
         <id>165182</id>
@@ -156,6 +156,17 @@
         <summary type="text"><![CDATA[“More Perfect Than Helvetica”——当你选择字体时，你究竟在选择什么？]]></summary>
     </entry>
         <entry>
+        <title>陪孩子九寨沟游学第二日</title>
+        <id>165186</id>
+        <link href="https://fxpai.com/article/peihaizijiuzhaigouyouxuedierri?utm_source=blogfinder" />
+        <published>2026-07-27T21:57:41+08:00</published>
+        <author>
+            <name>非学·派</name>
+            <uri>https://fxpai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[陪孩子九寨沟游学第二日]]></summary>
+    </entry>
+        <entry>
         <title>每夫吐槽（118）</title>
         <id>165070</id>
         <link href="https://pewae.com/2026/07/random_kuso_118.html?utm_source=blogfinder" />
@@ -198,6 +209,17 @@
             <uri>https://www.munue.com</uri>
         </author>
         <summary type="text"><![CDATA[Google 推出全新安全验证方式：自拍视频登录账户]]></summary>
+    </entry>
+        <entry>
+        <title>养鱼</title>
+        <id>165187</id>
+        <link href="https://www.suiyan.cc/blog/20260727210033?utm_source=blogfinder" />
+        <published>2026-07-27T21:00:33+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[养鱼]]></summary>
     </entry>
         <entry>
         <title>《我所理解的水下航行器》-摘要</title>
@@ -616,6 +638,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[PasarGuard：开源抗审查代理管理面板，统一管理 Xray 与 WireGuard]]></summary>
+    </entry>
+        <entry>
+        <title>我的日志 ilogs 自用博客主题发布</title>
+        <id>165189</id>
+        <link href="https://ilogs.cn/2026/07/26/389.html?utm_source=blogfinder" />
+        <published>2026-07-26T23:59:00+08:00</published>
+        <author>
+            <name>我的日志</name>
+            <uri>https://ilogs.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[我的日志 ilogs 自用博客主题发布]]></summary>
     </entry>
         <entry>
         <title>重定向</title>
@@ -1331,82 +1364,5 @@
             <uri>https://hexo.limour.top</uri>
         </author>
         <summary type="text"><![CDATA[【记录】安装并配置pi-agent]]></summary>
-    </entry>
-        <entry>
-        <title>一次高铁旅程，看清某些素质低下的家教和教育程度👎</title>
-        <id>164890</id>
-        <link href="https://upxuu.com/posts/bad-journey/?utm_source=blogfinder" />
-        <published>2026-07-25T14:48:00+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[一次高铁旅程，看清某些素质低下的家教和教育程度👎]]></summary>
-    </entry>
-        <entry>
-        <title>大熊猫送快递</title>
-        <id>164935</id>
-        <link href="https://blog.cytrogen.icu/posts/3a5e.html?utm_source=blogfinder" />
-        <published>2026-07-25T12:00:00+08:00</published>
-        <author>
-            <name>Cytrogen&#039;s Blog</name>
-            <uri>https://blog.cytrogen.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[大熊猫送快递]]></summary>
-    </entry>
-        <entry>
-        <title>こんにちは、Astro</title>
-        <id>164914</id>
-        <link href="https://champhoon.xyz/log/hello-astro/?utm_source=blogfinder" />
-        <published>2026-07-25T11:55:00+08:00</published>
-        <author>
-            <name>澄沨的漫游茶记</name>
-            <uri>https://champhoon.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[こんにちは、Astro]]></summary>
-    </entry>
-        <entry>
-        <title>关于入学体检折腾一通的事情</title>
-        <id>164875</id>
-        <link href="https://fxpai.com/article/guanyuruxuetijianzhetengyitongdeshiqing?utm_source=blogfinder" />
-        <published>2026-07-25T11:51:14+08:00</published>
-        <author>
-            <name>非学·派</name>
-            <uri>https://fxpai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[关于入学体检折腾一通的事情]]></summary>
-    </entry>
-        <entry>
-        <title>庄子四重人格境界与易经哲理</title>
-        <id>164898</id>
-        <link href="https://chegva.com/6760.html?utm_source=blogfinder" />
-        <published>2026-07-25T11:37:01+08:00</published>
-        <author>
-            <name>安志合的学习博客</name>
-            <uri>https://chegva.com</uri>
-        </author>
-        <summary type="text"><![CDATA[庄子四重人格境界与易经哲理]]></summary>
-    </entry>
-        <entry>
-        <title>什么是工程问题？</title>
-        <id>164887</id>
-        <link href="https://www.geedea.pro/article/engineering-perspective/?utm_source=blogfinder" />
-        <published>2026-07-25T11:27:21+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[什么是工程问题？]]></summary>
-    </entry>
-        <entry>
-        <title>向云端｜西南自驾03 - 景德镇</title>
-        <id>164877</id>
-        <link href="https://blog.ops-coffee.com/r/2026-southwest-road-trip-03-jingdezhen.html?utm_source=blogfinder" />
-        <published>2026-07-25T11:19:40+08:00</published>
-        <author>
-            <name>运维咖啡吧</name>
-            <uri>https://blog.ops-coffee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[向云端｜西南自驾03 - 景德镇]]></summary>
     </entry>
     </feed>
