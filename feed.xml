@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-28T22:00:35+08:00</updated>
+    <updated>2026-07-29T00:02:01+08:00</updated>
+        <entry>
+        <title>公众号（自媒体）运营心得</title>
+        <id>165204</id>
+        <link href="https://hulatu.com/posts/2026/07/28/how-to-start-doing-self-media/?utm_source=blogfinder" />
+        <published>2026-07-28T21:10:10+08:00</published>
+        <author>
+            <name>胡拉图说</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[公众号（自媒体）运营心得]]></summary>
+    </entry>
         <entry>
         <title>第 34 届全国图书交易博览会小记</title>
         <id>165200</id>
@@ -176,6 +187,17 @@
             <uri>https://hexo.limour.top</uri>
         </author>
         <summary type="text"><![CDATA[【探索】接管你的 Jupyter]]></summary>
+    </entry>
+        <entry>
+        <title>记录：virtualizor开的win服务器，不正常初始化</title>
+        <id>165203</id>
+        <link href="https://www.imxb.de/new_archives/68.shtml?utm_source=blogfinder" />
+        <published>2026-07-28T00:58:39+08:00</published>
+        <author>
+            <name>Xiobb’s Blog</name>
+            <uri>https://www.imxb.de</uri>
+        </author>
+        <summary type="text"><![CDATA[记录：virtualizor开的win服务器，不正常初始化]]></summary>
     </entry>
         <entry>
         <title>Are We Interfacing Yet?</title>
@@ -1199,214 +1221,5 @@
             <uri>https://www.weiwenchao.com</uri>
         </author>
         <summary type="text"><![CDATA[《找个好归宿》]]></summary>
-    </entry>
-        <entry>
-        <title>【读后感】《浮光》+《天桥上的魔术师》- 吴明益</title>
-        <id>165029</id>
-        <link href="https://www.blackbzy.com/posts/book-fugaung-magic/?utm_source=blogfinder" />
-        <published>2026-07-26T00:00:00+08:00</published>
-        <author>
-            <name>blackbzy</name>
-            <uri>https://www.blackbzy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读后感】《浮光》+《天桥上的魔术师》- 吴明益]]></summary>
-    </entry>
-        <entry>
-        <title>七星二十支，风味各不同</title>
-        <id>164988</id>
-        <link href="https://xeonzilla.top/super-no-mae-de-yani-neko/?utm_source=blogfinder" />
-        <published>2026-07-26T00:00:00+08:00</published>
-        <author>
-            <name>Xeonzilla’s Note</name>
-            <uri>https://xeonzilla.top</uri>
-        </author>
-        <summary type="text"><![CDATA[七星二十支，风味各不同]]></summary>
-    </entry>
-        <entry>
-        <title>LangGraph Human-in-the-Loop 人工干预</title>
-        <id>164987</id>
-        <link href="https://blog.liuzijian.com/post/2026/07/26/langgraph-human-in-the-loop/?utm_source=blogfinder" />
-        <published>2026-07-26T00:00:00+08:00</published>
-        <author>
-            <name>Liu Zijian&#039;s Blog</name>
-            <uri>https://blog.liuzijian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[LangGraph Human-in-the-Loop 人工干预]]></summary>
-    </entry>
-        <entry>
-        <title>t3code — 开源项目深度解析</title>
-        <id>164976</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-26/t3code/?utm_source=blogfinder" />
-        <published>2026-07-26T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[t3code — 开源项目深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>QwenPaw 深度解析：AgentScope 打造的个人 AI 助手工作站</title>
-        <id>164975</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-26/qwenpaw/?utm_source=blogfinder" />
-        <published>2026-07-26T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[QwenPaw 深度解析：AgentScope 打造的个人 AI 助手工作站]]></summary>
-    </entry>
-        <entry>
-        <title>node — Node.js JavaScript runtime ✨🐢🚀✨</title>
-        <id>164974</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-26/node/?utm_source=blogfinder" />
-        <published>2026-07-26T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[node — Node.js JavaScript runtime ✨🐢🚀✨]]></summary>
-    </entry>
-        <entry>
-        <title>jenkins — Jenkins automation server</title>
-        <id>164973</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-26/jenkins/?utm_source=blogfinder" />
-        <published>2026-07-26T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[jenkins — Jenkins automation server]]></summary>
-    </entry>
-        <entry>
-        <title>jCodeMunch MCP：节省95% Token的GitHub代码检索神器</title>
-        <id>164972</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-26/jcodemunch-mcp/?utm_source=blogfinder" />
-        <published>2026-07-26T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[jCodeMunch MCP：节省95% Token的GitHub代码检索神器]]></summary>
-    </entry>
-        <entry>
-        <title>Floci：轻量级开源 AWS 本地模拟器，快速启动无需认证</title>
-        <id>164971</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-26/floci/?utm_source=blogfinder" />
-        <published>2026-07-26T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Floci：轻量级开源 AWS 本地模拟器，快速启动无需认证]]></summary>
-    </entry>
-        <entry>
-        <title>Erdős 猜想的 AI 证明工厂：ShouqiaoW/erdos 如何用 AI + Lean 攻克数学难题</title>
-        <id>164970</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-26/erdos/?utm_source=blogfinder" />
-        <published>2026-07-26T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Erdős 猜想的 AI 证明工厂：ShouqiaoW/erdos 如何用 AI + Lean 攻克数学难题]]></summary>
-    </entry>
-        <entry>
-        <title>BrainPilot：一个用 Agent 自动化脑科学研究的开源平台</title>
-        <id>164969</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-26/brainpilot/?utm_source=blogfinder" />
-        <published>2026-07-26T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[BrainPilot：一个用 Agent 自动化脑科学研究的开源平台]]></summary>
-    </entry>
-        <entry>
-        <title>bitchat-android — bluetooth mesh chat, IRC vibes</title>
-        <id>164968</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-26/bitchat-android/?utm_source=blogfinder" />
-        <published>2026-07-26T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[bitchat-android — bluetooth mesh chat, IRC vibes]]></summary>
-    </entry>
-        <entry>
-        <title>amnezia-client — Amnezia VPN Client (Desktop+Mobile)</title>
-        <id>164967</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-26/amnezia-client/?utm_source=blogfinder" />
-        <published>2026-07-26T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[amnezia-client — Amnezia VPN Client (Desktop+Mobile)]]></summary>
-    </entry>
-        <entry>
-        <title>Claude Scholar：面向 AI 科研人员的半自动化研究助理工作流</title>
-        <id>164909</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-26/claude-scholar/?utm_source=blogfinder" />
-        <published>2026-07-26T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude Scholar：面向 AI 科研人员的半自动化研究助理工作流]]></summary>
-    </entry>
-        <entry>
-        <title>周末流水账 0725</title>
-        <id>164964</id>
-        <link href="https://blog.solazy.me/20260725/?utm_source=blogfinder" />
-        <published>2026-07-25T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[周末流水账 0725]]></summary>
-    </entry>
-        <entry>
-        <title>人活着，到底为了什么？</title>
-        <id>164897</id>
-        <link href="https://blog.52hyjs.com/post-1285.html?utm_source=blogfinder" />
-        <published>2026-07-25T22:56:37+08:00</published>
-        <author>
-            <name>幻影博客</name>
-            <uri>https://blog.52hyjs.com</uri>
-        </author>
-        <summary type="text"><![CDATA[人活着，到底为了什么？]]></summary>
-    </entry>
-        <entry>
-        <title>差生连抄作业都不会，读《以日为鉴》</title>
-        <id>164948</id>
-        <link href="https://chenbozheng.com/wz/dushu/1673.html?utm_source=blogfinder" />
-        <published>2026-07-25T22:46:47+08:00</published>
-        <author>
-            <name>伯正博客</name>
-            <uri>https://chenbozheng.com</uri>
-        </author>
-        <summary type="text"><![CDATA[差生连抄作业都不会，读《以日为鉴》]]></summary>
-    </entry>
-        <entry>
-        <title>【不凡摄影作品 | 2026.7.25】</title>
-        <id>164896</id>
-        <link href="https://www.bufanz.com/20260725763.html?utm_source=blogfinder" />
-        <published>2026-07-25T22:21:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【不凡摄影作品 | 2026.7.25】]]></summary>
-    </entry>
-        <entry>
-        <title>tmux 的 Windows 版本 psmux，无需 WSL Cygwin</title>
-        <id>164931</id>
-        <link href="https://www.sunzhongwei.com/tmux-windows-version-psmux?utm_source=blogfinder" />
-        <published>2026-07-25T22:19:55+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[tmux 的 Windows 版本 psmux，无需 WSL Cygwin]]></summary>
     </entry>
     </feed>
