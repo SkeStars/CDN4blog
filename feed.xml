@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-28T18:00:39+08:00</updated>
+    <updated>2026-07-28T20:01:00+08:00</updated>
+        <entry>
+        <title>第 34 届全国图书交易博览会小记</title>
+        <id>165200</id>
+        <link href="https://dujun.io/photos-from-the-34th-national-book-expo.html?utm_source=blogfinder" />
+        <published>2026-07-28T16:41:57+08:00</published>
+        <author>
+            <name>杜郎俊赏</name>
+            <uri>https://dujun.io</uri>
+        </author>
+        <summary type="text"><![CDATA[第 34 届全国图书交易博览会小记]]></summary>
+    </entry>
         <entry>
         <title>【读书记1696】希阿荣博堪布《前行笔记之耕耘心田》</title>
         <id>165191</id>
@@ -66,6 +77,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[没有看点和卖点的毛巾馒头]]></summary>
+    </entry>
+        <entry>
+        <title>Ring of Fortune 可塑性记忆OP（转载）</title>
+        <id>165201</id>
+        <link href="https://blog.kfdzcoffee.cn/archives/ringoffortune?utm_source=blogfinder" />
+        <published>2026-07-28T11:03:20+08:00</published>
+        <author>
+            <name>咖啡豆子 coffee 的小站</name>
+            <uri>https://blog.kfdzcoffee.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Ring of Fortune 可塑性记忆OP（转载）]]></summary>
     </entry>
         <entry>
         <title>聊聊Riven主题后续</title>
@@ -1386,71 +1408,5 @@
             <uri>https://hux.ink</uri>
         </author>
         <summary type="text"><![CDATA[复刻足迹页面]]></summary>
-    </entry>
-        <entry>
-        <title>厕所</title>
-        <id>164892</id>
-        <link href="https://mobius.blog/25199.html?utm_source=blogfinder" />
-        <published>2026-07-25T19:50:30+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[厕所]]></summary>
-    </entry>
-        <entry>
-        <title>[小电驴]不想给哈啰智能芯续费了</title>
-        <id>164901</id>
-        <link href="https://blog.biecui.com/38.html?utm_source=blogfinder" />
-        <published>2026-07-25T19:45:00+08:00</published>
-        <author>
-            <name>别催</name>
-            <uri>https://blog.biecui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[[小电驴]不想给哈啰智能芯续费了]]></summary>
-    </entry>
-        <entry>
-        <title>让AI判断AI自己生成的文章是不是AI写的？</title>
-        <id>164932</id>
-        <link href="https://www.suiyan.cc/blog/20260725191701?utm_source=blogfinder" />
-        <published>2026-07-25T19:17:01+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[让AI判断AI自己生成的文章是不是AI写的？]]></summary>
-    </entry>
-        <entry>
-        <title>如何用宝可梦属性玩剪刀石头布？</title>
-        <id>164900</id>
-        <link href="https://www.geedea.pro/article/rps-but-pokemon/?utm_source=blogfinder" />
-        <published>2026-07-25T19:02:28+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[如何用宝可梦属性玩剪刀石头布？]]></summary>
-    </entry>
-        <entry>
-        <title>狗屁倒灶的政治正确</title>
-        <id>164893</id>
-        <link href="https://ichov.com/blog/goupidaozaode.html?utm_source=blogfinder" />
-        <published>2026-07-25T18:44:44+08:00</published>
-        <author>
-            <name>江子渔</name>
-            <uri>https://ichov.com</uri>
-        </author>
-        <summary type="text"><![CDATA[狗屁倒灶的政治正确]]></summary>
-    </entry>
-        <entry>
-        <title>trae告别白嫖时代，auto也需排队了</title>
-        <id>164895</id>
-        <link href="https://blog.xrbk.cn/post/93.html?utm_source=blogfinder" />
-        <published>2026-07-25T18:06:00+08:00</published>
-        <author>
-            <name>新锐博客</name>
-            <uri>https://blog.xrbk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[trae告别白嫖时代，auto也需排队了]]></summary>
     </entry>
     </feed>
