@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-28T20:01:00+08:00</updated>
+    <updated>2026-07-28T22:00:35+08:00</updated>
         <entry>
         <title>第 34 届全国图书交易博览会小记</title>
         <id>165200</id>
@@ -22,6 +22,17 @@
             <uri>https://dujun.io</uri>
         </author>
         <summary type="text"><![CDATA[第 34 届全国图书交易博览会小记]]></summary>
+    </entry>
+        <entry>
+        <title>ZR 集训 Day12 – 模拟赛</title>
+        <id>165202</id>
+        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day12-%e6%a8%a1%e6%8b%9f%e8%b5%9b/?utm_source=blogfinder" />
+        <published>2026-07-28T16:02:31+08:00</published>
+        <author>
+            <name>ooliver 的博客</name>
+            <uri>https://blog.ooliver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[ZR 集训 Day12 – 模拟赛]]></summary>
     </entry>
         <entry>
         <title>【读书记1696】希阿荣博堪布《前行笔记之耕耘心田》</title>
@@ -1397,16 +1408,5 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[tmux 的 Windows 版本 psmux，无需 WSL Cygwin]]></summary>
-    </entry>
-        <entry>
-        <title>复刻足迹页面</title>
-        <id>164894</id>
-        <link href="https://hux.ink/posts/footprints/?utm_source=blogfinder" />
-        <published>2026-07-25T21:13:00+08:00</published>
-        <author>
-            <name>Counting Stars</name>
-            <uri>https://hux.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[复刻足迹页面]]></summary>
     </entry>
     </feed>
