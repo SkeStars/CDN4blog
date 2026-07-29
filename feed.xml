@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-29T18:00:25+08:00</updated>
+    <updated>2026-07-29T20:00:23+08:00</updated>
+        <entry>
+        <title>字间 260729</title>
+        <id>165395</id>
+        <link href="https://www.suiyan.cc/blog/20260729193734?utm_source=blogfinder" />
+        <published>2026-07-29T19:37:34+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[字间 260729]]></summary>
+    </entry>
+        <entry>
+        <title>MCP 工具的条件注册：避免能力爆炸的工程实践</title>
+        <id>165396</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/132.html?utm_source=blogfinder" />
+        <published>2026-07-29T18:06:23+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[MCP 工具的条件注册：避免能力爆炸的工程实践]]></summary>
+    </entry>
+        <entry>
+        <title>开了一个游泳馆的月卡</title>
+        <id>165394</id>
+        <link href="https://blog.goodboyboy.top/posts/3857671253.html?utm_source=blogfinder" />
+        <published>2026-07-29T17:45:03+08:00</published>
+        <author>
+            <name>GoodBoyboy</name>
+            <uri>https://blog.goodboyboy.top</uri>
+        </author>
+        <summary type="text"><![CDATA[开了一个游泳馆的月卡]]></summary>
+    </entry>
         <entry>
         <title>Zine#55 - 嘗試才是罕見的</title>
         <id>165391</id>
@@ -1342,49 +1375,5 @@
             <uri>https://fxpai.com</uri>
         </author>
         <summary type="text"><![CDATA[陪孩子九寨沟游学第一日]]></summary>
-    </entry>
-        <entry>
-        <title>断层里的心理学</title>
-        <id>164963</id>
-        <link href="https://blog.solazy.me/20260726/?utm_source=blogfinder" />
-        <published>2026-07-26T20:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[断层里的心理学]]></summary>
-    </entry>
-        <entry>
-        <title>周而复始，浑然天成——恭喜台北一哥周天成夺冠！</title>
-        <id>165031</id>
-        <link href="https://hehuang.site/p/chou-tien-chen/?utm_source=blogfinder" />
-        <published>2026-07-26T19:25:00+08:00</published>
-        <author>
-            <name>合荒小站</name>
-            <uri>https://hehuang.site</uri>
-        </author>
-        <summary type="text"><![CDATA[周而复始，浑然天成——恭喜台北一哥周天成夺冠！]]></summary>
-    </entry>
-        <entry>
-        <title>免费开通 Claude Max 20x plan Bug 复现教程</title>
-        <id>164953</id>
-        <link href="https://www.51it.wang/ll/Claude-Max-20x-plan-Bug?utm_source=blogfinder" />
-        <published>2026-07-26T18:54:00+08:00</published>
-        <author>
-            <name>Lcry</name>
-            <uri>https://www.51it.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[免费开通 Claude Max 20x plan Bug 复现教程]]></summary>
-    </entry>
-        <entry>
-        <title>告别单向空间</title>
-        <id>165032</id>
-        <link href="https://lomus.cc/archives/797?utm_source=blogfinder" />
-        <published>2026-07-26T18:50:42+08:00</published>
-        <author>
-            <name>Lumos&#039;s Blog</name>
-            <uri>https://lomus.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[告别单向空间]]></summary>
     </entry>
     </feed>
