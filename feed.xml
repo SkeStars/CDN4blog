@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-30T15:00:37+08:00</updated>
+    <updated>2026-07-30T17:01:38+08:00</updated>
+        <entry>
+        <title>激光雷达成像原理：机械式与固态式</title>
+        <id>165459</id>
+        <link href="https://www.zywvvd.com/notes/3d/lidar/lidar-mechanical-vs-solid/?utm_source=blogfinder" />
+        <published>2026-07-30T14:30:00+08:00</published>
+        <author>
+            <name>又见苍岚</name>
+            <uri>https://www.zywvvd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[激光雷达成像原理：机械式与固态式]]></summary>
+    </entry>
+        <entry>
+        <title>华为鸿蒙7.0花粉beta版发布</title>
+        <id>165461</id>
+        <link href="https://blog.xrbk.cn/post/95.html?utm_source=blogfinder" />
+        <published>2026-07-30T13:51:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://blog.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[华为鸿蒙7.0花粉beta版发布]]></summary>
+    </entry>
+        <entry>
+        <title>七月近况</title>
+        <id>165458</id>
+        <link href="https://vjo.cc/1990?utm_source=blogfinder" />
+        <published>2026-07-30T11:50:00+08:00</published>
+        <author>
+            <name>刘郎阁</name>
+            <uri>https://vjo.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[七月近况]]></summary>
+    </entry>
+        <entry>
+        <title>万向节死锁（Gimbal Lock）</title>
+        <id>165460</id>
+        <link href="https://www.zywvvd.com/notes/3d/gimbal-lock/gimbal-lock/?utm_source=blogfinder" />
+        <published>2026-07-30T11:32:00+08:00</published>
+        <author>
+            <name>又见苍岚</name>
+            <uri>https://www.zywvvd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[万向节死锁（Gimbal Lock）]]></summary>
+    </entry>
         <entry>
         <title>陪孩子九寨沟游学第四日——九寨沟景区（多图预警）</title>
         <id>165454</id>
@@ -198,6 +242,17 @@
             <uri>https://www.seis-jun.xyz/</uri>
         </author>
         <summary type="text"><![CDATA[关于科研]]></summary>
+    </entry>
+        <entry>
+        <title>《随感言论杂录2607-3》</title>
+        <id>165462</id>
+        <link href="https://www.weiwenchao.com/2709.html?utm_source=blogfinder" />
+        <published>2026-07-29T20:36:00+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《随感言论杂录2607-3》]]></summary>
     </entry>
         <entry>
         <title>ZR 集训 Day13 – 同余、线代入门</title>
@@ -1342,60 +1397,5 @@
             <uri>https://www.bytecho.net</uri>
         </author>
         <summary type="text"><![CDATA[基于 TCC 写一个所谓的分布式事务#1]]></summary>
-    </entry>
-        <entry>
-        <title>小小册子，情谊深深</title>
-        <id>165054</id>
-        <link href="https://zooyoo.top/article/42/?utm_source=blogfinder" />
-        <published>2026-07-27T16:35:00+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[小小册子，情谊深深]]></summary>
-    </entry>
-        <entry>
-        <title>MCP 协议层的重放攻击与中间人风险——为什么 STDIO 传输并非绝对安全</title>
-        <id>165061</id>
-        <link href="https://qaqbuyan.com:88/乔安文章/129.html?utm_source=blogfinder" />
-        <published>2026-07-27T16:29:52+08:00</published>
-        <author>
-            <name>卟言的个人博客</name>
-            <uri>https://qaqbuyan.com:88</uri>
-        </author>
-        <summary type="text"><![CDATA[MCP 协议层的重放攻击与中间人风险——为什么 STDIO 传输并非绝对安全]]></summary>
-    </entry>
-        <entry>
-        <title>长鑫科技上市，A股换了老大</title>
-        <id>165177</id>
-        <link href="https://www.zhyok.cn/archives/440/?utm_source=blogfinder" />
-        <published>2026-07-27T16:27:00+08:00</published>
-        <author>
-            <name>秋記 Autumn</name>
-            <uri>https://www.zhyok.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[长鑫科技上市，A股换了老大]]></summary>
-    </entry>
-        <entry>
-        <title>生前事，身后事</title>
-        <id>165190</id>
-        <link href="https://kaix.in/2026/0727/?utm_source=blogfinder" />
-        <published>2026-07-27T16:11:24+08:00</published>
-        <author>
-            <name>KAIX.IN</name>
-            <uri>https://kaix.in</uri>
-        </author>
-        <summary type="text"><![CDATA[生前事，身后事]]></summary>
-    </entry>
-        <entry>
-        <title>Webmanifest：给一处居所办理名姓</title>
-        <id>165055</id>
-        <link href="https://zooyoo.top/article/43/?utm_source=blogfinder" />
-        <published>2026-07-27T15:55:00+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Webmanifest：给一处居所办理名姓]]></summary>
     </entry>
     </feed>
