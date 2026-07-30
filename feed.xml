@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-30T20:00:21+08:00</updated>
+    <updated>2026-07-30T22:00:21+08:00</updated>
+        <entry>
+        <title>记录一次事故赔付</title>
+        <id>165470</id>
+        <link href="https://imxcy.cn/archives/8696ccfc.html?utm_source=blogfinder" />
+        <published>2026-07-30T20:02:26+08:00</published>
+        <author>
+            <name>许大阳的日记本</name>
+            <uri>https://imxcy.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[记录一次事故赔付]]></summary>
+    </entry>
+        <entry>
+        <title>《怀柔夜云》</title>
+        <id>165471</id>
+        <link href="https://www.weiwenchao.com/2715.html?utm_source=blogfinder" />
+        <published>2026-07-30T20:02:00+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《怀柔夜云》]]></summary>
+    </entry>
         <entry>
         <title>折腾是独立博客的一大吸引力</title>
         <id>165467</id>
@@ -22,6 +44,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[折腾是独立博客的一大吸引力]]></summary>
+    </entry>
+        <entry>
+        <title>ZR 集训 Day14 – 动态规划与动态规划常见优化方法</title>
+        <id>165472</id>
+        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day14-%e5%8a%a8%e6%80%81%e8%a7%84%e5%88%92%e4%b8%8e%e5%8a%a8%e6%80%81%e8%a7%84%e5%88%92%e5%b8%b8%e8%a7%81%e4%bc%98%e5%8c%96%e6%96%b9%e6%b3%95/?utm_source=blogfinder" />
+        <published>2026-07-30T15:56:26+08:00</published>
+        <author>
+            <name>ooliver 的博客</name>
+            <uri>https://blog.ooliver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[ZR 集训 Day14 – 动态规划与动态规划常见优化方法]]></summary>
     </entry>
         <entry>
         <title>热、很热、非常热</title>
@@ -209,6 +242,17 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lecture 2 Computational Stellar Astrophysics and Supernova Explosion Models]]></summary>
+    </entry>
+        <entry>
+        <title>从置物架说起</title>
+        <id>165469</id>
+        <link href="https://hjyl.org/share-from-shelf/?utm_source=blogfinder" />
+        <published>2026-07-29T22:53:12+08:00</published>
+        <author>
+            <name>皇家元林</name>
+            <uri>https://hjyl.org</uri>
+        </author>
+        <summary type="text"><![CDATA[从置物架说起]]></summary>
     </entry>
         <entry>
         <title>MonkeyCode：免费获取 2c8g 海外/国内云服务器开发环境</title>
@@ -1298,126 +1342,5 @@
             <uri>https://hanchan.vip</uri>
         </author>
         <summary type="text"><![CDATA[“More Perfect Than Helvetica”——当你选择字体时，你究竟在选择什么？]]></summary>
-    </entry>
-        <entry>
-        <title>把 Stalux 从源码博客改造为 npm 插件——一次完整的 Astro Integration 实践</title>
-        <id>165450</id>
-        <link href="https://xingwangzhe.fun/posts/stalux-dual-mode-refactor/?utm_source=blogfinder" />
-        <published>2026-07-27T22:00:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[把 Stalux 从源码博客改造为 npm 插件——一次完整的 Astro Integration 实践]]></summary>
-    </entry>
-        <entry>
-        <title>陪孩子九寨沟游学第二日</title>
-        <id>165186</id>
-        <link href="https://fxpai.com/article/peihaizijiuzhaigouyouxuedierri?utm_source=blogfinder" />
-        <published>2026-07-27T21:57:41+08:00</published>
-        <author>
-            <name>非学·派</name>
-            <uri>https://fxpai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[陪孩子九寨沟游学第二日]]></summary>
-    </entry>
-        <entry>
-        <title>每夫吐槽（118）</title>
-        <id>165070</id>
-        <link href="https://pewae.com/2026/07/random_kuso_118.html?utm_source=blogfinder" />
-        <published>2026-07-27T21:42:36+08:00</published>
-        <author>
-            <name>破袜子</name>
-            <uri>https://pewae.com</uri>
-        </author>
-        <summary type="text"><![CDATA[每夫吐槽（118）]]></summary>
-    </entry>
-        <entry>
-        <title>难题</title>
-        <id>165072</id>
-        <link href="https://ezo.biz/Diary/1514.html?utm_source=blogfinder" />
-        <published>2026-07-27T21:34:33+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[难题]]></summary>
-    </entry>
-        <entry>
-        <title>[Advin] Advin Johor 马来西亚柔佛 KVM Premium S</title>
-        <id>165092</id>
-        <link href="https://blog.yeqing.net/Advin-Johor-KVM-Premium-S/?utm_source=blogfinder" />
-        <published>2026-07-27T21:23:56+08:00</published>
-        <author>
-            <name>夜轻 Blog</name>
-            <uri>https://blog.yeqing.net</uri>
-        </author>
-        <summary type="text"><![CDATA[[Advin] Advin Johor 马来西亚柔佛 KVM Premium S]]></summary>
-    </entry>
-        <entry>
-        <title>简单的信息不对齐就能让一个团队崩溃</title>
-        <id>165193</id>
-        <link href="https://joojen.com/archives/9059.html?utm_source=blogfinder" />
-        <published>2026-07-27T21:18:27+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[简单的信息不对齐就能让一个团队崩溃]]></summary>
-    </entry>
-        <entry>
-        <title>Google 推出全新安全验证方式：自拍视频登录账户</title>
-        <id>165180</id>
-        <link href="https://www.munue.com/809.html?utm_source=blogfinder" />
-        <published>2026-07-27T21:13:13+08:00</published>
-        <author>
-            <name>随风沐虐</name>
-            <uri>https://www.munue.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Google 推出全新安全验证方式：自拍视频登录账户]]></summary>
-    </entry>
-        <entry>
-        <title>养鱼</title>
-        <id>165187</id>
-        <link href="https://www.suiyan.cc/blog/20260727210033?utm_source=blogfinder" />
-        <published>2026-07-27T21:00:33+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[养鱼]]></summary>
-    </entry>
-        <entry>
-        <title>《我所理解的水下航行器》-摘要</title>
-        <id>165074</id>
-        <link href="https://blog.hantaotao.top/archives/205/?utm_source=blogfinder" />
-        <published>2026-07-27T20:40:00+08:00</published>
-        <author>
-            <name>一世繁华</name>
-            <uri>https://blog.hantaotao.top</uri>
-        </author>
-        <summary type="text"><![CDATA[《我所理解的水下航行器》-摘要]]></summary>
-    </entry>
-        <entry>
-        <title>七月记</title>
-        <id>165073</id>
-        <link href="https://www.luming.cool/posts/2026/07/july?utm_source=blogfinder" />
-        <published>2026-07-27T20:40:00+08:00</published>
-        <author>
-            <name>路明笔记</name>
-            <uri>https://www.luming.cool</uri>
-        </author>
-        <summary type="text"><![CDATA[七月记]]></summary>
-    </entry>
-        <entry>
-        <title>福利羊毛：下载蚂蚁阿福 1 分钱领 AI 体脂秤</title>
-        <id>165071</id>
-        <link href="https://www.51it.wang/ll/1-AI?utm_source=blogfinder" />
-        <published>2026-07-27T20:36:50+08:00</published>
-        <author>
-            <name>Lcry</name>
-            <uri>https://www.51it.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[福利羊毛：下载蚂蚁阿福 1 分钱领 AI 体脂秤]]></summary>
     </entry>
     </feed>
