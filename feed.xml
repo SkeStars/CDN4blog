@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-30T17:01:38+08:00</updated>
+    <updated>2026-07-30T20:00:21+08:00</updated>
+        <entry>
+        <title>折腾是独立博客的一大吸引力</title>
+        <id>165467</id>
+        <link href="https://www.pgoj.top/archives/duli-boke-zhe-teng.html?utm_source=blogfinder" />
+        <published>2026-07-30T16:11:26+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[折腾是独立博客的一大吸引力]]></summary>
+    </entry>
+        <entry>
+        <title>热、很热、非常热</title>
+        <id>165464</id>
+        <link href="https://pwsz.com/life/5107.html?utm_source=blogfinder" />
+        <published>2026-07-30T14:56:59+08:00</published>
+        <author>
+            <name>品味苏州</name>
+            <uri>https://pwsz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[热、很热、非常热]]></summary>
+    </entry>
         <entry>
         <title>激光雷达成像原理：机械式与固态式</title>
         <id>165459</id>
@@ -24,6 +46,17 @@
         <summary type="text"><![CDATA[激光雷达成像原理：机械式与固态式]]></summary>
     </entry>
         <entry>
+        <title>【观点】铁屋子里的算盘</title>
+        <id>165465</id>
+        <link href="https://hexo.limour.top/abacus-in-an-iron-house?utm_source=blogfinder" />
+        <published>2026-07-30T14:17:26+08:00</published>
+        <author>
+            <name>Limour&#039;s Blog</name>
+            <uri>https://hexo.limour.top</uri>
+        </author>
+        <summary type="text"><![CDATA[【观点】铁屋子里的算盘]]></summary>
+    </entry>
+        <entry>
         <title>华为鸿蒙7.0花粉beta版发布</title>
         <id>165461</id>
         <link href="https://blog.xrbk.cn/post/95.html?utm_source=blogfinder" />
@@ -33,6 +66,17 @@
             <uri>https://blog.xrbk.cn</uri>
         </author>
         <summary type="text"><![CDATA[华为鸿蒙7.0花粉beta版发布]]></summary>
+    </entry>
+        <entry>
+        <title>突来的消息，降薪的是你</title>
+        <id>165466</id>
+        <link href="https://liuqingwushui.top/archives/180/?utm_source=blogfinder" />
+        <published>2026-07-30T13:50:01+08:00</published>
+        <author>
+            <name>流情的博客</name>
+            <uri>https://liuqingwushui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[突来的消息，降薪的是你]]></summary>
     </entry>
         <entry>
         <title>七月近况</title>
@@ -165,6 +209,17 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lecture 2 Computational Stellar Astrophysics and Supernova Explosion Models]]></summary>
+    </entry>
+        <entry>
+        <title>MonkeyCode：免费获取 2c8g 海外/国内云服务器开发环境</title>
+        <id>165463</id>
+        <link href="https://www.wangdu.site/course/2370.html?utm_source=blogfinder" />
+        <published>2026-07-29T22:46:03+08:00</published>
+        <author>
+            <name>文武科技柜</name>
+            <uri>https://www.wangdu.site</uri>
+        </author>
+        <summary type="text"><![CDATA[MonkeyCode：免费获取 2c8g 海外/国内云服务器开发环境]]></summary>
     </entry>
         <entry>
         <title>关于论文（2）</title>
@@ -1364,38 +1419,5 @@
             <uri>https://www.51it.wang</uri>
         </author>
         <summary type="text"><![CDATA[福利羊毛：下载蚂蚁阿福 1 分钱领 AI 体脂秤]]></summary>
-    </entry>
-        <entry>
-        <title>二师兄的爱情·曲度紫鸳</title>
-        <id>165199</id>
-        <link href="https://yishu-life.com/index.php/archives/524.html?utm_source=blogfinder" />
-        <published>2026-07-27T19:13:00+08:00</published>
-        <author>
-            <name>树下语</name>
-            <uri>https://yishu-life.com</uri>
-        </author>
-        <summary type="text"><![CDATA[二师兄的爱情·曲度紫鸳]]></summary>
-    </entry>
-        <entry>
-        <title>大模型推理优化：vLLM 连续批处理与 PagedAttention 原理</title>
-        <id>165060</id>
-        <link href="https://qaqbuyan.com:88/乔安文章/130.html?utm_source=blogfinder" />
-        <published>2026-07-27T19:07:32+08:00</published>
-        <author>
-            <name>卟言的个人博客</name>
-            <uri>https://qaqbuyan.com:88</uri>
-        </author>
-        <summary type="text"><![CDATA[大模型推理优化：vLLM 连续批处理与 PagedAttention 原理]]></summary>
-    </entry>
-        <entry>
-        <title>基于 TCC 写一个所谓的分布式事务#1</title>
-        <id>165059</id>
-        <link href="https://www.bytecho.net/archives/tcc_golang_1.html?utm_source=blogfinder" />
-        <published>2026-07-27T17:17:17+08:00</published>
-        <author>
-            <name>字节星球</name>
-            <uri>https://www.bytecho.net</uri>
-        </author>
-        <summary type="text"><![CDATA[基于 TCC 写一个所谓的分布式事务#1]]></summary>
     </entry>
     </feed>
