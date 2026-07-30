@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-30T22:00:21+08:00</updated>
+    <updated>2026-07-31T00:02:31+08:00</updated>
+        <entry>
+        <title>消失的朋友圈</title>
+        <id>165475</id>
+        <link href="https://ezo.biz/Diary/1524.html?utm_source=blogfinder" />
+        <published>2026-07-30T22:36:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[消失的朋友圈]]></summary>
+    </entry>
+        <entry>
+        <title>台风来临，如何准备好应急通信对讲机</title>
+        <id>165478</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1479/?utm_source=blogfinder" />
+        <published>2026-07-30T21:59:00+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[台风来临，如何准备好应急通信对讲机]]></summary>
+    </entry>
         <entry>
         <title>记录一次事故赔付</title>
         <id>165470</id>
@@ -33,6 +55,28 @@
             <uri>https://www.weiwenchao.com</uri>
         </author>
         <summary type="text"><![CDATA[《怀柔夜云》]]></summary>
+    </entry>
+        <entry>
+        <title>Lecture 4 Evolution, Explosion and Nucleosynthesis of Massive Stars</title>
+        <id>165476</id>
+        <link href="https://physnya.top/ss-yunnan/lecture-4-evolution-explosion-and-nucleosynthesis-of-massive-stars/?utm_source=blogfinder" />
+        <published>2026-07-30T18:03:24+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lecture 4 Evolution, Explosion and Nucleosynthesis of Massive Stars]]></summary>
+    </entry>
+        <entry>
+        <title>意难平，忆中平。</title>
+        <id>165479</id>
+        <link href="https://blog.2broear.com/news/30-07-2026_move-life-on?utm_source=blogfinder" />
+        <published>2026-07-30T16:30:35+08:00</published>
+        <author>
+            <name>2BROEAR</name>
+            <uri>https://blog.2broear.com</uri>
+        </author>
+        <summary type="text"><![CDATA[意难平，忆中平。]]></summary>
     </entry>
         <entry>
         <title>折腾是独立博客的一大吸引力</title>
@@ -167,6 +211,17 @@
         <summary type="text"><![CDATA[博客一定要为读者负责吗？IV]]></summary>
     </entry>
         <entry>
+        <title>说说：#2026-07-30 00:07</title>
+        <id>165473</id>
+        <link href="https://www.mmbkz.cn/71007da4.html?utm_source=blogfinder" />
+        <published>2026-07-30T08:07:37+08:00</published>
+        <author>
+            <name>绯色之喵</name>
+            <uri>https://www.mmbkz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[说说：#2026-07-30 00:07]]></summary>
+    </entry>
+        <entry>
         <title>坏习惯</title>
         <id>165451</id>
         <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1192&amp;utm_source=blogfinder" />
@@ -297,6 +352,17 @@
             <uri>https://taxodium.ink</uri>
         </author>
         <summary type="text"><![CDATA[Album#44 - Brett Anderson]]></summary>
+    </entry>
+        <entry>
+        <title>如果你感到现在的生活一团糟</title>
+        <id>165477</id>
+        <link href="https://hulatu.com/posts/2026/07/29/%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%84%9F%E5%88%B0%E7%8E%B0%E5%9C%A8%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B8%80%E5%9B%A2%E7%B3%9F/?utm_source=blogfinder" />
+        <published>2026-07-29T22:21:31+08:00</published>
+        <author>
+            <name>胡拉图说</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[如果你感到现在的生活一团糟]]></summary>
     </entry>
         <entry>
         <title>时光流逝，我要当“爸爸”了</title>
@@ -1199,148 +1265,5 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[Are We Interfacing Yet?]]></summary>
-    </entry>
-        <entry>
-        <title>Pascal Editor：一个基于 WebGPU 的专业级 3D 建筑编辑器</title>
-        <id>165213</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-28/editor/?utm_source=blogfinder" />
-        <published>2026-07-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Pascal Editor：一个基于 WebGPU 的专业级 3D 建筑编辑器]]></summary>
-    </entry>
-        <entry>
-        <title>Go Music DL：一站式多平台音乐搜索下载工具，支持 Web/TUI/桌面/移动端</title>
-        <id>165212</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-28/go-music-dl/?utm_source=blogfinder" />
-        <published>2026-07-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Go Music DL：一站式多平台音乐搜索下载工具，支持 Web/TUI/桌面/移动端]]></summary>
-    </entry>
-        <entry>
-        <title>GeoLibre：一个免费开源、云原生、可在浏览器/桌面/Jupyter 随处运行的轻量级 GIS 平台</title>
-        <id>165211</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-28/geolibre/?utm_source=blogfinder" />
-        <published>2026-07-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[GeoLibre：一个免费开源、云原生、可在浏览器/桌面/Jupyter 随处运行的轻量级 GIS 平台]]></summary>
-    </entry>
-        <entry>
-        <title>Dear ImGui：一款让你爱不释手的 C++ 即时模式 GUI 库</title>
-        <id>165210</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-28/imgui/?utm_source=blogfinder" />
-        <published>2026-07-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Dear ImGui：一款让你爱不释手的 C++ 即时模式 GUI 库]]></summary>
-    </entry>
-        <entry>
-        <title>Awesome Systematic Trading：量化交易资源大全，97个库与40+策略一网打尽</title>
-        <id>165209</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-28/awesome-systematic-trading/?utm_source=blogfinder" />
-        <published>2026-07-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Awesome Systematic Trading：量化交易资源大全，97个库与40+策略一网打尽]]></summary>
-    </entry>
-        <entry>
-        <title>Agent Governance Toolkit：让 AI Agent 安全上线的治理利器</title>
-        <id>165208</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-28/agent-governance-toolkit/?utm_source=blogfinder" />
-        <published>2026-07-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Agent Governance Toolkit：让 AI Agent 安全上线的治理利器]]></summary>
-    </entry>
-        <entry>
-        <title>OpenWorker：吴恩达开源的桌面AI助手，让你的工作自动化</title>
-        <id>165078</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-28/openworker/?utm_source=blogfinder" />
-        <published>2026-07-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenWorker：吴恩达开源的桌面AI助手，让你的工作自动化]]></summary>
-    </entry>
-        <entry>
-        <title>OpenMinis：把最强 AI Agent 跑在你的 iPhone 本地</title>
-        <id>165077</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-28/openminis/?utm_source=blogfinder" />
-        <published>2026-07-28T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenMinis：把最强 AI Agent 跑在你的 iPhone 本地]]></summary>
-    </entry>
-        <entry>
-        <title>我为小说忙：（四）插件（写入部分）</title>
-        <id>165076</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1457/?utm_source=blogfinder" />
-        <published>2026-07-27T23:59:16+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[我为小说忙：（四）插件（写入部分）]]></summary>
-    </entry>
-        <entry>
-        <title>从 Bartender 迁移到 Thaw</title>
-        <id>165173</id>
-        <link href="https://blog.devtang.com/2026/07/27/from-bartender-to-thaw/?utm_source=blogfinder" />
-        <published>2026-07-27T23:19:19+08:00</published>
-        <author>
-            <name>唐巧的博客</name>
-            <uri>https://blog.devtang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[从 Bartender 迁移到 Thaw]]></summary>
-    </entry>
-        <entry>
-        <title>郑州游记</title>
-        <id>165089</id>
-        <link href="https://mei.lv/articles/2026/zhengzhou.html?utm_source=blogfinder" />
-        <published>2026-07-27T23:07:06+08:00</published>
-        <author>
-            <name>Mei 的网络日志</name>
-            <uri>https://mei.lv</uri>
-        </author>
-        <summary type="text"><![CDATA[郑州游记]]></summary>
-    </entry>
-        <entry>
-        <title>Why me？</title>
-        <id>165075</id>
-        <link href="https://blog.solazy.me/20260727/?utm_source=blogfinder" />
-        <published>2026-07-27T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[Why me？]]></summary>
-    </entry>
-        <entry>
-        <title>“More Perfect Than Helvetica”——当你选择字体时，你究竟在选择什么？</title>
-        <id>165178</id>
-        <link href="https://hanchan.vip/posts/choosefont/?utm_source=blogfinder" />
-        <published>2026-07-27T22:19:25+08:00</published>
-        <author>
-            <name>HanChan Blog</name>
-            <uri>https://hanchan.vip</uri>
-        </author>
-        <summary type="text"><![CDATA[“More Perfect Than Helvetica”——当你选择字体时，你究竟在选择什么？]]></summary>
     </entry>
     </feed>
