@@ -11,7 +11,95 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-31T15:02:15+08:00</updated>
+    <updated>2026-07-31T18:00:25+08:00</updated>
+        <entry>
+        <title>打算做个博客评论系统</title>
+        <id>165559</id>
+        <link href="https://blog.goodboyboy.top/posts/3370655395.html?utm_source=blogfinder" />
+        <published>2026-07-31T17:37:49+08:00</published>
+        <author>
+            <name>GoodBoyboy</name>
+            <uri>https://blog.goodboyboy.top</uri>
+        </author>
+        <summary type="text"><![CDATA[打算做个博客评论系统]]></summary>
+    </entry>
+        <entry>
+        <title>且慢！先来实现分布式锁！</title>
+        <id>165561</id>
+        <link href="https://www.bytecho.net/archives/golang_dlock.html?utm_source=blogfinder" />
+        <published>2026-07-31T17:17:17+08:00</published>
+        <author>
+            <name>字节星球</name>
+            <uri>https://www.bytecho.net</uri>
+        </author>
+        <summary type="text"><![CDATA[且慢！先来实现分布式锁！]]></summary>
+    </entry>
+        <entry>
+        <title>《期待的模样》</title>
+        <id>165556</id>
+        <link href="https://www.weiwenchao.com/2731.html?utm_source=blogfinder" />
+        <published>2026-07-31T16:26:00+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《期待的模样》]]></summary>
+    </entry>
+        <entry>
+        <title>改进Typecho访客记录插件：优化性能，增强安全</title>
+        <id>165554</id>
+        <link href="https://www.nekopara.uk/archives/enhence_visitorloggerpro.html?utm_source=blogfinder" />
+        <published>2026-07-31T16:03:00+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[改进Typecho访客记录插件：优化性能，增强安全]]></summary>
+    </entry>
+        <entry>
+        <title>换轮胎</title>
+        <id>165555</id>
+        <link href="https://ficor.net/archives/53?utm_source=blogfinder" />
+        <published>2026-07-31T15:52:00+08:00</published>
+        <author>
+            <name>荒野菲克</name>
+            <uri>https://ficor.net</uri>
+        </author>
+        <summary type="text"><![CDATA[换轮胎]]></summary>
+    </entry>
+        <entry>
+        <title>对视</title>
+        <id>165553</id>
+        <link href="https://ltmltm.cn/bk/1483.html?utm_source=blogfinder" />
+        <published>2026-07-31T14:33:38+08:00</published>
+        <author>
+            <name>因为很想念</name>
+            <uri>https://ltmltm.cn/bk</uri>
+        </author>
+        <summary type="text"><![CDATA[对视]]></summary>
+    </entry>
+        <entry>
+        <title>我将AI当做浅层辅助的责任编辑</title>
+        <id>165557</id>
+        <link href="https://www.pgoj.top/archives/AI-ze-ren-bianji.html?utm_source=blogfinder" />
+        <published>2026-07-31T14:13:29+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[我将AI当做浅层辅助的责任编辑]]></summary>
+    </entry>
+        <entry>
+        <title>滑块验证码的防模拟拖动算法——轨迹分析与异常检测</title>
+        <id>165550</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/134.html?utm_source=blogfinder" />
+        <published>2026-07-31T13:09:45+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[滑块验证码的防模拟拖动算法——轨迹分析与异常检测]]></summary>
+    </entry>
         <entry>
         <title>91元入手猛犸a2无线麦克</title>
         <id>165544</id>
@@ -22,6 +110,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[91元入手猛犸a2无线麦克]]></summary>
+    </entry>
+        <entry>
+        <title>写作是照亮自己的路</title>
+        <id>165551</id>
+        <link href="https://vrast.cn/posts/48749/?utm_source=blogfinder" />
+        <published>2026-07-31T11:05:03+08:00</published>
+        <author>
+            <name>Keyle&#039;s Blog</name>
+            <uri>https://vrast.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[写作是照亮自己的路]]></summary>
     </entry>
         <entry>
         <title>账户管家(马甲管理器) - 多账户登录管理器 浏览器拓展插件 送专业版套餐</title>
@@ -101,6 +200,17 @@
         <summary type="text"><![CDATA[Re《承认吧，你其实根本不爱看书》]]></summary>
     </entry>
         <entry>
+        <title>一些想法汇总</title>
+        <id>165548</id>
+        <link href="https://shuiba.co/idea-bank?utm_source=blogfinder" />
+        <published>2026-07-31T09:07:00+08:00</published>
+        <author>
+            <name>水八口的冥想盆</name>
+            <uri>https://shuiba.co</uri>
+        </author>
+        <summary type="text"><![CDATA[一些想法汇总]]></summary>
+    </entry>
+        <entry>
         <title>燥热七月，琐碎记录</title>
         <id>165534</id>
         <link href="https://zhujay.com/blog/blog_detail.html?id=1267&amp;utm_source=blogfinder" />
@@ -123,6 +233,17 @@
         <summary type="text"><![CDATA[科技爱好者周刊（第 406 期）：道可，道非，常道]]></summary>
     </entry>
         <entry>
+        <title>松声｜廿六年·七月末·雨滂沱</title>
+        <id>165552</id>
+        <link href="https://xyzbz.cn/archives/1562/?utm_source=blogfinder" />
+        <published>2026-07-31T07:51:47+08:00</published>
+        <author>
+            <name>网友小宋</name>
+            <uri>https://xyzbz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[松声｜廿六年·七月末·雨滂沱]]></summary>
+    </entry>
+        <entry>
         <title>学习周刊-总第274期-2026年第31周</title>
         <id>165527</id>
         <link href="https://wiki.eryajf.net/pages/7216a4/?utm_source=blogfinder" />
@@ -143,6 +264,17 @@
             <uri>https://fxpai.com</uri>
         </author>
         <summary type="text"><![CDATA[陪孩子九寨沟游学第五日—结营]]></summary>
+    </entry>
+        <entry>
+        <title>机场对线</title>
+        <id>165560</id>
+        <link href="https://d-d.design/single/19850?utm_source=blogfinder" />
+        <published>2026-07-31T06:12:09+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[机场对线]]></summary>
     </entry>
         <entry>
         <title>无意中找到以前的留言板备份，于是乎迁移了近200条留言</title>
@@ -286,6 +418,17 @@
             <uri>https://physnya.top</uri>
         </author>
         <summary type="text"><![CDATA[Lecture 4 Evolution, Explosion and Nucleosynthesis of Massive Stars]]></summary>
+    </entry>
+        <entry>
+        <title>百分之百跳过红果短剧/漫剧广告的方法</title>
+        <id>165558</id>
+        <link href="https://lklog.cn/course/1437.html?utm_source=blogfinder" />
+        <published>2026-07-30T17:34:32+08:00</published>
+        <author>
+            <name>龙鲲博客</name>
+            <uri>https://lklog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[百分之百跳过红果短剧/漫剧广告的方法]]></summary>
     </entry>
         <entry>
         <title>读诗有感</title>
@@ -1452,49 +1595,5 @@
             <uri>https://cbc688.com</uri>
         </author>
         <summary type="text"><![CDATA[这些年，头一回梦见你]]></summary>
-    </entry>
-        <entry>
-        <title>第 34 届全国图书交易博览会小记</title>
-        <id>165200</id>
-        <link href="https://dujun.io/photos-from-the-34th-national-book-expo.html?utm_source=blogfinder" />
-        <published>2026-07-28T16:41:57+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[第 34 届全国图书交易博览会小记]]></summary>
-    </entry>
-        <entry>
-        <title>CPU跑满一百，不是代码的锅</title>
-        <id>165323</id>
-        <link href="https://pwsz.com/share/5103.html?utm_source=blogfinder" />
-        <published>2026-07-28T16:38:47+08:00</published>
-        <author>
-            <name>品味苏州</name>
-            <uri>https://pwsz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[CPU跑满一百，不是代码的锅]]></summary>
-    </entry>
-        <entry>
-        <title>ZR 集训 Day12 – 模拟赛</title>
-        <id>165202</id>
-        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day12-%e6%a8%a1%e6%8b%9f%e8%b5%9b/?utm_source=blogfinder" />
-        <published>2026-07-28T16:02:31+08:00</published>
-        <author>
-            <name>ooliver 的博客</name>
-            <uri>https://blog.ooliver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[ZR 集训 Day12 – 模拟赛]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1696】希阿荣博堪布《前行笔记之耕耘心田》</title>
-        <id>165191</id>
-        <link href="http://www.qncd.com/?p=12953&amp;utm_source=blogfinder" />
-        <published>2026-07-28T15:45:51+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1696】希阿荣博堪布《前行笔记之耕耘心田》]]></summary>
     </entry>
     </feed>
