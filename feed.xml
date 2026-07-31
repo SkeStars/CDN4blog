@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-31T22:00:27+08:00</updated>
+    <updated>2026-08-01T00:05:40+08:00</updated>
+        <entry>
+        <title>【亲测有效】解决Bitwarden 浏览器扩展程序 2026.7.0 显示保险库为空的问题</title>
+        <id>165565</id>
+        <link href="https://www.wangdu.site/course/2371.html?utm_source=blogfinder" />
+        <published>2026-07-31T22:33:08+08:00</published>
+        <author>
+            <name>文武科技柜</name>
+            <uri>https://www.wangdu.site</uri>
+        </author>
+        <summary type="text"><![CDATA[【亲测有效】解决Bitwarden 浏览器扩展程序 2026.7.0 显示保险库为空的问题]]></summary>
+    </entry>
+        <entry>
+        <title>七月份总结</title>
+        <id>165636</id>
+        <link href="https://www.lifd.site/2026/07/qi-yue-fen-zong-jie/?utm_source=blogfinder" />
+        <published>2026-07-31T22:24:01+08:00</published>
+        <author>
+            <name>LiFD</name>
+            <uri>https://www.lifd.site</uri>
+        </author>
+        <summary type="text"><![CDATA[七月份总结]]></summary>
+    </entry>
+        <entry>
+        <title>月志202607</title>
+        <id>165568</id>
+        <link href="https://ezo.biz/Diary/1527.html?utm_source=blogfinder" />
+        <published>2026-07-31T21:55:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[月志202607]]></summary>
+    </entry>
         <entry>
         <title>【读书记1698】杨淏《关机：离线流浪中国134天》</title>
         <id>165564</id>
@@ -35,6 +68,17 @@
         <summary type="text"><![CDATA[行为验证码的对抗设计：从采集到建模的全链路]]></summary>
     </entry>
         <entry>
+        <title>自助饺子</title>
+        <id>165637</id>
+        <link href="https://blog.frdlink.link/index.php?article_id=30&amp;utm_source=blogfinder" />
+        <published>2026-07-31T18:28:13+08:00</published>
+        <author>
+            <name>FRD Link</name>
+            <uri>https://blog.frdlink.link</uri>
+        </author>
+        <summary type="text"><![CDATA[自助饺子]]></summary>
+    </entry>
+        <entry>
         <title>打算做个博客评论系统</title>
         <id>165559</id>
         <link href="https://blog.goodboyboy.top/posts/3370655395.html?utm_source=blogfinder" />
@@ -55,6 +99,17 @@
             <uri>https://www.bytecho.net</uri>
         </author>
         <summary type="text"><![CDATA[且慢！先来实现分布式锁！]]></summary>
+    </entry>
+        <entry>
+        <title>使用AI写的一款“魔法花园”程序源码</title>
+        <id>165566</id>
+        <link href="https://luolt.cn/archives/AI.html?utm_source=blogfinder" />
+        <published>2026-07-31T16:30:00+08:00</published>
+        <author>
+            <name>洛丽糖</name>
+            <uri>http://luolt.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[使用AI写的一款“魔法花园”程序源码]]></summary>
     </entry>
         <entry>
         <title>《期待的模样》</title>
@@ -396,6 +451,17 @@
             <uri>https://whitebear.im</uri>
         </author>
         <summary type="text"><![CDATA[近期小记]]></summary>
+    </entry>
+        <entry>
+        <title>OpenConnector：给 AI Agent 加上一道凭据防火墙</title>
+        <id>165567</id>
+        <link href="https://blog.devtang.com/2026/07/30/openconnector-credential-firewall/?utm_source=blogfinder" />
+        <published>2026-07-30T21:30:00+08:00</published>
+        <author>
+            <name>唐巧的博客</name>
+            <uri>https://blog.devtang.com</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenConnector：给 AI Agent 加上一道凭据防火墙]]></summary>
     </entry>
         <entry>
         <title>记录一次事故赔付</title>
@@ -1353,247 +1419,5 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[我做了一张地图]]></summary>
-    </entry>
-        <entry>
-        <title>简谱：映入红瞳的世界</title>
-        <id>165431</id>
-        <link href="https://vnyzm.top/html/%E7%AE%80%E8%B0%B1%EF%BC%9A%E6%98%A0%E5%85%A5%E7%BA%A2%E7%9E%B3%E7%9A%84%E4%B8%96%E7%95%8C.html?utm_source=blogfinder" />
-        <published>2026-07-29T00:00:00+08:00</published>
-        <author>
-            <name>VnYzm 的博客</name>
-            <uri>https://vnyzm.top</uri>
-        </author>
-        <summary type="text"><![CDATA[简谱：映入红瞳的世界]]></summary>
-    </entry>
-        <entry>
-        <title>“让孕妇挤地铁的家庭，真的有必要生娃么？”</title>
-        <id>165430</id>
-        <link href="https://cuixiping.com/blog/think/svmerg?utm_source=blogfinder" />
-        <published>2026-07-29T00:00:00+08:00</published>
-        <author>
-            <name>崔话记</name>
-            <uri>https://cuixiping.com</uri>
-        </author>
-        <summary type="text"><![CDATA[“让孕妇挤地铁的家庭，真的有必要生娃么？”]]></summary>
-    </entry>
-        <entry>
-        <title>StackChan：超可爱的开源 AI 桌面机器人</title>
-        <id>165416</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-29/stackchan/?utm_source=blogfinder" />
-        <published>2026-07-29T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[StackChan：超可爱的开源 AI 桌面机器人]]></summary>
-    </entry>
-        <entry>
-        <title>Nowhere：一个端口同时支持 TCP 与 UDP 传输的开源中继工具</title>
-        <id>165415</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-29/nowhere/?utm_source=blogfinder" />
-        <published>2026-07-29T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Nowhere：一个端口同时支持 TCP 与 UDP 传输的开源中继工具]]></summary>
-    </entry>
-        <entry>
-        <title>free-stockdb：一个本地量化数据引擎，让 A 股全市场回测从 10 天压缩到 30 分钟</title>
-        <id>165414</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-29/free-stockdb/?utm_source=blogfinder" />
-        <published>2026-07-29T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[free-stockdb：一个本地量化数据引擎，让 A 股全市场回测从 10 天压缩到 30 分钟]]></summary>
-    </entry>
-        <entry>
-        <title>FluentCleaner：一款让 Windows 系统清洁工具回归初心的开源项目</title>
-        <id>165413</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-29/fluentcleaner/?utm_source=blogfinder" />
-        <published>2026-07-29T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[FluentCleaner：一款让 Windows 系统清洁工具回归初心的开源项目]]></summary>
-    </entry>
-        <entry>
-        <title>FAROS：开源 AutoResearch 运行时，让 AI 自己搞定科研全流程</title>
-        <id>165412</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-29/faros/?utm_source=blogfinder" />
-        <published>2026-07-29T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[FAROS：开源 AutoResearch 运行时，让 AI 自己搞定科研全流程]]></summary>
-    </entry>
-        <entry>
-        <title>我的博圈升级-日志列表</title>
-        <id>165375</id>
-        <link href="https://ilogs.cn/2026/07/28/390.html?utm_source=blogfinder" />
-        <published>2026-07-28T23:59:00+08:00</published>
-        <author>
-            <name>我的日志</name>
-            <uri>https://ilogs.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[我的博圈升级-日志列表]]></summary>
-    </entry>
-        <entry>
-        <title>Lecture 2 AGB stars</title>
-        <id>165355</id>
-        <link href="https://physnya.top/ss-yunnan/lecture-2-agb-stars/?utm_source=blogfinder" />
-        <published>2026-07-28T23:29:47+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lecture 2 AGB stars]]></summary>
-    </entry>
-        <entry>
-        <title>Lecture 1 Chemodynamics and other</title>
-        <id>165354</id>
-        <link href="https://physnya.top/ss-yunnan/lecture-1-chemodynamics/?utm_source=blogfinder" />
-        <published>2026-07-28T23:29:47+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lecture 1 Chemodynamics and other]]></summary>
-    </entry>
-        <entry>
-        <title>ICESUN 暑校</title>
-        <id>165353</id>
-        <link href="https://physnya.top/ss-yunnan/?utm_source=blogfinder" />
-        <published>2026-07-28T23:29:47+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[ICESUN 暑校]]></summary>
-    </entry>
-        <entry>
-        <title>使用测速脚本测一下服务器带宽</title>
-        <id>165387</id>
-        <link href="https://blog.xrbk.cn/post/94.html?utm_source=blogfinder" />
-        <published>2026-07-28T23:24:00+08:00</published>
-        <author>
-            <name>新锐博客</name>
-            <uri>https://blog.xrbk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[使用测速脚本测一下服务器带宽]]></summary>
-    </entry>
-        <entry>
-        <title>深夜EMO~</title>
-        <id>165392</id>
-        <link href="https://www.lifd.site/2026/07/shen-ye-emo/?utm_source=blogfinder" />
-        <published>2026-07-28T23:15:43+08:00</published>
-        <author>
-            <name>LiFD</name>
-            <uri>https://www.lifd.site</uri>
-        </author>
-        <summary type="text"><![CDATA[深夜EMO~]]></summary>
-    </entry>
-        <entry>
-        <title>理发</title>
-        <id>165388</id>
-        <link href="https://ezo.biz/Diary/1516.html?utm_source=blogfinder" />
-        <published>2026-07-28T23:11:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[理发]]></summary>
-    </entry>
-        <entry>
-        <title>「什么都懂」的人</title>
-        <id>165407</id>
-        <link href="https://blog.solazy.me/20260728/?utm_source=blogfinder" />
-        <published>2026-07-28T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[「什么都懂」的人]]></summary>
-    </entry>
-        <entry>
-        <title>搞氛围还得是你</title>
-        <id>165356</id>
-        <link href="http://etom.top/archives/so193.html?utm_source=blogfinder" />
-        <published>2026-07-28T22:55:00+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[搞氛围还得是你]]></summary>
-    </entry>
-        <entry>
-        <title>【转载】我们也许不该再投资 GUI 思维的软件公司</title>
-        <id>165390</id>
-        <link href="https://hexo.limour.top/no-more-investment-in-gui?utm_source=blogfinder" />
-        <published>2026-07-28T22:27:51+08:00</published>
-        <author>
-            <name>Limour&#039;s Blog</name>
-            <uri>https://hexo.limour.top</uri>
-        </author>
-        <summary type="text"><![CDATA[【转载】我们也许不该再投资 GUI 思维的软件公司]]></summary>
-    </entry>
-        <entry>
-        <title>Token 焦虑</title>
-        <id>165371</id>
-        <link href="https://www.suiyan.cc/blog/20260728222050?utm_source=blogfinder" />
-        <published>2026-07-28T22:20:50+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[Token 焦虑]]></summary>
-    </entry>
-        <entry>
-        <title>天空的云朵</title>
-        <id>165357</id>
-        <link href="http://etom.top/archives/so192.html?utm_source=blogfinder" />
-        <published>2026-07-28T22:11:12+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[天空的云朵]]></summary>
-    </entry>
-        <entry>
-        <title>陪孩子九寨沟游学第三日</title>
-        <id>165370</id>
-        <link href="https://fxpai.com/article/peihaizijiuzhaigouyouxuedisanri?utm_source=blogfinder" />
-        <published>2026-07-28T22:07:43+08:00</published>
-        <author>
-            <name>非学·派</name>
-            <uri>https://fxpai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[陪孩子九寨沟游学第三日]]></summary>
-    </entry>
-        <entry>
-        <title>肉身宇航服</title>
-        <id>165206</id>
-        <link href="https://www.chenrui.com/post/3498.html?utm_source=blogfinder" />
-        <published>2026-07-28T22:02:44+08:00</published>
-        <author>
-            <name>不可</name>
-            <uri>https://www.chenrui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[肉身宇航服]]></summary>
-    </entry>
-        <entry>
-        <title>YOLO图片监测怎么整</title>
-        <id>165369</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-07-28-yolo-training-on-gpu1.html?utm_source=blogfinder" />
-        <published>2026-07-28T22:02:24+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[YOLO图片监测怎么整]]></summary>
     </entry>
     </feed>
