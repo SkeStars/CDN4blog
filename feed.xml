@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-07-31T18:00:25+08:00</updated>
+    <updated>2026-07-31T20:00:21+08:00</updated>
+        <entry>
+        <title>行为验证码的对抗设计：从采集到建模的全链路</title>
+        <id>165563</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/135.html?utm_source=blogfinder" />
+        <published>2026-07-31T19:36:05+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[行为验证码的对抗设计：从采集到建模的全链路]]></summary>
+    </entry>
         <entry>
         <title>打算做个博客评论系统</title>
         <id>165559</id>
@@ -99,6 +110,17 @@
             <uri>https://qaqbuyan.com:88</uri>
         </author>
         <summary type="text"><![CDATA[滑块验证码的防模拟拖动算法——轨迹分析与异常检测]]></summary>
+    </entry>
+        <entry>
+        <title>向云端｜西南自驾04 - 南昌</title>
+        <id>165562</id>
+        <link href="https://blog.ops-coffee.com/r/2026-southwest-road-trip-04-nanchang.html?utm_source=blogfinder" />
+        <published>2026-07-31T12:42:32+08:00</published>
+        <author>
+            <name>运维咖啡吧</name>
+            <uri>https://blog.ops-coffee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[向云端｜西南自驾04 - 南昌]]></summary>
     </entry>
         <entry>
         <title>91元入手猛犸a2无线麦克</title>
@@ -1573,27 +1595,5 @@
             <uri>https://hulatu.com</uri>
         </author>
         <summary type="text"><![CDATA[公众号（自媒体）运营心得]]></summary>
-    </entry>
-        <entry>
-        <title>西山漫行记：穿过龙门，寻踪猫猫箐小黑龙</title>
-        <id>165403</id>
-        <link href="https://mecll.com/1076.html?utm_source=blogfinder" />
-        <published>2026-07-28T19:58:07+08:00</published>
-        <author>
-            <name>流浪天下</name>
-            <uri>https://mecll.com</uri>
-        </author>
-        <summary type="text"><![CDATA[西山漫行记：穿过龙门，寻踪猫猫箐小黑龙]]></summary>
-    </entry>
-        <entry>
-        <title>这些年，头一回梦见你</title>
-        <id>165386</id>
-        <link href="https://cbc688.com/articles/dream-of-you?utm_source=blogfinder" />
-        <published>2026-07-28T19:39:00+08:00</published>
-        <author>
-            <name>CRIVU</name>
-            <uri>https://cbc688.com</uri>
-        </author>
-        <summary type="text"><![CDATA[这些年，头一回梦见你]]></summary>
     </entry>
     </feed>
