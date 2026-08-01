@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-01T19:03:28+08:00</updated>
+    <updated>2026-08-01T22:00:26+08:00</updated>
+        <entry>
+        <title>Windows PowerShell 中安装 NeoVim</title>
+        <id>165696</id>
+        <link href="https://www.sunzhongwei.com/installing-neovim-windows-powershell?utm_source=blogfinder" />
+        <published>2026-08-01T17:32:59+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Windows PowerShell 中安装 NeoVim]]></summary>
+    </entry>
         <entry>
         <title>四川度过了红色高温，现在轮到华北、华东、华中、东北地区体验红色高温了</title>
         <id>165692</id>
@@ -24,6 +35,28 @@
         <summary type="text"><![CDATA[四川度过了红色高温，现在轮到华北、华东、华中、东北地区体验红色高温了]]></summary>
     </entry>
         <entry>
+        <title>ZR 集训 Day16 – 概率期望&amp;生成函数</title>
+        <id>165695</id>
+        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day16-%e6%a6%82%e7%8e%87%e6%9c%9f%e6%9c%9b%e7%94%9f%e6%88%90%e5%87%bd%e6%95%b0/?utm_source=blogfinder" />
+        <published>2026-08-01T16:30:09+08:00</published>
+        <author>
+            <name>ooliver 的博客</name>
+            <uri>https://blog.ooliver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[ZR 集训 Day16 – 概率期望&amp;生成函数]]></summary>
+    </entry>
+        <entry>
+        <title>送外卖的有趣事！</title>
+        <id>165697</id>
+        <link href="https://xiangming.site/1142.html?utm_source=blogfinder" />
+        <published>2026-08-01T16:25:00+08:00</published>
+        <author>
+            <name>湘铭呀</name>
+            <uri>https://xiangming.site</uri>
+        </author>
+        <summary type="text"><![CDATA[送外卖的有趣事！]]></summary>
+    </entry>
+        <entry>
         <title>【观点】白大褂挂在钩子上</title>
         <id>165691</id>
         <link href="https://hexo.limour.top/the-white-lab-coat-is-hung-on-the-hook?utm_source=blogfinder" />
@@ -33,6 +66,17 @@
             <uri>https://hexo.limour.top</uri>
         </author>
         <summary type="text"><![CDATA[【观点】白大褂挂在钩子上]]></summary>
+    </entry>
+        <entry>
+        <title>向云端｜西南自驾05 - 长沙</title>
+        <id>165694</id>
+        <link href="https://blog.ops-coffee.com/r/2026-southwest-road-trip-05-changsha.html?utm_source=blogfinder" />
+        <published>2026-08-01T13:41:20+08:00</published>
+        <author>
+            <name>运维咖啡吧</name>
+            <uri>https://blog.ops-coffee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[向云端｜西南自驾05 - 长沙]]></summary>
     </entry>
         <entry>
         <title>每个人心中都有……</title>
@@ -88,6 +132,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[2026年7月微信读书阅读记录与笔记]]></summary>
+    </entry>
+        <entry>
+        <title>撞到车，要说对不起</title>
+        <id>165699</id>
+        <link href="https://hulatu.com/docs/do-not-escape/?utm_source=blogfinder" />
+        <published>2026-08-01T10:48:32+08:00</published>
+        <author>
+            <name>胡拉图说</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[撞到车，要说对不起]]></summary>
     </entry>
         <entry>
         <title>有一个AI大厂可以薅羊毛了！完成注册即可获得68元免费token额度</title>
@@ -1562,104 +1617,5 @@
             <uri>https://hulatu.com</uri>
         </author>
         <summary type="text"><![CDATA[如果你感到现在的生活一团糟]]></summary>
-    </entry>
-        <entry>
-        <title>时光流逝，我要当“爸爸”了</title>
-        <id>165400</id>
-        <link href="http://99887766554433221100.cn/index.php/archives/195/?utm_source=blogfinder" />
-        <published>2026-07-29T21:26:00+08:00</published>
-        <author>
-            <name>南香香</name>
-            <uri>http://99887766554433221100.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[时光流逝，我要当“爸爸”了]]></summary>
-    </entry>
-        <entry>
-        <title>在本地跑一个大模型，从0到能用</title>
-        <id>165433</id>
-        <link href="https://www.wsyblog.cn/2026/bendimoxing?utm_source=blogfinder" />
-        <published>2026-07-29T21:21:00+08:00</published>
-        <author>
-            <name>王苏洋 Blog</name>
-            <uri>https://www.wsyblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[在本地跑一个大模型，从0到能用]]></summary>
-    </entry>
-        <entry>
-        <title>游玩日记·第一期</title>
-        <id>165408</id>
-        <link href="https://blog.weasel6.cn/posts/life-first/?utm_source=blogfinder" />
-        <published>2026-07-29T21:03:00+08:00</published>
-        <author>
-            <name>小黄的日记本</name>
-            <uri>https://blog.weasel6.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[游玩日记·第一期]]></summary>
-    </entry>
-        <entry>
-        <title>关于科研</title>
-        <id>165453</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-07-29-about-research.html?utm_source=blogfinder" />
-        <published>2026-07-29T20:57:24+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[关于科研]]></summary>
-    </entry>
-        <entry>
-        <title>《随感言论杂录2607-3》</title>
-        <id>165462</id>
-        <link href="https://www.weiwenchao.com/2709.html?utm_source=blogfinder" />
-        <published>2026-07-29T20:36:00+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《随感言论杂录2607-3》]]></summary>
-    </entry>
-        <entry>
-        <title>ZR 集训 Day13 – 同余、线代入门</title>
-        <id>165399</id>
-        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day13-%e5%90%8c%e4%bd%99%e3%80%81%e7%ba%bf%e4%bb%a3%e5%85%a5%e9%97%a8/?utm_source=blogfinder" />
-        <published>2026-07-29T20:34:41+08:00</published>
-        <author>
-            <name>ooliver 的博客</name>
-            <uri>https://blog.ooliver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[ZR 集训 Day13 – 同余、线代入门]]></summary>
-    </entry>
-        <entry>
-        <title>附子乱象背后的监管与自救之争</title>
-        <id>165401</id>
-        <link href="https://jiangcl.com/4891?utm_source=blogfinder" />
-        <published>2026-07-29T20:29:07+08:00</published>
-        <author>
-            <name>蒙需</name>
-            <uri>https://jiangcl.com/</uri>
-        </author>
-        <summary type="text"><![CDATA[附子乱象背后的监管与自救之争]]></summary>
-    </entry>
-        <entry>
-        <title>字间 260729</title>
-        <id>165395</id>
-        <link href="https://www.suiyan.cc/blog/20260729193734?utm_source=blogfinder" />
-        <published>2026-07-29T19:37:34+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[字间 260729]]></summary>
-    </entry>
-        <entry>
-        <title>我们不该迷信或者追逐‘成功的经验’</title>
-        <id>165398</id>
-        <link href="https://www.pgoj.top/archives/cheng-gong-jing-yan.html?utm_source=blogfinder" />
-        <published>2026-07-29T19:30:46+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[我们不该迷信或者追逐‘成功的经验’]]></summary>
     </entry>
     </feed>
