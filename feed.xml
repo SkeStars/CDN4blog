@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-01T12:01:20+08:00</updated>
+    <updated>2026-08-01T15:02:14+08:00</updated>
         <entry>
         <title>零基础做AI歌曲，解锁副业收益</title>
         <id>165679</id>
@@ -90,6 +90,17 @@
         <summary type="text"><![CDATA[未来五天请叫我易妈妈]]></summary>
     </entry>
         <entry>
+        <title>RE：Post-political</title>
+        <id>165684</id>
+        <link href="https://blog.cytrogen.icu/posts/36e6.html?utm_source=blogfinder" />
+        <published>2026-08-01T08:41:00+08:00</published>
+        <author>
+            <name>Cytrogen&#039;s Blog</name>
+            <uri>https://blog.cytrogen.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[RE：Post-political]]></summary>
+    </entry>
+        <entry>
         <title>七月读书（八本）手账</title>
         <id>165678</id>
         <link href="http://www.qncd.com/?p=12965&amp;utm_source=blogfinder" />
@@ -110,6 +121,17 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[彭水城影]]></summary>
+    </entry>
+        <entry>
+        <title>RE：Why China got rich and India didn&#039;t</title>
+        <id>165685</id>
+        <link href="https://blog.cytrogen.icu/posts/1b10.html?utm_source=blogfinder" />
+        <published>2026-08-01T05:33:00+08:00</published>
+        <author>
+            <name>Cytrogen&#039;s Blog</name>
+            <uri>https://blog.cytrogen.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[RE：Why China got rich and India didn&#039;t]]></summary>
     </entry>
         <entry>
         <title>答博客作者问卷</title>
@@ -231,6 +253,17 @@
             <uri>https://siwei.li</uri>
         </author>
         <summary type="text"><![CDATA[家里添了一个小宝宝]]></summary>
+    </entry>
+        <entry>
+        <title>我是不是该去烧两柱了</title>
+        <id>165687</id>
+        <link href="https://imxcy.cn/archives/6b285f2d.html?utm_source=blogfinder" />
+        <published>2026-07-31T22:37:41+08:00</published>
+        <author>
+            <name>许大阳的日记本</name>
+            <uri>https://imxcy.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[我是不是该去烧两柱了]]></summary>
     </entry>
         <entry>
         <title>【亲测有效】解决Bitwarden 浏览器扩展程序 2026.7.0 显示保险库为空的问题</title>
@@ -451,6 +484,17 @@
             <uri>https://blog.ops-coffee.com</uri>
         </author>
         <summary type="text"><![CDATA[向云端｜西南自驾04 - 南昌]]></summary>
+    </entry>
+        <entry>
+        <title>洗澡和洗头发</title>
+        <id>165686</id>
+        <link href="https://blog.cytrogen.icu/posts/11d1.html?utm_source=blogfinder" />
+        <published>2026-07-31T12:00:00+08:00</published>
+        <author>
+            <name>Cytrogen&#039;s Blog</name>
+            <uri>https://blog.cytrogen.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[洗澡和洗头发]]></summary>
     </entry>
         <entry>
         <title>91元入手猛犸a2无线麦克</title>
@@ -1617,38 +1661,5 @@
             <uri>https://imqi1.com</uri>
         </author>
         <summary type="text"><![CDATA[蜘蛛侠4，咋说呢，还是挺烂的]]></summary>
-    </entry>
-        <entry>
-        <title>为 Butterfly 的友链页增加 json5 支持</title>
-        <id>165432</id>
-        <link href="https://www.oxue.de/posts/json5-4butterfly-flink/?utm_source=blogfinder" />
-        <published>2026-07-29T14:51:56+08:00</published>
-        <author>
-            <name>傲雪の</name>
-            <uri>https://www.oxue.de</uri>
-        </author>
-        <summary type="text"><![CDATA[为 Butterfly 的友链页增加 json5 支持]]></summary>
-    </entry>
-        <entry>
-        <title>Zine#55 - 嘗試才是罕見的</title>
-        <id>165391</id>
-        <link href="https://taxodium.ink/55.html?utm_source=blogfinder" />
-        <published>2026-07-29T13:20:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[Zine#55 - 嘗試才是罕見的]]></summary>
-    </entry>
-        <entry>
-        <title>详列东野圭吾106部作品完整清单</title>
-        <id>165374</id>
-        <link href="https://www.munue.com/810.html?utm_source=blogfinder" />
-        <published>2026-07-29T12:16:33+08:00</published>
-        <author>
-            <name>随风沐虐</name>
-            <uri>https://www.munue.com</uri>
-        </author>
-        <summary type="text"><![CDATA[详列东野圭吾106部作品完整清单]]></summary>
     </entry>
     </feed>
