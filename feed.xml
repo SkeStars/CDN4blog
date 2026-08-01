@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-01T15:02:14+08:00</updated>
+    <updated>2026-08-01T17:01:03+08:00</updated>
+        <entry>
+        <title>每个人心中都有……</title>
+        <id>165688</id>
+        <link href="https://mobius.blog/25246.html?utm_source=blogfinder" />
+        <published>2026-08-01T11:49:53+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[每个人心中都有……]]></summary>
+    </entry>
         <entry>
         <title>零基础做AI歌曲，解锁副业收益</title>
         <id>165679</id>
@@ -66,6 +77,17 @@
             <uri>https://renhuali.cn</uri>
         </author>
         <summary type="text"><![CDATA[有一个AI大厂可以薅羊毛了！完成注册即可获得68元免费token额度]]></summary>
+    </entry>
+        <entry>
+        <title>关于博客写作</title>
+        <id>165690</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-08-01-about-writing.html?utm_source=blogfinder" />
+        <published>2026-08-01T10:03:54+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[关于博客写作]]></summary>
     </entry>
         <entry>
         <title>为什么有的模型上下文能到 1M，而有的只有 100k</title>
@@ -154,6 +176,17 @@
             <uri>https://howiehz.top</uri>
         </author>
         <summary type="text"><![CDATA[一句话去除网页反调试]]></summary>
+    </entry>
+        <entry>
+        <title>Linux更换软件源</title>
+        <id>165689</id>
+        <link href="https://blog.xrbk.cn/post/96.html?utm_source=blogfinder" />
+        <published>2026-08-01T00:38:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://blog.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Linux更换软件源]]></summary>
     </entry>
         <entry>
         <title>Herdr：终端里的 AI Agent 多路复用器</title>
@@ -1628,38 +1661,5 @@
             <uri>https://www.huih110.com</uri>
         </author>
         <summary type="text"><![CDATA[山南轮迹-上]]></summary>
-    </entry>
-        <entry>
-        <title>IndiePing 的新功能！</title>
-        <id>165445</id>
-        <link href="https://blog.giveanornot.com/indieping-feed/?utm_source=blogfinder" />
-        <published>2026-07-29T16:17:48+08:00</published>
-        <author>
-            <name>資工小廢物  - JN</name>
-            <uri>https://blog.giveanornot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[IndiePing 的新功能！]]></summary>
-    </entry>
-        <entry>
-        <title>备案后可不可以放置比较擦边的地址？</title>
-        <id>165510</id>
-        <link href="https://blog.frdlink.link/index.php?article_id=28&amp;utm_source=blogfinder" />
-        <published>2026-07-29T16:16:53+08:00</published>
-        <author>
-            <name>FRD Link</name>
-            <uri>https://blog.frdlink.link</uri>
-        </author>
-        <summary type="text"><![CDATA[备案后可不可以放置比较擦边的地址？]]></summary>
-    </entry>
-        <entry>
-        <title>蜘蛛侠4，咋说呢，还是挺烂的</title>
-        <id>165397</id>
-        <link href="https://imqi1.com/content/note/1019?utm_source=blogfinder" />
-        <published>2026-07-29T15:21:00+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[蜘蛛侠4，咋说呢，还是挺烂的]]></summary>
     </entry>
     </feed>
