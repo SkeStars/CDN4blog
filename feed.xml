@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-01T17:01:03+08:00</updated>
+    <updated>2026-08-01T19:03:28+08:00</updated>
+        <entry>
+        <title>四川度过了红色高温，现在轮到华北、华东、华中、东北地区体验红色高温了</title>
+        <id>165692</id>
+        <link href="https://www.bufanz.com/20260801773.html?utm_source=blogfinder" />
+        <published>2026-08-01T17:32:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[四川度过了红色高温，现在轮到华北、华东、华中、东北地区体验红色高温了]]></summary>
+    </entry>
+        <entry>
+        <title>【观点】白大褂挂在钩子上</title>
+        <id>165691</id>
+        <link href="https://hexo.limour.top/the-white-lab-coat-is-hung-on-the-hook?utm_source=blogfinder" />
+        <published>2026-08-01T15:42:15+08:00</published>
+        <author>
+            <name>Limour&#039;s Blog</name>
+            <uri>https://hexo.limour.top</uri>
+        </author>
+        <summary type="text"><![CDATA[【观点】白大褂挂在钩子上]]></summary>
+    </entry>
         <entry>
         <title>每个人心中都有……</title>
         <id>165688</id>
@@ -88,6 +110,17 @@
             <uri>https://www.seis-jun.xyz/</uri>
         </author>
         <summary type="text"><![CDATA[关于博客写作]]></summary>
+    </entry>
+        <entry>
+        <title>圣人之道，吾性自足</title>
+        <id>165693</id>
+        <link href="https://www.lifd.site/2026/08/sheng-ren-zhi-dao-wu-xing-zi-zu/?utm_source=blogfinder" />
+        <published>2026-08-01T09:56:33+08:00</published>
+        <author>
+            <name>LiFD</name>
+            <uri>https://www.lifd.site</uri>
+        </author>
+        <summary type="text"><![CDATA[圣人之道，吾性自足]]></summary>
     </entry>
         <entry>
         <title>为什么有的模型上下文能到 1M，而有的只有 100k</title>
@@ -1628,38 +1661,5 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[我们不该迷信或者追逐‘成功的经验’]]></summary>
-    </entry>
-        <entry>
-        <title>MCP 工具的条件注册：避免能力爆炸的工程实践</title>
-        <id>165396</id>
-        <link href="https://qaqbuyan.com:88/乔安文章/132.html?utm_source=blogfinder" />
-        <published>2026-07-29T18:06:23+08:00</published>
-        <author>
-            <name>卟言的个人博客</name>
-            <uri>https://qaqbuyan.com:88</uri>
-        </author>
-        <summary type="text"><![CDATA[MCP 工具的条件注册：避免能力爆炸的工程实践]]></summary>
-    </entry>
-        <entry>
-        <title>开了一个游泳馆的月卡</title>
-        <id>165394</id>
-        <link href="https://blog.goodboyboy.top/posts/3857671253.html?utm_source=blogfinder" />
-        <published>2026-07-29T17:45:03+08:00</published>
-        <author>
-            <name>GoodBoyboy</name>
-            <uri>https://blog.goodboyboy.top</uri>
-        </author>
-        <summary type="text"><![CDATA[开了一个游泳馆的月卡]]></summary>
-    </entry>
-        <entry>
-        <title>山南轮迹-上</title>
-        <id>165417</id>
-        <link href="http://www.huih110.com/archives/shannanxing1?utm_source=blogfinder" />
-        <published>2026-07-29T17:16:13+08:00</published>
-        <author>
-            <name>BREAK</name>
-            <uri>https://www.huih110.com</uri>
-        </author>
-        <summary type="text"><![CDATA[山南轮迹-上]]></summary>
     </entry>
     </feed>
