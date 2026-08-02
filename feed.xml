@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-02T12:00:34+08:00</updated>
+    <updated>2026-08-02T15:01:36+08:00</updated>
+        <entry>
+        <title>Toots 430 2026 Jul.26 - Aug.1</title>
+        <id>165910</id>
+        <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260801/?utm_source=blogfinder" />
+        <published>2026-08-02T11:20:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[Toots 430 2026 Jul.26 - Aug.1]]></summary>
+    </entry>
+        <entry>
+        <title>读博随笔 | 偶尔也会想起高中班长给班主任当二狗子的那些事，讨好换认可，终究是自我感动</title>
+        <id>165912</id>
+        <link href="https://www.52txr.cn/2026/ergouzi.html?utm_source=blogfinder" />
+        <published>2026-08-02T11:20:00+08:00</published>
+        <author>
+            <name>陶小桃</name>
+            <uri>https://www.52txr.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[读博随笔 | 偶尔也会想起高中班长给班主任当二狗子的那些事，讨好换认可，终究是自我感动]]></summary>
+    </entry>
         <entry>
         <title>古希腊的传说确实令人神往</title>
         <id>165909</id>
@@ -44,6 +66,17 @@
             <uri>https://www.gujishe.com</uri>
         </author>
         <summary type="text"><![CDATA[低价大流量套餐下架或许不是坏事]]></summary>
+    </entry>
+        <entry>
+        <title>陌生的花再次盛开</title>
+        <id>165911</id>
+        <link href="https://z.arlmy.me/posts/Poems/2026/20260726_MoShengDeHuaZaiCiShengKai/?utm_source=blogfinder" />
+        <published>2026-08-02T00:23:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[陌生的花再次盛开]]></summary>
     </entry>
         <entry>
         <title>Voice-Pro：集语音识别、翻译与声音克隆于一体的开源配音神器</title>
@@ -88,6 +121,17 @@
             <uri>https://zhujay.com</uri>
         </author>
         <summary type="text"><![CDATA[🌾 重磅消息！我的「呆呆农场」终于上线测试啦！]]></summary>
+    </entry>
+        <entry>
+        <title>DeepSearch插件：我老忘记写过的文章，于是给 Typecho 博客接入基于 DeepSeek 的智能搜索插件</title>
+        <id>165913</id>
+        <link href="https://www.52txr.cn/2026/DeepSearch.html?utm_source=blogfinder" />
+        <published>2026-08-01T23:03:00+08:00</published>
+        <author>
+            <name>陶小桃</name>
+            <uri>https://www.52txr.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[DeepSearch插件：我老忘记写过的文章，于是给 Typecho 博客接入基于 DeepSeek 的智能搜索插件]]></summary>
     </entry>
         <entry>
         <title>获取“氧MDUI”或“氧Cube”或相关插件主题包的方法</title>
@@ -1584,82 +1628,5 @@
             <uri>https://blog.giveanornot.com</uri>
         </author>
         <summary type="text"><![CDATA[那些你認為的華語金曲，其實都是翻唱的！]]></summary>
-    </entry>
-        <entry>
-        <title>热、很热、非常热</title>
-        <id>165464</id>
-        <link href="https://pwsz.com/life/5107.html?utm_source=blogfinder" />
-        <published>2026-07-30T14:56:59+08:00</published>
-        <author>
-            <name>品味苏州</name>
-            <uri>https://pwsz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[热、很热、非常热]]></summary>
-    </entry>
-        <entry>
-        <title>激光雷达成像原理：机械式与固态式</title>
-        <id>165459</id>
-        <link href="https://www.zywvvd.com/notes/3d/lidar/lidar-mechanical-vs-solid/?utm_source=blogfinder" />
-        <published>2026-07-30T14:30:00+08:00</published>
-        <author>
-            <name>又见苍岚</name>
-            <uri>https://www.zywvvd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[激光雷达成像原理：机械式与固态式]]></summary>
-    </entry>
-        <entry>
-        <title>【观点】铁屋子里的算盘</title>
-        <id>165465</id>
-        <link href="https://hexo.limour.top/abacus-in-an-iron-house?utm_source=blogfinder" />
-        <published>2026-07-30T14:17:26+08:00</published>
-        <author>
-            <name>Limour&#039;s Blog</name>
-            <uri>https://hexo.limour.top</uri>
-        </author>
-        <summary type="text"><![CDATA[【观点】铁屋子里的算盘]]></summary>
-    </entry>
-        <entry>
-        <title>华为鸿蒙7.0花粉beta版发布</title>
-        <id>165461</id>
-        <link href="https://blog.xrbk.cn/post/95.html?utm_source=blogfinder" />
-        <published>2026-07-30T13:51:00+08:00</published>
-        <author>
-            <name>新锐博客</name>
-            <uri>https://blog.xrbk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[华为鸿蒙7.0花粉beta版发布]]></summary>
-    </entry>
-        <entry>
-        <title>突来的消息，降薪的是你</title>
-        <id>165466</id>
-        <link href="https://liuqingwushui.top/archives/180/?utm_source=blogfinder" />
-        <published>2026-07-30T13:50:01+08:00</published>
-        <author>
-            <name>流情的博客</name>
-            <uri>https://liuqingwushui.top</uri>
-        </author>
-        <summary type="text"><![CDATA[突来的消息，降薪的是你]]></summary>
-    </entry>
-        <entry>
-        <title>【播客笔记】Anyway.FM 设计杂谈：访谈 ECharts 开发者羡辙，程序员如何把副业做成主业</title>
-        <id>165537</id>
-        <link href="https://ellenli.cc/posts/20260730/?utm_source=blogfinder" />
-        <published>2026-07-30T13:30:00+08:00</published>
-        <author>
-            <name>Ellen&#039;s 自留地</name>
-            <uri>https://ellenli.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[【播客笔记】Anyway.FM 设计杂谈：访谈 ECharts 开发者羡辙，程序员如何把副业做成主业]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day432 苦集灭道</title>
-        <id>165837</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_432/?utm_source=blogfinder" />
-        <published>2026-07-30T12:48:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day432 苦集灭道]]></summary>
     </entry>
     </feed>
