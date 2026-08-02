@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-02T17:01:28+08:00</updated>
+    <updated>2026-08-02T19:01:07+08:00</updated>
+        <entry>
+        <title>假如我有一块可以抹去记忆的橡皮</title>
+        <id>165921</id>
+        <link href="https://hehuang.site/p/an-eraser/?utm_source=blogfinder" />
+        <published>2026-08-02T17:25:00+08:00</published>
+        <author>
+            <name>合荒小站</name>
+            <uri>https://ryqi.top</uri>
+        </author>
+        <summary type="text"><![CDATA[假如我有一块可以抹去记忆的橡皮]]></summary>
+    </entry>
         <entry>
         <title>《消散的梦》</title>
         <id>165917</id>
@@ -79,6 +90,17 @@
         <summary type="text"><![CDATA[读博随笔 | 偶尔也会想起高中班长给班主任当二狗子的那些事，讨好换认可，终究是自我感动]]></summary>
     </entry>
         <entry>
+        <title>讲个笑话，飞舞博主nginx日志飙了20GB</title>
+        <id>165920</id>
+        <link href="https://upxuu.com/posts/ohhhh-my-disk/?utm_source=blogfinder" />
+        <published>2026-08-02T10:47:54+08:00</published>
+        <author>
+            <name>UpXuu&#039;s blog</name>
+            <uri>https://upxuu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[讲个笑话，飞舞博主nginx日志飙了20GB]]></summary>
+    </entry>
+        <entry>
         <title>古希腊的传说确实令人神往</title>
         <id>165909</id>
         <link href="https://www.suiyan.cc/blog/20260802104505?utm_source=blogfinder" />
@@ -110,6 +132,17 @@
             <uri>https://www.gujishe.com</uri>
         </author>
         <summary type="text"><![CDATA[低价大流量套餐下架或许不是坏事]]></summary>
+    </entry>
+        <entry>
+        <title>【故事】负维度国的奇妙旅行</title>
+        <id>165919</id>
+        <link href="https://hexo.limour.top/a-marvelous-journey-in-the-land-of-negative-dimensions?utm_source=blogfinder" />
+        <published>2026-08-02T01:04:47+08:00</published>
+        <author>
+            <name>Limour&#039;s Blog</name>
+            <uri>https://hexo.limour.top</uri>
+        </author>
+        <summary type="text"><![CDATA[【故事】负维度国的奇妙旅行]]></summary>
     </entry>
         <entry>
         <title>陌生的花再次盛开</title>
@@ -1573,38 +1606,5 @@
             <uri>https://www.infinite.moe</uri>
         </author>
         <summary type="text"><![CDATA[jona公共日记001]]></summary>
-    </entry>
-        <entry>
-        <title>周末特种兵，去了安吉。好吃...好贵...</title>
-        <id>165529</id>
-        <link href="https://chrison.cn/live/485.html?utm_source=blogfinder" />
-        <published>2026-07-30T19:00:00+08:00</published>
-        <author>
-            <name>目的地</name>
-            <uri>https://chrison.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[周末特种兵，去了安吉。好吃...好贵...]]></summary>
-    </entry>
-        <entry>
-        <title>Lecture 4 Evolution, Explosion and Nucleosynthesis of Massive Stars</title>
-        <id>165476</id>
-        <link href="https://physnya.top/ss-yunnan/lecture-4-evolution-explosion-and-nucleosynthesis-of-massive-stars/?utm_source=blogfinder" />
-        <published>2026-07-30T18:03:24+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lecture 4 Evolution, Explosion and Nucleosynthesis of Massive Stars]]></summary>
-    </entry>
-        <entry>
-        <title>百分之百跳过红果短剧/漫剧广告的方法</title>
-        <id>165558</id>
-        <link href="https://lklog.cn/course/1437.html?utm_source=blogfinder" />
-        <published>2026-07-30T17:34:32+08:00</published>
-        <author>
-            <name>龙鲲博客</name>
-            <uri>https://lklog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[百分之百跳过红果短剧/漫剧广告的方法]]></summary>
     </entry>
     </feed>
