@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-02T15:01:36+08:00</updated>
+    <updated>2026-08-02T17:01:28+08:00</updated>
+        <entry>
+        <title>《消散的梦》</title>
+        <id>165917</id>
+        <link href="https://www.weiwenchao.com/2758.html?utm_source=blogfinder" />
+        <published>2026-08-02T16:26:00+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《消散的梦》]]></summary>
+    </entry>
+        <entry>
+        <title>ZR 集训 Day17 – 博弈论</title>
+        <id>165916</id>
+        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day17-%e5%8d%9a%e5%bc%88%e8%ae%ba/?utm_source=blogfinder" />
+        <published>2026-08-02T13:56:06+08:00</published>
+        <author>
+            <name>ooliver 的博客</name>
+            <uri>https://blog.ooliver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[ZR 集训 Day17 – 博弈论]]></summary>
+    </entry>
+        <entry>
+        <title>吃没吃过，白不白吃，没什么要紧</title>
+        <id>165918</id>
+        <link href="https://www.pgoj.top/archives/ku-nan-gan-shou.html?utm_source=blogfinder" />
+        <published>2026-08-02T13:45:29+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[吃没吃过，白不白吃，没什么要紧]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1699】余世存《人生顺时》</title>
+        <id>165914</id>
+        <link href="http://www.qncd.com/?p=12969&amp;utm_source=blogfinder" />
+        <published>2026-08-02T12:34:06+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1699】余世存《人生顺时》]]></summary>
+    </entry>
         <entry>
         <title>Toots 430 2026 Jul.26 - Aug.1</title>
         <id>165910</id>
@@ -1562,71 +1606,5 @@
             <uri>https://lklog.cn</uri>
         </author>
         <summary type="text"><![CDATA[百分之百跳过红果短剧/漫剧广告的方法]]></summary>
-    </entry>
-        <entry>
-        <title>读诗有感</title>
-        <id>165499</id>
-        <link href="https://pinlyu.com/moments/moment-20260730/?utm_source=blogfinder" />
-        <published>2026-07-30T16:48:10+08:00</published>
-        <author>
-            <name>频率</name>
-            <uri>https://pinlyu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[读诗有感]]></summary>
-    </entry>
-        <entry>
-        <title>让AI做了一个不一样的H5放置挂机游戏</title>
-        <id>165498</id>
-        <link href="https://www.krjojo.com/%E8%AE%A9ai%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84h5%E6%94%BE%E7%BD%AE%E6%8C%82%E6%9C%BA%E6%B8%B8%E6%88%8F/?utm_source=blogfinder" />
-        <published>2026-07-30T16:32:00+08:00</published>
-        <author>
-            <name>手里有只毛毛虫</name>
-            <uri>https://www.krjojo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[让AI做了一个不一样的H5放置挂机游戏]]></summary>
-    </entry>
-        <entry>
-        <title>意难平，忆中平。</title>
-        <id>165479</id>
-        <link href="https://blog.2broear.com/news/30-07-2026_move-life-on?utm_source=blogfinder" />
-        <published>2026-07-30T16:30:35+08:00</published>
-        <author>
-            <name>2BROEAR</name>
-            <uri>https://blog.2broear.com</uri>
-        </author>
-        <summary type="text"><![CDATA[意难平，忆中平。]]></summary>
-    </entry>
-        <entry>
-        <title>折腾是独立博客的一大吸引力</title>
-        <id>165467</id>
-        <link href="https://www.pgoj.top/archives/duli-boke-zhe-teng.html?utm_source=blogfinder" />
-        <published>2026-07-30T16:11:26+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[折腾是独立博客的一大吸引力]]></summary>
-    </entry>
-        <entry>
-        <title>ZR 集训 Day14 – 动态规划与动态规划常见优化方法</title>
-        <id>165472</id>
-        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day14-%e5%8a%a8%e6%80%81%e8%a7%84%e5%88%92%e4%b8%8e%e5%8a%a8%e6%80%81%e8%a7%84%e5%88%92%e5%b8%b8%e8%a7%81%e4%bc%98%e5%8c%96%e6%96%b9%e6%b3%95/?utm_source=blogfinder" />
-        <published>2026-07-30T15:56:26+08:00</published>
-        <author>
-            <name>ooliver 的博客</name>
-            <uri>https://blog.ooliver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[ZR 集训 Day14 – 动态规划与动态规划常见优化方法]]></summary>
-    </entry>
-        <entry>
-        <title>那些你認為的華語金曲，其實都是翻唱的！</title>
-        <id>165532</id>
-        <link href="https://blog.giveanornot.com/mandarin-cover-songs/?utm_source=blogfinder" />
-        <published>2026-07-30T15:53:46+08:00</published>
-        <author>
-            <name>資工小廢物  - JN</name>
-            <uri>https://blog.giveanornot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[那些你認為的華語金曲，其實都是翻唱的！]]></summary>
     </entry>
     </feed>
