@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-02T23:01:28+08:00</updated>
+    <updated>2026-08-03T00:01:20+08:00</updated>
         <entry>
         <title>新加坡｜第二次游</title>
         <id>165938</id>
@@ -22,6 +22,17 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[新加坡｜第二次游]]></summary>
+    </entry>
+        <entry>
+        <title>计算即供奉：哈希与心意</title>
+        <id>165941</id>
+        <link href="https://zooyoo.top/article/51/?utm_source=blogfinder" />
+        <published>2026-08-02T22:35:00+08:00</published>
+        <author>
+            <name>热衷于的博客</name>
+            <uri>https://zooyoo.top</uri>
+        </author>
+        <summary type="text"><![CDATA[计算即供奉：哈希与心意]]></summary>
     </entry>
         <entry>
         <title>Paper Reading (64)</title>
@@ -79,6 +90,17 @@
         <summary type="text"><![CDATA[分布式风控引擎的特征漂移治理：时序数据概念漂移检测与自适应权重迭代机制]]></summary>
     </entry>
         <entry>
+        <title>尽量可爱一些</title>
+        <id>165940</id>
+        <link href="https://z.arlmy.me/posts/ZArlmyMe/BeCuteToAI_20260802/?utm_source=blogfinder" />
+        <published>2026-08-02T18:30:03+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[尽量可爱一些]]></summary>
+    </entry>
+        <entry>
         <title>我完整看完了一场小学生比赛，因为场上出了一个BUG</title>
         <id>165924</id>
         <link href="https://n2g.cn/posts/2034cup-kilian/?utm_source=blogfinder" />
@@ -99,6 +121,17 @@
             <uri>https://ryqi.top</uri>
         </author>
         <summary type="text"><![CDATA[假如我有一块可以抹去记忆的橡皮]]></summary>
+    </entry>
+        <entry>
+        <title>笑笑三岁生日的一天</title>
+        <id>165942</id>
+        <link href="https://blog.lichenghao.cn/article/n7hdie0u40fp?utm_source=blogfinder" />
+        <published>2026-08-02T17:23:19+08:00</published>
+        <author>
+            <name>故事的程序猿</name>
+            <uri>https://blog.lichenghao.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[笑笑三岁生日的一天]]></summary>
     </entry>
         <entry>
         <title>《消散的梦》</title>
@@ -1551,82 +1584,5 @@
             <uri>https://blog.frdlink.link</uri>
         </author>
         <summary type="text"><![CDATA[无意中找到以前的留言板备份，于是乎迁移了近200条留言]]></summary>
-    </entry>
-        <entry>
-        <title>reverse-skill：AI 代码助手逆向渗透技能路由包</title>
-        <id>165646</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-31/reverse-skill/?utm_source=blogfinder" />
-        <published>2026-07-31T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[reverse-skill：AI 代码助手逆向渗透技能路由包]]></summary>
-    </entry>
-        <entry>
-        <title>Kuna：用 Rust 重写 Ghidra，一个为 AI Agent 而生的反编译器</title>
-        <id>165645</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-31/kuna/?utm_source=blogfinder" />
-        <published>2026-07-31T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Kuna：用 Rust 重写 Ghidra，一个为 AI Agent 而生的反编译器]]></summary>
-    </entry>
-        <entry>
-        <title>Kaneo：极简主义自托管项目管理平台</title>
-        <id>165644</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-31/kaneo/?utm_source=blogfinder" />
-        <published>2026-07-31T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Kaneo：极简主义自托管项目管理平台]]></summary>
-    </entry>
-        <entry>
-        <title>ADHD：让 AI 编程代理突破「思维定势」的开源技能</title>
-        <id>165643</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-31/adhd/?utm_source=blogfinder" />
-        <published>2026-07-31T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[ADHD：让 AI 编程代理突破「思维定势」的开源技能]]></summary>
-    </entry>
-        <entry>
-        <title>tuicr：在终端里像 GitHub PR 一样做代码审查的 Rust TUI 神器</title>
-        <id>165483</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-31/tuicr/?utm_source=blogfinder" />
-        <published>2026-07-31T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[tuicr：在终端里像 GitHub PR 一样做代码审查的 Rust TUI 神器]]></summary>
-    </entry>
-        <entry>
-        <title>LongCat-Video：美团开源的 136 亿参数视频生成基础模型</title>
-        <id>165482</id>
-        <link href="http://blog.xlap.top/post/tech/2026-07-31/longcat-video/?utm_source=blogfinder" />
-        <published>2026-07-31T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[LongCat-Video：美团开源的 136 亿参数视频生成基础模型]]></summary>
-    </entry>
-        <entry>
-        <title>工具注册的条件化设计：一种避免 MCP 工具过载的治理模式</title>
-        <id>165536</id>
-        <link href="https://qaqbuyan.com:88/乔安文章/133.html?utm_source=blogfinder" />
-        <published>2026-07-30T23:44:37+08:00</published>
-        <author>
-            <name>卟言的个人博客</name>
-            <uri>https://qaqbuyan.com:88</uri>
-        </author>
-        <summary type="text"><![CDATA[工具注册的条件化设计：一种避免 MCP 工具过载的治理模式]]></summary>
     </entry>
     </feed>
