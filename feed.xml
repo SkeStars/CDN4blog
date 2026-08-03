@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-03T19:00:24+08:00</updated>
+    <updated>2026-08-03T23:01:36+08:00</updated>
+        <entry>
+        <title>旅行</title>
+        <id>166019</id>
+        <link href="https://ezo.biz/Diary/1537.html?utm_source=blogfinder" />
+        <published>2026-08-03T21:40:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[旅行]]></summary>
+    </entry>
+        <entry>
+        <title>再退一步</title>
+        <id>166014</id>
+        <link href="https://retire50blog.wang/invest/%e5%86%8d%e9%80%80%e4%b8%80%e6%ad%a5.html?utm_source=blogfinder" />
+        <published>2026-08-03T15:43:18+08:00</published>
+        <author>
+            <name>个人工作记录</name>
+            <uri>https://retire50blog.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[再退一步]]></summary>
+    </entry>
         <entry>
         <title>2026.8.3</title>
         <id>166012</id>
@@ -288,6 +310,17 @@
         <summary type="text"><![CDATA[向云端｜西南自驾06 - 芷江]]></summary>
     </entry>
         <entry>
+        <title>aaPanel（宝塔）环境使用opcache和Redis为WordPress提速</title>
+        <id>166015</id>
+        <link href="https://meledee.com/2026/08/4842.html?utm_source=blogfinder" />
+        <published>2026-08-02T22:27:13+08:00</published>
+        <author>
+            <name>美樂地</name>
+            <uri>https://meledee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[aaPanel（宝塔）环境使用opcache和Redis为WordPress提速]]></summary>
+    </entry>
+        <entry>
         <title>Club Sim 香港 eSIM 保姆级教程：从购买激活到保号全流程</title>
         <id>165978</id>
         <link href="https://veryatao.com/szym/clubsim/?utm_source=blogfinder" />
@@ -319,6 +352,17 @@
             <uri>https://www.seis-jun.xyz/</uri>
         </author>
         <summary type="text"><![CDATA[Paper Reading (64)]]></summary>
+    </entry>
+        <entry>
+        <title>如何在命令行中输出进度条</title>
+        <id>166018</id>
+        <link href="https://nicksxs.me/2026/08/02/%E5%A6%82%E4%BD%95%E5%9C%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%B8%AD%E8%BE%93%E5%87%BA%E8%BF%9B%E5%BA%A6%E6%9D%A1/?utm_source=blogfinder" />
+        <published>2026-08-02T21:26:43+08:00</published>
+        <author>
+            <name>Nicksxs&#039;s Blog</name>
+            <uri>https://nicksxs.me</uri>
+        </author>
+        <summary type="text"><![CDATA[如何在命令行中输出进度条]]></summary>
     </entry>
         <entry>
         <title>川湘公路之歌，成也《川湘一贯》</title>
@@ -638,6 +682,17 @@
             <uri>https://www.gujishe.com</uri>
         </author>
         <summary type="text"><![CDATA[低价大流量套餐下架或许不是坏事]]></summary>
+    </entry>
+        <entry>
+        <title>【AI】叙界S3备份需求，多Agent赛马</title>
+        <id>166013</id>
+        <link href="https://blog.musnow.top/posts/1731962380/?utm_source=blogfinder" />
+        <published>2026-08-02T07:32:30+08:00</published>
+        <author>
+            <name>慕雪的寒舍</name>
+            <uri>https://blog.musnow.top</uri>
+        </author>
+        <summary type="text"><![CDATA[【AI】叙界S3备份需求，多Agent赛马]]></summary>
     </entry>
         <entry>
         <title>人生新阶段</title>
@@ -1147,6 +1202,17 @@
     </entry>
         <entry>
         <title>撞到车，要说对不起</title>
+        <id>166016</id>
+        <link href="https://hulatu.com/posts/2026/08/01/do-not-escape/?utm_source=blogfinder" />
+        <published>2026-08-01T10:48:32+08:00</published>
+        <author>
+            <name>胡拉图说</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[撞到车，要说对不起]]></summary>
+    </entry>
+        <entry>
+        <title>撞到车，要说对不起</title>
         <id>165927</id>
         <link href="https://hulatu.com/posts/do-not-escape/?utm_source=blogfinder" />
         <published>2026-08-01T10:48:32+08:00</published>
@@ -1562,137 +1628,5 @@
             <uri>https://upxuu.com</uri>
         </author>
         <summary type="text"><![CDATA[「说说」「杂记」她独一无二的名字]]></summary>
-    </entry>
-        <entry>
-        <title>久违的登台演讲</title>
-        <id>165673</id>
-        <link href="https://blog.solazy.me/20260731/?utm_source=blogfinder" />
-        <published>2026-07-31T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[久违的登台演讲]]></summary>
-    </entry>
-        <entry>
-        <title>家里添了一个小宝宝</title>
-        <id>165671</id>
-        <link href="https://siwei.li/jia-li-tian-liao-yi-ge-xiao-bao-bao/?utm_source=blogfinder" />
-        <published>2026-07-31T22:49:57+08:00</published>
-        <author>
-            <name>Siwei Li</name>
-            <uri>https://siwei.li</uri>
-        </author>
-        <summary type="text"><![CDATA[家里添了一个小宝宝]]></summary>
-    </entry>
-        <entry>
-        <title>我是不是该去烧两柱了</title>
-        <id>165687</id>
-        <link href="https://imxcy.cn/archives/6b285f2d.html?utm_source=blogfinder" />
-        <published>2026-07-31T22:37:41+08:00</published>
-        <author>
-            <name>许大阳的日记本</name>
-            <uri>https://imxcy.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[我是不是该去烧两柱了]]></summary>
-    </entry>
-        <entry>
-        <title>【亲测有效】解决Bitwarden 浏览器扩展程序 2026.7.0 显示保险库为空的问题</title>
-        <id>165565</id>
-        <link href="https://www.wangdu.site/course/2371.html?utm_source=blogfinder" />
-        <published>2026-07-31T22:33:08+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[【亲测有效】解决Bitwarden 浏览器扩展程序 2026.7.0 显示保险库为空的问题]]></summary>
-    </entry>
-        <entry>
-        <title>2026-07小记</title>
-        <id>165647</id>
-        <link href="https://blog.storia.ren/posts/write-202607/?utm_source=blogfinder" />
-        <published>2026-07-31T22:24:05+08:00</published>
-        <author>
-            <name>绘星里</name>
-            <uri>https://blog.storia.ren</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-07小记]]></summary>
-    </entry>
-        <entry>
-        <title>七月份总结</title>
-        <id>165636</id>
-        <link href="https://www.lifd.site/2026/07/qi-yue-fen-zong-jie/?utm_source=blogfinder" />
-        <published>2026-07-31T22:24:01+08:00</published>
-        <author>
-            <name>LiFD</name>
-            <uri>https://www.lifd.site</uri>
-        </author>
-        <summary type="text"><![CDATA[七月份总结]]></summary>
-    </entry>
-        <entry>
-        <title>Stay Foolish</title>
-        <id>165676</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-07-31-stay-foolish.html?utm_source=blogfinder" />
-        <published>2026-07-31T22:08:00+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[Stay Foolish]]></summary>
-    </entry>
-        <entry>
-        <title>亿元大案胜诉</title>
-        <id>165670</id>
-        <link href="https://jiangcl.com/4899?utm_source=blogfinder" />
-        <published>2026-07-31T22:06:00+08:00</published>
-        <author>
-            <name>蒙需</name>
-            <uri>https://jiangcl.com/</uri>
-        </author>
-        <summary type="text"><![CDATA[亿元大案胜诉]]></summary>
-    </entry>
-        <entry>
-        <title>月志202607</title>
-        <id>165568</id>
-        <link href="https://ezo.biz/Diary/1527.html?utm_source=blogfinder" />
-        <published>2026-07-31T21:55:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[月志202607]]></summary>
-    </entry>
-        <entry>
-        <title>携程看上去很便宜，问题出在哪里</title>
-        <id>165907</id>
-        <link href="http://weiwuhui.com/11045.html?utm_source=blogfinder" />
-        <published>2026-07-31T21:49:00+08:00</published>
-        <author>
-            <name>扯氮集</name>
-            <uri>http://weiwuhui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[携程看上去很便宜，问题出在哪里]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1698】杨淏《关机：离线流浪中国134天》</title>
-        <id>165564</id>
-        <link href="http://www.qncd.com/?p=12961&amp;utm_source=blogfinder" />
-        <published>2026-07-31T20:19:36+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1698】杨淏《关机：离线流浪中国134天》]]></summary>
-    </entry>
-        <entry>
-        <title>行为验证码的对抗设计：从采集到建模的全链路</title>
-        <id>165563</id>
-        <link href="https://qaqbuyan.com:88/乔安文章/135.html?utm_source=blogfinder" />
-        <published>2026-07-31T19:36:05+08:00</published>
-        <author>
-            <name>卟言的个人博客</name>
-            <uri>https://qaqbuyan.com:88</uri>
-        </author>
-        <summary type="text"><![CDATA[行为验证码的对抗设计：从采集到建模的全链路]]></summary>
     </entry>
     </feed>
