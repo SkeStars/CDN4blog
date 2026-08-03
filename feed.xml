@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-03T12:01:42+08:00</updated>
+    <updated>2026-08-03T15:02:26+08:00</updated>
+        <entry>
+        <title>博客重启、差点中暑与舌尖上的美食</title>
+        <id>166002</id>
+        <link href="https://nxxy335.top/archives/WPnmEpx9?utm_source=blogfinder" />
+        <published>2026-08-03T14:05:08+08:00</published>
+        <author>
+            <name>暖心向阳</name>
+            <uri>https://nxxy335.top</uri>
+        </author>
+        <summary type="text"><![CDATA[博客重启、差点中暑与舌尖上的美食]]></summary>
+    </entry>
+        <entry>
+        <title>聊聊我的游戏进度</title>
+        <id>166001</id>
+        <link href="https://www.suiyan.cc/blog/20260803123110?utm_source=blogfinder" />
+        <published>2026-08-03T12:31:10+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[聊聊我的游戏进度]]></summary>
+    </entry>
         <entry>
         <title>【景点篇】成都武侯祠(Ⅱ)</title>
         <id>165992</id>
@@ -68,6 +90,17 @@
         <summary type="text"><![CDATA[大脑充血 Vol.92]]></summary>
     </entry>
         <entry>
+        <title>一代人的最后一课</title>
+        <id>165998</id>
+        <link href="https://lawtee.com/article/my-uncle/?utm_source=blogfinder" />
+        <published>2026-08-03T03:39:57+08:00</published>
+        <author>
+            <name>老 T 博客</name>
+            <uri>https://lawtee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[一代人的最后一课]]></summary>
+    </entry>
+        <entry>
         <title>Lighthouse：经典游戏《班卓熊大冒险》的现代重生</title>
         <id>165946</id>
         <link href="http://blog.xlap.top/post/tech/2026-08-03/lighthouse/?utm_source=blogfinder" />
@@ -88,6 +121,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[DwarfStar：专精 DeepSeek V4 Flash 的轻量级本地推理引擎]]></summary>
+    </entry>
+        <entry>
+        <title>Blaugust 2026 Feeds - 以及我是如何用 Elisp 製作的</title>
+        <id>165999</id>
+        <link href="https://taxodium.ink/blaugust-2026-feeds.html?utm_source=blogfinder" />
+        <published>2026-08-02T23:40:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[Blaugust 2026 Feeds - 以及我是如何用 Elisp 製作的]]></summary>
     </entry>
         <entry>
         <title>周末流水账 0802</title>
@@ -1639,60 +1683,5 @@
             <uri>https://www.jackytong.com</uri>
         </author>
         <summary type="text"><![CDATA[开智]]></summary>
-    </entry>
-        <entry>
-        <title>对视</title>
-        <id>165553</id>
-        <link href="https://ltmltm.cn/bk/1483.html?utm_source=blogfinder" />
-        <published>2026-07-31T14:33:38+08:00</published>
-        <author>
-            <name>因为很想念</name>
-            <uri>https://ltmltm.cn/bk</uri>
-        </author>
-        <summary type="text"><![CDATA[对视]]></summary>
-    </entry>
-        <entry>
-        <title>我将AI当做浅层辅助的责任编辑</title>
-        <id>165557</id>
-        <link href="https://www.pgoj.top/archives/AI-ze-ren-bianji.html?utm_source=blogfinder" />
-        <published>2026-07-31T14:13:29+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[我将AI当做浅层辅助的责任编辑]]></summary>
-    </entry>
-        <entry>
-        <title>滑块验证码的防模拟拖动算法——轨迹分析与异常检测</title>
-        <id>165550</id>
-        <link href="https://qaqbuyan.com:88/乔安文章/134.html?utm_source=blogfinder" />
-        <published>2026-07-31T13:09:45+08:00</published>
-        <author>
-            <name>卟言的个人博客</name>
-            <uri>https://qaqbuyan.com:88</uri>
-        </author>
-        <summary type="text"><![CDATA[滑块验证码的防模拟拖动算法——轨迹分析与异常检测]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day433 大彩虹</title>
-        <id>165836</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_433/?utm_source=blogfinder" />
-        <published>2026-07-31T12:48:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day433 大彩虹]]></summary>
-    </entry>
-        <entry>
-        <title>向云端｜西南自驾04 - 南昌</title>
-        <id>165562</id>
-        <link href="https://blog.ops-coffee.com/r/2026-southwest-road-trip-04-nanchang.html?utm_source=blogfinder" />
-        <published>2026-07-31T12:42:32+08:00</published>
-        <author>
-            <name>运维咖啡吧</name>
-            <uri>https://blog.ops-coffee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[向云端｜西南自驾04 - 南昌]]></summary>
     </entry>
     </feed>
