@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-04T18:00:25+08:00</updated>
+    <updated>2026-08-04T20:02:01+08:00</updated>
+        <entry>
+        <title>基于 TCC 写一个所谓的分布式事务#2</title>
+        <id>166135</id>
+        <link href="https://www.bytecho.net/archives/tcc_golang_2.html?utm_source=blogfinder" />
+        <published>2026-08-04T18:35:00+08:00</published>
+        <author>
+            <name>字节星球</name>
+            <uri>https://www.bytecho.net</uri>
+        </author>
+        <summary type="text"><![CDATA[基于 TCC 写一个所谓的分布式事务#2]]></summary>
+    </entry>
         <entry>
         <title>在「接缝」的彼岸：横滨观演与日本纪行</title>
         <id>166132</id>
@@ -1573,38 +1584,5 @@
             <uri>https://isming.me</uri>
         </author>
         <summary type="text"><![CDATA[#20 回村喂蚊的七月月报]]></summary>
-    </entry>
-        <entry>
-        <title>安装免费开源游戏 0 A.D.</title>
-        <id>165704</id>
-        <link href="https://jiangcl.com/4904?utm_source=blogfinder" />
-        <published>2026-08-01T19:37:01+08:00</published>
-        <author>
-            <name>蒙需</name>
-            <uri>https://jiangcl.com/</uri>
-        </author>
-        <summary type="text"><![CDATA[安装免费开源游戏 0 A.D.]]></summary>
-    </entry>
-        <entry>
-        <title>基元律动免费送68元额度</title>
-        <id>165815</id>
-        <link href="https://blog.xrbk.cn/post/97.html?utm_source=blogfinder" />
-        <published>2026-08-01T19:07:00+08:00</published>
-        <author>
-            <name>新锐博客</name>
-            <uri>https://blog.xrbk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[基元律动免费送68元额度]]></summary>
-    </entry>
-        <entry>
-        <title>阿里云99元又续一年</title>
-        <id>165702</id>
-        <link href="https://hjyl.org/renew-aliyun-ecs-99/?utm_source=blogfinder" />
-        <published>2026-08-01T18:15:55+08:00</published>
-        <author>
-            <name>皇家元林</name>
-            <uri>https://hjyl.org</uri>
-        </author>
-        <summary type="text"><![CDATA[阿里云99元又续一年]]></summary>
     </entry>
     </feed>
