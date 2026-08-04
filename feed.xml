@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-04T23:01:23+08:00</updated>
+    <updated>2026-08-05T00:02:13+08:00</updated>
+        <entry>
+        <title>考不上湘潭大学，但可以考上南开大学博士、北京大学博士后</title>
+        <id>166159</id>
+        <link href="https://cuixiping.com/blog/post/gdciiu?utm_source=blogfinder" />
+        <published>2026-08-04T23:59:59+08:00</published>
+        <author>
+            <name>崔话记</name>
+            <uri>https://cuixiping.com</uri>
+        </author>
+        <summary type="text"><![CDATA[考不上湘潭大学，但可以考上南开大学博士、北京大学博士后]]></summary>
+    </entry>
+        <entry>
+        <title>无用命途：博客深潜者</title>
+        <id>166160</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1481/?utm_source=blogfinder" />
+        <published>2026-08-04T23:59:39+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[无用命途：博客深潜者]]></summary>
+    </entry>
         <entry>
         <title>我为什么将 Obsidian 作为主力文字工具</title>
         <id>166154</id>
@@ -24,6 +46,50 @@
         <summary type="text"><![CDATA[我为什么将 Obsidian 作为主力文字工具]]></summary>
     </entry>
         <entry>
+        <title>深入 Linux CFS 调度机制：为什么高IO进程会导致业务线程抖动？调度实体权重与vruntime漂移溯源</title>
+        <id>166157</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/139.html?utm_source=blogfinder" />
+        <published>2026-08-04T22:05:36+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[深入 Linux CFS 调度机制：为什么高IO进程会导致业务线程抖动？调度实体权重与vruntime漂移溯源]]></summary>
+    </entry>
+        <entry>
+        <title>又一次体验到了大数据的强大</title>
+        <id>166161</id>
+        <link href="https://www.lifd.site/2026/08/you-yi-ci-ti-yan-dao-le-da-shu-ju-de-qiang-da/?utm_source=blogfinder" />
+        <published>2026-08-04T21:06:45+08:00</published>
+        <author>
+            <name>LiFD</name>
+            <uri>https://www.lifd.site</uri>
+        </author>
+        <summary type="text"><![CDATA[又一次体验到了大数据的强大]]></summary>
+    </entry>
+        <entry>
+        <title>普通的蠢人</title>
+        <id>166156</id>
+        <link href="https://www.ntiy.com/2370.html?utm_source=blogfinder" />
+        <published>2026-08-04T21:01:23+08:00</published>
+        <author>
+            <name>非理勿试</name>
+            <uri>https://www.ntiy.com</uri>
+        </author>
+        <summary type="text"><![CDATA[普通的蠢人]]></summary>
+    </entry>
+        <entry>
+        <title>又是一年，祝自己生日快乐</title>
+        <id>166158</id>
+        <link href="https://blog.solazy.me/20260804/?utm_source=blogfinder" />
+        <published>2026-08-04T21:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[又是一年，祝自己生日快乐]]></summary>
+    </entry>
+        <entry>
         <title>基于 TCC 写一个所谓的分布式事务#2</title>
         <id>166135</id>
         <link href="https://www.bytecho.net/archives/tcc_golang_2.html?utm_source=blogfinder" />
@@ -33,6 +99,17 @@
             <uri>https://www.bytecho.net</uri>
         </author>
         <summary type="text"><![CDATA[基于 TCC 写一个所谓的分布式事务#2]]></summary>
+    </entry>
+        <entry>
+        <title>Claude Code Tools 研究系列（三）—— ExitPlanMode：把方案提交给用户批准</title>
+        <id>166162</id>
+        <link href="https://xilidou.com/2026/08/04/claude-code-tools-exit-plan-mode/?utm_source=blogfinder" />
+        <published>2026-08-04T18:00:00+08:00</published>
+        <author>
+            <name>犀利豆的博客</name>
+            <uri>https://xilidou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Claude Code Tools 研究系列（三）—— ExitPlanMode：把方案提交给用户批准]]></summary>
     </entry>
         <entry>
         <title>在「接缝」的彼岸：横滨观演与日本纪行</title>
@@ -1353,159 +1430,5 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[陌生的花再次盛开]]></summary>
-    </entry>
-        <entry>
-        <title>【读后感】《单车失窃记》- 吴明益</title>
-        <id>165979</id>
-        <link href="https://www.blackbzy.com/posts/book-the-stolen-bycicle/?utm_source=blogfinder" />
-        <published>2026-08-02T00:00:00+08:00</published>
-        <author>
-            <name>blackbzy</name>
-            <uri>https://www.blackbzy.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读后感】《单车失窃记》- 吴明益]]></summary>
-    </entry>
-        <entry>
-        <title>微软 TRELLIS.2：基于 O-Voxel 原生结构化潜变量的图像到 3D 生成新范式</title>
-        <id>165953</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-02/trellis-2/?utm_source=blogfinder" />
-        <published>2026-08-02T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[微软 TRELLIS.2：基于 O-Voxel 原生结构化潜变量的图像到 3D 生成新范式]]></summary>
-    </entry>
-        <entry>
-        <title>Skate 3 原生重编译：让经典 Xbox 360 游戏在 PC/Mac 上原生运行</title>
-        <id>165952</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-02/skate3recomp/?utm_source=blogfinder" />
-        <published>2026-08-02T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Skate 3 原生重编译：让经典 Xbox 360 游戏在 PC/Mac 上原生运行]]></summary>
-    </entry>
-        <entry>
-        <title>QM：用 Slack 和网页驱动的多智能体团队协作平台</title>
-        <id>165951</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-02/qm/?utm_source=blogfinder" />
-        <published>2026-08-02T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[QM：用 Slack 和网页驱动的多智能体团队协作平台]]></summary>
-    </entry>
-        <entry>
-        <title>pdf-inspector: 极速 PDF 分类与文本提取，Rust 编写的本地智能解析库</title>
-        <id>165950</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-02/pdf-inspector/?utm_source=blogfinder" />
-        <published>2026-08-02T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[pdf-inspector: 极速 PDF 分类与文本提取，Rust 编写的本地智能解析库]]></summary>
-    </entry>
-        <entry>
-        <title>NeriPlayer：一个功能强大的多源音频播放器</title>
-        <id>165949</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-02/neriplayer/?utm_source=blogfinder" />
-        <published>2026-08-02T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[NeriPlayer：一个功能强大的多源音频播放器]]></summary>
-    </entry>
-        <entry>
-        <title>k-skill：韩国生活全场景 AI 自动化技能包，让 Coding Agent 帮你搞定一切</title>
-        <id>165948</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-02/k-skill/?utm_source=blogfinder" />
-        <published>2026-08-02T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[k-skill：韩国生活全场景 AI 自动化技能包，让 Coding Agent 帮你搞定一切]]></summary>
-    </entry>
-        <entry>
-        <title>Decimen Optical Transfer：用屏幕和摄像头实现无网络文件传输</title>
-        <id>165947</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-02/decimen-optical-transfer/?utm_source=blogfinder" />
-        <published>2026-08-02T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Decimen Optical Transfer：用屏幕和摄像头实现无网络文件传输]]></summary>
-    </entry>
-        <entry>
-        <title>Voice-Pro：集语音识别、翻译与声音克隆于一体的开源配音神器</title>
-        <id>165823</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-02/voice-pro/?utm_source=blogfinder" />
-        <published>2026-08-02T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Voice-Pro：集语音识别、翻译与声音克隆于一体的开源配音神器]]></summary>
-    </entry>
-        <entry>
-        <title>Invidious：无需登录、无广告、无追踪的 YouTube 替代前端</title>
-        <id>165822</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-02/invidious/?utm_source=blogfinder" />
-        <published>2026-08-02T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Invidious：无需登录、无广告、无追踪的 YouTube 替代前端]]></summary>
-    </entry>
-        <entry>
-        <title>大模型上下文协议的状态一致性博弈：多轮对话会话断层与状态同步解决方案</title>
-        <id>165908</id>
-        <link href="https://qaqbuyan.com:88/乔安文章/136.html?utm_source=blogfinder" />
-        <published>2026-08-01T23:58:37+08:00</published>
-        <author>
-            <name>卟言的个人博客</name>
-            <uri>https://qaqbuyan.com:88</uri>
-        </author>
-        <summary type="text"><![CDATA[大模型上下文协议的状态一致性博弈：多轮对话会话断层与状态同步解决方案]]></summary>
-    </entry>
-        <entry>
-        <title>从免费的地铁说起</title>
-        <id>165937</id>
-        <link href="https://yinji.org/starting-with-a-free-metro-ride.html?utm_source=blogfinder" />
-        <published>2026-08-01T23:48:03+08:00</published>
-        <author>
-            <name>印记</name>
-            <uri>https://yinji.org</uri>
-        </author>
-        <summary type="text"><![CDATA[从免费的地铁说起]]></summary>
-    </entry>
-        <entry>
-        <title>🌾 重磅消息！我的「呆呆农场」终于上线测试啦！</title>
-        <id>165905</id>
-        <link href="https://zhujay.com/talk/talk_detail.html?id=1268&amp;utm_source=blogfinder" />
-        <published>2026-08-01T23:08:40+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[🌾 重磅消息！我的「呆呆农场」终于上线测试啦！]]></summary>
-    </entry>
-        <entry>
-        <title>DeepSearch插件：我老忘记写过的文章，于是给 Typecho 博客接入基于 DeepSeek 的智能搜索插件</title>
-        <id>165913</id>
-        <link href="https://www.52txr.cn/2026/DeepSearch.html?utm_source=blogfinder" />
-        <published>2026-08-01T23:03:00+08:00</published>
-        <author>
-            <name>陶小桃</name>
-            <uri>https://www.52txr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[DeepSearch插件：我老忘记写过的文章，于是给 Typecho 博客接入基于 DeepSeek 的智能搜索插件]]></summary>
     </entry>
     </feed>
