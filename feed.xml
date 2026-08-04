@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-04T20:02:01+08:00</updated>
+    <updated>2026-08-04T23:01:23+08:00</updated>
+        <entry>
+        <title>我为什么将 Obsidian 作为主力文字工具</title>
+        <id>166154</id>
+        <link href="https://joojen.com/archives/9067.html?utm_source=blogfinder" />
+        <published>2026-08-04T22:22:18+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我为什么将 Obsidian 作为主力文字工具]]></summary>
+    </entry>
         <entry>
         <title>基于 TCC 写一个所谓的分布式事务#2</title>
         <id>166135</id>
@@ -90,6 +101,17 @@
         <summary type="text"><![CDATA[白云山记]]></summary>
     </entry>
         <entry>
+        <title>Python:此应用的一部分已被阻止，关闭Windows安全中心选项即可</title>
+        <id>166155</id>
+        <link href="https://www.yang1120.com/archives/766?utm_source=blogfinder" />
+        <published>2026-08-04T11:44:18+08:00</published>
+        <author>
+            <name>氧化某人</name>
+            <uri>https://www.yang1120.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Python:此应用的一部分已被阻止，关闭Windows安全中心选项即可]]></summary>
+    </entry>
+        <entry>
         <title>知了 II</title>
         <id>166124</id>
         <link href="https://mobius.blog/25277.html?utm_source=blogfinder" />
@@ -123,6 +145,17 @@
         <summary type="text"><![CDATA[为什么我安装了Jetpack插件？]]></summary>
     </entry>
         <entry>
+        <title>迁移 SQLite 数据库到 MySQL</title>
+        <id>166136</id>
+        <link href="https://www.51it.wang/ll/SQLite-MySQL?utm_source=blogfinder" />
+        <published>2026-08-04T08:25:02+08:00</published>
+        <author>
+            <name>Lcry</name>
+            <uri>https://www.51it.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[迁移 SQLite 数据库到 MySQL]]></summary>
+    </entry>
+        <entry>
         <title>让国行 iPhone 拥有 eSIM 能力</title>
         <id>166106</id>
         <link href="https://lomus.cc/archives/811?utm_source=blogfinder" />
@@ -132,6 +165,17 @@
             <uri>https://lomus.cc</uri>
         </author>
         <summary type="text"><![CDATA[让国行 iPhone 拥有 eSIM 能力]]></summary>
+    </entry>
+        <entry>
+        <title>复刻 macOS 红绿灯悬停菜单</title>
+        <id>166137</id>
+        <link href="https://innei.in/posts/tinkering/macos-zoom-button-hover-menu?utm_source=blogfinder" />
+        <published>2026-08-04T03:46:39+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[复刻 macOS 红绿灯悬停菜单]]></summary>
     </entry>
         <entry>
         <title>Zine#56 - 數位園藝</title>
@@ -1463,126 +1507,5 @@
             <uri>https://www.52txr.cn</uri>
         </author>
         <summary type="text"><![CDATA[DeepSearch插件：我老忘记写过的文章，于是给 Typecho 博客接入基于 DeepSeek 的智能搜索插件]]></summary>
-    </entry>
-        <entry>
-        <title>周末流水账 0801</title>
-        <id>165995</id>
-        <link href="https://blog.solazy.me/20260801/?utm_source=blogfinder" />
-        <published>2026-08-01T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[周末流水账 0801]]></summary>
-    </entry>
-        <entry>
-        <title>获取“氧MDUI”或“氧Cube”或相关插件主题包的方法</title>
-        <id>165834</id>
-        <link href="https://www.yang1120.com/archives/761?utm_source=blogfinder" />
-        <published>2026-08-01T22:57:50+08:00</published>
-        <author>
-            <name>氧化某人</name>
-            <uri>https://www.yang1120.com</uri>
-        </author>
-        <summary type="text"><![CDATA[获取“氧MDUI”或“氧Cube”或相关插件主题包的方法]]></summary>
-    </entry>
-        <entry>
-        <title>周易雅说精品课答疑讲座</title>
-        <id>165813</id>
-        <link href="https://chegva.com/6761.html?utm_source=blogfinder" />
-        <published>2026-08-01T22:43:45+08:00</published>
-        <author>
-            <name>安志合的学习博客</name>
-            <uri>https://chegva.com</uri>
-        </author>
-        <summary type="text"><![CDATA[周易雅说精品课答疑讲座]]></summary>
-    </entry>
-        <entry>
-        <title>CobaltStrike部署与C2功能实战指南</title>
-        <id>165902</id>
-        <link href="https://min168.top/perm/CobaltStrike%E9%83%A8%E7%BD%B2%E4%B8%8EC2%E5%8A%9F%E8%83%BD%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97.html?utm_source=blogfinder" />
-        <published>2026-08-01T22:42:00+08:00</published>
-        <author>
-            <name>卷卷</name>
-            <uri>https://min168.top</uri>
-        </author>
-        <summary type="text"><![CDATA[CobaltStrike部署与C2功能实战指南]]></summary>
-    </entry>
-        <entry>
-        <title>服务的价值</title>
-        <id>165814</id>
-        <link href="https://ezo.biz/Diary/1532.html?utm_source=blogfinder" />
-        <published>2026-08-01T22:25:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[服务的价值]]></summary>
-    </entry>
-        <entry>
-        <title>Album#45 - Sweet Sticky Thing</title>
-        <id>165703</id>
-        <link href="https://taxodium.ink/album-45.html?utm_source=blogfinder" />
-        <published>2026-08-01T22:00:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[Album#45 - Sweet Sticky Thing]]></summary>
-    </entry>
-        <entry>
-        <title>7月记：职场风波、哈尔滨参会、千岛湖出差</title>
-        <id>165817</id>
-        <link href="https://blog.hantaotao.top/archives/206/?utm_source=blogfinder" />
-        <published>2026-08-01T21:55:54+08:00</published>
-        <author>
-            <name>一世繁华</name>
-            <uri>https://blog.hantaotao.top</uri>
-        </author>
-        <summary type="text"><![CDATA[7月记：职场风波、哈尔滨参会、千岛湖出差]]></summary>
-    </entry>
-        <entry>
-        <title>Time is flying, not walking</title>
-        <id>165821</id>
-        <link href="https://www.szqp.site/archives/10666?utm_source=blogfinder" />
-        <published>2026-08-01T21:23:25+08:00</published>
-        <author>
-            <name>szqp</name>
-            <uri>https://www.szqp.site</uri>
-        </author>
-        <summary type="text"><![CDATA[Time is flying, not walking]]></summary>
-    </entry>
-        <entry>
-        <title>Lecture 5 Spectroscopic Observations, Abundance Analysis and Large-Scale Surveys</title>
-        <id>165816</id>
-        <link href="https://physnya.top/ss-yunnan/lecture-5-spectroscopic-observations-abundance-analysis-and-large-scale-surveys/?utm_source=blogfinder" />
-        <published>2026-08-01T20:54:31+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lecture 5 Spectroscopic Observations, Abundance Analysis and Large-Scale Surveys]]></summary>
-    </entry>
-        <entry>
-        <title>读博随笔 | 斩心魔，不要因为任何人和任何事阻碍自己变得更好</title>
-        <id>165701</id>
-        <link href="https://www.52txr.cn/2026/boshituixue.html?utm_source=blogfinder" />
-        <published>2026-08-01T20:33:00+08:00</published>
-        <author>
-            <name>陶小桃</name>
-            <uri>https://www.52txr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[读博随笔 | 斩心魔，不要因为任何人和任何事阻碍自己变得更好]]></summary>
-    </entry>
-        <entry>
-        <title>#20 回村喂蚊的七月月报</title>
-        <id>165831</id>
-        <link href="https://isming.me/2026-08-01-july-summary/?utm_source=blogfinder" />
-        <published>2026-08-01T20:20:27+08:00</published>
-        <author>
-            <name>码农明明桑</name>
-            <uri>https://isming.me</uri>
-        </author>
-        <summary type="text"><![CDATA[#20 回村喂蚊的七月月报]]></summary>
     </entry>
     </feed>
