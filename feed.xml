@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-04T11:01:11+08:00</updated>
+    <updated>2026-08-04T15:01:15+08:00</updated>
         <entry>
         <title>折腾博客是种病</title>
         <id>166117</id>
@@ -44,6 +44,17 @@
             <uri>https://lomus.cc</uri>
         </author>
         <summary type="text"><![CDATA[让国行 iPhone 拥有 eSIM 能力]]></summary>
+    </entry>
+        <entry>
+        <title>Zine#56 - 數位園藝</title>
+        <id>166120</id>
+        <link href="https://taxodium.ink/56.html?utm_source=blogfinder" />
+        <published>2026-08-04T03:00:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[Zine#56 - 數位園藝]]></summary>
     </entry>
         <entry>
         <title>七月小记 | 扔一块布，我赔了141块钱</title>
@@ -167,6 +178,17 @@
         <summary type="text"><![CDATA[Claude Code Tools 研究系列（二）—— EnterPlanMode：为什么空 schema 也是一种设计]]></summary>
     </entry>
         <entry>
+        <title>解决帝国 CMS7.5 升级到 8.0 后，使用图片模型的栏目新增编辑内容没法加载的问题</title>
+        <id>166119</id>
+        <link href="https://aijun.org/ecms8-morepic/?utm_source=blogfinder" />
+        <published>2026-08-03T17:08:00+08:00</published>
+        <author>
+            <name>A 君博客</name>
+            <uri>https://aijun.org</uri>
+        </author>
+        <summary type="text"><![CDATA[解决帝国 CMS7.5 升级到 8.0 后，使用图片模型的栏目新增编辑内容没法加载的问题]]></summary>
+    </entry>
+        <entry>
         <title>再退一步</title>
         <id>166014</id>
         <link href="https://retire50blog.wang/invest/%e5%86%8d%e9%80%80%e4%b8%80%e6%ad%a5.html?utm_source=blogfinder" />
@@ -176,6 +198,17 @@
             <uri>https://retire50blog.wang</uri>
         </author>
         <summary type="text"><![CDATA[再退一步]]></summary>
+    </entry>
+        <entry>
+        <title>学习Power BI</title>
+        <id>166121</id>
+        <link href="https://blog.xulihang.me/learn-about-power-bi/?utm_source=blogfinder" />
+        <published>2026-08-03T15:39:50+08:00</published>
+        <author>
+            <name>xulihang&#039;s blog</name>
+            <uri>https://blog.xulihang.me</uri>
+        </author>
+        <summary type="text"><![CDATA[学习Power BI]]></summary>
     </entry>
         <entry>
         <title>2026.8.3</title>
@@ -1551,82 +1584,5 @@
             <uri>https://qthinker.net</uri>
         </author>
         <summary type="text"><![CDATA[随思 #109 - 2026-08-01]]></summary>
-    </entry>
-        <entry>
-        <title>WordPress一键生成「个人简历/关于我」单页插件（WP-AboutMe）</title>
-        <id>166059</id>
-        <link href="https://www.tinsur.cn/840.html?utm_source=blogfinder" />
-        <published>2026-08-01T14:52:08+08:00</published>
-        <author>
-            <name>Tinsur Blog</name>
-            <uri>https://www.tinsur.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[WordPress一键生成「个人简历/关于我」单页插件（WP-AboutMe）]]></summary>
-    </entry>
-        <entry>
-        <title>向云端｜西南自驾05 - 长沙</title>
-        <id>165694</id>
-        <link href="https://blog.ops-coffee.com/r/2026-southwest-road-trip-05-changsha.html?utm_source=blogfinder" />
-        <published>2026-08-01T13:41:20+08:00</published>
-        <author>
-            <name>运维咖啡吧</name>
-            <uri>https://blog.ops-coffee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[向云端｜西南自驾05 - 长沙]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day434 穿越来的几天</title>
-        <id>166023</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_434/?utm_source=blogfinder" />
-        <published>2026-08-01T12:48:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day434 穿越来的几天]]></summary>
-    </entry>
-        <entry>
-        <title>讨厌一直一直下雨</title>
-        <id>166080</id>
-        <link href="https://sigge.cn/2026/08/01/8aItiDVj?utm_source=blogfinder" />
-        <published>2026-08-01T12:47:02+08:00</published>
-        <author>
-            <name>毛伊西格</name>
-            <uri>https://sigge.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[讨厌一直一直下雨]]></summary>
-    </entry>
-        <entry>
-        <title>想法在丙午瓜秋迭代</title>
-        <id>165900</id>
-        <link href="https://blog.cytrogen.icu/posts/3456.html?utm_source=blogfinder" />
-        <published>2026-08-01T12:00:00+08:00</published>
-        <author>
-            <name>Cytrogen&#039;s Blog</name>
-            <uri>https://blog.cytrogen.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[想法在丙午瓜秋迭代]]></summary>
-    </entry>
-        <entry>
-        <title>每个人心中都有……</title>
-        <id>165688</id>
-        <link href="https://mobius.blog/25246.html?utm_source=blogfinder" />
-        <published>2026-08-01T11:49:53+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[每个人心中都有……]]></summary>
-    </entry>
-        <entry>
-        <title>零基础做AI歌曲，解锁副业收益</title>
-        <id>165679</id>
-        <link href="https://vjo.cc/1991?utm_source=blogfinder" />
-        <published>2026-08-01T11:13:00+08:00</published>
-        <author>
-            <name>刘郎阁</name>
-            <uri>https://vjo.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[零基础做AI歌曲，解锁副业收益]]></summary>
     </entry>
     </feed>
