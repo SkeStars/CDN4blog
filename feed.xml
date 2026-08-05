@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-05T18:00:44+08:00</updated>
+    <updated>2026-08-05T20:01:18+08:00</updated>
         <entry>
         <title>清醒时做事，迷茫时读书，大怒时睡觉，独处时思考</title>
         <id>166315</id>
@@ -308,6 +308,17 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[【不凡摄影作品 | 2026.8.4】]]></summary>
+    </entry>
+        <entry>
+        <title>2026年7月：考完试，放假去</title>
+        <id>166318</id>
+        <link href="https://www.colinjiang.com/archives/2026-07-exams-and-holiday.html?utm_source=blogfinder" />
+        <published>2026-08-04T22:32:27+08:00</published>
+        <author>
+            <name>君子不器</name>
+            <uri>https://www.colinjiang.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026年7月：考完试，放假去]]></summary>
     </entry>
         <entry>
         <title>我为什么将 Obsidian 作为主力文字工具</title>
@@ -1518,49 +1529,5 @@
             <uri>https://www.jackytong.com</uri>
         </author>
         <summary type="text"><![CDATA[小黑，感恩有你！]]></summary>
-    </entry>
-        <entry>
-        <title>有催人跑的意思 —— 使用 PPPoE 半桥帮助 UniFi 网关突破性能瓶颈</title>
-        <id>165954</id>
-        <link href="https://blog.skk.moe/post/pppoe-half-bridge/?utm_source=blogfinder" />
-        <published>2026-08-02T20:00:00+08:00</published>
-        <author>
-            <name>Sukka</name>
-            <uri>https://blog.skk.moe</uri>
-        </author>
-        <summary type="text"><![CDATA[有催人跑的意思 —— 使用 PPPoE 半桥帮助 UniFi 网关突破性能瓶颈]]></summary>
-    </entry>
-        <entry>
-        <title>推荐邮件订阅：《这一周莫比乌斯环转到了哪里？》</title>
-        <id>165922</id>
-        <link href="https://www.suiyan.cc/blog/20260802191253?utm_source=blogfinder" />
-        <published>2026-08-02T19:12:53+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[推荐邮件订阅：《这一周莫比乌斯环转到了哪里？》]]></summary>
-    </entry>
-        <entry>
-        <title>分布式风控引擎的特征漂移治理：时序数据概念漂移检测与自适应权重迭代机制</title>
-        <id>165923</id>
-        <link href="https://qaqbuyan.com:88/乔安文章/137.html?utm_source=blogfinder" />
-        <published>2026-08-02T18:58:14+08:00</published>
-        <author>
-            <name>卟言的个人博客</name>
-            <uri>https://qaqbuyan.com:88</uri>
-        </author>
-        <summary type="text"><![CDATA[分布式风控引擎的特征漂移治理：时序数据概念漂移检测与自适应权重迭代机制]]></summary>
-    </entry>
-        <entry>
-        <title>尽量可爱一些</title>
-        <id>165940</id>
-        <link href="https://z.arlmy.me/posts/ZArlmyMe/BeCuteToAI_20260802/?utm_source=blogfinder" />
-        <published>2026-08-02T18:30:03+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[尽量可爱一些]]></summary>
     </entry>
     </feed>
