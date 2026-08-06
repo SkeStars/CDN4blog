@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-06T20:01:10+08:00</updated>
+    <updated>2026-08-06T22:00:48+08:00</updated>
+        <entry>
+        <title>ZR 集训 Day21 – AC 自动机、回文树</title>
+        <id>166384</id>
+        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day21-ac-%e8%87%aa%e5%8a%a8%e6%9c%ba%e3%80%81%e5%9b%9e%e6%96%87%e6%a0%91/?utm_source=blogfinder" />
+        <published>2026-08-06T19:39:30+08:00</published>
+        <author>
+            <name>ooliver 的博客</name>
+            <uri>https://blog.ooliver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[ZR 集训 Day21 – AC 自动机、回文树]]></summary>
+    </entry>
+        <entry>
+        <title>记一次服务器维护引发的虚惊</title>
+        <id>166385</id>
+        <link href="https://sheep5.net/archives/211?utm_source=blogfinder" />
+        <published>2026-08-06T19:15:57+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[记一次服务器维护引发的虚惊]]></summary>
+    </entry>
         <entry>
         <title>博客阅读随感20260806</title>
         <id>166382</id>
@@ -33,6 +55,17 @@
             <uri>https://blog.zhheo.com</uri>
         </author>
         <summary type="text"><![CDATA[洪绘烧纸：一个网页在线电子烧纸，电子祭祀工具]]></summary>
+    </entry>
+        <entry>
+        <title>无线充电宝是个坑</title>
+        <id>166386</id>
+        <link href="https://sheep5.net/archives/200?utm_source=blogfinder" />
+        <published>2026-08-06T15:24:16+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[无线充电宝是个坑]]></summary>
     </entry>
         <entry>
         <title>WebMCP适配教程：为浏览器AI预备好，让网页向 AI 提供工具，本博客已支持</title>
@@ -363,6 +396,17 @@
             <uri>https://hi.jeray.wang</uri>
         </author>
         <summary type="text"><![CDATA[PC工作环境修复记]]></summary>
+    </entry>
+        <entry>
+        <title>我原本没打算过这个生日</title>
+        <id>166383</id>
+        <link href="https://n2g.cn/posts/unplanned-birthday/?utm_source=blogfinder" />
+        <published>2026-08-05T18:00:00+08:00</published>
+        <author>
+            <name>Xio&#039;s</name>
+            <uri>https://n2g.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[我原本没打算过这个生日]]></summary>
     </entry>
         <entry>
         <title>Docker Compose 部署 Dify 教程</title>
@@ -1485,27 +1529,5 @@
             <uri>https://joojen.com</uri>
         </author>
         <summary type="text"><![CDATA[未来五年的关键词“收敛”]]></summary>
-    </entry>
-        <entry>
-        <title>旅行</title>
-        <id>166019</id>
-        <link href="https://ezo.biz/Diary/1537.html?utm_source=blogfinder" />
-        <published>2026-08-03T21:40:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[旅行]]></summary>
-    </entry>
-        <entry>
-        <title>并不抗拒表达</title>
-        <id>166020</id>
-        <link href="https://z.arlmy.me/posts/ZArlmyMe/Acting_20260803/?utm_source=blogfinder" />
-        <published>2026-08-03T21:16:03+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[并不抗拒表达]]></summary>
     </entry>
     </feed>
