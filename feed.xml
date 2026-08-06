@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-06T11:01:25+08:00</updated>
+    <updated>2026-08-06T15:02:59+08:00</updated>
+        <entry>
+        <title>WebMCP适配教程：为浏览器AI预备好，让网页向 AI 提供工具，本博客已支持</title>
+        <id>166374</id>
+        <link href="https://blog.zhheo.com/p/z1fmm8ee.html?utm_source=blogfinder" />
+        <published>2026-08-06T11:56:00+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[WebMCP适配教程：为浏览器AI预备好，让网页向 AI 提供工具，本博客已支持]]></summary>
+    </entry>
+        <entry>
+        <title>https利弊(2)：生态的分量</title>
+        <id>166371</id>
+        <link href="http://www.auiou.com/relevant/00002176.jsp?utm_source=blogfinder" />
+        <published>2026-08-06T11:44:00+08:00</published>
+        <author>
+            <name>王志勇的 Blog</name>
+            <uri>http://www.auiou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[https利弊(2)：生态的分量]]></summary>
+    </entry>
+        <entry>
+        <title>写博客实在太耗时间</title>
+        <id>166372</id>
+        <link href="http://www.auiou.com/relevant/00002175.jsp?utm_source=blogfinder" />
+        <published>2026-08-06T09:08:00+08:00</published>
+        <author>
+            <name>王志勇的 Blog</name>
+            <uri>http://www.auiou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[写博客实在太耗时间]]></summary>
+    </entry>
+        <entry>
+        <title>入蜀记 day438 北来的风雨</title>
+        <id>166368</id>
+        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_438/?utm_source=blogfinder" />
+        <published>2026-08-06T08:53:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[入蜀记 day438 北来的风雨]]></summary>
+    </entry>
         <entry>
         <title>RE：Bloggers, can we make better titles for our posts?</title>
         <id>166357</id>
@@ -110,6 +154,17 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[法医刘良新书《真相不会沉默》：看逝者证言，见生死人心]]></summary>
+    </entry>
+        <entry>
+        <title>向日葵的养护记录</title>
+        <id>166373</id>
+        <link href="https://blog.wanyijizi.com/2026/08/05/677?utm_source=blogfinder" />
+        <published>2026-08-05T22:09:00+08:00</published>
+        <author>
+            <name>peachRL Blog</name>
+            <uri>https://blog.wanyijizi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[向日葵的养护记录]]></summary>
     </entry>
         <entry>
         <title>全链路AI前端开发Skill指南：从审美到工程，打造无模板感的生产级代码</title>
@@ -319,6 +374,17 @@
             <uri>https://ellenli.cc</uri>
         </author>
         <summary type="text"><![CDATA[2026年七月小结]]></summary>
+    </entry>
+        <entry>
+        <title>入蜀记 day437 靠山邸</title>
+        <id>166369</id>
+        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_437/?utm_source=blogfinder" />
+        <published>2026-08-05T12:48:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[入蜀记 day437 靠山邸]]></summary>
     </entry>
         <entry>
         <title>信息税</title>
@@ -1003,6 +1069,17 @@
         <summary type="text"><![CDATA[【设定】万应科技服务有限公司]]></summary>
     </entry>
         <entry>
+        <title>入蜀记 day436 钟美美</title>
+        <id>166370</id>
+        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_436/?utm_source=blogfinder" />
+        <published>2026-08-04T12:48:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[入蜀记 day436 钟美美]]></summary>
+    </entry>
+        <entry>
         <title>未来休克并不只是发生在未来</title>
         <id>166123</id>
         <link href="https://mobius.blog/25282.html?utm_source=blogfinder" />
@@ -1430,115 +1507,5 @@
             <uri>https://www.justzht.com</uri>
         </author>
         <summary type="text"><![CDATA[2026.8.3]]></summary>
-    </entry>
-        <entry>
-        <title>搞定 0x80073CFF：Windows 商店级 MSIX 应用包解包硬核安装指南</title>
-        <id>166114</id>
-        <link href="https://wuqishi.com/archives/fix-msix-0x80073cff-error?utm_source=blogfinder" />
-        <published>2026-08-03T14:58:51+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[搞定 0x80073CFF：Windows 商店级 MSIX 应用包解包硬核安装指南]]></summary>
-    </entry>
-        <entry>
-        <title>问AI的问题备份 20260803</title>
-        <id>166021</id>
-        <link href="https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260803/?utm_source=blogfinder" />
-        <published>2026-08-03T14:34:46+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[问AI的问题备份 20260803]]></summary>
-    </entry>
-        <entry>
-        <title>Ubuntu 24.04 换用 Fcitx5 + Rime（雾凇拼音）</title>
-        <id>166029</id>
-        <link href="https://beltxman.com/4754.html?utm_source=blogfinder" />
-        <published>2026-08-03T14:24:47+08:00</published>
-        <author>
-            <name>行星带</name>
-            <uri>https://beltxman.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Ubuntu 24.04 换用 Fcitx5 + Rime（雾凇拼音）]]></summary>
-    </entry>
-        <entry>
-        <title>ZR 集训 Day18 – 人类智慧题合集</title>
-        <id>166003</id>
-        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day18-%e4%ba%ba%e7%b1%bb%e6%99%ba%e6%85%a7%e9%a2%98%e5%90%88%e9%9b%86/?utm_source=blogfinder" />
-        <published>2026-08-03T14:21:25+08:00</published>
-        <author>
-            <name>ooliver 的博客</name>
-            <uri>https://blog.ooliver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[ZR 集训 Day18 – 人类智慧题合集]]></summary>
-    </entry>
-        <entry>
-        <title>博客重启、差点中暑与舌尖上的美食</title>
-        <id>166002</id>
-        <link href="https://nxxy335.top/archives/WPnmEpx9?utm_source=blogfinder" />
-        <published>2026-08-03T14:05:08+08:00</published>
-        <author>
-            <name>暖心向阳</name>
-            <uri>https://nxxy335.top</uri>
-        </author>
-        <summary type="text"><![CDATA[博客重启、差点中暑与舌尖上的美食]]></summary>
-    </entry>
-        <entry>
-        <title>Paper Reading (65)</title>
-        <id>166006</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-03-paper-reading-65.html?utm_source=blogfinder" />
-        <published>2026-08-03T14:04:18+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[Paper Reading (65)]]></summary>
-    </entry>
-        <entry>
-        <title>与渴望背道而驰的游天杰</title>
-        <id>166005</id>
-        <link href="https://www.pgoj.top/archives/you-tian-jie-ke-wang.html?utm_source=blogfinder" />
-        <published>2026-08-03T14:01:53+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[与渴望背道而驰的游天杰]]></summary>
-    </entry>
-        <entry>
-        <title>大芬油画村</title>
-        <id>166007</id>
-        <link href="https://pinlyu.com/life/dafen-oil-painting-village/?utm_source=blogfinder" />
-        <published>2026-08-03T12:54:42+08:00</published>
-        <author>
-            <name>频率</name>
-            <uri>https://pinlyu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[大芬油画村]]></summary>
-    </entry>
-        <entry>
-        <title>聊聊我的游戏进度</title>
-        <id>166001</id>
-        <link href="https://www.suiyan.cc/blog/20260803123110?utm_source=blogfinder" />
-        <published>2026-08-03T12:31:10+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[聊聊我的游戏进度]]></summary>
-    </entry>
-        <entry>
-        <title>我的公益中转站上线啦！</title>
-        <id>166008</id>
-        <link href="https://upxuu.com/posts/new-api/?utm_source=blogfinder" />
-        <published>2026-08-03T11:52:34+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我的公益中转站上线啦！]]></summary>
     </entry>
     </feed>
