@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-06T18:00:23+08:00</updated>
+    <updated>2026-08-06T20:01:10+08:00</updated>
+        <entry>
+        <title>博客阅读随感20260806</title>
+        <id>166382</id>
+        <link href="https://www.suiyan.cc/blog/20260806184425?utm_source=blogfinder" />
+        <published>2026-08-06T18:44:25+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[博客阅读随感20260806]]></summary>
+    </entry>
+        <entry>
+        <title>洪绘烧纸：一个网页在线电子烧纸，电子祭祀工具</title>
+        <id>166380</id>
+        <link href="https://blog.zhheo.com/p/kiazx47a.html?utm_source=blogfinder" />
+        <published>2026-08-06T16:44:45+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[洪绘烧纸：一个网页在线电子烧纸，电子祭祀工具]]></summary>
+    </entry>
         <entry>
         <title>WebMCP适配教程：为浏览器AI预备好，让网页向 AI 提供工具，本博客已支持</title>
         <id>166374</id>
@@ -44,6 +66,17 @@
             <uri>http://www.auiou.com</uri>
         </author>
         <summary type="text"><![CDATA[https利弊(2)：生态的分量]]></summary>
+    </entry>
+        <entry>
+        <title>等了两个月的Mac mini M4，终于到货了~</title>
+        <id>166381</id>
+        <link href="https://chrison.cn/work/486.html?utm_source=blogfinder" />
+        <published>2026-08-06T10:30:00+08:00</published>
+        <author>
+            <name>目的地</name>
+            <uri>https://chrison.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[等了两个月的Mac mini M4，终于到货了~]]></summary>
     </entry>
         <entry>
         <title>写博客实在太耗时间</title>
@@ -1474,27 +1507,5 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[并不抗拒表达]]></summary>
-    </entry>
-        <entry>
-        <title>中国特色APP，到底谁来治？</title>
-        <id>166025</id>
-        <link href="https://blog.2broear.com/notes/03-08-2026_fuxk-china-app?utm_source=blogfinder" />
-        <published>2026-08-03T19:20:30+08:00</published>
-        <author>
-            <name>2BROEAR</name>
-            <uri>https://blog.2broear.com</uri>
-        </author>
-        <summary type="text"><![CDATA[中国特色APP，到底谁来治？]]></summary>
-    </entry>
-        <entry>
-        <title>GitHubFlag标记解除过程</title>
-        <id>166024</id>
-        <link href="https://zooyoo.top/article/40/?utm_source=blogfinder" />
-        <published>2026-08-03T18:15:00+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[GitHubFlag标记解除过程]]></summary>
     </entry>
     </feed>
