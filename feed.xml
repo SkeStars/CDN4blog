@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-06T15:02:59+08:00</updated>
+    <updated>2026-08-06T18:00:23+08:00</updated>
         <entry>
         <title>WebMCP适配教程：为浏览器AI预备好，让网页向 AI 提供工具，本博客已支持</title>
         <id>166374</id>
@@ -22,6 +22,17 @@
             <uri>https://blog.zhheo.com</uri>
         </author>
         <summary type="text"><![CDATA[WebMCP适配教程：为浏览器AI预备好，让网页向 AI 提供工具，本博客已支持]]></summary>
+    </entry>
+        <entry>
+        <title>活、货、与神</title>
+        <id>166376</id>
+        <link href="https://mobius.blog/25297.html?utm_source=blogfinder" />
+        <published>2026-08-06T11:55:58+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[活、货、与神]]></summary>
     </entry>
         <entry>
         <title>https利弊(2)：生态的分量</title>
@@ -101,6 +112,28 @@
         <summary type="text"><![CDATA[X1 Presenter鼠标的macOS版虚拟激光笔软件]]></summary>
     </entry>
         <entry>
+        <title>深夜折腾日记：把不稳定的旧东西全部安顿好</title>
+        <id>166377</id>
+        <link href="https://xiangming.site/1143.html?utm_source=blogfinder" />
+        <published>2026-08-06T00:29:00+08:00</published>
+        <author>
+            <name>湘铭呀</name>
+            <uri>https://xiangming.site</uri>
+        </author>
+        <summary type="text"><![CDATA[深夜折腾日记：把不稳定的旧东西全部安顿好]]></summary>
+    </entry>
+        <entry>
+        <title>开宣传车</title>
+        <id>166379</id>
+        <link href="https://ilogs.cn/2026/08/06/392.html?utm_source=blogfinder" />
+        <published>2026-08-06T00:24:00+08:00</published>
+        <author>
+            <name>我的日志</name>
+            <uri>https://ilogs.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[开宣传车]]></summary>
+    </entry>
+        <entry>
         <title>Tailwind CSS — 实用优先的 CSS 框架</title>
         <id>166334</id>
         <link href="http://blog.xlap.top/post/tech/2026-08-06/tailwindcss/?utm_source=blogfinder" />
@@ -110,6 +143,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[Tailwind CSS — 实用优先的 CSS 框架]]></summary>
+    </entry>
+        <entry>
+        <title>学习能力在降低</title>
+        <id>166378</id>
+        <link href="https://ezo.biz/Diary/1541.html?utm_source=blogfinder" />
+        <published>2026-08-05T23:43:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[学习能力在降低]]></summary>
     </entry>
         <entry>
         <title>拿 AI 写了个游戏谈谈心得</title>
@@ -187,6 +231,17 @@
             <uri>https://www.sanji.one</uri>
         </author>
         <summary type="text"><![CDATA[被老天爷“做局”后，半天拿下 D 证]]></summary>
+    </entry>
+        <entry>
+        <title>What’s new in PHP 8.6</title>
+        <id>166375</id>
+        <link href="https://blog.p2hp.com/archives/11853?utm_source=blogfinder" />
+        <published>2026-08-05T21:47:07+08:00</published>
+        <author>
+            <name>Lenix Blog</name>
+            <uri>https://blog.p2hp.com</uri>
+        </author>
+        <summary type="text"><![CDATA[What’s new in PHP 8.6]]></summary>
     </entry>
         <entry>
         <title>向云端｜西南自驾07 - 新晃</title>
@@ -1441,71 +1496,5 @@
             <uri>https://zooyoo.top</uri>
         </author>
         <summary type="text"><![CDATA[GitHubFlag标记解除过程]]></summary>
-    </entry>
-        <entry>
-        <title>Claude Code Tools 研究系列（二）—— EnterPlanMode：为什么空 schema 也是一种设计</title>
-        <id>166026</id>
-        <link href="https://xilidou.com/2026/08/03/claude-code-tools-enter-plan-mode/?utm_source=blogfinder" />
-        <published>2026-08-03T18:00:00+08:00</published>
-        <author>
-            <name>犀利豆的博客</name>
-            <uri>https://xilidou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude Code Tools 研究系列（二）—— EnterPlanMode：为什么空 schema 也是一种设计]]></summary>
-    </entry>
-        <entry>
-        <title>解决帝国 CMS7.5 升级到 8.0 后，使用图片模型的栏目新增编辑内容没法加载的问题</title>
-        <id>166119</id>
-        <link href="https://aijun.org/ecms8-morepic/?utm_source=blogfinder" />
-        <published>2026-08-03T17:08:00+08:00</published>
-        <author>
-            <name>A 君博客</name>
-            <uri>https://aijun.org</uri>
-        </author>
-        <summary type="text"><![CDATA[解决帝国 CMS7.5 升级到 8.0 后，使用图片模型的栏目新增编辑内容没法加载的问题]]></summary>
-    </entry>
-        <entry>
-        <title>魔法的城市</title>
-        <id>166331</id>
-        <link href="https://shuspace.cn/archives/Magicity/?utm_source=blogfinder" />
-        <published>2026-08-03T16:52:02+08:00</published>
-        <author>
-            <name>树的漫长岁月</name>
-            <uri>https://shuspace.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[魔法的城市]]></summary>
-    </entry>
-        <entry>
-        <title>再退一步</title>
-        <id>166014</id>
-        <link href="https://retire50blog.wang/invest/%e5%86%8d%e9%80%80%e4%b8%80%e6%ad%a5.html?utm_source=blogfinder" />
-        <published>2026-08-03T15:43:18+08:00</published>
-        <author>
-            <name>个人工作记录</name>
-            <uri>https://retire50blog.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[再退一步]]></summary>
-    </entry>
-        <entry>
-        <title>学习Power BI</title>
-        <id>166121</id>
-        <link href="https://blog.xulihang.me/learn-about-power-bi/?utm_source=blogfinder" />
-        <published>2026-08-03T15:39:50+08:00</published>
-        <author>
-            <name>xulihang&#039;s blog</name>
-            <uri>https://blog.xulihang.me</uri>
-        </author>
-        <summary type="text"><![CDATA[学习Power BI]]></summary>
-    </entry>
-        <entry>
-        <title>2026.8.3</title>
-        <id>166012</id>
-        <link href="https://www.justzht.com/2026-8-3/?utm_source=blogfinder" />
-        <published>2026-08-03T15:35:49+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.8.3]]></summary>
     </entry>
     </feed>
