@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-07T23:09:12+08:00</updated>
+    <updated>2026-08-08T00:01:34+08:00</updated>
+        <entry>
+        <title>玩客云固件参数说明</title>
+        <id>166643</id>
+        <link href="https://1.122915.xyz/posts/%E7%8E%A9%E5%AE%A2%E4%BA%91%E5%9B%BA%E4%BB%B6%E8%AF%B4%E6%98%8E/?utm_source=blogfinder" />
+        <published>2026-08-07T23:36:19+08:00</published>
+        <author>
+            <name>风言风语</name>
+            <uri>https://1.122915.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[玩客云固件参数说明]]></summary>
+    </entry>
+        <entry>
+        <title>Obsidian  AI 知识库搭建教程：从 DeepSeek API 到本地模型、RAG 与 Agent 全攻略</title>
+        <id>166642</id>
+        <link href="https://blog.liseezn.top/896.html/?utm_source=blogfinder" />
+        <published>2026-08-07T21:56:10+08:00</published>
+        <author>
+            <name>Liseezn&#039;blog</name>
+            <uri>https://blog.liseezn.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Obsidian  AI 知识库搭建教程：从 DeepSeek API 到本地模型、RAG 与 Agent 全攻略]]></summary>
+    </entry>
+        <entry>
+        <title>生活碎碎念：立秋，立马就『秋』？</title>
+        <id>166641</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1516/?utm_source=blogfinder" />
+        <published>2026-08-07T19:59:00+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[生活碎碎念：立秋，立马就『秋』？]]></summary>
+    </entry>
         <entry>
         <title>丙午立秋</title>
         <id>166624</id>
@@ -22,6 +55,17 @@
             <uri>https://cbc688.com</uri>
         </author>
         <summary type="text"><![CDATA[丙午立秋]]></summary>
+    </entry>
+        <entry>
+        <title>入秋有感</title>
+        <id>166644</id>
+        <link href="https://blog.frdlink.link/index.php?article_id=38&amp;utm_source=blogfinder" />
+        <published>2026-08-07T18:58:29+08:00</published>
+        <author>
+            <name>FRD Link</name>
+            <uri>https://blog.frdlink.link</uri>
+        </author>
+        <summary type="text"><![CDATA[入秋有感]]></summary>
     </entry>
         <entry>
         <title>ZR 集训 Day22 – 后缀数组，后缀自动机</title>
@@ -77,6 +121,28 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[被人看不惯的小伙成不受待见的神登]]></summary>
+    </entry>
+        <entry>
+        <title>deepseek-v4-flash-0731使用体验</title>
+        <id>166639</id>
+        <link href="https://blog.xrbk.cn/post/98.html?utm_source=blogfinder" />
+        <published>2026-08-07T17:30:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://blog.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[deepseek-v4-flash-0731使用体验]]></summary>
+    </entry>
+        <entry>
+        <title>关于渠道的思考</title>
+        <id>166637</id>
+        <link href="https://blog.devtang.com/2026/08/07/channel-strategy-reflections/?utm_source=blogfinder" />
+        <published>2026-08-07T16:24:00+08:00</published>
+        <author>
+            <name>唐巧的博客</name>
+            <uri>https://blog.devtang.com</uri>
+        </author>
+        <summary type="text"><![CDATA[关于渠道的思考]]></summary>
     </entry>
         <entry>
         <title>20260806 东野圭吾</title>
@@ -431,6 +497,17 @@
         <summary type="text"><![CDATA[Hello，未来世界的代理人们]]></summary>
     </entry>
         <entry>
+        <title>生理上的技术债务</title>
+        <id>166640</id>
+        <link href="https://blog.solazy.me/20260806/?utm_source=blogfinder" />
+        <published>2026-08-06T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[生理上的技术债务]]></summary>
+    </entry>
+        <entry>
         <title>《真相不会沉默》其中有狂犬病案例，养过猫的我，看完后很后怕</title>
         <id>166606</id>
         <link href="https://www.bufanz.com/20260806786.html?utm_source=blogfinder" />
@@ -517,6 +594,17 @@
             <uri>https://upxuu.com</uri>
         </author>
         <summary type="text"><![CDATA[「说说」偶然发现，cloudflare竟然还在这里保护着我们]]></summary>
+    </entry>
+        <entry>
+        <title>八仙！</title>
+        <id>166638</id>
+        <link href="https://www.wanghao.me/movies/baxian?utm_source=blogfinder" />
+        <published>2026-08-06T20:01:23+08:00</published>
+        <author>
+            <name>小王子</name>
+            <uri>https://www.wanghao.me</uri>
+        </author>
+        <summary type="text"><![CDATA[八仙！]]></summary>
     </entry>
         <entry>
         <title>芝麻从哪里来？</title>
@@ -1562,192 +1650,5 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[Snake Wuwu]]></summary>
-    </entry>
-        <entry>
-        <title>轻糖的 KMP 渐进式迁移实践（三）：KMPObservableViewModel 直连，iOS 本地 ViewModel 全量退休</title>
-        <id>166352</id>
-        <link href="https://youngxhui.top/2026/08/sugarlite-kmp-migration-3/?utm_source=blogfinder" />
-        <published>2026-08-05T00:00:00+08:00</published>
-        <author>
-            <name>ISLAND</name>
-            <uri>https://youngxhui.top</uri>
-        </author>
-        <summary type="text"><![CDATA[轻糖的 KMP 渐进式迁移实践（三）：KMPObservableViewModel 直连，iOS 本地 ViewModel 全量退休]]></summary>
-    </entry>
-        <entry>
-        <title>用 ChatGPT 把长视频安全剪成 9:16 短影音：chatgpt-video-editing-skills 上手指南</title>
-        <id>166344</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-05/chatgpt-video-editing-skills/?utm_source=blogfinder" />
-        <published>2026-08-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[用 ChatGPT 把长视频安全剪成 9:16 短影音：chatgpt-video-editing-skills 上手指南]]></summary>
-    </entry>
-        <entry>
-        <title>融光：Agent 驱动的视频创作平台，剧本到成片一站式搞定</title>
-        <id>166343</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-05/ai-fusion-video/?utm_source=blogfinder" />
-        <published>2026-08-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[融光：Agent 驱动的视频创作平台，剧本到成片一站式搞定]]></summary>
-    </entry>
-        <entry>
-        <title>Webpack 深度解析：从模块打包器到现代前端工程化基石</title>
-        <id>166342</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-05/webpack/?utm_source=blogfinder" />
-        <published>2026-08-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Webpack 深度解析：从模块打包器到现代前端工程化基石]]></summary>
-    </entry>
-        <entry>
-        <title>spdlog：速度极快的 C++ 日志库</title>
-        <id>166341</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-05/spdlog/?utm_source=blogfinder" />
-        <published>2026-08-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[spdlog：速度极快的 C++ 日志库]]></summary>
-    </entry>
-        <entry>
-        <title>SlackCLI：用 TypeScript 与 Bun 打造的开发者友好 Slack 命令行工具</title>
-        <id>166340</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-05/slackcli/?utm_source=blogfinder" />
-        <published>2026-08-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[SlackCLI：用 TypeScript 与 Bun 打造的开发者友好 Slack 命令行工具]]></summary>
-    </entry>
-        <entry>
-        <title>OpenClaw Zero Token：零 API 密钥免费调用所有主流大模型</title>
-        <id>166339</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-05/openclaw-zero-token/?utm_source=blogfinder" />
-        <published>2026-08-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenClaw Zero Token：零 API 密钥免费调用所有主流大模型]]></summary>
-    </entry>
-        <entry>
-        <title>Open Science：本地优先、模型无关的开源 AI 科研工作台</title>
-        <id>166338</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-05/open-science/?utm_source=blogfinder" />
-        <published>2026-08-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Open Science：本地优先、模型无关的开源 AI 科研工作台]]></summary>
-    </entry>
-        <entry>
-        <title>Deno 2.x：更安全、更现代的 JavaScript/TypeScript 运行时</title>
-        <id>166337</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-05/deno/?utm_source=blogfinder" />
-        <published>2026-08-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Deno 2.x：更安全、更现代的 JavaScript/TypeScript 运行时]]></summary>
-    </entry>
-        <entry>
-        <title>Cloudflare Computer： Durable Object 内置的虚拟文件系统与多后端运行时</title>
-        <id>166336</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-05/computer/?utm_source=blogfinder" />
-        <published>2026-08-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Cloudflare Computer： Durable Object 内置的虚拟文件系统与多后端运行时]]></summary>
-    </entry>
-        <entry>
-        <title>ADR：Uber开源的企业级AI代理安全检测与响应系统</title>
-        <id>166335</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-05/adr/?utm_source=blogfinder" />
-        <published>2026-08-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[ADR：Uber开源的企业级AI代理安全检测与响应系统]]></summary>
-    </entry>
-        <entry>
-        <title>Robonix：面向具身智能的机器人操作系统</title>
-        <id>166197</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-05/robonix/?utm_source=blogfinder" />
-        <published>2026-08-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Robonix：面向具身智能的机器人操作系统]]></summary>
-    </entry>
-        <entry>
-        <title>David Ondrej 官方 Agent Skills：可复用的 AI 智能体工作流技能库</title>
-        <id>166196</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-05/skills/?utm_source=blogfinder" />
-        <published>2026-08-05T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[David Ondrej 官方 Agent Skills：可复用的 AI 智能体工作流技能库]]></summary>
-    </entry>
-        <entry>
-        <title>考不上湘潭大学，但可以考上南开大学博士、北京大学博士后</title>
-        <id>166159</id>
-        <link href="https://cuixiping.com/blog/post/gdciiu?utm_source=blogfinder" />
-        <published>2026-08-04T23:59:59+08:00</published>
-        <author>
-            <name>崔话记</name>
-            <uri>https://cuixiping.com</uri>
-        </author>
-        <summary type="text"><![CDATA[考不上湘潭大学，但可以考上南开大学博士、北京大学博士后]]></summary>
-    </entry>
-        <entry>
-        <title>无用命途：博客深潜者</title>
-        <id>166160</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1481/?utm_source=blogfinder" />
-        <published>2026-08-04T23:59:39+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[无用命途：博客深潜者]]></summary>
-    </entry>
-        <entry>
-        <title>吃花托的孩子，以为果实是种子</title>
-        <id>166288</id>
-        <link href="https://zooyoo.top/article/52/?utm_source=blogfinder" />
-        <published>2026-08-04T23:45:00+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[吃花托的孩子，以为果实是种子]]></summary>
-    </entry>
-        <entry>
-        <title>【不凡摄影作品 | 2026.8.4】</title>
-        <id>166295</id>
-        <link href="https://www.bufanz.com/20260804777.html?utm_source=blogfinder" />
-        <published>2026-08-04T23:29:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【不凡摄影作品 | 2026.8.4】]]></summary>
     </entry>
     </feed>
