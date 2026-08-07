@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-07T18:00:16+08:00</updated>
+    <updated>2026-08-07T19:00:18+08:00</updated>
+        <entry>
+        <title>Claude Code Tools 研究系列（六）—— Edit：精准字符串替换</title>
+        <id>166622</id>
+        <link href="https://xilidou.com/2026/08/07/claude-code-tools-edit/?utm_source=blogfinder" />
+        <published>2026-08-07T18:00:00+08:00</published>
+        <author>
+            <name>犀利豆的博客</name>
+            <uri>https://xilidou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Claude Code Tools 研究系列（六）—— Edit：精准字符串替换]]></summary>
+    </entry>
         <entry>
         <title>20260806 东野圭吾</title>
         <id>166609</id>
@@ -1738,38 +1749,5 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[评论、邮件，为什么不是Webmention？]]></summary>
-    </entry>
-        <entry>
-        <title>关于Microsoft Windows一波更新推送让我大晚上被迫加班的这档事</title>
-        <id>166293</id>
-        <link href="https://blog.moeworld.tech/2026/08/04/%e5%85%b3%e4%ba%8emicrosoft-windows%e4%b8%80%e6%b3%a2%e6%9b%b4%e6%96%b0%e6%8e%a8%e9%80%81%e8%ae%a9%e6%88%91%e5%a4%a7%e6%99%9a%e4%b8%8a%e8%a2%ab%e8%bf%ab%e5%8a%a0%e7%8f%ad%e7%9a%84%e8%bf%99%e6%a1%a3/?utm_source=blogfinder" />
-        <published>2026-08-04T18:58:30+08:00</published>
-        <author>
-            <name>晓空 Blog</name>
-            <uri>https://blog.moeworld.tech</uri>
-        </author>
-        <summary type="text"><![CDATA[关于Microsoft Windows一波更新推送让我大晚上被迫加班的这档事]]></summary>
-    </entry>
-        <entry>
-        <title>来自 BlogsClub 的鼠标垫</title>
-        <id>166463</id>
-        <link href="https://www.luming.cool/posts/2026/08/mouse-pad-from-blogsclub/?utm_source=blogfinder" />
-        <published>2026-08-04T18:35:11+08:00</published>
-        <author>
-            <name>路明笔记</name>
-            <uri>https://www.luming.cool</uri>
-        </author>
-        <summary type="text"><![CDATA[来自 BlogsClub 的鼠标垫]]></summary>
-    </entry>
-        <entry>
-        <title>基于 TCC 写一个所谓的分布式事务#2</title>
-        <id>166135</id>
-        <link href="https://www.bytecho.net/archives/tcc_golang_2.html?utm_source=blogfinder" />
-        <published>2026-08-04T18:35:00+08:00</published>
-        <author>
-            <name>字节星球</name>
-            <uri>https://www.bytecho.net</uri>
-        </author>
-        <summary type="text"><![CDATA[基于 TCC 写一个所谓的分布式事务#2]]></summary>
     </entry>
     </feed>
