@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-07T16:00:42+08:00</updated>
+    <updated>2026-08-07T18:00:16+08:00</updated>
         <entry>
         <title>20260806 东野圭吾</title>
         <id>166609</id>
@@ -24,6 +24,17 @@
         <summary type="text"><![CDATA[20260806 东野圭吾]]></summary>
     </entry>
         <entry>
+        <title>Linux下A9-9820 GPU驱动适配失败记录</title>
+        <id>166616</id>
+        <link href="https://www.nekopara.uk/archives/Try_Port_A9-9820_For_Linux.html?utm_source=blogfinder" />
+        <published>2026-08-07T14:51:00+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[Linux下A9-9820 GPU驱动适配失败记录]]></summary>
+    </entry>
+        <entry>
         <title>用 Kindle 认真读的这一个月：收获远不止书</title>
         <id>166611</id>
         <link href="https://sheep5.net/archives/218?utm_source=blogfinder" />
@@ -33,6 +44,17 @@
             <uri>https://sheep5.net</uri>
         </author>
         <summary type="text"><![CDATA[用 Kindle 认真读的这一个月：收获远不止书]]></summary>
+    </entry>
+        <entry>
+        <title>草台班子是这个世界的常态，不要自我内耗</title>
+        <id>166614</id>
+        <link href="https://joojen.com/archives/9072.html?utm_source=blogfinder" />
+        <published>2026-08-07T12:37:44+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[草台班子是这个世界的常态，不要自我内耗]]></summary>
     </entry>
         <entry>
         <title>289、立秋</title>
@@ -57,6 +79,17 @@
         <summary type="text"><![CDATA[为期五天的夏令营活动结束啦]]></summary>
     </entry>
         <entry>
+        <title>8.7立秋</title>
+        <id>166620</id>
+        <link href="https://liuqingwushui.top/archives/182/?utm_source=blogfinder" />
+        <published>2026-08-07T11:40:00+08:00</published>
+        <author>
+            <name>流情的博客</name>
+            <uri>https://liuqingwushui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[8.7立秋]]></summary>
+    </entry>
+        <entry>
         <title>数码评测(73)：PC神U i3-7350K的体验</title>
         <id>166604</id>
         <link href="http://www.auiou.com/relevant/00002178.jsp?utm_source=blogfinder" />
@@ -66,6 +99,17 @@
             <uri>http://www.auiou.com</uri>
         </author>
         <summary type="text"><![CDATA[数码评测(73)：PC神U i3-7350K的体验]]></summary>
+    </entry>
+        <entry>
+        <title>工作记</title>
+        <id>166621</id>
+        <link href="https://blog.frdlink.link/index.php?article_id=37&amp;utm_source=blogfinder" />
+        <published>2026-08-07T11:15:14+08:00</published>
+        <author>
+            <name>FRD Link</name>
+            <uri>https://blog.frdlink.link</uri>
+        </author>
+        <summary type="text"><![CDATA[工作记]]></summary>
     </entry>
         <entry>
         <title>2026-08-07 10:56</title>
@@ -90,6 +134,17 @@
         <summary type="text"><![CDATA[【读书记1701】埃利斯《革命之夏：美国独立的起源》]]></summary>
     </entry>
         <entry>
+        <title>未尽之言</title>
+        <id>166617</id>
+        <link href="https://cavill.site/articles/my-new-post?utm_source=blogfinder" />
+        <published>2026-08-07T10:17:07+08:00</published>
+        <author>
+            <name>栖迟处</name>
+            <uri>https://cavill.site</uri>
+        </author>
+        <summary type="text"><![CDATA[未尽之言]]></summary>
+    </entry>
+        <entry>
         <title>最近在港区用 ChatGPT：没想到会这么稳</title>
         <id>166612</id>
         <link href="https://sheep5.net/archives/214?utm_source=blogfinder" />
@@ -99,6 +154,17 @@
             <uri>https://sheep5.net</uri>
         </author>
         <summary type="text"><![CDATA[最近在港区用 ChatGPT：没想到会这么稳]]></summary>
+    </entry>
+        <entry>
+        <title>认识中医的五运六气</title>
+        <id>166618</id>
+        <link href="https://jiangcl.com/4922?utm_source=blogfinder" />
+        <published>2026-08-07T10:08:36+08:00</published>
+        <author>
+            <name>蒙需</name>
+            <uri>https://jiangcl.com/</uri>
+        </author>
+        <summary type="text"><![CDATA[认识中医的五运六气]]></summary>
     </entry>
         <entry>
         <title>个人知识工程（一）：从文章索引到知识结构——一次 AI 协作探索个人知识体系的实践</title>
@@ -255,6 +321,17 @@
         <summary type="text"><![CDATA[《真相不会沉默》其中有狂犬病案例，养过猫的我，看完后很后怕]]></summary>
     </entry>
         <entry>
+        <title>输入法</title>
+        <id>166619</id>
+        <link href="https://ezo.biz/Diary/1545.html?utm_source=blogfinder" />
+        <published>2026-08-06T22:08:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[输入法]]></summary>
+    </entry>
+        <entry>
         <title>荣耀平板10 Pro开箱评测：准高中生的学习礼物</title>
         <id>166391</id>
         <link href="https://www.wanghao.me/rongyaopingban10-prokaixiangpingcezhungaozhongshengdexuexiliwu.html?utm_source=blogfinder" />
@@ -385,6 +462,17 @@
             <uri>https://upxuu.com</uri>
         </author>
         <summary type="text"><![CDATA[当一个喜欢coding的博主重操旧业写了首歌]]></summary>
+    </entry>
+        <entry>
+        <title>Docker Compose 部署 LangBot 教程</title>
+        <id>166615</id>
+        <link href="https://songxwn.com/LangBot-Docker-Compose/?utm_source=blogfinder" />
+        <published>2026-08-06T17:45:00+08:00</published>
+        <author>
+            <name>Song&#039;s Blog</name>
+            <uri>https://songxwn.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Docker Compose 部署 LangBot 教程]]></summary>
     </entry>
         <entry>
         <title>人间殊途</title>
@@ -1683,49 +1771,5 @@
             <uri>https://www.bytecho.net</uri>
         </author>
         <summary type="text"><![CDATA[基于 TCC 写一个所谓的分布式事务#2]]></summary>
-    </entry>
-        <entry>
-        <title>Claude Code Tools 研究系列（三）—— ExitPlanMode：把方案提交给用户批准</title>
-        <id>166162</id>
-        <link href="https://xilidou.com/2026/08/04/claude-code-tools-exit-plan-mode/?utm_source=blogfinder" />
-        <published>2026-08-04T18:00:00+08:00</published>
-        <author>
-            <name>犀利豆的博客</name>
-            <uri>https://xilidou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude Code Tools 研究系列（三）—— ExitPlanMode：把方案提交给用户批准]]></summary>
-    </entry>
-        <entry>
-        <title>手慢无：免费领取永久腾讯QQ VIP邮箱后缀</title>
-        <id>166313</id>
-        <link href="https://lklog.cn/chat/1441.html?utm_source=blogfinder" />
-        <published>2026-08-04T17:49:58+08:00</published>
-        <author>
-            <name>龙鲲博客</name>
-            <uri>https://lklog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[手慢无：免费领取永久腾讯QQ VIP邮箱后缀]]></summary>
-    </entry>
-        <entry>
-        <title>在「接缝」的彼岸：横滨观演与日本纪行</title>
-        <id>166132</id>
-        <link href="https://blog.deepchirp.com/2026/08/04/Beyond-the-Connection-Point-Yokohama-Concert-and-Japan-Travels/?utm_source=blogfinder" />
-        <published>2026-08-04T16:41:08+08:00</published>
-        <author>
-            <name>空鸣深语</name>
-            <uri>https://blog.deepchirp.com</uri>
-        </author>
-        <summary type="text"><![CDATA[在「接缝」的彼岸：横滨观演与日本纪行]]></summary>
-    </entry>
-        <entry>
-        <title>26年7月总结-好热丫，但丰富～</title>
-        <id>166133</id>
-        <link href="https://blog.lichenghao.cn/article/ayqzxlyxdvns?utm_source=blogfinder" />
-        <published>2026-08-04T16:25:38+08:00</published>
-        <author>
-            <name>故事的程序猿</name>
-            <uri>https://blog.lichenghao.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[26年7月总结-好热丫，但丰富～]]></summary>
     </entry>
     </feed>
