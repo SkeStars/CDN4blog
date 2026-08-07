@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-07T11:01:59+08:00</updated>
+    <updated>2026-08-07T13:07:54+08:00</updated>
+        <entry>
+        <title>为期五天的夏令营活动结束啦</title>
+        <id>166607</id>
+        <link href="https://ygz.ink/archives/5618.html?utm_source=blogfinder" />
+        <published>2026-08-07T11:40:19+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[为期五天的夏令营活动结束啦]]></summary>
+    </entry>
+        <entry>
+        <title>数码评测(73)：PC神U i3-7350K的体验</title>
+        <id>166604</id>
+        <link href="http://www.auiou.com/relevant/00002178.jsp?utm_source=blogfinder" />
+        <published>2026-08-07T11:34:00+08:00</published>
+        <author>
+            <name>王志勇的 Blog</name>
+            <uri>http://www.auiou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[数码评测(73)：PC神U i3-7350K的体验]]></summary>
+    </entry>
         <entry>
         <title>2026-08-07 10:56</title>
         <id>166601</id>
@@ -22,6 +44,17 @@
             <uri>https://koobai.com</uri>
         </author>
         <summary type="text"><![CDATA[2026-08-07 10:56]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1701】埃利斯《革命之夏：美国独立的起源》</title>
+        <id>166605</id>
+        <link href="http://www.qncd.com/?p=12981&amp;utm_source=blogfinder" />
+        <published>2026-08-07T10:33:32+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1701】埃利斯《革命之夏：美国独立的起源》]]></summary>
     </entry>
         <entry>
         <title>个人知识工程（一）：从文章索引到知识结构——一次 AI 协作探索个人知识体系的实践</title>
@@ -143,6 +176,17 @@
             <uri>https://cuixiping.com</uri>
         </author>
         <summary type="text"><![CDATA[我的几位老板们，大概率进入中国富豪榜TOP-500了]]></summary>
+    </entry>
+        <entry>
+        <title>《真相不会沉默》其中有狂犬病案例，养过猫的我，看完后很后怕</title>
+        <id>166606</id>
+        <link href="https://www.bufanz.com/20260806786.html?utm_source=blogfinder" />
+        <published>2026-08-06T23:00:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《真相不会沉默》其中有狂犬病案例，养过猫的我，看完后很后怕]]></summary>
     </entry>
         <entry>
         <title>荣耀平板10 Pro开箱评测：准高中生的学习礼物</title>
@@ -1683,49 +1727,5 @@
             <uri>https://hexo.limour.top</uri>
         </author>
         <summary type="text"><![CDATA[【设定】万应科技服务有限公司]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day436 钟美美</title>
-        <id>166370</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_436/?utm_source=blogfinder" />
-        <published>2026-08-04T12:48:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day436 钟美美]]></summary>
-    </entry>
-        <entry>
-        <title>未来休克并不只是发生在未来</title>
-        <id>166123</id>
-        <link href="https://mobius.blog/25282.html?utm_source=blogfinder" />
-        <published>2026-08-04T12:36:44+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[未来休克并不只是发生在未来]]></summary>
-    </entry>
-        <entry>
-        <title>白云山记</title>
-        <id>166127</id>
-        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1197&amp;utm_source=blogfinder" />
-        <published>2026-08-04T11:46:45+08:00</published>
-        <author>
-            <name>徐建伟</name>
-            <uri>http://www.xulog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[白云山记]]></summary>
-    </entry>
-        <entry>
-        <title>Python:此应用的一部分已被阻止，关闭Windows安全中心选项即可</title>
-        <id>166155</id>
-        <link href="https://www.yang1120.com/archives/766?utm_source=blogfinder" />
-        <published>2026-08-04T11:44:18+08:00</published>
-        <author>
-            <name>氧化某人</name>
-            <uri>https://www.yang1120.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Python:此应用的一部分已被阻止，关闭Windows安全中心选项即可]]></summary>
     </entry>
     </feed>
