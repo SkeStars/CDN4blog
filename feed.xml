@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-07T19:00:18+08:00</updated>
+    <updated>2026-08-07T20:01:32+08:00</updated>
+        <entry>
+        <title>丙午立秋</title>
+        <id>166624</id>
+        <link href="https://cbc688.com/articles/bwlq?utm_source=blogfinder" />
+        <published>2026-08-07T19:05:10+08:00</published>
+        <author>
+            <name>CRIVU</name>
+            <uri>https://cbc688.com</uri>
+        </author>
+        <summary type="text"><![CDATA[丙午立秋]]></summary>
+    </entry>
+        <entry>
+        <title>终局</title>
+        <id>166623</id>
+        <link href="https://yishu-life.com/index.php/archives/533.html?utm_source=blogfinder" />
+        <published>2026-08-07T18:00:42+08:00</published>
+        <author>
+            <name>树下语</name>
+            <uri>https://yishu-life.com</uri>
+        </author>
+        <summary type="text"><![CDATA[终局]]></summary>
+    </entry>
         <entry>
         <title>Claude Code Tools 研究系列（六）—— Edit：精准字符串替换</title>
         <id>166622</id>
@@ -1727,27 +1749,5 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[又是一年，祝自己生日快乐]]></summary>
-    </entry>
-        <entry>
-        <title>写出一份好的代码</title>
-        <id>166314</id>
-        <link href="https://www.chenxutalk.top/posts/study/cs0/good-code/?utm_source=blogfinder" />
-        <published>2026-08-04T20:00:00+08:00</published>
-        <author>
-            <name>chenxutalk</name>
-            <uri>https://www.chenxutalk.top</uri>
-        </author>
-        <summary type="text"><![CDATA[写出一份好的代码]]></summary>
-    </entry>
-        <entry>
-        <title>评论、邮件，为什么不是Webmention？</title>
-        <id>166291</id>
-        <link href="https://www.suiyan.cc/blog/20260804194203?utm_source=blogfinder" />
-        <published>2026-08-04T19:42:03+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[评论、邮件，为什么不是Webmention？]]></summary>
     </entry>
     </feed>
