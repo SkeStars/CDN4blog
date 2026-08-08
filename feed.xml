@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-08T21:00:43+08:00</updated>
+    <updated>2026-08-08T22:00:32+08:00</updated>
         <entry>
         <title>Claude Code Tools 研究系列（七）—— Write：创建与全量重写的边界</title>
         <id>166719</id>
@@ -253,6 +253,17 @@
             <uri>https://www.haoyu233.com</uri>
         </author>
         <summary type="text"><![CDATA[【26年31周记】琐事记]]></summary>
+    </entry>
+        <entry>
+        <title>Analyzing Halo Pro: A Flaw in the License Activation Process</title>
+        <id>166721</id>
+        <link href="https://erzbir.com/archives/halo-pro-activation-flaw?utm_source=blogfinder" />
+        <published>2026-08-08T02:22:46+08:00</published>
+        <author>
+            <name>Erzbir&#039;s Blog</name>
+            <uri>https://erzbir.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Analyzing Halo Pro: A Flaw in the License Activation Process]]></summary>
     </entry>
         <entry>
         <title>Semantica：给 AI Agent 装上「可审计的大脑」——开源版 Palantir 的图原生上下文基础设施</title>
@@ -1793,60 +1804,5 @@
             <uri>https://blog.liseezn.top</uri>
         </author>
         <summary type="text"><![CDATA[全链路AI前端开发Skill指南：从审美到工程，打造无模板感的生产级代码]]></summary>
-    </entry>
-        <entry>
-        <title>被老天爷“做局”后，半天拿下 D 证</title>
-        <id>166599</id>
-        <link href="https://www.sanji.one/fu-sheng-za-ji/getting-d-license-in-half-a-day.html?utm_source=blogfinder" />
-        <published>2026-08-05T21:59:00+08:00</published>
-        <author>
-            <name>时光散记</name>
-            <uri>https://www.sanji.one</uri>
-        </author>
-        <summary type="text"><![CDATA[被老天爷“做局”后，半天拿下 D 证]]></summary>
-    </entry>
-        <entry>
-        <title>被老天爷“做局”后，半天拿下 D 证</title>
-        <id>166365</id>
-        <link href="https://www.sanji.one/fu-sheng-za-ji/D.html?utm_source=blogfinder" />
-        <published>2026-08-05T21:59:00+08:00</published>
-        <author>
-            <name>时光散记</name>
-            <uri>https://www.sanji.one</uri>
-        </author>
-        <summary type="text"><![CDATA[被老天爷“做局”后，半天拿下 D 证]]></summary>
-    </entry>
-        <entry>
-        <title>What’s new in PHP 8.6</title>
-        <id>166375</id>
-        <link href="https://blog.p2hp.com/archives/11853?utm_source=blogfinder" />
-        <published>2026-08-05T21:47:07+08:00</published>
-        <author>
-            <name>Lenix Blog</name>
-            <uri>https://blog.p2hp.com</uri>
-        </author>
-        <summary type="text"><![CDATA[What’s new in PHP 8.6]]></summary>
-    </entry>
-        <entry>
-        <title>向云端｜西南自驾07 - 新晃</title>
-        <id>166324</id>
-        <link href="https://blog.ops-coffee.com/r/2026-southwest-road-trip-07-xinhuang.html?utm_source=blogfinder" />
-        <published>2026-08-05T21:31:12+08:00</published>
-        <author>
-            <name>运维咖啡吧</name>
-            <uri>https://blog.ops-coffee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[向云端｜西南自驾07 - 新晃]]></summary>
-    </entry>
-        <entry>
-        <title>2026-07 书影音总结</title>
-        <id>166333</id>
-        <link href="https://www.javis.me/2026-07/?utm_source=blogfinder" />
-        <published>2026-08-05T21:13:00+08:00</published>
-        <author>
-            <name>查令十字街 84 号</name>
-            <uri>https://javis.me</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-07 书影音总结]]></summary>
     </entry>
     </feed>
