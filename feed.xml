@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-08T10:00:14+08:00</updated>
+    <updated>2026-08-08T11:00:51+08:00</updated>
         <entry>
         <title>宝可梦能够被神圣化吗？</title>
         <id>166682</id>
@@ -1782,49 +1782,5 @@
             <uri>https://blog.hclonely.com</uri>
         </author>
         <summary type="text"><![CDATA[记一次Alt-Tab导致资源管理器崩溃（0xc0000005）原因排查]]></summary>
-    </entry>
-        <entry>
-        <title>找到那件值得“浪费一生”的事情</title>
-        <id>166305</id>
-        <link href="https://mobius.blog/25290.html?utm_source=blogfinder" />
-        <published>2026-08-05T10:24:22+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[找到那件值得“浪费一生”的事情]]></summary>
-    </entry>
-        <entry>
-        <title>聊聊：我为什么选择Obsidian记录生活</title>
-        <id>166362</id>
-        <link href="https://sheep5.net/archives/180?utm_source=blogfinder" />
-        <published>2026-08-05T10:19:28+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[聊聊：我为什么选择Obsidian记录生活]]></summary>
-    </entry>
-        <entry>
-        <title>第一次为余额过多而感到焦虑</title>
-        <id>166297</id>
-        <link href="https://lcrworld.xyz/articles/57?utm_source=blogfinder" />
-        <published>2026-08-05T10:14:25+08:00</published>
-        <author>
-            <name>lcrworld&#039;s Blog</name>
-            <uri>http://lcrworld.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[第一次为余额过多而感到焦虑]]></summary>
-    </entry>
-        <entry>
-        <title>【阅读笔记】彩色转黑白Real-time Contrast Preserving Decolorization</title>
-        <id>166366</id>
-        <link href="https://www.aomanhao.top/archives/447/?utm_source=blogfinder" />
-        <published>2026-08-05T10:08:00+08:00</published>
-        <author>
-            <name>AomanHao</name>
-            <uri>https://www.aomanhao.top</uri>
-        </author>
-        <summary type="text"><![CDATA[【阅读笔记】彩色转黑白Real-time Contrast Preserving Decolorization]]></summary>
     </entry>
     </feed>
