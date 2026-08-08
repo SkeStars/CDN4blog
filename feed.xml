@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-08T23:08:44+08:00</updated>
+    <updated>2026-08-09T00:05:38+08:00</updated>
         <entry>
         <title>Re: Bloggers, can we make better titles for our posts?</title>
         <id>166725</id>
@@ -33,6 +33,17 @@
             <uri>https://blog.52hyjs.com</uri>
         </author>
         <summary type="text"><![CDATA[我的快乐去哪里了]]></summary>
+    </entry>
+        <entry>
+        <title>博客评论系统的一些设计</title>
+        <id>166730</id>
+        <link href="https://blog.goodboyboy.top/posts/2809720001.html?utm_source=blogfinder" />
+        <published>2026-08-08T20:34:43+08:00</published>
+        <author>
+            <name>GoodBoyboy</name>
+            <uri>https://blog.goodboyboy.top</uri>
+        </author>
+        <summary type="text"><![CDATA[博客评论系统的一些设计]]></summary>
     </entry>
         <entry>
         <title>Claude Code Tools 研究系列（七）—— Write：创建与全量重写的边界</title>
@@ -858,6 +869,17 @@
             <uri>https://blog.tangwudi.com</uri>
         </author>
         <summary type="text"><![CDATA[个人知识工程（一）：从文章索引到知识结构——一次 AI 协作探索个人知识体系的实践]]></summary>
+    </entry>
+        <entry>
+        <title>人肉味 机油味 您好哪一口？</title>
+        <id>166729</id>
+        <link href="http://weiwuhui.com/11059.html?utm_source=blogfinder" />
+        <published>2026-08-07T09:17:00+08:00</published>
+        <author>
+            <name>扯氮集</name>
+            <uri>http://weiwuhui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[人肉味 机油味 您好哪一口？]]></summary>
     </entry>
         <entry>
         <title>最近开始用 ChatGPT：我的对比与使用体验</title>
@@ -1694,126 +1716,5 @@
             <uri>https://ilogs.cn</uri>
         </author>
         <summary type="text"><![CDATA[开宣传车]]></summary>
-    </entry>
-        <entry>
-        <title>BanG Dream! YUME∞MITA</title>
-        <id>166667</id>
-        <link href="https://xeonzilla.top/bang-dream-yumemita/?utm_source=blogfinder" />
-        <published>2026-08-06T00:00:00+08:00</published>
-        <author>
-            <name>Xeonzilla’s Note</name>
-            <uri>https://xeonzilla.top</uri>
-        </author>
-        <summary type="text"><![CDATA[BanG Dream! YUME∞MITA]]></summary>
-    </entry>
-        <entry>
-        <title>Comp CRM：一个以 AI Agent 为核心的开源 CRM 系统</title>
-        <id>166660</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-06/crm/?utm_source=blogfinder" />
-        <published>2026-08-06T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Comp CRM：一个以 AI Agent 为核心的开源 CRM 系统]]></summary>
-    </entry>
-        <entry>
-        <title>Authentik：一个开源的身份认证中台，支持 SSO/SAML/OIDC/LDAP/RADIUS</title>
-        <id>166659</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-06/authentik/?utm_source=blogfinder" />
-        <published>2026-08-06T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Authentik：一个开源的身份认证中台，支持 SSO/SAML/OIDC/LDAP/RADIUS]]></summary>
-    </entry>
-        <entry>
-        <title>yichen-skills：一站式 AI 创作者工具箱，支持微信、X、剪映、飞书等多个平台</title>
-        <id>166440</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-06/yichen-skills/?utm_source=blogfinder" />
-        <published>2026-08-06T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[yichen-skills：一站式 AI 创作者工具箱，支持微信、X、剪映、飞书等多个平台]]></summary>
-    </entry>
-        <entry>
-        <title>Dashi PPT Skill：让 AI Agent 为你生成可编辑的专业 PPT</title>
-        <id>166439</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-06/dashi-ppt-skill/?utm_source=blogfinder" />
-        <published>2026-08-06T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Dashi PPT Skill：让 AI Agent 为你生成可编辑的专业 PPT]]></summary>
-    </entry>
-        <entry>
-        <title>CyberPPT：把文档变成咨询级高保真 PPT 的 Codex Skill</title>
-        <id>166438</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-06/cyberppt/?utm_source=blogfinder" />
-        <published>2026-08-06T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[CyberPPT：把文档变成咨询级高保真 PPT 的 Codex Skill]]></summary>
-    </entry>
-        <entry>
-        <title>Tailwind CSS — 实用优先的 CSS 框架</title>
-        <id>166334</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-06/tailwindcss/?utm_source=blogfinder" />
-        <published>2026-08-06T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Tailwind CSS — 实用优先的 CSS 框架]]></summary>
-    </entry>
-        <entry>
-        <title>学习能力在降低</title>
-        <id>166378</id>
-        <link href="https://ezo.biz/Diary/1541.html?utm_source=blogfinder" />
-        <published>2026-08-05T23:43:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[学习能力在降低]]></summary>
-    </entry>
-        <entry>
-        <title>拿 AI 写了个游戏谈谈心得</title>
-        <id>166347</id>
-        <link href="https://iceprosurface.com/thought/building-a-game-with-ai/?utm_source=blogfinder" />
-        <published>2026-08-05T23:37:46+08:00</published>
-        <author>
-            <name>icepro&#039;s blog</name>
-            <uri>https://iceprosurface.com</uri>
-        </author>
-        <summary type="text"><![CDATA[拿 AI 写了个游戏谈谈心得]]></summary>
-    </entry>
-        <entry>
-        <title>入职五个月小结</title>
-        <id>166392</id>
-        <link href="https://blog.solazy.me/20260805/?utm_source=blogfinder" />
-        <published>2026-08-05T23:30:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入职五个月小结]]></summary>
-    </entry>
-        <entry>
-        <title>艾尔特拉克在岣琅</title>
-        <id>166354</id>
-        <link href="https://www.geedea.pro/article/banality-of-go-err/?utm_source=blogfinder" />
-        <published>2026-08-05T23:11:35+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[艾尔特拉克在岣琅]]></summary>
     </entry>
     </feed>
