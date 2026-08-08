@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-08T16:00:21+08:00</updated>
+    <updated>2026-08-08T17:01:53+08:00</updated>
         <entry>
         <title>更换</title>
         <id>166691</id>
@@ -24,6 +24,17 @@
         <summary type="text"><![CDATA[更换]]></summary>
     </entry>
         <entry>
+        <title>WordPress 安全问题 2</title>
+        <id>166710</id>
+        <link href="https://wp.qwq2022.top/2026/08/08/wordpress-%e5%ae%89%e5%85%a8%e9%97%ae%e9%a2%98-2/?utm_source=blogfinder" />
+        <published>2026-08-08T14:55:30+08:00</published>
+        <author>
+            <name>清枫の小窝</name>
+            <uri>https://wp.qwq2022.top</uri>
+        </author>
+        <summary type="text"><![CDATA[WordPress 安全问题 2]]></summary>
+    </entry>
+        <entry>
         <title>ZR 集训 Day23 – 通信、交互、题答非传统题</title>
         <id>166693</id>
         <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day23-%e9%80%9a%e4%bf%a1%e3%80%81%e4%ba%a4%e4%ba%92%e3%80%81%e9%a2%98%e7%ad%94%e9%9d%9e%e4%bc%a0%e7%bb%9f%e9%a2%98/?utm_source=blogfinder" />
@@ -33,6 +44,17 @@
             <uri>https://blog.ooliver.cn</uri>
         </author>
         <summary type="text"><![CDATA[ZR 集训 Day23 – 通信、交互、题答非传统题]]></summary>
+    </entry>
+        <entry>
+        <title>《淘金人生》</title>
+        <id>166700</id>
+        <link href="https://www.weiwenchao.com./2771.html?utm_source=blogfinder" />
+        <published>2026-08-08T13:41:39+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《淘金人生》]]></summary>
     </entry>
         <entry>
         <title>生日快乐</title>
@@ -55,6 +77,28 @@
             <uri>https://airy.ink</uri>
         </author>
         <summary type="text"><![CDATA[立秋之后随记]]></summary>
+    </entry>
+        <entry>
+        <title>五运六气中主客运气的排盘推演</title>
+        <id>166711</id>
+        <link href="https://jiangcl.com/4929?utm_source=blogfinder" />
+        <published>2026-08-08T12:36:43+08:00</published>
+        <author>
+            <name>蒙需</name>
+            <uri>https://jiangcl.com/</uri>
+        </author>
+        <summary type="text"><![CDATA[五运六气中主客运气的排盘推演]]></summary>
+    </entry>
+        <entry>
+        <title>如何打造优秀博客？(2)</title>
+        <id>166697</id>
+        <link href="http://www.auiou.com/relevant/00002179.jsp?utm_source=blogfinder" />
+        <published>2026-08-08T12:36:00+08:00</published>
+        <author>
+            <name>王志勇的 Blog</name>
+            <uri>http://www.auiou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[如何打造优秀博客？(2)]]></summary>
     </entry>
         <entry>
         <title>【读书记1702】埃利斯《奠基者：独立战争那一代》</title>
@@ -121,6 +165,17 @@
             <uri>https://blog.cytrogen.icu</uri>
         </author>
         <summary type="text"><![CDATA[病殃殃的一周]]></summary>
+    </entry>
+        <entry>
+        <title>【26年31周记】琐事记</title>
+        <id>166699</id>
+        <link href="https://www.haoyu233.com/2668.html?utm_source=blogfinder" />
+        <published>2026-08-08T02:28:59+08:00</published>
+        <author>
+            <name>小改学习志</name>
+            <uri>https://www.haoyu233.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【26年31周记】琐事记]]></summary>
     </entry>
         <entry>
         <title>Semantica：给 AI Agent 装上「可审计的大脑」——开源版 Palantir 的图原生上下文基础设施</title>
@@ -198,6 +253,17 @@
             <uri>https://blog.liseezn.top</uri>
         </author>
         <summary type="text"><![CDATA[Obsidian  AI 知识库搭建教程：从 DeepSeek API 到本地模型、RAG 与 Agent 全攻略]]></summary>
+    </entry>
+        <entry>
+        <title>酷鸭数据香港精品线路服务器得分 53.10</title>
+        <id>166698</id>
+        <link href="https://dujun.io/kooya-gold-server-hk-scored-fifty-three-point-one-zero.html?utm_source=blogfinder" />
+        <published>2026-08-07T20:47:34+08:00</published>
+        <author>
+            <name>杜郎俊赏</name>
+            <uri>https://dujun.io</uri>
+        </author>
+        <summary type="text"><![CDATA[酷鸭数据香港精品线路服务器得分 53.10]]></summary>
     </entry>
         <entry>
         <title>生活碎碎念：立秋，立马就『秋』？</title>
@@ -1771,38 +1837,5 @@
             <uri>https://n2g.cn</uri>
         </author>
         <summary type="text"><![CDATA[我原本没打算过这个生日]]></summary>
-    </entry>
-        <entry>
-        <title>Docker Compose 部署 Dify 教程</title>
-        <id>166345</id>
-        <link href="https://songxwn.com/Dify-Docker-Compose/?utm_source=blogfinder" />
-        <published>2026-08-05T16:37:00+08:00</published>
-        <author>
-            <name>Song&#039;s Blog</name>
-            <uri>https://songxwn.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Docker Compose 部署 Dify 教程]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1700】房龙《美国的故事》</title>
-        <id>166322</id>
-        <link href="http://www.qncd.com/?p=12978&amp;utm_source=blogfinder" />
-        <published>2026-08-05T16:36:28+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1700】房龙《美国的故事》]]></summary>
-    </entry>
-        <entry>
-        <title>关于这几天对博客主题的更新</title>
-        <id>166320</id>
-        <link href="https://sigge.cn/2026/08/05/oXlJ17VD?utm_source=blogfinder" />
-        <published>2026-08-05T16:05:21+08:00</published>
-        <author>
-            <name>毛伊西格</name>
-            <uri>https://sigge.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[关于这几天对博客主题的更新]]></summary>
     </entry>
     </feed>
