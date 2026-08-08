@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-08T18:00:16+08:00</updated>
+    <updated>2026-08-08T19:01:09+08:00</updated>
+        <entry>
+        <title>Claude Code Tools 研究系列（七）—— Write：创建与全量重写的边界</title>
+        <id>166719</id>
+        <link href="https://xilidou.com/2026/08/08/claude-code-tools-write/?utm_source=blogfinder" />
+        <published>2026-08-08T18:00:00+08:00</published>
+        <author>
+            <name>犀利豆的博客</name>
+            <uri>https://xilidou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Claude Code Tools 研究系列（七）—— Write：创建与全量重写的边界]]></summary>
+    </entry>
         <entry>
         <title>《茶馆》观影有感</title>
         <id>166716</id>
@@ -341,6 +352,17 @@
             <uri>https://blog.mfwt.top</uri>
         </author>
         <summary type="text"><![CDATA[生活碎碎念：立秋，立马就『秋』？]]></summary>
+    </entry>
+        <entry>
+        <title>更改CDN缓存逻辑</title>
+        <id>166718</id>
+        <link href="https://hi.jeray.wang/K/223.html?utm_source=blogfinder" />
+        <published>2026-08-07T19:58:00+08:00</published>
+        <author>
+            <name>Jeray 大叔</name>
+            <uri>https://hi.jeray.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[更改CDN缓存逻辑]]></summary>
     </entry>
         <entry>
         <title>想辞职的每一天</title>
@@ -1848,38 +1870,5 @@
             <uri>http://weiwuhui.com</uri>
         </author>
         <summary type="text"><![CDATA[华尔街开始查账 AI泡沫破灭了吗]]></summary>
-    </entry>
-        <entry>
-        <title>ZR 集训 Day20 – 基础字符串算法</title>
-        <id>166319</id>
-        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day20-%e5%9f%ba%e7%a1%80%e5%ad%97%e7%ac%a6%e4%b8%b2%e7%ae%97%e6%b3%95/?utm_source=blogfinder" />
-        <published>2026-08-05T18:26:55+08:00</published>
-        <author>
-            <name>ooliver 的博客</name>
-            <uri>https://blog.ooliver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[ZR 集训 Day20 – 基础字符串算法]]></summary>
-    </entry>
-        <entry>
-        <title>K8s etcd 集群崩溃异常恢复</title>
-        <id>166327</id>
-        <link href="https://chegva.com/6797.html?utm_source=blogfinder" />
-        <published>2026-08-05T18:25:28+08:00</published>
-        <author>
-            <name>安志合的学习博客</name>
-            <uri>https://chegva.com</uri>
-        </author>
-        <summary type="text"><![CDATA[K8s etcd 集群崩溃异常恢复]]></summary>
-    </entry>
-        <entry>
-        <title>PC工作环境修复记</title>
-        <id>166351</id>
-        <link href="https://hi.jeray.wang/K/222.html?utm_source=blogfinder" />
-        <published>2026-08-05T18:16:00+08:00</published>
-        <author>
-            <name>Jeray 大叔</name>
-            <uri>https://hi.jeray.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[PC工作环境修复记]]></summary>
     </entry>
     </feed>
