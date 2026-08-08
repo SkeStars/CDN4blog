@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-08T19:01:09+08:00</updated>
+    <updated>2026-08-08T21:00:43+08:00</updated>
         <entry>
         <title>Claude Code Tools 研究系列（七）—— Write：创建与全量重写的边界</title>
         <id>166719</id>
@@ -88,6 +88,17 @@
             <uri>https://blog.ooliver.cn</uri>
         </author>
         <summary type="text"><![CDATA[ZR 集训 Day23 – 通信、交互、题答非传统题]]></summary>
+    </entry>
+        <entry>
+        <title>《淘金人生》</title>
+        <id>166720</id>
+        <link href="https://www.weiwenchao.com/2771.html?utm_source=blogfinder" />
+        <published>2026-08-08T13:41:39+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《淘金人生》]]></summary>
     </entry>
         <entry>
         <title>《淘金人生》</title>
@@ -1837,38 +1848,5 @@
             <uri>https://javis.me</uri>
         </author>
         <summary type="text"><![CDATA[2026-07 书影音总结]]></summary>
-    </entry>
-        <entry>
-        <title>喜欢记录生活的人都是怎样的人？</title>
-        <id>166360</id>
-        <link href="https://sheep5.net/archives/197?utm_source=blogfinder" />
-        <published>2026-08-05T20:33:00+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[喜欢记录生活的人都是怎样的人？]]></summary>
-    </entry>
-        <entry>
-        <title>有点自恋：我让AI每天主动夸赞我</title>
-        <id>166361</id>
-        <link href="https://sheep5.net/archives/193?utm_source=blogfinder" />
-        <published>2026-08-05T20:16:43+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[有点自恋：我让AI每天主动夸赞我]]></summary>
-    </entry>
-        <entry>
-        <title>华尔街开始查账 AI泡沫破灭了吗</title>
-        <id>166364</id>
-        <link href="http://weiwuhui.com/11053.html?utm_source=blogfinder" />
-        <published>2026-08-05T19:10:00+08:00</published>
-        <author>
-            <name>扯氮集</name>
-            <uri>http://weiwuhui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[华尔街开始查账 AI泡沫破灭了吗]]></summary>
     </entry>
     </feed>
