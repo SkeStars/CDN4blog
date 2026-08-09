@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-09T23:08:27+08:00</updated>
+    <updated>2026-08-10T00:01:15+08:00</updated>
+        <entry>
+        <title>周末流水账 0809</title>
+        <id>166798</id>
+        <link href="https://blog.solazy.me/20260809/?utm_source=blogfinder" />
+        <published>2026-08-09T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0809]]></summary>
+    </entry>
         <entry>
         <title>Sunny主题大更新，增加了更多新功能，重点是评论交互功能！</title>
         <id>166796</id>
@@ -187,6 +198,17 @@
             <uri>https://hexo.limour.top</uri>
         </author>
         <summary type="text"><![CDATA[【探索】糖果逻辑题]]></summary>
+    </entry>
+        <entry>
+        <title>园子表情图标库使用说明</title>
+        <id>166800</id>
+        <link href="https://xiaoxi.ac.cn/post/202608091300?utm_source=blogfinder" />
+        <published>2026-08-09T12:34:00+08:00</published>
+        <author>
+            <name>小曦的园子</name>
+            <uri>https://xiaoxi.ac.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[园子表情图标库使用说明]]></summary>
     </entry>
         <entry>
         <title>有时候，人会出现莫名其妙的状态</title>
@@ -385,6 +407,17 @@
             <uri>https://hulatu.com</uri>
         </author>
         <summary type="text"><![CDATA[室友都回家了]]></summary>
+    </entry>
+        <entry>
+        <title>周末流水账 0808</title>
+        <id>166799</id>
+        <link href="https://blog.solazy.me/20260808/?utm_source=blogfinder" />
+        <published>2026-08-08T23:30:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0808]]></summary>
     </entry>
         <entry>
         <title>选购手机</title>
@@ -1771,148 +1804,5 @@
             <uri>https://blog.weasel6.cn</uri>
         </author>
         <summary type="text"><![CDATA[从2007到2026，QQ拼音陪伴我的19年]]></summary>
-    </entry>
-        <entry>
-        <title>真有命运之手主宰人生？</title>
-        <id>166628</id>
-        <link href="https://tumutanzi.com/archives/17621?utm_source=blogfinder" />
-        <published>2026-08-07T00:00:10+08:00</published>
-        <author>
-            <name>土木坛子</name>
-            <uri>https://tumutanzi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[真有命运之手主宰人生？]]></summary>
-    </entry>
-        <entry>
-        <title>无限画布（infinite-canvas）：一站式 AI 图片创作工作台</title>
-        <id>166658</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-07/infinite-canvas/?utm_source=blogfinder" />
-        <published>2026-08-07T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[无限画布（infinite-canvas）：一站式 AI 图片创作工作台]]></summary>
-    </entry>
-        <entry>
-        <title>witr：一行命令追根溯源，搞清楚「这个进程为什么在跑」</title>
-        <id>166657</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-07/witr/?utm_source=blogfinder" />
-        <published>2026-08-07T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[witr：一行命令追根溯源，搞清楚「这个进程为什么在跑」]]></summary>
-    </entry>
-        <entry>
-        <title>Prime Agent：会自我进化的开源 RLM 编程智能体</title>
-        <id>166656</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-07/prime-agent/?utm_source=blogfinder" />
-        <published>2026-08-07T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Prime Agent：会自我进化的开源 RLM 编程智能体]]></summary>
-    </entry>
-        <entry>
-        <title>OOMWOO：用树莓派和 ROS2 自己造一台扫地机器人</title>
-        <id>166655</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-07/oomwoo/?utm_source=blogfinder" />
-        <published>2026-08-07T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OOMWOO：用树莓派和 ROS2 自己造一台扫地机器人]]></summary>
-    </entry>
-        <entry>
-        <title>Guava 深度解析：Google 的 Java 核心库为何仍是工程标配</title>
-        <id>166654</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-07/guava/?utm_source=blogfinder" />
-        <published>2026-08-07T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Guava 深度解析：Google 的 Java 核心库为何仍是工程标配]]></summary>
-    </entry>
-        <entry>
-        <title>findphone: 用蓝牙信号强度在命令行里找丢失的苹果设备</title>
-        <id>166653</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-07/findphone/?utm_source=blogfinder" />
-        <published>2026-08-07T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[findphone: 用蓝牙信号强度在命令行里找丢失的苹果设备]]></summary>
-    </entry>
-        <entry>
-        <title>Bright Data CLI：把整个网页数据采集栈搬进终端</title>
-        <id>166652</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-07/cli/?utm_source=blogfinder" />
-        <published>2026-08-07T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Bright Data CLI：把整个网页数据采集栈搬进终端]]></summary>
-    </entry>
-        <entry>
-        <title>bb：一个可以自我控制的智能 IDE，让你的编码代理协同作战</title>
-        <id>166651</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-07/bb/?utm_source=blogfinder" />
-        <published>2026-08-07T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[bb：一个可以自我控制的智能 IDE，让你的编码代理协同作战]]></summary>
-    </entry>
-        <entry>
-        <title>AutoGPT：把一句话需求变成能跑完工作的 AI 智能体</title>
-        <id>166650</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-07/autogpt/?utm_source=blogfinder" />
-        <published>2026-08-07T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[AutoGPT：把一句话需求变成能跑完工作的 AI 智能体]]></summary>
-    </entry>
-        <entry>
-        <title>Atomic Agent：本地优先的 AI Agent 运行时，让小模型跑满多步任务</title>
-        <id>166649</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-07/atomic-agent/?utm_source=blogfinder" />
-        <published>2026-08-07T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Atomic Agent：本地优先的 AI Agent 运行时，让小模型跑满多步任务]]></summary>
-    </entry>
-        <entry>
-        <title>我的几位老板们，大概率进入中国富豪榜TOP-500了</title>
-        <id>166393</id>
-        <link href="https://cuixiping.com/blog/post/kfkmdo?utm_source=blogfinder" />
-        <published>2026-08-06T23:59:59+08:00</published>
-        <author>
-            <name>崔话记</name>
-            <uri>https://cuixiping.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我的几位老板们，大概率进入中国富豪榜TOP-500了]]></summary>
-    </entry>
-        <entry>
-        <title>Hello，未来世界的代理人们</title>
-        <id>166608</id>
-        <link href="https://dongjunke.cn/posts/2026/08/06/38672.html?utm_source=blogfinder" />
-        <published>2026-08-06T23:10:40+08:00</published>
-        <author>
-            <name>东评西就</name>
-            <uri>https://dongjunke.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Hello，未来世界的代理人们]]></summary>
     </entry>
     </feed>
