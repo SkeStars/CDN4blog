@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-09T17:01:35+08:00</updated>
+    <updated>2026-08-09T18:00:44+08:00</updated>
+        <entry>
+        <title>新知识分子的新庸俗</title>
+        <id>166781</id>
+        <link href="https://www.geedea.pro/article/vulgar-new-intellects/?utm_source=blogfinder" />
+        <published>2026-08-09T15:27:49+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[新知识分子的新庸俗]]></summary>
+    </entry>
+        <entry>
+        <title>三年后，我重写了 Nginx Formatter</title>
+        <id>166778</id>
+        <link href="https://soulteary.com/2026/08/09/three-years-later-i-rewrote-the-nginx-formatter.html?utm_source=blogfinder" />
+        <published>2026-08-09T15:17:00+08:00</published>
+        <author>
+            <name>苏洋博客</name>
+            <uri>https://soulteary.com</uri>
+        </author>
+        <summary type="text"><![CDATA[三年后，我重写了 Nginx Formatter]]></summary>
+    </entry>
         <entry>
         <title>开通了一月的海信视频会员</title>
         <id>166775</id>
@@ -35,6 +57,17 @@
         <summary type="text"><![CDATA[【探索】糖果逻辑题]]></summary>
     </entry>
         <entry>
+        <title>有时候，人会出现莫名其妙的状态</title>
+        <id>166782</id>
+        <link href="https://www.pgoj.top/archives/ren-de-zhuang-tai.html?utm_source=blogfinder" />
+        <published>2026-08-09T11:06:22+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[有时候，人会出现莫名其妙的状态]]></summary>
+    </entry>
+        <entry>
         <title>2026年8月9日 本周小结</title>
         <id>166776</id>
         <link href="https://sheep5.net/archives/226?utm_source=blogfinder" />
@@ -44,6 +77,17 @@
             <uri>https://sheep5.net</uri>
         </author>
         <summary type="text"><![CDATA[2026年8月9日 本周小结]]></summary>
+    </entry>
+        <entry>
+        <title>用 splitdns 管理 macOS 的开发域名解析</title>
+        <id>166779</id>
+        <link href="https://soulteary.com/2026/08/09/using-splitdns-to-manage-dev-domain-resolution-on-macos.html?utm_source=blogfinder" />
+        <published>2026-08-09T09:27:00+08:00</published>
+        <author>
+            <name>苏洋博客</name>
+            <uri>https://soulteary.com</uri>
+        </author>
+        <summary type="text"><![CDATA[用 splitdns 管理 macOS 的开发域名解析]]></summary>
     </entry>
         <entry>
         <title>五运六气的顺逆法则与特殊年份</title>
@@ -156,6 +200,17 @@
         <summary type="text"><![CDATA[解决 WSL2 莫名其妙的远程桌面报错弹窗]]></summary>
     </entry>
         <entry>
+        <title>东吴水师，乘风破浪</title>
+        <id>166780</id>
+        <link href="https://pwsz.com/life/5578.html?utm_source=blogfinder" />
+        <published>2026-08-09T00:20:51+08:00</published>
+        <author>
+            <name>品味苏州</name>
+            <uri>https://pwsz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[东吴水师，乘风破浪]]></summary>
+    </entry>
+        <entry>
         <title>BlogsClub 签到助手发布</title>
         <id>166756</id>
         <link href="https://howiehz.top/archives/blogsclub-check-in-helper?utm_source=blogfinder" />
@@ -198,6 +253,17 @@
             <uri>https://hulatu.com</uri>
         </author>
         <summary type="text"><![CDATA[室友都回家了]]></summary>
+    </entry>
+        <entry>
+        <title>选购手机</title>
+        <id>166777</id>
+        <link href="https://ezo.biz/Diary/1550.html?utm_source=blogfinder" />
+        <published>2026-08-08T22:59:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[选购手机]]></summary>
     </entry>
         <entry>
         <title>Re: Bloggers, can we make better titles for our posts?</title>
@@ -1837,49 +1903,5 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[博客阅读随感20260806]]></summary>
-    </entry>
-        <entry>
-        <title>Claude Code Tools 研究系列（五）—— Read：感知外部世界的唯一合规通道</title>
-        <id>166434</id>
-        <link href="https://xilidou.com/2026/08/06/claude-code-tools-read/?utm_source=blogfinder" />
-        <published>2026-08-06T18:00:00+08:00</published>
-        <author>
-            <name>犀利豆的博客</name>
-            <uri>https://xilidou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude Code Tools 研究系列（五）—— Read：感知外部世界的唯一合规通道]]></summary>
-    </entry>
-        <entry>
-        <title>当一个喜欢coding的博主重操旧业写了首歌</title>
-        <id>166433</id>
-        <link href="https://upxuu.com/posts/my-first-music/?utm_source=blogfinder" />
-        <published>2026-08-06T17:49:58+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[当一个喜欢coding的博主重操旧业写了首歌]]></summary>
-    </entry>
-        <entry>
-        <title>Docker Compose 部署 LangBot 教程</title>
-        <id>166615</id>
-        <link href="https://songxwn.com/LangBot-Docker-Compose/?utm_source=blogfinder" />
-        <published>2026-08-06T17:45:00+08:00</published>
-        <author>
-            <name>Song&#039;s Blog</name>
-            <uri>https://songxwn.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Docker Compose 部署 LangBot 教程]]></summary>
-    </entry>
-        <entry>
-        <title>人间殊途</title>
-        <id>166602</id>
-        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1198&amp;utm_source=blogfinder" />
-        <published>2026-08-06T17:02:22+08:00</published>
-        <author>
-            <name>徐建伟</name>
-            <uri>http://www.xulog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[人间殊途]]></summary>
     </entry>
     </feed>
