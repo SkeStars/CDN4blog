@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-10T12:00:57+08:00</updated>
+    <updated>2026-08-10T14:00:16+08:00</updated>
+        <entry>
+        <title>Album#47 - 收斂水</title>
+        <id>166832</id>
+        <link href="https://taxodium.ink/album-47.html?utm_source=blogfinder" />
+        <published>2026-08-10T13:15:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[Album#47 - 收斂水]]></summary>
+    </entry>
         <entry>
         <title>事儿逼提喻法</title>
         <id>166822</id>
@@ -1639,49 +1650,5 @@
             <uri>https://blog.diqigan.cn</uri>
         </author>
         <summary type="text"><![CDATA[运维笔记：NetworkManager shared 模式给共享客户端固定 IP]]></summary>
-    </entry>
-        <entry>
-        <title>用 Kindle 认真读的这一个月：收获远不止书</title>
-        <id>166611</id>
-        <link href="https://sheep5.net/archives/218?utm_source=blogfinder" />
-        <published>2026-08-07T13:06:34+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[用 Kindle 认真读的这一个月：收获远不止书]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day440 以物易物，以心易心</title>
-        <id>166827</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_440/?utm_source=blogfinder" />
-        <published>2026-08-07T12:48:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day440 以物易物，以心易心]]></summary>
-    </entry>
-        <entry>
-        <title>草台班子是这个世界的常态，不要自我内耗</title>
-        <id>166614</id>
-        <link href="https://joojen.com/archives/9072.html?utm_source=blogfinder" />
-        <published>2026-08-07T12:37:44+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[草台班子是这个世界的常态，不要自我内耗]]></summary>
-    </entry>
-        <entry>
-        <title>289、立秋</title>
-        <id>166610</id>
-        <link href="https://1900.live/289-li-qiu/?utm_source=blogfinder" />
-        <published>2026-08-07T12:20:17+08:00</published>
-        <author>
-            <name>我道</name>
-            <uri>https://1900.live</uri>
-        </author>
-        <summary type="text"><![CDATA[289、立秋]]></summary>
     </entry>
     </feed>
