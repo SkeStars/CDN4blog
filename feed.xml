@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-10T23:07:43+08:00</updated>
+    <updated>2026-08-11T00:00:34+08:00</updated>
+        <entry>
+        <title>MURS：少见的 VHF 对讲机</title>
+        <id>166859</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1519/?utm_source=blogfinder" />
+        <published>2026-08-10T23:54:47+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[MURS：少见的 VHF 对讲机]]></summary>
+    </entry>
+        <entry>
+        <title>修电脑产生的误解</title>
+        <id>166858</id>
+        <link href="https://fxpai.com/article/xiudiannaochanshengdewujie?utm_source=blogfinder" />
+        <published>2026-08-10T23:40:52+08:00</published>
+        <author>
+            <name>非学·派</name>
+            <uri>https://fxpai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[修电脑产生的误解]]></summary>
+    </entry>
         <entry>
         <title>Typecho每次登录后台时总是提示有新版本，干脆把相关代码禁用了</title>
         <id>166856</id>
@@ -33,6 +55,17 @@
             <uri>https://ezo.biz</uri>
         </author>
         <summary type="text"><![CDATA[戒咖啡2周]]></summary>
+    </entry>
+        <entry>
+        <title>建站专有名词缩写速查</title>
+        <id>166860</id>
+        <link href="https://zooyoo.top/article/54/?utm_source=blogfinder" />
+        <published>2026-08-10T21:05:00+08:00</published>
+        <author>
+            <name>热衷于的博客</name>
+            <uri>https://zooyoo.top</uri>
+        </author>
+        <summary type="text"><![CDATA[建站专有名词缩写速查]]></summary>
     </entry>
         <entry>
         <title>【读书记1704】托马斯·杰斐逊《杰斐逊自传》</title>
@@ -1452,181 +1485,5 @@
             <uri>https://erzbir.com</uri>
         </author>
         <summary type="text"><![CDATA[Analyzing Halo Pro: A Flaw in the License Activation Process]]></summary>
-    </entry>
-        <entry>
-        <title>Wand-Enhancer：开源客户端增强工具的技术深度解析</title>
-        <id>166745</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-08/wand-enhancer/?utm_source=blogfinder" />
-        <published>2026-08-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Wand-Enhancer：开源客户端增强工具的技术深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>tradingview-mcp：把 TradingView 行情、技术与回测能力接入任意 AI 助手的 37 工具 MCP 服务器</title>
-        <id>166744</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-08/tradingview-mcp/?utm_source=blogfinder" />
-        <published>2026-08-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[tradingview-mcp：把 TradingView 行情、技术与回测能力接入任意 AI 助手的 37 工具 MCP 服务器]]></summary>
-    </entry>
-        <entry>
-        <title>Talivia：开源收入优先分析平台，打通网站流量与营收数据</title>
-        <id>166743</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-08/talivia/?utm_source=blogfinder" />
-        <published>2026-08-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Talivia：开源收入优先分析平台，打通网站流量与营收数据]]></summary>
-    </entry>
-        <entry>
-        <title>mise：用一个 CLI 管理所有开发工具、环境变量和任务</title>
-        <id>166742</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-08/mise/?utm_source=blogfinder" />
-        <published>2026-08-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[mise：用一个 CLI 管理所有开发工具、环境变量和任务]]></summary>
-    </entry>
-        <entry>
-        <title>MiroFish：用群体智能引擎预测万物的数字推演实验室</title>
-        <id>166741</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-08/mirofish/?utm_source=blogfinder" />
-        <published>2026-08-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[MiroFish：用群体智能引擎预测万物的数字推演实验室]]></summary>
-    </entry>
-        <entry>
-        <title>MAC (Multi-Agent CAD)：用 1% 的 Token 生成可 3D 打印的模型</title>
-        <id>166740</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-08/multi-agent-cad/?utm_source=blogfinder" />
-        <published>2026-08-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[MAC (Multi-Agent CAD)：用 1% 的 Token 生成可 3D 打印的模型]]></summary>
-    </entry>
-        <entry>
-        <title>Ladybird：一个真正独立的现代网页浏览器</title>
-        <id>166739</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-08/ladybird/?utm_source=blogfinder" />
-        <published>2026-08-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Ladybird：一个真正独立的现代网页浏览器]]></summary>
-    </entry>
-        <entry>
-        <title>GBrain：YC 掌门人打造的 AI Agent 记忆大脑，让搜索给出答案而非网页</title>
-        <id>166738</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-08/gbrain/?utm_source=blogfinder" />
-        <published>2026-08-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[GBrain：YC 掌门人打造的 AI Agent 记忆大脑，让搜索给出答案而非网页]]></summary>
-    </entry>
-        <entry>
-        <title>FreeLLMAPI：一个 API 聚合 29 家免费大模型，月均 40 亿 Token 随便用</title>
-        <id>166737</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-08/freellmapi/?utm_source=blogfinder" />
-        <published>2026-08-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[FreeLLMAPI：一个 API 聚合 29 家免费大模型，月均 40 亿 Token 随便用]]></summary>
-    </entry>
-        <entry>
-        <title>doc7：用本地视觉语言模型把任意文档转成 AI 可读的 Markdown</title>
-        <id>166736</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-08/doc7/?utm_source=blogfinder" />
-        <published>2026-08-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[doc7：用本地视觉语言模型把任意文档转成 AI 可读的 Markdown]]></summary>
-    </entry>
-        <entry>
-        <title>Semantica：给 AI Agent 装上「可审计的大脑」——开源版 Palantir 的图原生上下文基础设施</title>
-        <id>166648</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-08/semantica/?utm_source=blogfinder" />
-        <published>2026-08-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Semantica：给 AI Agent 装上「可审计的大脑」——开源版 Palantir 的图原生上下文基础设施]]></summary>
-    </entry>
-        <entry>
-        <title>JiuwenSwarm：让多智能体协作真正跑起来的开源 Agent 系统</title>
-        <id>166647</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-08/jiuwenswarm/?utm_source=blogfinder" />
-        <published>2026-08-08T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[JiuwenSwarm：让多智能体协作真正跑起来的开源 Agent 系统]]></summary>
-    </entry>
-        <entry>
-        <title>长安二十时辰</title>
-        <id>166723</id>
-        <link href="https://pewae.com/2026/08/changan-twenty-hours.html?utm_source=blogfinder" />
-        <published>2026-08-07T23:56:56+08:00</published>
-        <author>
-            <name>破袜子</name>
-            <uri>https://pewae.com</uri>
-        </author>
-        <summary type="text"><![CDATA[长安二十时辰]]></summary>
-    </entry>
-        <entry>
-        <title>为你的网站一键添加“春节氛围组”：纯JS实现的灯笼、对联与烟花特效</title>
-        <id>166668</id>
-        <link href="http://xiaoxi.ac.cn/post/202608076399?utm_source=blogfinder" />
-        <published>2026-08-07T23:48:46+08:00</published>
-        <author>
-            <name>小曦的园子</name>
-            <uri>https://xiaoxi.ac.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[为你的网站一键添加“春节氛围组”：纯JS实现的灯笼、对联与烟花特效]]></summary>
-    </entry>
-        <entry>
-        <title>玩客云固件参数说明</title>
-        <id>166643</id>
-        <link href="https://1.122915.xyz/posts/%E7%8E%A9%E5%AE%A2%E4%BA%91%E5%9B%BA%E4%BB%B6%E8%AF%B4%E6%98%8E/?utm_source=blogfinder" />
-        <published>2026-08-07T23:36:19+08:00</published>
-        <author>
-            <name>风言风语</name>
-            <uri>https://1.122915.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[玩客云固件参数说明]]></summary>
-    </entry>
-        <entry>
-        <title>羡慕</title>
-        <id>166689</id>
-        <link href="https://ihaihe.cn/3678.htm?utm_source=blogfinder" />
-        <published>2026-08-07T23:14:58+08:00</published>
-        <author>
-            <name>三十里海河</name>
-            <uri>https://ihaihe.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[羡慕]]></summary>
     </entry>
     </feed>
