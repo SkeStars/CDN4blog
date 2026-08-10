@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-10T21:00:47+08:00</updated>
+    <updated>2026-08-10T23:07:43+08:00</updated>
+        <entry>
+        <title>Typecho每次登录后台时总是提示有新版本，干脆把相关代码禁用了</title>
+        <id>166856</id>
+        <link href="https://www.bufanz.com/20260810801.html?utm_source=blogfinder" />
+        <published>2026-08-10T21:58:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Typecho每次登录后台时总是提示有新版本，干脆把相关代码禁用了]]></summary>
+    </entry>
+        <entry>
+        <title>戒咖啡2周</title>
+        <id>166852</id>
+        <link href="https://ezo.biz/Diary/2.html?utm_source=blogfinder" />
+        <published>2026-08-10T21:32:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[戒咖啡2周]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1704】托马斯·杰斐逊《杰斐逊自传》</title>
+        <id>166850</id>
+        <link href="http://www.qncd.com/?p=12990&amp;utm_source=blogfinder" />
+        <published>2026-08-10T21:01:33+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1704】托马斯·杰斐逊《杰斐逊自传》]]></summary>
+    </entry>
+        <entry>
+        <title>向云端｜西南自驾09 - 施秉</title>
+        <id>166853</id>
+        <link href="https://blog.ops-coffee.com/r/2026-southwest-road-trip-09-shibing.html?utm_source=blogfinder" />
+        <published>2026-08-10T20:39:58+08:00</published>
+        <author>
+            <name>运维咖啡吧</name>
+            <uri>https://blog.ops-coffee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[向云端｜西南自驾09 - 施秉]]></summary>
+    </entry>
         <entry>
         <title>夏日里的小乐趣：自制冰淇淋</title>
         <id>166847</id>
@@ -22,6 +66,50 @@
             <uri>https://www.weisay.com/blog/</uri>
         </author>
         <summary type="text"><![CDATA[夏日里的小乐趣：自制冰淇淋]]></summary>
+    </entry>
+        <entry>
+        <title>枯燥的工作需要 SKILL 调剂，Spring Boot 中 Mybatis SQL 单元测试 SKILL</title>
+        <id>166849</id>
+        <link href="https://www.sunzhongwei.com/mybatis-sql-unit-testing-skill-spring-boot?utm_source=blogfinder" />
+        <published>2026-08-10T19:59:07+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[枯燥的工作需要 SKILL 调剂，Spring Boot 中 Mybatis SQL 单元测试 SKILL]]></summary>
+    </entry>
+        <entry>
+        <title>100kb极简PHP论坛系统</title>
+        <id>166857</id>
+        <link href="https://ygz.ink/archives/5622.html?utm_source=blogfinder" />
+        <published>2026-08-10T19:43:45+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[100kb极简PHP论坛系统]]></summary>
+    </entry>
+        <entry>
+        <title>自制琥珀南红锁骨链，补五行土和火</title>
+        <id>166854</id>
+        <link href="https://www.liuzen.com/hupo.html?utm_source=blogfinder" />
+        <published>2026-08-10T18:09:30+08:00</published>
+        <author>
+            <name>刘明禅</name>
+            <uri>https://www.liuzen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[自制琥珀南红锁骨链，补五行土和火]]></summary>
+    </entry>
+        <entry>
+        <title>忽有故人心上过 回首山河已是秋</title>
+        <id>166855</id>
+        <link href="https://liuqingwushui.top/archives/183/?utm_source=blogfinder" />
+        <published>2026-08-10T17:35:51+08:00</published>
+        <author>
+            <name>流情的博客</name>
+            <uri>https://liuqingwushui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[忽有故人心上过 回首山河已是秋]]></summary>
     </entry>
         <entry>
         <title>gRPC Resolver 实现 Nacos 订阅</title>
@@ -66,6 +154,17 @@
             <uri>https://blog.ooliver.cn</uri>
         </author>
         <summary type="text"><![CDATA[ZR 集训 Day25 – 基础图论]]></summary>
+    </entry>
+        <entry>
+        <title>为什么你越努力，越焦虑？</title>
+        <id>166851</id>
+        <link href="https://www.wsyblog.cn/2026/jiaolu?utm_source=blogfinder" />
+        <published>2026-08-10T15:06:12+08:00</published>
+        <author>
+            <name>王苏洋 Blog</name>
+            <uri>https://www.wsyblog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[为什么你越努力，越焦虑？]]></summary>
     </entry>
         <entry>
         <title>洪绘压图网页版上线，这下可以随时随地在线压缩图片了</title>
@@ -1529,38 +1628,5 @@
             <uri>https://ihaihe.cn</uri>
         </author>
         <summary type="text"><![CDATA[羡慕]]></summary>
-    </entry>
-        <entry>
-        <title>文笔</title>
-        <id>166712</id>
-        <link href="https://ezo.biz/Diary/1548.html?utm_source=blogfinder" />
-        <published>2026-08-07T22:51:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[文笔]]></summary>
-    </entry>
-        <entry>
-        <title>🎬 要什么CD2，免费强大的LitePan老头乐不香吗？</title>
-        <id>166661</id>
-        <link href="https://www.huluohu.com/posts/2063/?utm_source=blogfinder" />
-        <published>2026-08-07T22:48:21+08:00</published>
-        <author>
-            <name>胡萝虎的博客</name>
-            <uri>https://www.huluohu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[🎬 要什么CD2，免费强大的LitePan老头乐不香吗？]]></summary>
-    </entry>
-        <entry>
-        <title>Obsidian  AI 知识库搭建教程：从 DeepSeek API 到本地模型、RAG 与 Agent 全攻略</title>
-        <id>166642</id>
-        <link href="https://blog.liseezn.top/896.html/?utm_source=blogfinder" />
-        <published>2026-08-07T21:56:10+08:00</published>
-        <author>
-            <name>Liseezn&#039;blog</name>
-            <uri>https://blog.liseezn.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Obsidian  AI 知识库搭建教程：从 DeepSeek API 到本地模型、RAG 与 Agent 全攻略]]></summary>
     </entry>
     </feed>
