@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-11T17:02:09+08:00</updated>
+    <updated>2026-08-11T19:00:23+08:00</updated>
+        <entry>
+        <title>ZR 集训 Day26 – 图论进阶</title>
+        <id>166918</id>
+        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day26-%e5%9b%be%e8%ae%ba%e8%bf%9b%e9%98%b6/?utm_source=blogfinder" />
+        <published>2026-08-11T18:58:06+08:00</published>
+        <author>
+            <name>ooliver 的博客</name>
+            <uri>https://blog.ooliver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[ZR 集训 Day26 – 图论进阶]]></summary>
+    </entry>
         <entry>
         <title>谁不焦虑？</title>
         <id>166910</id>
@@ -22,6 +33,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[谁不焦虑？]]></summary>
+    </entry>
+        <entry>
+        <title>宣传一下我的MC基岩版服务器</title>
+        <id>166917</id>
+        <link href="https://blog.zero-soft.org/345.html?utm_source=blogfinder" />
+        <published>2026-08-11T13:22:15+08:00</published>
+        <author>
+            <name>叶彩 Blog</name>
+            <uri>https://blog.zero-soft.org</uri>
+        </author>
+        <summary type="text"><![CDATA[宣传一下我的MC基岩版服务器]]></summary>
     </entry>
         <entry>
         <title>AI 生成 WordPress 评论通知插件对比及部署指南</title>
@@ -44,6 +66,17 @@
             <uri>https://sheep5.net</uri>
         </author>
         <summary type="text"><![CDATA[入手了一套电脑清洁套装]]></summary>
+    </entry>
+        <entry>
+        <title>Cursor、claude code、codex使用</title>
+        <id>166916</id>
+        <link href="https://liuqingwushui.top/archives/184/?utm_source=blogfinder" />
+        <published>2026-08-11T11:05:49+08:00</published>
+        <author>
+            <name>流情的博客</name>
+            <uri>https://liuqingwushui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Cursor、claude code、codex使用]]></summary>
     </entry>
         <entry>
         <title>手机双持方案：不是工作机 + 生活机，而是功能互补</title>
@@ -308,6 +341,17 @@
             <uri>https://hulatu.com</uri>
         </author>
         <summary type="text"><![CDATA[我们为何如此在意体重秤上的数字]]></summary>
+    </entry>
+        <entry>
+        <title>科学的尽头是玄学？</title>
+        <id>166915</id>
+        <link href="https://pwsz.com/life/5627.html?utm_source=blogfinder" />
+        <published>2026-08-10T23:26:43+08:00</published>
+        <author>
+            <name>品味苏州</name>
+            <uri>https://pwsz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[科学的尽头是玄学？]]></summary>
     </entry>
         <entry>
         <title>Typecho每次登录后台时总是提示有新版本，干脆把相关代码禁用了</title>
@@ -1628,27 +1672,5 @@
             <uri>https://blog.goodboyboy.top</uri>
         </author>
         <summary type="text"><![CDATA[博客评论系统的一些设计]]></summary>
-    </entry>
-        <entry>
-        <title>Claude Code Tools 研究系列（七）—— Write：创建与全量重写的边界</title>
-        <id>166719</id>
-        <link href="https://xilidou.com/2026/08/08/claude-code-tools-write/?utm_source=blogfinder" />
-        <published>2026-08-08T18:00:00+08:00</published>
-        <author>
-            <name>犀利豆的博客</name>
-            <uri>https://xilidou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude Code Tools 研究系列（七）—— Write：创建与全量重写的边界]]></summary>
-    </entry>
-        <entry>
-        <title>WordPress SQLite Docker 镜像封装细节：两年后的升级</title>
-        <id>166733</id>
-        <link href="https://soulteary.com/2026/08/08/wordpress-sqlite-docker-image-packaging-details-two-years-later.html?utm_source=blogfinder" />
-        <published>2026-08-08T17:35:00+08:00</published>
-        <author>
-            <name>苏洋博客</name>
-            <uri>https://soulteary.com</uri>
-        </author>
-        <summary type="text"><![CDATA[WordPress SQLite Docker 镜像封装细节：两年后的升级]]></summary>
     </entry>
     </feed>
