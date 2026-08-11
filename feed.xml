@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-11T20:01:59+08:00</updated>
+    <updated>2026-08-11T21:00:46+08:00</updated>
         <entry>
         <title>ZR 集训 Day26 – 图论进阶</title>
         <id>166918</id>
@@ -22,6 +22,17 @@
             <uri>https://blog.ooliver.cn</uri>
         </author>
         <summary type="text"><![CDATA[ZR 集训 Day26 – 图论进阶]]></summary>
+    </entry>
+        <entry>
+        <title>乔波冰雪世界亲子趴</title>
+        <id>166919</id>
+        <link href="https://dujun.io/bdd15a1b-60fb-52ba-9af9-2391f535a917.html?utm_source=blogfinder" />
+        <published>2026-08-11T17:33:00+08:00</published>
+        <author>
+            <name>杜郎俊赏</name>
+            <uri>https://dujun.io</uri>
+        </author>
+        <summary type="text"><![CDATA[乔波冰雪世界亲子趴]]></summary>
     </entry>
         <entry>
         <title>谁不焦虑？</title>
@@ -1650,27 +1661,5 @@
             <uri>https://022220.xyz</uri>
         </author>
         <summary type="text"><![CDATA[Windows 装机必备软件清单]]></summary>
-    </entry>
-        <entry>
-        <title>使用 portmap 转发 Rootless Podman 的低位端口</title>
-        <id>166732</id>
-        <link href="https://soulteary.com/2026/08/08/using-portmap-to-forward-privileged-ports-for-rootless-podman.html?utm_source=blogfinder" />
-        <published>2026-08-08T20:35:00+08:00</published>
-        <author>
-            <name>苏洋博客</name>
-            <uri>https://soulteary.com</uri>
-        </author>
-        <summary type="text"><![CDATA[使用 portmap 转发 Rootless Podman 的低位端口]]></summary>
-    </entry>
-        <entry>
-        <title>博客评论系统的一些设计</title>
-        <id>166730</id>
-        <link href="https://blog.goodboyboy.top/posts/2809720001.html?utm_source=blogfinder" />
-        <published>2026-08-08T20:34:43+08:00</published>
-        <author>
-            <name>GoodBoyboy</name>
-            <uri>https://blog.goodboyboy.top</uri>
-        </author>
-        <summary type="text"><![CDATA[博客评论系统的一些设计]]></summary>
     </entry>
     </feed>
