@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-11T14:00:15+08:00</updated>
+    <updated>2026-08-11T15:01:12+08:00</updated>
+        <entry>
+        <title>谁不焦虑？</title>
+        <id>166910</id>
+        <link href="https://www.suiyan.cc/blog/20260811132937?utm_source=blogfinder" />
+        <published>2026-08-11T13:29:37+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[谁不焦虑？]]></summary>
+    </entry>
         <entry>
         <title>入手了一套电脑清洁套装</title>
         <id>166907</id>
@@ -33,6 +44,28 @@
             <uri>https://hulatu.com</uri>
         </author>
         <summary type="text"><![CDATA[手机双持方案：不是工作机 + 生活机，而是功能互补]]></summary>
+    </entry>
+        <entry>
+        <title>青海格尔木游记</title>
+        <id>166909</id>
+        <link href="https://chidd.net/2026/08/11/ge-er-mu.html?utm_source=blogfinder" />
+        <published>2026-08-11T11:01:44+08:00</published>
+        <author>
+            <name>伪医生律师的博客</name>
+            <uri>https://chidd.net</uri>
+        </author>
+        <summary type="text"><![CDATA[青海格尔木游记]]></summary>
+    </entry>
+        <entry>
+        <title>读《2026年日本防卫白皮书》有感</title>
+        <id>166911</id>
+        <link href="https://lcrworld.xyz/articles/59?utm_source=blogfinder" />
+        <published>2026-08-11T10:32:15+08:00</published>
+        <author>
+            <name>lcrworld&#039;s Blog</name>
+            <uri>http://lcrworld.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[读《2026年日本防卫白皮书》有感]]></summary>
     </entry>
         <entry>
         <title>手机越清越卡，可能是这3个APP在作怪</title>
@@ -1617,49 +1650,5 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[这不是我想要的]]></summary>
-    </entry>
-        <entry>
-        <title>更换</title>
-        <id>166691</id>
-        <link href="https://ltmltm.cn/bk/1485.html?utm_source=blogfinder" />
-        <published>2026-08-08T14:55:56+08:00</published>
-        <author>
-            <name>因为很想念</name>
-            <uri>https://ltmltm.cn/bk</uri>
-        </author>
-        <summary type="text"><![CDATA[更换]]></summary>
-    </entry>
-        <entry>
-        <title>WordPress 安全问题 2</title>
-        <id>166710</id>
-        <link href="https://wp.qwq2022.top/2026/08/08/wordpress-%e5%ae%89%e5%85%a8%e9%97%ae%e9%a2%98-2/?utm_source=blogfinder" />
-        <published>2026-08-08T14:55:30+08:00</published>
-        <author>
-            <name>清枫の小窝</name>
-            <uri>https://wp.qwq2022.top</uri>
-        </author>
-        <summary type="text"><![CDATA[WordPress 安全问题 2]]></summary>
-    </entry>
-        <entry>
-        <title>一次极兔速递经历，让我想起消费者维权这件事</title>
-        <id>166728</id>
-        <link href="https://lcrworld.xyz/articles/58?utm_source=blogfinder" />
-        <published>2026-08-08T14:34:33+08:00</published>
-        <author>
-            <name>lcrworld&#039;s Blog</name>
-            <uri>http://lcrworld.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[一次极兔速递经历，让我想起消费者维权这件事]]></summary>
-    </entry>
-        <entry>
-        <title>ZR 集训 Day23 – 通信、交互、题答非传统题</title>
-        <id>166693</id>
-        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day23-%e9%80%9a%e4%bf%a1%e3%80%81%e4%ba%a4%e4%ba%92%e3%80%81%e9%a2%98%e7%ad%94%e9%9d%9e%e4%bc%a0%e7%bb%9f%e9%a2%98/?utm_source=blogfinder" />
-        <published>2026-08-08T14:30:48+08:00</published>
-        <author>
-            <name>ooliver 的博客</name>
-            <uri>https://blog.ooliver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[ZR 集训 Day23 – 通信、交互、题答非传统题]]></summary>
     </entry>
     </feed>
