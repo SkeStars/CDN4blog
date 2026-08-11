@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-11T21:00:46+08:00</updated>
+    <updated>2026-08-11T23:09:43+08:00</updated>
+        <entry>
+        <title>高考可以改变命运</title>
+        <id>166927</id>
+        <link href="https://d-d.design/single/20066?utm_source=blogfinder" />
+        <published>2026-08-11T22:28:13+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[高考可以改变命运]]></summary>
+    </entry>
+        <entry>
+        <title>2026 Joomla SP Page Builder 漏洞, 允许未授权用户上传恶意 PHP 代码</title>
+        <id>166920</id>
+        <link href="https://www.sunzhongwei.com/joomla-sp-page-builder-vulnerability?utm_source=blogfinder" />
+        <published>2026-08-11T21:49:20+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026 Joomla SP Page Builder 漏洞, 允许未授权用户上传恶意 PHP 代码]]></summary>
+    </entry>
+        <entry>
+        <title>来自BlogsClub的惊喜：“穿梭”与“拾光”主题鼠标垫开箱</title>
+        <id>166923</id>
+        <link href="https://blog.weasel6.cn/posts/blogsclub-monthly-picks/?utm_source=blogfinder" />
+        <published>2026-08-11T20:55:00+08:00</published>
+        <author>
+            <name>小黄的日记本</name>
+            <uri>https://blog.weasel6.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[来自BlogsClub的惊喜：“穿梭”与“拾光”主题鼠标垫开箱]]></summary>
+    </entry>
         <entry>
         <title>ZR 集训 Day26 – 图论进阶</title>
         <id>166918</id>
@@ -24,6 +57,17 @@
         <summary type="text"><![CDATA[ZR 集训 Day26 – 图论进阶]]></summary>
     </entry>
         <entry>
+        <title>左岸读书网站作者去世了</title>
+        <id>166926</id>
+        <link href="https://www.liuzen.com/zuoanread.html?utm_source=blogfinder" />
+        <published>2026-08-11T18:38:10+08:00</published>
+        <author>
+            <name>刘明禅</name>
+            <uri>https://www.liuzen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[左岸读书网站作者去世了]]></summary>
+    </entry>
+        <entry>
         <title>乔波冰雪世界亲子趴</title>
         <id>166919</id>
         <link href="https://dujun.io/bdd15a1b-60fb-52ba-9af9-2391f535a917.html?utm_source=blogfinder" />
@@ -33,6 +77,39 @@
             <uri>https://dujun.io</uri>
         </author>
         <summary type="text"><![CDATA[乔波冰雪世界亲子趴]]></summary>
+    </entry>
+        <entry>
+        <title>心境情感障碍复发</title>
+        <id>166924</id>
+        <link href="https://lhcy.org/archives/xin-jing-qing-gan-zhang-ai-fu-fa.html?utm_source=blogfinder" />
+        <published>2026-08-11T17:00:13+08:00</published>
+        <author>
+            <name>林海草原</name>
+            <uri>https://lhcy.org</uri>
+        </author>
+        <summary type="text"><![CDATA[心境情感障碍复发]]></summary>
+    </entry>
+        <entry>
+        <title>🐱 还在折腾青龙面板？呆呆面板让你五分钟拥有自动化神器</title>
+        <id>166925</id>
+        <link href="https://www.huluohu.com/posts/2065/?utm_source=blogfinder" />
+        <published>2026-08-11T16:19:09+08:00</published>
+        <author>
+            <name>胡萝虎的博客</name>
+            <uri>https://www.huluohu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[🐱 还在折腾青龙面板？呆呆面板让你五分钟拥有自动化神器]]></summary>
+    </entry>
+        <entry>
+        <title>大风起兮竹遭殃</title>
+        <id>166928</id>
+        <link href="http://etom.top/archives/so210.html?utm_source=blogfinder" />
+        <published>2026-08-11T16:03:00+08:00</published>
+        <author>
+            <name>浮生事</name>
+            <uri>http://etom.top</uri>
+        </author>
+        <summary type="text"><![CDATA[大风起兮竹遭殃]]></summary>
     </entry>
         <entry>
         <title>谁不焦虑？</title>
@@ -363,6 +440,17 @@
             <uri>https://pwsz.com</uri>
         </author>
         <summary type="text"><![CDATA[科学的尽头是玄学？]]></summary>
+    </entry>
+        <entry>
+        <title>闲杂有趣</title>
+        <id>166921</id>
+        <link href="http://99887766554433221100.cn/index.php/archives/196/?utm_source=blogfinder" />
+        <published>2026-08-10T23:14:00+08:00</published>
+        <author>
+            <name>南香香</name>
+            <uri>http://99887766554433221100.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[闲杂有趣]]></summary>
     </entry>
         <entry>
         <title>Typecho每次登录后台时总是提示有新版本，干脆把相关代码禁用了</title>
@@ -1595,71 +1683,5 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[周末流水账 0808]]></summary>
-    </entry>
-        <entry>
-        <title>选购手机</title>
-        <id>166777</id>
-        <link href="https://ezo.biz/Diary/1550.html?utm_source=blogfinder" />
-        <published>2026-08-08T22:59:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[选购手机]]></summary>
-    </entry>
-        <entry>
-        <title>Re: Bloggers, can we make better titles for our posts?</title>
-        <id>166725</id>
-        <link href="https://taxodium.ink/re-bloggers-can-we-make-better-titles-for-our-posts.html?utm_source=blogfinder" />
-        <published>2026-08-08T22:35:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[Re: Bloggers, can we make better titles for our posts?]]></summary>
-    </entry>
-        <entry>
-        <title>我的快乐去哪里了</title>
-        <id>166727</id>
-        <link href="https://blog.52hyjs.com/post-1286.html?utm_source=blogfinder" />
-        <published>2026-08-08T22:11:33+08:00</published>
-        <author>
-            <name>幻影博客</name>
-            <uri>https://blog.52hyjs.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我的快乐去哪里了]]></summary>
-    </entry>
-        <entry>
-        <title>AI 编程 Skills：grill-me</title>
-        <id>166787</id>
-        <link href="https://022220.xyz/note/MattPocock-Skills-v1-1.html?utm_source=blogfinder" />
-        <published>2026-08-08T22:02:00+08:00</published>
-        <author>
-            <name>小何日记</name>
-            <uri>https://022220.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[AI 编程 Skills：grill-me]]></summary>
-    </entry>
-        <entry>
-        <title>自己拥有一台服务器可以做哪些很酷的事情</title>
-        <id>166788</id>
-        <link href="https://022220.xyz/note/122.html?utm_source=blogfinder" />
-        <published>2026-08-08T21:49:00+08:00</published>
-        <author>
-            <name>小何日记</name>
-            <uri>https://022220.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[自己拥有一台服务器可以做哪些很酷的事情]]></summary>
-    </entry>
-        <entry>
-        <title>Windows 装机必备软件清单</title>
-        <id>166789</id>
-        <link href="https://022220.xyz/note/Windows.html?utm_source=blogfinder" />
-        <published>2026-08-08T21:39:07+08:00</published>
-        <author>
-            <name>小何日记</name>
-            <uri>https://022220.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[Windows 装机必备软件清单]]></summary>
     </entry>
     </feed>
