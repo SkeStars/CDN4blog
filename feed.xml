@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-11T23:09:43+08:00</updated>
+    <updated>2026-08-12T00:01:20+08:00</updated>
+        <entry>
+        <title>我会记住那个陪爸爸散步的准高中女孩</title>
+        <id>166932</id>
+        <link href="https://cuixiping.com/blog/post/qmjxlb?utm_source=blogfinder" />
+        <published>2026-08-11T23:59:59+08:00</published>
+        <author>
+            <name>崔话记</name>
+            <uri>https://cuixiping.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我会记住那个陪爸爸散步的准高中女孩]]></summary>
+    </entry>
+        <entry>
+        <title>说说</title>
+        <id>166930</id>
+        <link href="https://ilogs.cn/2026/08/11/393.html?utm_source=blogfinder" />
+        <published>2026-08-11T22:41:00+08:00</published>
+        <author>
+            <name>我的日志</name>
+            <uri>https://ilogs.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[说说]]></summary>
+    </entry>
         <entry>
         <title>高考可以改变命运</title>
         <id>166927</id>
@@ -33,6 +55,17 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[2026 Joomla SP Page Builder 漏洞, 允许未授权用户上传恶意 PHP 代码]]></summary>
+    </entry>
+        <entry>
+        <title>哈尔滨人很喜欢坐在江边玩手机</title>
+        <id>166929</id>
+        <link href="https://fxpai.com/article/haerbinrenhenxihuanzuozaijiangbianwanshouji?utm_source=blogfinder" />
+        <published>2026-08-11T21:41:37+08:00</published>
+        <author>
+            <name>非学·派</name>
+            <uri>https://fxpai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[哈尔滨人很喜欢坐在江边玩手机]]></summary>
     </entry>
         <entry>
         <title>来自BlogsClub的惊喜：“穿梭”与“拾光”主题鼠标垫开箱</title>
@@ -429,6 +462,17 @@
             <uri>https://hulatu.com</uri>
         </author>
         <summary type="text"><![CDATA[我们为何如此在意体重秤上的数字]]></summary>
+    </entry>
+        <entry>
+        <title>不想转正的心</title>
+        <id>166931</id>
+        <link href="https://blog.solazy.me/20260810/?utm_source=blogfinder" />
+        <published>2026-08-10T23:30:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[不想转正的心]]></summary>
     </entry>
         <entry>
         <title>科学的尽头是玄学？</title>
@@ -1562,126 +1606,5 @@
             <uri>https://howiehz.top</uri>
         </author>
         <summary type="text"><![CDATA[BlogsClub 签到助手发布]]></summary>
-    </entry>
-        <entry>
-        <title>RocketRide：把你的 IDE 变成开源 AI 开发环境（AIDE）的数据管线引擎</title>
-        <id>166812</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-09/rocketride-server/?utm_source=blogfinder" />
-        <published>2026-08-09T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[RocketRide：把你的 IDE 变成开源 AI 开发环境（AIDE）的数据管线引擎]]></summary>
-    </entry>
-        <entry>
-        <title>EMILIA Protocol：给智能体时代装上「安全带」的授权凭证协议</title>
-        <id>166811</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-09/emilia-protocol/?utm_source=blogfinder" />
-        <published>2026-08-09T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[EMILIA Protocol：给智能体时代装上「安全带」的授权凭证协议]]></summary>
-    </entry>
-        <entry>
-        <title>DevOps-Interview-Guide：收录 151 篇真实 DevOps/SRE 面试经历的开源指南</title>
-        <id>166810</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-09/devops-interview-guide/?utm_source=blogfinder" />
-        <published>2026-08-09T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[DevOps-Interview-Guide：收录 151 篇真实 DevOps/SRE 面试经历的开源指南]]></summary>
-    </entry>
-        <entry>
-        <title>Code-Graph-RAG：用知识图谱 + RAG 彻底搞懂你的代码库</title>
-        <id>166809</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-09/code-graph-rag/?utm_source=blogfinder" />
-        <published>2026-08-09T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Code-Graph-RAG：用知识图谱 + RAG 彻底搞懂你的代码库]]></summary>
-    </entry>
-        <entry>
-        <title>Agent Plugins 1.0.0：中立开放的 AI Agent 插件打包标准</title>
-        <id>166808</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-09/agent-plugins-spec/?utm_source=blogfinder" />
-        <published>2026-08-09T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Agent Plugins 1.0.0：中立开放的 AI Agent 插件打包标准]]></summary>
-    </entry>
-        <entry>
-        <title>Agent Orchestrator：并行 AI 编程代理的统一编排平台</title>
-        <id>166807</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-09/agent-orchestrator/?utm_source=blogfinder" />
-        <published>2026-08-09T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Agent Orchestrator：并行 AI 编程代理的统一编排平台]]></summary>
-    </entry>
-        <entry>
-        <title>荐《欢迎来龙餐馆》</title>
-        <id>166804</id>
-        <link href="https://tianheg.co/posts/dragon-restaurant/?utm_source=blogfinder" />
-        <published>2026-08-09T00:00:00+08:00</published>
-        <author>
-            <name>一大加贝</name>
-            <uri>https://tianheg.co</uri>
-        </author>
-        <summary type="text"><![CDATA[荐《欢迎来龙餐馆》]]></summary>
-    </entry>
-        <entry>
-        <title>Obscura：Rust 编写的轻量级无头浏览器，为 AI 代理和爬虫而生</title>
-        <id>166735</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-09/obscura/?utm_source=blogfinder" />
-        <published>2026-08-09T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Obscura：Rust 编写的轻量级无头浏览器，为 AI 代理和爬虫而生]]></summary>
-    </entry>
-        <entry>
-        <title>celld：Deno 官方开源的自托管分布式 Durable Objects 运行时</title>
-        <id>166734</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-09/celld/?utm_source=blogfinder" />
-        <published>2026-08-09T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[celld：Deno 官方开源的自托管分布式 Durable Objects 运行时]]></summary>
-    </entry>
-        <entry>
-        <title>室友都回家了</title>
-        <id>166769</id>
-        <link href="https://hulatu.com/posts/2026/08/08/how-to-view-friends/?utm_source=blogfinder" />
-        <published>2026-08-08T23:39:53+08:00</published>
-        <author>
-            <name>胡拉图说</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[室友都回家了]]></summary>
-    </entry>
-        <entry>
-        <title>周末流水账 0808</title>
-        <id>166799</id>
-        <link href="https://blog.solazy.me/20260808/?utm_source=blogfinder" />
-        <published>2026-08-08T23:30:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[周末流水账 0808]]></summary>
     </entry>
     </feed>
