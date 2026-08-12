@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-12T20:01:29+08:00</updated>
+    <updated>2026-08-12T21:00:39+08:00</updated>
+        <entry>
+        <title>朱镕基同志逝世</title>
+        <id>167226</id>
+        <link href="https://dujun.io/zhurongji-dies-in-beijing-at-age-98.html?utm_source=blogfinder" />
+        <published>2026-08-12T20:13:04+08:00</published>
+        <author>
+            <name>杜郎俊赏</name>
+            <uri>https://dujun.io</uri>
+        </author>
+        <summary type="text"><![CDATA[朱镕基同志逝世]]></summary>
+    </entry>
+        <entry>
+        <title>给小破站加速之乱七八糟的方法</title>
+        <id>167229</id>
+        <link href="https://vte.cc/natter/17/?utm_source=blogfinder" />
+        <published>2026-08-12T19:37:21+08:00</published>
+        <author>
+            <name>维特笔记</name>
+            <uri>https://vte.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[给小破站加速之乱七八糟的方法]]></summary>
+    </entry>
         <entry>
         <title>一个带着你影子的东西</title>
         <id>167223</id>
@@ -22,6 +44,17 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[一个带着你影子的东西]]></summary>
+    </entry>
+        <entry>
+        <title>2026-08-12 15:08</title>
+        <id>167227</id>
+        <link href="https://koobai.com/laodao/2026/08/20260812-150843/?utm_source=blogfinder" />
+        <published>2026-08-12T15:08:43+08:00</published>
+        <author>
+            <name>Koobai</name>
+            <uri>https://koobai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-08-12 15:08]]></summary>
     </entry>
         <entry>
         <title>千帆离港，东海开渔</title>
@@ -165,6 +198,17 @@
             <uri>http://www.xulog.cn</uri>
         </author>
         <summary type="text"><![CDATA[吐槽内耗]]></summary>
+    </entry>
+        <entry>
+        <title>DIVING INTO HK</title>
+        <id>167228</id>
+        <link href="https://re.karlbaey.top/articles/rocky-road/diving-into-hk/?utm_source=blogfinder" />
+        <published>2026-08-12T01:15:17+08:00</published>
+        <author>
+            <name>Jerry Karlbaey</name>
+            <uri>https://re.karlbaey.top</uri>
+        </author>
+        <summary type="text"><![CDATA[DIVING INTO HK]]></summary>
     </entry>
         <entry>
         <title>Manim：用代码编织数学之美的动画引擎</title>
@@ -1672,27 +1716,5 @@
             <uri>https://nicksxs.me</uri>
         </author>
         <summary type="text"><![CDATA[来学习下pi agent的原理]]></summary>
-    </entry>
-        <entry>
-        <title>Toots 431 2026 Aug.2 - Aug.8</title>
-        <id>166826</id>
-        <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260808/?utm_source=blogfinder" />
-        <published>2026-08-09T21:00:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[Toots 431 2026 Aug.2 - Aug.8]]></summary>
-    </entry>
-        <entry>
-        <title>Halo Pro 许可证激活缺陷导致无效许可证仍可激活</title>
-        <id>166792</id>
-        <link href="https://erzbir.com/archives/halo-pro-activation-flaw-zh?utm_source=blogfinder" />
-        <published>2026-08-09T20:48:09+08:00</published>
-        <author>
-            <name>Erzbir&#039;s Blog</name>
-            <uri>https://erzbir.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Halo Pro 许可证激活缺陷导致无效许可证仍可激活]]></summary>
     </entry>
     </feed>
