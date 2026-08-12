@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-12T21:00:39+08:00</updated>
+    <updated>2026-08-12T23:08:32+08:00</updated>
+        <entry>
+        <title>Cloudflare 设置了网站缓存规则，但是依旧返回 pragma no-cache HTTP 头</title>
+        <id>167230</id>
+        <link href="https://www.sunzhongwei.com/cloudflare-has-set-website-caching-rules-still-returns-pragma-no-cache-http-headers?utm_source=blogfinder" />
+        <published>2026-08-12T20:39:49+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Cloudflare 设置了网站缓存规则，但是依旧返回 pragma no-cache HTTP 头]]></summary>
+    </entry>
         <entry>
         <title>朱镕基同志逝世</title>
         <id>167226</id>
@@ -33,6 +44,39 @@
             <uri>https://vte.cc</uri>
         </author>
         <summary type="text"><![CDATA[给小破站加速之乱七八糟的方法]]></summary>
+    </entry>
+        <entry>
+        <title>[shandun] DE 9929 测评</title>
+        <id>167231</id>
+        <link href="https://blog.yeqing.net/shandun-DE-9929/?utm_source=blogfinder" />
+        <published>2026-08-12T18:04:25+08:00</published>
+        <author>
+            <name>夜轻 Blog</name>
+            <uri>https://blog.yeqing.net</uri>
+        </author>
+        <summary type="text"><![CDATA[[shandun] DE 9929 测评]]></summary>
+    </entry>
+        <entry>
+        <title>你的vercel项目，还能更快</title>
+        <id>167233</id>
+        <link href="https://upxuu.com/posts/vercel666/?utm_source=blogfinder" />
+        <published>2026-08-12T18:02:22+08:00</published>
+        <author>
+            <name>UpXuu&#039;s blog</name>
+            <uri>https://upxuu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[你的vercel项目，还能更快]]></summary>
+    </entry>
+        <entry>
+        <title>说说：#2026-08-12 17:46</title>
+        <id>167232</id>
+        <link href="https://www.mmbkz.cn/e66dd4e6.html?utm_source=blogfinder" />
+        <published>2026-08-12T17:46:49+08:00</published>
+        <author>
+            <name>绯色之喵</name>
+            <uri>https://www.mmbkz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[说说：#2026-08-12 17:46]]></summary>
     </entry>
         <entry>
         <title>一个带着你影子的东西</title>
@@ -1628,93 +1672,5 @@
             <uri>https://hisherry.com</uri>
         </author>
         <summary type="text"><![CDATA[Journal du 5 août]]></summary>
-    </entry>
-        <entry>
-        <title>周末流水账 0809</title>
-        <id>166798</id>
-        <link href="https://blog.solazy.me/20260809/?utm_source=blogfinder" />
-        <published>2026-08-09T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[周末流水账 0809]]></summary>
-    </entry>
-        <entry>
-        <title>人情事故</title>
-        <id>166842</id>
-        <link href="https://ezo.biz/Diary/1553.html?utm_source=blogfinder" />
-        <published>2026-08-09T22:27:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[人情事故]]></summary>
-    </entry>
-        <entry>
-        <title>小米手机桌面小部件调试，始终看不到桌面组件</title>
-        <id>166825</id>
-        <link href="https://www.sunzhongwei.com/xiaomi-mobile-desktop-widget-debugging-desktop-components-are-still-not-visible?utm_source=blogfinder" />
-        <published>2026-08-09T22:05:35+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[小米手机桌面小部件调试，始终看不到桌面组件]]></summary>
-    </entry>
-        <entry>
-        <title>最后的黄昏</title>
-        <id>167214</id>
-        <link href="https://airy.ink/times/463?utm_source=blogfinder" />
-        <published>2026-08-09T22:02:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[最后的黄昏]]></summary>
-    </entry>
-        <entry>
-        <title>最后的黄昏</title>
-        <id>166833</id>
-        <link href="https://airy.ink/times/1?utm_source=blogfinder" />
-        <published>2026-08-09T22:02:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[最后的黄昏]]></summary>
-    </entry>
-        <entry>
-        <title>Sunny主题大更新，增加了更多新功能，重点是评论交互功能！</title>
-        <id>166796</id>
-        <link href="https://www.bufanz.com/20260809790.html?utm_source=blogfinder" />
-        <published>2026-08-09T21:50:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Sunny主题大更新，增加了更多新功能，重点是评论交互功能！]]></summary>
-    </entry>
-        <entry>
-        <title>说说：#2026-08-09 21:33</title>
-        <id>166795</id>
-        <link href="https://www.mmbkz.cn/7520c7c6.html?utm_source=blogfinder" />
-        <published>2026-08-09T21:33:17+08:00</published>
-        <author>
-            <name>绯色之喵</name>
-            <uri>https://www.mmbkz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[说说：#2026-08-09 21:33]]></summary>
-    </entry>
-        <entry>
-        <title>来学习下pi agent的原理</title>
-        <id>166794</id>
-        <link href="https://nicksxs.me/2026/08/09/%E6%9D%A5%E5%AD%A6%E4%B9%A0%E4%B8%8Bpi-agent%E7%9A%84%E5%8E%9F%E7%90%86/?utm_source=blogfinder" />
-        <published>2026-08-09T21:23:24+08:00</published>
-        <author>
-            <name>Nicksxs&#039;s Blog</name>
-            <uri>https://nicksxs.me</uri>
-        </author>
-        <summary type="text"><![CDATA[来学习下pi agent的原理]]></summary>
     </entry>
     </feed>
