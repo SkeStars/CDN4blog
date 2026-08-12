@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-12T16:00:32+08:00</updated>
+    <updated>2026-08-12T18:00:43+08:00</updated>
+        <entry>
+        <title>一个带着你影子的东西</title>
+        <id>167223</id>
+        <link href="https://d-d.design/single/20071?utm_source=blogfinder" />
+        <published>2026-08-12T16:50:23+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[一个带着你影子的东西]]></summary>
+    </entry>
         <entry>
         <title>电脑清洁套装开箱试用</title>
         <id>167212</id>
@@ -46,6 +57,17 @@
         <summary type="text"><![CDATA[Moment 2026-08-12 11:07:03]]></summary>
     </entry>
         <entry>
+        <title>说说</title>
+        <id>167222</id>
+        <link href="https://ilogs.cn/2026/08/12/394.html?utm_source=blogfinder" />
+        <published>2026-08-12T11:02:00+08:00</published>
+        <author>
+            <name>我的日志</name>
+            <uri>https://ilogs.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[说说]]></summary>
+    </entry>
+        <entry>
         <title>下雨感想</title>
         <id>167204</id>
         <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1203&amp;utm_source=blogfinder" />
@@ -55,6 +77,17 @@
             <uri>http://www.xulog.cn</uri>
         </author>
         <summary type="text"><![CDATA[下雨感想]]></summary>
+    </entry>
+        <entry>
+        <title>Agentation 油猴脚本：让AI指哪改哪,配合 Claude Code 的开发神器</title>
+        <id>167217</id>
+        <link href="https://blog.zhheo.com/p/wh8h2uop.html?utm_source=blogfinder" />
+        <published>2026-08-12T10:31:44+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Agentation 油猴脚本：让AI指哪改哪,配合 Claude Code 的开发神器]]></summary>
     </entry>
         <entry>
         <title>现在几点？</title>
@@ -88,6 +121,28 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[把博客的评论者等级样式更改了一下]]></summary>
+    </entry>
+        <entry>
+        <title>Eidolon 主题短代码演示</title>
+        <id>167221</id>
+        <link href="https://www.luming.cool/posts/2026/08/eidolon-short-code-preview/?utm_source=blogfinder" />
+        <published>2026-08-12T09:10:32+08:00</published>
+        <author>
+            <name>路明笔记</name>
+            <uri>https://www.luming.cool</uri>
+        </author>
+        <summary type="text"><![CDATA[Eidolon 主题短代码演示]]></summary>
+    </entry>
+        <entry>
+        <title>第一次打匹克球</title>
+        <id>167219</id>
+        <link href="https://pinlyu.com/moments/first-time-pickleball/?utm_source=blogfinder" />
+        <published>2026-08-12T08:31:45+08:00</published>
+        <author>
+            <name>频率</name>
+            <uri>https://pinlyu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[第一次打匹克球]]></summary>
     </entry>
         <entry>
         <title>吐槽内耗</title>
@@ -275,6 +330,17 @@
             <uri>https://blog.kayro.cn</uri>
         </author>
         <summary type="text"><![CDATA[嗯]]></summary>
+    </entry>
+        <entry>
+        <title>来日不方长</title>
+        <id>167220</id>
+        <link href="https://ezo.biz/Diary/1563.html?utm_source=blogfinder" />
+        <published>2026-08-11T22:45:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[来日不方长]]></summary>
     </entry>
         <entry>
         <title>Ai 写网页</title>
@@ -605,6 +671,17 @@
             <uri>https://www.aomanhao.top</uri>
         </author>
         <summary type="text"><![CDATA[【阅读笔记】基于残差信息的上采样Fast Image/Video Upsampling]]></summary>
+    </entry>
+        <entry>
+        <title>四目视觉标定与精度评估（Four-Eyed Vision Calibration &amp; Fisher Precision）</title>
+        <id>167218</id>
+        <link href="https://www.zywvvd.com/notes/3d/four-eyed-vision-calibration/four-eyed-vision-calibration/?utm_source=blogfinder" />
+        <published>2026-08-11T10:00:00+08:00</published>
+        <author>
+            <name>又见苍岚</name>
+            <uri>https://www.zywvvd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[四目视觉标定与精度评估（Four-Eyed Vision Calibration &amp; Fisher Precision）]]></summary>
     </entry>
         <entry>
         <title>数码评测(74)：i5-14400 VS i7-12700</title>
@@ -1628,38 +1705,5 @@
             <uri>https://sigge.cn</uri>
         </author>
         <summary type="text"><![CDATA[Moment 2026-08-09 18:12:03]]></summary>
-    </entry>
-        <entry>
-        <title>#95 制作我的第一款 iOS App: 干饭手册</title>
-        <id>166816</id>
-        <link href="https://fenx.work/craft-my-first-ios-app-yumlog/?utm_source=blogfinder" />
-        <published>2026-08-09T16:40:09+08:00</published>
-        <author>
-            <name>Design Scenes</name>
-            <uri>https://fenx.work</uri>
-        </author>
-        <summary type="text"><![CDATA[#95 制作我的第一款 iOS App: 干饭手册]]></summary>
-    </entry>
-        <entry>
-        <title>ZR 集训 Day24 – 模拟赛</title>
-        <id>166784</id>
-        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day24-%e6%a8%a1%e6%8b%9f%e8%b5%9b/?utm_source=blogfinder" />
-        <published>2026-08-09T16:38:04+08:00</published>
-        <author>
-            <name>ooliver 的博客</name>
-            <uri>https://blog.ooliver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[ZR 集训 Day24 – 模拟赛]]></summary>
-    </entry>
-        <entry>
-        <title>【摘录】找不到身体的头在垃圾桶里对我笑</title>
-        <id>166814</id>
-        <link href="https://mskclover.com/2026/08/09/the-head-that-cant-find-its-body-smiles-at-me-from-the-trash-can/?utm_source=blogfinder" />
-        <published>2026-08-09T16:22:34+08:00</published>
-        <author>
-            <name>叶子的花园</name>
-            <uri>https://mskclover.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【摘录】找不到身体的头在垃圾桶里对我笑]]></summary>
     </entry>
     </feed>
