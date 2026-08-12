@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-12T23:08:32+08:00</updated>
+    <updated>2026-08-13T00:02:58+08:00</updated>
+        <entry>
+        <title>twikoo不用token查询文章浏览量</title>
+        <id>167235</id>
+        <link href="https://blog.xrbk.cn/post/100.html?utm_source=blogfinder" />
+        <published>2026-08-12T22:01:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://blog.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[twikoo不用token查询文章浏览量]]></summary>
+    </entry>
+        <entry>
+        <title>ESP32 / ESP8266 物联网开发环境配置指南</title>
+        <id>167237</id>
+        <link href="https://blog.liseezn.top/919.html/?utm_source=blogfinder" />
+        <published>2026-08-12T21:59:40+08:00</published>
+        <author>
+            <name>Liseezn&#039;blog</name>
+            <uri>https://blog.liseezn.top</uri>
+        </author>
+        <summary type="text"><![CDATA[ESP32 / ESP8266 物联网开发环境配置指南]]></summary>
+    </entry>
+        <entry>
+        <title>Codex 接入 DeepSeek 保姆级教程｜ Codex++</title>
+        <id>167238</id>
+        <link href="https://blog.liseezn.top/903.html/?utm_source=blogfinder" />
+        <published>2026-08-12T21:44:35+08:00</published>
+        <author>
+            <name>Liseezn&#039;blog</name>
+            <uri>https://blog.liseezn.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Codex 接入 DeepSeek 保姆级教程｜ Codex++]]></summary>
+    </entry>
         <entry>
         <title>Cloudflare 设置了网站缓存规则，但是依旧返回 pragma no-cache HTTP 头</title>
         <id>167230</id>
@@ -33,6 +66,17 @@
             <uri>https://dujun.io</uri>
         </author>
         <summary type="text"><![CDATA[朱镕基同志逝世]]></summary>
+    </entry>
+        <entry>
+        <title>旅游特种兵的一天</title>
+        <id>167236</id>
+        <link href="https://ygz.ink/archives/5647.html?utm_source=blogfinder" />
+        <published>2026-08-12T19:48:16+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[旅游特种兵的一天]]></summary>
     </entry>
         <entry>
         <title>给小破站加速之乱七八糟的方法</title>
@@ -242,6 +286,17 @@
             <uri>http://www.xulog.cn</uri>
         </author>
         <summary type="text"><![CDATA[吐槽内耗]]></summary>
+    </entry>
+        <entry>
+        <title>梭罗碥石刻：不知缘由裂成两半</title>
+        <id>167234</id>
+        <link href="https://macin.org/2026/08/11/suo-luo-bian/?utm_source=blogfinder" />
+        <published>2026-08-12T05:36:45+08:00</published>
+        <author>
+            <name>Macin&#039;s Blog</name>
+            <uri>https://macin.org</uri>
+        </author>
+        <summary type="text"><![CDATA[梭罗碥石刻：不知缘由裂成两半]]></summary>
     </entry>
         <entry>
         <title>DIVING INTO HK</title>
@@ -1540,137 +1595,5 @@
             <uri>https://blog.lichenghao.cn</uri>
         </author>
         <summary type="text"><![CDATA[南森-小鹿营地「周末露营」]]></summary>
-    </entry>
-        <entry>
-        <title>灵犀跨境：开源的多租户、多语言、AI 增强跨境客户经营 SaaS</title>
-        <id>166874</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-10/lingxi/?utm_source=blogfinder" />
-        <published>2026-08-10T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[灵犀跨境：开源的多租户、多语言、AI 增强跨境客户经营 SaaS]]></summary>
-    </entry>
-        <entry>
-        <title>Vorssaint：一个菜单栏图标，替掉十几款付费 Mac 工具</title>
-        <id>166873</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-10/vorssaint-utils/?utm_source=blogfinder" />
-        <published>2026-08-10T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Vorssaint：一个菜单栏图标，替掉十几款付费 Mac 工具]]></summary>
-    </entry>
-        <entry>
-        <title>PersonaLive：实时可流式的肖像动画生成框架，支持无限长度视频</title>
-        <id>166872</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-10/personalive/?utm_source=blogfinder" />
-        <published>2026-08-10T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[PersonaLive：实时可流式的肖像动画生成框架，支持无限长度视频]]></summary>
-    </entry>
-        <entry>
-        <title>Paperclip：用AI代理团队构建自主企业的开源编排平台</title>
-        <id>166871</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-10/paperclip/?utm_source=blogfinder" />
-        <published>2026-08-10T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Paperclip：用AI代理团队构建自主企业的开源编排平台]]></summary>
-    </entry>
-        <entry>
-        <title>Octop：腾讯开源的自托管多用户 AI 助手平台</title>
-        <id>166870</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-10/octop/?utm_source=blogfinder" />
-        <published>2026-08-10T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Octop：腾讯开源的自托管多用户 AI 助手平台]]></summary>
-    </entry>
-        <entry>
-        <title>Harvey LAB: 首个AI法律智能体评测基准，1671个真实任务覆盖24个法律领域</title>
-        <id>166869</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-10/harvey-labs/?utm_source=blogfinder" />
-        <published>2026-08-10T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Harvey LAB: 首个AI法律智能体评测基准，1671个真实任务覆盖24个法律领域]]></summary>
-    </entry>
-        <entry>
-        <title>Guizang PPT Skill：让 Claude Code / Codex 一键产出单文件 HTML 网页 PPT</title>
-        <id>166868</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-10/guizang-ppt-skill/?utm_source=blogfinder" />
-        <published>2026-08-10T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Guizang PPT Skill：让 Claude Code / Codex 一键产出单文件 HTML 网页 PPT]]></summary>
-    </entry>
-        <entry>
-        <title>Corsair：为 AI Agent 构建安全集成层，让应用连接既强大又可控</title>
-        <id>166867</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-10/corsair/?utm_source=blogfinder" />
-        <published>2026-08-10T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Corsair：为 AI Agent 构建安全集成层，让应用连接既强大又可控]]></summary>
-    </entry>
-        <entry>
-        <title>ComfyUI: 最强大、最模块化的 AI 内容创作引擎</title>
-        <id>166866</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-10/comfyui/?utm_source=blogfinder" />
-        <published>2026-08-10T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[ComfyUI: 最强大、最模块化的 AI 内容创作引擎]]></summary>
-    </entry>
-        <entry>
-        <title>WeatherNext：Google DeepMind 的 AI 全球中短期天气预报模型</title>
-        <id>166806</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-10/weathernext/?utm_source=blogfinder" />
-        <published>2026-08-10T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[WeatherNext：Google DeepMind 的 AI 全球中短期天气预报模型]]></summary>
-    </entry>
-        <entry>
-        <title>OneStep4.0：在 Android 上重现「一步」多窗口交互的桌面容器</title>
-        <id>166805</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-10/onestep4/?utm_source=blogfinder" />
-        <published>2026-08-10T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OneStep4.0：在 Android 上重现「一步」多窗口交互的桌面容器]]></summary>
-    </entry>
-        <entry>
-        <title>Journal du 5 août</title>
-        <id>166818</id>
-        <link href="https://hisherry.com/%e5%8a%a0%e5%9b%bd%e7%94%9f%e6%b4%bb/5002/?utm_source=blogfinder" />
-        <published>2026-08-09T23:30:10+08:00</published>
-        <author>
-            <name>燕渡寒潭</name>
-            <uri>https://hisherry.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Journal du 5 août]]></summary>
     </entry>
     </feed>
