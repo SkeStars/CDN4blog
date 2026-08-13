@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-13T23:01:42+08:00</updated>
+    <updated>2026-08-14T00:02:07+08:00</updated>
         <entry>
         <title>WorkBuddy 一周体验：目前最适合普通人的本地办公 Agent 工具</title>
         <id>167325</id>
@@ -24,6 +24,17 @@
         <summary type="text"><![CDATA[WorkBuddy 一周体验：目前最适合普通人的本地办公 Agent 工具]]></summary>
     </entry>
         <entry>
+        <title>第一次开了300多公里</title>
+        <id>167327</id>
+        <link href="https://ygz.ink/archives/5671.html?utm_source=blogfinder" />
+        <published>2026-08-13T21:36:34+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[第一次开了300多公里]]></summary>
+    </entry>
+        <entry>
         <title>入手VIVO X300</title>
         <id>167324</id>
         <link href="https://ezo.biz/Diary/VIVO-X300.html?utm_source=blogfinder" />
@@ -33,6 +44,17 @@
             <uri>https://ezo.biz</uri>
         </author>
         <summary type="text"><![CDATA[入手VIVO X300]]></summary>
+    </entry>
+        <entry>
+        <title>啊！你黄了啊！</title>
+        <id>167328</id>
+        <link href="https://blog.lichenghao.cn/article/jq7kh99pndtu?utm_source=blogfinder" />
+        <published>2026-08-13T20:35:25+08:00</published>
+        <author>
+            <name>故事的程序猿</name>
+            <uri>https://blog.lichenghao.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[啊！你黄了啊！]]></summary>
     </entry>
         <entry>
         <title>新博客、耳机与退去的台风</title>
@@ -66,6 +88,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[博客阅读随感20260813]]></summary>
+    </entry>
+        <entry>
+        <title>700什么时候能到700</title>
+        <id>167326</id>
+        <link href="http://weiwuhui.com/11065.html?utm_source=blogfinder" />
+        <published>2026-08-13T17:42:16+08:00</published>
+        <author>
+            <name>扯氮集</name>
+            <uri>http://weiwuhui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[700什么时候能到700]]></summary>
     </entry>
         <entry>
         <title>vscode连接cnb并推送仓库</title>
@@ -1738,137 +1771,5 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[理财笔记 20260811]]></summary>
-    </entry>
-        <entry>
-        <title>缎带英雄</title>
-        <id>167011</id>
-        <link href="https://xeonzilla.top/the-ribbon-hero/?utm_source=blogfinder" />
-        <published>2026-08-11T00:00:00+08:00</published>
-        <author>
-            <name>Xeonzilla’s Note</name>
-            <uri>https://xeonzilla.top</uri>
-        </author>
-        <summary type="text"><![CDATA[缎带英雄]]></summary>
-    </entry>
-        <entry>
-        <title>nvm：Node.js 版本管理神器，让多版本切换如丝般顺滑</title>
-        <id>166937</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-11/nvm/?utm_source=blogfinder" />
-        <published>2026-08-11T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[nvm：Node.js 版本管理神器，让多版本切换如丝般顺滑]]></summary>
-    </entry>
-        <entry>
-        <title>Diagram Design：60 秒让 AI 画出贴合品牌的编辑级图表</title>
-        <id>166936</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-11/diagram-design/?utm_source=blogfinder" />
-        <published>2026-08-11T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Diagram Design：60 秒让 AI 画出贴合品牌的编辑级图表]]></summary>
-    </entry>
-        <entry>
-        <title>LifeOS：一个把 AI 变成你专属生活操作系统的新项目</title>
-        <id>166865</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-11/lifeos/?utm_source=blogfinder" />
-        <published>2026-08-11T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[LifeOS：一个把 AI 变成你专属生活操作系统的新项目]]></summary>
-    </entry>
-        <entry>
-        <title>Dopamine：iOS 15-26 跨代越狱的技术实现解析</title>
-        <id>166864</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-11/dopamine/?utm_source=blogfinder" />
-        <published>2026-08-11T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Dopamine：iOS 15-26 跨代越狱的技术实现解析]]></summary>
-    </entry>
-        <entry>
-        <title>摄影现场助手App</title>
-        <id>166901</id>
-        <link href="https://ygz.ink/archives/5628.html?utm_source=blogfinder" />
-        <published>2026-08-10T23:58:11+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[摄影现场助手App]]></summary>
-    </entry>
-        <entry>
-        <title>MURS：少见的 VHF 对讲机</title>
-        <id>166859</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1519/?utm_source=blogfinder" />
-        <published>2026-08-10T23:54:47+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[MURS：少见的 VHF 对讲机]]></summary>
-    </entry>
-        <entry>
-        <title>修电脑产生的误解</title>
-        <id>166858</id>
-        <link href="https://fxpai.com/article/xiudiannaochanshengdewujie?utm_source=blogfinder" />
-        <published>2026-08-10T23:40:52+08:00</published>
-        <author>
-            <name>非学·派</name>
-            <uri>https://fxpai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[修电脑产生的误解]]></summary>
-    </entry>
-        <entry>
-        <title>我们为何如此在意体重秤上的数字</title>
-        <id>166892</id>
-        <link href="https://hulatu.com/posts/2026/08/10/care-about-weight/?utm_source=blogfinder" />
-        <published>2026-08-10T23:33:03+08:00</published>
-        <author>
-            <name>胡拉图说</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我们为何如此在意体重秤上的数字]]></summary>
-    </entry>
-        <entry>
-        <title>不想转正的心</title>
-        <id>166931</id>
-        <link href="https://blog.solazy.me/20260810/?utm_source=blogfinder" />
-        <published>2026-08-10T23:30:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[不想转正的心]]></summary>
-    </entry>
-        <entry>
-        <title>科学的尽头是玄学？</title>
-        <id>166915</id>
-        <link href="https://pwsz.com/life/5627.html?utm_source=blogfinder" />
-        <published>2026-08-10T23:26:43+08:00</published>
-        <author>
-            <name>品味苏州</name>
-            <uri>https://pwsz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[科学的尽头是玄学？]]></summary>
-    </entry>
-        <entry>
-        <title>闲杂有趣</title>
-        <id>166921</id>
-        <link href="http://99887766554433221100.cn/index.php/archives/196/?utm_source=blogfinder" />
-        <published>2026-08-10T23:14:00+08:00</published>
-        <author>
-            <name>南香香</name>
-            <uri>http://99887766554433221100.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[闲杂有趣]]></summary>
     </entry>
     </feed>
