@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-13T18:00:23+08:00</updated>
+    <updated>2026-08-13T20:02:06+08:00</updated>
+        <entry>
+        <title>博客阅读随感20260813</title>
+        <id>167319</id>
+        <link href="https://www.suiyan.cc/blog/20260813182508?utm_source=blogfinder" />
+        <published>2026-08-13T18:25:08+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[博客阅读随感20260813]]></summary>
+    </entry>
         <entry>
         <title>vscode连接cnb并推送仓库</title>
         <id>167313</id>
@@ -33,6 +44,17 @@
             <uri>https://xiangming.site</uri>
         </author>
         <summary type="text"><![CDATA[做了音乐网站，笔墨迹博友可以免费使用。]]></summary>
+    </entry>
+        <entry>
+        <title>ZR 集训 Day28 – 线性规划与网络流进阶</title>
+        <id>167318</id>
+        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day28-%e7%ba%bf%e6%80%a7%e8%a7%84%e5%88%92%e4%b8%8e%e7%bd%91%e7%bb%9c%e6%b5%81%e8%bf%9b%e9%98%b6/?utm_source=blogfinder" />
+        <published>2026-08-13T16:02:46+08:00</published>
+        <author>
+            <name>ooliver 的博客</name>
+            <uri>https://blog.ooliver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[ZR 集训 Day28 – 线性规划与网络流进阶]]></summary>
     </entry>
         <entry>
         <title>如果世界是假的</title>
@@ -154,6 +176,17 @@
             <uri>https://blog.frdlink.link</uri>
         </author>
         <summary type="text"><![CDATA[开往的修改信息审核通过啦]]></summary>
+    </entry>
+        <entry>
+        <title>凌晨，我们一起去看了场流星雨</title>
+        <id>167317</id>
+        <link href="https://n2g.cn/posts/meteor-shower-night/?utm_source=blogfinder" />
+        <published>2026-08-13T11:00:00+08:00</published>
+        <author>
+            <name>Xio&#039;s</name>
+            <uri>https://n2g.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[凌晨，我们一起去看了场流星雨]]></summary>
     </entry>
         <entry>
         <title>什么？你的vercel还没深绿？一文研究透vercel优选|缓存配置</title>
@@ -1837,60 +1870,5 @@
             <uri>https://blog.ops-coffee.com</uri>
         </author>
         <summary type="text"><![CDATA[向云端｜西南自驾09 - 施秉]]></summary>
-    </entry>
-        <entry>
-        <title>夏日里的小乐趣：自制冰淇淋</title>
-        <id>166847</id>
-        <link href="https://www.weisay.com/blog/summer-ice-cream.html?utm_source=blogfinder" />
-        <published>2026-08-10T20:02:03+08:00</published>
-        <author>
-            <name>威言威语</name>
-            <uri>https://www.weisay.com/blog/</uri>
-        </author>
-        <summary type="text"><![CDATA[夏日里的小乐趣：自制冰淇淋]]></summary>
-    </entry>
-        <entry>
-        <title>枯燥的工作需要 SKILL 调剂，Spring Boot 中 Mybatis SQL 单元测试 SKILL</title>
-        <id>166849</id>
-        <link href="https://www.sunzhongwei.com/mybatis-sql-unit-testing-skill-spring-boot?utm_source=blogfinder" />
-        <published>2026-08-10T19:59:07+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[枯燥的工作需要 SKILL 调剂，Spring Boot 中 Mybatis SQL 单元测试 SKILL]]></summary>
-    </entry>
-        <entry>
-        <title>100kb极简PHP论坛系统</title>
-        <id>166857</id>
-        <link href="https://ygz.ink/archives/5622.html?utm_source=blogfinder" />
-        <published>2026-08-10T19:43:45+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[100kb极简PHP论坛系统]]></summary>
-    </entry>
-        <entry>
-        <title>宝塔邮局管理器 移除 必须设置 Redis 密码 判断</title>
-        <id>166894</id>
-        <link href="https://www.renhuali.cn/journal/cmsn31qm00015chujguu6gx5d?utm_source=blogfinder" />
-        <published>2026-08-10T18:22:37+08:00</published>
-        <author>
-            <name>华立博客</name>
-            <uri>https://renhuali.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[宝塔邮局管理器 移除 必须设置 Redis 密码 判断]]></summary>
-    </entry>
-        <entry>
-        <title>自制琥珀南红锁骨链，补五行土和火</title>
-        <id>166854</id>
-        <link href="https://www.liuzen.com/hupo.html?utm_source=blogfinder" />
-        <published>2026-08-10T18:09:30+08:00</published>
-        <author>
-            <name>刘明禅</name>
-            <uri>https://www.liuzen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[自制琥珀南红锁骨链，补五行土和火]]></summary>
     </entry>
     </feed>
