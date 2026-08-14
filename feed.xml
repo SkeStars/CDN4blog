@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-14T11:01:13+08:00</updated>
+    <updated>2026-08-14T13:06:28+08:00</updated>
+        <entry>
+        <title>看了《破·地狱》——不算影评</title>
+        <id>167422</id>
+        <link href="https://chidd.net/2026/08/14/the-last-dance.html?utm_source=blogfinder" />
+        <published>2026-08-14T11:56:02+08:00</published>
+        <author>
+            <name>伪医生律师的博客</name>
+            <uri>https://chidd.net</uri>
+        </author>
+        <summary type="text"><![CDATA[看了《破·地狱》——不算影评]]></summary>
+    </entry>
+        <entry>
+        <title>清风与明月</title>
+        <id>167424</id>
+        <link href="https://hux.ink/posts/aliveness/?utm_source=blogfinder" />
+        <published>2026-08-14T10:34:21+08:00</published>
+        <author>
+            <name>Counting Stars</name>
+            <uri>https://hux.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[清风与明月]]></summary>
+    </entry>
         <entry>
         <title>乞讨者</title>
         <id>167421</id>
@@ -44,6 +66,17 @@
             <uri>https://www.gujishe.com</uri>
         </author>
         <summary type="text"><![CDATA[AI助手挺好用的]]></summary>
+    </entry>
+        <entry>
+        <title>WordPress 7.0.3 升级后联网请求失败：一次 SSRF 防护与 Fake-IP 冲突的排查</title>
+        <id>167425</id>
+        <link href="https://blog.tangwudi.com/technology/homedatacenter14641/?utm_source=blogfinder" />
+        <published>2026-08-14T08:32:45+08:00</published>
+        <author>
+            <name>无敌的个人博客</name>
+            <uri>https://blog.tangwudi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[WordPress 7.0.3 升级后联网请求失败：一次 SSRF 防护与 Fake-IP 冲突的排查]]></summary>
     </entry>
         <entry>
         <title>博客主机商数据中心出现故障</title>
@@ -99,6 +132,17 @@
             <uri>http://www.ruanyifeng.com</uri>
         </author>
         <summary type="text"><![CDATA[科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识]]></summary>
+    </entry>
+        <entry>
+        <title>真的好羡慕，孩子能说不</title>
+        <id>167426</id>
+        <link href="https://www.pgoj.top/archives/hai-zi-shuo-bu.html?utm_source=blogfinder" />
+        <published>2026-08-14T06:44:34+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[真的好羡慕，孩子能说不]]></summary>
     </entry>
         <entry>
         <title>由韩杰案引出的一些碎碎念</title>
@@ -187,6 +231,17 @@
             <uri>https://ezo.biz</uri>
         </author>
         <summary type="text"><![CDATA[入手VIVO X300]]></summary>
+    </entry>
+        <entry>
+        <title>读《西装与小脚》</title>
+        <id>167423</id>
+        <link href="https://www.jfsay.com/archives/4034.html?utm_source=blogfinder" />
+        <published>2026-08-13T20:37:27+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[读《西装与小脚》]]></summary>
     </entry>
         <entry>
         <title>啊！你黄了啊！</title>
@@ -1859,71 +1914,5 @@
             <uri>https://blog.zero-soft.org</uri>
         </author>
         <summary type="text"><![CDATA[宣传一下我的MC基岩版服务器]]></summary>
-    </entry>
-        <entry>
-        <title>AI 生成 WordPress 评论通知插件对比及部署指南</title>
-        <id>166914</id>
-        <link href="https://jiangcl.com/4957?utm_source=blogfinder" />
-        <published>2026-08-11T12:50:25+08:00</published>
-        <author>
-            <name>蒙需</name>
-            <uri>https://jiangcl.com/</uri>
-        </author>
-        <summary type="text"><![CDATA[AI 生成 WordPress 评论通知插件对比及部署指南]]></summary>
-    </entry>
-        <entry>
-        <title>入手了一套电脑清洁套装</title>
-        <id>166907</id>
-        <link href="https://sheep5.net/archives/276?utm_source=blogfinder" />
-        <published>2026-08-11T12:06:07+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[入手了一套电脑清洁套装]]></summary>
-    </entry>
-        <entry>
-        <title>好转和博客和主流和教会和性别和大扫除</title>
-        <id>167199</id>
-        <link href="https://blog.cytrogen.icu/posts/955e.html?utm_source=blogfinder" />
-        <published>2026-08-11T12:00:00+08:00</published>
-        <author>
-            <name>Cytrogen&#039;s Blog</name>
-            <uri>https://blog.cytrogen.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[好转和博客和主流和教会和性别和大扫除]]></summary>
-    </entry>
-        <entry>
-        <title>Cursor、claude code、codex使用</title>
-        <id>166916</id>
-        <link href="https://liuqingwushui.top/archives/184/?utm_source=blogfinder" />
-        <published>2026-08-11T11:05:49+08:00</published>
-        <author>
-            <name>流情的博客</name>
-            <uri>https://liuqingwushui.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Cursor、claude code、codex使用]]></summary>
-    </entry>
-        <entry>
-        <title>手机双持方案：不是工作机 + 生活机，而是功能互补</title>
-        <id>166903</id>
-        <link href="https://hulatu.com/posts/2026/08/11/dual-mobile-phone-support/?utm_source=blogfinder" />
-        <published>2026-08-11T11:03:18+08:00</published>
-        <author>
-            <name>胡拉图说</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[手机双持方案：不是工作机 + 生活机，而是功能互补]]></summary>
-    </entry>
-        <entry>
-        <title>青海格尔木游记</title>
-        <id>166909</id>
-        <link href="https://chidd.net/2026/08/11/ge-er-mu.html?utm_source=blogfinder" />
-        <published>2026-08-11T11:01:44+08:00</published>
-        <author>
-            <name>伪医生律师的博客</name>
-            <uri>https://chidd.net</uri>
-        </author>
-        <summary type="text"><![CDATA[青海格尔木游记]]></summary>
     </entry>
     </feed>
