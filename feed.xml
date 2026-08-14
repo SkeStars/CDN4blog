@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-14T23:09:08+08:00</updated>
+    <updated>2026-08-15T00:00:59+08:00</updated>
+        <entry>
+        <title>逻辑自洽不等于事实完整</title>
+        <id>167451</id>
+        <link href="https://blog.solazy.me/20260814/?utm_source=blogfinder" />
+        <published>2026-08-14T22:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[逻辑自洽不等于事实完整]]></summary>
+    </entry>
         <entry>
         <title>[Seek2Addy] 让Bitwarden直接创建seek.li邮箱</title>
         <id>167448</id>
@@ -55,6 +66,17 @@
             <uri>https://sigge.cn</uri>
         </author>
         <summary type="text"><![CDATA[说说 2026-08-14]]></summary>
+    </entry>
+        <entry>
+        <title>恢复豆瓣功能页面</title>
+        <id>167450</id>
+        <link href="https://blog.dao.js.cn/posts/LC9S?utm_source=blogfinder" />
+        <published>2026-08-14T16:48:00+08:00</published>
+        <author>
+            <name>懋和道人</name>
+            <uri>https://blog.dao.js.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[恢复豆瓣功能页面]]></summary>
     </entry>
         <entry>
         <title>Mole Mac 上手：界面精美，优秀好用的Mac清理工具</title>
@@ -352,6 +374,17 @@
             <uri>https://loveapple.space/blog/</uri>
         </author>
         <summary type="text"><![CDATA[水煮鱼的济州岛旅行后日记：杂谈]]></summary>
+    </entry>
+        <entry>
+        <title>兜底的代价</title>
+        <id>167452</id>
+        <link href="https://blog.solazy.me/20260813/?utm_source=blogfinder" />
+        <published>2026-08-13T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[兜底的代价]]></summary>
     </entry>
         <entry>
         <title>英仙座流星雨实拍体验：电视剧都是骗人的？这才是流星雨的真实样子</title>
@@ -1628,236 +1661,5 @@
             <uri>https://re.karlbaey.top</uri>
         </author>
         <summary type="text"><![CDATA[DIVING INTO HK]]></summary>
-    </entry>
-        <entry>
-        <title>比特彗星旧版 WebUI 研究</title>
-        <id>167250</id>
-        <link href="https://ie12blog.36102025.xyz/articles/bitcomet-FAQ/bc-webui-old/?utm_source=blogfinder" />
-        <published>2026-08-12T00:00:00+08:00</published>
-        <author>
-            <name>ie12的博客</name>
-            <uri>https://ie12blog.36102025.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[比特彗星旧版 WebUI 研究]]></summary>
-    </entry>
-        <entry>
-        <title>RAGFlow：一个融合深度文档理解的开源 RAG 引擎</title>
-        <id>167247</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-12/ragflow/?utm_source=blogfinder" />
-        <published>2026-08-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[RAGFlow：一个融合深度文档理解的开源 RAG 引擎]]></summary>
-    </entry>
-        <entry>
-        <title>MiniMax H3 开源解读：33B 全模态 Transformer 如何原生生成 2K 视频与立体声音频</title>
-        <id>167246</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-12/minimax-h3/?utm_source=blogfinder" />
-        <published>2026-08-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[MiniMax H3 开源解读：33B 全模态 Transformer 如何原生生成 2K 视频与立体声音频]]></summary>
-    </entry>
-        <entry>
-        <title>Macro：一站式团队工作平台，邮件、消息、文档、任务、CRM 一体化管理</title>
-        <id>167245</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-12/macro/?utm_source=blogfinder" />
-        <published>2026-08-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Macro：一站式团队工作平台，邮件、消息、文档、任务、CRM 一体化管理]]></summary>
-    </entry>
-        <entry>
-        <title>GitHub 超全编程实战教程合集：Project Based Learning 完全指南</title>
-        <id>167244</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-12/project-based-learning/?utm_source=blogfinder" />
-        <published>2026-08-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[GitHub 超全编程实战教程合集：Project Based Learning 完全指南]]></summary>
-    </entry>
-        <entry>
-        <title>Claude-BugHunter: 让 Claude Code 变身漏洞猎手的 82 个技能包</title>
-        <id>167243</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-12/claude-bughunter/?utm_source=blogfinder" />
-        <published>2026-08-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude-BugHunter: 让 Claude Code 变身漏洞猎手的 82 个技能包]]></summary>
-    </entry>
-        <entry>
-        <title>Awesome Mac：开发者与设计师的 macOS 神器清单</title>
-        <id>167242</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-12/awesome-mac/?utm_source=blogfinder" />
-        <published>2026-08-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Awesome Mac：开发者与设计师的 macOS 神器清单]]></summary>
-    </entry>
-        <entry>
-        <title>Manim：用代码编织数学之美的动画引擎</title>
-        <id>166935</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-12/manim/?utm_source=blogfinder" />
-        <published>2026-08-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Manim：用代码编织数学之美的动画引擎]]></summary>
-    </entry>
-        <entry>
-        <title>Hugging Face Transformers：连接整个 ML 生态的模型定义框架</title>
-        <id>166934</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-12/transformers/?utm_source=blogfinder" />
-        <published>2026-08-12T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Hugging Face Transformers：连接整个 ML 生态的模型定义框架]]></summary>
-    </entry>
-        <entry>
-        <title>我会记住那个陪爸爸散步的准高中女孩</title>
-        <id>166932</id>
-        <link href="https://cuixiping.com/blog/post/qmjxlb?utm_source=blogfinder" />
-        <published>2026-08-11T23:59:59+08:00</published>
-        <author>
-            <name>崔话记</name>
-            <uri>https://cuixiping.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我会记住那个陪爸爸散步的准高中女孩]]></summary>
-    </entry>
-        <entry>
-        <title>264 海关收缴的货物都去哪儿了？</title>
-        <id>167007</id>
-        <link href="http://ddw2019.com/264-%E6%B5%B7%E5%85%B3%E6%94%B6%E7%BC%B4%E7%9A%84%E8%B4%A7%E7%89%A9%E9%83%BD%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86?utm_source=blogfinder" />
-        <published>2026-08-11T23:32:22+08:00</published>
-        <author>
-            <name>Dongdong&#039;s Blog</name>
-            <uri>https://ddw2019.com</uri>
-        </author>
-        <summary type="text"><![CDATA[264 海关收缴的货物都去哪儿了？]]></summary>
-    </entry>
-        <entry>
-        <title>简化与收敛</title>
-        <id>167209</id>
-        <link href="https://z.arlmy.me/posts/ZArlmyMe/Decrease_20260811/?utm_source=blogfinder" />
-        <published>2026-08-11T23:24:03+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[简化与收敛]]></summary>
-    </entry>
-        <entry>
-        <title>S6E08 Reliving San Siro Rossoneri Pride, Decoding Da Vinci Legacy, and Cruising Canals for Masterpieces by Van Gogh</title>
-        <id>167112</id>
-        <link href="https://www.feifun.cn/2024/s6-e08-reliving-san-siro-rossoneri-pride-decoding-da-vinci-legacy-and-cruising-canals-for-masterpieces-by-van-gogh/?utm_source=blogfinder" />
-        <published>2026-08-11T23:23:23+08:00</published>
-        <author>
-            <name>Fei&#039;s Tours &amp; Tales</name>
-            <uri>https://www.feifun.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[S6E08 Reliving San Siro Rossoneri Pride, Decoding Da Vinci Legacy, and Cruising Canals for Masterpieces by Van Gogh]]></summary>
-    </entry>
-        <entry>
-        <title>S6E07 Racing on Legendary Tracks, Ferrari Engine, and Bologna Legacies</title>
-        <id>167113</id>
-        <link href="https://www.feifun.cn/2024/s6-e07-racing-on-legendary-tracks-ferrari-engine-and-bologna-legacies/?utm_source=blogfinder" />
-        <published>2026-08-11T23:23:17+08:00</published>
-        <author>
-            <name>Fei&#039;s Tours &amp; Tales</name>
-            <uri>https://www.feifun.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[S6E07 Racing on Legendary Tracks, Ferrari Engine, and Bologna Legacies]]></summary>
-    </entry>
-        <entry>
-        <title>S6E06 Chasing Assassins Under the Great Dome, Studying Masterpieces in Uffizi, and Following Galileo to Miracle Square</title>
-        <id>167114</id>
-        <link href="https://www.feifun.cn/2024/s6-e06-chasing-assassins-under-the-great-dome-studying-masterpieces-in-uffizi-and-following-galileo-to-miracle-square/?utm_source=blogfinder" />
-        <published>2026-08-11T23:23:13+08:00</published>
-        <author>
-            <name>Fei&#039;s Tours &amp; Tales</name>
-            <uri>https://www.feifun.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[S6E06 Chasing Assassins Under the Great Dome, Studying Masterpieces in Uffizi, and Following Galileo to Miracle Square]]></summary>
-    </entry>
-        <entry>
-        <title>S6E05 Hiking Sun-Drenched Amalfi Cliffs, Capri Island, and Swimming Across the Vibrant Ligurian Sea</title>
-        <id>167115</id>
-        <link href="https://www.feifun.cn/2024/s6-e05-hiking-sun-drenched-amalfi-cliffs-capri-island-and-swimming-across-the-vibrant-ligurian-sea/?utm_source=blogfinder" />
-        <published>2026-08-11T23:23:07+08:00</published>
-        <author>
-            <name>Fei&#039;s Tours &amp; Tales</name>
-            <uri>https://www.feifun.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[S6E05 Hiking Sun-Drenched Amalfi Cliffs, Capri Island, and Swimming Across the Vibrant Ligurian Sea]]></summary>
-    </entry>
-        <entry>
-        <title>S6E04 Walking Through Imperial Ruins, Witnessing Sistine Chapel Art, and Uncovering Eternal Destructions Beneath Vesuvius</title>
-        <id>167116</id>
-        <link href="https://www.feifun.cn/2024/s6-e04-walking-through-imperial-ruins-witnessing-sistine-chapel-art-and-uncovering-eternal-destructions-beneath-vesuvius/?utm_source=blogfinder" />
-        <published>2026-08-11T23:23:01+08:00</published>
-        <author>
-            <name>Fei&#039;s Tours &amp; Tales</name>
-            <uri>https://www.feifun.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[S6E04 Walking Through Imperial Ruins, Witnessing Sistine Chapel Art, and Uncovering Eternal Destructions Beneath Vesuvius]]></summary>
-    </entry>
-        <entry>
-        <title>S6E03 Sailing the Maritime Republic, Tracing Venetian School Masterpieces, and Ascending the Campanile Above Doge Palace</title>
-        <id>167117</id>
-        <link href="https://www.feifun.cn/2024/s6-e03-sailing-the-maritime-republic-tracing-venetian-school-masterpieces-and-ascending-the-campanile-above-doge-palace/?utm_source=blogfinder" />
-        <published>2026-08-11T23:22:54+08:00</published>
-        <author>
-            <name>Fei&#039;s Tours &amp; Tales</name>
-            <uri>https://www.feifun.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[S6E03 Sailing the Maritime Republic, Tracing Venetian School Masterpieces, and Ascending the Campanile Above Doge Palace]]></summary>
-    </entry>
-        <entry>
-        <title>S6E02 Exploring Habsburg Dynastic Glories, Art History Museum Masterpieces, Ringstrasse Architecture, and the Romantic Echoes of Before Sunrise</title>
-        <id>167118</id>
-        <link href="https://www.feifun.cn/2024/s6-e02-exploring-habsburg-dynastic-glories-art-history-museum-masterpieces-ringstrasse-architecture-and-the-romantic-echoes-of-before-sunrise/?utm_source=blogfinder" />
-        <published>2026-08-11T23:22:46+08:00</published>
-        <author>
-            <name>Fei&#039;s Tours &amp; Tales</name>
-            <uri>https://www.feifun.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[S6E02 Exploring Habsburg Dynastic Glories, Art History Museum Masterpieces, Ringstrasse Architecture, and the Romantic Echoes of Before Sunrise]]></summary>
-    </entry>
-        <entry>
-        <title>S6E01 From the Rise of Magyars and Imperial Compromises to Hungaroring F1 Thrills and Danube Night Cruises</title>
-        <id>167119</id>
-        <link href="https://www.feifun.cn/2024/s6-e01-from-the-rise-of-magyars-and-imperial-compromises-to-hungaroring-f1-thrills-and-danube-night-cruises/?utm_source=blogfinder" />
-        <published>2026-08-11T23:22:35+08:00</published>
-        <author>
-            <name>Fei&#039;s Tours &amp; Tales</name>
-            <uri>https://www.feifun.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[S6E01 From the Rise of Magyars and Imperial Compromises to Hungaroring F1 Thrills and Danube Night Cruises]]></summary>
-    </entry>
-        <entry>
-        <title>The Travelogue about A Road Trip from the Danube to the Mediterranean</title>
-        <id>167111</id>
-        <link href="https://www.feifun.cn/2024/the-travelogue-about-a-road-trip-from-the-danube-to-the-mediterranean/?utm_source=blogfinder" />
-        <published>2026-08-11T23:21:14+08:00</published>
-        <author>
-            <name>Fei&#039;s Tours &amp; Tales</name>
-            <uri>https://www.feifun.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[The Travelogue about A Road Trip from the Danube to the Mediterranean]]></summary>
     </entry>
     </feed>
