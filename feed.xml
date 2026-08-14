@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-14T21:00:43+08:00</updated>
+    <updated>2026-08-14T23:09:08+08:00</updated>
+        <entry>
+        <title>[Seek2Addy] 让Bitwarden直接创建seek.li邮箱</title>
+        <id>167448</id>
+        <link href="https://blog.yeqing.net/Seek2Addy/?utm_source=blogfinder" />
+        <published>2026-08-14T21:23:38+08:00</published>
+        <author>
+            <name>夜轻 Blog</name>
+            <uri>https://blog.yeqing.net</uri>
+        </author>
+        <summary type="text"><![CDATA[[Seek2Addy] 让Bitwarden直接创建seek.li邮箱]]></summary>
+    </entry>
         <entry>
         <title>国产大模型开始割韭菜了？</title>
         <id>167442</id>
@@ -88,6 +99,17 @@
             <uri>https://www.puresky.top</uri>
         </author>
         <summary type="text"><![CDATA[又一年中元]]></summary>
+    </entry>
+        <entry>
+        <title>谨慎使用 AI 对原创文章进行润色</title>
+        <id>167449</id>
+        <link href="https://jiangcl.com/4963?utm_source=blogfinder" />
+        <published>2026-08-14T13:26:21+08:00</published>
+        <author>
+            <name>蒙需</name>
+            <uri>https://jiangcl.com/</uri>
+        </author>
+        <summary type="text"><![CDATA[谨慎使用 AI 对原创文章进行润色]]></summary>
     </entry>
         <entry>
         <title>灵魂插件 MCP</title>
@@ -1837,115 +1859,5 @@
             <uri>https://www.feifun.cn</uri>
         </author>
         <summary type="text"><![CDATA[The Travelogue about A Road Trip from the Danube to the Mediterranean]]></summary>
-    </entry>
-        <entry>
-        <title>《让她降落》</title>
-        <id>167206</id>
-        <link href="https://blog.solazy.me/20260811/?utm_source=blogfinder" />
-        <published>2026-08-11T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[《让她降落》]]></summary>
-    </entry>
-        <entry>
-        <title>嗯</title>
-        <id>167095</id>
-        <link href="https://blog.kayro.cn/posts/fb927f2?utm_source=blogfinder" />
-        <published>2026-08-11T22:56:55+08:00</published>
-        <author>
-            <name>敖苛记</name>
-            <uri>https://blog.kayro.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[嗯]]></summary>
-    </entry>
-        <entry>
-        <title>来日不方长</title>
-        <id>167220</id>
-        <link href="https://ezo.biz/Diary/1563.html?utm_source=blogfinder" />
-        <published>2026-08-11T22:45:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[来日不方长]]></summary>
-    </entry>
-        <entry>
-        <title>Ai 写网页</title>
-        <id>167196</id>
-        <link href="https://yesreho.com/ai-generated-web-pages/?utm_source=blogfinder" />
-        <published>2026-08-11T22:43:44+08:00</published>
-        <author>
-            <name>LookLeap</name>
-            <uri>https://yesreho.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Ai 写网页]]></summary>
-    </entry>
-        <entry>
-        <title>小说·序章+第一章</title>
-        <id>167211</id>
-        <link href="https://blog.kfdzcoffee.cn/archives/novel-x-1?utm_source=blogfinder" />
-        <published>2026-08-11T22:42:51+08:00</published>
-        <author>
-            <name>咖啡豆子 coffee 的小站</name>
-            <uri>https://blog.kfdzcoffee.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[小说·序章+第一章]]></summary>
-    </entry>
-        <entry>
-        <title>说说</title>
-        <id>166930</id>
-        <link href="https://ilogs.cn/2026/08/11/393.html?utm_source=blogfinder" />
-        <published>2026-08-11T22:41:00+08:00</published>
-        <author>
-            <name>我的日志</name>
-            <uri>https://ilogs.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[说说]]></summary>
-    </entry>
-        <entry>
-        <title>高考可以改变命运</title>
-        <id>166927</id>
-        <link href="https://d-d.design/single/20066?utm_source=blogfinder" />
-        <published>2026-08-11T22:28:13+08:00</published>
-        <author>
-            <name>孤斗</name>
-            <uri>https://d-d.design</uri>
-        </author>
-        <summary type="text"><![CDATA[高考可以改变命运]]></summary>
-    </entry>
-        <entry>
-        <title>2026 Joomla SP Page Builder 漏洞, 允许未授权用户上传恶意 PHP 代码</title>
-        <id>166920</id>
-        <link href="https://www.sunzhongwei.com/joomla-sp-page-builder-vulnerability?utm_source=blogfinder" />
-        <published>2026-08-11T21:49:20+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026 Joomla SP Page Builder 漏洞, 允许未授权用户上传恶意 PHP 代码]]></summary>
-    </entry>
-        <entry>
-        <title>哈尔滨人很喜欢坐在江边玩手机</title>
-        <id>166929</id>
-        <link href="https://fxpai.com/article/haerbinrenhenxihuanzuozaijiangbianwanshouji?utm_source=blogfinder" />
-        <published>2026-08-11T21:41:37+08:00</published>
-        <author>
-            <name>非学·派</name>
-            <uri>https://fxpai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[哈尔滨人很喜欢坐在江边玩手机]]></summary>
-    </entry>
-        <entry>
-        <title>互联网来到我身边以前</title>
-        <id>166933</id>
-        <link href="https://www.tortorse.com/archives/internet-before-it-came-to-me/?utm_source=blogfinder" />
-        <published>2026-08-11T21:10:35+08:00</published>
-        <author>
-            <name>愆伏</name>
-            <uri>https://www.tortorse.com</uri>
-        </author>
-        <summary type="text"><![CDATA[互联网来到我身边以前]]></summary>
     </entry>
     </feed>
