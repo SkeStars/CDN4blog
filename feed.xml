@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-14T14:00:16+08:00</updated>
+    <updated>2026-08-14T16:01:35+08:00</updated>
         <entry>
         <title>看了《破·地狱》——不算影评</title>
         <id>167422</id>
@@ -189,6 +189,28 @@
         <summary type="text"><![CDATA[iPolloWork：一个本地优先的 AI 可视化工作台，让 AI 协作真正可编辑]]></summary>
     </entry>
         <entry>
+        <title>水煮鱼的济州岛旅行后日记：杂谈</title>
+        <id>167427</id>
+        <link href="https://loveapple.space/blog/Jeju-general/?utm_source=blogfinder" />
+        <published>2026-08-13T23:51:06+08:00</published>
+        <author>
+            <name>LoveApple14434</name>
+            <uri>https://loveapple.space/blog/</uri>
+        </author>
+        <summary type="text"><![CDATA[水煮鱼的济州岛旅行后日记：杂谈]]></summary>
+    </entry>
+        <entry>
+        <title>英仙座流星雨实拍体验：电视剧都是骗人的？这才是流星雨的真实样子</title>
+        <id>167430</id>
+        <link href="https://chenbozheng.com/wz/1704.html?utm_source=blogfinder" />
+        <published>2026-08-13T22:23:33+08:00</published>
+        <author>
+            <name>伯正博客</name>
+            <uri>https://chenbozheng.com</uri>
+        </author>
+        <summary type="text"><![CDATA[英仙座流星雨实拍体验：电视剧都是骗人的？这才是流星雨的真实样子]]></summary>
+    </entry>
+        <entry>
         <title>WorkBuddy 一周体验：目前最适合普通人的本地办公 Agent 工具</title>
         <id>167325</id>
         <link href="https://www.tjsky.net/ai/1765?utm_source=blogfinder" />
@@ -231,6 +253,17 @@
             <uri>https://ezo.biz</uri>
         </author>
         <summary type="text"><![CDATA[入手VIVO X300]]></summary>
+    </entry>
+        <entry>
+        <title>为 PCem 配置网络并使用 Netscape 上网</title>
+        <id>167429</id>
+        <link href="https://blog.liuzhen932.top/posts/configure-networking-on-pcem/?utm_source=blogfinder" />
+        <published>2026-08-13T21:15:18+08:00</published>
+        <author>
+            <name>liuzhen932 的小窝</name>
+            <uri>https://blog.liuzhen932.top</uri>
+        </author>
+        <summary type="text"><![CDATA[为 PCem 配置网络并使用 Netscape 上网]]></summary>
     </entry>
         <entry>
         <title>读《西装与小脚》</title>
@@ -1091,6 +1124,17 @@
         <summary type="text"><![CDATA[禁用Windows11更新]]></summary>
     </entry>
         <entry>
+        <title>介绍下本站特色功能及一些杂谈</title>
+        <id>167428</id>
+        <link href="https://imqi1.com/content/note/1020?utm_source=blogfinder" />
+        <published>2026-08-12T18:37:00+08:00</published>
+        <author>
+            <name>ImQi1</name>
+            <uri>https://imqi1.com</uri>
+        </author>
+        <summary type="text"><![CDATA[介绍下本站特色功能及一些杂谈]]></summary>
+    </entry>
+        <entry>
         <title>[shandun] DE 9929 测评</title>
         <id>167231</id>
         <link href="https://blog.yeqing.net/shandun-DE-9929/?utm_source=blogfinder" />
@@ -1870,27 +1914,5 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[大风起兮竹遭殃]]></summary>
-    </entry>
-        <entry>
-        <title>在南方</title>
-        <id>167210</id>
-        <link href="https://z.arlmy.me/posts/ZArlmyMe/South_20260811/?utm_source=blogfinder" />
-        <published>2026-08-11T15:46:03+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[在南方]]></summary>
-    </entry>
-        <entry>
-        <title>一年来的一些趣事（1）</title>
-        <id>166997</id>
-        <link href="https://blog.marice.top/posts/epw5.html?utm_source=blogfinder" />
-        <published>2026-08-11T15:30:00+08:00</published>
-        <author>
-            <name>TheIce</name>
-            <uri>https://blog.081113.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[一年来的一些趣事（1）]]></summary>
     </entry>
     </feed>
