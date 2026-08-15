@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-15T23:09:08+08:00</updated>
+    <updated>2026-08-16T00:02:55+08:00</updated>
+        <entry>
+        <title>我的世界一直下雨</title>
+        <id>167645</id>
+        <link href="https://www.geedea.pro/article/rain-never-stop/?utm_source=blogfinder" />
+        <published>2026-08-15T23:42:09+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[我的世界一直下雨]]></summary>
+    </entry>
+        <entry>
+        <title>冷知识：博客的评论区不是广告区</title>
+        <id>167646</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1529/?utm_source=blogfinder" />
+        <published>2026-08-15T21:59:00+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[冷知识：博客的评论区不是广告区]]></summary>
+    </entry>
         <entry>
         <title>说说：今天做了两个披萨，一个孜然鸡肉，一个虾仁扇贝</title>
         <id>167642</id>
@@ -99,6 +121,17 @@
             <uri>https://www.impdx.vip</uri>
         </author>
         <summary type="text"><![CDATA[杂谈安全 - 《兔死狗烹之无患可除：当安全开始证明自己的存在》]]></summary>
+    </entry>
+        <entry>
+        <title>用 ISBN 找书：这个小工具怎么用</title>
+        <id>167647</id>
+        <link href="https://xiaoxi.ac.cn/post/202608152825?utm_source=blogfinder" />
+        <published>2026-08-15T14:08:00+08:00</published>
+        <author>
+            <name>小曦的园子</name>
+            <uri>https://xiaoxi.ac.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[用 ISBN 找书：这个小工具怎么用]]></summary>
     </entry>
         <entry>
         <title>ZR 集训 Day30 – 模拟赛</title>
@@ -1562,181 +1595,5 @@
             <uri>https://www.luming.cool</uri>
         </author>
         <summary type="text"><![CDATA[发布了新主题：Eidolon]]></summary>
-    </entry>
-        <entry>
-        <title>拾景zine：把普通照片蒸馏成值得停留的纸感海报</title>
-        <id>167395</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-13/gathered-scenes-zine-skill/?utm_source=blogfinder" />
-        <published>2026-08-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[拾景zine：把普通照片蒸馏成值得停留的纸感海报]]></summary>
-    </entry>
-        <entry>
-        <title>watermarks-remover: 多厂商 AI 水印一键清除工具</title>
-        <id>167394</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-13/watermarks-remover/?utm_source=blogfinder" />
-        <published>2026-08-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[watermarks-remover: 多厂商 AI 水印一键清除工具]]></summary>
-    </entry>
-        <entry>
-        <title>Photo Abstract Editorial：将照片转化为摄影与抽象记忆面板的编辑作品</title>
-        <id>167393</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-13/photo-abstract-editorial/?utm_source=blogfinder" />
-        <published>2026-08-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Photo Abstract Editorial：将照片转化为摄影与抽象记忆面板的编辑作品]]></summary>
-    </entry>
-        <entry>
-        <title>OpenChamber：贯穿桌面、浏览器与移动端的开源 AI 编程工作台</title>
-        <id>167392</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-13/openchamber/?utm_source=blogfinder" />
-        <published>2026-08-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenChamber：贯穿桌面、浏览器与移动端的开源 AI 编程工作台]]></summary>
-    </entry>
-        <entry>
-        <title>Needle 2：一个 14MB 的设备端工具调用模型，45M 参数跑满本地场景</title>
-        <id>167391</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-13/needle/?utm_source=blogfinder" />
-        <published>2026-08-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Needle 2：一个 14MB 的设备端工具调用模型，45M 参数跑满本地场景]]></summary>
-    </entry>
-        <entry>
-        <title>Nasiko：一个开源的 AI Agent 控制平面，一键部署任何 A2A 智能体</title>
-        <id>167390</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-13/nasiko/?utm_source=blogfinder" />
-        <published>2026-08-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Nasiko：一个开源的 AI Agent 控制平面，一键部署任何 A2A 智能体]]></summary>
-    </entry>
-        <entry>
-        <title>LocalSend: 无需互联网，跨设备本地文件传输神器</title>
-        <id>167389</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-13/localsend/?utm_source=blogfinder" />
-        <published>2026-08-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[LocalSend: 无需互联网，跨设备本地文件传输神器]]></summary>
-    </entry>
-        <entry>
-        <title>Enjoy：AI 驱动的英语学习应用，让人人都能用英语</title>
-        <id>167388</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-13/everyone-can-use-english/?utm_source=blogfinder" />
-        <published>2026-08-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Enjoy：AI 驱动的英语学习应用，让人人都能用英语]]></summary>
-    </entry>
-        <entry>
-        <title>Embabel Agent Framework：JVM 平台的智能 Agent 开发框架</title>
-        <id>167387</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-13/embabel-agent/?utm_source=blogfinder" />
-        <published>2026-08-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Embabel Agent Framework：JVM 平台的智能 Agent 开发框架]]></summary>
-    </entry>
-        <entry>
-        <title>anydoc：用 Rust 将任意文档一键转为干净 Markdown 的开源利器</title>
-        <id>167386</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-13/anydoc/?utm_source=blogfinder" />
-        <published>2026-08-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[anydoc：用 Rust 将任意文档一键转为干净 Markdown 的开源利器]]></summary>
-    </entry>
-        <entry>
-        <title>NVIDIA Switchyard：用 Rust 构建统一多后端的 LLM 流量代理与路由网关</title>
-        <id>167241</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-13/switchyard/?utm_source=blogfinder" />
-        <published>2026-08-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[NVIDIA Switchyard：用 Rust 构建统一多后端的 LLM 流量代理与路由网关]]></summary>
-    </entry>
-        <entry>
-        <title>Brigade：把你自己的「AI 军团」搬回家——自托管的多智能体操作系统</title>
-        <id>167240</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-13/brigade/?utm_source=blogfinder" />
-        <published>2026-08-13T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Brigade：把你自己的「AI 军团」搬回家——自托管的多智能体操作系统]]></summary>
-    </entry>
-        <entry>
-        <title>开通推特（X）Premium蓝V会员</title>
-        <id>167275</id>
-        <link href="https://yesreho.com/subscribe-to-x-premium/?utm_source=blogfinder" />
-        <published>2026-08-12T23:38:50+08:00</published>
-        <author>
-            <name>LookLeap</name>
-            <uri>https://yesreho.com</uri>
-        </author>
-        <summary type="text"><![CDATA[开通推特（X）Premium蓝V会员]]></summary>
-    </entry>
-        <entry>
-        <title>恢复游戏功能页面</title>
-        <id>167289</id>
-        <link href="https://blog.dao.js.cn/posts/GjvA?utm_source=blogfinder" />
-        <published>2026-08-12T23:32:00+08:00</published>
-        <author>
-            <name>懋和道人</name>
-            <uri>https://blog.dao.js.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[恢复游戏功能页面]]></summary>
-    </entry>
-        <entry>
-        <title>别拿病历本做宣发</title>
-        <id>167293</id>
-        <link href="https://blog.solazy.me/20260812/?utm_source=blogfinder" />
-        <published>2026-08-12T23:30:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[别拿病历本做宣发]]></summary>
-    </entry>
-        <entry>
-        <title>热炸了</title>
-        <id>167308</id>
-        <link href="https://ezo.biz/Play_More/1567.html?utm_source=blogfinder" />
-        <published>2026-08-12T23:22:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[热炸了]]></summary>
     </entry>
     </feed>
