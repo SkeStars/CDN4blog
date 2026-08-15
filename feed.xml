@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-15T22:00:43+08:00</updated>
+    <updated>2026-08-15T23:09:08+08:00</updated>
+        <entry>
+        <title>说说：今天做了两个披萨，一个孜然鸡肉，一个虾仁扇贝</title>
+        <id>167642</id>
+        <link href="https://www.mmbkz.cn/9137550d.html?utm_source=blogfinder" />
+        <published>2026-08-15T20:31:25+08:00</published>
+        <author>
+            <name>绯色之喵</name>
+            <uri>https://www.mmbkz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[说说：今天做了两个披萨，一个孜然鸡肉，一个虾仁扇贝]]></summary>
+    </entry>
         <entry>
         <title>旧貌换新颜：近期博客的装修汇总</title>
         <id>167641</id>
@@ -22,6 +33,28 @@
             <uri>https://blog.weasel6.cn</uri>
         </author>
         <summary type="text"><![CDATA[旧貌换新颜：近期博客的装修汇总]]></summary>
+    </entry>
+        <entry>
+        <title>15元买的爱国者有线耳机居然有HiFi，音质比296元的vivo蓝牙耳机好太多了</title>
+        <id>167643</id>
+        <link href="https://www.bufanz.com/20260815805.html?utm_source=blogfinder" />
+        <published>2026-08-15T18:24:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[15元买的爱国者有线耳机居然有HiFi，音质比296元的vivo蓝牙耳机好太多了]]></summary>
+    </entry>
+        <entry>
+        <title>关于游戏</title>
+        <id>167644</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-08-15-about-playing-game.html?utm_source=blogfinder" />
+        <published>2026-08-15T16:58:57+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[关于游戏]]></summary>
     </entry>
         <entry>
         <title>两位沉浸在自己世界里的‘文学大师’</title>
@@ -1705,38 +1738,5 @@
             <uri>https://ezo.biz</uri>
         </author>
         <summary type="text"><![CDATA[热炸了]]></summary>
-    </entry>
-        <entry>
-        <title>在 PCem 上模拟运行 Windows 95</title>
-        <id>167300</id>
-        <link href="https://blog.liuzhen932.top/posts/run-windows95-on-pcem/?utm_source=blogfinder" />
-        <published>2026-08-12T23:00:08+08:00</published>
-        <author>
-            <name>liuzhen932 的小窝</name>
-            <uri>https://blog.liuzhen932.top</uri>
-        </author>
-        <summary type="text"><![CDATA[在 PCem 上模拟运行 Windows 95]]></summary>
-    </entry>
-        <entry>
-        <title>周而复始</title>
-        <id>167329</id>
-        <link href="https://blog.feimind.xyz/posts/2026-08-12-againandagain/?utm_source=blogfinder" />
-        <published>2026-08-12T22:28:00+08:00</published>
-        <author>
-            <name>西灵沉船</name>
-            <uri>https://www.feimind.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[周而复始]]></summary>
-    </entry>
-        <entry>
-        <title>twikoo不用token查询文章浏览量</title>
-        <id>167235</id>
-        <link href="https://blog.xrbk.cn/post/100.html?utm_source=blogfinder" />
-        <published>2026-08-12T22:01:00+08:00</published>
-        <author>
-            <name>新锐博客</name>
-            <uri>https://blog.xrbk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[twikoo不用token查询文章浏览量]]></summary>
     </entry>
     </feed>
