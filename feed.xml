@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-15T16:01:53+08:00</updated>
+    <updated>2026-08-15T17:01:40+08:00</updated>
         <entry>
         <title>诺兰的《奥德赛》采取了什么样的改编策略？</title>
         <id>167620</id>
@@ -231,6 +231,17 @@
             <uri>https://blog.zhheo.com</uri>
         </author>
         <summary type="text"><![CDATA[给DeepSeek-V4-Flash借一双眼睛：ZCode视觉子Agent方案]]></summary>
+    </entry>
+        <entry>
+        <title>DeekSeek Harness 初体验，非常有意思</title>
+        <id>167630</id>
+        <link href="https://zishu.me/blog/deekseek-harness-experience.html?utm_source=blogfinder" />
+        <published>2026-08-14T17:11:00+08:00</published>
+        <author>
+            <name>子舒的博客</name>
+            <uri>https://zishu.me</uri>
+        </author>
+        <summary type="text"><![CDATA[DeekSeek Harness 初体验，非常有意思]]></summary>
     </entry>
         <entry>
         <title>恢复豆瓣功能页面</title>
@@ -1771,16 +1782,5 @@
             <uri>https://vrast.cn</uri>
         </author>
         <summary type="text"><![CDATA[失眠的奶茶]]></summary>
-    </entry>
-        <entry>
-        <title>一个带着你影子的东西</title>
-        <id>167223</id>
-        <link href="https://d-d.design/single/20071?utm_source=blogfinder" />
-        <published>2026-08-12T16:50:23+08:00</published>
-        <author>
-            <name>孤斗</name>
-            <uri>https://d-d.design</uri>
-        </author>
-        <summary type="text"><![CDATA[一个带着你影子的东西]]></summary>
     </entry>
     </feed>
