@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-15T21:00:17+08:00</updated>
+    <updated>2026-08-15T22:00:43+08:00</updated>
+        <entry>
+        <title>旧貌换新颜：近期博客的装修汇总</title>
+        <id>167641</id>
+        <link href="https://blog.weasel6.cn/posts/blog-decoration/?utm_source=blogfinder" />
+        <published>2026-08-15T18:34:00+08:00</published>
+        <author>
+            <name>小黄的日记本</name>
+            <uri>https://blog.weasel6.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[旧貌换新颜：近期博客的装修汇总]]></summary>
+    </entry>
         <entry>
         <title>两位沉浸在自己世界里的‘文学大师’</title>
         <id>167634</id>
@@ -99,6 +110,17 @@
             <uri>https://blog.ops-coffee.com</uri>
         </author>
         <summary type="text"><![CDATA[向云端｜西南自驾10 - 下司]]></summary>
+    </entry>
+        <entry>
+        <title>1998，游戏厅外的世界</title>
+        <id>167639</id>
+        <link href="https://www.tortorse.com/archives/the-world-outside-the-arcade-1998/?utm_source=blogfinder" />
+        <published>2026-08-15T11:29:04+08:00</published>
+        <author>
+            <name>愆伏</name>
+            <uri>https://www.tortorse.com</uri>
+        </author>
+        <summary type="text"><![CDATA[1998，游戏厅外的世界]]></summary>
     </entry>
         <entry>
         <title>[文章] 真正难熬的，往往不是上班，而是下班以后</title>
@@ -189,6 +211,17 @@
         <summary type="text"><![CDATA[乌鲁木齐到沈阳的火车旅行]]></summary>
     </entry>
         <entry>
+        <title>AI可能会给金融行业带来阵痛</title>
+        <id>167638</id>
+        <link href="https://tumutanzi.com/archives/17622?utm_source=blogfinder" />
+        <published>2026-08-15T00:00:28+08:00</published>
+        <author>
+            <name>土木坛子</name>
+            <uri>https://tumutanzi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[AI可能会给金融行业带来阵痛]]></summary>
+    </entry>
+        <entry>
         <title>RustDesk：Rust 写的远程桌面神器，开箱即用</title>
         <id>167456</id>
         <link href="http://blog.xlap.top/post/tech/2026-08-15/rustdesk/?utm_source=blogfinder" />
@@ -242,6 +275,17 @@
             <uri>https://ezo.biz</uri>
         </author>
         <summary type="text"><![CDATA[牛磺酸戒断反应]]></summary>
+    </entry>
+        <entry>
+        <title>第一次走进互联网</title>
+        <id>167640</id>
+        <link href="https://www.tortorse.com/archives/first-step-into-the-internet/?utm_source=blogfinder" />
+        <published>2026-08-14T22:16:43+08:00</published>
+        <author>
+            <name>愆伏</name>
+            <uri>https://www.tortorse.com</uri>
+        </author>
+        <summary type="text"><![CDATA[第一次走进互联网]]></summary>
     </entry>
         <entry>
         <title>逻辑自洽不等于事实完整</title>
@@ -1694,38 +1738,5 @@
             <uri>https://blog.xrbk.cn</uri>
         </author>
         <summary type="text"><![CDATA[twikoo不用token查询文章浏览量]]></summary>
-    </entry>
-        <entry>
-        <title>ESP32 / ESP8266 物联网开发环境配置指南</title>
-        <id>167237</id>
-        <link href="https://blog.liseezn.top/919.html/?utm_source=blogfinder" />
-        <published>2026-08-12T21:59:40+08:00</published>
-        <author>
-            <name>Liseezn&#039;blog</name>
-            <uri>https://blog.liseezn.top</uri>
-        </author>
-        <summary type="text"><![CDATA[ESP32 / ESP8266 物联网开发环境配置指南]]></summary>
-    </entry>
-        <entry>
-        <title>Codex 接入 DeepSeek 保姆级教程｜ Codex++</title>
-        <id>167238</id>
-        <link href="https://blog.liseezn.top/903.html/?utm_source=blogfinder" />
-        <published>2026-08-12T21:44:35+08:00</published>
-        <author>
-            <name>Liseezn&#039;blog</name>
-            <uri>https://blog.liseezn.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Codex 接入 DeepSeek 保姆级教程｜ Codex++]]></summary>
-    </entry>
-        <entry>
-        <title>该进入垃圾堆的扣帽子举大棒</title>
-        <id>167290</id>
-        <link href="https://www.pgoj.top/archives/kou-mao-zi-piping.html?utm_source=blogfinder" />
-        <published>2026-08-12T21:37:07+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[该进入垃圾堆的扣帽子举大棒]]></summary>
     </entry>
     </feed>
