@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-16T23:08:11+08:00</updated>
+    <updated>2026-08-17T00:01:04+08:00</updated>
+        <entry>
+        <title>第一次夜爬重庆缙云山</title>
+        <id>167937</id>
+        <link href="https://ygz.ink/archives/5676.html?utm_source=blogfinder" />
+        <published>2026-08-16T23:17:04+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[第一次夜爬重庆缙云山]]></summary>
+    </entry>
+        <entry>
+        <title>文章如何同步到 WordPress</title>
+        <id>167935</id>
+        <link href="https://yesreho.com/how-to-sync-articles-to-wordpress/?utm_source=blogfinder" />
+        <published>2026-08-16T22:35:22+08:00</published>
+        <author>
+            <name>LookLeap</name>
+            <uri>https://yesreho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[文章如何同步到 WordPress]]></summary>
+    </entry>
         <entry>
         <title>三个月首保</title>
         <id>167931</id>
@@ -33,6 +55,17 @@
             <uri>https://www.mmbkz.cn</uri>
         </author>
         <summary type="text"><![CDATA[说说：#2026-08-16 12:22]]></summary>
+    </entry>
+        <entry>
+        <title>Spring Cloud Gateway 和 Nginx 网关代理 WebSocket 路由配置</title>
+        <id>167934</id>
+        <link href="https://chegva.com/6755.html?utm_source=blogfinder" />
+        <published>2026-08-16T17:39:13+08:00</published>
+        <author>
+            <name>安志合的学习博客</name>
+            <uri>https://chegva.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Spring Cloud Gateway 和 Nginx 网关代理 WebSocket 路由配置]]></summary>
     </entry>
         <entry>
         <title>给领导写汇报的 AI Skill</title>
@@ -242,6 +275,17 @@
             <uri>https://hulatu.com</uri>
         </author>
         <summary type="text"><![CDATA[居家流水账——第一天]]></summary>
+    </entry>
+        <entry>
+        <title>我不敢随便推荐 App 了</title>
+        <id>167936</id>
+        <link href="https://blog.solazy.me/20260815/?utm_source=blogfinder" />
+        <published>2026-08-15T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[我不敢随便推荐 App 了]]></summary>
     </entry>
         <entry>
         <title>冷知识：博客的评论区不是广告区</title>
@@ -1276,170 +1320,5 @@
             <uri>https://www.xalaok.top</uri>
         </author>
         <summary type="text"><![CDATA[华硕天选睡眠蓝牙唤醒异常]]></summary>
-    </entry>
-        <entry>
-        <title>用一封邮箱反查全网账号：Holehe OSINT 工具深度解析</title>
-        <id>167466</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-14/holehe/?utm_source=blogfinder" />
-        <published>2026-08-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[用一封邮箱反查全网账号：Holehe OSINT 工具深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>WeChat-AI：自托管微信角色扮演机器人，支持 iLink 多节点部署</title>
-        <id>167465</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-14/wechat-ai/?utm_source=blogfinder" />
-        <published>2026-08-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[WeChat-AI：自托管微信角色扮演机器人，支持 iLink 多节点部署]]></summary>
-    </entry>
-        <entry>
-        <title>RVG Gateway：一款高性能多协议代理网关服务</title>
-        <id>167464</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-14/rvg/?utm_source=blogfinder" />
-        <published>2026-08-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[RVG Gateway：一款高性能多协议代理网关服务]]></summary>
-    </entry>
-        <entry>
-        <title>ResumeSkills：AI驱动的求职简历技能库，让简历优化智能化</title>
-        <id>167463</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-14/resumeskills/?utm_source=blogfinder" />
-        <published>2026-08-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[ResumeSkills：AI驱动的求职简历技能库，让简历优化智能化]]></summary>
-    </entry>
-        <entry>
-        <title>Obsidian Skills：让 AI Agent 原生理解你的笔记</title>
-        <id>167462</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-14/obsidian-skills/?utm_source=blogfinder" />
-        <published>2026-08-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Obsidian Skills：让 AI Agent 原生理解你的笔记]]></summary>
-    </entry>
-        <entry>
-        <title>Modly：用开源 AI 模型在本地把图片变成 3D 模型</title>
-        <id>167461</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-14/modly/?utm_source=blogfinder" />
-        <published>2026-08-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Modly：用开源 AI 模型在本地把图片变成 3D 模型]]></summary>
-    </entry>
-        <entry>
-        <title>holaOS：一个让你和AI代理共享工作空间的本地优先操作系统</title>
-        <id>167460</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-14/holaos/?utm_source=blogfinder" />
-        <published>2026-08-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[holaOS：一个让你和AI代理共享工作空间的本地优先操作系统]]></summary>
-    </entry>
-        <entry>
-        <title>dot-skill: 把任何人蒸馏成 AI Agent Skill 的开源工具</title>
-        <id>167459</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-14/colleague-skill/?utm_source=blogfinder" />
-        <published>2026-08-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[dot-skill: 把任何人蒸馏成 AI Agent Skill 的开源工具]]></summary>
-    </entry>
-        <entry>
-        <title>DeepSec：Vercel 开源的 AI 驱动漏洞扫描器，专为大型代码库设计</title>
-        <id>167458</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-14/deepsec/?utm_source=blogfinder" />
-        <published>2026-08-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[DeepSec：Vercel 开源的 AI 驱动漏洞扫描器，专为大型代码库设计]]></summary>
-    </entry>
-        <entry>
-        <title>calldiff：一个 Git 风格的代码调用链路 Diff 工具</title>
-        <id>167457</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-14/calldiff/?utm_source=blogfinder" />
-        <published>2026-08-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[calldiff：一个 Git 风格的代码调用链路 Diff 工具]]></summary>
-    </entry>
-        <entry>
-        <title>一把开不了门的钥匙</title>
-        <id>167454</id>
-        <link href="https://tianheg.co/posts/locked-out/?utm_source=blogfinder" />
-        <published>2026-08-14T00:00:00+08:00</published>
-        <author>
-            <name>一大加贝</name>
-            <uri>https://tianheg.co</uri>
-        </author>
-        <summary type="text"><![CDATA[一把开不了门的钥匙]]></summary>
-    </entry>
-        <entry>
-        <title>Unsloth：首款本地运行与训练 AI 模型的桌面应用，支持全平台 GPU 加速</title>
-        <id>167385</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-14/unsloth/?utm_source=blogfinder" />
-        <published>2026-08-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Unsloth：首款本地运行与训练 AI 模型的桌面应用，支持全平台 GPU 加速]]></summary>
-    </entry>
-        <entry>
-        <title>iPolloWork：一个本地优先的 AI 可视化工作台，让 AI 协作真正可编辑</title>
-        <id>167384</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-14/ipollowork/?utm_source=blogfinder" />
-        <published>2026-08-14T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[iPolloWork：一个本地优先的 AI 可视化工作台，让 AI 协作真正可编辑]]></summary>
-    </entry>
-        <entry>
-        <title>今日站点异常流量的分析</title>
-        <id>167434</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1526/?utm_source=blogfinder" />
-        <published>2026-08-13T23:59:00+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[今日站点异常流量的分析]]></summary>
-    </entry>
-        <entry>
-        <title>水煮鱼的济州岛旅行后日记：杂谈</title>
-        <id>167427</id>
-        <link href="https://loveapple.space/blog/Jeju-general/?utm_source=blogfinder" />
-        <published>2026-08-13T23:51:06+08:00</published>
-        <author>
-            <name>LoveApple14434</name>
-            <uri>https://loveapple.space/blog/</uri>
-        </author>
-        <summary type="text"><![CDATA[水煮鱼的济州岛旅行后日记：杂谈]]></summary>
     </entry>
     </feed>
