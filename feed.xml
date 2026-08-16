@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-16T10:00:19+08:00</updated>
+    <updated>2026-08-16T12:01:42+08:00</updated>
         <entry>
         <title>≡ 008｜这一周莫比乌斯环转到了哪里？</title>
         <id>167912</id>
@@ -24,6 +24,17 @@
         <summary type="text"><![CDATA[≡ 008｜这一周莫比乌斯环转到了哪里？]]></summary>
     </entry>
         <entry>
+        <title>为什么upxuu 不发朋友圈</title>
+        <id>167919</id>
+        <link href="https://upxuu.com/posts/pyq/?utm_source=blogfinder" />
+        <published>2026-08-16T09:03:45+08:00</published>
+        <author>
+            <name>UpXuu&#039;s blog</name>
+            <uri>https://upxuu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[为什么upxuu 不发朋友圈]]></summary>
+    </entry>
+        <entry>
         <title>我的自由行计划之2026年版</title>
         <id>167913</id>
         <link href="https://shuiba.co/my-travel-plans-2026?utm_source=blogfinder" />
@@ -33,6 +44,17 @@
             <uri>https://shuiba.co</uri>
         </author>
         <summary type="text"><![CDATA[我的自由行计划之2026年版]]></summary>
+    </entry>
+        <entry>
+        <title>说说</title>
+        <id>167918</id>
+        <link href="https://ilogs.cn/2026/08/16/395.html?utm_source=blogfinder" />
+        <published>2026-08-16T02:27:00+08:00</published>
+        <author>
+            <name>我的日志</name>
+            <uri>https://ilogs.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[说说]]></summary>
     </entry>
         <entry>
         <title>Soup：一条命令微调大模型，告别配置地狱</title>
@@ -79,6 +101,17 @@
         <summary type="text"><![CDATA[我的世界一直下雨]]></summary>
     </entry>
         <entry>
+        <title>居家流水账——第一天</title>
+        <id>167916</id>
+        <link href="https://hulatu.com/posts/2026/08/15/home-diary-1/?utm_source=blogfinder" />
+        <published>2026-08-15T23:17:25+08:00</published>
+        <author>
+            <name>胡拉图说</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[居家流水账——第一天]]></summary>
+    </entry>
+        <entry>
         <title>冷知识：博客的评论区不是广告区</title>
         <id>167646</id>
         <link href="https://blog.mfwt.top/index.php/archives/1529/?utm_source=blogfinder" />
@@ -110,6 +143,17 @@
             <uri>http://stuit.cn</uri>
         </author>
         <summary type="text"><![CDATA[行者微评论226-8月15日]]></summary>
+    </entry>
+        <entry>
+        <title>老婆吃了水果山竹，突然出现过敏反应</title>
+        <id>167917</id>
+        <link href="https://www.aiwazi.com/3358.html?utm_source=blogfinder" />
+        <published>2026-08-15T19:03:01+08:00</published>
+        <author>
+            <name>爱娃子</name>
+            <uri>https://www.aiwazi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[老婆吃了水果山竹，突然出现过敏反应]]></summary>
     </entry>
         <entry>
         <title>旧貌换新颜：近期博客的装修汇总</title>
@@ -1628,104 +1672,5 @@
             <uri>http://www.xulog.cn</uri>
         </author>
         <summary type="text"><![CDATA[随笔日记]]></summary>
-    </entry>
-        <entry>
-        <title>总以为来日方长，却忘了世事无常</title>
-        <id>167321</id>
-        <link href="https://mojue88.com/17?utm_source=blogfinder" />
-        <published>2026-08-13T11:54:00+08:00</published>
-        <author>
-            <name>墨觉の日记</name>
-            <uri>https://mojue88.com</uri>
-        </author>
-        <summary type="text"><![CDATA[总以为来日方长，却忘了世事无常]]></summary>
-    </entry>
-        <entry>
-        <title>勇闯九峰，你比十峰少一峰</title>
-        <id>167298</id>
-        <link href="https://hi.jeray.wang/L/225.html?utm_source=blogfinder" />
-        <published>2026-08-13T11:46:00+08:00</published>
-        <author>
-            <name>Jeray 大叔</name>
-            <uri>https://hi.jeray.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[勇闯九峰，你比十峰少一峰]]></summary>
-    </entry>
-        <entry>
-        <title>等秋天</title>
-        <id>167315</id>
-        <link href="https://www.lifd.site/2026/08/deng-qiu-tian/?utm_source=blogfinder" />
-        <published>2026-08-13T11:32:22+08:00</published>
-        <author>
-            <name>LiFD</name>
-            <uri>https://www.lifd.site</uri>
-        </author>
-        <summary type="text"><![CDATA[等秋天]]></summary>
-    </entry>
-        <entry>
-        <title>配置GitHub使用musl静态编译CGO程序</title>
-        <id>167417</id>
-        <link href="https://www.nekopara.uk/archives/GitHub_workflows_statically_compile_CGO_program.html?utm_source=blogfinder" />
-        <published>2026-08-13T11:30:00+08:00</published>
-        <author>
-            <name>GTX690 战术核显卡导弹</name>
-            <uri>https://www.nekopara.uk</uri>
-        </author>
-        <summary type="text"><![CDATA[配置GitHub使用musl静态编译CGO程序]]></summary>
-    </entry>
-        <entry>
-        <title>开往的修改信息审核通过啦</title>
-        <id>167292</id>
-        <link href="https://blog.frdlink.link/index.php?article_id=40&amp;utm_source=blogfinder" />
-        <published>2026-08-13T11:01:03+08:00</published>
-        <author>
-            <name>FRD Link</name>
-            <uri>https://blog.frdlink.link</uri>
-        </author>
-        <summary type="text"><![CDATA[开往的修改信息审核通过啦]]></summary>
-    </entry>
-        <entry>
-        <title>凌晨，我们一起去看了场流星雨</title>
-        <id>167317</id>
-        <link href="https://n2g.cn/posts/meteor-shower-night/?utm_source=blogfinder" />
-        <published>2026-08-13T11:00:00+08:00</published>
-        <author>
-            <name>Xio&#039;s</name>
-            <uri>https://n2g.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[凌晨，我们一起去看了场流星雨]]></summary>
-    </entry>
-        <entry>
-        <title>什么？你的vercel还没深绿？一文研究透vercel优选|缓存配置</title>
-        <id>167291</id>
-        <link href="https://upxuu.com/posts/vercel-youxuan-cache/?utm_source=blogfinder" />
-        <published>2026-08-13T11:00:00+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[什么？你的vercel还没深绿？一文研究透vercel优选|缓存配置]]></summary>
-    </entry>
-        <entry>
-        <title>又把Apple ID地区更换为中国大陆</title>
-        <id>167294</id>
-        <link href="https://sheep5.net/archives/322?utm_source=blogfinder" />
-        <published>2026-08-13T10:36:17+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[又把Apple ID地区更换为中国大陆]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1706】斯陀夫人《汤姆叔叔的小屋》</title>
-        <id>167285</id>
-        <link href="http://www.qncd.com/?p=13001&amp;utm_source=blogfinder" />
-        <published>2026-08-13T10:33:33+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1706】斯陀夫人《汤姆叔叔的小屋》]]></summary>
     </entry>
     </feed>
