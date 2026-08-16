@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-16T18:00:29+08:00</updated>
+    <updated>2026-08-16T19:00:18+08:00</updated>
         <entry>
         <title>给领导写汇报的 AI Skill</title>
         <id>167925</id>
@@ -22,6 +22,17 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[给领导写汇报的 AI Skill]]></summary>
+    </entry>
+        <entry>
+        <title>为什么有些人的钱，总是被掠夺？</title>
+        <id>167929</id>
+        <link href="https://www.dengxiaokang.com/1512/?utm_source=blogfinder" />
+        <published>2026-08-16T16:45:51+08:00</published>
+        <author>
+            <name>菜心言</name>
+            <uri>https://www.dengxiaokang.com</uri>
+        </author>
+        <summary type="text"><![CDATA[为什么有些人的钱，总是被掠夺？]]></summary>
     </entry>
         <entry>
         <title>2026-08-16 13:33</title>
@@ -1551,38 +1562,5 @@
             <uri>https://www.wanghao.me</uri>
         </author>
         <summary type="text"><![CDATA[星城长沙亲子三日游]]></summary>
-    </entry>
-        <entry>
-        <title>网络暧昧，线下“割腰子”</title>
-        <id>167420</id>
-        <link href="https://blog.1edg.cn/758?utm_source=blogfinder" />
-        <published>2026-08-13T18:44:00+08:00</published>
-        <author>
-            <name>小林先森</name>
-            <uri>https://blog.1edg.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[网络暧昧，线下“割腰子”]]></summary>
-    </entry>
-        <entry>
-        <title>博客阅读随感20260813</title>
-        <id>167319</id>
-        <link href="https://www.suiyan.cc/blog/20260813182508?utm_source=blogfinder" />
-        <published>2026-08-13T18:25:08+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[博客阅读随感20260813]]></summary>
-    </entry>
-        <entry>
-        <title>让 just-the-docs 搜索（lunr.js）支持多语言、支持中文</title>
-        <id>167436</id>
-        <link href="https://yijile.com/zh/make-just-the-docs-search-lunr-js-multilingual-chinese/?utm_source=blogfinder" />
-        <published>2026-08-13T18:04:32+08:00</published>
-        <author>
-            <name>一极乐</name>
-            <uri>https://yijile.com</uri>
-        </author>
-        <summary type="text"><![CDATA[让 just-the-docs 搜索（lunr.js）支持多语言、支持中文]]></summary>
     </entry>
     </feed>
