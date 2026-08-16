@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-16T21:00:49+08:00</updated>
+    <updated>2026-08-16T22:01:30+08:00</updated>
         <entry>
         <title>给领导写汇报的 AI Skill</title>
         <id>167925</id>
@@ -1441,60 +1441,5 @@
             <uri>https://chenbozheng.com</uri>
         </author>
         <summary type="text"><![CDATA[英仙座流星雨实拍体验：电视剧都是骗人的？这才是流星雨的真实样子]]></summary>
-    </entry>
-        <entry>
-        <title>WorkBuddy 一周体验：目前最适合普通人的本地办公 Agent 工具</title>
-        <id>167325</id>
-        <link href="https://www.tjsky.net/ai/1765?utm_source=blogfinder" />
-        <published>2026-08-13T21:41:13+08:00</published>
-        <author>
-            <name>秋风于渭水</name>
-            <uri>https://www.tjsky.net</uri>
-        </author>
-        <summary type="text"><![CDATA[WorkBuddy 一周体验：目前最适合普通人的本地办公 Agent 工具]]></summary>
-    </entry>
-        <entry>
-        <title>第一次开了300多公里</title>
-        <id>167327</id>
-        <link href="https://ygz.ink/archives/5671.html?utm_source=blogfinder" />
-        <published>2026-08-13T21:36:34+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[第一次开了300多公里]]></summary>
-    </entry>
-        <entry>
-        <title>docker部署phpIPAM</title>
-        <id>167403</id>
-        <link href="https://yyg.js.cool/yyg/679a20a0/?utm_source=blogfinder" />
-        <published>2026-08-13T21:33:06+08:00</published>
-        <author>
-            <name>云野阁</name>
-            <uri>https://yyg.js.cool</uri>
-        </author>
-        <summary type="text"><![CDATA[docker部署phpIPAM]]></summary>
-    </entry>
-        <entry>
-        <title>入手VIVO X300</title>
-        <id>167324</id>
-        <link href="https://ezo.biz/Diary/VIVO-X300.html?utm_source=blogfinder" />
-        <published>2026-08-13T21:32:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[入手VIVO X300]]></summary>
-    </entry>
-        <entry>
-        <title>为 PCem 配置网络并使用 Netscape 上网</title>
-        <id>167429</id>
-        <link href="https://blog.liuzhen932.top/posts/configure-networking-on-pcem/?utm_source=blogfinder" />
-        <published>2026-08-13T21:15:18+08:00</published>
-        <author>
-            <name>liuzhen932 的小窝</name>
-            <uri>https://blog.liuzhen932.top</uri>
-        </author>
-        <summary type="text"><![CDATA[为 PCem 配置网络并使用 Netscape 上网]]></summary>
     </entry>
     </feed>
