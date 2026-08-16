@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-16T19:00:18+08:00</updated>
+    <updated>2026-08-16T21:00:49+08:00</updated>
         <entry>
         <title>给领导写汇报的 AI Skill</title>
         <id>167925</id>
@@ -33,6 +33,17 @@
             <uri>https://www.dengxiaokang.com</uri>
         </author>
         <summary type="text"><![CDATA[为什么有些人的钱，总是被掠夺？]]></summary>
+    </entry>
+        <entry>
+        <title>入蜀记（20260801-07）一、概况</title>
+        <id>167930</id>
+        <link href="http://stuit.cn/Xiaolu/Post/1626.html?utm_source=blogfinder" />
+        <published>2026-08-16T15:23:50+08:00</published>
+        <author>
+            <name>风雨行者</name>
+            <uri>http://stuit.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[入蜀记（20260801-07）一、概况]]></summary>
     </entry>
         <entry>
         <title>2026-08-16 13:33</title>
@@ -1485,82 +1496,5 @@
             <uri>https://blog.liuzhen932.top</uri>
         </author>
         <summary type="text"><![CDATA[为 PCem 配置网络并使用 Netscape 上网]]></summary>
-    </entry>
-        <entry>
-        <title>读《西装与小脚》</title>
-        <id>167423</id>
-        <link href="https://www.jfsay.com/archives/4034.html?utm_source=blogfinder" />
-        <published>2026-08-13T20:37:27+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[读《西装与小脚》]]></summary>
-    </entry>
-        <entry>
-        <title>啊！你黄了啊！</title>
-        <id>167328</id>
-        <link href="https://blog.lichenghao.cn/article/jq7kh99pndtu?utm_source=blogfinder" />
-        <published>2026-08-13T20:35:25+08:00</published>
-        <author>
-            <name>故事的程序猿</name>
-            <uri>https://blog.lichenghao.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[啊！你黄了啊！]]></summary>
-    </entry>
-        <entry>
-        <title>模拟炒股记录资金到达40w</title>
-        <id>167398</id>
-        <link href="https://www.friendcc.com/728.html?utm_source=blogfinder" />
-        <published>2026-08-13T19:38:25+08:00</published>
-        <author>
-            <name>梦不见的梦</name>
-            <uri>https://www.friendcc.com</uri>
-        </author>
-        <summary type="text"><![CDATA[模拟炒股记录资金到达40w]]></summary>
-    </entry>
-        <entry>
-        <title>考了科目二</title>
-        <id>167405</id>
-        <link href="https://catlyingroof.top/2026/08/13/21.html?utm_source=blogfinder" />
-        <published>2026-08-13T19:36:46+08:00</published>
-        <author>
-            <name>Ethan 在网上耕田</name>
-            <uri>https://catlyingroof.top</uri>
-        </author>
-        <summary type="text"><![CDATA[考了科目二]]></summary>
-    </entry>
-        <entry>
-        <title>给博客开启Cloudflare CDN</title>
-        <id>167415</id>
-        <link href="https://sheep5.net/archives/336?utm_source=blogfinder" />
-        <published>2026-08-13T19:32:42+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[给博客开启Cloudflare CDN]]></summary>
-    </entry>
-        <entry>
-        <title>新博客、耳机与退去的台风</title>
-        <id>167322</id>
-        <link href="https://nxxy335.top/archives/3DX7Ml1N?utm_source=blogfinder" />
-        <published>2026-08-13T19:23:31+08:00</published>
-        <author>
-            <name>暖心向阳</name>
-            <uri>https://nxxy335.top</uri>
-        </author>
-        <summary type="text"><![CDATA[新博客、耳机与退去的台风]]></summary>
-    </entry>
-        <entry>
-        <title>星城长沙亲子三日游</title>
-        <id>167320</id>
-        <link href="https://www.wanghao.me/xingchengzhangshaqinzisanriyou.html?utm_source=blogfinder" />
-        <published>2026-08-13T19:15:36+08:00</published>
-        <author>
-            <name>小王子</name>
-            <uri>https://www.wanghao.me</uri>
-        </author>
-        <summary type="text"><![CDATA[星城长沙亲子三日游]]></summary>
     </entry>
     </feed>
