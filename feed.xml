@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-16T17:01:33+08:00</updated>
+    <updated>2026-08-16T18:00:29+08:00</updated>
+        <entry>
+        <title>给领导写汇报的 AI Skill</title>
+        <id>167925</id>
+        <link href="https://www.sunzhongwei.com/report-ai-skills?utm_source=blogfinder" />
+        <published>2026-08-16T16:55:26+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[给领导写汇报的 AI Skill]]></summary>
+    </entry>
         <entry>
         <title>2026-08-16 13:33</title>
         <id>167923</id>
@@ -44,6 +55,17 @@
             <uri>https://www.52txr.cn</uri>
         </author>
         <summary type="text"><![CDATA[小陶新开发的摸鱼游戏《硕博矿工》：在科研矿山里挖出你的毕业之路，但别让头发和心态先崩]]></summary>
+    </entry>
+        <entry>
+        <title>电影《牛来》的火爆并不偶然</title>
+        <id>167927</id>
+        <link href="https://www.pgoj.top/archives/dian-ying-niu-lai.html?utm_source=blogfinder" />
+        <published>2026-08-16T10:38:44+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[电影《牛来》的火爆并不偶然]]></summary>
     </entry>
         <entry>
         <title>看电视剧《岁月》解说</title>
@@ -154,6 +176,17 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[我的世界一直下雨]]></summary>
+    </entry>
+        <entry>
+        <title>重启 Kindle</title>
+        <id>167926</id>
+        <link href="https://ezo.biz/Diary/kindle.html?utm_source=blogfinder" />
+        <published>2026-08-15T23:40:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[重启 Kindle]]></summary>
     </entry>
         <entry>
         <title>居家流水账——第一天</title>
@@ -1551,16 +1584,5 @@
             <uri>https://yijile.com</uri>
         </author>
         <summary type="text"><![CDATA[让 just-the-docs 搜索（lunr.js）支持多语言、支持中文]]></summary>
-    </entry>
-        <entry>
-        <title>700什么时候能到700</title>
-        <id>167326</id>
-        <link href="http://weiwuhui.com/11065.html?utm_source=blogfinder" />
-        <published>2026-08-13T17:42:16+08:00</published>
-        <author>
-            <name>扯氮集</name>
-            <uri>http://weiwuhui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[700什么时候能到700]]></summary>
     </entry>
     </feed>
