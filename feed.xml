@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-17T13:04:46+08:00</updated>
+    <updated>2026-08-17T15:00:22+08:00</updated>
+        <entry>
+        <title>博客阅读随感20260817</title>
+        <id>167963</id>
+        <link href="https://www.suiyan.cc/blog/20260817124015?utm_source=blogfinder" />
+        <published>2026-08-17T12:40:15+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[博客阅读随感20260817]]></summary>
+    </entry>
         <entry>
         <title>每日早报 · 2026-08-17</title>
         <id>167961</id>
@@ -110,6 +121,17 @@
             <uri>https://blog.frdlink.link</uri>
         </author>
         <summary type="text"><![CDATA[如果注定要分开，那相遇的意义是什么]]></summary>
+    </entry>
+        <entry>
+        <title>关于我照片多到溢出，于是我安装了immich来拯救我的照片！</title>
+        <id>167964</id>
+        <link href="https://xiaoxi.ac.cn/post/202608178654?utm_source=blogfinder" />
+        <published>2026-08-17T00:10:00+08:00</published>
+        <author>
+            <name>小曦的园子</name>
+            <uri>https://xiaoxi.ac.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[关于我照片多到溢出，于是我安装了immich来拯救我的照片！]]></summary>
     </entry>
         <entry>
         <title>Internet Court Skill：为 AI Agent 经济打造的开放纠纷裁技能</title>
@@ -1254,38 +1276,5 @@
             <uri>https://liuqingwushui.top</uri>
         </author>
         <summary type="text"><![CDATA[那些年的QQ语录]]></summary>
-    </entry>
-        <entry>
-        <title>又一年中元</title>
-        <id>167439</id>
-        <link href="https://www.puresky.top/archives/Pb8E1Kmg?utm_source=blogfinder" />
-        <published>2026-08-14T14:35:57+08:00</published>
-        <author>
-            <name>轻雅阁</name>
-            <uri>https://www.puresky.top</uri>
-        </author>
-        <summary type="text"><![CDATA[又一年中元]]></summary>
-    </entry>
-        <entry>
-        <title>弃用搜狗输入法，转投RIME中州韵输入法引擎</title>
-        <id>167567</id>
-        <link href="https://www.gmcllp.cn/989.html?utm_source=blogfinder" />
-        <published>2026-08-14T14:20:00+08:00</published>
-        <author>
-            <name>关关和六六的 Blog</name>
-            <uri>https://www.gmcllp.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[弃用搜狗输入法，转投RIME中州韵输入法引擎]]></summary>
-    </entry>
-        <entry>
-        <title>谨慎使用 AI 对原创文章进行润色</title>
-        <id>167449</id>
-        <link href="https://jiangcl.com/4963?utm_source=blogfinder" />
-        <published>2026-08-14T13:26:21+08:00</published>
-        <author>
-            <name>蒙需</name>
-            <uri>https://jiangcl.com/</uri>
-        </author>
-        <summary type="text"><![CDATA[谨慎使用 AI 对原创文章进行润色]]></summary>
     </entry>
     </feed>
