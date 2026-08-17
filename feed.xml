@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-17T21:02:02+08:00</updated>
+    <updated>2026-08-17T22:00:20+08:00</updated>
         <entry>
         <title>宇宙最后的真相</title>
         <id>167986</id>
@@ -255,6 +255,17 @@
         <summary type="text"><![CDATA[如果注定要分开，那相遇的意义是什么]]></summary>
     </entry>
         <entry>
+        <title>AI 时代我的开发工作流：从踩坑复盘到多项目并行验证</title>
+        <id>167989</id>
+        <link href="https://innei.in/posts/tinkering/ai-era-dev-workflow-review-and-verify?utm_source=blogfinder" />
+        <published>2026-08-17T00:32:40+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[AI 时代我的开发工作流：从踩坑复盘到多项目并行验证]]></summary>
+    </entry>
+        <entry>
         <title>关于我照片多到溢出，于是我安装了immich来拯救我的照片！</title>
         <id>167964</id>
         <link href="https://xiaoxi.ac.cn/post/202608178654?utm_source=blogfinder" />
@@ -297,6 +308,17 @@
             <uri>https://ygz.ink</uri>
         </author>
         <summary type="text"><![CDATA[第一次夜爬重庆缙云山]]></summary>
+    </entry>
+        <entry>
+        <title>让chatgpt来给我讲解下deepseek harness的插件体系</title>
+        <id>167988</id>
+        <link href="https://nicksxs.me/2026/08/16/%E8%AE%A9chatgpt%E6%9D%A5%E7%BB%99%E6%88%91%E8%AE%B2%E8%A7%A3%E4%B8%8Bdeepseek-harness%E7%9A%84%E6%8F%92%E4%BB%B6%E4%BD%93%E7%B3%BB/?utm_source=blogfinder" />
+        <published>2026-08-16T23:07:34+08:00</published>
+        <author>
+            <name>Nicksxs&#039;s Blog</name>
+            <uri>https://nicksxs.me</uri>
+        </author>
+        <summary type="text"><![CDATA[让chatgpt来给我讲解下deepseek harness的插件体系]]></summary>
     </entry>
         <entry>
         <title>暑假里的一个月，我都去干什么了？</title>
@@ -1309,27 +1331,5 @@
             <uri>https://www.tortorse.com</uri>
         </author>
         <summary type="text"><![CDATA[第一次走进互联网]]></summary>
-    </entry>
-        <entry>
-        <title>逻辑自洽不等于事实完整</title>
-        <id>167451</id>
-        <link href="https://blog.solazy.me/20260814/?utm_source=blogfinder" />
-        <published>2026-08-14T22:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[逻辑自洽不等于事实完整]]></summary>
-    </entry>
-        <entry>
-        <title>[Seek2Addy] 让Bitwarden直接创建seek.li邮箱</title>
-        <id>167448</id>
-        <link href="https://blog.yeqing.net/Seek2Addy/?utm_source=blogfinder" />
-        <published>2026-08-14T21:23:38+08:00</published>
-        <author>
-            <name>夜轻 Blog</name>
-            <uri>https://blog.yeqing.net</uri>
-        </author>
-        <summary type="text"><![CDATA[[Seek2Addy] 让Bitwarden直接创建seek.li邮箱]]></summary>
     </entry>
     </feed>
