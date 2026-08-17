@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-17T12:00:57+08:00</updated>
+    <updated>2026-08-17T13:04:46+08:00</updated>
         <entry>
         <title>每日早报 · 2026-08-17</title>
         <id>167961</id>
@@ -1287,16 +1287,5 @@
             <uri>https://jiangcl.com/</uri>
         </author>
         <summary type="text"><![CDATA[谨慎使用 AI 对原创文章进行润色]]></summary>
-    </entry>
-        <entry>
-        <title>灵魂插件 MCP</title>
-        <id>167431</id>
-        <link href="https://kaix.in/2026/0814/?utm_source=blogfinder" />
-        <published>2026-08-14T13:00:04+08:00</published>
-        <author>
-            <name>KAIX.IN</name>
-            <uri>https://kaix.in</uri>
-        </author>
-        <summary type="text"><![CDATA[灵魂插件 MCP]]></summary>
     </entry>
     </feed>
