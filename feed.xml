@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-17T10:00:12+08:00</updated>
+    <updated>2026-08-17T11:02:18+08:00</updated>
+        <entry>
+        <title>一个人的烤肉</title>
+        <id>167956</id>
+        <link href="https://liuqingwushui.top/archives/186/?utm_source=blogfinder" />
+        <published>2026-08-17T10:26:14+08:00</published>
+        <author>
+            <name>流情的博客</name>
+            <uri>https://liuqingwushui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[一个人的烤肉]]></summary>
+    </entry>
         <entry>
         <title>Findu — 十年</title>
         <id>167955</id>
@@ -33,6 +44,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[过剩信息，剥夺我]]></summary>
+    </entry>
+        <entry>
+        <title>中原大佛</title>
+        <id>167957</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1206&amp;utm_source=blogfinder" />
+        <published>2026-08-17T08:53:42+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[中原大佛]]></summary>
     </entry>
         <entry>
         <title>大脑充血 Vol.94</title>
@@ -88,6 +110,17 @@
             <uri>https://yesreho.com</uri>
         </author>
         <summary type="text"><![CDATA[文章如何同步到 WordPress]]></summary>
+    </entry>
+        <entry>
+        <title>胡拉图的周刊 第十七期</title>
+        <id>167958</id>
+        <link href="https://hulatu.com/weekly/weekly-newsletter-17/?utm_source=blogfinder" />
+        <published>2026-08-16T22:00:00+08:00</published>
+        <author>
+            <name>胡拉图说</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[胡拉图的周刊 第十七期]]></summary>
     </entry>
         <entry>
         <title>三个月首保</title>
@@ -1243,16 +1276,5 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[持续高温天气，我的长安小逸也开始罢工了]]></summary>
-    </entry>
-        <entry>
-        <title>清风与明月</title>
-        <id>167424</id>
-        <link href="https://hux.ink/posts/aliveness/?utm_source=blogfinder" />
-        <published>2026-08-14T10:34:21+08:00</published>
-        <author>
-            <name>Counting Stars</name>
-            <uri>https://hux.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[清风与明月]]></summary>
     </entry>
     </feed>
