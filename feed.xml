@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-18T00:02:29+08:00</updated>
+    <updated>2026-08-18T09:02:47+08:00</updated>
+        <entry>
+        <title>💻 TeamViewer 又弹&quot;疑似商用&quot;？我把 12 万星开源远控装上了自家服务器</title>
+        <id>168247</id>
+        <link href="https://www.huluohu.com/posts/2076/?utm_source=blogfinder" />
+        <published>2026-08-18T08:39:23+08:00</published>
+        <author>
+            <name>胡萝虎的博客</name>
+            <uri>https://www.huluohu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[💻 TeamViewer 又弹&quot;疑似商用&quot;？我把 12 万星开源远控装上了自家服务器]]></summary>
+    </entry>
+        <entry>
+        <title>极具江南特色的乌镇一日游</title>
+        <id>168245</id>
+        <link href="https://www.pgoj.top/archives/you-wan-wu-zhen.html?utm_source=blogfinder" />
+        <published>2026-08-18T06:39:57+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[极具江南特色的乌镇一日游]]></summary>
+    </entry>
+        <entry>
+        <title>NautilusTrader：一款 Rust 原生生产级多资产交易引擎</title>
+        <id>168016</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-18/nautilus-trader/?utm_source=blogfinder" />
+        <published>2026-08-18T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[NautilusTrader：一款 Rust 原生生产级多资产交易引擎]]></summary>
+    </entry>
         <entry>
         <title>内蒙行：中国北疆风景大道</title>
         <id>168009</id>
@@ -101,6 +134,28 @@
         <summary type="text"><![CDATA[遛猫]]></summary>
     </entry>
         <entry>
+        <title>观《老式喜剧》后记</title>
+        <id>168015</id>
+        <link href="https://www.ixiqin.com/2026/08/17/afterword-to-old-style-comedy/?utm_source=blogfinder" />
+        <published>2026-08-17T19:21:16+08:00</published>
+        <author>
+            <name>西秦公子</name>
+            <uri>https://www.ixiqin.com</uri>
+        </author>
+        <summary type="text"><![CDATA[观《老式喜剧》后记]]></summary>
+    </entry>
+        <entry>
+        <title>wordpress 右键菜单修改</title>
+        <id>168022</id>
+        <link href="https://www.x8xx.cn/1135.html?utm_source=blogfinder" />
+        <published>2026-08-17T19:18:21+08:00</published>
+        <author>
+            <name>树洞笔记</name>
+            <uri>https://www.x8xx.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[wordpress 右键菜单修改]]></summary>
+    </entry>
+        <entry>
         <title>一切都因为Github在国内无法稳定访问，因此我重构了评论组件！</title>
         <id>168012</id>
         <link href="https://xiaoxi.ac.cn/post/202608176186?utm_source=blogfinder" />
@@ -156,6 +211,17 @@
         <summary type="text"><![CDATA[周末吃个大席，再磨点面～]]></summary>
     </entry>
         <entry>
+        <title>通过Graph API访问特定onedrive目录</title>
+        <id>168023</id>
+        <link href="https://kegongteng.cn/blog/technology-file-selected?utm_source=blogfinder" />
+        <published>2026-08-17T16:50:00+08:00</published>
+        <author>
+            <name>Kegongteng</name>
+            <uri>https://kegongteng.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[通过Graph API访问特定onedrive目录]]></summary>
+    </entry>
+        <entry>
         <title>2026-08-17 16:45</title>
         <id>167985</id>
         <link href="https://koobai.com/laodao/2026/08/20260817-164527/?utm_source=blogfinder" />
@@ -198,6 +264,17 @@
             <uri>https://www.seis-jun.xyz/</uri>
         </author>
         <summary type="text"><![CDATA[创造点有意思的东西]]></summary>
+    </entry>
+        <entry>
+        <title>用 AI 重写了一个用了两年的 B 站直播机器人</title>
+        <id>168026</id>
+        <link href="https://hejunjie.life/blog/ce58b441?utm_source=blogfinder" />
+        <published>2026-08-17T15:51:00+08:00</published>
+        <author>
+            <name>星河避难所</name>
+            <uri>https://hejunjie.life</uri>
+        </author>
+        <summary type="text"><![CDATA[用 AI 重写了一个用了两年的 B 站直播机器人]]></summary>
     </entry>
         <entry>
         <title>AI复盘：国内网络环境、低配置，“半裸机”部署最新版Sentry？</title>
@@ -354,6 +431,17 @@
         <summary type="text"><![CDATA[Findu — 十年]]></summary>
     </entry>
         <entry>
+        <title>给博客加上了个运动记录</title>
+        <id>168248</id>
+        <link href="https://www.iliu.org/posts/blog-yundong-page/?utm_source=blogfinder" />
+        <published>2026-08-17T09:40:00+08:00</published>
+        <author>
+            <name>老刘博客</name>
+            <uri>https://www.iliu.org</uri>
+        </author>
+        <summary type="text"><![CDATA[给博客加上了个运动记录]]></summary>
+    </entry>
+        <entry>
         <title>过剩信息，剥夺我</title>
         <id>167954</id>
         <link href="https://mobius.blog/25416.html?utm_source=blogfinder" />
@@ -376,6 +464,17 @@
         <summary type="text"><![CDATA[中原大佛]]></summary>
     </entry>
         <entry>
+        <title>碎碎念一下（15），新框架新征程~</title>
+        <id>168024</id>
+        <link href="https://www.sumi233.top/posts/mouthtalk/sumi-thoughts-15/?utm_source=blogfinder" />
+        <published>2026-08-17T08:17:55+08:00</published>
+        <author>
+            <name>酥米的小站</name>
+            <uri>https://www.sumi233.top</uri>
+        </author>
+        <summary type="text"><![CDATA[碎碎念一下（15），新框架新征程~]]></summary>
+    </entry>
+        <entry>
         <title>📷 删掉百度网盘那天，我把 10 万张照片塞进了一台 800 块的小盒子</title>
         <id>167974</id>
         <link href="https://www.huluohu.com/posts/2070/?utm_source=blogfinder" />
@@ -385,6 +484,72 @@
             <uri>https://www.huluohu.com</uri>
         </author>
         <summary type="text"><![CDATA[📷 删掉百度网盘那天，我把 10 万张照片塞进了一台 800 块的小盒子]]></summary>
+    </entry>
+        <entry>
+        <title>写博客与祷告</title>
+        <id>168250</id>
+        <link href="https://www.immarcus.com/blog/blog-and-prayer?utm_source=blogfinder" />
+        <published>2026-08-17T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[写博客与祷告]]></summary>
+    </entry>
+        <entry>
+        <title>一切看起来都欣欣向荣</title>
+        <id>168249</id>
+        <link href="https://ddbzhou.com/post/yiqiekanqilaixinxinxiangrong/?utm_source=blogfinder" />
+        <published>2026-08-17T08:00:00+08:00</published>
+        <author>
+            <name>兜兜爸投资笔记</name>
+            <uri>https://ddbzhou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[一切看起来都欣欣向荣]]></summary>
+    </entry>
+        <entry>
+        <title>文章列表加了「最近更新」排序</title>
+        <id>168029</id>
+        <link href="https://detached.online/blog/%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8%E5%8A%A0%E4%BA%86%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0%E6%8E%92%E5%BA%8F/?utm_source=blogfinder" />
+        <published>2026-08-17T08:00:00+08:00</published>
+        <author>
+            <name>Detached</name>
+            <uri>https://detached.online</uri>
+        </author>
+        <summary type="text"><![CDATA[文章列表加了「最近更新」排序]]></summary>
+    </entry>
+        <entry>
+        <title>评论区头像是怎么跟着邮箱走的</title>
+        <id>168028</id>
+        <link href="https://detached.online/blog/%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%A4%B4%E5%83%8F%E6%98%AF%E6%80%8E%E4%B9%88%E8%B7%9F%E7%9D%80%E9%82%AE%E7%AE%B1%E8%B5%B0%E7%9A%84/?utm_source=blogfinder" />
+        <published>2026-08-17T08:00:00+08:00</published>
+        <author>
+            <name>Detached</name>
+            <uri>https://detached.online</uri>
+        </author>
+        <summary type="text"><![CDATA[评论区头像是怎么跟着邮箱走的]]></summary>
+    </entry>
+        <entry>
+        <title>本站可以换主题</title>
+        <id>168027</id>
+        <link href="https://detached.online/blog/%E6%9C%AC%E7%AB%99%E5%8F%AF%E4%BB%A5%E6%8D%A2%E4%B8%BB%E9%A2%98/?utm_source=blogfinder" />
+        <published>2026-08-17T08:00:00+08:00</published>
+        <author>
+            <name>Detached</name>
+            <uri>https://detached.online</uri>
+        </author>
+        <summary type="text"><![CDATA[本站可以换主题]]></summary>
+    </entry>
+        <entry>
+        <title>Termux Vibecoding: 在手机上跑 OpenCode &amp; Claude Code</title>
+        <id>168025</id>
+        <link href="https://fuwari.oh1.top/posts/Essay/termux-vibecoding/?utm_source=blogfinder" />
+        <published>2026-08-17T08:00:00+08:00</published>
+        <author>
+            <name>yCENzh&#039;s Blog</name>
+            <uri>https://fuwari.oh1.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Termux Vibecoding: 在手机上跑 OpenCode &amp; Claude Code]]></summary>
     </entry>
         <entry>
         <title>大脑充血 Vol.94</title>
@@ -429,6 +594,61 @@
             <uri>https://xiaoxi.ac.cn</uri>
         </author>
         <summary type="text"><![CDATA[关于我照片多到溢出，于是我安装了immich来拯救我的照片！]]></summary>
+    </entry>
+        <entry>
+        <title>Spider Panel：一站式 VLESS 代理面板与多地区 Cloudflare Worker 中继</title>
+        <id>168021</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-17/spider--panel/?utm_source=blogfinder" />
+        <published>2026-08-17T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Spider Panel：一站式 VLESS 代理面板与多地区 Cloudflare Worker 中继]]></summary>
+    </entry>
+        <entry>
+        <title>Skills Manager：一个 App 统一管理 52 款 AI 编程助手的 Skills</title>
+        <id>168020</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-17/skills-manager/?utm_source=blogfinder" />
+        <published>2026-08-17T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Skills Manager：一个 App 统一管理 52 款 AI 编程助手的 Skills]]></summary>
+    </entry>
+        <entry>
+        <title>Lieflat Charts：给 AI Agent 用的专业数据可视化 Skill</title>
+        <id>168019</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-17/lieflat-charts/?utm_source=blogfinder" />
+        <published>2026-08-17T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Lieflat Charts：给 AI Agent 用的专业数据可视化 Skill]]></summary>
+    </entry>
+        <entry>
+        <title>Docling Graph：将文档转化为结构化知识图谱的利器</title>
+        <id>168018</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-17/docling-graph/?utm_source=blogfinder" />
+        <published>2026-08-17T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Docling Graph：将文档转化为结构化知识图谱的利器]]></summary>
+    </entry>
+        <entry>
+        <title>awesome-gpt-image-2：GPT-Image2 工业级 Prompt 工程与模板库，520+ 反向工程案例</title>
+        <id>168017</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-17/awesome-gpt-image-2/?utm_source=blogfinder" />
+        <published>2026-08-17T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[awesome-gpt-image-2：GPT-Image2 工业级 Prompt 工程与模板库，520+ 反向工程案例]]></summary>
     </entry>
         <entry>
         <title>Internet Court Skill：为 AI Agent 经济打造的开放纠纷裁技能</title>
@@ -726,6 +946,17 @@
             <uri>https://upxuu.com</uri>
         </author>
         <summary type="text"><![CDATA[为什么upxuu 不发朋友圈]]></summary>
+    </entry>
+        <entry>
+        <title>一个独立博客的推广与收录渠道清单</title>
+        <id>168030</id>
+        <link href="https://detached.online/blog/%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2%E6%8E%A8%E5%B9%BF%E4%B8%8E%E6%94%B6%E5%BD%95%E6%B8%A0%E9%81%93%E6%B8%85%E5%8D%95/?utm_source=blogfinder" />
+        <published>2026-08-16T08:00:00+08:00</published>
+        <author>
+            <name>Detached</name>
+            <uri>https://detached.online</uri>
+        </author>
+        <summary type="text"><![CDATA[一个独立博客的推广与收录渠道清单]]></summary>
     </entry>
         <entry>
         <title>2026.08.16 博客阅读周记</title>
@@ -1166,148 +1397,5 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[中式番茄炒鸡蛋吃多了也会腻]]></summary>
-    </entry>
-        <entry>
-        <title>忙碌夏日</title>
-        <id>167649</id>
-        <link href="https://yayu.net/6237.html?utm_source=blogfinder" />
-        <published>2026-08-15T08:40:53+08:00</published>
-        <author>
-            <name>雅余</name>
-            <uri>https://yayu.net</uri>
-        </author>
-        <summary type="text"><![CDATA[忙碌夏日]]></summary>
-    </entry>
-        <entry>
-        <title>Hyper-tapping</title>
-        <id>167907</id>
-        <link href="https://www.immarcus.com/blog/hyper-tapping?utm_source=blogfinder" />
-        <published>2026-08-15T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Hyper-tapping]]></summary>
-    </entry>
-        <entry>
-        <title>科技回调+ 一周回顾</title>
-        <id>167906</id>
-        <link href="https://ddbzhou.com/post/kejihuitiao/?utm_source=blogfinder" />
-        <published>2026-08-15T08:00:00+08:00</published>
-        <author>
-            <name>兜兜爸投资笔记</name>
-            <uri>https://ddbzhou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[科技回调+ 一周回顾]]></summary>
-    </entry>
-        <entry>
-        <title>运动</title>
-        <id>167905</id>
-        <link href="https://www.iliu.org/yundong/?utm_source=blogfinder" />
-        <published>2026-08-15T08:00:00+08:00</published>
-        <author>
-            <name>老刘博客</name>
-            <uri>https://www.iliu.org</uri>
-        </author>
-        <summary type="text"><![CDATA[运动]]></summary>
-    </entry>
-        <entry>
-        <title>Python 潮流周刊#163：在浏览器上运行 Numba</title>
-        <id>167904</id>
-        <link href="https://pythoncat.top/posts/2026-08-15-weekly/?utm_source=blogfinder" />
-        <published>2026-08-15T08:00:00+08:00</published>
-        <author>
-            <name>豌豆花下猫</name>
-            <uri>https://pythoncat.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Python 潮流周刊#163：在浏览器上运行 Numba]]></summary>
-    </entry>
-        <entry>
-        <title>Farewell</title>
-        <id>167903</id>
-        <link href="https://pjwu.me/writing/farewell/?utm_source=blogfinder" />
-        <published>2026-08-15T08:00:00+08:00</published>
-        <author>
-            <name>Pin 起來</name>
-            <uri>https://pjwu.me</uri>
-        </author>
-        <summary type="text"><![CDATA[Farewell]]></summary>
-    </entry>
-        <entry>
-        <title>HSBC汇丰澳洲宣布关闭，2%返现要凉了</title>
-        <id>167664</id>
-        <link href="https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/08/15/hsbc-australia-will-close-soon-no-more-cashback.html?utm_source=blogfinder" />
-        <published>2026-08-15T08:00:00+08:00</published>
-        <author>
-            <name>Oz Explorer</name>
-            <uri>https://www.ozexplorers.com</uri>
-        </author>
-        <summary type="text"><![CDATA[HSBC汇丰澳洲宣布关闭，2%返现要凉了]]></summary>
-    </entry>
-        <entry>
-        <title>DeepSeek Harness 深度评测：两天 9 万 star 的「一切皆插件」，是未来还是过度设计？</title>
-        <id>167661</id>
-        <link href="https://justin3go.com/posts/2026/08/15-deepseek-harness-review?utm_source=blogfinder" />
-        <published>2026-08-15T08:00:00+08:00</published>
-        <author>
-            <name>Justin3go</name>
-            <uri>https://justin3go.com</uri>
-        </author>
-        <summary type="text"><![CDATA[DeepSeek Harness 深度评测：两天 9 万 star 的「一切皆插件」，是未来还是过度设计？]]></summary>
-    </entry>
-        <entry>
-        <title>操，原来我真的长大了。</title>
-        <id>167607</id>
-        <link href="https://d-d.design/single/20118?utm_source=blogfinder" />
-        <published>2026-08-15T04:09:02+08:00</published>
-        <author>
-            <name>孤斗</name>
-            <uri>https://d-d.design</uri>
-        </author>
-        <summary type="text"><![CDATA[操，原来我真的长大了。]]></summary>
-    </entry>
-        <entry>
-        <title>克兰奇杀妻案</title>
-        <id>167635</id>
-        <link href="https://re.karlbaey.top/articles/return-to-dusk/the-clench-wife-murder-case/?utm_source=blogfinder" />
-        <published>2026-08-15T03:55:33+08:00</published>
-        <author>
-            <name>Jerry Karlbaey</name>
-            <uri>https://re.karlbaey.top</uri>
-        </author>
-        <summary type="text"><![CDATA[克兰奇杀妻案]]></summary>
-    </entry>
-        <entry>
-        <title>为什么很多人在生活中不喜欢使用标准“度量衡”</title>
-        <id>167914</id>
-        <link href="https://lawtee.com/article/why-we-resist-standard-measurements/?utm_source=blogfinder" />
-        <published>2026-08-15T03:30:00+08:00</published>
-        <author>
-            <name>老 T 博客</name>
-            <uri>https://lawtee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么很多人在生活中不喜欢使用标准“度量衡”]]></summary>
-    </entry>
-        <entry>
-        <title>随思 #111 - 2026-08-14</title>
-        <id>167619</id>
-        <link href="http://qthinker.net/content/111?utm_source=blogfinder" />
-        <published>2026-08-15T00:44:25+08:00</published>
-        <author>
-            <name>Qthinker</name>
-            <uri>https://qthinker.net</uri>
-        </author>
-        <summary type="text"><![CDATA[随思 #111 - 2026-08-14]]></summary>
-    </entry>
-        <entry>
-        <title>乌鲁木齐到沈阳的火车旅行</title>
-        <id>167573</id>
-        <link href="https://fravilion.top/index.php/archives/317/?utm_source=blogfinder" />
-        <published>2026-08-15T00:03:00+08:00</published>
-        <author>
-            <name>楼船</name>
-            <uri>https://fravilion.top</uri>
-        </author>
-        <summary type="text"><![CDATA[乌鲁木齐到沈阳的火车旅行]]></summary>
     </entry>
     </feed>
