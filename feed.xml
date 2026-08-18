@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-18T23:07:05+08:00</updated>
+    <updated>2026-08-19T00:02:33+08:00</updated>
+        <entry>
+        <title>不该露怯的人</title>
+        <id>168297</id>
+        <link href="https://blog.solazy.me/20260818/?utm_source=blogfinder" />
+        <published>2026-08-18T22:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[不该露怯的人]]></summary>
+    </entry>
         <entry>
         <title>不用AI生成图片了，unsplash真香</title>
         <id>168290</id>
@@ -79,6 +90,17 @@
         <summary type="text"><![CDATA[关于情绪]]></summary>
     </entry>
         <entry>
+        <title>不用框架，200 行 Python 实现一个支持热更新的 MCP Tool Server</title>
+        <id>168296</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/140.html?utm_source=blogfinder" />
+        <published>2026-08-18T18:17:37+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[不用框架，200 行 Python 实现一个支持热更新的 MCP Tool Server]]></summary>
+    </entry>
+        <entry>
         <title>我的帽子哪去了？</title>
         <id>168277</id>
         <link href="https://www.suiyan.cc/blog/20260818181408?utm_source=blogfinder" />
@@ -110,6 +132,17 @@
             <uri>https://chenbozheng.com</uri>
         </author>
         <summary type="text"><![CDATA[老人蹭空调、”清障哥”补路：当社会保障缺位，善意和体面谁来兜底？]]></summary>
+    </entry>
+        <entry>
+        <title>从七千到两千万：《牛来》爆火，不是电影好看，只是全网玩梗的闹剧</title>
+        <id>168299</id>
+        <link href="https://zhujay.com/blog/blog_detail.html?id=1272&amp;utm_source=blogfinder" />
+        <published>2026-08-18T15:40:11+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[从七千到两千万：《牛来》爆火，不是电影好看，只是全网玩梗的闹剧]]></summary>
     </entry>
         <entry>
         <title>VRChat杂谈(其二)：前方的路</title>
@@ -222,6 +255,17 @@
         <summary type="text"><![CDATA[门缝]]></summary>
     </entry>
         <entry>
+        <title>用山狗A11拍延时</title>
+        <id>168300</id>
+        <link href="https://zhujay.com/talk/talk_detail.html?id=1271&amp;utm_source=blogfinder" />
+        <published>2026-08-18T09:05:43+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[用山狗A11拍延时]]></summary>
+    </entry>
+        <entry>
         <title>旧忆今拾</title>
         <id>168260</id>
         <link href="https://xingwangzhe.fun/posts/old-memories-revisited/?utm_source=blogfinder" />
@@ -275,6 +319,17 @@
             <uri>http://www.xulog.cn</uri>
         </author>
         <summary type="text"><![CDATA[尧山漂流]]></summary>
+    </entry>
+        <entry>
+        <title>李白写&quot;汉家陵阙&quot;时，那些早塌了，只剩这几座...</title>
+        <id>168295</id>
+        <link href="https://macin.org/2026/08/17/qu-xian-han-que/?utm_source=blogfinder" />
+        <published>2026-08-18T07:37:38+08:00</published>
+        <author>
+            <name>Macin&#039;s Blog</name>
+            <uri>https://macin.org</uri>
+        </author>
+        <summary type="text"><![CDATA[李白写&quot;汉家陵阙&quot;时，那些早塌了，只剩这几座...]]></summary>
     </entry>
         <entry>
         <title>每日早报 · 2026-08-18</title>
@@ -352,6 +407,17 @@
             <uri>https://ezo.biz</uri>
         </author>
         <summary type="text"><![CDATA[尝试用手机写作]]></summary>
+    </entry>
+        <entry>
+        <title>有些事情没有答案，只有选择</title>
+        <id>168298</id>
+        <link href="https://blog.solazy.me/20260817/?utm_source=blogfinder" />
+        <published>2026-08-17T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[有些事情没有答案，只有选择]]></summary>
     </entry>
         <entry>
         <title>2026年7月房地产数据</title>
@@ -1408,126 +1474,5 @@
             <uri>https://ilogs.cn</uri>
         </author>
         <summary type="text"><![CDATA[说说]]></summary>
-    </entry>
-        <entry>
-        <title>说人话：一个专治中文 AI 腔的开源 skill</title>
-        <id>167945</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-16/shuorenhua/?utm_source=blogfinder" />
-        <published>2026-08-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[说人话：一个专治中文 AI 腔的开源 skill]]></summary>
-    </entry>
-        <entry>
-        <title>OpenSandbox 开源解读：面向 AI 应用的通用沙箱平台，多语言 SDK 与 K8s 大规模调度</title>
-        <id>167944</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-16/opensandbox/?utm_source=blogfinder" />
-        <published>2026-08-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenSandbox 开源解读：面向 AI 应用的通用沙箱平台，多语言 SDK 与 K8s 大规模调度]]></summary>
-    </entry>
-        <entry>
-        <title>ChartGPU：一个基于 WebGPU 的高性能图表渲染库</title>
-        <id>167943</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-16/chartgpu/?utm_source=blogfinder" />
-        <published>2026-08-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[ChartGPU：一个基于 WebGPU 的高性能图表渲染库]]></summary>
-    </entry>
-        <entry>
-        <title>Awesome Free Models：325+ 免费AI模型、API与工具完全指南</title>
-        <id>167942</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-16/awesome-free-models/?utm_source=blogfinder" />
-        <published>2026-08-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Awesome Free Models：325+ 免费AI模型、API与工具完全指南]]></summary>
-    </entry>
-        <entry>
-        <title>Mole 出 Mac 版后，用户教会了我做产品</title>
-        <id>167940</id>
-        <link href="https://tw93.fun/2026-08-16/mole-mac.html?utm_source=blogfinder" />
-        <published>2026-08-16T00:00:00+08:00</published>
-        <author>
-            <name>Tw93</name>
-            <uri>https://tw93.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[Mole 出 Mac 版后，用户教会了我做产品]]></summary>
-    </entry>
-        <entry>
-        <title>Soup：一条命令微调大模型，告别配置地狱</title>
-        <id>167652</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-16/soup/?utm_source=blogfinder" />
-        <published>2026-08-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Soup：一条命令微调大模型，告别配置地狱]]></summary>
-    </entry>
-        <entry>
-        <title>public-apis：开发者必备的免费公共 API 大全集</title>
-        <id>167651</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-16/public-apis/?utm_source=blogfinder" />
-        <published>2026-08-16T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[public-apis：开发者必备的免费公共 API 大全集]]></summary>
-    </entry>
-        <entry>
-        <title>松声｜廿六年·八月中·秋意近</title>
-        <id>167902</id>
-        <link href="https://xyzbz.cn/archives/1565/?utm_source=blogfinder" />
-        <published>2026-08-15T23:59:00+08:00</published>
-        <author>
-            <name>网友小宋</name>
-            <uri>https://xyzbz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[松声｜廿六年·八月中·秋意近]]></summary>
-    </entry>
-        <entry>
-        <title>我的世界一直下雨</title>
-        <id>167645</id>
-        <link href="https://www.geedea.pro/article/rain-never-stop/?utm_source=blogfinder" />
-        <published>2026-08-15T23:42:09+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[我的世界一直下雨]]></summary>
-    </entry>
-        <entry>
-        <title>重启 Kindle</title>
-        <id>167926</id>
-        <link href="https://ezo.biz/Diary/kindle.html?utm_source=blogfinder" />
-        <published>2026-08-15T23:40:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[重启 Kindle]]></summary>
-    </entry>
-        <entry>
-        <title>居家流水账——第一天</title>
-        <id>167916</id>
-        <link href="https://hulatu.com/posts/2026/08/15/home-diary-1/?utm_source=blogfinder" />
-        <published>2026-08-15T23:17:25+08:00</published>
-        <author>
-            <name>胡拉图说</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[居家流水账——第一天]]></summary>
     </entry>
     </feed>
