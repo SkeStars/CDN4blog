@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-18T12:20:03+08:00</updated>
+    <updated>2026-08-18T13:04:34+08:00</updated>
         <entry>
         <title>Bing搜索site:指令失灵了？</title>
         <id>168257</id>
@@ -319,6 +319,17 @@
             <uri>https://blog.lichenghao.cn</uri>
         </author>
         <summary type="text"><![CDATA[周末吃个大席，再磨点面～]]></summary>
+    </entry>
+        <entry>
+        <title>人生的意義（2026）</title>
+        <id>168265</id>
+        <link href="https://blog.giveanornot.com/the-meaning-of-life-2026/?utm_source=blogfinder" />
+        <published>2026-08-17T16:56:33+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[人生的意義（2026）]]></summary>
     </entry>
         <entry>
         <title>通过Graph API访问特定onedrive目录</title>
@@ -1452,16 +1463,5 @@
             <uri>https://blog.ooliver.cn</uri>
         </author>
         <summary type="text"><![CDATA[ZR 集训 Day30 – 模拟赛]]></summary>
-    </entry>
-        <entry>
-        <title>居住小区发生一起火灾，房屋浓烟滚滚</title>
-        <id>167632</id>
-        <link href="https://www.aiwazi.com/3356.html?utm_source=blogfinder" />
-        <published>2026-08-15T12:58:17+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[居住小区发生一起火灾，房屋浓烟滚滚]]></summary>
     </entry>
     </feed>
