@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-18T13:04:34+08:00</updated>
+    <updated>2026-08-18T15:00:22+08:00</updated>
         <entry>
         <title>Bing搜索site:指令失灵了？</title>
         <id>168257</id>
@@ -187,6 +187,17 @@
             <uri>https://blog.52hyjs.com</uri>
         </author>
         <summary type="text"><![CDATA[入坑记录｜影石 Ace Pro 2 街拍套餐（单电池版），纠结半月，24 期分期拿下]]></summary>
+    </entry>
+        <entry>
+        <title>张策的短视频创作课笔记</title>
+        <id>168267</id>
+        <link href="https://www.0731119.xyz/index.php/archives/549/?utm_source=blogfinder" />
+        <published>2026-08-17T22:12:54+08:00</published>
+        <author>
+            <name>多星宇博客</name>
+            <uri>http://www.0731119.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[张策的短视频创作课笔记]]></summary>
     </entry>
         <entry>
         <title>听劝，《硕博矿工》新增动态的恋爱状态，可谈可分常延毕（坏笑.jpg）</title>
@@ -1419,49 +1430,5 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[诺兰的《奥德赛》采取了什么样的改编策略？]]></summary>
-    </entry>
-        <entry>
-        <title>杂谈安全 - 《兔死狗烹之无患可除：当安全开始证明自己的存在》</title>
-        <id>167636</id>
-        <link href="https://www.impdx.vip/archives/tu-si-gou-peng-zhi-wu-huan-ke-chu-dang-an-quan-kai-shi-zheng-ming-zi-ji-de-cun-zai?utm_source=blogfinder" />
-        <published>2026-08-15T14:57:55+08:00</published>
-        <author>
-            <name>impdx</name>
-            <uri>https://www.impdx.vip</uri>
-        </author>
-        <summary type="text"><![CDATA[杂谈安全 - 《兔死狗烹之无患可除：当安全开始证明自己的存在》]]></summary>
-    </entry>
-        <entry>
-        <title>聊聊郭刚</title>
-        <id>167663</id>
-        <link href="https://blog.lhasa.icu/posts/life/2026-08-15-cultural-revolution-2/?utm_source=blogfinder" />
-        <published>2026-08-15T14:20:00+08:00</published>
-        <author>
-            <name>游钓四方的博客</name>
-            <uri>https://blog.lhasa.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[聊聊郭刚]]></summary>
-    </entry>
-        <entry>
-        <title>用 ISBN 找书：这个小工具怎么用</title>
-        <id>167647</id>
-        <link href="https://xiaoxi.ac.cn/post/202608152825?utm_source=blogfinder" />
-        <published>2026-08-15T14:08:00+08:00</published>
-        <author>
-            <name>小曦的园子</name>
-            <uri>https://xiaoxi.ac.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[用 ISBN 找书：这个小工具怎么用]]></summary>
-    </entry>
-        <entry>
-        <title>ZR 集训 Day30 – 模拟赛</title>
-        <id>167629</id>
-        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day30-%e6%a8%a1%e6%8b%9f%e8%b5%9b/?utm_source=blogfinder" />
-        <published>2026-08-15T13:57:54+08:00</published>
-        <author>
-            <name>ooliver 的博客</name>
-            <uri>https://blog.ooliver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[ZR 集训 Day30 – 模拟赛]]></summary>
     </entry>
     </feed>
