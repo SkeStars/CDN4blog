@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-18T16:02:03+08:00</updated>
+    <updated>2026-08-18T17:05:33+08:00</updated>
         <entry>
         <title>Bing搜索site:指令失灵了？</title>
         <id>168257</id>
@@ -110,6 +110,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[极具江南特色的乌镇一日游]]></summary>
+    </entry>
+        <entry>
+        <title>GitHub 突发大规模宕机，核心服务均受影响</title>
+        <id>168268</id>
+        <link href="https://blog.xrbk.cn/post/102.html?utm_source=blogfinder" />
+        <published>2026-08-18T00:09:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://blog.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[GitHub 突发大规模宕机，核心服务均受影响]]></summary>
     </entry>
         <entry>
         <title>NautilusTrader：一款 Rust 原生生产级多资产交易引擎</title>
@@ -1386,27 +1397,5 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[15元买的爱国者有线耳机居然有HiFi，音质比296元的vivo蓝牙耳机好太多了]]></summary>
-    </entry>
-        <entry>
-        <title>关于游戏</title>
-        <id>167644</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-15-about-playing-game.html?utm_source=blogfinder" />
-        <published>2026-08-15T16:58:57+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[关于游戏]]></summary>
-    </entry>
-        <entry>
-        <title>两位沉浸在自己世界里的‘文学大师’</title>
-        <id>167634</id>
-        <link href="https://www.pgoj.top/archives/wei-wen-xue-da-shi.html?utm_source=blogfinder" />
-        <published>2026-08-15T16:11:46+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[两位沉浸在自己世界里的‘文学大师’]]></summary>
     </entry>
     </feed>
