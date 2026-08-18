@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-18T11:04:14+08:00</updated>
+    <updated>2026-08-18T12:20:03+08:00</updated>
         <entry>
         <title>Bing搜索site:指令失灵了？</title>
         <id>168257</id>
@@ -46,6 +46,17 @@
         <summary type="text"><![CDATA[门缝]]></summary>
     </entry>
         <entry>
+        <title>旧忆今拾</title>
+        <id>168260</id>
+        <link href="https://xingwangzhe.fun/posts/old-memories-revisited/?utm_source=blogfinder" />
+        <published>2026-08-18T08:40:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[旧忆今拾]]></summary>
+    </entry>
+        <entry>
         <title>💻 TeamViewer 又弹&quot;疑似商用&quot;？我把 12 万星开源远控装上了自家服务器</title>
         <id>168247</id>
         <link href="https://www.huluohu.com/posts/2076/?utm_source=blogfinder" />
@@ -77,6 +88,17 @@
             <uri>http://www.xulog.cn</uri>
         </author>
         <summary type="text"><![CDATA[尧山漂流]]></summary>
+    </entry>
+        <entry>
+        <title>每日早报 · 2026-08-18</title>
+        <id>168262</id>
+        <link href="https://www.lifd.site/2026/08/mei-ri-zao-bao-20260818/?utm_source=blogfinder" />
+        <published>2026-08-18T07:30:02+08:00</published>
+        <author>
+            <name>LiFD</name>
+            <uri>https://www.lifd.site</uri>
+        </author>
+        <summary type="text"><![CDATA[每日早报 · 2026-08-18]]></summary>
     </entry>
         <entry>
         <title>极具江南特色的乌镇一日游</title>
@@ -132,6 +154,17 @@
             <uri>https://joojen.com</uri>
         </author>
         <summary type="text"><![CDATA[终于找到了那个词——备忘录]]></summary>
+    </entry>
+        <entry>
+        <title>在Linux使用游戏修改器折腾记录</title>
+        <id>168261</id>
+        <link href="https://www.nekopara.uk/archives/Use_Game_Trainer_on_Linux.html?utm_source=blogfinder" />
+        <published>2026-08-17T22:33:00+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[在Linux使用游戏修改器折腾记录]]></summary>
     </entry>
         <entry>
         <title>居家流水账-第三天</title>
@@ -255,6 +288,17 @@
         <summary type="text"><![CDATA[「说说」lcrworld 和 lcr99 喵～]]></summary>
     </entry>
         <entry>
+        <title>DeepSeek 涨价后，业余个人开发者的 API 成本开始肉疼了</title>
+        <id>168259</id>
+        <link href="https://www.tjsky.net/natter/1785?utm_source=blogfinder" />
+        <published>2026-08-17T18:16:03+08:00</published>
+        <author>
+            <name>秋风于渭水</name>
+            <uri>https://www.tjsky.net</uri>
+        </author>
+        <summary type="text"><![CDATA[DeepSeek 涨价后，业余个人开发者的 API 成本开始肉疼了]]></summary>
+    </entry>
+        <entry>
         <title>哇咔财务管家，正式上架 Apple Store 啦</title>
         <id>167992</id>
         <link href="https://blog.ops-coffee.com/fire/wakaka-finance-app-listed-app-store.html?utm_source=blogfinder" />
@@ -341,6 +385,17 @@
             <uri>https://hejunjie.life</uri>
         </author>
         <summary type="text"><![CDATA[用 AI 重写了一个用了两年的 B 站直播机器人]]></summary>
+    </entry>
+        <entry>
+        <title>论我是怎么活到这么大的</title>
+        <id>168263</id>
+        <link href="https://upxuu.com/posts/mingda/?utm_source=blogfinder" />
+        <published>2026-08-17T14:50:23+08:00</published>
+        <author>
+            <name>UpXuu&#039;s blog</name>
+            <uri>https://upxuu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[论我是怎么活到这么大的]]></summary>
     </entry>
         <entry>
         <title>AI复盘：国内网络环境、低配置，“半裸机”部署最新版Sentry？</title>
@@ -1408,38 +1463,5 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[居住小区发生一起火灾，房屋浓烟滚滚]]></summary>
-    </entry>
-        <entry>
-        <title>杂谈-《兔死狗烹》我们真的希望威胁彻底消失吗？</title>
-        <id>167637</id>
-        <link href="https://www.impdx.vip/archives/aqzt-tsgp1?utm_source=blogfinder" />
-        <published>2026-08-15T12:14:15+08:00</published>
-        <author>
-            <name>impdx</name>
-            <uri>https://www.impdx.vip</uri>
-        </author>
-        <summary type="text"><![CDATA[杂谈-《兔死狗烹》我们真的希望威胁彻底消失吗？]]></summary>
-    </entry>
-        <entry>
-        <title>向云端｜西南自驾10 - 下司</title>
-        <id>167618</id>
-        <link href="https://blog.ops-coffee.com/r/2026-southwest-road-trip-10-xiasi.html?utm_source=blogfinder" />
-        <published>2026-08-15T12:09:46+08:00</published>
-        <author>
-            <name>运维咖啡吧</name>
-            <uri>https://blog.ops-coffee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[向云端｜西南自驾10 - 下司]]></summary>
-    </entry>
-        <entry>
-        <title>1998，游戏厅外的世界</title>
-        <id>167639</id>
-        <link href="https://www.tortorse.com/archives/the-world-outside-the-arcade-1998/?utm_source=blogfinder" />
-        <published>2026-08-15T11:29:04+08:00</published>
-        <author>
-            <name>愆伏</name>
-            <uri>https://www.tortorse.com</uri>
-        </author>
-        <summary type="text"><![CDATA[1998，游戏厅外的世界]]></summary>
     </entry>
     </feed>
