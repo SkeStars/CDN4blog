@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-19T15:00:25+08:00</updated>
+    <updated>2026-08-19T16:01:32+08:00</updated>
+        <entry>
+        <title>我的ARM服务器直接被甲骨文停了！</title>
+        <id>168374</id>
+        <link href="https://wuqishi.com/archives/fuck-oracle-arm?utm_source=blogfinder" />
+        <published>2026-08-19T15:37:04+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我的ARM服务器直接被甲骨文停了！]]></summary>
+    </entry>
         <entry>
         <title>解决雪花算法ID传到前端丢失精度问题</title>
         <id>168372</id>
@@ -1738,16 +1749,5 @@
             <uri>https://zeeko.dev</uri>
         </author>
         <summary type="text"><![CDATA[用 Zig 实现一个简单的任务队列]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记（20260801-07）一、概况</title>
-        <id>167930</id>
-        <link href="http://stuit.cn/Xiaolu/Post/1626.html?utm_source=blogfinder" />
-        <published>2026-08-16T15:23:50+08:00</published>
-        <author>
-            <name>风雨行者</name>
-            <uri>http://stuit.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记（20260801-07）一、概况]]></summary>
     </entry>
     </feed>
