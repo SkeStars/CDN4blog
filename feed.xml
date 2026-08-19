@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-19T12:01:39+08:00</updated>
+    <updated>2026-08-19T13:06:22+08:00</updated>
         <entry>
         <title>忌交易！！！</title>
         <id>168368</id>
@@ -22,6 +22,28 @@
             <uri>https://www.lifd.site</uri>
         </author>
         <summary type="text"><![CDATA[忌交易！！！]]></summary>
+    </entry>
+        <entry>
+        <title>我的博客更新与优化记录</title>
+        <id>168370</id>
+        <link href="https://wonse.info/ai-youhua-blog.html?utm_source=blogfinder" />
+        <published>2026-08-19T11:14:00+08:00</published>
+        <author>
+            <name>王鑫的小屋</name>
+            <uri>https://wonse.info</uri>
+        </author>
+        <summary type="text"><![CDATA[我的博客更新与优化记录]]></summary>
+    </entry>
+        <entry>
+        <title>休息日逛下城</title>
+        <id>168371</id>
+        <link href="https://blog.cytrogen.icu/posts/ed86.html?utm_source=blogfinder" />
+        <published>2026-08-19T11:13:55+08:00</published>
+        <author>
+            <name>Cytrogen&#039;s Blog</name>
+            <uri>https://blog.cytrogen.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[休息日逛下城]]></summary>
     </entry>
         <entry>
         <title>蟹钳比手机大</title>
@@ -1727,38 +1749,5 @@
             <uri>https://sheep5.net</uri>
         </author>
         <summary type="text"><![CDATA[为什么我说Hermes对普通人暂时没什么用]]></summary>
-    </entry>
-        <entry>
-        <title>塘朗山深云瀑布打卡</title>
-        <id>167924</id>
-        <link href="https://pinlyu.com/life/shenyun-waterfall/?utm_source=blogfinder" />
-        <published>2026-08-16T12:49:36+08:00</published>
-        <author>
-            <name>频率</name>
-            <uri>https://pinlyu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[塘朗山深云瀑布打卡]]></summary>
-    </entry>
-        <entry>
-        <title>给所有 Agent 加一层共享记忆</title>
-        <id>167938</id>
-        <link href="https://scottyeung.top/2026/shared-agent-memory/?utm_source=blogfinder" />
-        <published>2026-08-16T12:47:51+08:00</published>
-        <author>
-            <name>YeungYeah 的乱写地</name>
-            <uri>https://scottyeung.top</uri>
-        </author>
-        <summary type="text"><![CDATA[给所有 Agent 加一层共享记忆]]></summary>
-    </entry>
-        <entry>
-        <title>小陶新开发的摸鱼游戏《硕博矿工》：在科研矿山里挖出你的毕业之路，但别让头发和心态先崩</title>
-        <id>167921</id>
-        <link href="https://www.52txr.cn/2026/sbkg.html?utm_source=blogfinder" />
-        <published>2026-08-16T12:30:00+08:00</published>
-        <author>
-            <name>陶小桃</name>
-            <uri>https://www.52txr.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[小陶新开发的摸鱼游戏《硕博矿工》：在科研矿山里挖出你的毕业之路，但别让头发和心态先崩]]></summary>
     </entry>
     </feed>
