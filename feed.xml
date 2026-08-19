@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-19T11:01:20+08:00</updated>
+    <updated>2026-08-19T12:01:39+08:00</updated>
+        <entry>
+        <title>忌交易！！！</title>
+        <id>168368</id>
+        <link href="https://www.lifd.site/2026/08/ji-jiao-yi/?utm_source=blogfinder" />
+        <published>2026-08-19T11:44:11+08:00</published>
+        <author>
+            <name>LiFD</name>
+            <uri>https://www.lifd.site</uri>
+        </author>
+        <summary type="text"><![CDATA[忌交易！！！]]></summary>
+    </entry>
         <entry>
         <title>蟹钳比手机大</title>
         <id>168361</id>
@@ -44,6 +55,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[房主任塌人筑房]]></summary>
+    </entry>
+        <entry>
+        <title>最近我又开始喜欢上 X 了</title>
+        <id>168369</id>
+        <link href="https://sheep5.net/archives/404?utm_source=blogfinder" />
+        <published>2026-08-19T09:14:20+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[最近我又开始喜欢上 X 了]]></summary>
     </entry>
         <entry>
         <title>向阿里云要饭失败</title>
@@ -132,6 +154,17 @@
             <uri>https://www.seis-jun.xyz/</uri>
         </author>
         <summary type="text"><![CDATA[我的生活观念]]></summary>
+    </entry>
+        <entry>
+        <title>《向山进发》巡礼·富士山吉田线</title>
+        <id>168366</id>
+        <link href="https://champhoon.xyz/log/yamanosusume-mount-fuji-a/?utm_source=blogfinder" />
+        <published>2026-08-18T23:01:00+08:00</published>
+        <author>
+            <name>澄沨的漫游茶记</name>
+            <uri>https://champhoon.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[《向山进发》巡礼·富士山吉田线]]></summary>
     </entry>
         <entry>
         <title>不该露怯的人</title>
@@ -242,6 +275,17 @@
             <uri>https://www.seis-jun.xyz/</uri>
         </author>
         <summary type="text"><![CDATA[关于情绪]]></summary>
+    </entry>
+        <entry>
+        <title>宝塔面板升级 13.0.0 后 Nginx 免费防火墙全是 undefined？替换两个文件就好</title>
+        <id>168367</id>
+        <link href="https://www.tjsky.net/tutorial/1792?utm_source=blogfinder" />
+        <published>2026-08-18T18:18:06+08:00</published>
+        <author>
+            <name>秋风于渭水</name>
+            <uri>https://www.tjsky.net</uri>
+        </author>
+        <summary type="text"><![CDATA[宝塔面板升级 13.0.0 后 Nginx 免费防火墙全是 undefined？替换两个文件就好]]></summary>
     </entry>
         <entry>
         <title>不用框架，200 行 Python 实现一个支持热更新的 MCP Tool Server</title>
