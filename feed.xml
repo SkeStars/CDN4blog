@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-19T16:01:32+08:00</updated>
+    <updated>2026-08-19T17:01:18+08:00</updated>
+        <entry>
+        <title>七夕快乐</title>
+        <id>168378</id>
+        <link href="https://zhongxiaojie.cn/2026/08/1751/?utm_source=blogfinder" />
+        <published>2026-08-19T16:48:58+08:00</published>
+        <author>
+            <name>obaby 𝐢‍𝐧⃝  void</name>
+            <uri>https://oba.by</uri>
+        </author>
+        <summary type="text"><![CDATA[七夕快乐]]></summary>
+    </entry>
         <entry>
         <title>我的ARM服务器直接被甲骨文停了！</title>
         <id>168374</id>
@@ -33,6 +44,28 @@
             <uri>https://www.tinsur.cn</uri>
         </author>
         <summary type="text"><![CDATA[解决雪花算法ID传到前端丢失精度问题]]></summary>
+    </entry>
+        <entry>
+        <title>分享一下博客的全新聚合搜索</title>
+        <id>168375</id>
+        <link href="https://blog.zhheo.com/p/mgii3qy1.html?utm_source=blogfinder" />
+        <published>2026-08-19T13:55:39+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[分享一下博客的全新聚合搜索]]></summary>
+    </entry>
+        <entry>
+        <title>是否有些地方不怎么看重升学宴</title>
+        <id>168377</id>
+        <link href="https://www.pgoj.top/archives/gao-kao-sheng-xue-yan.html?utm_source=blogfinder" />
+        <published>2026-08-19T13:54:01+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[是否有些地方不怎么看重升学宴]]></summary>
     </entry>
         <entry>
         <title>碎片动态 2026-08-19</title>
@@ -1103,6 +1136,17 @@
     </entry>
         <entry>
         <title>《最大的公平》</title>
+        <id>168376</id>
+        <link href="https://www.weiwenchao.com./2776.html?utm_source=blogfinder" />
+        <published>2026-08-17T16:11:00+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《最大的公平》]]></summary>
+    </entry>
+        <entry>
+        <title>《最大的公平》</title>
         <id>167975</id>
         <link href="https://www.weiwenchao.com/2776.html?utm_source=blogfinder" />
         <published>2026-08-17T16:11:00+08:00</published>
@@ -1705,49 +1749,5 @@
             <uri>https://chegva.com</uri>
         </author>
         <summary type="text"><![CDATA[Spring Cloud Gateway 和 Nginx 网关代理 WebSocket 路由配置]]></summary>
-    </entry>
-        <entry>
-        <title>给领导写汇报的 AI Skill</title>
-        <id>167925</id>
-        <link href="https://www.sunzhongwei.com/report-ai-skills?utm_source=blogfinder" />
-        <published>2026-08-16T16:55:26+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[给领导写汇报的 AI Skill]]></summary>
-    </entry>
-        <entry>
-        <title>为什么有些人的钱，总是被掠夺？</title>
-        <id>167929</id>
-        <link href="https://www.dengxiaokang.com/1512/?utm_source=blogfinder" />
-        <published>2026-08-16T16:45:51+08:00</published>
-        <author>
-            <name>菜心言</name>
-            <uri>https://www.dengxiaokang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么有些人的钱，总是被掠夺？]]></summary>
-    </entry>
-        <entry>
-        <title>雾里看花，半熟恋人</title>
-        <id>167965</id>
-        <link href="https://blog.xulihang.me/grown-up-love/?utm_source=blogfinder" />
-        <published>2026-08-16T16:35:50+08:00</published>
-        <author>
-            <name>xulihang&#039;s blog</name>
-            <uri>https://blog.xulihang.me</uri>
-        </author>
-        <summary type="text"><![CDATA[雾里看花，半熟恋人]]></summary>
-    </entry>
-        <entry>
-        <title>用 Zig 实现一个简单的任务队列</title>
-        <id>167939</id>
-        <link href="https://zeeko.dev/2026/08/write-a-task-queue-in-zig/?utm_source=blogfinder" />
-        <published>2026-08-16T16:21:10+08:00</published>
-        <author>
-            <name>网上冲浪指南</name>
-            <uri>https://zeeko.dev</uri>
-        </author>
-        <summary type="text"><![CDATA[用 Zig 实现一个简单的任务队列]]></summary>
     </entry>
     </feed>
