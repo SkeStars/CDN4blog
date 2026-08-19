@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-19T22:07:16+08:00</updated>
+    <updated>2026-08-19T23:07:28+08:00</updated>
         <entry>
         <title>【读书记1709】李山《诗经：人间至美是真情》</title>
         <id>168390</id>
@@ -88,6 +88,17 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[Toots 432 2026 Aug.9 - Aug.15]]></summary>
+    </entry>
+        <entry>
+        <title>关于关系</title>
+        <id>168393</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-08-19-about-relationship.html?utm_source=blogfinder" />
+        <published>2026-08-19T18:58:26+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[关于关系]]></summary>
     </entry>
         <entry>
         <title>七夕快乐</title>
@@ -242,6 +253,17 @@
             <uri>https://me.xu19.com</uri>
         </author>
         <summary type="text"><![CDATA[蟹钳比手机大]]></summary>
+    </entry>
+        <entry>
+        <title>出光机油粗测</title>
+        <id>168392</id>
+        <link href="https://ezo.biz/Play_More/1589.html?utm_source=blogfinder" />
+        <published>2026-08-19T10:29:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[出光机油粗测]]></summary>
     </entry>
         <entry>
         <title>矿产买卖与石方开挖竞合下的争议解析</title>
@@ -1760,38 +1782,5 @@
             <uri>https://nicksxs.me</uri>
         </author>
         <summary type="text"><![CDATA[让chatgpt来给我讲解下deepseek harness的插件体系]]></summary>
-    </entry>
-        <entry>
-        <title>暑假里的一个月，我都去干什么了？</title>
-        <id>167949</id>
-        <link href="https://blog.224418.xyz/posts/ca766f9d/?utm_source=blogfinder" />
-        <published>2026-08-16T23:06:12+08:00</published>
-        <author>
-            <name>傥师妹的小空间</name>
-            <uri>https://blog.224418.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[暑假里的一个月，我都去干什么了？]]></summary>
-    </entry>
-        <entry>
-        <title>放弃自证的减负感</title>
-        <id>168010</id>
-        <link href="https://blog.solazy.me/20260816/?utm_source=blogfinder" />
-        <published>2026-08-16T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[放弃自证的减负感]]></summary>
-    </entry>
-        <entry>
-        <title>文章如何同步到 WordPress</title>
-        <id>167935</id>
-        <link href="https://yesreho.com/how-to-sync-articles-to-wordpress/?utm_source=blogfinder" />
-        <published>2026-08-16T22:35:22+08:00</published>
-        <author>
-            <name>LookLeap</name>
-            <uri>https://yesreho.com</uri>
-        </author>
-        <summary type="text"><![CDATA[文章如何同步到 WordPress]]></summary>
     </entry>
     </feed>
