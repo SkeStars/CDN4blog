@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-19T19:02:06+08:00</updated>
+    <updated>2026-08-19T21:00:19+08:00</updated>
         <entry>
         <title>七夕快乐</title>
         <id>168378</id>
@@ -99,6 +99,17 @@
             <uri>https://sigge.cn</uri>
         </author>
         <summary type="text"><![CDATA[碎片动态 2026-08-19]]></summary>
+    </entry>
+        <entry>
+        <title>生活在字典树上 —— 存储和匹配海量的域名和 IP 地址</title>
+        <id>168383</id>
+        <link href="https://blog.skk.moe/post/how-to-store-way-too-many-domains-and-ips-101/?utm_source=blogfinder" />
+        <published>2026-08-19T12:00:00+08:00</published>
+        <author>
+            <name>Sukka</name>
+            <uri>https://blog.skk.moe</uri>
+        </author>
+        <summary type="text"><![CDATA[生活在字典树上 —— 存储和匹配海量的域名和 IP 地址]]></summary>
     </entry>
         <entry>
         <title>评论系统即将更换</title>
@@ -220,6 +231,17 @@
             <uri>https://www.chenrui.com</uri>
         </author>
         <summary type="text"><![CDATA[天不设牢]]></summary>
+    </entry>
+        <entry>
+        <title>Sweep LLM 功耗控制调度策略研究(一)</title>
+        <id>168382</id>
+        <link href="https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-yi?utm_source=blogfinder" />
+        <published>2026-08-19T04:28:00+08:00</published>
+        <author>
+            <name>司云有崖</name>
+            <uri>https://eduardoqian.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Sweep LLM 功耗控制调度策略研究(一)]]></summary>
     </entry>
         <entry>
         <title>瑶族长鼓和井头湾村</title>
@@ -1716,60 +1738,5 @@
             <uri>https://kaix.in</uri>
         </author>
         <summary type="text"><![CDATA[什么是真正的痛苦]]></summary>
-    </entry>
-        <entry>
-        <title>三个月首保</title>
-        <id>167931</id>
-        <link href="https://hjyl.org/geely-first-maintenance/?utm_source=blogfinder" />
-        <published>2026-08-16T20:48:15+08:00</published>
-        <author>
-            <name>皇家元林</name>
-            <uri>https://hjyl.org</uri>
-        </author>
-        <summary type="text"><![CDATA[三个月首保]]></summary>
-    </entry>
-        <entry>
-        <title>公共游戏的典范：纪念贾君鹏君</title>
-        <id>168251</id>
-        <link href="http://weiwuhui.com/11070.html?utm_source=blogfinder" />
-        <published>2026-08-16T20:31:21+08:00</published>
-        <author>
-            <name>扯氮集</name>
-            <uri>http://weiwuhui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[公共游戏的典范：纪念贾君鹏君]]></summary>
-    </entry>
-        <entry>
-        <title>AI做网站之114工具箱</title>
-        <id>167966</id>
-        <link href="https://wonse.info/114-tools.html?utm_source=blogfinder" />
-        <published>2026-08-16T20:27:00+08:00</published>
-        <author>
-            <name>王鑫的小屋</name>
-            <uri>https://wonse.info</uri>
-        </author>
-        <summary type="text"><![CDATA[AI做网站之114工具箱]]></summary>
-    </entry>
-        <entry>
-        <title>说说：#2026-08-16 12:22</title>
-        <id>167932</id>
-        <link href="https://www.mmbkz.cn/74cb6358.html?utm_source=blogfinder" />
-        <published>2026-08-16T20:22:09+08:00</published>
-        <author>
-            <name>绯色之喵</name>
-            <uri>https://www.mmbkz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[说说：#2026-08-16 12:22]]></summary>
-    </entry>
-        <entry>
-        <title>将 626 个访客 IP 全查了一遍，其中 190 个是全球通缉的惯犯</title>
-        <id>167947</id>
-        <link href="https://www.paddysun.top/archives/4872?utm_source=blogfinder" />
-        <published>2026-08-16T20:10:33+08:00</published>
-        <author>
-            <name>Under the Sun with Paddy</name>
-            <uri>https://www.paddysun.top</uri>
-        </author>
-        <summary type="text"><![CDATA[将 626 个访客 IP 全查了一遍，其中 190 个是全球通缉的惯犯]]></summary>
     </entry>
     </feed>
