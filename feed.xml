@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-19T13:06:22+08:00</updated>
+    <updated>2026-08-19T15:00:25+08:00</updated>
+        <entry>
+        <title>解决雪花算法ID传到前端丢失精度问题</title>
+        <id>168372</id>
+        <link href="https://www.tinsur.cn/943.html?utm_source=blogfinder" />
+        <published>2026-08-19T13:58:25+08:00</published>
+        <author>
+            <name>Tinsur Blog</name>
+            <uri>https://www.tinsur.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[解决雪花算法ID传到前端丢失精度问题]]></summary>
+    </entry>
+        <entry>
+        <title>碎片动态 2026-08-19</title>
+        <id>168373</id>
+        <link href="https://sigge.cn/2026/08/19/6y3fo22lmqje?utm_source=blogfinder" />
+        <published>2026-08-19T13:42:13+08:00</published>
+        <author>
+            <name>毛伊西格</name>
+            <uri>https://sigge.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[碎片动态 2026-08-19]]></summary>
+    </entry>
         <entry>
         <title>忌交易！！！</title>
         <id>168368</id>
@@ -1727,27 +1749,5 @@
             <uri>http://stuit.cn</uri>
         </author>
         <summary type="text"><![CDATA[入蜀记（20260801-07）一、概况]]></summary>
-    </entry>
-        <entry>
-        <title>2026-08-16 13:33</title>
-        <id>167923</id>
-        <link href="https://koobai.com/laodao/2026/08/20260816-053300/?utm_source=blogfinder" />
-        <published>2026-08-16T13:33:00+08:00</published>
-        <author>
-            <name>Koobai</name>
-            <uri>https://koobai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-08-16 13:33]]></summary>
-    </entry>
-        <entry>
-        <title>为什么我说Hermes对普通人暂时没什么用</title>
-        <id>168347</id>
-        <link href="https://sheep5.net/archives/354?utm_source=blogfinder" />
-        <published>2026-08-16T13:28:12+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么我说Hermes对普通人暂时没什么用]]></summary>
     </entry>
     </feed>
