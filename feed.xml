@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-19T18:00:16+08:00</updated>
+    <updated>2026-08-19T19:02:06+08:00</updated>
         <entry>
         <title>七夕快乐</title>
         <id>168378</id>
@@ -33,6 +33,17 @@
             <uri>https://ilogs.cn</uri>
         </author>
         <summary type="text"><![CDATA[财富转移是怎样进行的]]></summary>
+    </entry>
+        <entry>
+        <title>做题笔记 – P4242 树上的毒瘤</title>
+        <id>168381</id>
+        <link href="https://blog.ooliver.cn/%e5%81%9a%e9%a2%98%e7%ac%94%e8%ae%b0-p4242-%e6%a0%91%e4%b8%8a%e7%9a%84%e6%af%92%e7%98%a4/?utm_source=blogfinder" />
+        <published>2026-08-19T15:48:03+08:00</published>
+        <author>
+            <name>ooliver 的博客</name>
+            <uri>https://blog.ooliver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[做题笔记 – P4242 树上的毒瘤]]></summary>
     </entry>
         <entry>
         <title>我的ARM服务器直接被甲骨文停了！</title>
