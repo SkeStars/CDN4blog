@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-20T18:00:43+08:00</updated>
+    <updated>2026-08-20T19:00:24+08:00</updated>
         <entry>
         <title>IDM 扩展老劫持下载、下载文件名乱码？我写了个小扩展让它按需开关</title>
         <id>168538</id>
@@ -1771,38 +1771,5 @@
             <uri>https://xiaoxi.ac.cn</uri>
         </author>
         <summary type="text"><![CDATA[一切都因为Github在国内无法稳定访问，因此我重构了评论组件！]]></summary>
-    </entry>
-        <entry>
-        <title>在WSL中使用Canokey智能卡进行Git Commit签名</title>
-        <id>167987</id>
-        <link href="https://blog.goodboyboy.top/posts/602251247.html?utm_source=blogfinder" />
-        <published>2026-08-17T18:35:18+08:00</published>
-        <author>
-            <name>GoodBoyboy</name>
-            <uri>https://blog.goodboyboy.top</uri>
-        </author>
-        <summary type="text"><![CDATA[在WSL中使用Canokey智能卡进行Git Commit签名]]></summary>
-    </entry>
-        <entry>
-        <title>「说说」lcrworld 和 lcr99 喵～</title>
-        <id>167984</id>
-        <link href="https://upxuu.com/talk/lcrworld-和-lcr99-喵/?utm_source=blogfinder" />
-        <published>2026-08-17T18:27:34+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[「说说」lcrworld 和 lcr99 喵～]]></summary>
-    </entry>
-        <entry>
-        <title>DeepSeek 涨价后，业余个人开发者的 API 成本开始肉疼了</title>
-        <id>168259</id>
-        <link href="https://www.tjsky.net/natter/1785?utm_source=blogfinder" />
-        <published>2026-08-17T18:16:03+08:00</published>
-        <author>
-            <name>秋风于渭水</name>
-            <uri>https://www.tjsky.net</uri>
-        </author>
-        <summary type="text"><![CDATA[DeepSeek 涨价后，业余个人开发者的 API 成本开始肉疼了]]></summary>
     </entry>
     </feed>
