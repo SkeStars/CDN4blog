@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-20T15:00:24+08:00</updated>
+    <updated>2026-08-20T16:01:40+08:00</updated>
         <entry>
         <title>小曦的上海之旅</title>
         <id>168534</id>
@@ -132,6 +132,17 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[你就瞎活]]></summary>
+    </entry>
+        <entry>
+        <title>入蜀记（20260801-07）二、成都到处都是“熊猫”</title>
+        <id>168535</id>
+        <link href="http://stuit.cn/Xiaolu/Post/1640.html?utm_source=blogfinder" />
+        <published>2026-08-20T00:14:13+08:00</published>
+        <author>
+            <name>风雨行者</name>
+            <uri>http://stuit.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[入蜀记（20260801-07）二、成都到处都是“熊猫”]]></summary>
     </entry>
         <entry>
         <title>用 DeepSeek Harness 打造本地 AI 工作台：DeepSeek Harness Desktop App 深度解析</title>
@@ -1848,27 +1859,5 @@
             <uri>https://www.weiwenchao.com</uri>
         </author>
         <summary type="text"><![CDATA[《最大的公平》]]></summary>
-    </entry>
-        <entry>
-        <title>创造点有意思的东西</title>
-        <id>167995</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-17-create-something-interesting.html?utm_source=blogfinder" />
-        <published>2026-08-17T15:54:53+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[创造点有意思的东西]]></summary>
-    </entry>
-        <entry>
-        <title>用 AI 重写了一个用了两年的 B 站直播机器人</title>
-        <id>168026</id>
-        <link href="https://hejunjie.life/blog/ce58b441?utm_source=blogfinder" />
-        <published>2026-08-17T15:51:00+08:00</published>
-        <author>
-            <name>星河避难所</name>
-            <uri>https://hejunjie.life</uri>
-        </author>
-        <summary type="text"><![CDATA[用 AI 重写了一个用了两年的 B 站直播机器人]]></summary>
     </entry>
     </feed>
