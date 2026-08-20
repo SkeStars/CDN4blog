@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-20T23:07:48+08:00</updated>
+    <updated>2026-08-21T00:01:45+08:00</updated>
+        <entry>
+        <title>嘿,第一次瑞幸&#039;幸运取餐码&#039;「555」～</title>
+        <id>168548</id>
+        <link href="https://blog.lichenghao.cn/article/in5x1aaqyxem?utm_source=blogfinder" />
+        <published>2026-08-20T23:30:56+08:00</published>
+        <author>
+            <name>故事的程序猿</name>
+            <uri>https://blog.lichenghao.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[嘿,第一次瑞幸&#039;幸运取餐码&#039;「555」～]]></summary>
+    </entry>
+        <entry>
+        <title>无用命途：动态海景灯，用电脑说脏话</title>
+        <id>168547</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1523/?utm_source=blogfinder" />
+        <published>2026-08-20T21:59:00+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[无用命途：动态海景灯，用电脑说脏话]]></summary>
+    </entry>
         <entry>
         <title>问题的生成（二）</title>
         <id>168545</id>
@@ -1595,104 +1617,5 @@
             <uri>https://blog.xrbk.cn</uri>
         </author>
         <summary type="text"><![CDATA[GitHub 突发大规模宕机，核心服务均受影响]]></summary>
-    </entry>
-        <entry>
-        <title>oMLX：为 Mac 而生的本地 LLM 推理引擎，把大模型跑成「菜单栏常驻服务」</title>
-        <id>168318</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-18/omlx/?utm_source=blogfinder" />
-        <published>2026-08-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[oMLX：为 Mac 而生的本地 LLM 推理引擎，把大模型跑成「菜单栏常驻服务」]]></summary>
-    </entry>
-        <entry>
-        <title>MyContext：一个连接工作数据与 AI 智能的个人上下文记忆层</title>
-        <id>168317</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-18/mycontext/?utm_source=blogfinder" />
-        <published>2026-08-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[MyContext：一个连接工作数据与 AI 智能的个人上下文记忆层]]></summary>
-    </entry>
-        <entry>
-        <title>Munder Difflin：多智能体协作办公系统，让 AI 克隆体 7x24 小时代你工作</title>
-        <id>168316</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-18/munder-difflin/?utm_source=blogfinder" />
-        <published>2026-08-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Munder Difflin：多智能体协作办公系统，让 AI 克隆体 7x24 小时代你工作]]></summary>
-    </entry>
-        <entry>
-        <title>Motrix v2 Turbo：基于 MDXP 协议重构的全功能下载管理器</title>
-        <id>168315</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-18/motrix/?utm_source=blogfinder" />
-        <published>2026-08-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Motrix v2 Turbo：基于 MDXP 协议重构的全功能下载管理器]]></summary>
-    </entry>
-        <entry>
-        <title>HydraDB：构建在对象存储之上的 Rust 分布式图数据库</title>
-        <id>168314</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-18/hydradb/?utm_source=blogfinder" />
-        <published>2026-08-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[HydraDB：构建在对象存储之上的 Rust 分布式图数据库]]></summary>
-    </entry>
-        <entry>
-        <title>NautilusTrader：一款 Rust 原生生产级多资产交易引擎</title>
-        <id>168016</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-18/nautilus-trader/?utm_source=blogfinder" />
-        <published>2026-08-18T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[NautilusTrader：一款 Rust 原生生产级多资产交易引擎]]></summary>
-    </entry>
-        <entry>
-        <title>给自己写讣告</title>
-        <id>168293</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-17-my-obituary.html?utm_source=blogfinder" />
-        <published>2026-08-17T23:28:51+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[给自己写讣告]]></summary>
-    </entry>
-        <entry>
-        <title>内蒙行：中国北疆风景大道</title>
-        <id>168009</id>
-        <link href="https://blog.shaoxiao.net/2026/08/17/%e5%86%85%e8%92%99%e8%a1%8c%ef%bc%9a%e4%b8%ad%e5%9b%bd%e5%8c%97%e7%96%86%e9%a3%8e%e6%99%af%e5%a4%a7%e9%81%93/?utm_source=blogfinder" />
-        <published>2026-08-17T23:12:40+08:00</published>
-        <author>
-            <name>喂马劈柴</name>
-            <uri>https://blog.shaoxiao.net</uri>
-        </author>
-        <summary type="text"><![CDATA[内蒙行：中国北疆风景大道]]></summary>
-    </entry>
-        <entry>
-        <title>尝试用手机写作</title>
-        <id>168287</id>
-        <link href="https://ezo.biz/Diary/1584.html?utm_source=blogfinder" />
-        <published>2026-08-17T23:11:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[尝试用手机写作]]></summary>
     </entry>
     </feed>
