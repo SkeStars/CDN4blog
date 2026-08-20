@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-20T19:00:24+08:00</updated>
+    <updated>2026-08-20T21:00:27+08:00</updated>
+        <entry>
+        <title>丁达尔</title>
+        <id>168539</id>
+        <link href="https://mobius.blog/25454.html?utm_source=blogfinder" />
+        <published>2026-08-20T19:57:31+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[丁达尔]]></summary>
+    </entry>
+        <entry>
+        <title>我在安卓上实现了手机端一键实况图提取：OPPO、一加、三星、谷歌都能用</title>
+        <id>168540</id>
+        <link href="https://lcrworld.xyz/articles/60?utm_source=blogfinder" />
+        <published>2026-08-20T18:43:56+08:00</published>
+        <author>
+            <name>lcrworld&#039;s Blog</name>
+            <uri>http://lcrworld.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[我在安卓上实现了手机端一键实况图提取：OPPO、一加、三星、谷歌都能用]]></summary>
+    </entry>
         <entry>
         <title>IDM 扩展老劫持下载、下载文件名乱码？我写了个小扩展让它按需开关</title>
         <id>168538</id>
@@ -1705,71 +1727,5 @@
             <uri>https://www.52txr.cn</uri>
         </author>
         <summary type="text"><![CDATA[听劝，《硕博矿工》新增动态的恋爱状态，可谈可分常延毕（坏笑.jpg）]]></summary>
-    </entry>
-        <entry>
-        <title>宇宙最后的真相</title>
-        <id>167986</id>
-        <link href="https://mei.lv/articles/2026/last-truth.html?utm_source=blogfinder" />
-        <published>2026-08-17T20:39:10+08:00</published>
-        <author>
-            <name>mei の blog</name>
-            <uri>https://www.mmeiblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[宇宙最后的真相]]></summary>
-    </entry>
-        <entry>
-        <title>WordPress网站出现大量非正常访问记录、访问后台登录地址</title>
-        <id>168011</id>
-        <link href="https://www.bufanz.com/20260817814.html?utm_source=blogfinder" />
-        <published>2026-08-17T20:11:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[WordPress网站出现大量非正常访问记录、访问后台登录地址]]></summary>
-    </entry>
-        <entry>
-        <title>遛猫</title>
-        <id>167983</id>
-        <link href="https://mobius.blog/25433.html?utm_source=blogfinder" />
-        <published>2026-08-17T19:34:04+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[遛猫]]></summary>
-    </entry>
-        <entry>
-        <title>观《老式喜剧》后记</title>
-        <id>168015</id>
-        <link href="https://www.ixiqin.com/2026/08/17/afterword-to-old-style-comedy/?utm_source=blogfinder" />
-        <published>2026-08-17T19:21:16+08:00</published>
-        <author>
-            <name>西秦公子</name>
-            <uri>https://www.ixiqin.com</uri>
-        </author>
-        <summary type="text"><![CDATA[观《老式喜剧》后记]]></summary>
-    </entry>
-        <entry>
-        <title>wordpress 右键菜单修改</title>
-        <id>168022</id>
-        <link href="https://www.x8xx.cn/1135.html?utm_source=blogfinder" />
-        <published>2026-08-17T19:18:21+08:00</published>
-        <author>
-            <name>树洞笔记</name>
-            <uri>https://www.x8xx.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[wordpress 右键菜单修改]]></summary>
-    </entry>
-        <entry>
-        <title>一切都因为Github在国内无法稳定访问，因此我重构了评论组件！</title>
-        <id>168012</id>
-        <link href="https://xiaoxi.ac.cn/post/202608176186?utm_source=blogfinder" />
-        <published>2026-08-17T19:02:00+08:00</published>
-        <author>
-            <name>小曦的园子</name>
-            <uri>https://xiaoxi.ac.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[一切都因为Github在国内无法稳定访问，因此我重构了评论组件！]]></summary>
     </entry>
     </feed>
