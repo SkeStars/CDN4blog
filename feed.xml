@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-20T11:01:46+08:00</updated>
+    <updated>2026-08-20T12:03:50+08:00</updated>
+        <entry>
+        <title>最近惦念 20260727</title>
+        <id>168527</id>
+        <link href="https://z.arlmy.me/posts/TILs/thoughts/20260727_Recently/?utm_source=blogfinder" />
+        <published>2026-08-20T11:25:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[最近惦念 20260727]]></summary>
+    </entry>
         <entry>
         <title>友圈模块的发展史</title>
         <id>168523</id>
@@ -66,6 +77,17 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[我只是想让小蛇颠个球]]></summary>
+    </entry>
+        <entry>
+        <title>你就瞎活</title>
+        <id>168528</id>
+        <link href="https://z.arlmy.me/posts/Essays/2026/LiveLikeWind_20260819/?utm_source=blogfinder" />
+        <published>2026-08-20T00:24:03+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[你就瞎活]]></summary>
     </entry>
         <entry>
         <title>用 DeepSeek Harness 打造本地 AI 工作台：DeepSeek Harness Desktop App 深度解析</title>
@@ -154,6 +176,17 @@
             <uri>https://hulatu.com</uri>
         </author>
         <summary type="text"><![CDATA[居家流水账-第五天]]></summary>
+    </entry>
+        <entry>
+        <title>博客评论数据已全部完成迁移</title>
+        <id>168529</id>
+        <link href="https://blog.goodboyboy.top/posts/1318119464.html?utm_source=blogfinder" />
+        <published>2026-08-19T22:41:04+08:00</published>
+        <author>
+            <name>GoodBoyboy</name>
+            <uri>https://blog.goodboyboy.top</uri>
+        </author>
+        <summary type="text"><![CDATA[博客评论数据已全部完成迁移]]></summary>
     </entry>
         <entry>
         <title>问题的生成（一）</title>
@@ -473,6 +506,17 @@
             <uri>https://sigge.cn</uri>
         </author>
         <summary type="text"><![CDATA[碎片动态 2026-08-19]]></summary>
+    </entry>
+        <entry>
+        <title>慢一点，事情总会一点一点变好</title>
+        <id>168530</id>
+        <link href="https://sheep5.net/archives/406?utm_source=blogfinder" />
+        <published>2026-08-19T12:01:49+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[慢一点，事情总会一点一点变好]]></summary>
     </entry>
         <entry>
         <title>生活在字典树上 —— 存储和匹配海量的域名和 IP 地址</title>
@@ -1870,71 +1914,5 @@
             <uri>https://blog.samhou.moe</uri>
         </author>
         <summary type="text"><![CDATA[傲娇、后宫和党争——零之使魔动画点评]]></summary>
-    </entry>
-        <entry>
-        <title>每日早报 · 2026-08-17</title>
-        <id>167961</id>
-        <link href="https://www.lifd.site/2026/08/mei-ri-zao-bao-20260817/?utm_source=blogfinder" />
-        <published>2026-08-17T11:26:35+08:00</published>
-        <author>
-            <name>LiFD</name>
-            <uri>https://www.lifd.site</uri>
-        </author>
-        <summary type="text"><![CDATA[每日早报 · 2026-08-17]]></summary>
-    </entry>
-        <entry>
-        <title>车祸后，我慢慢找回自己的生活</title>
-        <id>168346</id>
-        <link href="https://sheep5.net/archives/362?utm_source=blogfinder" />
-        <published>2026-08-17T11:25:24+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[车祸后，我慢慢找回自己的生活]]></summary>
-    </entry>
-        <entry>
-        <title>看了《欢迎来龙餐馆》</title>
-        <id>167960</id>
-        <link href="https://chidd.net/2026/08/17/once-upon-a-time-in-the-middle-east.html?utm_source=blogfinder" />
-        <published>2026-08-17T11:12:28+08:00</published>
-        <author>
-            <name>伪医生律师的博客</name>
-            <uri>https://chidd.net</uri>
-        </author>
-        <summary type="text"><![CDATA[看了《欢迎来龙餐馆》]]></summary>
-    </entry>
-        <entry>
-        <title>谈谈我的建站史</title>
-        <id>168013</id>
-        <link href="https://peter267.github.io/posts/post47/?utm_source=blogfinder" />
-        <published>2026-08-17T11:10:00+08:00</published>
-        <author>
-            <name>Peter267</name>
-            <uri>https://blog.peter267.me</uri>
-        </author>
-        <summary type="text"><![CDATA[谈谈我的建站史]]></summary>
-    </entry>
-        <entry>
-        <title>Paper Reading (66)</title>
-        <id>167997</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-17-paper-reading-66.html?utm_source=blogfinder" />
-        <published>2026-08-17T11:06:38+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[Paper Reading (66)]]></summary>
-    </entry>
-        <entry>
-        <title>人生讨论(27)：失败与成功的婚姻/远婚</title>
-        <id>167959</id>
-        <link href="http://www.auiou.com/relevant/00002183.jsp?utm_source=blogfinder" />
-        <published>2026-08-17T11:02:00+08:00</published>
-        <author>
-            <name>王志勇的 Blog</name>
-            <uri>http://www.auiou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[人生讨论(27)：失败与成功的婚姻/远婚]]></summary>
     </entry>
     </feed>
