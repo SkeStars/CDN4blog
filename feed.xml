@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-20T13:05:15+08:00</updated>
+    <updated>2026-08-20T15:00:24+08:00</updated>
+        <entry>
+        <title>小曦的上海之旅</title>
+        <id>168534</id>
+        <link href="https://xiaoxi.ac.cn/post/202608196229?utm_source=blogfinder" />
+        <published>2026-08-20T12:16:00+08:00</published>
+        <author>
+            <name>小曦的园子</name>
+            <uri>https://xiaoxi.ac.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[小曦的上海之旅]]></summary>
+    </entry>
         <entry>
         <title>最近惦念 20260727</title>
         <id>168527</id>
@@ -68,6 +79,17 @@
         <summary type="text"><![CDATA[如果发现自己的 Halo 博客搜索出现问题了怎么办？]]></summary>
     </entry>
         <entry>
+        <title>小区住进一批「洋垃圾」</title>
+        <id>168532</id>
+        <link href="https://leileiluoluo.com/posts/xiao-qu-zhu-jin-yi-pi-yang-la-ji.html?utm_source=blogfinder" />
+        <published>2026-08-20T07:00:00+08:00</published>
+        <author>
+            <name>磊磊落落</name>
+            <uri>https://leileiluoluo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[小区住进一批「洋垃圾」]]></summary>
+    </entry>
+        <entry>
         <title>Cloudflare R2 图床在微信公众号排版时的踩坑</title>
         <id>168493</id>
         <link href="https://macin.org/2026/08/19/r2-image-wechat/?utm_source=blogfinder" />
@@ -88,6 +110,17 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[我只是想让小蛇颠个球]]></summary>
+    </entry>
+        <entry>
+        <title>没招了</title>
+        <id>168533</id>
+        <link href="https://airy.ink/daily/465?utm_source=blogfinder" />
+        <published>2026-08-20T00:34:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[没招了]]></summary>
     </entry>
         <entry>
         <title>你就瞎活</title>
@@ -1837,60 +1870,5 @@
             <uri>https://hejunjie.life</uri>
         </author>
         <summary type="text"><![CDATA[用 AI 重写了一个用了两年的 B 站直播机器人]]></summary>
-    </entry>
-        <entry>
-        <title>论我是怎么活到这么大的</title>
-        <id>168263</id>
-        <link href="https://upxuu.com/posts/mingda/?utm_source=blogfinder" />
-        <published>2026-08-17T14:50:23+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[论我是怎么活到这么大的]]></summary>
-    </entry>
-        <entry>
-        <title>AI复盘：国内网络环境、低配置，“半裸机”部署最新版Sentry？</title>
-        <id>167993</id>
-        <link href="https://www.imxb.de/new_archives/69.shtml?utm_source=blogfinder" />
-        <published>2026-08-17T14:19:00+08:00</published>
-        <author>
-            <name>Xiobb’s Blog</name>
-            <uri>https://www.imxb.de</uri>
-        </author>
-        <summary type="text"><![CDATA[AI复盘：国内网络环境、低配置，“半裸机”部署最新版Sentry？]]></summary>
-    </entry>
-        <entry>
-        <title>天才程序员陨落</title>
-        <id>167979</id>
-        <link href="https://dujun.io/e26d28d5-1dce-5dc6-8aff-f720b036b8dd.html?utm_source=blogfinder" />
-        <published>2026-08-17T13:48:00+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[天才程序员陨落]]></summary>
-    </entry>
-        <entry>
-        <title>凡事发生皆有利于我</title>
-        <id>167996</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-17-everything-happens-is-good-to-you.html?utm_source=blogfinder" />
-        <published>2026-08-17T13:36:04+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[凡事发生皆有利于我]]></summary>
-    </entry>
-        <entry>
-        <title>铜价破 11 万，咱成套电气人日子怎么过？</title>
-        <id>167982</id>
-        <link href="https://www.aiwazi.com/3361.html?utm_source=blogfinder" />
-        <published>2026-08-17T13:24:27+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[铜价破 11 万，咱成套电气人日子怎么过？]]></summary>
     </entry>
     </feed>
