@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-20T16:01:40+08:00</updated>
+    <updated>2026-08-20T17:00:38+08:00</updated>
+        <entry>
+        <title>个人小项目vibecoding方案推荐：opencode spark 1.2 和 zcode</title>
+        <id>168536</id>
+        <link href="https://blog.zhheo.com/p/1bwuf82b.html?utm_source=blogfinder" />
+        <published>2026-08-20T13:05:32+08:00</published>
+        <author>
+            <name>张洪 Heo</name>
+            <uri>https://blog.zhheo.com</uri>
+        </author>
+        <summary type="text"><![CDATA[个人小项目vibecoding方案推荐：opencode spark 1.2 和 zcode]]></summary>
+    </entry>
         <entry>
         <title>小曦的上海之旅</title>
         <id>168534</id>
@@ -1793,71 +1804,5 @@
             <uri>https://blog.lichenghao.cn</uri>
         </author>
         <summary type="text"><![CDATA[周末吃个大席，再磨点面～]]></summary>
-    </entry>
-        <entry>
-        <title>人生的意義（2026）</title>
-        <id>168265</id>
-        <link href="https://blog.giveanornot.com/the-meaning-of-life-2026/?utm_source=blogfinder" />
-        <published>2026-08-17T16:56:33+08:00</published>
-        <author>
-            <name>資工小廢物  - JN</name>
-            <uri>https://blog.giveanornot.com</uri>
-        </author>
-        <summary type="text"><![CDATA[人生的意義（2026）]]></summary>
-    </entry>
-        <entry>
-        <title>通过Graph API访问特定onedrive目录</title>
-        <id>168023</id>
-        <link href="https://kegongteng.cn/blog/technology-file-selected?utm_source=blogfinder" />
-        <published>2026-08-17T16:50:00+08:00</published>
-        <author>
-            <name>Kegongteng</name>
-            <uri>https://kegongteng.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[通过Graph API访问特定onedrive目录]]></summary>
-    </entry>
-        <entry>
-        <title>2026-08-17 16:45</title>
-        <id>167985</id>
-        <link href="https://koobai.com/laodao/2026/08/20260817-164527/?utm_source=blogfinder" />
-        <published>2026-08-17T16:45:27+08:00</published>
-        <author>
-            <name>Koobai</name>
-            <uri>https://koobai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-08-17 16:45]]></summary>
-    </entry>
-        <entry>
-        <title>分享一条广州的 CityWalk 路线</title>
-        <id>167980</id>
-        <link href="https://www.sanji.one/ren-jian-yan-huo/guangzhou-citywalk-route.html?utm_source=blogfinder" />
-        <published>2026-08-17T16:23:00+08:00</published>
-        <author>
-            <name>时光散记</name>
-            <uri>https://www.sanji.one</uri>
-        </author>
-        <summary type="text"><![CDATA[分享一条广州的 CityWalk 路线]]></summary>
-    </entry>
-        <entry>
-        <title>《最大的公平》</title>
-        <id>168376</id>
-        <link href="https://www.weiwenchao.com./2776.html?utm_source=blogfinder" />
-        <published>2026-08-17T16:11:00+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《最大的公平》]]></summary>
-    </entry>
-        <entry>
-        <title>《最大的公平》</title>
-        <id>167975</id>
-        <link href="https://www.weiwenchao.com/2776.html?utm_source=blogfinder" />
-        <published>2026-08-17T16:11:00+08:00</published>
-        <author>
-            <name>四季·花开</name>
-            <uri>https://www.weiwenchao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《最大的公平》]]></summary>
     </entry>
     </feed>
