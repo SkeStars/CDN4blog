@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-20T09:01:49+08:00</updated>
+    <updated>2026-08-20T11:01:46+08:00</updated>
+        <entry>
+        <title>友圈模块的发展史</title>
+        <id>168523</id>
+        <link href="https://liuqingwushui.top/archives/187/?utm_source=blogfinder" />
+        <published>2026-08-20T10:05:00+08:00</published>
+        <author>
+            <name>流情的博客</name>
+            <uri>https://liuqingwushui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[友圈模块的发展史]]></summary>
+    </entry>
+        <entry>
+        <title>独树不成林，牛来人来疯</title>
+        <id>168520</id>
+        <link href="https://mobius.blog/25443.html?utm_source=blogfinder" />
+        <published>2026-08-20T09:30:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[独树不成林，牛来人来疯]]></summary>
+    </entry>
+        <entry>
+        <title>如果发现自己的 Halo 博客搜索出现问题了怎么办？</title>
+        <id>168521</id>
+        <link href="https://wuqishi.com/archives/halo-search-index-rebuild?utm_source=blogfinder" />
+        <published>2026-08-20T09:02:15+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[如果发现自己的 Halo 博客搜索出现问题了怎么办？]]></summary>
+    </entry>
         <entry>
         <title>Cloudflare R2 图床在微信公众号排版时的踩坑</title>
         <id>168493</id>
@@ -101,6 +134,28 @@
         <summary type="text"><![CDATA[诺兰的《奥德赛》采取了什么样的改编策略？ II]]></summary>
     </entry>
         <entry>
+        <title>世界是一个屎山代码</title>
+        <id>168526</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-08-19-about-the-world-2.html?utm_source=blogfinder" />
+        <published>2026-08-19T22:57:55+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[世界是一个屎山代码]]></summary>
+    </entry>
+        <entry>
+        <title>居家流水账-第五天</title>
+        <id>168525</id>
+        <link href="https://hulatu.com/posts/2026/08/19/at-home-5/?utm_source=blogfinder" />
+        <published>2026-08-19T22:42:44+08:00</published>
+        <author>
+            <name>胡拉图说</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[居家流水账-第五天]]></summary>
+    </entry>
+        <entry>
         <title>问题的生成（一）</title>
         <id>168418</id>
         <link href="https://sliun.com/problemmake1/?utm_source=blogfinder" />
@@ -134,6 +189,17 @@
         <summary type="text"><![CDATA[看图不说话20260819]]></summary>
     </entry>
         <entry>
+        <title>一例 Redis 导致服务器 CPU 飙高的问题排查</title>
+        <id>168519</id>
+        <link href="https://www.sunzhongwei.com/troubleshoot-of-redis-causing-server-cpu-soar?utm_source=blogfinder" />
+        <published>2026-08-19T21:56:59+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[一例 Redis 导致服务器 CPU 飙高的问题排查]]></summary>
+    </entry>
+        <entry>
         <title>【读书记1709】李山《诗经：人间至美是真情》</title>
         <id>168390</id>
         <link href="http://www.qncd.com/?p=13014&amp;utm_source=blogfinder" />
@@ -165,6 +231,17 @@
             <uri>https://991198.xyz</uri>
         </author>
         <summary type="text"><![CDATA[Qwen3.8-27B 测试（1）]]></summary>
+    </entry>
+        <entry>
+        <title>不想成为平庸无聊的大人</title>
+        <id>168522</id>
+        <link href="https://www.tinsur.cn/946.html?utm_source=blogfinder" />
+        <published>2026-08-19T20:21:11+08:00</published>
+        <author>
+            <name>Tinsur Blog</name>
+            <uri>https://www.tinsur.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[不想成为平庸无聊的大人]]></summary>
     </entry>
         <entry>
         <title>入蜀记 day446 FCF</title>
@@ -286,6 +363,17 @@
             <uri>https://styunlen.cn</uri>
         </author>
         <summary type="text"><![CDATA[我的缓存会自己补货：LruLink 与三个并行功能分支]]></summary>
+    </entry>
+        <entry>
+        <title>没用的傻事</title>
+        <id>168524</id>
+        <link href="https://blog.yiyou.bj.cn/archives/mei-yong-de-sha-shi?utm_source=blogfinder" />
+        <published>2026-08-19T15:59:58+08:00</published>
+        <author>
+            <name>益友网站</name>
+            <uri>https://blog.yiyou.bj.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[没用的傻事]]></summary>
     </entry>
         <entry>
         <title>做题笔记 – P4242 树上的毒瘤</title>
@@ -1848,49 +1936,5 @@
             <uri>http://www.auiou.com</uri>
         </author>
         <summary type="text"><![CDATA[人生讨论(27)：失败与成功的婚姻/远婚]]></summary>
-    </entry>
-        <entry>
-        <title>一个人的烤肉</title>
-        <id>167956</id>
-        <link href="https://liuqingwushui.top/archives/186/?utm_source=blogfinder" />
-        <published>2026-08-17T10:26:14+08:00</published>
-        <author>
-            <name>流情的博客</name>
-            <uri>https://liuqingwushui.top</uri>
-        </author>
-        <summary type="text"><![CDATA[一个人的烤肉]]></summary>
-    </entry>
-        <entry>
-        <title>Findu — 十年</title>
-        <id>167955</id>
-        <link href="https://zhongxiaojie.cn/2026/08/1728/?utm_source=blogfinder" />
-        <published>2026-08-17T09:52:57+08:00</published>
-        <author>
-            <name>obaby 𝐢‍𝐧⃝  void</name>
-            <uri>https://oba.by</uri>
-        </author>
-        <summary type="text"><![CDATA[Findu — 十年]]></summary>
-    </entry>
-        <entry>
-        <title>给博客加上了个运动记录</title>
-        <id>168248</id>
-        <link href="https://www.iliu.org/posts/blog-yundong-page/?utm_source=blogfinder" />
-        <published>2026-08-17T09:40:00+08:00</published>
-        <author>
-            <name>老刘博客</name>
-            <uri>https://www.iliu.org</uri>
-        </author>
-        <summary type="text"><![CDATA[给博客加上了个运动记录]]></summary>
-    </entry>
-        <entry>
-        <title>过剩信息，剥夺我</title>
-        <id>167954</id>
-        <link href="https://mobius.blog/25416.html?utm_source=blogfinder" />
-        <published>2026-08-17T09:30:00+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[过剩信息，剥夺我]]></summary>
     </entry>
     </feed>
