@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-21T15:00:21+08:00</updated>
+    <updated>2026-08-21T16:03:15+08:00</updated>
+        <entry>
+        <title>下沉</title>
+        <id>168590</id>
+        <link href="https://www.jackytong.com/blog/2548?utm_source=blogfinder" />
+        <published>2026-08-21T14:25:58+08:00</published>
+        <author>
+            <name>Jacky Tong</name>
+            <uri>https://www.jackytong.com</uri>
+        </author>
+        <summary type="text"><![CDATA[下沉]]></summary>
+    </entry>
+        <entry>
+        <title>最开心的事情</title>
+        <id>168592</id>
+        <link href="https://sheep5.net/archives/426?utm_source=blogfinder" />
+        <published>2026-08-21T12:40:50+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[最开心的事情]]></summary>
+    </entry>
+        <entry>
+        <title>搞定 Linux 密码登录：避坑与 Root 登录提权</title>
+        <id>168591</id>
+        <link href="https://wuqishi.com/archives/linux-enable-ssh-root-password-login?utm_source=blogfinder" />
+        <published>2026-08-21T12:21:00+08:00</published>
+        <author>
+            <name>蛋蛋之家</name>
+            <uri>https://wuqishi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[搞定 Linux 密码登录：避坑与 Root 登录提权]]></summary>
+    </entry>
         <entry>
         <title>最终还是决定使用Firefox浏览器</title>
         <id>168583</id>
@@ -1639,71 +1672,5 @@
             <uri>https://www.justzht.com</uri>
         </author>
         <summary type="text"><![CDATA[2026.8.18]]></summary>
-    </entry>
-        <entry>
-        <title>从七千到两千万：《牛来》爆火，不是电影好看，只是全网玩梗的闹剧</title>
-        <id>168299</id>
-        <link href="https://zhujay.com/blog/blog_detail.html?id=1272&amp;utm_source=blogfinder" />
-        <published>2026-08-18T15:40:11+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[从七千到两千万：《牛来》爆火，不是电影好看，只是全网玩梗的闹剧]]></summary>
-    </entry>
-        <entry>
-        <title>VRChat杂谈(其二)：前方的路</title>
-        <id>168279</id>
-        <link href="https://mei.lv/articles/2026/vrc-2.html?utm_source=blogfinder" />
-        <published>2026-08-18T15:36:20+08:00</published>
-        <author>
-            <name>mei の blog</name>
-            <uri>https://www.mmeiblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[VRChat杂谈(其二)：前方的路]]></summary>
-    </entry>
-        <entry>
-        <title>会说话的博客：不一定非要打字，生活也可以说出来</title>
-        <id>168342</id>
-        <link href="https://sheep5.net/archives/380?utm_source=blogfinder" />
-        <published>2026-08-18T15:35:45+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[会说话的博客：不一定非要打字，生活也可以说出来]]></summary>
-    </entry>
-        <entry>
-        <title>我为什么不用印象笔记了</title>
-        <id>168343</id>
-        <link href="https://sheep5.net/archives/372?utm_source=blogfinder" />
-        <published>2026-08-18T15:20:30+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[我为什么不用印象笔记了]]></summary>
-    </entry>
-        <entry>
-        <title>VRChat杂谈(其一)： 你的注视饱含贪恋(人际关系篇)</title>
-        <id>168280</id>
-        <link href="https://mei.lv/articles/2026/vrc-1.html?utm_source=blogfinder" />
-        <published>2026-08-18T15:15:12+08:00</published>
-        <author>
-            <name>mei の blog</name>
-            <uri>https://www.mmeiblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[VRChat杂谈(其一)： 你的注视饱含贪恋(人际关系篇)]]></summary>
-    </entry>
-        <entry>
-        <title>Re：失败与成功的婚姻/远婚</title>
-        <id>168419</id>
-        <link href="https://ffaff.fun/blog/re11?utm_source=blogfinder" />
-        <published>2026-08-18T15:14:52+08:00</published>
-        <author>
-            <name>Kiwi 的博客</name>
-            <uri>https://ffaff.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[Re：失败与成功的婚姻/远婚]]></summary>
     </entry>
     </feed>
