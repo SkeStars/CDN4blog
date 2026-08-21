@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-21T13:05:42+08:00</updated>
+    <updated>2026-08-21T15:00:21+08:00</updated>
         <entry>
         <title>最终还是决定使用Firefox浏览器</title>
         <id>168583</id>
@@ -495,6 +495,17 @@
             <uri>https://songlin.me</uri>
         </author>
         <summary type="text"><![CDATA[拒绝第三方依赖：用纯静态架构，把 900 条豆瓣记录搬进个人博客]]></summary>
+    </entry>
+        <entry>
+        <title>在安卓上运行 Alpine Linux 于 chroot</title>
+        <id>168586</id>
+        <link href="https://www.oxue.de/posts/chroot-alpine/?utm_source=blogfinder" />
+        <published>2026-08-20T07:43:42+08:00</published>
+        <author>
+            <name>傲雪の</name>
+            <uri>https://www.oxue.de</uri>
+        </author>
+        <summary type="text"><![CDATA[在安卓上运行 Alpine Linux 于 chroot]]></summary>
     </entry>
         <entry>
         <title>【南海沉船系列三】交州是如何取代广州成为外贸枢纽的</title>
@@ -1694,16 +1705,5 @@
             <uri>https://ffaff.fun</uri>
         </author>
         <summary type="text"><![CDATA[Re：失败与成功的婚姻/远婚]]></summary>
-    </entry>
-        <entry>
-        <title>中国教育究竟还要害死多少人</title>
-        <id>168281</id>
-        <link href="https://mei.lv/articles/2026/china-edu.html?utm_source=blogfinder" />
-        <published>2026-08-18T14:39:14+08:00</published>
-        <author>
-            <name>mei の blog</name>
-            <uri>https://www.mmeiblog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[中国教育究竟还要害死多少人]]></summary>
     </entry>
     </feed>
