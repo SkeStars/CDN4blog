@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-21T23:08:13+08:00</updated>
+    <updated>2026-08-22T00:01:18+08:00</updated>
+        <entry>
+        <title>诺兰的《奥德赛》采取了什么样的改编策略？ III</title>
+        <id>168633</id>
+        <link href="https://www.geedea.pro/article/odyssey-3/?utm_source=blogfinder" />
+        <published>2026-08-21T23:26:55+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[诺兰的《奥德赛》采取了什么样的改编策略？ III]]></summary>
+    </entry>
+        <entry>
+        <title>手写一个最小 MCP 客户端，理解 LLM 与本地工具的契约</title>
+        <id>168631</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/141.html?utm_source=blogfinder" />
+        <published>2026-08-21T23:08:12+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[手写一个最小 MCP 客户端，理解 LLM 与本地工具的契约]]></summary>
+    </entry>
+        <entry>
+        <title>网站挂了好几天</title>
+        <id>168632</id>
+        <link href="https://ihaihe.cn/3683.htm?utm_source=blogfinder" />
+        <published>2026-08-21T21:44:15+08:00</published>
+        <author>
+            <name>三十里海河</name>
+            <uri>https://ihaihe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[网站挂了好几天]]></summary>
+    </entry>
+        <entry>
+        <title>雨行兰英大峡谷</title>
+        <id>168635</id>
+        <link href="https://zhujay.com/talk/talk_detail.html?id=1273&amp;utm_source=blogfinder" />
+        <published>2026-08-21T21:30:53+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[雨行兰英大峡谷]]></summary>
+    </entry>
         <entry>
         <title>新的博客评论系统正式启动</title>
         <id>168606</id>
@@ -22,6 +66,17 @@
             <uri>https://blog.goodboyboy.top</uri>
         </author>
         <summary type="text"><![CDATA[新的博客评论系统正式启动]]></summary>
+    </entry>
+        <entry>
+        <title>在IE订阅博客，捡回被冲散的平静</title>
+        <id>168636</id>
+        <link href="https://zooyoo.top/article/58/?utm_source=blogfinder" />
+        <published>2026-08-21T20:20:00+08:00</published>
+        <author>
+            <name>热衷于的博客</name>
+            <uri>https://zooyoo.top</uri>
+        </author>
+        <summary type="text"><![CDATA[在IE订阅博客，捡回被冲散的平静]]></summary>
     </entry>
         <entry>
         <title>博客第一次接到赞助：聊聊不繁简历</title>
@@ -44,6 +99,17 @@
             <uri>https://www.seis-jun.xyz/</uri>
         </author>
         <summary type="text"><![CDATA[关于善恶]]></summary>
+    </entry>
+        <entry>
+        <title>eopage终于关联cnb啦，博客迁移到eopages</title>
+        <id>168634</id>
+        <link href="https://blog.xrbk.cn/post/103.html?utm_source=blogfinder" />
+        <published>2026-08-21T18:48:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://blog.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[eopage终于关联cnb啦，博客迁移到eopages]]></summary>
     </entry>
         <entry>
         <title>Claude Code Agent Loop 研究系列（02）—— Hooks：loop 上的可编程干预点</title>
@@ -1540,104 +1606,5 @@
             <uri>https://ddw2019.com</uri>
         </author>
         <summary type="text"><![CDATA[265 赠人玫瑰 手有余香：从今天的一封邮件开始说起]]></summary>
-    </entry>
-        <entry>
-        <title>OpenLogi：用 Rust 重写 Logitech Options+，本地优先的罗技鼠标驱动替代方案</title>
-        <id>168413</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-19/openlogi/?utm_source=blogfinder" />
-        <published>2026-08-19T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenLogi：用 Rust 重写 Logitech Options+，本地优先的罗技鼠标驱动替代方案]]></summary>
-    </entry>
-        <entry>
-        <title>Humanizer：让 AI 生成的文本回归自然写作风格</title>
-        <id>168412</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-19/humanizer/?utm_source=blogfinder" />
-        <published>2026-08-19T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Humanizer：让 AI 生成的文本回归自然写作风格]]></summary>
-    </entry>
-        <entry>
-        <title>GenLayer Project Boilerplate：用 LLM 驱动的足球竞猜合约看下一代智能合约开发</title>
-        <id>168411</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-19/genlayer-project-boilerplate/?utm_source=blogfinder" />
-        <published>2026-08-19T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[GenLayer Project Boilerplate：用 LLM 驱动的足球竞猜合约看下一代智能合约开发]]></summary>
-    </entry>
-        <entry>
-        <title>EdgeChat：基于 Cloudflare 全家桶的现代团队聊天系统</title>
-        <id>168410</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-19/edgechat/?utm_source=blogfinder" />
-        <published>2026-08-19T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[EdgeChat：基于 Cloudflare 全家桶的现代团队聊天系统]]></summary>
-    </entry>
-        <entry>
-        <title>Amadeus Node：基于 Erlang 的高性能区块链节点实现</title>
-        <id>168409</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-19/node/?utm_source=blogfinder" />
-        <published>2026-08-19T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Amadeus Node：基于 Erlang 的高性能区块链节点实现]]></summary>
-    </entry>
-        <entry>
-        <title>AI 智能体实战速成指南：从零到企业级落地的系统性学习路线</title>
-        <id>168408</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-19/ai-agents-from-zero/?utm_source=blogfinder" />
-        <published>2026-08-19T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[AI 智能体实战速成指南：从零到企业级落地的系统性学习路线]]></summary>
-    </entry>
-        <entry>
-        <title>AERIS-10：把 10.5GHz 相控阵雷达做成开源 DIY 套件</title>
-        <id>168407</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-19/plfm-radar/?utm_source=blogfinder" />
-        <published>2026-08-19T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[AERIS-10：把 10.5GHz 相控阵雷达做成开源 DIY 套件]]></summary>
-    </entry>
-        <entry>
-        <title>OpenViking：字节开源的 AI Agent 上下文数据库</title>
-        <id>168313</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-19/openviking/?utm_source=blogfinder" />
-        <published>2026-08-19T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenViking：字节开源的 AI Agent 上下文数据库]]></summary>
-    </entry>
-        <entry>
-        <title>Omarchy：DHH 打造的「固执己见」的现代 Linux 桌面</title>
-        <id>168312</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-19/omarchy/?utm_source=blogfinder" />
-        <published>2026-08-19T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Omarchy：DHH 打造的「固执己见」的现代 Linux 桌面]]></summary>
     </entry>
     </feed>
