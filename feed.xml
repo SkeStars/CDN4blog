@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-21T17:01:19+08:00</updated>
+    <updated>2026-08-21T18:00:22+08:00</updated>
+        <entry>
+        <title>WordPress拦截英文评论，发表评论只允许包含中文的评论</title>
+        <id>168597</id>
+        <link href="https://www.bufanz.com/20260821829.html?utm_source=blogfinder" />
+        <published>2026-08-21T17:27:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[WordPress拦截英文评论，发表评论只允许包含中文的评论]]></summary>
+    </entry>
         <entry>
         <title>下沉</title>
         <id>168590</id>
@@ -44,6 +55,17 @@
             <uri>https://wuqishi.com</uri>
         </author>
         <summary type="text"><![CDATA[搞定 Linux 密码登录：避坑与 Root 登录提权]]></summary>
+    </entry>
+        <entry>
+        <title>给 memos 加个自动压缩图片为 Webp 的功能</title>
+        <id>168596</id>
+        <link href="https://www.tjsky.net/tutorial/1826?utm_source=blogfinder" />
+        <published>2026-08-21T12:02:11+08:00</published>
+        <author>
+            <name>秋风于渭水</name>
+            <uri>https://www.tjsky.net</uri>
+        </author>
+        <summary type="text"><![CDATA[给 memos 加个自动压缩图片为 Webp 的功能]]></summary>
     </entry>
         <entry>
         <title>最终还是决定使用Firefox浏览器</title>
@@ -1199,6 +1221,17 @@
             <uri>https://ezo.biz</uri>
         </author>
         <summary type="text"><![CDATA[出光机油粗测]]></summary>
+    </entry>
+        <entry>
+        <title>真正在AI上All In的，是这个八十岁老头</title>
+        <id>168594</id>
+        <link href="http://weiwuhui.com/11077.html?utm_source=blogfinder" />
+        <published>2026-08-19T10:00:00+08:00</published>
+        <author>
+            <name>扯氮集</name>
+            <uri>http://weiwuhui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[真正在AI上All In的，是这个八十岁老头]]></summary>
     </entry>
         <entry>
         <title>矿产买卖与石方开挖竞合下的争议解析</title>
