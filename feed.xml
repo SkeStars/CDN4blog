@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-21T22:00:21+08:00</updated>
+    <updated>2026-08-21T23:08:13+08:00</updated>
         <entry>
         <title>新的博客评论系统正式启动</title>
         <id>168606</id>
@@ -22,6 +22,28 @@
             <uri>https://blog.goodboyboy.top</uri>
         </author>
         <summary type="text"><![CDATA[新的博客评论系统正式启动]]></summary>
+    </entry>
+        <entry>
+        <title>博客第一次接到赞助：聊聊不繁简历</title>
+        <id>168629</id>
+        <link href="https://xingwangzhe.fun/posts/bufancv-first-sponsorship/?utm_source=blogfinder" />
+        <published>2026-08-21T20:00:18+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[博客第一次接到赞助：聊聊不繁简历]]></summary>
+    </entry>
+        <entry>
+        <title>关于善恶</title>
+        <id>168630</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-08-21-about-good-and-evil.html?utm_source=blogfinder" />
+        <published>2026-08-21T19:42:33+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[关于善恶]]></summary>
     </entry>
         <entry>
         <title>Claude Code Agent Loop 研究系列（02）—— Hooks：loop 上的可编程干预点</title>
@@ -55,6 +77,17 @@
             <uri>https://www.jackytong.com</uri>
         </author>
         <summary type="text"><![CDATA[下沉]]></summary>
+    </entry>
+        <entry>
+        <title>理想四旬</title>
+        <id>168628</id>
+        <link href="https://ezo.biz/Diary/1599.html?utm_source=blogfinder" />
+        <published>2026-08-21T13:27:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[理想四旬]]></summary>
     </entry>
         <entry>
         <title>博客阅读随感：也谈人工智能是否会有自主意识</title>
@@ -99,6 +132,17 @@
             <uri>https://wuqishi.com</uri>
         </author>
         <summary type="text"><![CDATA[搞定 Linux 密码登录：避坑与 Root 登录提权]]></summary>
+    </entry>
+        <entry>
+        <title>acme.sh 从Webroot改为 NameSilo DNS 申请通配符证书踩坑记</title>
+        <id>168627</id>
+        <link href="https://pewae.com/2026/08/migrating-acme-sh-from-webroot-validation-to-namesilo-dns-for-lets-encrypt-wildcard-certificates.html?utm_source=blogfinder" />
+        <published>2026-08-21T12:18:43+08:00</published>
+        <author>
+            <name>破袜子</name>
+            <uri>https://pewae.com</uri>
+        </author>
+        <summary type="text"><![CDATA[acme.sh 从Webroot改为 NameSilo DNS 申请通配符证书踩坑记]]></summary>
     </entry>
         <entry>
         <title>给 memos 加个自动压缩图片为 Webp 的功能</title>
@@ -1595,38 +1639,5 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[Omarchy：DHH 打造的「固执己见」的现代 Linux 桌面]]></summary>
-    </entry>
-        <entry>
-        <title>我的生活观念</title>
-        <id>168365</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-18-my-view-of-life.html?utm_source=blogfinder" />
-        <published>2026-08-18T23:03:22+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[我的生活观念]]></summary>
-    </entry>
-        <entry>
-        <title>《向山进发》巡礼·富士山吉田线</title>
-        <id>168366</id>
-        <link href="https://champhoon.xyz/log/yamanosusume-mount-fuji-a/?utm_source=blogfinder" />
-        <published>2026-08-18T23:01:00+08:00</published>
-        <author>
-            <name>澄沨的漫游茶记</name>
-            <uri>https://champhoon.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[《向山进发》巡礼·富士山吉田线]]></summary>
-    </entry>
-        <entry>
-        <title>太原 个人摄影</title>
-        <id>168417</id>
-        <link href="https://fravilion.top/index.php/archives/390/?utm_source=blogfinder" />
-        <published>2026-08-18T22:36:00+08:00</published>
-        <author>
-            <name>楼船</name>
-            <uri>https://fravilion.top</uri>
-        </author>
-        <summary type="text"><![CDATA[太原 个人摄影]]></summary>
     </entry>
     </feed>
