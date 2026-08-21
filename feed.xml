@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-21T19:00:32+08:00</updated>
+    <updated>2026-08-21T21:00:22+08:00</updated>
+        <entry>
+        <title>新的博客评论系统正式启动</title>
+        <id>168606</id>
+        <link href="https://blog.goodboyboy.top/posts/1780945784.html?utm_source=blogfinder" />
+        <published>2026-08-21T20:45:25+08:00</published>
+        <author>
+            <name>GoodBoyboy</name>
+            <uri>https://blog.goodboyboy.top</uri>
+        </author>
+        <summary type="text"><![CDATA[新的博客评论系统正式启动]]></summary>
+    </entry>
         <entry>
         <title>Claude Code Agent Loop 研究系列（02）—— Hooks：loop 上的可编程干预点</title>
         <id>168600</id>
@@ -44,6 +55,17 @@
             <uri>https://www.jackytong.com</uri>
         </author>
         <summary type="text"><![CDATA[下沉]]></summary>
+    </entry>
+        <entry>
+        <title>博客阅读随感：也谈人工智能是否会有自主意识</title>
+        <id>168603</id>
+        <link href="https://www.suiyan.cc/blog/20260821131207?utm_source=blogfinder" />
+        <published>2026-08-21T13:12:07+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[博客阅读随感：也谈人工智能是否会有自主意识]]></summary>
     </entry>
         <entry>
         <title>最开心的事情</title>
@@ -233,6 +255,17 @@
         <summary type="text"><![CDATA[说说：妞妞，这几天折腾的够累了，好好休息吧]]></summary>
     </entry>
         <entry>
+        <title>巴黎简游记</title>
+        <id>168605</id>
+        <link href="https://eduardoqian.com/archives/ba-li-jian-you-ji?utm_source=blogfinder" />
+        <published>2026-08-21T03:58:00+08:00</published>
+        <author>
+            <name>司云有崖</name>
+            <uri>https://eduardoqian.com</uri>
+        </author>
+        <summary type="text"><![CDATA[巴黎简游记]]></summary>
+    </entry>
+        <entry>
         <title>「说说」第一次以这么猎奇的原因失眠...</title>
         <id>168582</id>
         <link href="https://upxuu.com/talk/第一次以这么猎奇的原因失眠/?utm_source=blogfinder" />
@@ -363,6 +396,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1710】迈克尔·夏拉《决战葛底斯堡》]]></summary>
+    </entry>
+        <entry>
+        <title>jona公共日记002</title>
+        <id>168604</id>
+        <link href="https://www.infinite.moe/posts/jonagong-gong-ri-ji-002-e2937ddd?utm_source=blogfinder" />
+        <published>2026-08-20T21:00:47+08:00</published>
+        <author>
+            <name>jona 漫游宇宙</name>
+            <uri>https://www.infinite.moe</uri>
+        </author>
+        <summary type="text"><![CDATA[jona公共日记002]]></summary>
     </entry>
         <entry>
         <title>银河竞逐的乐趣和策略</title>
@@ -1606,93 +1650,5 @@
             <uri>https://www.seis-jun.xyz/</uri>
         </author>
         <summary type="text"><![CDATA[不用AI生成图片了，unsplash真香]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1708】唐纳德《林肯传》</title>
-        <id>168283</id>
-        <link href="http://www.qncd.com/?p=13010&amp;utm_source=blogfinder" />
-        <published>2026-08-18T20:59:57+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1708】唐纳德《林肯传》]]></summary>
-    </entry>
-        <entry>
-        <title>【杂感】论自愿食粪者的精神胜利法</title>
-        <id>168288</id>
-        <link href="https://hexo.limour.top/the-spiritual-victory-of-willing-dung-eaters?utm_source=blogfinder" />
-        <published>2026-08-18T20:51:13+08:00</published>
-        <author>
-            <name>Limour&#039;s Blog</name>
-            <uri>https://hexo.limour.top</uri>
-        </author>
-        <summary type="text"><![CDATA[【杂感】论自愿食粪者的精神胜利法]]></summary>
-    </entry>
-        <entry>
-        <title>居家流水账 第四天</title>
-        <id>168362</id>
-        <link href="https://hulatu.com/posts/2026/08/18/at-home-4/?utm_source=blogfinder" />
-        <published>2026-08-18T20:09:59+08:00</published>
-        <author>
-            <name>胡拉图说</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[居家流水账 第四天]]></summary>
-    </entry>
-        <entry>
-        <title>WonderPen 存储格式迁移历程</title>
-        <id>168301</id>
-        <link href="https://oldj.net/posts/wonderpen-storage-evolution?utm_source=blogfinder" />
-        <published>2026-08-18T19:47:36+08:00</published>
-        <author>
-            <name>oldj&#039;s blog</name>
-            <uri>https://oldj.net</uri>
-        </author>
-        <summary type="text"><![CDATA[WonderPen 存储格式迁移历程]]></summary>
-    </entry>
-        <entry>
-        <title>Markdown 文件转 Word 格式，想设置个好看的模板居然是世界性难题</title>
-        <id>168285</id>
-        <link href="https://www.sunzhongwei.com/convert-markdown-files-word-format?utm_source=blogfinder" />
-        <published>2026-08-18T19:45:11+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Markdown 文件转 Word 格式，想设置个好看的模板居然是世界性难题]]></summary>
-    </entry>
-        <entry>
-        <title>20岁生日快乐</title>
-        <id>168278</id>
-        <link href="https://cbc688.com/articles/ershi-sui?utm_source=blogfinder" />
-        <published>2026-08-18T19:40:00+08:00</published>
-        <author>
-            <name>CRIVU</name>
-            <uri>https://cbc688.com</uri>
-        </author>
-        <summary type="text"><![CDATA[20岁生日快乐]]></summary>
-    </entry>
-        <entry>
-        <title>香港業餘無線電 中繼台地圖</title>
-        <id>168340</id>
-        <link href="https://impatrick.blog/hk-repeater-map/?utm_source=blogfinder" />
-        <published>2026-08-18T19:11:33+08:00</published>
-        <author>
-            <name>Patrick&#039;s Blog</name>
-            <uri>https://impatrick.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[香港業餘無線電 中繼台地圖]]></summary>
-    </entry>
-        <entry>
-        <title>关于情绪</title>
-        <id>168291</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-18-about-emotion.html?utm_source=blogfinder" />
-        <published>2026-08-18T19:00:35+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[关于情绪]]></summary>
     </entry>
     </feed>
