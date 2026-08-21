@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-21T21:00:22+08:00</updated>
+    <updated>2026-08-21T22:00:21+08:00</updated>
         <entry>
         <title>新的博客评论系统正式启动</title>
         <id>168606</id>
@@ -1628,27 +1628,5 @@
             <uri>https://fravilion.top</uri>
         </author>
         <summary type="text"><![CDATA[太原 个人摄影]]></summary>
-    </entry>
-        <entry>
-        <title>不该露怯的人</title>
-        <id>168297</id>
-        <link href="https://blog.solazy.me/20260818/?utm_source=blogfinder" />
-        <published>2026-08-18T22:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[不该露怯的人]]></summary>
-    </entry>
-        <entry>
-        <title>不用AI生成图片了，unsplash真香</title>
-        <id>168290</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-18-replace-ai-image-with-unsplash.html?utm_source=blogfinder" />
-        <published>2026-08-18T21:32:03+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[不用AI生成图片了，unsplash真香]]></summary>
     </entry>
     </feed>
