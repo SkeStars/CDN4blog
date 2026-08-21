@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-21T16:03:15+08:00</updated>
+    <updated>2026-08-21T17:01:19+08:00</updated>
         <entry>
         <title>下沉</title>
         <id>168590</id>
@@ -88,6 +88,17 @@
             <uri>https://www.seis-jun.xyz/</uri>
         </author>
         <summary type="text"><![CDATA[昨天，Codex一周用量用完，我沉默了一会儿]]></summary>
+    </entry>
+        <entry>
+        <title>🤖 Claude Code 把你的任务清单偷摸关了？一行命令救回来</title>
+        <id>168593</id>
+        <link href="https://www.huluohu.com/posts/2080/?utm_source=blogfinder" />
+        <published>2026-08-21T08:39:21+08:00</published>
+        <author>
+            <name>胡萝虎的博客</name>
+            <uri>https://www.huluohu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[🤖 Claude Code 把你的任务清单偷摸关了？一行命令救回来]]></summary>
     </entry>
         <entry>
         <title>AI Agent 时代，Cloudflare Precursor 正在重新定义 Bot 防护</title>
@@ -1628,49 +1639,5 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[我的帽子哪去了？]]></summary>
-    </entry>
-        <entry>
-        <title>EdgeOne 与 Cloudflare 海内外分流 CDN</title>
-        <id>168289</id>
-        <link href="https://xingwangzhe.fun/posts/edgeone-cloudflare-split-cdn/?utm_source=blogfinder" />
-        <published>2026-08-18T16:58:35+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[EdgeOne 与 Cloudflare 海内外分流 CDN]]></summary>
-    </entry>
-        <entry>
-        <title>老人蹭空调、”清障哥”补路：当社会保障缺位，善意和体面谁来兜底？</title>
-        <id>168294</id>
-        <link href="https://chenbozheng.com/wz/1710.html?utm_source=blogfinder" />
-        <published>2026-08-18T16:39:09+08:00</published>
-        <author>
-            <name>伯正博客</name>
-            <uri>https://chenbozheng.com</uri>
-        </author>
-        <summary type="text"><![CDATA[老人蹭空调、”清障哥”补路：当社会保障缺位，善意和体面谁来兜底？]]></summary>
-    </entry>
-        <entry>
-        <title>黄岛城市阳台值得去吗？我的一次海边游记</title>
-        <id>168341</id>
-        <link href="https://sheep5.net/archives/383?utm_source=blogfinder" />
-        <published>2026-08-18T16:27:08+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[黄岛城市阳台值得去吗？我的一次海边游记]]></summary>
-    </entry>
-        <entry>
-        <title>2026.8.18</title>
-        <id>168356</id>
-        <link href="https://www.justzht.com/2026-8-18/?utm_source=blogfinder" />
-        <published>2026-08-18T16:15:59+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.8.18]]></summary>
     </entry>
     </feed>
