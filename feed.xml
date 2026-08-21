@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-21T18:00:22+08:00</updated>
+    <updated>2026-08-21T19:00:32+08:00</updated>
+        <entry>
+        <title>Claude Code Agent Loop 研究系列（02）—— Hooks：loop 上的可编程干预点</title>
+        <id>168600</id>
+        <link href="https://xilidou.com/2026/08/21/claude-code-agent-loop-02-hooks/?utm_source=blogfinder" />
+        <published>2026-08-21T18:00:00+08:00</published>
+        <author>
+            <name>犀利豆的博客</name>
+            <uri>https://xilidou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Claude Code Agent Loop 研究系列（02）—— Hooks：loop 上的可编程干预点]]></summary>
+    </entry>
         <entry>
         <title>WordPress拦截英文评论，发表评论只允许包含中文的评论</title>
         <id>168597</id>
@@ -44,6 +55,17 @@
             <uri>https://sheep5.net</uri>
         </author>
         <summary type="text"><![CDATA[最开心的事情]]></summary>
+    </entry>
+        <entry>
+        <title>0元首发？匿名模型 Ox Alpha 空降 OpenRouter！1M 上下文 + 多模态，疑似智谱出品|免费AI</title>
+        <id>168599</id>
+        <link href="https://upxuu.com/posts/ox-alpha/?utm_source=blogfinder" />
+        <published>2026-08-21T12:30:00+08:00</published>
+        <author>
+            <name>UpXuu&#039;s blog</name>
+            <uri>https://upxuu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[0元首发？匿名模型 Ox Alpha 空降 OpenRouter！1M 上下文 + 多模态，疑似智谱出品|免费AI]]></summary>
     </entry>
         <entry>
         <title>搞定 Linux 密码登录：避坑与 Root 登录提权</title>
@@ -288,6 +310,17 @@
         <summary type="text"><![CDATA[2026-08-20 22:17]]></summary>
     </entry>
         <entry>
+        <title>公寓网络优化&amp;购入一张RTL8152b网卡</title>
+        <id>168598</id>
+        <link href="https://blog.moeworld.tech/2026/08/20/%e5%85%ac%e5%af%93%e7%bd%91%e7%bb%9c%e4%bc%98%e5%8c%96%e8%b4%ad%e5%85%a5%e4%b8%80%e5%bc%a0rtl8152b%e7%bd%91%e5%8d%a1/?utm_source=blogfinder" />
+        <published>2026-08-20T21:59:28+08:00</published>
+        <author>
+            <name>晓空 Blog</name>
+            <uri>https://blog.moeworld.tech</uri>
+        </author>
+        <summary type="text"><![CDATA[公寓网络优化&amp;购入一张RTL8152b网卡]]></summary>
+    </entry>
+        <entry>
         <title>无用命途：动态海景灯，用电脑说脏话</title>
         <id>168547</id>
         <link href="https://blog.mfwt.top/index.php/archives/1523/?utm_source=blogfinder" />
@@ -363,6 +396,17 @@
             <uri>http://lcrworld.xyz</uri>
         </author>
         <summary type="text"><![CDATA[我在安卓上实现了手机端一键实况图提取：OPPO、一加、三星、谷歌都能用]]></summary>
+    </entry>
+        <entry>
+        <title>Claude Code Agent Loop 研究系列（01）—— 从 tool 声明到执行前的批准</title>
+        <id>168601</id>
+        <link href="https://xilidou.com/2026/08/20/claude-code-agent-loop-01-tool-approval/?utm_source=blogfinder" />
+        <published>2026-08-20T18:00:00+08:00</published>
+        <author>
+            <name>犀利豆的博客</name>
+            <uri>https://xilidou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Claude Code Agent Loop 研究系列（01）—— 从 tool 声明到执行前的批准]]></summary>
     </entry>
         <entry>
         <title>2026.8.20</title>
@@ -990,6 +1034,17 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[气笑了！街道道路改造，五天挖断三次燃气管道！]]></summary>
+    </entry>
+        <entry>
+        <title>Claude Code Agent Loop 研究系列（00）—— 从聊天窗口到 loop</title>
+        <id>168602</id>
+        <link href="https://xilidou.com/2026/08/19/claude-code-agent-loop-00-intro/?utm_source=blogfinder" />
+        <published>2026-08-19T18:00:00+08:00</published>
+        <author>
+            <name>犀利豆的博客</name>
+            <uri>https://xilidou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Claude Code Agent Loop 研究系列（00）—— 从聊天窗口到 loop]]></summary>
     </entry>
         <entry>
         <title>七夕快乐</title>
@@ -1639,38 +1694,5 @@
             <uri>https://www.seis-jun.xyz/</uri>
         </author>
         <summary type="text"><![CDATA[关于情绪]]></summary>
-    </entry>
-        <entry>
-        <title>宝塔面板升级 13.0.0 后 Nginx 免费防火墙全是 undefined？替换两个文件就好</title>
-        <id>168367</id>
-        <link href="https://www.tjsky.net/tutorial/1792?utm_source=blogfinder" />
-        <published>2026-08-18T18:18:06+08:00</published>
-        <author>
-            <name>秋风于渭水</name>
-            <uri>https://www.tjsky.net</uri>
-        </author>
-        <summary type="text"><![CDATA[宝塔面板升级 13.0.0 后 Nginx 免费防火墙全是 undefined？替换两个文件就好]]></summary>
-    </entry>
-        <entry>
-        <title>不用框架，200 行 Python 实现一个支持热更新的 MCP Tool Server</title>
-        <id>168296</id>
-        <link href="https://qaqbuyan.com:88/乔安文章/140.html?utm_source=blogfinder" />
-        <published>2026-08-18T18:17:37+08:00</published>
-        <author>
-            <name>卟言的个人博客</name>
-            <uri>https://qaqbuyan.com:88</uri>
-        </author>
-        <summary type="text"><![CDATA[不用框架，200 行 Python 实现一个支持热更新的 MCP Tool Server]]></summary>
-    </entry>
-        <entry>
-        <title>我的帽子哪去了？</title>
-        <id>168277</id>
-        <link href="https://www.suiyan.cc/blog/20260818181408?utm_source=blogfinder" />
-        <published>2026-08-18T18:14:08+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[我的帽子哪去了？]]></summary>
     </entry>
     </feed>
