@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-22T17:03:20+08:00</updated>
+    <updated>2026-08-22T18:00:31+08:00</updated>
+        <entry>
+        <title>京东快递一周给我打两次电话，推荐我寄快递选京东，最后我还是选经常用的申通快递</title>
+        <id>168802</id>
+        <link href="https://www.bufanz.com/20260822832.html?utm_source=blogfinder" />
+        <published>2026-08-22T17:32:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[京东快递一周给我打两次电话，推荐我寄快递选京东，最后我还是选经常用的申通快递]]></summary>
+    </entry>
+        <entry>
+        <title>debian安装+本地主机穿透做异地备份服务器</title>
+        <id>168801</id>
+        <link href="https://ilogs.cn/2026/08/22/397.html?utm_source=blogfinder" />
+        <published>2026-08-22T17:29:00+08:00</published>
+        <author>
+            <name>我的日志</name>
+            <uri>https://ilogs.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[debian安装+本地主机穿透做异地备份服务器]]></summary>
+    </entry>
         <entry>
         <title>爱就是爱</title>
         <id>168799</id>
@@ -55,6 +77,17 @@
             <uri>https://siwei.li</uri>
         </author>
         <summary type="text"><![CDATA[机场推荐]]></summary>
+    </entry>
+        <entry>
+        <title>最近干了点啥？</title>
+        <id>168803</id>
+        <link href="https://yishu-life.com/index.php/archives/552.html?utm_source=blogfinder" />
+        <published>2026-08-22T11:18:32+08:00</published>
+        <author>
+            <name>树下语</name>
+            <uri>https://yishu-life.com</uri>
+        </author>
+        <summary type="text"><![CDATA[最近干了点啥？]]></summary>
     </entry>
         <entry>
         <title>这个 aptitude 没有超级牛力</title>
@@ -1551,16 +1584,5 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[气笑了！街道道路改造，五天挖断三次燃气管道！]]></summary>
-    </entry>
-        <entry>
-        <title>Claude Code Agent Loop 研究系列（00）—— 从聊天窗口到 loop</title>
-        <id>168602</id>
-        <link href="https://xilidou.com/2026/08/19/claude-code-agent-loop-00-intro/?utm_source=blogfinder" />
-        <published>2026-08-19T18:00:00+08:00</published>
-        <author>
-            <name>犀利豆的博客</name>
-            <uri>https://xilidou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude Code Agent Loop 研究系列（00）—— 从聊天窗口到 loop]]></summary>
     </entry>
     </feed>
