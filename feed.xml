@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-22T18:00:31+08:00</updated>
+    <updated>2026-08-22T19:00:29+08:00</updated>
+        <entry>
+        <title>Claude Code Agent Loop 研究系列（03）—— 从读文件到并行调度</title>
+        <id>168804</id>
+        <link href="https://xilidou.com/2026/08/22/claude-code-agent-loop-03-parallel-dispatch/?utm_source=blogfinder" />
+        <published>2026-08-22T18:00:00+08:00</published>
+        <author>
+            <name>犀利豆的博客</name>
+            <uri>https://xilidou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Claude Code Agent Loop 研究系列（03）—— 从读文件到并行调度]]></summary>
+    </entry>
         <entry>
         <title>京东快递一周给我打两次电话，推荐我寄快递选京东，最后我还是选经常用的申通快递</title>
         <id>168802</id>
@@ -1551,38 +1562,5 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[入蜀记 day443 打呼噜]]></summary>
-    </entry>
-        <entry>
-        <title>Toots 432 2026 Aug.9 - Aug.15</title>
-        <id>168389</id>
-        <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260815/?utm_source=blogfinder" />
-        <published>2026-08-19T18:58:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[Toots 432 2026 Aug.9 - Aug.15]]></summary>
-    </entry>
-        <entry>
-        <title>关于关系</title>
-        <id>168393</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-19-about-relationship.html?utm_source=blogfinder" />
-        <published>2026-08-19T18:58:26+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[关于关系]]></summary>
-    </entry>
-        <entry>
-        <title>气笑了！街道道路改造，五天挖断三次燃气管道！</title>
-        <id>168398</id>
-        <link href="https://www.bufanz.com/20260819822.html?utm_source=blogfinder" />
-        <published>2026-08-19T18:17:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[气笑了！街道道路改造，五天挖断三次燃气管道！]]></summary>
     </entry>
     </feed>
