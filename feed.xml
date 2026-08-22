@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-22T09:00:34+08:00</updated>
+    <updated>2026-08-22T11:02:12+08:00</updated>
+        <entry>
+        <title>关于道德</title>
+        <id>168790</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-08-22-about-morality.html?utm_source=blogfinder" />
+        <published>2026-08-22T09:33:44+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[关于道德]]></summary>
+    </entry>
         <entry>
         <title>随笔日记</title>
         <id>168782</id>
@@ -22,6 +33,17 @@
             <uri>http://www.xulog.cn</uri>
         </author>
         <summary type="text"><![CDATA[随笔日记]]></summary>
+    </entry>
+        <entry>
+        <title>抓娃娃就是快乐啊</title>
+        <id>168789</id>
+        <link href="https://me.xu19.com/summer-vacation-taking-my-daughter-to-wanda-department-store-claw-machine-is-just-happiness/?utm_source=blogfinder" />
+        <published>2026-08-22T08:04:06+08:00</published>
+        <author>
+            <name>我是军爸</name>
+            <uri>https://me.xu19.com</uri>
+        </author>
+        <summary type="text"><![CDATA[抓娃娃就是快乐啊]]></summary>
     </entry>
         <entry>
         <title>诺兰的《奥德赛》采取了什么样的改编策略？ III</title>
@@ -44,6 +66,17 @@
             <uri>https://qaqbuyan.com:88</uri>
         </author>
         <summary type="text"><![CDATA[手写一个最小 MCP 客户端，理解 LLM 与本地工具的契约]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1711】林达《历史深处的忧虑：近距离看美国之一》</title>
+        <id>168788</id>
+        <link href="http://www.qncd.com/?p=13027&amp;utm_source=blogfinder" />
+        <published>2026-08-21T22:51:25+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1711】林达《历史深处的忧虑：近距离看美国之一》]]></summary>
     </entry>
         <entry>
         <title>鄂尔多斯三天两夜</title>
@@ -88,6 +121,17 @@
             <uri>https://www.51it.wang</uri>
         </author>
         <summary type="text"><![CDATA[EasyTier-开源去中心化的异地组网搭建教程]]></summary>
+    </entry>
+        <entry>
+        <title>邮箱日记</title>
+        <id>168791</id>
+        <link href="https://sheep5.net/archives/428?utm_source=blogfinder" />
+        <published>2026-08-21T20:52:41+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[邮箱日记]]></summary>
     </entry>
         <entry>
         <title>新的博客评论系统正式启动</title>
@@ -143,6 +187,17 @@
             <uri>https://www.seis-jun.xyz/</uri>
         </author>
         <summary type="text"><![CDATA[关于善恶]]></summary>
+    </entry>
+        <entry>
+        <title>阿里赌AI 赌得比腾讯大</title>
+        <id>168787</id>
+        <link href="http://weiwuhui.com/11079.html?utm_source=blogfinder" />
+        <published>2026-08-21T19:18:25+08:00</published>
+        <author>
+            <name>扯氮集</name>
+            <uri>http://weiwuhui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[阿里赌AI 赌得比腾讯大]]></summary>
     </entry>
         <entry>
         <title>Rin博客魔改美化之-aiovtue</title>
@@ -1639,71 +1694,5 @@
             <uri>https://blog.cytrogen.icu</uri>
         </author>
         <summary type="text"><![CDATA[休息日逛下城]]></summary>
-    </entry>
-        <entry>
-        <title>蟹钳比手机大</title>
-        <id>168361</id>
-        <link href="https://me.xu19.com/today-i-ate-a-crab-claw-bigger-than-an-iphone-18-smartphone/?utm_source=blogfinder" />
-        <published>2026-08-19T10:29:02+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[蟹钳比手机大]]></summary>
-    </entry>
-        <entry>
-        <title>出光机油粗测</title>
-        <id>168392</id>
-        <link href="https://ezo.biz/Play_More/1589.html?utm_source=blogfinder" />
-        <published>2026-08-19T10:29:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[出光机油粗测]]></summary>
-    </entry>
-        <entry>
-        <title>真正在AI上All In的，是这个八十岁老头</title>
-        <id>168594</id>
-        <link href="http://weiwuhui.com/11077.html?utm_source=blogfinder" />
-        <published>2026-08-19T10:00:00+08:00</published>
-        <author>
-            <name>扯氮集</name>
-            <uri>http://weiwuhui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[真正在AI上All In的，是这个八十岁老头]]></summary>
-    </entry>
-        <entry>
-        <title>矿产买卖与石方开挖竞合下的争议解析</title>
-        <id>168359</id>
-        <link href="https://jiangcl.com/5021?utm_source=blogfinder" />
-        <published>2026-08-19T09:58:00+08:00</published>
-        <author>
-            <name>蒙需</name>
-            <uri>https://jiangcl.com/</uri>
-        </author>
-        <summary type="text"><![CDATA[矿产买卖与石方开挖竞合下的争议解析]]></summary>
-    </entry>
-        <entry>
-        <title>房主任塌人筑房</title>
-        <id>168357</id>
-        <link href="https://mobius.blog/25428.html?utm_source=blogfinder" />
-        <published>2026-08-19T09:30:00+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[房主任塌人筑房]]></summary>
-    </entry>
-        <entry>
-        <title>最近我又开始喜欢上 X 了</title>
-        <id>168369</id>
-        <link href="https://sheep5.net/archives/404?utm_source=blogfinder" />
-        <published>2026-08-19T09:14:20+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[最近我又开始喜欢上 X 了]]></summary>
     </entry>
     </feed>
