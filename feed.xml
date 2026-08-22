@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-22T11:02:12+08:00</updated>
+    <updated>2026-08-22T12:04:28+08:00</updated>
+        <entry>
+        <title>这个 aptitude 没有超级牛力</title>
+        <id>168792</id>
+        <link href="https://xingwangzhe.fun/posts/aptitude-super-cow-powers/?utm_source=blogfinder" />
+        <published>2026-08-22T10:00:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[这个 aptitude 没有超级牛力]]></summary>
+    </entry>
         <entry>
         <title>关于道德</title>
         <id>168790</id>
@@ -1628,71 +1639,5 @@
             <uri>https://sigge.cn</uri>
         </author>
         <summary type="text"><![CDATA[碎片动态 2026-08-19]]></summary>
-    </entry>
-        <entry>
-        <title>慢一点，事情总会一点一点变好</title>
-        <id>168530</id>
-        <link href="https://sheep5.net/archives/406?utm_source=blogfinder" />
-        <published>2026-08-19T12:01:49+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[慢一点，事情总会一点一点变好]]></summary>
-    </entry>
-        <entry>
-        <title>生活在字典树上 —— 存储和匹配海量的域名和 IP 地址</title>
-        <id>168383</id>
-        <link href="https://blog.skk.moe/post/how-to-store-way-too-many-domains-and-ips-101/?utm_source=blogfinder" />
-        <published>2026-08-19T12:00:00+08:00</published>
-        <author>
-            <name>Sukka</name>
-            <uri>https://blog.skk.moe</uri>
-        </author>
-        <summary type="text"><![CDATA[生活在字典树上 —— 存储和匹配海量的域名和 IP 地址]]></summary>
-    </entry>
-        <entry>
-        <title>评论系统即将更换</title>
-        <id>168379</id>
-        <link href="https://blog.goodboyboy.top/posts/2703472613.html?utm_source=blogfinder" />
-        <published>2026-08-19T11:46:49+08:00</published>
-        <author>
-            <name>GoodBoyboy</name>
-            <uri>https://blog.goodboyboy.top</uri>
-        </author>
-        <summary type="text"><![CDATA[评论系统即将更换]]></summary>
-    </entry>
-        <entry>
-        <title>忌交易！！！</title>
-        <id>168368</id>
-        <link href="https://www.lifd.site/2026/08/ji-jiao-yi/?utm_source=blogfinder" />
-        <published>2026-08-19T11:44:11+08:00</published>
-        <author>
-            <name>LiFD</name>
-            <uri>https://www.lifd.site</uri>
-        </author>
-        <summary type="text"><![CDATA[忌交易！！！]]></summary>
-    </entry>
-        <entry>
-        <title>我的博客更新与优化记录</title>
-        <id>168370</id>
-        <link href="https://wonse.info/ai-youhua-blog.html?utm_source=blogfinder" />
-        <published>2026-08-19T11:14:00+08:00</published>
-        <author>
-            <name>王鑫的小屋</name>
-            <uri>https://wonse.info</uri>
-        </author>
-        <summary type="text"><![CDATA[我的博客更新与优化记录]]></summary>
-    </entry>
-        <entry>
-        <title>休息日逛下城</title>
-        <id>168371</id>
-        <link href="https://blog.cytrogen.icu/posts/ed86.html?utm_source=blogfinder" />
-        <published>2026-08-19T11:13:55+08:00</published>
-        <author>
-            <name>Cytrogen&#039;s Blog</name>
-            <uri>https://blog.cytrogen.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[休息日逛下城]]></summary>
     </entry>
     </feed>
