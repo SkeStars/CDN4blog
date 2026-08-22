@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-22T22:00:19+08:00</updated>
+    <updated>2026-08-22T23:08:55+08:00</updated>
+        <entry>
+        <title>2026-08-22 21:53</title>
+        <id>168813</id>
+        <link href="https://koobai.com/laodao/2026/08/20260822-215305/?utm_source=blogfinder" />
+        <published>2026-08-22T21:53:05+08:00</published>
+        <author>
+            <name>Koobai</name>
+            <uri>https://koobai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-08-22 21:53]]></summary>
+    </entry>
+        <entry>
+        <title>关于信念</title>
+        <id>168816</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-08-22-about-believe.html?utm_source=blogfinder" />
+        <published>2026-08-22T19:32:57+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[关于信念]]></summary>
+    </entry>
         <entry>
         <title>艾雪周刊 V.07—openlist衍生项目和近期动态</title>
         <id>168811</id>
@@ -167,6 +189,17 @@
         <summary type="text"><![CDATA[说说：FC27 邝兆镭（Kuang Zhaolei）球员卡，最大亮点就是速度…]]></summary>
     </entry>
         <entry>
+        <title>牛郎织女和父权</title>
+        <id>168814</id>
+        <link href="https://blog.cytrogen.icu/posts/ef30.html?utm_source=blogfinder" />
+        <published>2026-08-22T12:00:00+08:00</published>
+        <author>
+            <name>Cytrogen&#039;s Blog</name>
+            <uri>https://blog.cytrogen.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[牛郎织女和父权]]></summary>
+    </entry>
+        <entry>
         <title>最好的牛肉汤</title>
         <id>168812</id>
         <link href="https://imxcy.cn/archives/6697bd84.html?utm_source=blogfinder" />
@@ -275,6 +308,17 @@
             <uri>https://qaqbuyan.com:88</uri>
         </author>
         <summary type="text"><![CDATA[手写一个最小 MCP 客户端，理解 LLM 与本地工具的契约]]></summary>
+    </entry>
+        <entry>
+        <title>告别 1Password：我为什么转投自部署的 Bitwarden</title>
+        <id>168815</id>
+        <link href="https://veryatao.com/technique/1password-bitwarden/?utm_source=blogfinder" />
+        <published>2026-08-21T23:06:46+08:00</published>
+        <author>
+            <name>Atao&#039;s Space</name>
+            <uri>https://veryatao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[告别 1Password：我为什么转投自部署的 Bitwarden]]></summary>
     </entry>
         <entry>
         <title>一半是暗影，一半是梦境。</title>
@@ -1463,82 +1507,5 @@
             <uri>http://99887766554433221100.cn</uri>
         </author>
         <summary type="text"><![CDATA[也许那一刻他是“好人”]]></summary>
-    </entry>
-        <entry>
-        <title>诺兰的《奥德赛》采取了什么样的改编策略？ II</title>
-        <id>168397</id>
-        <link href="https://www.geedea.pro/article/odyssey-2/?utm_source=blogfinder" />
-        <published>2026-08-19T22:59:38+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[诺兰的《奥德赛》采取了什么样的改编策略？ II]]></summary>
-    </entry>
-        <entry>
-        <title>世界是一个屎山代码</title>
-        <id>168526</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-19-about-the-world-2.html?utm_source=blogfinder" />
-        <published>2026-08-19T22:57:55+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[世界是一个屎山代码]]></summary>
-    </entry>
-        <entry>
-        <title>居家流水账-第五天</title>
-        <id>168525</id>
-        <link href="https://hulatu.com/posts/2026/08/19/at-home-5/?utm_source=blogfinder" />
-        <published>2026-08-19T22:42:44+08:00</published>
-        <author>
-            <name>胡拉图说</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[居家流水账-第五天]]></summary>
-    </entry>
-        <entry>
-        <title>博客评论数据已全部完成迁移</title>
-        <id>168529</id>
-        <link href="https://blog.goodboyboy.top/posts/1318119464.html?utm_source=blogfinder" />
-        <published>2026-08-19T22:41:04+08:00</published>
-        <author>
-            <name>GoodBoyboy</name>
-            <uri>https://blog.goodboyboy.top</uri>
-        </author>
-        <summary type="text"><![CDATA[博客评论数据已全部完成迁移]]></summary>
-    </entry>
-        <entry>
-        <title>问题的生成（一）</title>
-        <id>168418</id>
-        <link href="https://sliun.com/problemmake1/?utm_source=blogfinder" />
-        <published>2026-08-19T22:29:00+08:00</published>
-        <author>
-            <name>理论派</name>
-            <uri>https://sliun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[问题的生成（一）]]></summary>
-    </entry>
-        <entry>
-        <title>Traceroute the World</title>
-        <id>168402</id>
-        <link href="https://www.kawabangga.com/posts/7276?utm_source=blogfinder" />
-        <published>2026-08-19T22:27:00+08:00</published>
-        <author>
-            <name>卡瓦邦噶</name>
-            <uri>https://www.kawabangga.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Traceroute the World]]></summary>
-    </entry>
-        <entry>
-        <title>看图不说话20260819</title>
-        <id>168394</id>
-        <link href="https://pewae.com/2026/08/picture-without-description-20260819.html?utm_source=blogfinder" />
-        <published>2026-08-19T22:22:53+08:00</published>
-        <author>
-            <name>破袜子</name>
-            <uri>https://pewae.com</uri>
-        </author>
-        <summary type="text"><![CDATA[看图不说话20260819]]></summary>
     </entry>
     </feed>
