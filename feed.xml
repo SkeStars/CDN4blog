@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-22T15:00:21+08:00</updated>
+    <updated>2026-08-22T16:01:30+08:00</updated>
+        <entry>
+        <title>Feedglot内测邀请</title>
+        <id>168795</id>
+        <link href="https://www.skyue.com/26082214.html?utm_source=blogfinder" />
+        <published>2026-08-22T14:36:00+08:00</published>
+        <author>
+            <name>拾月</name>
+            <uri>https://www.skyue.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Feedglot内测邀请]]></summary>
+    </entry>
         <entry>
         <title>这个 aptitude 没有超级牛力</title>
         <id>168792</id>
@@ -1529,60 +1540,5 @@
             <uri>https://styunlen.cn</uri>
         </author>
         <summary type="text"><![CDATA[我的缓存会自己补货：LruLink 与三个并行功能分支]]></summary>
-    </entry>
-        <entry>
-        <title>没用的傻事</title>
-        <id>168524</id>
-        <link href="https://blog.yiyou.bj.cn/archives/mei-yong-de-sha-shi?utm_source=blogfinder" />
-        <published>2026-08-19T15:59:58+08:00</published>
-        <author>
-            <name>益友网站</name>
-            <uri>https://blog.yiyou.bj.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[没用的傻事]]></summary>
-    </entry>
-        <entry>
-        <title>做题笔记 – P4242 树上的毒瘤</title>
-        <id>168381</id>
-        <link href="https://blog.ooliver.cn/%e5%81%9a%e9%a2%98%e7%ac%94%e8%ae%b0-p4242-%e6%a0%91%e4%b8%8a%e7%9a%84%e6%af%92%e7%98%a4/?utm_source=blogfinder" />
-        <published>2026-08-19T15:48:03+08:00</published>
-        <author>
-            <name>ooliver 的博客</name>
-            <uri>https://blog.ooliver.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[做题笔记 – P4242 树上的毒瘤]]></summary>
-    </entry>
-        <entry>
-        <title>我的ARM服务器直接被甲骨文停了！</title>
-        <id>168374</id>
-        <link href="https://wuqishi.com/archives/fuck-oracle-arm?utm_source=blogfinder" />
-        <published>2026-08-19T15:37:04+08:00</published>
-        <author>
-            <name>蛋蛋之家</name>
-            <uri>https://wuqishi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我的ARM服务器直接被甲骨文停了！]]></summary>
-    </entry>
-        <entry>
-        <title>去试试</title>
-        <id>168400</id>
-        <link href="https://ygz.ink/archives/5694.html?utm_source=blogfinder" />
-        <published>2026-08-19T15:20:39+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[去试试]]></summary>
-    </entry>
-        <entry>
-        <title>链接卡片：在文章里引用外链与站内文章</title>
-        <id>168639</id>
-        <link href="https://baiwumm.com/posts/k9x2m7p4/?utm_source=blogfinder" />
-        <published>2026-08-19T15:05:00+08:00</published>
-        <author>
-            <name>谜叶象限</name>
-            <uri>https://www.baiwumm.com</uri>
-        </author>
-        <summary type="text"><![CDATA[链接卡片：在文章里引用外链与站内文章]]></summary>
     </entry>
     </feed>
