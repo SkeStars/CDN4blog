@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-22T19:00:29+08:00</updated>
+    <updated>2026-08-22T21:00:22+08:00</updated>
+        <entry>
+        <title>艾雪周刊 V.07—openlist衍生项目和近期动态</title>
+        <id>168811</id>
+        <link href="https://daily.yybb.us/posts/weekly/7/?utm_source=blogfinder" />
+        <published>2026-08-22T18:00:00+08:00</published>
+        <author>
+            <name>AIOVTUE-雪</name>
+            <uri>https://day.yybb.us</uri>
+        </author>
+        <summary type="text"><![CDATA[艾雪周刊 V.07—openlist衍生项目和近期动态]]></summary>
+    </entry>
         <entry>
         <title>Claude Code Agent Loop 研究系列（03）—— 从读文件到并行调度</title>
         <id>168804</id>
@@ -44,6 +55,50 @@
             <uri>https://ilogs.cn</uri>
         </author>
         <summary type="text"><![CDATA[debian安装+本地主机穿透做异地备份服务器]]></summary>
+    </entry>
+        <entry>
+        <title>入蜀记 day450 正行亡私</title>
+        <id>168805</id>
+        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_450/?utm_source=blogfinder" />
+        <published>2026-08-22T17:25:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[入蜀记 day450 正行亡私]]></summary>
+    </entry>
+        <entry>
+        <title>入蜀记 day449 东北蓝调</title>
+        <id>168806</id>
+        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_449/?utm_source=blogfinder" />
+        <published>2026-08-22T17:24:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[入蜀记 day449 东北蓝调]]></summary>
+    </entry>
+        <entry>
+        <title>入蜀记 day448 大学同学相识20周年</title>
+        <id>168807</id>
+        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_448/?utm_source=blogfinder" />
+        <published>2026-08-22T17:22:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[入蜀记 day448 大学同学相识20周年]]></summary>
+    </entry>
+        <entry>
+        <title>入蜀记 day447 辽宁大厦</title>
+        <id>168808</id>
+        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_447/?utm_source=blogfinder" />
+        <published>2026-08-22T17:18:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[入蜀记 day447 辽宁大厦]]></summary>
     </entry>
         <entry>
         <title>爱就是爱</title>
@@ -88,6 +143,39 @@
             <uri>https://siwei.li</uri>
         </author>
         <summary type="text"><![CDATA[机场推荐]]></summary>
+    </entry>
+        <entry>
+        <title>丁达尔 II</title>
+        <id>168809</id>
+        <link href="https://mobius.blog/25466.html?utm_source=blogfinder" />
+        <published>2026-08-22T14:00:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[丁达尔 II]]></summary>
+    </entry>
+        <entry>
+        <title>说说：FC27 邝兆镭（Kuang Zhaolei）球员卡，最大亮点就是速度…</title>
+        <id>168810</id>
+        <link href="https://yigeboke.com/shuoshuo.php#shuo_38?utm_source=blogfinder" />
+        <published>2026-08-22T13:33:47+08:00</published>
+        <author>
+            <name>一个博客</name>
+            <uri>https://yigeboke.com</uri>
+        </author>
+        <summary type="text"><![CDATA[说说：FC27 邝兆镭（Kuang Zhaolei）球员卡，最大亮点就是速度…]]></summary>
+    </entry>
+        <entry>
+        <title>最好的牛肉汤</title>
+        <id>168812</id>
+        <link href="https://imxcy.cn/archives/6697bd84.html?utm_source=blogfinder" />
+        <published>2026-08-22T11:57:00+08:00</published>
+        <author>
+            <name>许大阳的日记本</name>
+            <uri>https://imxcy.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[最好的牛肉汤]]></summary>
     </entry>
         <entry>
         <title>最近干了点啥？</title>
@@ -1474,93 +1562,5 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1709】李山《诗经：人间至美是真情》]]></summary>
-    </entry>
-        <entry>
-        <title>长安CS55更换后轮刹车片</title>
-        <id>168403</id>
-        <link href="https://qfsyj.com/20260730-shache.html?utm_source=blogfinder" />
-        <published>2026-08-19T20:50:00+08:00</published>
-        <author>
-            <name>不曾长大</name>
-            <uri>https://qfsyj.com</uri>
-        </author>
-        <summary type="text"><![CDATA[长安CS55更换后轮刹车片]]></summary>
-    </entry>
-        <entry>
-        <title>Qwen3.8-27B 测试（1）</title>
-        <id>168416</id>
-        <link href="https://556799.xyz/archives/qwen3.8-27b-ce-shi-1?utm_source=blogfinder" />
-        <published>2026-08-19T20:24:43+08:00</published>
-        <author>
-            <name>Jacylunatic</name>
-            <uri>https://991198.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[Qwen3.8-27B 测试（1）]]></summary>
-    </entry>
-        <entry>
-        <title>不想成为平庸无聊的大人</title>
-        <id>168522</id>
-        <link href="https://www.tinsur.cn/946.html?utm_source=blogfinder" />
-        <published>2026-08-19T20:21:11+08:00</published>
-        <author>
-            <name>Tinsur Blog</name>
-            <uri>https://www.tinsur.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[不想成为平庸无聊的大人]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day446 FCF</title>
-        <id>168385</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_446/?utm_source=blogfinder" />
-        <published>2026-08-19T19:17:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day446 FCF]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day445 幺妹峰</title>
-        <id>168386</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_445/?utm_source=blogfinder" />
-        <published>2026-08-19T19:16:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day445 幺妹峰]]></summary>
-    </entry>
-        <entry>
-        <title>游玩日记·第二期</title>
-        <id>168391</id>
-        <link href="https://blog.weasel6.cn/posts/life-second/?utm_source=blogfinder" />
-        <published>2026-08-19T19:16:00+08:00</published>
-        <author>
-            <name>小黄的日记本</name>
-            <uri>https://blog.weasel6.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[游玩日记·第二期]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day444 没有工位</title>
-        <id>168387</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_444/?utm_source=blogfinder" />
-        <published>2026-08-19T19:15:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day444 没有工位]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day443 打呼噜</title>
-        <id>168388</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_443/?utm_source=blogfinder" />
-        <published>2026-08-19T19:14:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day443 打呼噜]]></summary>
     </entry>
     </feed>
