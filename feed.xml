@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-22T13:06:22+08:00</updated>
+    <updated>2026-08-22T15:00:21+08:00</updated>
         <entry>
         <title>这个 aptitude 没有超级牛力</title>
         <id>168792</id>
@@ -77,6 +77,28 @@
             <uri>https://qaqbuyan.com:88</uri>
         </author>
         <summary type="text"><![CDATA[手写一个最小 MCP 客户端，理解 LLM 与本地工具的契约]]></summary>
+    </entry>
+        <entry>
+        <title>一半是暗影，一半是梦境。</title>
+        <id>168793</id>
+        <link href="https://www.puresky.top/archives/McT2i7Dw?utm_source=blogfinder" />
+        <published>2026-08-21T23:03:37+08:00</published>
+        <author>
+            <name>轻雅阁</name>
+            <uri>https://www.puresky.top</uri>
+        </author>
+        <summary type="text"><![CDATA[一半是暗影，一半是梦境。]]></summary>
+    </entry>
+        <entry>
+        <title>序章：粉色的云</title>
+        <id>168794</id>
+        <link href="https://www.puresky.top/archives/MoQC2CpB?utm_source=blogfinder" />
+        <published>2026-08-21T22:59:27+08:00</published>
+        <author>
+            <name>轻雅阁</name>
+            <uri>https://www.puresky.top</uri>
+        </author>
+        <summary type="text"><![CDATA[序章：粉色的云]]></summary>
     </entry>
         <entry>
         <title>【读书记1711】林达《历史深处的忧虑：近距离看美国之一》</title>
@@ -1562,82 +1584,5 @@
             <uri>https://www.baiwumm.com</uri>
         </author>
         <summary type="text"><![CDATA[链接卡片：在文章里引用外链与站内文章]]></summary>
-    </entry>
-        <entry>
-        <title>Maltose：15 天重构博客，先写了 29 份 ADR 才敢写代码</title>
-        <id>168415</id>
-        <link href="https://styunlen.cn/archives/post-1812.html?utm_source=blogfinder" />
-        <published>2026-08-19T14:37:49+08:00</published>
-        <author>
-            <name>九仞之行</name>
-            <uri>https://styunlen.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Maltose：15 天重构博客，先写了 29 份 ADR 才敢写代码]]></summary>
-    </entry>
-        <entry>
-        <title>当下国内汽车制造行业的乱象</title>
-        <id>168404</id>
-        <link href="https://leileiluoluo.com/posts/qi-che-zhi-zao-luan-xiang.html?utm_source=blogfinder" />
-        <published>2026-08-19T14:20:00+08:00</published>
-        <author>
-            <name>磊磊落落</name>
-            <uri>https://leileiluoluo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[当下国内汽车制造行业的乱象]]></summary>
-    </entry>
-        <entry>
-        <title>Markdown 语法演示：本站文章的书写指南</title>
-        <id>168640</id>
-        <link href="https://baiwumm.com/posts/m7k3q9x2/?utm_source=blogfinder" />
-        <published>2026-08-19T14:05:00+08:00</published>
-        <author>
-            <name>谜叶象限</name>
-            <uri>https://www.baiwumm.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Markdown 语法演示：本站文章的书写指南]]></summary>
-    </entry>
-        <entry>
-        <title>解决雪花算法ID传到前端丢失精度问题</title>
-        <id>168372</id>
-        <link href="https://www.tinsur.cn/943.html?utm_source=blogfinder" />
-        <published>2026-08-19T13:58:25+08:00</published>
-        <author>
-            <name>Tinsur Blog</name>
-            <uri>https://www.tinsur.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[解决雪花算法ID传到前端丢失精度问题]]></summary>
-    </entry>
-        <entry>
-        <title>分享一下博客的全新聚合搜索</title>
-        <id>168375</id>
-        <link href="https://blog.zhheo.com/p/mgii3qy1.html?utm_source=blogfinder" />
-        <published>2026-08-19T13:55:39+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[分享一下博客的全新聚合搜索]]></summary>
-    </entry>
-        <entry>
-        <title>是否有些地方不怎么看重升学宴</title>
-        <id>168377</id>
-        <link href="https://www.pgoj.top/archives/gao-kao-sheng-xue-yan.html?utm_source=blogfinder" />
-        <published>2026-08-19T13:54:01+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[是否有些地方不怎么看重升学宴]]></summary>
-    </entry>
-        <entry>
-        <title>碎片动态 2026-08-19</title>
-        <id>168373</id>
-        <link href="https://sigge.cn/2026/08/19/6y3fo22lmqje?utm_source=blogfinder" />
-        <published>2026-08-19T13:42:13+08:00</published>
-        <author>
-            <name>毛伊西格</name>
-            <uri>https://sigge.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[碎片动态 2026-08-19]]></summary>
     </entry>
     </feed>
