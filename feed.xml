@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-22T23:08:55+08:00</updated>
+    <updated>2026-08-23T00:00:55+08:00</updated>
         <entry>
         <title>2026-08-22 21:53</title>
         <id>168813</id>
@@ -22,6 +22,17 @@
             <uri>https://koobai.com</uri>
         </author>
         <summary type="text"><![CDATA[2026-08-22 21:53]]></summary>
+    </entry>
+        <entry>
+        <title>eBPF 在安全监控中的应用：用 bpftrace 追踪系统调用异常</title>
+        <id>168818</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/142.html?utm_source=blogfinder" />
+        <published>2026-08-22T21:44:11+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[eBPF 在安全监控中的应用：用 bpftrace 追踪系统调用异常]]></summary>
     </entry>
         <entry>
         <title>关于信念</title>
@@ -110,6 +121,17 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[入蜀记 day448 大学同学相识20周年]]></summary>
+    </entry>
+        <entry>
+        <title>体检之后，不得不开始痛击“脂肪肝”了，别等到命不久矣</title>
+        <id>168817</id>
+        <link href="https://www.52txr.cn/2026/zhifanggan.html?utm_source=blogfinder" />
+        <published>2026-08-22T17:20:00+08:00</published>
+        <author>
+            <name>陶小桃</name>
+            <uri>https://www.52txr.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[体检之后，不得不开始痛击“脂肪肝”了，别等到命不久矣]]></summary>
     </entry>
         <entry>
         <title>入蜀记 day447 辽宁大厦</title>
@@ -981,6 +1003,17 @@
         <summary type="text"><![CDATA[一些忙碌之外的余温]]></summary>
     </entry>
         <entry>
+        <title>连胜的陷阱</title>
+        <id>168819</id>
+        <link href="https://blog.solazy.me/20260820/?utm_source=blogfinder" />
+        <published>2026-08-20T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[连胜的陷阱]]></summary>
+    </entry>
+        <entry>
         <title>2026-08-20 22:17</title>
         <id>168576</id>
         <link href="https://koobai.com/laodao/2026/08/20260820-221736/?utm_source=blogfinder" />
@@ -1397,115 +1430,5 @@
             <uri>http://stuit.cn</uri>
         </author>
         <summary type="text"><![CDATA[入蜀记（20260801-07）二、成都到处都是“熊猫”]]></summary>
-    </entry>
-        <entry>
-        <title>Modular：统一 AI 开发与部署的 MAX 框架与 Mojo 语言开源平台</title>
-        <id>168556</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-20/modular/?utm_source=blogfinder" />
-        <published>2026-08-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Modular：统一 AI 开发与部署的 MAX 框架与 Mojo 语言开源平台]]></summary>
-    </entry>
-        <entry>
-        <title>Magnitude：一个完全本地运行的开源 AI Agent，支持离线使用</title>
-        <id>168555</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-20/magnitude/?utm_source=blogfinder" />
-        <published>2026-08-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Magnitude：一个完全本地运行的开源 AI Agent，支持离线使用]]></summary>
-    </entry>
-        <entry>
-        <title>Learn Harness Engineering：如何构建让 AI 编码 Agent 稳定可靠工作的环境</title>
-        <id>168554</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-20/learn-harness-engineering/?utm_source=blogfinder" />
-        <published>2026-08-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Learn Harness Engineering：如何构建让 AI 编码 Agent 稳定可靠工作的环境]]></summary>
-    </entry>
-        <entry>
-        <title>BetterWright：为 AI Agent 量身打造的 token 高效浏览器</title>
-        <id>168553</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-20/betterwright/?utm_source=blogfinder" />
-        <published>2026-08-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[BetterWright：为 AI Agent 量身打造的 token 高效浏览器]]></summary>
-    </entry>
-        <entry>
-        <title>Agent Substrate：大规模 AI Agent 部署的高密度运行时环境</title>
-        <id>168552</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-20/substrate/?utm_source=blogfinder" />
-        <published>2026-08-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Agent Substrate：大规模 AI Agent 部署的高密度运行时环境]]></summary>
-    </entry>
-        <entry>
-        <title>用 DeepSeek Harness 打造本地 AI 工作台：DeepSeek Harness Desktop App 深度解析</title>
-        <id>168406</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-20/deepseek-harness-desktop-app/?utm_source=blogfinder" />
-        <published>2026-08-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[用 DeepSeek Harness 打造本地 AI 工作台：DeepSeek Harness Desktop App 深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>prettymaps：用一行 Python 把任意地点画成艺术地图</title>
-        <id>168405</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-20/prettymaps/?utm_source=blogfinder" />
-        <published>2026-08-20T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[prettymaps：用一行 Python 把任意地点画成艺术地图]]></summary>
-    </entry>
-        <entry>
-        <title>楼下的官方催生海报，七夕跟生育关联起来了</title>
-        <id>168399</id>
-        <link href="https://cuixiping.com/blog/post/afskcj?utm_source=blogfinder" />
-        <published>2026-08-19T23:59:59+08:00</published>
-        <author>
-            <name>崔话记</name>
-            <uri>https://cuixiping.com</uri>
-        </author>
-        <summary type="text"><![CDATA[楼下的官方催生海报，七夕跟生育关联起来了]]></summary>
-    </entry>
-        <entry>
-        <title>Silo-and-Piclist</title>
-        <id>168401</id>
-        <link href="https://1.122915.xyz/posts/silo-and-piclist/?utm_source=blogfinder" />
-        <published>2026-08-19T23:49:42+08:00</published>
-        <author>
-            <name>风言风语</name>
-            <uri>https://1.122915.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[Silo-and-Piclist]]></summary>
-    </entry>
-        <entry>
-        <title>也许那一刻他是“好人”</title>
-        <id>168395</id>
-        <link href="http://99887766554433221100.cn/archives/197/?utm_source=blogfinder" />
-        <published>2026-08-19T23:20:25+08:00</published>
-        <author>
-            <name>南香香</name>
-            <uri>http://99887766554433221100.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[也许那一刻他是“好人”]]></summary>
     </entry>
     </feed>
