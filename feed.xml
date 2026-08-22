@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-22T21:00:22+08:00</updated>
+    <updated>2026-08-22T22:00:19+08:00</updated>
         <entry>
         <title>艾雪周刊 V.07—openlist衍生项目和近期动态</title>
         <id>168811</id>
@@ -1540,27 +1540,5 @@
             <uri>https://pewae.com</uri>
         </author>
         <summary type="text"><![CDATA[看图不说话20260819]]></summary>
-    </entry>
-        <entry>
-        <title>一例 Redis 导致服务器 CPU 飙高的问题排查</title>
-        <id>168519</id>
-        <link href="https://www.sunzhongwei.com/troubleshoot-of-redis-causing-server-cpu-soar?utm_source=blogfinder" />
-        <published>2026-08-19T21:56:59+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[一例 Redis 导致服务器 CPU 飙高的问题排查]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1709】李山《诗经：人间至美是真情》</title>
-        <id>168390</id>
-        <link href="http://www.qncd.com/?p=13014&amp;utm_source=blogfinder" />
-        <published>2026-08-19T21:02:31+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1709】李山《诗经：人间至美是真情》]]></summary>
     </entry>
     </feed>
