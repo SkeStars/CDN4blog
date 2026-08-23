@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-23T22:00:15+08:00</updated>
+    <updated>2026-08-23T23:09:01+08:00</updated>
         <entry>
         <title>好好笑，发给你们也笑一下</title>
         <id>168892</id>
@@ -22,6 +22,28 @@
             <uri>https://mojue88.com</uri>
         </author>
         <summary type="text"><![CDATA[好好笑，发给你们也笑一下]]></summary>
+    </entry>
+        <entry>
+        <title>山中无老虎</title>
+        <id>168905</id>
+        <link href="https://www.chenrui.com/post/3502.html?utm_source=blogfinder" />
+        <published>2026-08-23T20:45:31+08:00</published>
+        <author>
+            <name>不可</name>
+            <uri>https://www.chenrui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[山中无老虎]]></summary>
+    </entry>
+        <entry>
+        <title>杂记</title>
+        <id>168906</id>
+        <link href="https://www.chenrui.com/post/3501.html?utm_source=blogfinder" />
+        <published>2026-08-23T20:36:23+08:00</published>
+        <author>
+            <name>不可</name>
+            <uri>https://www.chenrui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[杂记]]></summary>
     </entry>
         <entry>
         <title>命禄论</title>
@@ -44,6 +66,17 @@
             <uri>https://www.mmbkz.cn</uri>
         </author>
         <summary type="text"><![CDATA[说说：#2026-08-23 18:41]]></summary>
+    </entry>
+        <entry>
+        <title>在 Emacs 中用漢典查詢倉頡碼</title>
+        <id>168907</id>
+        <link href="https://taxodium.ink/query-cangjie-codes-using-han-dian-in-emacs.html?utm_source=blogfinder" />
+        <published>2026-08-23T18:00:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[在 Emacs 中用漢典查詢倉頡碼]]></summary>
     </entry>
         <entry>
         <title>Claude Code Agent Loop 研究系列（04）—— stop_reason 的 7 种含义</title>
@@ -1848,38 +1881,5 @@
             <uri>https://blog.lichenghao.cn</uri>
         </author>
         <summary type="text"><![CDATA[嘿,第一次瑞幸&#039;幸运取餐码&#039;「555」～]]></summary>
-    </entry>
-        <entry>
-        <title>一些忙碌之外的余温</title>
-        <id>168558</id>
-        <link href="https://blog.grtsinry43.com/moments/2026/08/20/afterglow?utm_source=blogfinder" />
-        <published>2026-08-20T23:01:43+08:00</published>
-        <author>
-            <name>Grtsinry43&#039;s Blog</name>
-            <uri>https://blog.grtsinry43.com</uri>
-        </author>
-        <summary type="text"><![CDATA[一些忙碌之外的余温]]></summary>
-    </entry>
-        <entry>
-        <title>连胜的陷阱</title>
-        <id>168819</id>
-        <link href="https://blog.solazy.me/20260820/?utm_source=blogfinder" />
-        <published>2026-08-20T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[连胜的陷阱]]></summary>
-    </entry>
-        <entry>
-        <title>2026-08-20 22:17</title>
-        <id>168576</id>
-        <link href="https://koobai.com/laodao/2026/08/20260820-221736/?utm_source=blogfinder" />
-        <published>2026-08-20T22:17:36+08:00</published>
-        <author>
-            <name>Koobai</name>
-            <uri>https://koobai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-08-20 22:17]]></summary>
     </entry>
     </feed>
