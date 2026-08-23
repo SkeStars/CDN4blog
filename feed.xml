@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-23T19:00:50+08:00</updated>
+    <updated>2026-08-23T21:00:43+08:00</updated>
+        <entry>
+        <title>好好笑，发给你们也笑一下</title>
+        <id>168892</id>
+        <link href="https://mojue88.com/18?utm_source=blogfinder" />
+        <published>2026-08-23T20:59:54+08:00</published>
+        <author>
+            <name>墨觉の日记</name>
+            <uri>https://mojue88.com</uri>
+        </author>
+        <summary type="text"><![CDATA[好好笑，发给你们也笑一下]]></summary>
+    </entry>
+        <entry>
+        <title>说说：#2026-08-23 18:41</title>
+        <id>168891</id>
+        <link href="https://www.mmbkz.cn/8925d44.html?utm_source=blogfinder" />
+        <published>2026-08-23T18:41:53+08:00</published>
+        <author>
+            <name>绯色之喵</name>
+            <uri>https://www.mmbkz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[说说：#2026-08-23 18:41]]></summary>
+    </entry>
         <entry>
         <title>Claude Code Agent Loop 研究系列（04）—— stop_reason 的 7 种含义</title>
         <id>168889</id>
@@ -24,6 +46,28 @@
         <summary type="text"><![CDATA[Claude Code Agent Loop 研究系列（04）—— stop_reason 的 7 种含义]]></summary>
     </entry>
         <entry>
+        <title>让人厌恶的不自觉的吸烟者</title>
+        <id>168890</id>
+        <link href="https://www.pgoj.top/archives/yan-wu-er-shou-yan.html?utm_source=blogfinder" />
+        <published>2026-08-23T17:39:01+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[让人厌恶的不自觉的吸烟者]]></summary>
+    </entry>
+        <entry>
+        <title>[Agent 考古] 600 条规则，一个反向推理引擎——专家系统的顶峰是怎么建成又怎么暴露边界的</title>
+        <id>168894</id>
+        <link href="https://www.paddysun.top/archives/4987?utm_source=blogfinder" />
+        <published>2026-08-23T17:00:00+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[[Agent 考古] 600 条规则，一个反向推理引擎——专家系统的顶峰是怎么建成又怎么暴露边界的]]></summary>
+    </entry>
+        <entry>
         <title>对抗性样本攻击下的行为风控失效溯源：时序特征扰动的数学边界与模型鲁棒性重构</title>
         <id>168867</id>
         <link href="https://qaqbuyan.com:88/乔安文章/143.html?utm_source=blogfinder" />
@@ -33,6 +77,17 @@
             <uri>https://qaqbuyan.com:88</uri>
         </author>
         <summary type="text"><![CDATA[对抗性样本攻击下的行为风控失效溯源：时序特征扰动的数学边界与模型鲁棒性重构]]></summary>
+    </entry>
+        <entry>
+        <title>[Agent 考古] 秘书要求他离开房间——一个程序为什么让人想跟它说心里话</title>
+        <id>168895</id>
+        <link href="https://www.paddysun.top/archives/4980?utm_source=blogfinder" />
+        <published>2026-08-23T15:00:00+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[[Agent 考古] 秘书要求他离开房间——一个程序为什么让人想跟它说心里话]]></summary>
     </entry>
         <entry>
         <title>go的cron表达式</title>
@@ -255,6 +310,17 @@
         <summary type="text"><![CDATA[eino实现Agent]]></summary>
     </entry>
         <entry>
+        <title>[Agent 考古] 像冰箱一样大的家伙，是怎么学会推箱子的</title>
+        <id>168896</id>
+        <link href="https://www.paddysun.top/archives/4968?utm_source=blogfinder" />
+        <published>2026-08-23T13:00:00+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[[Agent 考古] 像冰箱一样大的家伙，是怎么学会推箱子的]]></summary>
+    </entry>
+        <entry>
         <title>【读书记1712】林达《总统是靠不住的：近距离看美国之二》</title>
         <id>168866</id>
         <link href="http://www.qncd.com/?p=13032&amp;utm_source=blogfinder" />
@@ -431,6 +497,17 @@
         <summary type="text"><![CDATA[Deepseek终于长眼睛了]]></summary>
     </entry>
         <entry>
+        <title>[Agent 考古] 陈述句革命：告诉AI事实，让它自己想该做什么</title>
+        <id>168897</id>
+        <link href="https://www.paddysun.top/archives/4958?utm_source=blogfinder" />
+        <published>2026-08-23T07:00:00+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[[Agent 考古] 陈述句革命：告诉AI事实，让它自己想该做什么]]></summary>
+    </entry>
+        <entry>
         <title>暑假旅行｜中部自驾01 - 山西临汾</title>
         <id>168836</id>
         <link href="https://ficor.net/archives/55?utm_source=blogfinder" />
@@ -442,6 +519,17 @@
         <summary type="text"><![CDATA[暑假旅行｜中部自驾01 - 山西临汾]]></summary>
     </entry>
         <entry>
+        <title>[Agent 考古] 1956 年圣诞，三个男人发明了一台会”思考”的机器——但没人在乎</title>
+        <id>168898</id>
+        <link href="https://www.paddysun.top/archives/4947?utm_source=blogfinder" />
+        <published>2026-08-23T05:00:00+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[[Agent 考古] 1956 年圣诞，三个男人发明了一台会”思考”的机器——但没人在乎]]></summary>
+    </entry>
+        <entry>
         <title>星海罐头！</title>
         <id>168830</id>
         <link href="https://onewumi.com/2026/08/23/xhgthz/?utm_source=blogfinder" />
@@ -451,6 +539,17 @@
             <uri>https://onewumi.com</uri>
         </author>
         <summary type="text"><![CDATA[星海罐头！]]></summary>
+    </entry>
+        <entry>
+        <title>[Agent 考古] 符号单体时代：范式最深刻的否定者，恰恰在范式内部孕育(阶段二导航)</title>
+        <id>168899</id>
+        <link href="https://www.paddysun.top/archives/4998?utm_source=blogfinder" />
+        <published>2026-08-23T03:00:00+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[[Agent 考古] 符号单体时代：范式最深刻的否定者，恰恰在范式内部孕育(阶段二导航)]]></summary>
     </entry>
         <entry>
         <title>苏州游记：一半江南，一半赛博</title>
@@ -473,6 +572,17 @@
             <uri>https://xiaoxi.ac.cn</uri>
         </author>
         <summary type="text"><![CDATA[婚姻里的伤害，法律究竟能看见多少？——谈离婚诉讼中的精神损害赔偿]]></summary>
+    </entry>
+        <entry>
+        <title>[Agent 考古] 符号单体时代：第一组织形式的确立与反叛(阶段二导航)</title>
+        <id>168900</id>
+        <link href="https://www.paddysun.top/archives/4942?utm_source=blogfinder" />
+        <published>2026-08-23T01:00:00+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[[Agent 考古] 符号单体时代：第一组织形式的确立与反叛(阶段二导航)]]></summary>
     </entry>
         <entry>
         <title>同花顺 Financial-API：面向 AI Agent 与量化研究的 A 股金融数据服务</title>
@@ -508,6 +618,17 @@
         <summary type="text"><![CDATA[n8n: 开源 AI 工作流自动化平台，一站式构建生产级 AI Agent]]></summary>
     </entry>
         <entry>
+        <title>[Agent 考古] AI 组织形式的七次重分配(总领导航)</title>
+        <id>168901</id>
+        <link href="https://www.paddysun.top/archives/4915?utm_source=blogfinder" />
+        <published>2026-08-22T23:38:08+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[[Agent 考古] AI 组织形式的七次重分配(总领导航)]]></summary>
+    </entry>
+        <entry>
         <title>微醺</title>
         <id>168844</id>
         <link href="https://ezo.biz/Diary/1600.html?utm_source=blogfinder" />
@@ -539,6 +660,17 @@
             <uri>https://qaqbuyan.com:88</uri>
         </author>
         <summary type="text"><![CDATA[eBPF 在安全监控中的应用：用 bpftrace 追踪系统调用异常]]></summary>
+    </entry>
+        <entry>
+        <title>好不容易看上一个域名结果被抢注了</title>
+        <id>168902</id>
+        <link href="https://vte.cc/natter/18/?utm_source=blogfinder" />
+        <published>2026-08-22T20:29:02+08:00</published>
+        <author>
+            <name>维特笔记</name>
+            <uri>https://vte.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[好不容易看上一个域名结果被抢注了]]></summary>
     </entry>
         <entry>
         <title>关于信念</title>
@@ -1804,27 +1936,5 @@
             <uri>https://www.infinite.moe</uri>
         </author>
         <summary type="text"><![CDATA[jona公共日记002]]></summary>
-    </entry>
-        <entry>
-        <title>银河竞逐的乐趣和策略</title>
-        <id>168542</id>
-        <link href="https://blog.codingnow.com/2026/08/rftg_strategy.html?utm_source=blogfinder" />
-        <published>2026-08-20T20:01:10+08:00</published>
-        <author>
-            <name>云风的 BLOG</name>
-            <uri>https://blog.codingnow.com</uri>
-        </author>
-        <summary type="text"><![CDATA[银河竞逐的乐趣和策略]]></summary>
-    </entry>
-        <entry>
-        <title>丁达尔</title>
-        <id>168539</id>
-        <link href="https://mobius.blog/25454.html?utm_source=blogfinder" />
-        <published>2026-08-20T19:57:31+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[丁达尔]]></summary>
     </entry>
     </feed>
