@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-23T17:00:41+08:00</updated>
+    <updated>2026-08-23T18:00:21+08:00</updated>
         <entry>
         <title>对抗性样本攻击下的行为风控失效溯源：时序特征扰动的数学边界与模型鲁棒性重构</title>
         <id>168867</id>
@@ -1815,49 +1815,5 @@
             <uri>http://lcrworld.xyz</uri>
         </author>
         <summary type="text"><![CDATA[我在安卓上实现了手机端一键实况图提取：OPPO、一加、三星、谷歌都能用]]></summary>
-    </entry>
-        <entry>
-        <title>Claude Code Agent Loop 研究系列（01）—— 从 tool 声明到执行前的批准</title>
-        <id>168601</id>
-        <link href="https://xilidou.com/2026/08/20/claude-code-agent-loop-01-tool-approval/?utm_source=blogfinder" />
-        <published>2026-08-20T18:00:00+08:00</published>
-        <author>
-            <name>犀利豆的博客</name>
-            <uri>https://xilidou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude Code Agent Loop 研究系列（01）—— 从 tool 声明到执行前的批准]]></summary>
-    </entry>
-        <entry>
-        <title>2026.8.20</title>
-        <id>168568</id>
-        <link href="https://www.justzht.com/2026-8-20/?utm_source=blogfinder" />
-        <published>2026-08-20T17:33:01+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.8.20]]></summary>
-    </entry>
-        <entry>
-        <title>IDM 扩展老劫持下载、下载文件名乱码？我写了个小扩展让它按需开关</title>
-        <id>168538</id>
-        <link href="https://www.tjsky.net/best-software/1819?utm_source=blogfinder" />
-        <published>2026-08-20T17:20:47+08:00</published>
-        <author>
-            <name>秋风于渭水</name>
-            <uri>https://www.tjsky.net</uri>
-        </author>
-        <summary type="text"><![CDATA[IDM 扩展老劫持下载、下载文件名乱码？我写了个小扩展让它按需开关]]></summary>
-    </entry>
-        <entry>
-        <title>一场互联网的狂欢——“走个面儿”的问题</title>
-        <id>168578</id>
-        <link href="https://chidd.net/2026/08/20/niu-lai.html?utm_source=blogfinder" />
-        <published>2026-08-20T17:14:06+08:00</published>
-        <author>
-            <name>伪医生律师的博客</name>
-            <uri>https://chidd.net</uri>
-        </author>
-        <summary type="text"><![CDATA[一场互联网的狂欢——“走个面儿”的问题]]></summary>
     </entry>
     </feed>
