@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-24T13:07:20+08:00</updated>
+    <updated>2026-08-24T14:00:23+08:00</updated>
         <entry>
         <title>我升级成了 Microsoft Rewards 金牌会员</title>
         <id>168991</id>
@@ -132,6 +132,17 @@
             <uri>https://www.paddysun.top</uri>
         </author>
         <summary type="text"><![CDATA[[Agent 考古] 你的大脑里住着一个小人吗——Minsky 说：不，住着成百上千个”笨蛋”]]></summary>
+    </entry>
+        <entry>
+        <title>給博客添加純文本版本</title>
+        <id>168993</id>
+        <link href="https://taxodium.ink/add-plain-text-version-to-blog.html?utm_source=blogfinder" />
+        <published>2026-08-24T00:44:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[給博客添加純文本版本]]></summary>
     </entry>
         <entry>
         <title>BookOrbit：自托管的全格式电子书与有声书阅读管理平台</title>
@@ -1826,27 +1837,5 @@
             <uri>https://www.jackytong.com</uri>
         </author>
         <summary type="text"><![CDATA[下沉]]></summary>
-    </entry>
-        <entry>
-        <title>理想四旬</title>
-        <id>168628</id>
-        <link href="https://ezo.biz/Diary/1599.html?utm_source=blogfinder" />
-        <published>2026-08-21T13:27:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[理想四旬]]></summary>
-    </entry>
-        <entry>
-        <title>博客阅读随感：也谈人工智能是否会有自主意识</title>
-        <id>168603</id>
-        <link href="https://www.suiyan.cc/blog/20260821131207?utm_source=blogfinder" />
-        <published>2026-08-21T13:12:07+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[博客阅读随感：也谈人工智能是否会有自主意识]]></summary>
     </entry>
     </feed>
