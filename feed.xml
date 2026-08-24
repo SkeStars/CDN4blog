@@ -11,7 +11,95 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-24T00:01:21+08:00</updated>
+    <updated>2026-08-24T10:00:11+08:00</updated>
+        <entry>
+        <title>大脑充血 Vol.95</title>
+        <id>168975</id>
+        <link href="https://www.geedea.pro/weekly/95/?utm_source=blogfinder" />
+        <published>2026-08-24T08:05:48+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[大脑充血 Vol.95]]></summary>
+    </entry>
+        <entry>
+        <title>[Agent 考古] 多头注意力共享目标、参数即隐式模型、CoT 是概率采样——LLM 被三条“反叛伏线”夹击</title>
+        <id>168968</id>
+        <link href="https://www.paddysun.top/archives/5039?utm_source=blogfinder" />
+        <published>2026-08-24T07:00:00+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[[Agent 考古] 多头注意力共享目标、参数即隐式模型、CoT 是概率采样——LLM 被三条“反叛伏线”夹击]]></summary>
+    </entry>
+        <entry>
+        <title>周度总结 8-1：中转站、域名</title>
+        <id>168982</id>
+        <link href="https://www.luming.cool/posts/2026/08/weekly-8-1/?utm_source=blogfinder" />
+        <published>2026-08-24T05:55:25+08:00</published>
+        <author>
+            <name>路明笔记</name>
+            <uri>https://www.luming.cool</uri>
+        </author>
+        <summary type="text"><![CDATA[周度总结 8-1：中转站、域名]]></summary>
+    </entry>
+        <entry>
+        <title>[Agent 考古] 别再给机器人建“世界模型”了！Brooks用代码证明：世界本身就是最好的模型</title>
+        <id>168969</id>
+        <link href="https://www.paddysun.top/archives/5030?utm_source=blogfinder" />
+        <published>2026-08-24T05:00:00+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[[Agent 考古] 别再给机器人建“世界模型”了！Brooks用代码证明：世界本身就是最好的模型]]></summary>
+    </entry>
+        <entry>
+        <title>[Agent 考古] 别再给机器人装“大脑”了！1986 年的“三无”架构证明：越不思考，活得越久。</title>
+        <id>168970</id>
+        <link href="https://www.paddysun.top/archives/5013?utm_source=blogfinder" />
+        <published>2026-08-24T03:00:00+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[[Agent 考古] 别再给机器人装“大脑”了！1986 年的“三无”架构证明：越不思考，活得越久。]]></summary>
+    </entry>
+        <entry>
+        <title>《欢迎来龙餐馆》：好好吃饭与反战</title>
+        <id>168979</id>
+        <link href="https://pinlyu.com/culture/movie-loong-restaurant/?utm_source=blogfinder" />
+        <published>2026-08-24T02:30:52+08:00</published>
+        <author>
+            <name>频率</name>
+            <uri>https://pinlyu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《欢迎来龙餐馆》：好好吃饭与反战]]></summary>
+    </entry>
+        <entry>
+        <title>[Agent 考古] 你的大脑里住着一个小人吗——Minsky 说：不，住着成百上千个”笨蛋”</title>
+        <id>168971</id>
+        <link href="https://www.paddysun.top/archives/4997?utm_source=blogfinder" />
+        <published>2026-08-24T01:00:00+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[[Agent 考古] 你的大脑里住着一个小人吗——Minsky 说：不，住着成百上千个”笨蛋”]]></summary>
+    </entry>
+        <entry>
+        <title>BookOrbit：自托管的全格式电子书与有声书阅读管理平台</title>
+        <id>168972</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-24/bookorbit/?utm_source=blogfinder" />
+        <published>2026-08-24T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[BookOrbit：自托管的全格式电子书与有声书阅读管理平台]]></summary>
+    </entry>
         <entry>
         <title>业余频段的对讲机，不能再商业应用了</title>
         <id>168914</id>
@@ -22,6 +110,17 @@
             <uri>https://blog.mfwt.top</uri>
         </author>
         <summary type="text"><![CDATA[业余频段的对讲机，不能再商业应用了]]></summary>
+    </entry>
+        <entry>
+        <title>UIKitCore 逆向分析报告</title>
+        <id>168915</id>
+        <link href="https://innei.in/posts/tinkering/uikitcore-reverse-engineering-report?utm_source=blogfinder" />
+        <published>2026-08-23T21:48:33+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[UIKitCore 逆向分析报告]]></summary>
     </entry>
         <entry>
         <title>好好笑，发给你们也笑一下</title>
@@ -112,6 +211,28 @@
         <summary type="text"><![CDATA[命禄论]]></summary>
     </entry>
         <entry>
+        <title>永远的新裤子——新裤子30周年演唱会</title>
+        <id>168917</id>
+        <link href="https://tianheg.co/posts/new-pants-30th-anniversary/?utm_source=blogfinder" />
+        <published>2026-08-23T18:59:00+08:00</published>
+        <author>
+            <name>一大加贝</name>
+            <uri>https://tianheg.co</uri>
+        </author>
+        <summary type="text"><![CDATA[永远的新裤子——新裤子30周年演唱会]]></summary>
+    </entry>
+        <entry>
+        <title>【小记】上手 Pi，记录一下我的 AI 编码实践</title>
+        <id>168919</id>
+        <link href="https://bottle.moe/bottle-309.html?utm_source=blogfinder" />
+        <published>2026-08-23T18:43:47+08:00</published>
+        <author>
+            <name>Bottle 小站</name>
+            <uri>https://bottle.moe</uri>
+        </author>
+        <summary type="text"><![CDATA[【小记】上手 Pi，记录一下我的 AI 编码实践]]></summary>
+    </entry>
+        <entry>
         <title>说说：#2026-08-23 18:41</title>
         <id>168891</id>
         <link href="https://www.mmbkz.cn/8925d44.html?utm_source=blogfinder" />
@@ -156,6 +277,17 @@
         <summary type="text"><![CDATA[让人厌恶的不自觉的吸烟者]]></summary>
     </entry>
         <entry>
+        <title>过马路小游戏 by Godot</title>
+        <id>168967</id>
+        <link href="https://7gugu.com/index.php/2026/08/23/%e8%bf%87%e9%a9%ac%e8%b7%af%e5%b0%8f%e6%b8%b8%e6%88%8f/?utm_source=blogfinder" />
+        <published>2026-08-23T17:09:27+08:00</published>
+        <author>
+            <name>7gugu’s Blog</name>
+            <uri>https://7gugu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[过马路小游戏 by Godot]]></summary>
+    </entry>
+        <entry>
         <title>[Agent 考古] 600 条规则，一个反向推理引擎——专家系统的顶峰是怎么建成又怎么暴露边界的</title>
         <id>168894</id>
         <link href="https://www.paddysun.top/archives/4987?utm_source=blogfinder" />
@@ -187,6 +319,17 @@
             <uri>https://www.paddysun.top</uri>
         </author>
         <summary type="text"><![CDATA[[Agent 考古] 秘书要求他离开房间——一个程序为什么让人想跟它说心里话]]></summary>
+    </entry>
+        <entry>
+        <title>读张爱玲的《第一炉香》《倾城之恋》《金锁记》等</title>
+        <id>168980</id>
+        <link href="https://www.jfsay.com/archives/4068.html?utm_source=blogfinder" />
+        <published>2026-08-23T14:59:09+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[读张爱玲的《第一炉香》《倾城之恋》《金锁记》等]]></summary>
     </entry>
         <entry>
         <title>go的cron表达式</title>
@@ -596,6 +739,39 @@
         <summary type="text"><![CDATA[Deepseek终于长眼睛了]]></summary>
     </entry>
         <entry>
+        <title>2026.08.23 博客阅读周记</title>
+        <id>168978</id>
+        <link href="https://www.immarcus.com/blog/weekly-20260823?utm_source=blogfinder" />
+        <published>2026-08-23T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026.08.23 博客阅读周记]]></summary>
+    </entry>
+        <entry>
+        <title>枪响之后，先让人吃饱——《欢迎来龙餐馆》观后</title>
+        <id>168977</id>
+        <link href="https://www.iliu.org/posts/long-restaurant-movie-review/?utm_source=blogfinder" />
+        <published>2026-08-23T08:00:00+08:00</published>
+        <author>
+            <name>老刘博客</name>
+            <uri>https://www.iliu.org</uri>
+        </author>
+        <summary type="text"><![CDATA[枪响之后，先让人吃饱——《欢迎来龙餐馆》观后]]></summary>
+    </entry>
+        <entry>
+        <title>我把所有的ETF投资都转到了一个平台</title>
+        <id>168976</id>
+        <link href="https://www.ozexplorers.com/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2026/08/23/chess-or-custodian-how-i-chose-an-etf-platform-in-australia.html?utm_source=blogfinder" />
+        <published>2026-08-23T08:00:00+08:00</published>
+        <author>
+            <name>Oz Explorer</name>
+            <uri>https://www.ozexplorers.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我把所有的ETF投资都转到了一个平台]]></summary>
+    </entry>
+        <entry>
         <title>[Agent 考古] 陈述句革命：告诉AI事实，让它自己想该做什么</title>
         <id>168897</id>
         <link href="https://www.paddysun.top/archives/4958?utm_source=blogfinder" />
@@ -682,6 +858,39 @@
             <uri>https://www.paddysun.top</uri>
         </author>
         <summary type="text"><![CDATA[[Agent 考古] 符号单体时代：第一组织形式的确立与反叛(阶段二导航)]]></summary>
+    </entry>
+        <entry>
+        <title>Vaultwarden：轻量级自托管密码管理服务器的最佳选择</title>
+        <id>168974</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-23/vaultwarden/?utm_source=blogfinder" />
+        <published>2026-08-23T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Vaultwarden：轻量级自托管密码管理服务器的最佳选择]]></summary>
+    </entry>
+        <entry>
+        <title>Claude Plugins Community：Anthropic 官方托管的 Claude Code 社区插件市场</title>
+        <id>168973</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-23/claude-plugins-community/?utm_source=blogfinder" />
+        <published>2026-08-23T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Claude Plugins Community：Anthropic 官方托管的 Claude Code 社区插件市场]]></summary>
+    </entry>
+        <entry>
+        <title>简谱：风华正茂</title>
+        <id>168966</id>
+        <link href="https://vnyzm.top/html/%E7%AE%80%E8%B0%B1%EF%BC%9A%E9%A3%8E%E5%8D%8E%E6%AD%A3%E8%8C%82.html?utm_source=blogfinder" />
+        <published>2026-08-23T00:00:00+08:00</published>
+        <author>
+            <name>VnYzm 的博客</name>
+            <uri>https://vnyzm.top</uri>
+        </author>
+        <summary type="text"><![CDATA[简谱：风华正茂]]></summary>
     </entry>
         <entry>
         <title>同花顺 Financial-API：面向 AI Agent 与量化研究的 A 股金融数据服务</title>
@@ -781,6 +990,17 @@
             <uri>https://vte.cc</uri>
         </author>
         <summary type="text"><![CDATA[好不容易看上一个域名结果被抢注了]]></summary>
+    </entry>
+        <entry>
+        <title>看美剧《绝命毒师》解说</title>
+        <id>168981</id>
+        <link href="https://www.jfsay.com/archives/4017.html?utm_source=blogfinder" />
+        <published>2026-08-22T20:13:07+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[看美剧《绝命毒师》解说]]></summary>
     </entry>
         <entry>
         <title>关于信念</title>
@@ -1661,225 +1881,5 @@
             <uri>https://sheep5.net</uri>
         </author>
         <summary type="text"><![CDATA[Chatbox：一个 App 使用多个 AI 模型]]></summary>
-    </entry>
-        <entry>
-        <title>从 Halo 到 Astro：博客终于变简单了</title>
-        <id>168638</id>
-        <link href="https://baiwumm.com/posts/iy5v650a/?utm_source=blogfinder" />
-        <published>2026-08-21T10:00:00+08:00</published>
-        <author>
-            <name>谜叶象限</name>
-            <uri>https://www.baiwumm.com</uri>
-        </author>
-        <summary type="text"><![CDATA[从 Halo 到 Astro：博客终于变简单了]]></summary>
-    </entry>
-        <entry>
-        <title>昨天，Codex一周用量用完，我沉默了一会儿</title>
-        <id>168577</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-21-ai-anxiety.html?utm_source=blogfinder" />
-        <published>2026-08-21T08:47:02+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[昨天，Codex一周用量用完，我沉默了一会儿]]></summary>
-    </entry>
-        <entry>
-        <title>🤖 Claude Code 把你的任务清单偷摸关了？一行命令救回来</title>
-        <id>168593</id>
-        <link href="https://www.huluohu.com/posts/2080/?utm_source=blogfinder" />
-        <published>2026-08-21T08:39:21+08:00</published>
-        <author>
-            <name>胡萝虎的博客</name>
-            <uri>https://www.huluohu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[🤖 Claude Code 把你的任务清单偷摸关了？一行命令救回来]]></summary>
-    </entry>
-        <entry>
-        <title>AI Agent 时代，Cloudflare Precursor 正在重新定义 Bot 防护</title>
-        <id>168571</id>
-        <link href="https://blog.tangwudi.com/technology/homedatacenter14651/?utm_source=blogfinder" />
-        <published>2026-08-21T08:24:38+08:00</published>
-        <author>
-            <name>无敌的个人博客</name>
-            <uri>https://blog.tangwudi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[AI Agent 时代，Cloudflare Precursor 正在重新定义 Bot 防护]]></summary>
-    </entry>
-        <entry>
-        <title>猫咪图集展示</title>
-        <id>168786</id>
-        <link href="https://blog.imshimao.com/note/2026/08/21/Cat.html?utm_source=blogfinder" />
-        <published>2026-08-21T08:00:00+08:00</published>
-        <author>
-            <name>石猫博客</name>
-            <uri>https://blog.imshimao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[猫咪图集展示]]></summary>
-    </entry>
-        <entry>
-        <title>记录第一次去香港——8 月份开卡记录</title>
-        <id>168785</id>
-        <link href="https://blog.sayori.org/posts/first-hong-kong/?utm_source=blogfinder" />
-        <published>2026-08-21T08:00:00+08:00</published>
-        <author>
-            <name>Amiya 的书桌</name>
-            <uri>https://blog.sayori.org</uri>
-        </author>
-        <summary type="text"><![CDATA[记录第一次去香港——8 月份开卡记录]]></summary>
-    </entry>
-        <entry>
-        <title>移动与复制</title>
-        <id>168784</id>
-        <link href="https://www.immarcus.com/blog/move-and-copy?utm_source=blogfinder" />
-        <published>2026-08-21T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[移动与复制]]></summary>
-    </entry>
-        <entry>
-        <title>临时变卦了</title>
-        <id>168783</id>
-        <link href="https://ddbzhou.com/post/linshibianguale/?utm_source=blogfinder" />
-        <published>2026-08-21T08:00:00+08:00</published>
-        <author>
-            <name>兜兜爸投资笔记</name>
-            <uri>https://ddbzhou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[临时变卦了]]></summary>
-    </entry>
-        <entry>
-        <title>极简静态博客的 Mermaid 原生图表系统集成与禅意调优实践</title>
-        <id>168778</id>
-        <link href="https://songlin.me/2026/08/21/mermaid/?utm_source=blogfinder" />
-        <published>2026-08-21T08:00:00+08:00</published>
-        <author>
-            <name>SongLin Blog</name>
-            <uri>https://songlin.me</uri>
-        </author>
-        <summary type="text"><![CDATA[极简静态博客的 Mermaid 原生图表系统集成与禅意调优实践]]></summary>
-    </entry>
-        <entry>
-        <title>给个人博客做一次大手术：剥离冗余、模块解耦与 SPA 级原生交互</title>
-        <id>168777</id>
-        <link href="https://songlin.me/2026/08/21/refactoring/?utm_source=blogfinder" />
-        <published>2026-08-21T08:00:00+08:00</published>
-        <author>
-            <name>SongLin Blog</name>
-            <uri>https://songlin.me</uri>
-        </author>
-        <summary type="text"><![CDATA[给个人博客做一次大手术：剥离冗余、模块解耦与 SPA 级原生交互]]></summary>
-    </entry>
-        <entry>
-        <title>评论区的广告处置规则</title>
-        <id>168567</id>
-        <link href="https://detached.online/blog/%E8%AF%84%E8%AE%BA%E5%8C%BA%E7%9A%84%E5%B9%BF%E5%91%8A%E5%A4%84%E7%BD%AE%E8%A7%84%E5%88%99/?utm_source=blogfinder" />
-        <published>2026-08-21T08:00:00+08:00</published>
-        <author>
-            <name>Detached</name>
-            <uri>https://detached.online</uri>
-        </author>
-        <summary type="text"><![CDATA[评论区的广告处置规则]]></summary>
-    </entry>
-        <entry>
-        <title>科技爱好者周刊（第 409 期）：程序员的职业未来</title>
-        <id>168562</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html?utm_source=blogfinder" />
-        <published>2026-08-21T07:53:54+08:00</published>
-        <author>
-            <name>阮一峰的网络日志</name>
-            <uri>http://www.ruanyifeng.com</uri>
-        </author>
-        <summary type="text"><![CDATA[科技爱好者周刊（第 409 期）：程序员的职业未来]]></summary>
-    </entry>
-        <entry>
-        <title>震撼首发！英伟达推出免费kimi k3！且速度极快，白嫖界迎来巨变|nvida nim|免费AI</title>
-        <id>168581</id>
-        <link href="https://upxuu.com/posts/free-kimi/?utm_source=blogfinder" />
-        <published>2026-08-21T07:52:49+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[震撼首发！英伟达推出免费kimi k3！且速度极快，白嫖界迎来巨变|nvida nim|免费AI]]></summary>
-    </entry>
-        <entry>
-        <title>为什么一篇伪作能影响中国1800年</title>
-        <id>168779</id>
-        <link href="https://lawtee.com/article/fake-article-in-shangshu/?utm_source=blogfinder" />
-        <published>2026-08-21T07:00:00+08:00</published>
-        <author>
-            <name>老 T 博客</name>
-            <uri>https://lawtee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么一篇伪作能影响中国1800年]]></summary>
-    </entry>
-        <entry>
-        <title>外婆</title>
-        <id>168579</id>
-        <link href="https://vjo.cc/2014?utm_source=blogfinder" />
-        <published>2026-08-21T06:50:00+08:00</published>
-        <author>
-            <name>刘郎阁</name>
-            <uri>https://vjo.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[外婆]]></summary>
-    </entry>
-        <entry>
-        <title>IDM报错Error0x80004002解决方案</title>
-        <id>168580</id>
-        <link href="https://vjo.cc/2015?utm_source=blogfinder" />
-        <published>2026-08-21T06:47:00+08:00</published>
-        <author>
-            <name>刘郎阁</name>
-            <uri>https://vjo.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[IDM报错Error0x80004002解决方案]]></summary>
-    </entry>
-        <entry>
-        <title>学习周刊-总第277期-2026年第34周</title>
-        <id>168561</id>
-        <link href="https://wiki.eryajf.net/pages/5df013/?utm_source=blogfinder" />
-        <published>2026-08-21T06:23:05+08:00</published>
-        <author>
-            <name>二丫讲梵</name>
-            <uri>https://wiki.eryajf.net</uri>
-        </author>
-        <summary type="text"><![CDATA[学习周刊-总第277期-2026年第34周]]></summary>
-    </entry>
-        <entry>
-        <title>说说：妞妞，这几天折腾的够累了，好好休息吧</title>
-        <id>168570</id>
-        <link href="https://www.mmbkz.cn/cb4e5bd8.html?utm_source=blogfinder" />
-        <published>2026-08-21T04:54:00+08:00</published>
-        <author>
-            <name>绯色之喵</name>
-            <uri>https://www.mmbkz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[说说：妞妞，这几天折腾的够累了，好好休息吧]]></summary>
-    </entry>
-        <entry>
-        <title>巴黎简游记</title>
-        <id>168605</id>
-        <link href="https://eduardoqian.com/archives/ba-li-jian-you-ji?utm_source=blogfinder" />
-        <published>2026-08-21T03:58:00+08:00</published>
-        <author>
-            <name>司云有崖</name>
-            <uri>https://eduardoqian.com</uri>
-        </author>
-        <summary type="text"><![CDATA[巴黎简游记]]></summary>
-    </entry>
-        <entry>
-        <title>「说说」第一次以这么猎奇的原因失眠...</title>
-        <id>168582</id>
-        <link href="https://upxuu.com/talk/第一次以这么猎奇的原因失眠/?utm_source=blogfinder" />
-        <published>2026-08-21T00:05:15+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[「说说」第一次以这么猎奇的原因失眠...]]></summary>
     </entry>
     </feed>
