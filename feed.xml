@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-24T14:00:23+08:00</updated>
+    <updated>2026-08-24T15:01:14+08:00</updated>
         <entry>
         <title>我升级成了 Microsoft Rewards 金牌会员</title>
         <id>168991</id>
@@ -24,6 +24,17 @@
         <summary type="text"><![CDATA[我升级成了 Microsoft Rewards 金牌会员]]></summary>
     </entry>
         <entry>
+        <title>失语</title>
+        <id>168995</id>
+        <link href="https://airy.ink/times/466?utm_source=blogfinder" />
+        <published>2026-08-24T10:39:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[失语]]></summary>
+    </entry>
+        <entry>
         <title>观《去你的岛》</title>
         <id>168986</id>
         <link href="https://liuqingwushui.top/archives/188/?utm_source=blogfinder" />
@@ -33,6 +44,17 @@
             <uri>https://liuqingwushui.top</uri>
         </author>
         <summary type="text"><![CDATA[观《去你的岛》]]></summary>
+    </entry>
+        <entry>
+        <title>过度解读是不是读者拥有的绝对权力？I</title>
+        <id>168994</id>
+        <link href="https://mobius.blog/25482.html?utm_source=blogfinder" />
+        <published>2026-08-24T10:27:43+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[过度解读是不是读者拥有的绝对权力？I]]></summary>
     </entry>
         <entry>
         <title>工程总承包项目合同价控制的一些风险（二）</title>
@@ -154,6 +176,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[BookOrbit：自托管的全格式电子书与有声书阅读管理平台]]></summary>
+    </entry>
+        <entry>
+        <title>“你只会用钱哄人吗？”</title>
+        <id>168996</id>
+        <link href="https://nxxy335.top/archives/Bu9HSUMj?utm_source=blogfinder" />
+        <published>2026-08-23T23:48:36+08:00</published>
+        <author>
+            <name>暖心向阳</name>
+            <uri>https://nxxy335.top</uri>
+        </author>
+        <summary type="text"><![CDATA[“你只会用钱哄人吗？”]]></summary>
     </entry>
         <entry>
         <title>业余频段的对讲机，不能再商业应用了</title>
@@ -1815,27 +1848,5 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[WordPress拦截英文评论，发表评论只允许包含中文的评论]]></summary>
-    </entry>
-        <entry>
-        <title>编制工程总承包招标文件应当注意的一些问题</title>
-        <id>168713</id>
-        <link href="https://jiangcl.com/5035?utm_source=blogfinder" />
-        <published>2026-08-21T14:49:14+08:00</published>
-        <author>
-            <name>蒙需</name>
-            <uri>https://jiangcl.com/</uri>
-        </author>
-        <summary type="text"><![CDATA[编制工程总承包招标文件应当注意的一些问题]]></summary>
-    </entry>
-        <entry>
-        <title>下沉</title>
-        <id>168590</id>
-        <link href="https://www.jackytong.com/blog/2548?utm_source=blogfinder" />
-        <published>2026-08-21T14:25:58+08:00</published>
-        <author>
-            <name>Jacky Tong</name>
-            <uri>https://www.jackytong.com</uri>
-        </author>
-        <summary type="text"><![CDATA[下沉]]></summary>
     </entry>
     </feed>
