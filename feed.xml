@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-24T23:09:14+08:00</updated>
+    <updated>2026-08-25T00:00:32+08:00</updated>
         <entry>
         <title>PVE 超融合基础设施 - 2.PVE 配置集群</title>
         <id>169014</id>
@@ -46,6 +46,17 @@
         <summary type="text"><![CDATA[SpringBoot+Vue前后端日期时间格式统一的解决方案]]></summary>
     </entry>
         <entry>
+        <title>Linux 性能分析实战：用 perf + flamegraph 定位 CPU 瓶颈</title>
+        <id>169017</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/144.html?utm_source=blogfinder" />
+        <published>2026-08-24T18:13:54+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[Linux 性能分析实战：用 perf + flamegraph 定位 CPU 瓶颈]]></summary>
+    </entry>
+        <entry>
         <title>跑步不香了</title>
         <id>169013</id>
         <link href="https://hux.ink/posts/more-riding/?utm_source=blogfinder" />
@@ -55,6 +66,17 @@
             <uri>https://hux.ink</uri>
         </author>
         <summary type="text"><![CDATA[跑步不香了]]></summary>
+    </entry>
+        <entry>
+        <title>博客一周年、游戏、美食与手链</title>
+        <id>169018</id>
+        <link href="https://nxxy335.top/archives/Vxit0t9W?utm_source=blogfinder" />
+        <published>2026-08-24T17:27:45+08:00</published>
+        <author>
+            <name>暖心向阳</name>
+            <uri>https://nxxy335.top</uri>
+        </author>
+        <summary type="text"><![CDATA[博客一周年、游戏、美食与手链]]></summary>
     </entry>
         <entry>
         <title>阿里云免费 DNS 解析量超限怎么办？</title>
@@ -1694,82 +1716,5 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[自己有温度，别人才有人情味]]></summary>
-    </entry>
-        <entry>
-        <title>用 Python 命令行逆向 GetContact 私有 API：getcontact-cli 技术拆解</title>
-        <id>168827</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-22/getcontact-cli/?utm_source=blogfinder" />
-        <published>2026-08-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[用 Python 命令行逆向 GetContact 私有 API：getcontact-cli 技术拆解]]></summary>
-    </entry>
-        <entry>
-        <title>微软 ONNX Runtime：跨平台机器学习推理与训练加速器全解析</title>
-        <id>168826</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-22/onnxruntime/?utm_source=blogfinder" />
-        <published>2026-08-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[微软 ONNX Runtime：跨平台机器学习推理与训练加速器全解析]]></summary>
-    </entry>
-        <entry>
-        <title>Webcmd：让 AI Agent 停止重复探索网站的自学习浏览器基础设施</title>
-        <id>168825</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-22/webcmd/?utm_source=blogfinder" />
-        <published>2026-08-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Webcmd：让 AI Agent 停止重复探索网站的自学习浏览器基础设施]]></summary>
-    </entry>
-        <entry>
-        <title>OpenAI Codex CLI：本地运行的 AI 编程助手</title>
-        <id>168824</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-22/codex/?utm_source=blogfinder" />
-        <published>2026-08-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenAI Codex CLI：本地运行的 AI 编程助手]]></summary>
-    </entry>
-        <entry>
-        <title>Ghost 开源项目架构解析：monorepo 工程化实践与依赖边界设计</title>
-        <id>168823</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-22/ghost/?utm_source=blogfinder" />
-        <published>2026-08-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Ghost 开源项目架构解析：monorepo 工程化实践与依赖边界设计]]></summary>
-    </entry>
-        <entry>
-        <title>Apache Maka：本地优先的 AI Agent 工作空间</title>
-        <id>168822</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-22/maka/?utm_source=blogfinder" />
-        <published>2026-08-22T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Apache Maka：本地优先的 AI Agent 工作空间]]></summary>
-    </entry>
-        <entry>
-        <title>诺兰的《奥德赛》采取了什么样的改编策略？ III</title>
-        <id>168633</id>
-        <link href="https://www.geedea.pro/article/odyssey-3/?utm_source=blogfinder" />
-        <published>2026-08-21T23:26:55+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[诺兰的《奥德赛》采取了什么样的改编策略？ III]]></summary>
     </entry>
     </feed>
