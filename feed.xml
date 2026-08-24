@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-24T19:00:20+08:00</updated>
+    <updated>2026-08-24T21:00:39+08:00</updated>
+        <entry>
+        <title>SpringBoot+Vue前后端日期时间格式统一的解决方案</title>
+        <id>169010</id>
+        <link href="https://www.tinsur.cn/971.html?utm_source=blogfinder" />
+        <published>2026-08-24T20:01:07+08:00</published>
+        <author>
+            <name>Tinsur Blog</name>
+            <uri>https://www.tinsur.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[SpringBoot+Vue前后端日期时间格式统一的解决方案]]></summary>
+    </entry>
+        <entry>
+        <title>入蜀记 day454 第一颗白果掉落</title>
+        <id>169004</id>
+        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_454/?utm_source=blogfinder" />
+        <published>2026-08-24T14:56:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[入蜀记 day454 第一颗白果掉落]]></summary>
+    </entry>
+        <entry>
+        <title>入蜀记 day453 冷雨</title>
+        <id>169005</id>
+        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_453/?utm_source=blogfinder" />
+        <published>2026-08-24T14:54:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[入蜀记 day453 冷雨]]></summary>
+    </entry>
+        <entry>
+        <title>最近惦念 20260813</title>
+        <id>169006</id>
+        <link href="https://z.arlmy.me/posts/TILs/thoughts/20260813_Recently/?utm_source=blogfinder" />
+        <published>2026-08-24T14:49:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[最近惦念 20260813]]></summary>
+    </entry>
         <entry>
         <title>ntfsmac 上手：不关 SIP 让 Mac 读写 NTFS 和 ext 硬盘</title>
         <id>168998</id>
@@ -132,6 +176,17 @@
             <uri>http://www.xulog.cn</uri>
         </author>
         <summary type="text"><![CDATA[重返2005]]></summary>
+    </entry>
+        <entry>
+        <title>Qwen3.8-27B 测试（2）</title>
+        <id>169009</id>
+        <link href="https://556799.xyz/archives/qwen3.8-27b-ce-shi-2?utm_source=blogfinder" />
+        <published>2026-08-24T09:03:37+08:00</published>
+        <author>
+            <name>Jacylunatic</name>
+            <uri>https://991198.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[Qwen3.8-27B 测试（2）]]></summary>
     </entry>
         <entry>
         <title>大脑充血 Vol.95</title>
@@ -1771,104 +1826,5 @@
             <uri>https://www.51it.wang</uri>
         </author>
         <summary type="text"><![CDATA[EasyTier-开源去中心化的异地组网搭建教程]]></summary>
-    </entry>
-        <entry>
-        <title>邮箱日记</title>
-        <id>168861</id>
-        <link href="https://sheep5.net/archives/428?pk_campaign=feed&amp;pk_kwd=%25e9%2582%25ae%25e7%25ae%25b1%25e6%2597%25a5%25e8%25ae%25b0&amp;utm_source=blogfinder" />
-        <published>2026-08-21T20:52:41+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[邮箱日记]]></summary>
-    </entry>
-        <entry>
-        <title>邮箱日记</title>
-        <id>168791</id>
-        <link href="https://sheep5.net/archives/428?utm_source=blogfinder" />
-        <published>2026-08-21T20:52:41+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[邮箱日记]]></summary>
-    </entry>
-        <entry>
-        <title>新的博客评论系统正式启动</title>
-        <id>168606</id>
-        <link href="https://blog.goodboyboy.top/posts/1780945784.html?utm_source=blogfinder" />
-        <published>2026-08-21T20:45:25+08:00</published>
-        <author>
-            <name>GoodBoyboy</name>
-            <uri>https://blog.goodboyboy.top</uri>
-        </author>
-        <summary type="text"><![CDATA[新的博客评论系统正式启动]]></summary>
-    </entry>
-        <entry>
-        <title>罗翔律师的逆天观点「律师要为坏人辩护」</title>
-        <id>168776</id>
-        <link href="https://leileiluoluo.com/posts/luo-xiang-lv-shi-de-ni-tian-guan-dian.html?utm_source=blogfinder" />
-        <published>2026-08-21T20:40:00+08:00</published>
-        <author>
-            <name>磊磊落落</name>
-            <uri>https://leileiluoluo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[罗翔律师的逆天观点「律师要为坏人辩护」]]></summary>
-    </entry>
-        <entry>
-        <title>在IE订阅博客，捡回被冲散的平静</title>
-        <id>168636</id>
-        <link href="https://zooyoo.top/article/58/?utm_source=blogfinder" />
-        <published>2026-08-21T20:20:00+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[在IE订阅博客，捡回被冲散的平静]]></summary>
-    </entry>
-        <entry>
-        <title>博客第一次接到赞助：聊聊不繁简历</title>
-        <id>168629</id>
-        <link href="https://xingwangzhe.fun/posts/bufancv-first-sponsorship/?utm_source=blogfinder" />
-        <published>2026-08-21T20:00:18+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[博客第一次接到赞助：聊聊不繁简历]]></summary>
-    </entry>
-        <entry>
-        <title>关于善恶</title>
-        <id>168630</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-21-about-good-and-evil.html?utm_source=blogfinder" />
-        <published>2026-08-21T19:42:33+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[关于善恶]]></summary>
-    </entry>
-        <entry>
-        <title>阿里赌AI 赌得比腾讯大</title>
-        <id>168787</id>
-        <link href="http://weiwuhui.com/11079.html?utm_source=blogfinder" />
-        <published>2026-08-21T19:18:25+08:00</published>
-        <author>
-            <name>扯氮集</name>
-            <uri>http://weiwuhui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[阿里赌AI 赌得比腾讯大]]></summary>
-    </entry>
-        <entry>
-        <title>Rin博客魔改美化之-aiovtue</title>
-        <id>168715</id>
-        <link href="https://daily.yybb.us/posts/blog/rin-aiovtue/?utm_source=blogfinder" />
-        <published>2026-08-21T19:08:48+08:00</published>
-        <author>
-            <name>AIOVTUE-雪</name>
-            <uri>https://day.yybb.us</uri>
-        </author>
-        <summary type="text"><![CDATA[Rin博客魔改美化之-aiovtue]]></summary>
     </entry>
     </feed>
