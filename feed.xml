@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-24T18:00:55+08:00</updated>
+    <updated>2026-08-24T19:00:20+08:00</updated>
         <entry>
         <title>ntfsmac 上手：不关 SIP 让 Mac 读写 NTFS 和 ext 硬盘</title>
         <id>168998</id>
@@ -44,6 +44,17 @@
             <uri>https://jiangcl.com/</uri>
         </author>
         <summary type="text"><![CDATA[我升级成了 Microsoft Rewards 金牌会员]]></summary>
+    </entry>
+        <entry>
+        <title>荐《奥德赛》电影――十年苦难让奥德修斯更具人性</title>
+        <id>169003</id>
+        <link href="https://tianheg.co/posts/odyssey-movie/?utm_source=blogfinder" />
+        <published>2026-08-24T10:59:00+08:00</published>
+        <author>
+            <name>一大加贝</name>
+            <uri>https://tianheg.co</uri>
+        </author>
+        <summary type="text"><![CDATA[荐《奥德赛》电影――十年苦难让奥德修斯更具人性]]></summary>
     </entry>
         <entry>
         <title>失语</title>
@@ -1859,27 +1870,5 @@
             <uri>https://day.yybb.us</uri>
         </author>
         <summary type="text"><![CDATA[Rin博客魔改美化之-aiovtue]]></summary>
-    </entry>
-        <entry>
-        <title>关山难越：四川省教师职称评选文件小分析</title>
-        <id>168781</id>
-        <link href="https://blog.huaxiangshan.com/zh-cn/posts/zcpx/?utm_source=blogfinder" />
-        <published>2026-08-21T18:52:19+08:00</published>
-        <author>
-            <name>滑翔闪&#039;s Blog</name>
-            <uri>https://blog.huaxiangshan.com</uri>
-        </author>
-        <summary type="text"><![CDATA[关山难越：四川省教师职称评选文件小分析]]></summary>
-    </entry>
-        <entry>
-        <title>eopage终于关联cnb啦，博客迁移到eopages</title>
-        <id>168634</id>
-        <link href="https://blog.xrbk.cn/post/103.html?utm_source=blogfinder" />
-        <published>2026-08-21T18:48:00+08:00</published>
-        <author>
-            <name>新锐博客</name>
-            <uri>https://blog.xrbk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[eopage终于关联cnb啦，博客迁移到eopages]]></summary>
     </entry>
     </feed>
