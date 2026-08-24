@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-24T21:00:39+08:00</updated>
+    <updated>2026-08-24T23:09:14+08:00</updated>
+        <entry>
+        <title>PVE 超融合基础设施 - 2.PVE 配置集群</title>
+        <id>169014</id>
+        <link href="https://songxwn.com/PVE-HCI-2/?utm_source=blogfinder" />
+        <published>2026-08-24T21:50:16+08:00</published>
+        <author>
+            <name>Song&#039;s Blog</name>
+            <uri>https://songxwn.com</uri>
+        </author>
+        <summary type="text"><![CDATA[PVE 超融合基础设施 - 2.PVE 配置集群]]></summary>
+    </entry>
+        <entry>
+        <title>眼神</title>
+        <id>169016</id>
+        <link href="https://ezo.biz/Diary/1608.html?utm_source=blogfinder" />
+        <published>2026-08-24T21:23:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[眼神]]></summary>
+    </entry>
         <entry>
         <title>SpringBoot+Vue前后端日期时间格式统一的解决方案</title>
         <id>169010</id>
@@ -22,6 +44,28 @@
             <uri>https://www.tinsur.cn</uri>
         </author>
         <summary type="text"><![CDATA[SpringBoot+Vue前后端日期时间格式统一的解决方案]]></summary>
+    </entry>
+        <entry>
+        <title>跑步不香了</title>
+        <id>169013</id>
+        <link href="https://hux.ink/posts/more-riding/?utm_source=blogfinder" />
+        <published>2026-08-24T18:08:37+08:00</published>
+        <author>
+            <name>Counting Stars</name>
+            <uri>https://hux.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[跑步不香了]]></summary>
+    </entry>
+        <entry>
+        <title>阿里云免费 DNS 解析量超限怎么办？</title>
+        <id>169015</id>
+        <link href="https://www.munue.com/813.html?utm_source=blogfinder" />
+        <published>2026-08-24T16:46:16+08:00</published>
+        <author>
+            <name>随风沐虐</name>
+            <uri>https://www.munue.com</uri>
+        </author>
+        <summary type="text"><![CDATA[阿里云免费 DNS 解析量超限怎么办？]]></summary>
     </entry>
         <entry>
         <title>入蜀记 day454 第一颗白果掉落</title>
@@ -332,6 +376,17 @@
         <summary type="text"><![CDATA[痛风]]></summary>
     </entry>
         <entry>
+        <title>马克思的镜子</title>
+        <id>169012</id>
+        <link href="https://wangyurui.com/posts/ma-ke-si-de-jing-zi-fa8ff36d?utm_source=blogfinder" />
+        <published>2026-08-23T22:01:06+08:00</published>
+        <author>
+            <name>太隐</name>
+            <uri>https://wangyurui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[马克思的镜子]]></summary>
+    </entry>
+        <entry>
         <title>碎片动态 2026-08-23</title>
         <id>168990</id>
         <link href="https://sigge.cn/2026/08/23/4r3s7jgfwdce?utm_source=blogfinder" />
@@ -385,6 +440,17 @@
             <uri>https://www.chenrui.com</uri>
         </author>
         <summary type="text"><![CDATA[山中无老虎]]></summary>
+    </entry>
+        <entry>
+        <title>8GB显存如何跑35B：深入理解FreeToken的专家缓存与CPU-GPU协同</title>
+        <id>169011</id>
+        <link href="https://nicksxs.me/2026/08/23/8GB%E6%98%BE%E5%AD%98%E5%A6%82%E4%BD%95%E8%B7%9135B-%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3FreeToken%E7%9A%84%E4%B8%93%E5%AE%B6%E7%BC%93%E5%AD%98%E4%B8%8ECPU-GPU%E5%8D%8F%E5%90%8C/?utm_source=blogfinder" />
+        <published>2026-08-23T20:41:00+08:00</published>
+        <author>
+            <name>Nicksxs&#039;s Blog</name>
+            <uri>https://nicksxs.me</uri>
+        </author>
+        <summary type="text"><![CDATA[8GB显存如何跑35B：深入理解FreeToken的专家缓存与CPU-GPU协同]]></summary>
     </entry>
         <entry>
         <title>杂记</title>
@@ -1705,126 +1771,5 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[诺兰的《奥德赛》采取了什么样的改编策略？ III]]></summary>
-    </entry>
-        <entry>
-        <title>手写一个最小 MCP 客户端，理解 LLM 与本地工具的契约</title>
-        <id>168631</id>
-        <link href="https://qaqbuyan.com:88/乔安文章/141.html?utm_source=blogfinder" />
-        <published>2026-08-21T23:08:12+08:00</published>
-        <author>
-            <name>卟言的个人博客</name>
-            <uri>https://qaqbuyan.com:88</uri>
-        </author>
-        <summary type="text"><![CDATA[手写一个最小 MCP 客户端，理解 LLM 与本地工具的契约]]></summary>
-    </entry>
-        <entry>
-        <title>告别 1Password：我为什么转投自部署的 Bitwarden</title>
-        <id>168815</id>
-        <link href="https://veryatao.com/technique/1password-bitwarden/?utm_source=blogfinder" />
-        <published>2026-08-21T23:06:46+08:00</published>
-        <author>
-            <name>Atao&#039;s Space</name>
-            <uri>https://veryatao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[告别 1Password：我为什么转投自部署的 Bitwarden]]></summary>
-    </entry>
-        <entry>
-        <title>一半是暗影，一半是梦境。</title>
-        <id>168793</id>
-        <link href="https://www.puresky.top/archives/McT2i7Dw?utm_source=blogfinder" />
-        <published>2026-08-21T23:03:37+08:00</published>
-        <author>
-            <name>轻雅阁</name>
-            <uri>https://www.puresky.top</uri>
-        </author>
-        <summary type="text"><![CDATA[一半是暗影，一半是梦境。]]></summary>
-    </entry>
-        <entry>
-        <title>错位的会员体系</title>
-        <id>168912</id>
-        <link href="https://blog.solazy.me/20260821/?utm_source=blogfinder" />
-        <published>2026-08-21T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[错位的会员体系]]></summary>
-    </entry>
-        <entry>
-        <title>序章：粉色的云</title>
-        <id>168794</id>
-        <link href="https://www.puresky.top/archives/MoQC2CpB?utm_source=blogfinder" />
-        <published>2026-08-21T22:59:27+08:00</published>
-        <author>
-            <name>轻雅阁</name>
-            <uri>https://www.puresky.top</uri>
-        </author>
-        <summary type="text"><![CDATA[序章：粉色的云]]></summary>
-    </entry>
-        <entry>
-        <title>我舍不得家 and &amp; or 家乡？</title>
-        <id>168846</id>
-        <link href="https://hulatu.com/posts/2026/08/21/home-and-hometown/?utm_source=blogfinder" />
-        <published>2026-08-21T22:57:02+08:00</published>
-        <author>
-            <name>胡拉图说</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我舍不得家 and &amp; or 家乡？]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1711】林达《历史深处的忧虑：近距离看美国之一》</title>
-        <id>168788</id>
-        <link href="http://www.qncd.com/?p=13027&amp;utm_source=blogfinder" />
-        <published>2026-08-21T22:51:25+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1711】林达《历史深处的忧虑：近距离看美国之一》]]></summary>
-    </entry>
-        <entry>
-        <title>鄂尔多斯三天两夜</title>
-        <id>168710</id>
-        <link href="https://xsmy.wang/1441.html?utm_source=blogfinder" />
-        <published>2026-08-21T21:44:51+08:00</published>
-        <author>
-            <name>相思明月</name>
-            <uri>https://xsmy.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[鄂尔多斯三天两夜]]></summary>
-    </entry>
-        <entry>
-        <title>网站挂了好几天</title>
-        <id>168632</id>
-        <link href="https://ihaihe.cn/3683.htm?utm_source=blogfinder" />
-        <published>2026-08-21T21:44:15+08:00</published>
-        <author>
-            <name>三十里海河</name>
-            <uri>https://ihaihe.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[网站挂了好几天]]></summary>
-    </entry>
-        <entry>
-        <title>雨行兰英大峡谷</title>
-        <id>168635</id>
-        <link href="https://zhujay.com/talk/talk_detail.html?id=1273&amp;utm_source=blogfinder" />
-        <published>2026-08-21T21:30:53+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[雨行兰英大峡谷]]></summary>
-    </entry>
-        <entry>
-        <title>EasyTier-开源去中心化的异地组网搭建教程</title>
-        <id>168780</id>
-        <link href="https://www.51it.wang/ll/EasyTier?utm_source=blogfinder" />
-        <published>2026-08-21T21:03:00+08:00</published>
-        <author>
-            <name>Lcry</name>
-            <uri>https://www.51it.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[EasyTier-开源去中心化的异地组网搭建教程]]></summary>
     </entry>
     </feed>
