@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-24T17:00:50+08:00</updated>
+    <updated>2026-08-24T18:00:55+08:00</updated>
         <entry>
         <title>ntfsmac 上手：不关 SIP 让 Mac 读写 NTFS 和 ext 硬盘</title>
         <id>168998</id>
@@ -79,6 +79,17 @@
         <summary type="text"><![CDATA[过度解读是不是读者拥有的绝对权力？I]]></summary>
     </entry>
         <entry>
+        <title>雷池 WAF 一键升级失败解决：手动离线升级注意事项</title>
+        <id>169002</id>
+        <link href="https://www.paddysun.top/archives/5086?utm_source=blogfinder" />
+        <published>2026-08-24T10:21:09+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[雷池 WAF 一键升级失败解决：手动离线升级注意事项]]></summary>
+    </entry>
+        <entry>
         <title>上庭（二）</title>
         <id>168997</id>
         <link href="https://www.justzht.com/go-to-court-two/?utm_source=blogfinder" />
@@ -99,6 +110,17 @@
             <uri>https://jiangcl.com/</uri>
         </author>
         <summary type="text"><![CDATA[工程总承包项目合同价控制的一些风险（二）]]></summary>
+    </entry>
+        <entry>
+        <title>重返2005</title>
+        <id>169001</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1210&amp;utm_source=blogfinder" />
+        <published>2026-08-24T09:17:46+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[重返2005]]></summary>
     </entry>
         <entry>
         <title>大脑充血 Vol.95</title>
@@ -1859,38 +1881,5 @@
             <uri>https://blog.xrbk.cn</uri>
         </author>
         <summary type="text"><![CDATA[eopage终于关联cnb啦，博客迁移到eopages]]></summary>
-    </entry>
-        <entry>
-        <title>Shift Left：把时间花在编码之前</title>
-        <id>168637</id>
-        <link href="https://hateonion.me/zh/posts/shift-left/?utm_source=blogfinder" />
-        <published>2026-08-21T18:00:00+08:00</published>
-        <author>
-            <name>OnionTalk</name>
-            <uri>https://hateonion.me/zh/</uri>
-        </author>
-        <summary type="text"><![CDATA[Shift Left：把时间花在编码之前]]></summary>
-    </entry>
-        <entry>
-        <title>Claude Code Agent Loop 研究系列（02）—— Hooks：loop 上的可编程干预点</title>
-        <id>168600</id>
-        <link href="https://xilidou.com/2026/08/21/claude-code-agent-loop-02-hooks/?utm_source=blogfinder" />
-        <published>2026-08-21T18:00:00+08:00</published>
-        <author>
-            <name>犀利豆的博客</name>
-            <uri>https://xilidou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude Code Agent Loop 研究系列（02）—— Hooks：loop 上的可编程干预点]]></summary>
-    </entry>
-        <entry>
-        <title>WordPress拦截英文评论，发表评论只允许包含中文的评论</title>
-        <id>168597</id>
-        <link href="https://www.bufanz.com/20260821829.html?utm_source=blogfinder" />
-        <published>2026-08-21T17:27:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[WordPress拦截英文评论，发表评论只允许包含中文的评论]]></summary>
     </entry>
     </feed>
