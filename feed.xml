@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-25T18:00:22+08:00</updated>
+    <updated>2026-08-25T19:00:35+08:00</updated>
+        <entry>
+        <title>碎片动态 2026-08-25</title>
+        <id>169166</id>
+        <link href="https://sigge.cn/2026/08/25/1l49b101yppo?utm_source=blogfinder" />
+        <published>2026-08-25T18:36:05+08:00</published>
+        <author>
+            <name>毛伊西格</name>
+            <uri>https://sigge.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[碎片动态 2026-08-25]]></summary>
+    </entry>
+        <entry>
+        <title>Claude Code Agent Loop 研究系列（06）—— Streaming：从 SSE 事件到逐字显示</title>
+        <id>169164</id>
+        <link href="https://xilidou.com/2026/08/25/claude-code-agent-loop-06-streaming/?utm_source=blogfinder" />
+        <published>2026-08-25T18:00:00+08:00</published>
+        <author>
+            <name>犀利豆的博客</name>
+            <uri>https://xilidou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Claude Code Agent Loop 研究系列（06）—— Streaming：从 SSE 事件到逐字显示]]></summary>
+    </entry>
         <entry>
         <title>20 天，170 万次请求——我的阿里云 ESA 数据复盘</title>
         <id>169163</id>
@@ -363,6 +385,17 @@
             <uri>https://hux.ink</uri>
         </author>
         <summary type="text"><![CDATA[跑步不香了]]></summary>
+    </entry>
+        <entry>
+        <title>Claude Code Agent Loop 研究系列（05）—— QueryEngine 主循环：状态机全景</title>
+        <id>169165</id>
+        <link href="https://xilidou.com/2026/08/24/claude-code-agent-loop-05-query-engine/?utm_source=blogfinder" />
+        <published>2026-08-24T18:00:00+08:00</published>
+        <author>
+            <name>犀利豆的博客</name>
+            <uri>https://xilidou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Claude Code Agent Loop 研究系列（05）—— QueryEngine 主循环：状态机全景]]></summary>
     </entry>
         <entry>
         <title>博客一周年、游戏、美食与手链</title>
