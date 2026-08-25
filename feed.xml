@@ -11,7 +11,73 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-25T00:00:32+08:00</updated>
+    <updated>2026-08-25T10:00:09+08:00</updated>
+        <entry>
+        <title>过度解读是不是读者拥有的绝对权力？II</title>
+        <id>169134</id>
+        <link href="https://mobius.blog/25500.html?utm_source=blogfinder" />
+        <published>2026-08-25T09:34:46+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[过度解读是不是读者拥有的绝对权力？II]]></summary>
+    </entry>
+        <entry>
+        <title>[Agent 考古] 自知、自觉、自止——终章定论：Agent 不需要意识，但必须知道自己的边界、理由和终点</title>
+        <id>169122</id>
+        <link href="https://www.paddysun.top/archives/5049?utm_source=blogfinder" />
+        <published>2026-08-25T07:00:00+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[[Agent 考古] 自知、自觉、自止——终章定论：Agent 不需要意识，但必须知道自己的边界、理由和终点]]></summary>
+    </entry>
+        <entry>
+        <title>迷幻</title>
+        <id>169135</id>
+        <link href="https://mobius.blog/25491.html?utm_source=blogfinder" />
+        <published>2026-08-25T01:16:12+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[迷幻]]></summary>
+    </entry>
+        <entry>
+        <title>暑假旅行｜中部自驾02 - 内蒙古鄂尔多斯</title>
+        <id>169121</id>
+        <link href="https://ficor.net/archives/56?utm_source=blogfinder" />
+        <published>2026-08-25T00:13:00+08:00</published>
+        <author>
+            <name>荒野菲克</name>
+            <uri>https://ficor.net</uri>
+        </author>
+        <summary type="text"><![CDATA[暑假旅行｜中部自驾02 - 内蒙古鄂尔多斯]]></summary>
+    </entry>
+        <entry>
+        <title>unlazy：用可执行的验收闸门，给 AI Agent 的「敷衍式交付」上把锁</title>
+        <id>169124</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-25/unlazy/?utm_source=blogfinder" />
+        <published>2026-08-25T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[unlazy：用可执行的验收闸门，给 AI Agent 的「敷衍式交付」上把锁]]></summary>
+    </entry>
+        <entry>
+        <title>FreeToken：在消费级显卡上跑 290B+ 顶级 MoE 大模型</title>
+        <id>169123</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-25/freetoken/?utm_source=blogfinder" />
+        <published>2026-08-25T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[FreeToken：在消费级显卡上跑 290B+ 顶级 MoE 大模型]]></summary>
+    </entry>
         <entry>
         <title>PVE 超融合基础设施 - 2.PVE 配置集群</title>
         <id>169014</id>
@@ -44,6 +110,17 @@
             <uri>https://www.tinsur.cn</uri>
         </author>
         <summary type="text"><![CDATA[SpringBoot+Vue前后端日期时间格式统一的解决方案]]></summary>
+    </entry>
+        <entry>
+        <title>住房攻略</title>
+        <id>169022</id>
+        <link href="https://blog.xxbjf.com/archives/zhu-fang-gong-lue?utm_source=blogfinder" />
+        <published>2026-08-24T18:58:05+08:00</published>
+        <author>
+            <name>小新笔记坊</name>
+            <uri>https://blog.xxbjf.com</uri>
+        </author>
+        <summary type="text"><![CDATA[住房攻略]]></summary>
     </entry>
         <entry>
         <title>Linux 性能分析实战：用 perf + flamegraph 定位 CPU 瓶颈</title>
@@ -134,6 +211,17 @@
         <summary type="text"><![CDATA[ntfsmac 上手：不关 SIP 让 Mac 读写 NTFS 和 ext 硬盘]]></summary>
     </entry>
         <entry>
+        <title>踩坑记录｜产品视频背景音乐侵权，收到线上调解通知</title>
+        <id>169023</id>
+        <link href="https://zhouayuan.com/post/58.html?utm_source=blogfinder" />
+        <published>2026-08-24T13:15:19+08:00</published>
+        <author>
+            <name>周阿源</name>
+            <uri>https://zhouayuan.com</uri>
+        </author>
+        <summary type="text"><![CDATA[踩坑记录｜产品视频背景音乐侵权，收到线上调解通知]]></summary>
+    </entry>
+        <entry>
         <title>Cloudflare SaaS证书签发失败踩坑记录</title>
         <id>169000</id>
         <link href="https://www.nekopara.uk/archives/Fix_Cloudflare_SaaS_Certificate_Issuance.html?utm_source=blogfinder" />
@@ -143,6 +231,17 @@
             <uri>https://www.nekopara.uk</uri>
         </author>
         <summary type="text"><![CDATA[Cloudflare SaaS证书签发失败踩坑记录]]></summary>
+    </entry>
+        <entry>
+        <title>我对Vibe Coding的感受（二）</title>
+        <id>169021</id>
+        <link href="https://www.youdiandongxi.com/article/vibe-coding-experience-2.html?utm_source=blogfinder" />
+        <published>2026-08-24T11:18:05+08:00</published>
+        <author>
+            <name>有点东西</name>
+            <uri>https://www.youdiandongxi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我对Vibe Coding的感受（二）]]></summary>
     </entry>
         <entry>
         <title>我升级成了 Microsoft Rewards 金牌会员</title>
@@ -233,6 +332,17 @@
         <summary type="text"><![CDATA[工程总承包项目合同价控制的一些风险（二）]]></summary>
     </entry>
         <entry>
+        <title>交易员这行，到底在拼什么？</title>
+        <id>169019</id>
+        <link href="https://blog.forecho.com/what-traders-really-compete-on-beyond-technical-analysis.html?utm_source=blogfinder" />
+        <published>2026-08-24T10:00:00+08:00</published>
+        <author>
+            <name>forecho&#039;s Blog</name>
+            <uri>https://blog.forecho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[交易员这行，到底在拼什么？]]></summary>
+    </entry>
+        <entry>
         <title>重返2005</title>
         <id>169001</id>
         <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1210&amp;utm_source=blogfinder" />
@@ -264,6 +374,50 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[大脑充血 Vol.95]]></summary>
+    </entry>
+        <entry>
+        <title>诈骗网站 YouTube.com</title>
+        <id>169133</id>
+        <link href="https://www.immarcus.com/blog/youtube-com-a-scam-website?utm_source=blogfinder" />
+        <published>2026-08-24T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[诈骗网站 YouTube.com]]></summary>
+    </entry>
+        <entry>
+        <title>Deepseek终于支持多模态了！</title>
+        <id>169132</id>
+        <link href="https://maplezz.com/blog/deepseek终于支持多模态了_/?utm_source=blogfinder" />
+        <published>2026-08-24T08:00:00+08:00</published>
+        <author>
+            <name>猫普的精神世界</name>
+            <uri>https://maplezz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Deepseek终于支持多模态了！]]></summary>
+    </entry>
+        <entry>
+        <title>DeepSeek Harness拆解，我看到了未来Harness的样子了</title>
+        <id>169131</id>
+        <link href="https://maplezz.com/blog/deepseek_harness拆解_我看到了未来harness的样子了/?utm_source=blogfinder" />
+        <published>2026-08-24T08:00:00+08:00</published>
+        <author>
+            <name>猫普的精神世界</name>
+            <uri>https://maplezz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[DeepSeek Harness拆解，我看到了未来Harness的样子了]]></summary>
+    </entry>
+        <entry>
+        <title>阿里崩了个大的</title>
+        <id>169130</id>
+        <link href="https://ddbzhou.com/post/alibenglegedade/?utm_source=blogfinder" />
+        <published>2026-08-24T08:00:00+08:00</published>
+        <author>
+            <name>兜兜爸投资笔记</name>
+            <uri>https://ddbzhou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[阿里崩了个大的]]></summary>
     </entry>
         <entry>
         <title>[Agent 考古] 多头注意力共享目标、参数即隐式模型、CoT 是概率采样——LLM 被三条“反叛伏线”夹击</title>
@@ -354,6 +508,61 @@
         <summary type="text"><![CDATA[給博客添加純文本版本]]></summary>
     </entry>
         <entry>
+        <title>OpenClaw：用开源方式把 AI 助手部署到你自己的设备上</title>
+        <id>169129</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-24/openclaw/?utm_source=blogfinder" />
+        <published>2026-08-24T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenClaw：用开源方式把 AI 助手部署到你自己的设备上]]></summary>
+    </entry>
+        <entry>
+        <title>Mercury Agent Skills：为AI智能体打造的开源技能库</title>
+        <id>169128</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-24/mercury-agent-skills/?utm_source=blogfinder" />
+        <published>2026-08-24T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Mercury Agent Skills：为AI智能体打造的开源技能库]]></summary>
+    </entry>
+        <entry>
+        <title>Claude-Obsidian：让你的知识库越用越聪明的本地优先系统</title>
+        <id>169127</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-24/claude-obsidian/?utm_source=blogfinder" />
+        <published>2026-08-24T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Claude-Obsidian：让你的知识库越用越聪明的本地优先系统]]></summary>
+    </entry>
+        <entry>
+        <title>Awesome DSH Plugin：DeepSeek Harness 插件生态精选</title>
+        <id>169126</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-24/awesome-dsh-plugin/?utm_source=blogfinder" />
+        <published>2026-08-24T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Awesome DSH Plugin：DeepSeek Harness 插件生态精选]]></summary>
+    </entry>
+        <entry>
+        <title>Agent Orchestrator：统一编排 26 种编程 Agent 的桌面工作台</title>
+        <id>169125</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-24/agent-orchestrator/?utm_source=blogfinder" />
+        <published>2026-08-24T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Agent Orchestrator：统一编排 26 种编程 Agent 的桌面工作台]]></summary>
+    </entry>
+        <entry>
         <title>BookOrbit：自托管的全格式电子书与有声书阅读管理平台</title>
         <id>168972</id>
         <link href="http://blog.xlap.top/post/tech/2026-08-24/bookorbit/?utm_source=blogfinder" />
@@ -374,6 +583,28 @@
             <uri>https://nxxy335.top</uri>
         </author>
         <summary type="text"><![CDATA[“你只会用钱哄人吗？”]]></summary>
+    </entry>
+        <entry>
+        <title>第一次骑行100KM</title>
+        <id>169020</id>
+        <link href="https://moraex.com/life/the-first-time-to-ride-100km.html?utm_source=blogfinder" />
+        <published>2026-08-23T23:27:53+08:00</published>
+        <author>
+            <name>MoraEX 博客</name>
+            <uri>https://moraex.com</uri>
+        </author>
+        <summary type="text"><![CDATA[第一次骑行100KM]]></summary>
+    </entry>
+        <entry>
+        <title>当 DeepSeek Harness 遇上 Spring Boot：AI 时代的架构课</title>
+        <id>169085</id>
+        <link href="https://blog.liuhangyv.top/archives/deepseek-harness-spring-boot-architecture?utm_source=blogfinder" />
+        <published>2026-08-23T23:18:19+08:00</published>
+        <author>
+            <name>Serendipity</name>
+            <uri>https://blog.liuhangyv.top</uri>
+        </author>
+        <summary type="text"><![CDATA[当 DeepSeek Harness 遇上 Spring Boot：AI 时代的架构课]]></summary>
     </entry>
         <entry>
         <title>业余频段的对讲机，不能再商业应用了</title>
@@ -1595,126 +1826,5 @@
             <uri>https://yishu-life.com</uri>
         </author>
         <summary type="text"><![CDATA[最近干了点啥？]]></summary>
-    </entry>
-        <entry>
-        <title>这个 aptitude 没有超级牛力</title>
-        <id>168792</id>
-        <link href="https://xingwangzhe.fun/posts/aptitude-super-cow-powers/?utm_source=blogfinder" />
-        <published>2026-08-22T10:00:00+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[这个 aptitude 没有超级牛力]]></summary>
-    </entry>
-        <entry>
-        <title>我以为能给站点请个会动的吉祥物，结果来了个 64×64 的方块人</title>
-        <id>168796</id>
-        <link href="https://styunlen.cn/archives/post-1824.html?utm_source=blogfinder" />
-        <published>2026-08-22T09:54:00+08:00</published>
-        <author>
-            <name>九仞之行</name>
-            <uri>https://styunlen.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[我以为能给站点请个会动的吉祥物，结果来了个 64×64 的方块人]]></summary>
-    </entry>
-        <entry>
-        <title>关于道德</title>
-        <id>168790</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-22-about-morality.html?utm_source=blogfinder" />
-        <published>2026-08-22T09:33:44+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[关于道德]]></summary>
-    </entry>
-        <entry>
-        <title>随笔日记</title>
-        <id>168782</id>
-        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1209&amp;utm_source=blogfinder" />
-        <published>2026-08-22T08:41:40+08:00</published>
-        <author>
-            <name>徐建伟</name>
-            <uri>http://www.xulog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[随笔日记]]></summary>
-    </entry>
-        <entry>
-        <title>Ruflo：Claude Code 的 AI Agent 编排框架深度解析</title>
-        <id>168821</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-22/ruflo/?utm_source=blogfinder" />
-        <published>2026-08-22T08:10:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Ruflo：Claude Code 的 AI Agent 编排框架深度解析]]></summary>
-    </entry>
-        <entry>
-        <title>抓娃娃就是快乐啊</title>
-        <id>168789</id>
-        <link href="https://me.xu19.com/summer-vacation-taking-my-daughter-to-wanda-department-store-claw-machine-is-just-happiness/?utm_source=blogfinder" />
-        <published>2026-08-22T08:04:06+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[抓娃娃就是快乐啊]]></summary>
-    </entry>
-        <entry>
-        <title>Final Fantasy XII</title>
-        <id>168842</id>
-        <link href="https://www.immarcus.com/blog/final-fantasy-xii?utm_source=blogfinder" />
-        <published>2026-08-22T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Final Fantasy XII]]></summary>
-    </entry>
-        <entry>
-        <title>美股总体还行</title>
-        <id>168841</id>
-        <link href="https://ddbzhou.com/post/meigubiaoxianhaixing/?utm_source=blogfinder" />
-        <published>2026-08-22T08:00:00+08:00</published>
-        <author>
-            <name>兜兜爸投资笔记</name>
-            <uri>https://ddbzhou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[美股总体还行]]></summary>
-    </entry>
-        <entry>
-        <title>“灵活就业即自由”言论背后的晚期资本主义特征与国家去责任化</title>
-        <id>168840</id>
-        <link href="https://prologue.dev/blog/the-characteristics-of-late-capitalism-and-state-disengagement-behind-the-claim-that-flexible-employment-equals-freedom?utm_source=blogfinder" />
-        <published>2026-08-22T08:00:00+08:00</published>
-        <author>
-            <name>Prologue</name>
-            <uri>https://prologue.dev</uri>
-        </author>
-        <summary type="text"><![CDATA[“灵活就业即自由”言论背后的晚期资本主义特征与国家去责任化]]></summary>
-    </entry>
-        <entry>
-        <title>Python 潮流周刊#164：deepseek-harness 万物皆插件</title>
-        <id>168839</id>
-        <link href="https://pythoncat.top/posts/2026-08-22-weekly/?utm_source=blogfinder" />
-        <published>2026-08-22T08:00:00+08:00</published>
-        <author>
-            <name>豌豆花下猫</name>
-            <uri>https://pythoncat.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Python 潮流周刊#164：deepseek-harness 万物皆插件]]></summary>
-    </entry>
-        <entry>
-        <title>自己有温度，别人才有人情味</title>
-        <id>168800</id>
-        <link href="https://www.pgoj.top/archives/wen-du-ren-qing.html?utm_source=blogfinder" />
-        <published>2026-08-22T07:15:56+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[自己有温度，别人才有人情味]]></summary>
     </entry>
     </feed>
