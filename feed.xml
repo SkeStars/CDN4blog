@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-25T19:00:35+08:00</updated>
+    <updated>2026-08-25T21:00:36+08:00</updated>
         <entry>
         <title>碎片动态 2026-08-25</title>
         <id>169166</id>
@@ -110,6 +110,17 @@
             <uri>https://fxpai.com</uri>
         </author>
         <summary type="text"><![CDATA[最近喜欢上了修东西]]></summary>
+    </entry>
+        <entry>
+        <title>一场关于战争与人性的奇幻归途——《奥德赛》观影记</title>
+        <id>169168</id>
+        <link href="https://www.jfsay.com/archives/4073.html?utm_source=blogfinder" />
+        <published>2026-08-25T12:17:17+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[一场关于战争与人性的奇幻归途——《奥德赛》观影记]]></summary>
     </entry>
         <entry>
         <title>关于反演II</title>
@@ -407,6 +418,17 @@
             <uri>https://nxxy335.top</uri>
         </author>
         <summary type="text"><![CDATA[博客一周年、游戏、美食与手链]]></summary>
+    </entry>
+        <entry>
+        <title>雨后爬上海双子山</title>
+        <id>169167</id>
+        <link href="https://www.weisay.com/blog/shanghai-twin-hills-after-rain.html?utm_source=blogfinder" />
+        <published>2026-08-24T17:19:01+08:00</published>
+        <author>
+            <name>威言威语</name>
+            <uri>https://www.weisay.com/blog/</uri>
+        </author>
+        <summary type="text"><![CDATA[雨后爬上海双子山]]></summary>
     </entry>
         <entry>
         <title>阿里云免费 DNS 解析量超限怎么办？</title>
@@ -1859,38 +1881,5 @@
             <uri>https://qaqbuyan.com:88</uri>
         </author>
         <summary type="text"><![CDATA[eBPF 在安全监控中的应用：用 bpftrace 追踪系统调用异常]]></summary>
-    </entry>
-        <entry>
-        <title>好不容易看上一个域名结果被抢注了</title>
-        <id>168902</id>
-        <link href="https://vte.cc/natter/18/?utm_source=blogfinder" />
-        <published>2026-08-22T20:29:02+08:00</published>
-        <author>
-            <name>维特笔记</name>
-            <uri>https://vte.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[好不容易看上一个域名结果被抢注了]]></summary>
-    </entry>
-        <entry>
-        <title>看美剧《绝命毒师》解说</title>
-        <id>168981</id>
-        <link href="https://www.jfsay.com/archives/4017.html?utm_source=blogfinder" />
-        <published>2026-08-22T20:13:07+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[看美剧《绝命毒师》解说]]></summary>
-    </entry>
-        <entry>
-        <title>关于信念</title>
-        <id>168816</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-22-about-believe.html?utm_source=blogfinder" />
-        <published>2026-08-22T19:32:57+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[关于信念]]></summary>
     </entry>
     </feed>
