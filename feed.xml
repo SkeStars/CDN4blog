@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-25T16:00:23+08:00</updated>
+    <updated>2026-08-25T17:01:21+08:00</updated>
+        <entry>
+        <title>Matrix – Tree 定理学习笔记</title>
+        <id>169155</id>
+        <link href="https://blog.ooliver.cn/matrix-tree-%e5%ae%9a%e7%90%86%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/?utm_source=blogfinder" />
+        <published>2026-08-25T15:17:22+08:00</published>
+        <author>
+            <name>ooliver 的博客</name>
+            <uri>https://blog.ooliver.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Matrix – Tree 定理学习笔记]]></summary>
+    </entry>
+        <entry>
+        <title>数字戒断很可能会成为一种特权</title>
+        <id>169154</id>
+        <link href="https://cavill.site/articles/digital-privilege?utm_source=blogfinder" />
+        <published>2026-08-25T14:00:59+08:00</published>
+        <author>
+            <name>栖迟处</name>
+            <uri>https://cavill.site</uri>
+        </author>
+        <summary type="text"><![CDATA[数字戒断很可能会成为一种特权]]></summary>
+    </entry>
         <entry>
         <title>最近喜欢上了修东西</title>
         <id>169152</id>
@@ -22,6 +44,17 @@
             <uri>https://fxpai.com</uri>
         </author>
         <summary type="text"><![CDATA[最近喜欢上了修东西]]></summary>
+    </entry>
+        <entry>
+        <title>关于反演II</title>
+        <id>169156</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-08-25-about-inversion2.html?utm_source=blogfinder" />
+        <published>2026-08-25T12:04:30+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[关于反演II]]></summary>
     </entry>
         <entry>
         <title>什么时候卖出？</title>
@@ -330,6 +363,17 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[最近惦念 20260813]]></summary>
+    </entry>
+        <entry>
+        <title>关于饮酒的反思</title>
+        <id>169153</id>
+        <link href="https://kaix.in/2026/0824/?utm_source=blogfinder" />
+        <published>2026-08-24T14:26:04+08:00</published>
+        <author>
+            <name>KAIX.IN</name>
+            <uri>https://kaix.in</uri>
+        </author>
+        <summary type="text"><![CDATA[关于饮酒的反思]]></summary>
     </entry>
         <entry>
         <title>ntfsmac 上手：不关 SIP 让 Mac 读写 NTFS 和 ext 硬盘</title>
