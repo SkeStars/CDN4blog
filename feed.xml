@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-25T11:00:20+08:00</updated>
+    <updated>2026-08-25T12:07:26+08:00</updated>
+        <entry>
+        <title>什么时候卖出？</title>
+        <id>169141</id>
+        <link href="https://www.ixiqin.com/2026/08/25/when-will-it-be-sold/?utm_source=blogfinder" />
+        <published>2026-08-25T09:49:17+08:00</published>
+        <author>
+            <name>西秦公子</name>
+            <uri>https://www.ixiqin.com</uri>
+        </author>
+        <summary type="text"><![CDATA[什么时候卖出？]]></summary>
+    </entry>
+        <entry>
+        <title>Fedora LUKS2设置TPM2+PIN与FIDO2解锁</title>
+        <id>169145</id>
+        <link href="https://blog.goodboyboy.top/posts/2637732758.html?utm_source=blogfinder" />
+        <published>2026-08-25T09:47:20+08:00</published>
+        <author>
+            <name>GoodBoyboy</name>
+            <uri>https://blog.goodboyboy.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Fedora LUKS2设置TPM2+PIN与FIDO2解锁]]></summary>
+    </entry>
         <entry>
         <title>过度解读是不是读者拥有的绝对权力？II</title>
         <id>169134</id>
@@ -22,6 +44,28 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[过度解读是不是读者拥有的绝对权力？II]]></summary>
+    </entry>
+        <entry>
+        <title>解决天选三AX210在fedora 44/Ubuntu 26.04上睡眠后恢复失败的问题</title>
+        <id>169146</id>
+        <link href="https://blog.goodboyboy.top/posts/208413281.html?utm_source=blogfinder" />
+        <published>2026-08-25T09:15:45+08:00</published>
+        <author>
+            <name>GoodBoyboy</name>
+            <uri>https://blog.goodboyboy.top</uri>
+        </author>
+        <summary type="text"><![CDATA[解决天选三AX210在fedora 44/Ubuntu 26.04上睡眠后恢复失败的问题]]></summary>
+    </entry>
+        <entry>
+        <title>一文讲透英伟达免费模型的白嫖技巧,零成本蹬顶级模型之nvida 的mimimax m3</title>
+        <id>169148</id>
+        <link href="https://upxuu.com/posts/mimimax-m3-pn-nvida-nim/?utm_source=blogfinder" />
+        <published>2026-08-25T09:14:15+08:00</published>
+        <author>
+            <name>UpXuu&#039;s blog</name>
+            <uri>https://upxuu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[一文讲透英伟达免费模型的白嫖技巧,零成本蹬顶级模型之nvida 的mimimax m3]]></summary>
     </entry>
         <entry>
         <title>你TMD给我滚</title>
@@ -90,6 +134,17 @@
         <summary type="text"><![CDATA[FreeToken：在消费级显卡上跑 290B+ 顶级 MoE 大模型]]></summary>
     </entry>
         <entry>
+        <title>PVE 超融合基础设施 - 3.PVE 配置分布式共享存储Ceph</title>
+        <id>169147</id>
+        <link href="https://songxwn.com/PVE-HCI-3/?utm_source=blogfinder" />
+        <published>2026-08-24T22:50:16+08:00</published>
+        <author>
+            <name>Song&#039;s Blog</name>
+            <uri>https://songxwn.com</uri>
+        </author>
+        <summary type="text"><![CDATA[PVE 超融合基础设施 - 3.PVE 配置分布式共享存储Ceph]]></summary>
+    </entry>
+        <entry>
         <title>蹉跎一月，且观小城朝暮</title>
         <id>169138</id>
         <link href="https://blog.1edg.cn/762?utm_source=blogfinder" />
@@ -110,6 +165,17 @@
             <uri>https://songxwn.com</uri>
         </author>
         <summary type="text"><![CDATA[PVE 超融合基础设施 - 2.PVE 配置集群]]></summary>
+    </entry>
+        <entry>
+        <title>在浙大的走廊里，我看见了1947年的爷爷</title>
+        <id>169144</id>
+        <link href="https://www.tortorse.com/archives/zhejiang-university-1947-grandfather/?utm_source=blogfinder" />
+        <published>2026-08-24T21:39:00+08:00</published>
+        <author>
+            <name>愆伏</name>
+            <uri>https://www.tortorse.com</uri>
+        </author>
+        <summary type="text"><![CDATA[在浙大的走廊里，我看见了1947年的爷爷]]></summary>
     </entry>
         <entry>
         <title>眼神</title>
@@ -143,6 +209,17 @@
             <uri>https://blog.xxbjf.com</uri>
         </author>
         <summary type="text"><![CDATA[住房攻略]]></summary>
+    </entry>
+        <entry>
+        <title>和传销斗智斗勇——进入商场第一关</title>
+        <id>169149</id>
+        <link href="https://upxuu.com/posts/hywccccc/?utm_source=blogfinder" />
+        <published>2026-08-24T18:21:52+08:00</published>
+        <author>
+            <name>UpXuu&#039;s blog</name>
+            <uri>https://upxuu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[和传销斗智斗勇——进入商场第一关]]></summary>
     </entry>
         <entry>
         <title>Linux 性能分析实战：用 perf + flamegraph 定位 CPU 瓶颈</title>
@@ -1837,38 +1914,5 @@
             <uri>https://upxuu.com</uri>
         </author>
         <summary type="text"><![CDATA[「说说」3秒删掉此电脑里的钉子户网盘]]></summary>
-    </entry>
-        <entry>
-        <title>牛郎织女和父权</title>
-        <id>168814</id>
-        <link href="https://blog.cytrogen.icu/posts/ef30.html?utm_source=blogfinder" />
-        <published>2026-08-22T12:00:00+08:00</published>
-        <author>
-            <name>Cytrogen&#039;s Blog</name>
-            <uri>https://blog.cytrogen.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[牛郎织女和父权]]></summary>
-    </entry>
-        <entry>
-        <title>最好的牛肉汤</title>
-        <id>168812</id>
-        <link href="https://imxcy.cn/archives/6697bd84.html?utm_source=blogfinder" />
-        <published>2026-08-22T11:57:00+08:00</published>
-        <author>
-            <name>许大阳的日记本</name>
-            <uri>https://imxcy.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[最好的牛肉汤]]></summary>
-    </entry>
-        <entry>
-        <title>最近干了点啥？</title>
-        <id>168803</id>
-        <link href="https://yishu-life.com/index.php/archives/552.html?utm_source=blogfinder" />
-        <published>2026-08-22T11:18:32+08:00</published>
-        <author>
-            <name>树下语</name>
-            <uri>https://yishu-life.com</uri>
-        </author>
-        <summary type="text"><![CDATA[最近干了点啥？]]></summary>
     </entry>
     </feed>
