@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-25T21:00:36+08:00</updated>
+    <updated>2026-08-25T22:00:35+08:00</updated>
         <entry>
         <title>碎片动态 2026-08-25</title>
         <id>169166</id>
@@ -22,6 +22,17 @@
             <uri>https://sigge.cn</uri>
         </author>
         <summary type="text"><![CDATA[碎片动态 2026-08-25]]></summary>
+    </entry>
+        <entry>
+        <title>《斩神之凡尘神域Ⅱ》观后感</title>
+        <id>169170</id>
+        <link href="https://blog.weasel6.cn/posts/cartoon-zhanshen2/?utm_source=blogfinder" />
+        <published>2026-08-25T18:36:00+08:00</published>
+        <author>
+            <name>小黄的日记本</name>
+            <uri>https://blog.weasel6.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[《斩神之凡尘神域Ⅱ》观后感]]></summary>
     </entry>
         <entry>
         <title>Claude Code Agent Loop 研究系列（06）—— Streaming：从 SSE 事件到逐字显示</title>
@@ -231,6 +242,17 @@
             <uri>https://www.paddysun.top</uri>
         </author>
         <summary type="text"><![CDATA[[Agent 考古] 自知、自觉、自止——终章定论：Agent 不需要意识，但必须知道自己的边界、理由和终点]]></summary>
+    </entry>
+        <entry>
+        <title>午夜备忘：关于爱、自由与未来</title>
+        <id>169169</id>
+        <link href="https://innei.in/notes/219?utm_source=blogfinder" />
+        <published>2026-08-25T02:29:47+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[午夜备忘：关于爱、自由与未来]]></summary>
     </entry>
         <entry>
         <title>迷幻</title>
@@ -1859,27 +1881,5 @@
             <uri>https://ezo.biz</uri>
         </author>
         <summary type="text"><![CDATA[微醺]]></summary>
-    </entry>
-        <entry>
-        <title>2026-08-22 21:53</title>
-        <id>168813</id>
-        <link href="https://koobai.com/laodao/2026/08/20260822-215305/?utm_source=blogfinder" />
-        <published>2026-08-22T21:53:05+08:00</published>
-        <author>
-            <name>Koobai</name>
-            <uri>https://koobai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-08-22 21:53]]></summary>
-    </entry>
-        <entry>
-        <title>eBPF 在安全监控中的应用：用 bpftrace 追踪系统调用异常</title>
-        <id>168818</id>
-        <link href="https://qaqbuyan.com:88/乔安文章/142.html?utm_source=blogfinder" />
-        <published>2026-08-22T21:44:11+08:00</published>
-        <author>
-            <name>卟言的个人博客</name>
-            <uri>https://qaqbuyan.com:88</uri>
-        </author>
-        <summary type="text"><![CDATA[eBPF 在安全监控中的应用：用 bpftrace 追踪系统调用异常]]></summary>
     </entry>
     </feed>
