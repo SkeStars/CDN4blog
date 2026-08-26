@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-26T13:20:03+08:00</updated>
+    <updated>2026-08-26T15:01:10+08:00</updated>
         <entry>
         <title>LGV 引理学习笔记</title>
         <id>169331</id>
@@ -33,6 +33,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1713】林达《我也有一个梦想：近距离看美国之三》]]></summary>
+    </entry>
+        <entry>
+        <title>偶像崩塌三部曲</title>
+        <id>169332</id>
+        <link href="https://mobius.blog/25504.html?utm_source=blogfinder" />
+        <published>2026-08-26T10:11:09+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[偶像崩塌三部曲]]></summary>
     </entry>
         <entry>
         <title>免费领了150元盒马礼品卡</title>
@@ -1738,247 +1749,5 @@
             <uri>https://qaqbuyan.com:88</uri>
         </author>
         <summary type="text"><![CDATA[对抗性样本攻击下的行为风控失效溯源：时序特征扰动的数学边界与模型鲁棒性重构]]></summary>
-    </entry>
-        <entry>
-        <title>[Agent 考古] 秘书要求他离开房间——一个程序为什么让人想跟它说心里话</title>
-        <id>168895</id>
-        <link href="https://www.paddysun.top/archives/4980?utm_source=blogfinder" />
-        <published>2026-08-23T15:00:00+08:00</published>
-        <author>
-            <name>Under the Sun with Paddy</name>
-            <uri>https://www.paddysun.top</uri>
-        </author>
-        <summary type="text"><![CDATA[[Agent 考古] 秘书要求他离开房间——一个程序为什么让人想跟它说心里话]]></summary>
-    </entry>
-        <entry>
-        <title>读张爱玲的《第一炉香》《倾城之恋》《金锁记》等</title>
-        <id>168980</id>
-        <link href="https://www.jfsay.com/archives/4068.html?utm_source=blogfinder" />
-        <published>2026-08-23T14:59:09+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[读张爱玲的《第一炉香》《倾城之恋》《金锁记》等]]></summary>
-    </entry>
-        <entry>
-        <title>go的cron表达式</title>
-        <id>168887</id>
-        <link href="https://blog.share888.top/note/back-end/go/go-tool/go的cron表达式?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[go的cron表达式]]></summary>
-    </entry>
-        <entry>
-        <title>go生成UUID</title>
-        <id>168886</id>
-        <link href="https://blog.share888.top/note/back-end/go/go-tool/go生成UUID?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[go生成UUID]]></summary>
-    </entry>
-        <entry>
-        <title>go字符串工具类</title>
-        <id>168885</id>
-        <link href="https://blog.share888.top/note/back-end/go/go-tool/go字符串工具类?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[go字符串工具类]]></summary>
-    </entry>
-        <entry>
-        <title>defer的使用</title>
-        <id>168884</id>
-        <link href="https://blog.share888.top/note/back-end/go/go-tool/defer的使用?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[defer的使用]]></summary>
-    </entry>
-        <entry>
-        <title>SyncMap的使用</title>
-        <id>168883</id>
-        <link href="https://blog.share888.top/note/back-end/go/go-tool/SyncMap的使用?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[SyncMap的使用]]></summary>
-    </entry>
-        <entry>
-        <title>RWMutex读写锁</title>
-        <id>168882</id>
-        <link href="https://blog.share888.top/note/back-end/go/go-tool/RWMutex读写锁?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[RWMutex读写锁]]></summary>
-    </entry>
-        <entry>
-        <title>context是什么</title>
-        <id>168881</id>
-        <link href="https://blog.share888.top/note/back-end/go/base/context是什么?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[context是什么]]></summary>
-    </entry>
-        <entry>
-        <title>01-获取指定网站的所有的链接</title>
-        <id>168880</id>
-        <link href="https://blog.share888.top/note/back-end/crawl/01-获取指定网站的所有的链接?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[01-获取指定网站的所有的链接]]></summary>
-    </entry>
-        <entry>
-        <title>02-腾讯API高清QQ头像https调用接口</title>
-        <id>168879</id>
-        <link href="https://blog.share888.top/note/back-end/api/02-腾讯API高清QQ头像https调用接口?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[02-腾讯API高清QQ头像https调用接口]]></summary>
-    </entry>
-        <entry>
-        <title>01-Bing每日一图接口</title>
-        <id>168878</id>
-        <link href="https://blog.share888.top/note/back-end/api/01-Bing每日一图接口?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[01-Bing每日一图接口]]></summary>
-    </entry>
-        <entry>
-        <title>opencv初体验</title>
-        <id>168877</id>
-        <link href="https://blog.share888.top/note/ai/opencv/opencv初体验?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[opencv初体验]]></summary>
-    </entry>
-        <entry>
-        <title>自定义一个MCP</title>
-        <id>168876</id>
-        <link href="https://blog.share888.top/note/ai/ai/自定义一个MCP?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[自定义一个MCP]]></summary>
-    </entry>
-        <entry>
-        <title>spring-ai</title>
-        <id>168875</id>
-        <link href="https://blog.share888.top/note/ai/ai/spring-ai?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[spring-ai]]></summary>
-    </entry>
-        <entry>
-        <title>ollama调用各大模型</title>
-        <id>168874</id>
-        <link href="https://blog.share888.top/note/ai/ai/ollama调用各大模型?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[ollama调用各大模型]]></summary>
-    </entry>
-        <entry>
-        <title>langchain实现Agent</title>
-        <id>168873</id>
-        <link href="https://blog.share888.top/note/ai/ai/langchain实现Agent?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[langchain实现Agent]]></summary>
-    </entry>
-        <entry>
-        <title>langchainjs</title>
-        <id>168872</id>
-        <link href="https://blog.share888.top/note/ai/ai/langchainjs?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[langchainjs]]></summary>
-    </entry>
-        <entry>
-        <title>go整合向量数据库ChromaDB</title>
-        <id>168871</id>
-        <link href="https://blog.share888.top/note/ai/ai/go整合向量数据库ChromaDB?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[go整合向量数据库ChromaDB]]></summary>
-    </entry>
-        <entry>
-        <title>eino整合Tools</title>
-        <id>168870</id>
-        <link href="https://blog.share888.top/note/ai/ai/eino整合Tools?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[eino整合Tools]]></summary>
-    </entry>
-        <entry>
-        <title>eino整合RAG</title>
-        <id>168869</id>
-        <link href="https://blog.share888.top/note/ai/ai/eino整合RAG?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[eino整合RAG]]></summary>
-    </entry>
-        <entry>
-        <title>eino实现Agent</title>
-        <id>168868</id>
-        <link href="https://blog.share888.top/note/ai/ai/eino实现Agent?utm_source=blogfinder" />
-        <published>2026-08-23T13:34:16+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[eino实现Agent]]></summary>
     </entry>
     </feed>
