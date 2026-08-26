@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-26T18:00:35+08:00</updated>
+    <updated>2026-08-26T19:00:30+08:00</updated>
+        <entry>
+        <title>Claude Code Agent Loop 研究系列（07）—— 重试与错误恢复：8 层恢复叠加</title>
+        <id>169346</id>
+        <link href="https://xilidou.com/2026/08/26/claude-code-agent-loop-07-retry-recovery/?utm_source=blogfinder" />
+        <published>2026-08-26T18:00:00+08:00</published>
+        <author>
+            <name>犀利豆的博客</name>
+            <uri>https://xilidou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Claude Code Agent Loop 研究系列（07）—— 重试与错误恢复：8 层恢复叠加]]></summary>
+    </entry>
         <entry>
         <title>以平常心看韦东奕编著的教辅</title>
         <id>169343</id>
@@ -33,6 +44,17 @@
             <uri>https://www.suo.ma</uri>
         </author>
         <summary type="text"><![CDATA[八月末无题]]></summary>
+    </entry>
+        <entry>
+        <title>虚惊一场的7.7级地震</title>
+        <id>169345</id>
+        <link href="https://n2g.cn/posts/changning-earthquake-warning/?utm_source=blogfinder" />
+        <published>2026-08-26T16:00:00+08:00</published>
+        <author>
+            <name>Xio&#039;s</name>
+            <uri>https://n2g.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[虚惊一场的7.7级地震]]></summary>
     </entry>
         <entry>
         <title>横版闯关小游戏 by Godot</title>
@@ -88,6 +110,17 @@
             <uri>https://upxuu.com</uri>
         </author>
         <summary type="text"><![CDATA[开学了，博客又要何去何从]]></summary>
+    </entry>
+        <entry>
+        <title>第一次独自去KTV</title>
+        <id>169344</id>
+        <link href="https://blog.xxbjf.com/archives/di-yi-ci-du-zi-qu-ktv?utm_source=blogfinder" />
+        <published>2026-08-26T13:37:30+08:00</published>
+        <author>
+            <name>小新笔记坊</name>
+            <uri>https://blog.xxbjf.com</uri>
+        </author>
+        <summary type="text"><![CDATA[第一次独自去KTV]]></summary>
     </entry>
         <entry>
         <title>川西暑漫记｜D1-D2 从平原奔赴山海，初遇高原的风与自由</title>
@@ -1749,60 +1782,5 @@
             <uri>https://ffaff.fun</uri>
         </author>
         <summary type="text"><![CDATA[命禄论]]></summary>
-    </entry>
-        <entry>
-        <title>永远的新裤子——新裤子30周年演唱会</title>
-        <id>168917</id>
-        <link href="https://tianheg.co/posts/new-pants-30th-anniversary/?utm_source=blogfinder" />
-        <published>2026-08-23T18:59:00+08:00</published>
-        <author>
-            <name>一大加贝</name>
-            <uri>https://tianheg.co</uri>
-        </author>
-        <summary type="text"><![CDATA[永远的新裤子——新裤子30周年演唱会]]></summary>
-    </entry>
-        <entry>
-        <title>【小记】上手 Pi，记录一下我的 AI 编码实践</title>
-        <id>168919</id>
-        <link href="https://bottle.moe/bottle-309.html?utm_source=blogfinder" />
-        <published>2026-08-23T18:43:47+08:00</published>
-        <author>
-            <name>Bottle 小站</name>
-            <uri>https://bottle.moe</uri>
-        </author>
-        <summary type="text"><![CDATA[【小记】上手 Pi，记录一下我的 AI 编码实践]]></summary>
-    </entry>
-        <entry>
-        <title>说说：#2026-08-23 18:41</title>
-        <id>168891</id>
-        <link href="https://www.mmbkz.cn/8925d44.html?utm_source=blogfinder" />
-        <published>2026-08-23T18:41:53+08:00</published>
-        <author>
-            <name>绯色之喵</name>
-            <uri>https://www.mmbkz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[说说：#2026-08-23 18:41]]></summary>
-    </entry>
-        <entry>
-        <title>你的文档会不会有大量别字</title>
-        <id>168987</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-23-about-typo.html?utm_source=blogfinder" />
-        <published>2026-08-23T18:33:20+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[你的文档会不会有大量别字]]></summary>
-    </entry>
-        <entry>
-        <title>如何配置 ZigBrains</title>
-        <id>168999</id>
-        <link href="https://zeeko.dev/2026/08/configure-zigbrains/?utm_source=blogfinder" />
-        <published>2026-08-23T18:17:35+08:00</published>
-        <author>
-            <name>网上冲浪指南</name>
-            <uri>https://zeeko.dev</uri>
-        </author>
-        <summary type="text"><![CDATA[如何配置 ZigBrains]]></summary>
     </entry>
     </feed>
