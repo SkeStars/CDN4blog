@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-26T15:01:10+08:00</updated>
+    <updated>2026-08-26T16:01:47+08:00</updated>
+        <entry>
+        <title>开学了，博客又要何去何从</title>
+        <id>169334</id>
+        <link href="https://upxuu.com/posts/bloglog260826/?utm_source=blogfinder" />
+        <published>2026-08-26T14:07:37+08:00</published>
+        <author>
+            <name>UpXuu&#039;s blog</name>
+            <uri>https://upxuu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[开学了，博客又要何去何从]]></summary>
+    </entry>
         <entry>
         <title>LGV 引理学习笔记</title>
         <id>169331</id>
@@ -187,6 +198,17 @@
             <uri>https://blog.lichenghao.cn</uri>
         </author>
         <summary type="text"><![CDATA[脚本解决雷池WAF的域名证书自动续签]]></summary>
+    </entry>
+        <entry>
+        <title>开车时随拍的白云（20260822）</title>
+        <id>169333</id>
+        <link href="http://stuit.cn/Xiaolu/Post/1643.html?utm_source=blogfinder" />
+        <published>2026-08-25T23:18:57+08:00</published>
+        <author>
+            <name>风雨行者</name>
+            <uri>http://stuit.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[开车时随拍的白云（20260822）]]></summary>
     </entry>
         <entry>
         <title>菜鸟裹裹“特惠寄”便宜3块多，从四川到浙江运输了五天才送到</title>
@@ -1738,16 +1760,5 @@
             <uri>https://www.paddysun.top</uri>
         </author>
         <summary type="text"><![CDATA[[Agent 考古] 600 条规则，一个反向推理引擎——专家系统的顶峰是怎么建成又怎么暴露边界的]]></summary>
-    </entry>
-        <entry>
-        <title>对抗性样本攻击下的行为风控失效溯源：时序特征扰动的数学边界与模型鲁棒性重构</title>
-        <id>168867</id>
-        <link href="https://qaqbuyan.com:88/乔安文章/143.html?utm_source=blogfinder" />
-        <published>2026-08-23T15:59:59+08:00</published>
-        <author>
-            <name>卟言的个人博客</name>
-            <uri>https://qaqbuyan.com:88</uri>
-        </author>
-        <summary type="text"><![CDATA[对抗性样本攻击下的行为风控失效溯源：时序特征扰动的数学边界与模型鲁棒性重构]]></summary>
     </entry>
     </feed>
