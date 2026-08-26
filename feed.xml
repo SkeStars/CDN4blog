@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-26T23:10:09+08:00</updated>
+    <updated>2026-08-27T00:01:21+08:00</updated>
+        <entry>
+        <title>266 博客价值被认可，后续要在知乎更新一些内容</title>
+        <id>169360</id>
+        <link href="http://ddw2019.com/266?utm_source=blogfinder" />
+        <published>2026-08-26T22:56:52+08:00</published>
+        <author>
+            <name>Dongdong&#039;s Blog</name>
+            <uri>https://ddw2019.com</uri>
+        </author>
+        <summary type="text"><![CDATA[266 博客价值被认可，后续要在知乎更新一些内容]]></summary>
+    </entry>
         <entry>
         <title>说说密码保护首页样式问题</title>
         <id>169355</id>
@@ -35,6 +46,50 @@
         <summary type="text"><![CDATA[撞鬼]]></summary>
     </entry>
         <entry>
+        <title>人为什么可以闯出这么大的祸</title>
+        <id>169358</id>
+        <link href="http://99887766554433221100.cn/archives/198/?utm_source=blogfinder" />
+        <published>2026-08-26T21:16:00+08:00</published>
+        <author>
+            <name>南香香</name>
+            <uri>http://99887766554433221100.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[人为什么可以闯出这么大的祸]]></summary>
+    </entry>
+        <entry>
+        <title>旅途遇彩虹，好运常相伴</title>
+        <id>169359</id>
+        <link href="https://pwsz.com/life/5681.html?utm_source=blogfinder" />
+        <published>2026-08-26T20:54:52+08:00</published>
+        <author>
+            <name>品味苏州</name>
+            <uri>https://pwsz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[旅途遇彩虹，好运常相伴]]></summary>
+    </entry>
+        <entry>
+        <title>中元节随笔</title>
+        <id>169362</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1556/?utm_source=blogfinder" />
+        <published>2026-08-26T20:51:10+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[中元节随笔]]></summary>
+    </entry>
+        <entry>
+        <title>新衣、无聊与一副变形眼镜</title>
+        <id>169363</id>
+        <link href="https://nxxy335.top/archives/TxquSKpt?utm_source=blogfinder" />
+        <published>2026-08-26T20:43:40+08:00</published>
+        <author>
+            <name>暖心向阳</name>
+            <uri>https://nxxy335.top</uri>
+        </author>
+        <summary type="text"><![CDATA[新衣、无聊与一副变形眼镜]]></summary>
+    </entry>
+        <entry>
         <title>关于定位</title>
         <id>169357</id>
         <link href="https://www.seis-jun.xyz/blog/2026-08-26-about-location.html?utm_source=blogfinder" />
@@ -55,6 +110,17 @@
             <uri>https://xilidou.com</uri>
         </author>
         <summary type="text"><![CDATA[Claude Code Agent Loop 研究系列（07）—— 重试与错误恢复：8 层恢复叠加]]></summary>
+    </entry>
+        <entry>
+        <title>使用upstream-hub集中查看AI余额</title>
+        <id>169361</id>
+        <link href="https://blog.xrbk.cn/post/104.html?utm_source=blogfinder" />
+        <published>2026-08-26T17:45:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://blog.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[使用upstream-hub集中查看AI余额]]></summary>
     </entry>
         <entry>
         <title>Rack-auto 裸金属服务器自动化工具</title>
@@ -1617,126 +1683,5 @@
             <uri>https://taxodium.ink</uri>
         </author>
         <summary type="text"><![CDATA[給博客添加純文本版本]]></summary>
-    </entry>
-        <entry>
-        <title>OpenClaw：用开源方式把 AI 助手部署到你自己的设备上</title>
-        <id>169129</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-24/openclaw/?utm_source=blogfinder" />
-        <published>2026-08-24T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenClaw：用开源方式把 AI 助手部署到你自己的设备上]]></summary>
-    </entry>
-        <entry>
-        <title>Mercury Agent Skills：为AI智能体打造的开源技能库</title>
-        <id>169128</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-24/mercury-agent-skills/?utm_source=blogfinder" />
-        <published>2026-08-24T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Mercury Agent Skills：为AI智能体打造的开源技能库]]></summary>
-    </entry>
-        <entry>
-        <title>Claude-Obsidian：让你的知识库越用越聪明的本地优先系统</title>
-        <id>169127</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-24/claude-obsidian/?utm_source=blogfinder" />
-        <published>2026-08-24T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Claude-Obsidian：让你的知识库越用越聪明的本地优先系统]]></summary>
-    </entry>
-        <entry>
-        <title>Awesome DSH Plugin：DeepSeek Harness 插件生态精选</title>
-        <id>169126</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-24/awesome-dsh-plugin/?utm_source=blogfinder" />
-        <published>2026-08-24T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Awesome DSH Plugin：DeepSeek Harness 插件生态精选]]></summary>
-    </entry>
-        <entry>
-        <title>Agent Orchestrator：统一编排 26 种编程 Agent 的桌面工作台</title>
-        <id>169125</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-24/agent-orchestrator/?utm_source=blogfinder" />
-        <published>2026-08-24T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Agent Orchestrator：统一编排 26 种编程 Agent 的桌面工作台]]></summary>
-    </entry>
-        <entry>
-        <title>BookOrbit：自托管的全格式电子书与有声书阅读管理平台</title>
-        <id>168972</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-24/bookorbit/?utm_source=blogfinder" />
-        <published>2026-08-24T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[BookOrbit：自托管的全格式电子书与有声书阅读管理平台]]></summary>
-    </entry>
-        <entry>
-        <title>胡拉图的周刊-第十八期</title>
-        <id>169175</id>
-        <link href="https://hulatu.com/posts/2026/08/23/newsletter-18/?utm_source=blogfinder" />
-        <published>2026-08-23T23:58:21+08:00</published>
-        <author>
-            <name>胡拉图说</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[胡拉图的周刊-第十八期]]></summary>
-    </entry>
-        <entry>
-        <title>胡拉图的周刊 第十八期</title>
-        <id>169139</id>
-        <link href="https://hulatu.com/weekly/newsletter-18/?utm_source=blogfinder" />
-        <published>2026-08-23T23:58:21+08:00</published>
-        <author>
-            <name>胡拉图说</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[胡拉图的周刊 第十八期]]></summary>
-    </entry>
-        <entry>
-        <title>“你只会用钱哄人吗？”</title>
-        <id>168996</id>
-        <link href="https://nxxy335.top/archives/Bu9HSUMj?utm_source=blogfinder" />
-        <published>2026-08-23T23:48:36+08:00</published>
-        <author>
-            <name>暖心向阳</name>
-            <uri>https://nxxy335.top</uri>
-        </author>
-        <summary type="text"><![CDATA[“你只会用钱哄人吗？”]]></summary>
-    </entry>
-        <entry>
-        <title>第一次骑行100KM</title>
-        <id>169020</id>
-        <link href="https://moraex.com/life/the-first-time-to-ride-100km.html?utm_source=blogfinder" />
-        <published>2026-08-23T23:27:53+08:00</published>
-        <author>
-            <name>MoraEX 博客</name>
-            <uri>https://moraex.com</uri>
-        </author>
-        <summary type="text"><![CDATA[第一次骑行100KM]]></summary>
-    </entry>
-        <entry>
-        <title>当 DeepSeek Harness 遇上 Spring Boot：AI 时代的架构课</title>
-        <id>169085</id>
-        <link href="https://blog.liuhangyv.top/archives/deepseek-harness-spring-boot-architecture?utm_source=blogfinder" />
-        <published>2026-08-23T23:18:19+08:00</published>
-        <author>
-            <name>Serendipity</name>
-            <uri>https://blog.liuhangyv.top</uri>
-        </author>
-        <summary type="text"><![CDATA[当 DeepSeek Harness 遇上 Spring Boot：AI 时代的架构课]]></summary>
     </entry>
     </feed>
