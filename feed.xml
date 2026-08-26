@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-26T16:01:47+08:00</updated>
+    <updated>2026-08-26T17:01:16+08:00</updated>
+        <entry>
+        <title>八月末无题</title>
+        <id>169335</id>
+        <link href="https://www.suo.ma/95/?utm_source=blogfinder" />
+        <published>2026-08-26T16:27:31+08:00</published>
+        <author>
+            <name>索玛</name>
+            <uri>https://www.suo.ma</uri>
+        </author>
+        <summary type="text"><![CDATA[八月末无题]]></summary>
+    </entry>
         <entry>
         <title>开学了，博客又要何去何从</title>
         <id>169334</id>
@@ -1749,16 +1760,5 @@
             <uri>https://7gugu.com</uri>
         </author>
         <summary type="text"><![CDATA[过马路小游戏 by Godot]]></summary>
-    </entry>
-        <entry>
-        <title>[Agent 考古] 600 条规则，一个反向推理引擎——专家系统的顶峰是怎么建成又怎么暴露边界的</title>
-        <id>168894</id>
-        <link href="https://www.paddysun.top/archives/4987?utm_source=blogfinder" />
-        <published>2026-08-23T17:00:00+08:00</published>
-        <author>
-            <name>Under the Sun with Paddy</name>
-            <uri>https://www.paddysun.top</uri>
-        </author>
-        <summary type="text"><![CDATA[[Agent 考古] 600 条规则，一个反向推理引擎——专家系统的顶峰是怎么建成又怎么暴露边界的]]></summary>
     </entry>
     </feed>
