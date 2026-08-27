@@ -11,7 +11,73 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-27T18:00:32+08:00</updated>
+    <updated>2026-08-28T04:03:59+08:00</updated>
+        <entry>
+        <title>停更许久｜自驾浙江绍兴，记录沿途风光</title>
+        <id>169423</id>
+        <link href="https://blog.tibtob.cn/archives/94/?utm_source=blogfinder" />
+        <published>2026-08-27T21:38:00+08:00</published>
+        <author>
+            <name>拾音博客</name>
+            <uri>https://blog.tibtob.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[停更许久｜自驾浙江绍兴，记录沿途风光]]></summary>
+    </entry>
+        <entry>
+        <title>迁就碰表交友是放弃引导的责任</title>
+        <id>169416</id>
+        <link href="https://www.pgoj.top/archives/peng-biao-jiao-you.html?utm_source=blogfinder" />
+        <published>2026-08-27T21:30:30+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[迁就碰表交友是放弃引导的责任]]></summary>
+    </entry>
+        <entry>
+        <title>生活在不同的算法中，仿佛生活在两个世界</title>
+        <id>169417</id>
+        <link href="https://hulatu.com/posts/2026/08/27/talk-about-topics/?utm_source=blogfinder" />
+        <published>2026-08-27T18:32:23+08:00</published>
+        <author>
+            <name>胡拉图说</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[生活在不同的算法中，仿佛生活在两个世界]]></summary>
+    </entry>
+        <entry>
+        <title>四川近几天再次重现橙色高温，一天比一天热</title>
+        <id>169420</id>
+        <link href="https://www.bufanz.com/20260827846.html?utm_source=blogfinder" />
+        <published>2026-08-27T18:20:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[四川近几天再次重现橙色高温，一天比一天热]]></summary>
+    </entry>
+        <entry>
+        <title>Claude Code Agent Loop 研究系列（08）—— Interrupt：从 Ctrl-C 到合成 tool_result</title>
+        <id>169415</id>
+        <link href="https://xilidou.com/2026/08/27/claude-code-agent-loop-08-interrupt/?utm_source=blogfinder" />
+        <published>2026-08-27T18:00:00+08:00</published>
+        <author>
+            <name>犀利豆的博客</name>
+            <uri>https://xilidou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Claude Code Agent Loop 研究系列（08）—— Interrupt：从 Ctrl-C 到合成 tool_result]]></summary>
+    </entry>
+        <entry>
+        <title>不是 Bug,是 Feature</title>
+        <id>169414</id>
+        <link href="https://hux.ink/posts/not-a-bug-its-a-feature/?utm_source=blogfinder" />
+        <published>2026-08-27T17:25:23+08:00</published>
+        <author>
+            <name>Counting Stars</name>
+            <uri>https://hux.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[不是 Bug,是 Feature]]></summary>
+    </entry>
         <entry>
         <title>中元节</title>
         <id>169412</id>
@@ -88,6 +154,17 @@
             <uri>https://blog.zhheo.com</uri>
         </author>
         <summary type="text"><![CDATA[我与我的 OpenClaw 凉透了焦虑和解了]]></summary>
+    </entry>
+        <entry>
+        <title>使用SEPIA分析QSM数据</title>
+        <id>169421</id>
+        <link href="https://alexbrain.cn/?p=904&amp;utm_source=blogfinder" />
+        <published>2026-08-27T10:58:15+08:00</published>
+        <author>
+            <name>Alex 的学习笔记</name>
+            <uri>https://alexbrain.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[使用SEPIA分析QSM数据]]></summary>
     </entry>
         <entry>
         <title>TikHub：社交媒体数据API平台，支持TikTok、抖音、小红书等16个平台</title>
@@ -266,6 +343,17 @@
         <summary type="text"><![CDATA[ShutterMap 正式上线 App Store]]></summary>
     </entry>
         <entry>
+        <title>知乎小记二则</title>
+        <id>169422</id>
+        <link href="https://xeonzilla.top/two-notes-on-zhihu/?utm_source=blogfinder" />
+        <published>2026-08-27T00:00:00+08:00</published>
+        <author>
+            <name>Xeonzilla’s Note</name>
+            <uri>https://xeonzilla.top</uri>
+        </author>
+        <summary type="text"><![CDATA[知乎小记二则]]></summary>
+    </entry>
+        <entry>
         <title>Scientific Agent Skills 详解：163 个开箱即用的科研 Agent Skills，让你的 AI 变身「桌面科研科学家」</title>
         <id>169377</id>
         <link href="http://blog.xlap.top/post/tech/2026-08-27/scientific-agent-skills/?utm_source=blogfinder" />
@@ -319,6 +407,28 @@
             <uri>https://cyrusyip.org</uri>
         </author>
         <summary type="text"><![CDATA[安全驾驶的要素：速度差、距离、视野、预判、友善、专注、车况]]></summary>
+    </entry>
+        <entry>
+        <title>遗失的友情链接该如何找到其现在主人呢</title>
+        <id>169424</id>
+        <link href="https://blog.xpdbk.com/p/links-friend/?utm_source=blogfinder" />
+        <published>2026-08-26T23:04:29+08:00</published>
+        <author>
+            <name>小胖的博客</name>
+            <uri>https://blog.xpdbk.com</uri>
+        </author>
+        <summary type="text"><![CDATA[遗失的友情链接该如何找到其现在主人呢]]></summary>
+    </entry>
+        <entry>
+        <title>模糊规则与最终解释权</title>
+        <id>169418</id>
+        <link href="https://blog.solazy.me/20260826/?utm_source=blogfinder" />
+        <published>2026-08-26T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[模糊规则与最终解释权]]></summary>
     </entry>
         <entry>
         <title>266 博客价值被认可，后续要在知乎更新一些内容</title>
@@ -948,6 +1058,17 @@
         <summary type="text"><![CDATA[脚本解决雷池WAF的域名证书自动续签]]></summary>
     </entry>
         <entry>
+        <title>不可证伪的黑盒</title>
+        <id>169419</id>
+        <link href="https://blog.solazy.me/20260825/?utm_source=blogfinder" />
+        <published>2026-08-25T23:30:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[不可证伪的黑盒]]></summary>
+    </entry>
+        <entry>
         <title>开车时随拍的白云（20260822）</title>
         <id>169333</id>
         <link href="http://stuit.cn/Xiaolu/Post/1643.html?utm_source=blogfinder" />
@@ -1452,258 +1573,5 @@
             <uri>https://conge.livingwithfcs.org</uri>
         </author>
         <summary type="text"><![CDATA[2026 年七月 读基层生计，理财育儿 7 本]]></summary>
-    </entry>
-        <entry>
-        <title>午夜备忘：关于爱、自由与未来</title>
-        <id>169169</id>
-        <link href="https://innei.in/notes/219?utm_source=blogfinder" />
-        <published>2026-08-25T02:29:47+08:00</published>
-        <author>
-            <name>静かな森</name>
-            <uri>https://innei.in</uri>
-        </author>
-        <summary type="text"><![CDATA[午夜备忘：关于爱、自由与未来]]></summary>
-    </entry>
-        <entry>
-        <title>迷幻</title>
-        <id>169135</id>
-        <link href="https://mobius.blog/25491.html?utm_source=blogfinder" />
-        <published>2026-08-25T01:16:12+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[迷幻]]></summary>
-    </entry>
-        <entry>
-        <title>香港雞公嶺</title>
-        <id>169150</id>
-        <link href="https://taxodium.ink/hong-kong-kai-kung-leng.html?utm_source=blogfinder" />
-        <published>2026-08-25T01:15:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[香港雞公嶺]]></summary>
-    </entry>
-        <entry>
-        <title>暑假旅行｜中部自驾02 - 内蒙古鄂尔多斯</title>
-        <id>169121</id>
-        <link href="https://ficor.net/archives/56?utm_source=blogfinder" />
-        <published>2026-08-25T00:13:00+08:00</published>
-        <author>
-            <name>荒野菲克</name>
-            <uri>https://ficor.net</uri>
-        </author>
-        <summary type="text"><![CDATA[暑假旅行｜中部自驾02 - 内蒙古鄂尔多斯]]></summary>
-    </entry>
-        <entry>
-        <title>Ponytail：AI Agent 懒惰资深开发模式，代码减少 54%</title>
-        <id>169312</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-25/ponytail/?utm_source=blogfinder" />
-        <published>2026-08-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Ponytail：AI Agent 懒惰资深开发模式，代码减少 54%]]></summary>
-    </entry>
-        <entry>
-        <title>no-ai-slop: 一键清除写作中的 20+ 种 AI 套话套路</title>
-        <id>169311</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-25/no-ai-slop/?utm_source=blogfinder" />
-        <published>2026-08-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[no-ai-slop: 一键清除写作中的 20+ 种 AI 套话套路]]></summary>
-    </entry>
-        <entry>
-        <title>Marin：开源大模型训练全流程平台</title>
-        <id>169310</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-25/marin/?utm_source=blogfinder" />
-        <published>2026-08-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Marin：开源大模型训练全流程平台]]></summary>
-    </entry>
-        <entry>
-        <title>God&#039;s Eye View：用公开数据在浏览器里造一个实时的「上帝视角」地球</title>
-        <id>169309</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-25/gods-eye-view/?utm_source=blogfinder" />
-        <published>2026-08-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[God&#039;s Eye View：用公开数据在浏览器里造一个实时的「上帝视角」地球]]></summary>
-    </entry>
-        <entry>
-        <title>手动挡内功：转速匹配与挡位选择</title>
-        <id>169229</id>
-        <link href="https://cyrusyip.org/zh-cn/posts/2026/08/25/rev-matching-and-gear-selection/?utm_source=blogfinder" />
-        <published>2026-08-25T00:00:00+08:00</published>
-        <author>
-            <name>叶寻的博客</name>
-            <uri>https://cyrusyip.org</uri>
-        </author>
-        <summary type="text"><![CDATA[手动挡内功：转速匹配与挡位选择]]></summary>
-    </entry>
-        <entry>
-        <title>手动挡挂挡手法</title>
-        <id>169228</id>
-        <link href="https://cyrusyip.org/zh-cn/posts/2026/08/25/how-to-use-manual-gear-stick/?utm_source=blogfinder" />
-        <published>2026-08-25T00:00:00+08:00</published>
-        <author>
-            <name>叶寻的博客</name>
-            <uri>https://cyrusyip.org</uri>
-        </author>
-        <summary type="text"><![CDATA[手动挡挂挡手法]]></summary>
-    </entry>
-        <entry>
-        <title>unlazy：用可执行的验收闸门，给 AI Agent 的「敷衍式交付」上把锁</title>
-        <id>169124</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-25/unlazy/?utm_source=blogfinder" />
-        <published>2026-08-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[unlazy：用可执行的验收闸门，给 AI Agent 的「敷衍式交付」上把锁]]></summary>
-    </entry>
-        <entry>
-        <title>FreeToken：在消费级显卡上跑 290B+ 顶级 MoE 大模型</title>
-        <id>169123</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-25/freetoken/?utm_source=blogfinder" />
-        <published>2026-08-25T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[FreeToken：在消费级显卡上跑 290B+ 顶级 MoE 大模型]]></summary>
-    </entry>
-        <entry>
-        <title>先把自己的水桶装满</title>
-        <id>169195</id>
-        <link href="https://blog.solazy.me/20260824/?utm_source=blogfinder" />
-        <published>2026-08-24T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[先把自己的水桶装满]]></summary>
-    </entry>
-        <entry>
-        <title>PVE 超融合基础设施 - 3.PVE 配置分布式共享存储Ceph</title>
-        <id>169147</id>
-        <link href="https://songxwn.com/PVE-HCI-3/?utm_source=blogfinder" />
-        <published>2026-08-24T22:50:16+08:00</published>
-        <author>
-            <name>Song&#039;s Blog</name>
-            <uri>https://songxwn.com</uri>
-        </author>
-        <summary type="text"><![CDATA[PVE 超融合基础设施 - 3.PVE 配置分布式共享存储Ceph]]></summary>
-    </entry>
-        <entry>
-        <title>蹉跎一月，且观小城朝暮</title>
-        <id>169138</id>
-        <link href="https://blog.1edg.cn/762?utm_source=blogfinder" />
-        <published>2026-08-24T22:05:00+08:00</published>
-        <author>
-            <name>小林先森</name>
-            <uri>https://blog.1edg.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[蹉跎一月，且观小城朝暮]]></summary>
-    </entry>
-        <entry>
-        <title>PVE 超融合基础设施 - 2.PVE 配置集群</title>
-        <id>169014</id>
-        <link href="https://songxwn.com/PVE-HCI-2/?utm_source=blogfinder" />
-        <published>2026-08-24T21:50:16+08:00</published>
-        <author>
-            <name>Song&#039;s Blog</name>
-            <uri>https://songxwn.com</uri>
-        </author>
-        <summary type="text"><![CDATA[PVE 超融合基础设施 - 2.PVE 配置集群]]></summary>
-    </entry>
-        <entry>
-        <title>在浙大的走廊里，我看见了1947年的爷爷</title>
-        <id>169144</id>
-        <link href="https://www.tortorse.com/archives/zhejiang-university-1947-grandfather/?utm_source=blogfinder" />
-        <published>2026-08-24T21:39:00+08:00</published>
-        <author>
-            <name>愆伏</name>
-            <uri>https://www.tortorse.com</uri>
-        </author>
-        <summary type="text"><![CDATA[在浙大的走廊里，我看见了1947年的爷爷]]></summary>
-    </entry>
-        <entry>
-        <title>眼神</title>
-        <id>169016</id>
-        <link href="https://ezo.biz/Diary/1608.html?utm_source=blogfinder" />
-        <published>2026-08-24T21:23:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[眼神]]></summary>
-    </entry>
-        <entry>
-        <title>SpringBoot+Vue前后端日期时间格式统一的解决方案</title>
-        <id>169010</id>
-        <link href="https://www.tinsur.cn/971.html?utm_source=blogfinder" />
-        <published>2026-08-24T20:01:07+08:00</published>
-        <author>
-            <name>Tinsur Blog</name>
-            <uri>https://www.tinsur.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[SpringBoot+Vue前后端日期时间格式统一的解决方案]]></summary>
-    </entry>
-        <entry>
-        <title>住房攻略</title>
-        <id>169022</id>
-        <link href="https://blog.xxbjf.com/archives/zhu-fang-gong-lue?utm_source=blogfinder" />
-        <published>2026-08-24T18:58:05+08:00</published>
-        <author>
-            <name>小新笔记坊</name>
-            <uri>https://blog.xxbjf.com</uri>
-        </author>
-        <summary type="text"><![CDATA[住房攻略]]></summary>
-    </entry>
-        <entry>
-        <title>和传销斗智斗勇——进入商场第一关</title>
-        <id>169149</id>
-        <link href="https://upxuu.com/posts/hywccccc/?utm_source=blogfinder" />
-        <published>2026-08-24T18:21:52+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[和传销斗智斗勇——进入商场第一关]]></summary>
-    </entry>
-        <entry>
-        <title>Linux 性能分析实战：用 perf + flamegraph 定位 CPU 瓶颈</title>
-        <id>169017</id>
-        <link href="https://qaqbuyan.com:88/乔安文章/144.html?utm_source=blogfinder" />
-        <published>2026-08-24T18:13:54+08:00</published>
-        <author>
-            <name>卟言的个人博客</name>
-            <uri>https://qaqbuyan.com:88</uri>
-        </author>
-        <summary type="text"><![CDATA[Linux 性能分析实战：用 perf + flamegraph 定位 CPU 瓶颈]]></summary>
-    </entry>
-        <entry>
-        <title>跑步不香了</title>
-        <id>169013</id>
-        <link href="https://hux.ink/posts/more-riding/?utm_source=blogfinder" />
-        <published>2026-08-24T18:08:37+08:00</published>
-        <author>
-            <name>Counting Stars</name>
-            <uri>https://hux.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[跑步不香了]]></summary>
     </entry>
     </feed>
