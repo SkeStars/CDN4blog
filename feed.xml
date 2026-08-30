@@ -11,7 +11,95 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-08-30T00:00:23+08:00</updated>
+    <updated>2026-08-30T13:04:14+08:00</updated>
+        <entry>
+        <title>OCR 题库管理系统版本升级，增加答案图片保存功能</title>
+        <id>169572</id>
+        <link href="https://www.sunzhongwei.com/ocr-question-bank-management-system-version-upgrade-save-answer-pictures?utm_source=blogfinder" />
+        <published>2026-08-30T09:52:08+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[OCR 题库管理系统版本升级，增加答案图片保存功能]]></summary>
+    </entry>
+        <entry>
+        <title>≡ 008｜这两周莫比乌斯环转到了哪里？</title>
+        <id>169573</id>
+        <link href="https://mobius.blog/25535.html?utm_source=blogfinder" />
+        <published>2026-08-30T09:30:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[≡ 008｜这两周莫比乌斯环转到了哪里？]]></summary>
+    </entry>
+        <entry>
+        <title>RE：The ordinariness of evil</title>
+        <id>169579</id>
+        <link href="https://blog.cytrogen.icu/posts/f9e7.html?utm_source=blogfinder" />
+        <published>2026-08-30T09:00:00+08:00</published>
+        <author>
+            <name>Cytrogen&#039;s Blog</name>
+            <uri>https://blog.cytrogen.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[RE：The ordinariness of evil]]></summary>
+    </entry>
+        <entry>
+        <title>雷池WAF + fail2ban + AbuseIPDB 完整实战：从日志解析到自动封禁上报</title>
+        <id>169563</id>
+        <link href="https://www.paddysun.top/archives/5109?utm_source=blogfinder" />
+        <published>2026-08-30T01:00:12+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[雷池WAF + fail2ban + AbuseIPDB 完整实战：从日志解析到自动封禁上报]]></summary>
+    </entry>
+        <entry>
+        <title>真实的人、虚伪的人，以及想要成为的人和被驯化成的人</title>
+        <id>169574</id>
+        <link href="https://mobius.blog/25565.html?utm_source=blogfinder" />
+        <published>2026-08-30T00:55:59+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[真实的人、虚伪的人，以及想要成为的人和被驯化成的人]]></summary>
+    </entry>
+        <entry>
+        <title>ODS：一键将你的电脑变成私有 AI 服务器</title>
+        <id>169566</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-30/ods/?utm_source=blogfinder" />
+        <published>2026-08-30T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[ODS：一键将你的电脑变成私有 AI 服务器]]></summary>
+    </entry>
+        <entry>
+        <title>htmx：用 HTML 属性为网页注入 AJAX、WebSocket 与现代交互能力</title>
+        <id>169565</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-30/htmx/?utm_source=blogfinder" />
+        <published>2026-08-30T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[htmx：用 HTML 属性为网页注入 AJAX、WebSocket 与现代交互能力]]></summary>
+    </entry>
+        <entry>
+        <title>codex-chatgpt-web：将 ChatGPT Web 变身为 Codex 原生模型的本地桥梁</title>
+        <id>169564</id>
+        <link href="http://blog.xlap.top/post/tech/2026-08-30/codex-chatgpt-web/?utm_source=blogfinder" />
+        <published>2026-08-30T00:00:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[codex-chatgpt-web：将 ChatGPT Web 变身为 Codex 原生模型的本地桥梁]]></summary>
+    </entry>
         <entry>
         <title>一些切片的终止</title>
         <id>169555</id>
@@ -33,6 +121,17 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[帮我传给那边那个谁]]></summary>
+    </entry>
+        <entry>
+        <title>关于 AI 的一些随想</title>
+        <id>169580</id>
+        <link href="https://scottyeung.top/2026/thoughts-about-ai/?utm_source=blogfinder" />
+        <published>2026-08-29T22:15:22+08:00</published>
+        <author>
+            <name>YeungYeah 的乱写地</name>
+            <uri>https://scottyeung.top</uri>
+        </author>
+        <summary type="text"><![CDATA[关于 AI 的一些随想]]></summary>
     </entry>
         <entry>
         <title>炒糖色：冰糖 vs 白糖核心区别</title>
@@ -57,6 +156,17 @@
         <summary type="text"><![CDATA[入手 CUKTECH 10Ultra 充电头]]></summary>
     </entry>
         <entry>
+        <title>出门一趟累趴了</title>
+        <id>169577</id>
+        <link href="https://me.xu19.com/nine-day-beijing-trip-exhausted/?utm_source=blogfinder" />
+        <published>2026-08-29T20:49:48+08:00</published>
+        <author>
+            <name>我是军爸</name>
+            <uri>https://me.xu19.com</uri>
+        </author>
+        <summary type="text"><![CDATA[出门一趟累趴了]]></summary>
+    </entry>
+        <entry>
         <title>观展手记｜走进 Formnext Asia 深圳展</title>
         <id>169549</id>
         <link href="https://wangxinyang.top/archives/guan-zhan-shou-ji-zou-jin-formnext-asia-shen-zhen-zhan?utm_source=blogfinder" />
@@ -66,6 +176,17 @@
             <uri>https://wangxinyang.top</uri>
         </author>
         <summary type="text"><![CDATA[观展手记｜走进 Formnext Asia 深圳展]]></summary>
+    </entry>
+        <entry>
+        <title>二爬广州白云山</title>
+        <id>169575</id>
+        <link href="https://www.jfsay.com/archives/4043.html?utm_source=blogfinder" />
+        <published>2026-08-29T20:04:27+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[二爬广州白云山]]></summary>
     </entry>
         <entry>
         <title>二爬缙云山</title>
@@ -101,6 +222,28 @@
         <summary type="text"><![CDATA[计算机网络如何帮我理解「人们难以相互理解」？]]></summary>
     </entry>
         <entry>
+        <title>到了我这个年纪是不是都会自动变油腻？</title>
+        <id>169570</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-08-29-oily-or-not.html?utm_source=blogfinder" />
+        <published>2026-08-29T18:04:49+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[到了我这个年纪是不是都会自动变油腻？]]></summary>
+    </entry>
+        <entry>
+        <title>2026.8.29</title>
+        <id>169576</id>
+        <link href="https://www.justzht.com/2026-8-29/?utm_source=blogfinder" />
+        <published>2026-08-29T16:39:28+08:00</published>
+        <author>
+            <name>JustZht</name>
+            <uri>https://www.justzht.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026.8.29]]></summary>
+    </entry>
+        <entry>
         <title>cnb与eopages关联异常，已反馈官方并已修复</title>
         <id>169538</id>
         <link href="https://blog.xrbk.cn/post/105.html?utm_source=blogfinder" />
@@ -121,6 +264,17 @@
             <uri>https://www.seis-jun.xyz/</uri>
         </author>
         <summary type="text"><![CDATA[开车]]></summary>
+    </entry>
+        <entry>
+        <title>OpenWrt 的 dnsmasq 和 odhcpd 可能存在冲突</title>
+        <id>169559</id>
+        <link href="https://sh.alynx.one/posts/OpenWrt-dnsmasq-odhcpd-Conflict/?utm_source=blogfinder" />
+        <published>2026-08-29T15:25:54+08:00</published>
+        <author>
+            <name>喵&#039;s StackHarbor</name>
+            <uri>https://sh.alynx.one</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenWrt 的 dnsmasq 和 odhcpd 可能存在冲突]]></summary>
     </entry>
         <entry>
         <title>致大一新生的一封信</title>
@@ -145,6 +299,17 @@
         <summary type="text"><![CDATA[扣帽子的‘徐福国际顺民’论]]></summary>
     </entry>
         <entry>
+        <title>当代码变得廉价</title>
+        <id>169578</id>
+        <link href="https://cavill.site/articles/when-code-became-cheap?utm_source=blogfinder" />
+        <published>2026-08-29T14:21:37+08:00</published>
+        <author>
+            <name>栖迟处</name>
+            <uri>https://cavill.site</uri>
+        </author>
+        <summary type="text"><![CDATA[当代码变得廉价]]></summary>
+    </entry>
+        <entry>
         <title>为什么，我们希望被看见——浅谈upxuu的建站心得</title>
         <id>169532</id>
         <link href="https://upxuu.com/posts/why-blog/?utm_source=blogfinder" />
@@ -154,6 +319,17 @@
             <uri>https://upxuu.com</uri>
         </author>
         <summary type="text"><![CDATA[为什么，我们希望被看见——浅谈upxuu的建站心得]]></summary>
+    </entry>
+        <entry>
+        <title>Lottie 动画表情包测试文章</title>
+        <id>169562</id>
+        <link href="https://b.ncii.cn/archives/yllDoVlz?utm_source=blogfinder" />
+        <published>2026-08-29T14:04:18+08:00</published>
+        <author>
+            <name>卖烤肉博客</name>
+            <uri>https://b.ncii.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Lottie 动画表情包测试文章]]></summary>
     </entry>
         <entry>
         <title>「仙逆」第153集的片尾真帅啊！</title>
@@ -297,6 +473,61 @@
             <uri>https://www.chenrui.com</uri>
         </author>
         <summary type="text"><![CDATA[垂耳兔]]></summary>
+    </entry>
+        <entry>
+        <title>中医理论</title>
+        <id>169569</id>
+        <link href="https://www.immarcus.com/blog/chinese-medicine?utm_source=blogfinder" />
+        <published>2026-08-29T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[中医理论]]></summary>
+    </entry>
+        <entry>
+        <title>老美还是强 + 一周回顾</title>
+        <id>169568</id>
+        <link href="https://ddbzhou.com/post/laomeihaishiqiang/?utm_source=blogfinder" />
+        <published>2026-08-29T08:00:00+08:00</published>
+        <author>
+            <name>兜兜爸投资笔记</name>
+            <uri>https://ddbzhou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[老美还是强 + 一周回顾]]></summary>
+    </entry>
+        <entry>
+        <title>Python 潮流周刊#165：Mojo 正式开源</title>
+        <id>169567</id>
+        <link href="https://pythoncat.top/posts/2026-08-29-weekly/?utm_source=blogfinder" />
+        <published>2026-08-29T08:00:00+08:00</published>
+        <author>
+            <name>豌豆花下猫</name>
+            <uri>https://pythoncat.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Python 潮流周刊#165：Mojo 正式开源]]></summary>
+    </entry>
+        <entry>
+        <title>在家</title>
+        <id>169561</id>
+        <link href="https://www.mioz.life/Mlog/20260829a?utm_source=blogfinder" />
+        <published>2026-08-29T08:00:00+08:00</published>
+        <author>
+            <name>猫酣</name>
+            <uri>https://mioz.life</uri>
+        </author>
+        <summary type="text"><![CDATA[在家]]></summary>
+    </entry>
+        <entry>
+        <title>介绍一家最近去的头马 Toastmasters 演讲俱乐部</title>
+        <id>169560</id>
+        <link href="https://www.owenyoung.com/toastmasters?utm_source=blogfinder" />
+        <published>2026-08-29T03:00:59+08:00</published>
+        <author>
+            <name>Owen 的博客</name>
+            <uri>https://www.owenyoung.com</uri>
+        </author>
+        <summary type="text"><![CDATA[介绍一家最近去的头马 Toastmasters 演讲俱乐部]]></summary>
     </entry>
         <entry>
         <title>TI杯模拟邀请赛回顾</title>
@@ -1331,225 +1562,5 @@
             <uri>https://blog.xxbjf.com</uri>
         </author>
         <summary type="text"><![CDATA[中元节记事]]></summary>
-    </entry>
-        <entry>
-        <title>《奥德赛》影评：诺兰IMAX史诗背后，独眼巨人、女巫塞壬都在讲人生阻碍</title>
-        <id>169410</id>
-        <link href="https://chenbozheng.com/wz/1724.html?utm_source=blogfinder" />
-        <published>2026-08-27T12:55:40+08:00</published>
-        <author>
-            <name>伯正博客</name>
-            <uri>https://chenbozheng.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《奥德赛》影评：诺兰IMAX史诗背后，独眼巨人、女巫塞壬都在讲人生阻碍]]></summary>
-    </entry>
-        <entry>
-        <title>我与我的 OpenClaw 凉透了焦虑和解了</title>
-        <id>169405</id>
-        <link href="https://blog.zhheo.com/p/npa0251o.html?utm_source=blogfinder" />
-        <published>2026-08-27T11:13:24+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我与我的 OpenClaw 凉透了焦虑和解了]]></summary>
-    </entry>
-        <entry>
-        <title>使用SEPIA分析QSM数据</title>
-        <id>169421</id>
-        <link href="https://alexbrain.cn/?p=904&amp;utm_source=blogfinder" />
-        <published>2026-08-27T10:58:15+08:00</published>
-        <author>
-            <name>Alex 的学习笔记</name>
-            <uri>https://alexbrain.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[使用SEPIA分析QSM数据]]></summary>
-    </entry>
-        <entry>
-        <title>TikHub：社交媒体数据API平台，支持TikTok、抖音、小红书等16个平台</title>
-        <id>169404</id>
-        <link href="https://www.wangdu.site/software/ai/2382.html?utm_source=blogfinder" />
-        <published>2026-08-27T10:33:38+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[TikHub：社交媒体数据API平台，支持TikTok、抖音、小红书等16个平台]]></summary>
-    </entry>
-        <entry>
-        <title>公共厕所与公共知识</title>
-        <id>169400</id>
-        <link href="https://mobius.blog/25511.html?utm_source=blogfinder" />
-        <published>2026-08-27T10:13:23+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[公共厕所与公共知识]]></summary>
-    </entry>
-        <entry>
-        <title>GLM-5.3-Flash 发布：从「牛来」神秘刷屏到开源普惠</title>
-        <id>169406</id>
-        <link href="https://baiwumm.com/posts/qv3m8zxr/?utm_source=blogfinder" />
-        <published>2026-08-27T10:00:00+08:00</published>
-        <author>
-            <name>谜叶象限</name>
-            <uri>https://www.baiwumm.com</uri>
-        </author>
-        <summary type="text"><![CDATA[GLM-5.3-Flash 发布：从「牛来」神秘刷屏到开源普惠]]></summary>
-    </entry>
-        <entry>
-        <title>缓存复仇记：挡在我完美缓存前面的，是那个更傻的缓存</title>
-        <id>169394</id>
-        <link href="https://styunlen.cn/archives/post-1838.html?utm_source=blogfinder" />
-        <published>2026-08-27T09:36:00+08:00</published>
-        <author>
-            <name>九仞之行</name>
-            <uri>https://styunlen.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[缓存复仇记：挡在我完美缓存前面的，是那个更傻的缓存]]></summary>
-    </entry>
-        <entry>
-        <title>DeepSeek Harness：DeepSeek开源AI Agent框架，支持Skills、插件、工具和DSH Desktop桌面版</title>
-        <id>169393</id>
-        <link href="https://www.wangdu.site/software/ai/2381.html?utm_source=blogfinder" />
-        <published>2026-08-27T09:29:36+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[DeepSeek Harness：DeepSeek开源AI Agent框架，支持Skills、插件、工具和DSH Desktop桌面版]]></summary>
-    </entry>
-        <entry>
-        <title>二十载岁月流转，盼再入一次有你的梦</title>
-        <id>169413</id>
-        <link href="https://aijun.org/20th-Death-Anniversary/?utm_source=blogfinder" />
-        <published>2026-08-27T09:00:00+08:00</published>
-        <author>
-            <name>A 君博客</name>
-            <uri>https://aijun.org</uri>
-        </author>
-        <summary type="text"><![CDATA[二十载岁月流转，盼再入一次有你的梦]]></summary>
-    </entry>
-        <entry>
-        <title>免费的...DeepSeek v4 pro 0813?!!</title>
-        <id>169398</id>
-        <link href="https://upxuu.com/posts/free-deepseek-pro-on-nvidia/?utm_source=blogfinder" />
-        <published>2026-08-27T08:38:50+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[免费的...DeepSeek v4 pro 0813?!!]]></summary>
-    </entry>
-        <entry>
-        <title>8月27日，世界湖泊日</title>
-        <id>169397</id>
-        <link href="https://www.munue.com/world-lake-day.html?utm_source=blogfinder" />
-        <published>2026-08-27T08:26:31+08:00</published>
-        <author>
-            <name>随风沐虐</name>
-            <uri>https://www.munue.com</uri>
-        </author>
-        <summary type="text"><![CDATA[8月27日，世界湖泊日]]></summary>
-    </entry>
-        <entry>
-        <title>愿你如晨光，不惧夜色漫长</title>
-        <id>169383</id>
-        <link href="https://zhujay.com/talk/talk_detail.html?id=1274&amp;utm_source=blogfinder" />
-        <published>2026-08-27T08:19:45+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[愿你如晨光，不惧夜色漫长]]></summary>
-    </entry>
-        <entry>
-        <title>不要被标价迷惑|如何正确花钱</title>
-        <id>169441</id>
-        <link href="https://www.thefox.work//article/3c9dc4f4-1160-809f-9ab9-cc119fcf215b?utm_source=blogfinder" />
-        <published>2026-08-27T08:00:00+08:00</published>
-        <author>
-            <name>Pious fox</name>
-            <uri>https://www.thefox.work</uri>
-        </author>
-        <summary type="text"><![CDATA[不要被标价迷惑|如何正确花钱]]></summary>
-    </entry>
-        <entry>
-        <title>第三周刊_No.65｜新城记：一年好短，一月好长</title>
-        <id>169438</id>
-        <link href="https://joeytoday.com/blog/2026/weekly-65?utm_source=blogfinder" />
-        <published>2026-08-27T08:00:00+08:00</published>
-        <author>
-            <name>joeytoday</name>
-            <uri>https://www.joeytoday.com</uri>
-        </author>
-        <summary type="text"><![CDATA[第三周刊_No.65｜新城记：一年好短，一月好长]]></summary>
-    </entry>
-        <entry>
-        <title>芝加哥的反义词</title>
-        <id>169384</id>
-        <link href="https://www.immarcus.com/blog/chickadee?utm_source=blogfinder" />
-        <published>2026-08-27T08:00:00+08:00</published>
-        <author>
-            <name>Marcus Blog</name>
-            <uri>https://immarcus.com</uri>
-        </author>
-        <summary type="text"><![CDATA[芝加哥的反义词]]></summary>
-    </entry>
-        <entry>
-        <title>关于博客写作II</title>
-        <id>169387</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-27-about-writing-blogii.html?utm_source=blogfinder" />
-        <published>2026-08-27T07:43:36+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[关于博客写作II]]></summary>
-    </entry>
-        <entry>
-        <title>暑假旅行｜中部自驾03 - 内蒙古达拉特旗</title>
-        <id>169369</id>
-        <link href="https://ficor.net/archives/57?utm_source=blogfinder" />
-        <published>2026-08-27T07:18:00+08:00</published>
-        <author>
-            <name>荒野菲克</name>
-            <uri>https://ficor.net</uri>
-        </author>
-        <summary type="text"><![CDATA[暑假旅行｜中部自驾03 - 内蒙古达拉特旗]]></summary>
-    </entry>
-        <entry>
-        <title>800×600 的夏天</title>
-        <id>169385</id>
-        <link href="https://d-d.design/single/20251?utm_source=blogfinder" />
-        <published>2026-08-27T05:07:06+08:00</published>
-        <author>
-            <name>孤斗</name>
-            <uri>https://d-d.design</uri>
-        </author>
-        <summary type="text"><![CDATA[800×600 的夏天]]></summary>
-    </entry>
-        <entry>
-        <title>新手如何上手自营交易（Prop Firm）：FundedNext 保姆级开户与配置指南</title>
-        <id>169395</id>
-        <link href="https://blog.forecho.com/fundednext-prop-firm-beginner-guide.html?utm_source=blogfinder" />
-        <published>2026-08-27T01:30:00+08:00</published>
-        <author>
-            <name>forecho&#039;s Blog</name>
-            <uri>https://blog.forecho.com</uri>
-        </author>
-        <summary type="text"><![CDATA[新手如何上手自营交易（Prop Firm）：FundedNext 保姆级开户与配置指南]]></summary>
-    </entry>
-        <entry>
-        <title>玩了 1 年半 Prop Firm，我才搞懂考试号和出金号的玩法</title>
-        <id>169396</id>
-        <link href="https://blog.forecho.com/prop-firm-evaluation-and-funded-account-strategy.html?utm_source=blogfinder" />
-        <published>2026-08-27T01:00:00+08:00</published>
-        <author>
-            <name>forecho&#039;s Blog</name>
-            <uri>https://blog.forecho.com</uri>
-        </author>
-        <summary type="text"><![CDATA[玩了 1 年半 Prop Firm，我才搞懂考试号和出金号的玩法]]></summary>
     </entry>
     </feed>
