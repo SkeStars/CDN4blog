@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-01T18:02:04+08:00</updated>
+    <updated>2026-09-01T22:00:41+08:00</updated>
+        <entry>
+        <title>Fragments 0x0001</title>
+        <id>169773</id>
+        <link href="https://lenciel.com/2026/09/fragments-0x0001/?utm_source=blogfinder" />
+        <published>2026-09-01T20:10:31+08:00</published>
+        <author>
+            <name>@Lenciel</name>
+            <uri>https://lenciel.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Fragments 0x0001]]></summary>
+    </entry>
+        <entry>
+        <title>一个不怎么快乐的庸人</title>
+        <id>169774</id>
+        <link href="https://www.pgoj.top/archives/kuai-le-ying-ren.html?utm_source=blogfinder" />
+        <published>2026-09-01T19:37:29+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[一个不怎么快乐的庸人]]></summary>
+    </entry>
+        <entry>
+        <title>给我这个小破站换个域名</title>
+        <id>169772</id>
+        <link href="https://vte.cc/natter/19/?utm_source=blogfinder" />
+        <published>2026-09-01T18:28:06+08:00</published>
+        <author>
+            <name>维特笔记</name>
+            <uri>https://vte.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[给我这个小破站换个域名]]></summary>
+    </entry>
         <entry>
         <title>DBeaver：免费开源数据库管理工具，支持MySQL、PostgreSQL、Oracle等100+数据库</title>
         <id>169748</id>
@@ -22,6 +55,17 @@
             <uri>https://www.wangdu.site</uri>
         </author>
         <summary type="text"><![CDATA[DBeaver：免费开源数据库管理工具，支持MySQL、PostgreSQL、Oracle等100+数据库]]></summary>
+    </entry>
+        <entry>
+        <title>给博客添加了一个音乐卡片</title>
+        <id>169769</id>
+        <link href="https://sigge.cn/2026/09/01/ZhLDz6Ha?utm_source=blogfinder" />
+        <published>2026-09-01T14:30:18+08:00</published>
+        <author>
+            <name>毛伊西格</name>
+            <uri>https://sigge.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[给博客添加了一个音乐卡片]]></summary>
     </entry>
         <entry>
         <title>第二次违停免罚</title>
@@ -189,6 +233,17 @@
         <summary type="text"><![CDATA[炒饭的顺序]]></summary>
     </entry>
         <entry>
+        <title>核磁共振检查有好转</title>
+        <id>169775</id>
+        <link href="https://sheep5.net/archives/89051/?utm_source=blogfinder" />
+        <published>2026-09-01T08:24:19+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[核磁共振检查有好转]]></summary>
+    </entry>
+        <entry>
         <title>有用无用</title>
         <id>169754</id>
         <link href="https://www.seis-jun.xyz/blog/2026-09-01-useful.html?utm_source=blogfinder" />
@@ -242,6 +297,17 @@
             <uri>https://qaqbuyan.com:88</uri>
         </author>
         <summary type="text"><![CDATA[epoll 水平触发与边缘触发内核源码级差异：惊群效应的本质与 EPOLLONESHOT 精准风控模型]]></summary>
+    </entry>
+        <entry>
+        <title>雪’s life</title>
+        <id>169770</id>
+        <link href="https://daily.yybb.us/gallery/mylife/?utm_source=blogfinder" />
+        <published>2026-09-01T00:00:00+08:00</published>
+        <author>
+            <name>AIOVTUE-雪</name>
+            <uri>https://day.yybb.us</uri>
+        </author>
+        <summary type="text"><![CDATA[雪’s life]]></summary>
     </entry>
         <entry>
         <title>松声｜廿六年·八月末·夜渐凉</title>
@@ -1628,115 +1694,5 @@
             <uri>https://www.lifd.site</uri>
         </author>
         <summary type="text"><![CDATA[炒糖色：冰糖 vs 白糖核心区别]]></summary>
-    </entry>
-        <entry>
-        <title>Astro博客后台升级版</title>
-        <id>169623</id>
-        <link href="https://sheep5.net/archives/96931/?utm_source=blogfinder" />
-        <published>2026-08-29T21:46:15+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[Astro博客后台升级版]]></summary>
-    </entry>
-        <entry>
-        <title>入手 CUKTECH 10Ultra 充电头</title>
-        <id>169550</id>
-        <link href="https://ezo.biz/Play_More/CUKTECH-10Ultra.html?utm_source=blogfinder" />
-        <published>2026-08-29T21:37:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[入手 CUKTECH 10Ultra 充电头]]></summary>
-    </entry>
-        <entry>
-        <title>出门一趟累趴了</title>
-        <id>169577</id>
-        <link href="https://me.xu19.com/nine-day-beijing-trip-exhausted/?utm_source=blogfinder" />
-        <published>2026-08-29T20:49:48+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[出门一趟累趴了]]></summary>
-    </entry>
-        <entry>
-        <title>观展手记｜走进 Formnext Asia 深圳展</title>
-        <id>169549</id>
-        <link href="https://wangxinyang.top/archives/guan-zhan-shou-ji-zou-jin-formnext-asia-shen-zhen-zhan?utm_source=blogfinder" />
-        <published>2026-08-29T20:49:04+08:00</published>
-        <author>
-            <name>Wangxinyang</name>
-            <uri>https://wangxinyang.top</uri>
-        </author>
-        <summary type="text"><![CDATA[观展手记｜走进 Formnext Asia 深圳展]]></summary>
-    </entry>
-        <entry>
-        <title>二爬广州白云山</title>
-        <id>169575</id>
-        <link href="https://www.jfsay.com/archives/4043.html?utm_source=blogfinder" />
-        <published>2026-08-29T20:04:27+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[二爬广州白云山]]></summary>
-    </entry>
-        <entry>
-        <title>二爬缙云山</title>
-        <id>169558</id>
-        <link href="https://ygz.ink/archives/5705.html?utm_source=blogfinder" />
-        <published>2026-08-29T19:59:54+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[二爬缙云山]]></summary>
-    </entry>
-        <entry>
-        <title>八月的光，被我压进了延时里</title>
-        <id>169556</id>
-        <link href="https://zhujay.com/blog/blog_detail.html?id=1275&amp;utm_source=blogfinder" />
-        <published>2026-08-29T19:54:47+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[八月的光，被我压进了延时里]]></summary>
-    </entry>
-        <entry>
-        <title>分享一些花的照片</title>
-        <id>169624</id>
-        <link href="https://sheep5.net/archives/89162/?utm_source=blogfinder" />
-        <published>2026-08-29T19:33:25+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[分享一些花的照片]]></summary>
-    </entry>
-        <entry>
-        <title>计算机网络如何帮我理解「人们难以相互理解」？</title>
-        <id>169554</id>
-        <link href="https://www.geedea.pro/article/layers-of-mental-models/?utm_source=blogfinder" />
-        <published>2026-08-29T18:49:58+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[计算机网络如何帮我理解「人们难以相互理解」？]]></summary>
-    </entry>
-        <entry>
-        <title>到了我这个年纪是不是都会自动变油腻？</title>
-        <id>169570</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-29-oily-or-not.html?utm_source=blogfinder" />
-        <published>2026-08-29T18:04:49+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[到了我这个年纪是不是都会自动变油腻？]]></summary>
     </entry>
     </feed>
