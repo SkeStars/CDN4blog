@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-01T22:00:41+08:00</updated>
+    <updated>2026-09-02T00:01:00+08:00</updated>
+        <entry>
+        <title>木姜子的花语</title>
+        <id>169776</id>
+        <link href="https://airy.ink/times/469?utm_source=blogfinder" />
+        <published>2026-09-01T23:00:00+08:00</published>
+        <author>
+            <name>瓦匠小站</name>
+            <uri>https://airy.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[木姜子的花语]]></summary>
+    </entry>
+        <entry>
+        <title>无需服务器让网站能进行303重定向的方法（CFCDN篇）</title>
+        <id>169784</id>
+        <link href="https://blog.xpdbk.com/p/%E6%97%A0%E9%9C%80%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%AE%A9%E7%BD%91%E7%AB%99%E8%83%BD%E8%BF%9B%E8%A1%8C303%E9%87%8D%E5%AE%9A%E5%90%91%E7%9A%84%E6%96%B9%E6%B3%95cfcdn%E7%AF%87/?utm_source=blogfinder" />
+        <published>2026-09-01T22:53:12+08:00</published>
+        <author>
+            <name>小胖的博客</name>
+            <uri>https://blog.xpdbk.com</uri>
+        </author>
+        <summary type="text"><![CDATA[无需服务器让网站能进行303重定向的方法（CFCDN篇）]]></summary>
+    </entry>
+        <entry>
+        <title>阶段性朋友</title>
+        <id>169778</id>
+        <link href="https://lcrworld.xyz/articles/68?utm_source=blogfinder" />
+        <published>2026-09-01T22:08:50+08:00</published>
+        <author>
+            <name>lcrworld&#039;s Blog</name>
+            <uri>http://lcrworld.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[阶段性朋友]]></summary>
+    </entry>
         <entry>
         <title>Fragments 0x0001</title>
         <id>169773</id>
@@ -35,6 +68,28 @@
         <summary type="text"><![CDATA[一个不怎么快乐的庸人]]></summary>
     </entry>
         <entry>
+        <title>研三学生的开学焦虑</title>
+        <id>169777</id>
+        <link href="https://hulatu.com/posts/2026/09/01/back-to-school-anxiety/?utm_source=blogfinder" />
+        <published>2026-09-01T19:20:06+08:00</published>
+        <author>
+            <name>胡拉图说</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[研三学生的开学焦虑]]></summary>
+    </entry>
+        <entry>
+        <title>TIL:Punycode - 域名中的 Unicode</title>
+        <id>169783</id>
+        <link href="https://taxodium.ink/til-punycode.html?utm_source=blogfinder" />
+        <published>2026-09-01T18:30:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[TIL:Punycode - 域名中的 Unicode]]></summary>
+    </entry>
+        <entry>
         <title>给我这个小破站换个域名</title>
         <id>169772</id>
         <link href="https://vte.cc/natter/19/?utm_source=blogfinder" />
@@ -46,6 +101,39 @@
         <summary type="text"><![CDATA[给我这个小破站换个域名]]></summary>
     </entry>
         <entry>
+        <title>最近惦念 20260820</title>
+        <id>169779</id>
+        <link href="https://z.arlmy.me/posts/TILs/thoughts/20260820_Recently/?utm_source=blogfinder" />
+        <published>2026-09-01T16:07:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[最近惦念 20260820]]></summary>
+    </entry>
+        <entry>
+        <title>入蜀记 day464 love thyself last</title>
+        <id>169780</id>
+        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_464/?utm_source=blogfinder" />
+        <published>2026-09-01T16:03:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[入蜀记 day464 love thyself last]]></summary>
+    </entry>
+        <entry>
+        <title>入蜀记 day463 BIGGER Art Fair</title>
+        <id>169781</id>
+        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_463/?utm_source=blogfinder" />
+        <published>2026-09-01T16:00:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[入蜀记 day463 BIGGER Art Fair]]></summary>
+    </entry>
+        <entry>
         <title>DBeaver：免费开源数据库管理工具，支持MySQL、PostgreSQL、Oracle等100+数据库</title>
         <id>169748</id>
         <link href="https://www.wangdu.site/software/bangongyingyong/2385.html?utm_source=blogfinder" />
@@ -55,6 +143,17 @@
             <uri>https://www.wangdu.site</uri>
         </author>
         <summary type="text"><![CDATA[DBeaver：免费开源数据库管理工具，支持MySQL、PostgreSQL、Oracle等100+数据库]]></summary>
+    </entry>
+        <entry>
+        <title>记初中英语老师</title>
+        <id>169782</id>
+        <link href="https://pwsz.com/collection/5789.html?utm_source=blogfinder" />
+        <published>2026-09-01T15:10:02+08:00</published>
+        <author>
+            <name>品味苏州</name>
+            <uri>https://pwsz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[记初中英语老师]]></summary>
     </entry>
         <entry>
         <title>给博客添加了一个音乐卡片</title>
@@ -1540,159 +1639,5 @@
             <uri>https://siwei.li</uri>
         </author>
         <summary type="text"><![CDATA[AirPods Pro 3 还是 AirPods 4 降噪版？]]></summary>
-    </entry>
-        <entry>
-        <title>Awesome MCP Servers：一份收录 3000+ 服务端的 MCP 生态全景清单</title>
-        <id>169643</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-30/awesome-mcp-servers/?utm_source=blogfinder" />
-        <published>2026-08-30T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Awesome MCP Servers：一份收录 3000+ 服务端的 MCP 生态全景清单]]></summary>
-    </entry>
-        <entry>
-        <title>昆虫记</title>
-        <id>169620</id>
-        <link href="https://vnyzm.top/html/%E6%98%86%E8%99%AB%E8%AE%B0.html?utm_source=blogfinder" />
-        <published>2026-08-30T00:00:00+08:00</published>
-        <author>
-            <name>VnYzm 的博客</name>
-            <uri>https://vnyzm.top</uri>
-        </author>
-        <summary type="text"><![CDATA[昆虫记]]></summary>
-    </entry>
-        <entry>
-        <title>Vorssaint：一个菜单栏图标，取代一打付费 macOS 效率工具</title>
-        <id>169598</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-30/vorssaint-utils/?utm_source=blogfinder" />
-        <published>2026-08-30T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Vorssaint：一个菜单栏图标，取代一打付费 macOS 效率工具]]></summary>
-    </entry>
-        <entry>
-        <title>User Scanner：465+ 扫描向量的 2-in-1 邮箱与用户名 OSINT 情报套件</title>
-        <id>169597</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-30/user-scanner/?utm_source=blogfinder" />
-        <published>2026-08-30T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[User Scanner：465+ 扫描向量的 2-in-1 邮箱与用户名 OSINT 情报套件]]></summary>
-    </entry>
-        <entry>
-        <title>Praxist：把可量化研究交给自主 AI 研究团队的实验系统</title>
-        <id>169596</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-30/praxist/?utm_source=blogfinder" />
-        <published>2026-08-30T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Praxist：把可量化研究交给自主 AI 研究团队的实验系统]]></summary>
-    </entry>
-        <entry>
-        <title>ipatool：用命令行搜索并下载 App Store 应用 IPA 包的利器</title>
-        <id>169595</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-30/ipatool/?utm_source=blogfinder" />
-        <published>2026-08-30T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[ipatool：用命令行搜索并下载 App Store 应用 IPA 包的利器]]></summary>
-    </entry>
-        <entry>
-        <title>Address：基于 PostgreSQL 的自托管真实住宅地址生成器</title>
-        <id>169594</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-30/address/?utm_source=blogfinder" />
-        <published>2026-08-30T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Address：基于 PostgreSQL 的自托管真实住宅地址生成器]]></summary>
-    </entry>
-        <entry>
-        <title>ODS：一键将你的电脑变成私有 AI 服务器</title>
-        <id>169566</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-30/ods/?utm_source=blogfinder" />
-        <published>2026-08-30T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[ODS：一键将你的电脑变成私有 AI 服务器]]></summary>
-    </entry>
-        <entry>
-        <title>htmx：用 HTML 属性为网页注入 AJAX、WebSocket 与现代交互能力</title>
-        <id>169565</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-30/htmx/?utm_source=blogfinder" />
-        <published>2026-08-30T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[htmx：用 HTML 属性为网页注入 AJAX、WebSocket 与现代交互能力]]></summary>
-    </entry>
-        <entry>
-        <title>codex-chatgpt-web：将 ChatGPT Web 变身为 Codex 原生模型的本地桥梁</title>
-        <id>169564</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-30/codex-chatgpt-web/?utm_source=blogfinder" />
-        <published>2026-08-30T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[codex-chatgpt-web：将 ChatGPT Web 变身为 Codex 原生模型的本地桥梁]]></summary>
-    </entry>
-        <entry>
-        <title>一些切片的终止</title>
-        <id>169555</id>
-        <link href="https://blog.solazy.me/20260829/?utm_source=blogfinder" />
-        <published>2026-08-29T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[一些切片的终止]]></summary>
-    </entry>
-        <entry>
-        <title>帮我传给那边那个谁</title>
-        <id>169553</id>
-        <link href="https://d-d.design/single/20261?utm_source=blogfinder" />
-        <published>2026-08-29T22:53:32+08:00</published>
-        <author>
-            <name>孤斗</name>
-            <uri>https://d-d.design</uri>
-        </author>
-        <summary type="text"><![CDATA[帮我传给那边那个谁]]></summary>
-    </entry>
-        <entry>
-        <title>关于 AI 的一些随想</title>
-        <id>169580</id>
-        <link href="https://scottyeung.top/2026/thoughts-about-ai/?utm_source=blogfinder" />
-        <published>2026-08-29T22:15:22+08:00</published>
-        <author>
-            <name>YeungYeah 的乱写地</name>
-            <uri>https://scottyeung.top</uri>
-        </author>
-        <summary type="text"><![CDATA[关于 AI 的一些随想]]></summary>
-    </entry>
-        <entry>
-        <title>炒糖色：冰糖 vs 白糖核心区别</title>
-        <id>169552</id>
-        <link href="https://www.lifd.site/2026/08/chao-tang-shai-bing-tang-vs-bai-tang-he-xin-qu-bie/?utm_source=blogfinder" />
-        <published>2026-08-29T22:13:39+08:00</published>
-        <author>
-            <name>LiFD</name>
-            <uri>https://www.lifd.site</uri>
-        </author>
-        <summary type="text"><![CDATA[炒糖色：冰糖 vs 白糖核心区别]]></summary>
     </entry>
     </feed>
