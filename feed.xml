@@ -11,7 +11,95 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-02T22:00:59+08:00</updated>
+    <updated>2026-09-03T00:01:41+08:00</updated>
+        <entry>
+        <title>敬我这半份乡愁</title>
+        <id>169892</id>
+        <link href="https://cuixiping.com/blog/post/epczlx?utm_source=blogfinder" />
+        <published>2026-09-02T23:59:59+08:00</published>
+        <author>
+            <name>崔话记</name>
+            <uri>https://cuixiping.com</uri>
+        </author>
+        <summary type="text"><![CDATA[敬我这半份乡愁]]></summary>
+    </entry>
+        <entry>
+        <title>聊聊 Java 的类加载机制一</title>
+        <id>169887</id>
+        <link href="https://nicksxs.me/2026/09/02/%E8%81%8A%E8%81%8A-Java-%E7%9A%84%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6/?utm_source=blogfinder" />
+        <published>2026-09-02T23:03:12+08:00</published>
+        <author>
+            <name>Nicksxs&#039;s Blog</name>
+            <uri>https://nicksxs.me</uri>
+        </author>
+        <summary type="text"><![CDATA[聊聊 Java 的类加载机制一]]></summary>
+    </entry>
+        <entry>
+        <title>ext4 文件系统延迟分配与断尾问题：一次 fsck 无法修复的故障排查 实战+文件系统原理</title>
+        <id>169889</id>
+        <link href="https://qaqbuyan.com:88/乔安文章/147.html?utm_source=blogfinder" />
+        <published>2026-09-02T22:52:32+08:00</published>
+        <author>
+            <name>卟言的个人博客</name>
+            <uri>https://qaqbuyan.com:88</uri>
+        </author>
+        <summary type="text"><![CDATA[ext4 文件系统延迟分配与断尾问题：一次 fsck 无法修复的故障排查 实战+文件系统原理]]></summary>
+    </entry>
+        <entry>
+        <title>Generated work should not be published.</title>
+        <id>169890</id>
+        <link href="https://www.geedea.pro/en/article/on-llm-work/?utm_source=blogfinder" />
+        <published>2026-09-02T22:18:20+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[Generated work should not be published.]]></summary>
+    </entry>
+        <entry>
+        <title>生活是“尝”出来的</title>
+        <id>169888</id>
+        <link href="http://99887766554433221100.cn/archives/199/?utm_source=blogfinder" />
+        <published>2026-09-02T22:12:17+08:00</published>
+        <author>
+            <name>南香香</name>
+            <uri>http://99887766554433221100.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[生活是“尝”出来的]]></summary>
+    </entry>
+        <entry>
+        <title>高一的适应、选科与习惯养成</title>
+        <id>169883</id>
+        <link href="https://www.wanghao.me/gaoyishiyingxuankeyuxiguanyangcheng.html?utm_source=blogfinder" />
+        <published>2026-09-02T21:59:33+08:00</published>
+        <author>
+            <name>小王子</name>
+            <uri>https://www.wanghao.me</uri>
+        </author>
+        <summary type="text"><![CDATA[高一的适应、选科与习惯养成]]></summary>
+    </entry>
+        <entry>
+        <title>和校园网斗智斗勇的日子（第九辑）</title>
+        <id>169893</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1570/?utm_source=blogfinder" />
+        <published>2026-09-02T21:53:46+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[和校园网斗智斗勇的日子（第九辑）]]></summary>
+    </entry>
+        <entry>
+        <title>我为什么写博客？</title>
+        <id>169886</id>
+        <link href="https://blog.52hyjs.com/post-1288.html?utm_source=blogfinder" />
+        <published>2026-09-02T21:52:37+08:00</published>
+        <author>
+            <name>幻影博客</name>
+            <uri>https://blog.52hyjs.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我为什么写博客？]]></summary>
+    </entry>
         <entry>
         <title>s3fs: BUCKET /path/name -- bucket name contains an illegal character</title>
         <id>169879</id>
@@ -35,6 +123,17 @@
         <summary type="text"><![CDATA[才发现原来我的手机早就支持微信语音和视频电话录音功能了]]></summary>
     </entry>
         <entry>
+        <title>注入瞬时记忆</title>
+        <id>169885</id>
+        <link href="https://d-d.design/single/20275?utm_source=blogfinder" />
+        <published>2026-09-02T20:26:55+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[注入瞬时记忆]]></summary>
+    </entry>
+        <entry>
         <title>{fmt}：现代 C++ 格式化库的性能与优雅</title>
         <id>169873</id>
         <link href="http://blog.xlap.top/post/tech/2026-09-02/fmt/?utm_source=blogfinder" />
@@ -44,6 +143,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[{fmt}：现代 C++ 格式化库的性能与优雅]]></summary>
+    </entry>
+        <entry>
+        <title>谁在替你的生疏买单</title>
+        <id>169891</id>
+        <link href="https://blog.solazy.me/20260902/?utm_source=blogfinder" />
+        <published>2026-09-02T19:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[谁在替你的生疏买单]]></summary>
     </entry>
         <entry>
         <title>景区教师节的骚操作只会适得其反</title>
@@ -387,6 +497,17 @@
         <summary type="text"><![CDATA[学术视野先于资料囤积：关于学术品味的思考。]]></summary>
     </entry>
         <entry>
+        <title>社会分工带来生产效率的提升</title>
+        <id>169884</id>
+        <link href="https://yesreho.com/the-division-of-labor-leads-to-increased-production-efficiency/?utm_source=blogfinder" />
+        <published>2026-09-01T23:50:02+08:00</published>
+        <author>
+            <name>LookLeap</name>
+            <uri>https://yesreho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[社会分工带来生产效率的提升]]></summary>
+    </entry>
+        <entry>
         <title>时代在召唤</title>
         <id>169846</id>
         <link href="https://hux.ink/posts/grade-1/?utm_source=blogfinder" />
@@ -407,6 +528,17 @@
             <uri>https://airy.ink</uri>
         </author>
         <summary type="text"><![CDATA[木姜子的花语]]></summary>
+    </entry>
+        <entry>
+        <title>无需服务器让网站能进行301重定向的方法（CFCDN篇）</title>
+        <id>169894</id>
+        <link href="https://blog.xpdbk.com/p/%E6%97%A0%E9%9C%80%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%AE%A9%E7%BD%91%E7%AB%99%E8%83%BD%E8%BF%9B%E8%A1%8C301%E9%87%8D%E5%AE%9A%E5%90%91%E7%9A%84%E6%96%B9%E6%B3%95cfcdn%E7%AF%87/?utm_source=blogfinder" />
+        <published>2026-09-01T22:53:12+08:00</published>
+        <author>
+            <name>小胖的博客</name>
+            <uri>https://blog.xpdbk.com</uri>
+        </author>
+        <summary type="text"><![CDATA[无需服务器让网站能进行301重定向的方法（CFCDN篇）]]></summary>
     </entry>
         <entry>
         <title>无需服务器让网站能进行303重定向的方法（CFCDN篇）</title>
@@ -1672,214 +1804,5 @@
             <uri>https://i55.top</uri>
         </author>
         <summary type="text"><![CDATA[可恶的资本家]]></summary>
-    </entry>
-        <entry>
-        <title>Zod 深度解析：TypeScript 优先的类型安全校验库</title>
-        <id>169676</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-31/zod/?utm_source=blogfinder" />
-        <published>2026-08-31T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Zod 深度解析：TypeScript 优先的类型安全校验库]]></summary>
-    </entry>
-        <entry>
-        <title>StemDeck: 完全本地化的音频人声伴奏分离工具</title>
-        <id>169675</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-31/stemdeck/?utm_source=blogfinder" />
-        <published>2026-08-31T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[StemDeck: 完全本地化的音频人声伴奏分离工具]]></summary>
-    </entry>
-        <entry>
-        <title>专利点挖掘与交底书编写利器：patent-disclosure-skill</title>
-        <id>169642</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-31/patent-disclosure-skill/?utm_source=blogfinder" />
-        <published>2026-08-31T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[专利点挖掘与交底书编写利器：patent-disclosure-skill]]></summary>
-    </entry>
-        <entry>
-        <title>Sprix SAGE Router：面向开放 A2A 网络的检查点感知式中途重路由</title>
-        <id>169641</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-31/sprix-sage-router/?utm_source=blogfinder" />
-        <published>2026-08-31T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Sprix SAGE Router：面向开放 A2A 网络的检查点感知式中途重路由]]></summary>
-    </entry>
-        <entry>
-        <title>Microduck RL：800g 双足机器人的 Sim2Real 强化学习训练框架</title>
-        <id>169640</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-31/microduck-rl/?utm_source=blogfinder" />
-        <published>2026-08-31T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Microduck RL：800g 双足机器人的 Sim2Real 强化学习训练框架]]></summary>
-    </entry>
-        <entry>
-        <title>Mailflare：基于 Cloudflare 的自托管 AI 邮件收件箱</title>
-        <id>169639</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-31/mailflare/?utm_source=blogfinder" />
-        <published>2026-08-31T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Mailflare：基于 Cloudflare 的自托管 AI 邮件收件箱]]></summary>
-    </entry>
-        <entry>
-        <title>Checkstyle：守护 Java 代码规范的自动化审查利器</title>
-        <id>169638</id>
-        <link href="http://blog.xlap.top/post/tech/2026-08-31/checkstyle/?utm_source=blogfinder" />
-        <published>2026-08-31T00:00:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Checkstyle：守护 Java 代码规范的自动化审查利器]]></summary>
-    </entry>
-        <entry>
-        <title>《人生果实》观后感</title>
-        <id>169632</id>
-        <link href="https://min168.top/com/video/%E3%80%8A%E4%BA%BA%E7%94%9F%E6%9E%9C%E5%AE%9E%E3%80%8B%E8%A7%82%E5%90%8E%E6%84%9F.html?utm_source=blogfinder" />
-        <published>2026-08-30T23:44:42+08:00</published>
-        <author>
-            <name>卷卷</name>
-            <uri>https://min168.top</uri>
-        </author>
-        <summary type="text"><![CDATA[《人生果实》观后感]]></summary>
-    </entry>
-        <entry>
-        <title>我的影库</title>
-        <id>169631</id>
-        <link href="https://min168.top/com/video/?utm_source=blogfinder" />
-        <published>2026-08-30T23:44:42+08:00</published>
-        <author>
-            <name>卷卷</name>
-            <uri>https://min168.top</uri>
-        </author>
-        <summary type="text"><![CDATA[我的影库]]></summary>
-    </entry>
-        <entry>
-        <title>《被讨厌的勇气》读书笔记</title>
-        <id>169630</id>
-        <link href="https://min168.top/com/read/%E3%80%8A%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.html?utm_source=blogfinder" />
-        <published>2026-08-30T23:44:42+08:00</published>
-        <author>
-            <name>卷卷</name>
-            <uri>https://min168.top</uri>
-        </author>
-        <summary type="text"><![CDATA[《被讨厌的勇气》读书笔记]]></summary>
-    </entry>
-        <entry>
-        <title>给我发邮件吧，放轻松</title>
-        <id>169608</id>
-        <link href="https://www.geedea.pro/article/email-me/?utm_source=blogfinder" />
-        <published>2026-08-30T23:44:00+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[给我发邮件吧，放轻松]]></summary>
-    </entry>
-        <entry>
-        <title>Toots 434 2026 Aug.23 - Aug.29</title>
-        <id>169657</id>
-        <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260829/?utm_source=blogfinder" />
-        <published>2026-08-30T23:36:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[Toots 434 2026 Aug.23 - Aug.29]]></summary>
-    </entry>
-        <entry>
-        <title>生活碎碎念：升学首日有感</title>
-        <id>169612</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1562/?utm_source=blogfinder" />
-        <published>2026-08-30T23:34:43+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[生活碎碎念：升学首日有感]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day462 猎人与ADHD</title>
-        <id>169658</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_462/?utm_source=blogfinder" />
-        <published>2026-08-30T23:30:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day462 猎人与ADHD]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day461 以人类为载体</title>
-        <id>169659</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_461/?utm_source=blogfinder" />
-        <published>2026-08-30T23:29:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day461 以人类为载体]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day460 鹤鸣早茶</title>
-        <id>169660</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_460/?utm_source=blogfinder" />
-        <published>2026-08-30T23:26:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day460 鹤鸣早茶]]></summary>
-    </entry>
-        <entry>
-        <title>心急</title>
-        <id>169654</id>
-        <link href="https://ezo.biz/Diary/1632.html?utm_source=blogfinder" />
-        <published>2026-08-30T23:13:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[心急]]></summary>
-    </entry>
-        <entry>
-        <title>博客近期将迁移至WordPress动态博客！！！</title>
-        <id>169621</id>
-        <link href="https://blog.flechazo.icu/2026/08/30/%E8%BF%81%E7%A7%BB%20/?utm_source=blogfinder" />
-        <published>2026-08-30T22:48:19+08:00</published>
-        <author>
-            <name>妄司逸</name>
-            <uri>https://blog.flechazo.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[博客近期将迁移至WordPress动态博客！！！]]></summary>
-    </entry>
-        <entry>
-        <title>给部落造一个数据中枢：我用 AI 结对开发写了个 COC 战报工具</title>
-        <id>169622</id>
-        <link href="https://blog.flechazo.icu/2026/08/30/coc%E5%8A%A9%E6%89%8B/?utm_source=blogfinder" />
-        <published>2026-08-30T22:43:57+08:00</published>
-        <author>
-            <name>妄司逸</name>
-            <uri>https://blog.flechazo.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[给部落造一个数据中枢：我用 AI 结对开发写了个 COC 战报工具]]></summary>
     </entry>
     </feed>
