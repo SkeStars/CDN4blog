@@ -11,7 +11,106 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-02T17:00:51+08:00</updated>
+    <updated>2026-09-02T22:00:59+08:00</updated>
+        <entry>
+        <title>s3fs: BUCKET /path/name -- bucket name contains an illegal character</title>
+        <id>169879</id>
+        <link href="https://www.sunzhongwei.com/s3fs-bucket-name-contains-illegal-character?utm_source=blogfinder" />
+        <published>2026-09-02T21:17:18+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[s3fs: BUCKET /path/name -- bucket name contains an illegal character]]></summary>
+    </entry>
+        <entry>
+        <title>才发现原来我的手机早就支持微信语音和视频电话录音功能了</title>
+        <id>169880</id>
+        <link href="https://www.52txr.cn/2026/wechatrecord.html?utm_source=blogfinder" />
+        <published>2026-09-02T21:01:00+08:00</published>
+        <author>
+            <name>陶小桃</name>
+            <uri>https://www.52txr.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[才发现原来我的手机早就支持微信语音和视频电话录音功能了]]></summary>
+    </entry>
+        <entry>
+        <title>{fmt}：现代 C++ 格式化库的性能与优雅</title>
+        <id>169873</id>
+        <link href="http://blog.xlap.top/post/tech/2026-09-02/fmt/?utm_source=blogfinder" />
+        <published>2026-09-02T20:04:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[{fmt}：现代 C++ 格式化库的性能与优雅]]></summary>
+    </entry>
+        <entry>
+        <title>景区教师节的骚操作只会适得其反</title>
+        <id>169882</id>
+        <link href="https://www.pgoj.top/archives/jiao-shi-jie-fu-li.html?utm_source=blogfinder" />
+        <published>2026-09-02T18:29:18+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[景区教师节的骚操作只会适得其反]]></summary>
+    </entry>
+        <entry>
+        <title>Zig 中的类型替换</title>
+        <id>169872</id>
+        <link href="https://zeeko.dev/2026/09/subtypes-in-zig/?utm_source=blogfinder" />
+        <published>2026-09-02T18:01:33+08:00</published>
+        <author>
+            <name>网上冲浪指南</name>
+            <uri>https://zeeko.dev</uri>
+        </author>
+        <summary type="text"><![CDATA[Zig 中的类型替换]]></summary>
+    </entry>
+        <entry>
+        <title>Qwen3.8-27B 测试（3）</title>
+        <id>169878</id>
+        <link href="https://556799.xyz/archives/wei-ming-ming-wen-zhang-W2ZZWrZ5?utm_source=blogfinder" />
+        <published>2026-09-02T17:31:46+08:00</published>
+        <author>
+            <name>Jacylunatic</name>
+            <uri>https://991198.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[Qwen3.8-27B 测试（3）]]></summary>
+    </entry>
+        <entry>
+        <title>腾讯云轻量服务器2核4G7M续费一年实付108元，拼团成功加赠3个月，约等于每月7.2元</title>
+        <id>169868</id>
+        <link href="https://www.bufanz.com/20260902859.html?utm_source=blogfinder" />
+        <published>2026-09-02T17:28:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[腾讯云轻量服务器2核4G7M续费一年实付108元，拼团成功加赠3个月，约等于每月7.2元]]></summary>
+    </entry>
+        <entry>
+        <title>笑笑，正式入园 ✅</title>
+        <id>169871</id>
+        <link href="https://blog.lichenghao.cn/article/sow2jre41w5o?utm_source=blogfinder" />
+        <published>2026-09-02T16:54:28+08:00</published>
+        <author>
+            <name>故事的程序猿</name>
+            <uri>https://blog.lichenghao.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[笑笑，正式入园 ✅]]></summary>
+    </entry>
+        <entry>
+        <title>相册模块优化</title>
+        <id>169867</id>
+        <link href="https://liuqingwushui.top/archives/192/?utm_source=blogfinder" />
+        <published>2026-09-02T15:02:08+08:00</published>
+        <author>
+            <name>流情的博客</name>
+            <uri>https://liuqingwushui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[相册模块优化]]></summary>
+    </entry>
         <entry>
         <title>世界上素来没有言论自由</title>
         <id>169853</id>
@@ -22,6 +121,17 @@
             <uri>https://www.jackytong.com</uri>
         </author>
         <summary type="text"><![CDATA[世界上素来没有言论自由]]></summary>
+    </entry>
+        <entry>
+        <title>Fastpotify：用 Rust 写的轻量 Spotify 客户端，内存占用仅官方四分之一</title>
+        <id>169874</id>
+        <link href="http://blog.xlap.top/post/tech/2026-09-02/fastpotify/?utm_source=blogfinder" />
+        <published>2026-09-02T14:04:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Fastpotify：用 Rust 写的轻量 Spotify 客户端，内存占用仅官方四分之一]]></summary>
     </entry>
         <entry>
         <title>2026-09-02 13:25</title>
@@ -35,6 +145,39 @@
         <summary type="text"><![CDATA[2026-09-02 13:25]]></summary>
     </entry>
         <entry>
+        <title>ReClip：基于 yt-dlp 的自托管视频/音频下载器，自带极简 Web UI</title>
+        <id>169875</id>
+        <link href="http://blog.xlap.top/post/tech/2026-09-02/reclip/?utm_source=blogfinder" />
+        <published>2026-09-02T13:04:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[ReClip：基于 yt-dlp 的自托管视频/音频下载器，自带极简 Web UI]]></summary>
+    </entry>
+        <entry>
+        <title>[Agent 考古] 25,000 次任务实测：多 Agent 协作协议质量排序与治理悖论</title>
+        <id>169869</id>
+        <link href="https://www.paddysun.top/archives/5167?utm_source=blogfinder" />
+        <published>2026-09-02T13:00:00+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[[Agent 考古] 25,000 次任务实测：多 Agent 协作协议质量排序与治理悖论]]></summary>
+    </entry>
+        <entry>
+        <title>MiniMind：3块钱2小时，从零训练你自己的大语言模型</title>
+        <id>169876</id>
+        <link href="http://blog.xlap.top/post/tech/2026-09-02/minimind/?utm_source=blogfinder" />
+        <published>2026-09-02T12:04:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[MiniMind：3块钱2小时，从零训练你自己的大语言模型]]></summary>
+    </entry>
+        <entry>
         <title>【读书记】吉尔伯特《丘吉尔传》1：年少缺爱</title>
         <id>169863</id>
         <link href="http://www.qncd.com/?p=13060&amp;utm_source=blogfinder" />
@@ -44,6 +187,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记】吉尔伯特《丘吉尔传》1：年少缺爱]]></summary>
+    </entry>
+        <entry>
+        <title>Academic Research Skills：把 Claude Code 变成覆盖学术研究全流程的 AI 副驾驶</title>
+        <id>169877</id>
+        <link href="http://blog.xlap.top/post/tech/2026-09-02/academic-research-skills/?utm_source=blogfinder" />
+        <published>2026-09-02T11:04:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Academic Research Skills：把 Claude Code 变成覆盖学术研究全流程的 AI 副驾驶]]></summary>
     </entry>
         <entry>
         <title>迟钝</title>
@@ -121,6 +275,17 @@
             <uri>https://sheep5.net</uri>
         </author>
         <summary type="text"><![CDATA[最近即将收到的快递]]></summary>
+    </entry>
+        <entry>
+        <title>[Agent 考古] TouringMachines 与 INTERRaP：混合架构如何调和 Agent 的反应与慎思</title>
+        <id>169870</id>
+        <link href="https://www.paddysun.top/archives/5153?utm_source=blogfinder" />
+        <published>2026-09-02T09:00:00+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[[Agent 考古] TouringMachines 与 INTERRaP：混合架构如何调和 Agent 的反应与慎思]]></summary>
     </entry>
         <entry>
         <title>行业黑话对照表（长期更新）</title>
@@ -209,6 +374,17 @@
             <uri>https://www.paddysun.top</uri>
         </author>
         <summary type="text"><![CDATA[[Agent 考古] 多 Agent 冲突仲裁三方案：均衡约定、PERSUADER 劝说与行为抽象]]></summary>
+    </entry>
+        <entry>
+        <title>学术视野先于资料囤积：关于学术品味的思考。</title>
+        <id>169881</id>
+        <link href="https://www.infinite.moe/posts/1-a509bac4?utm_source=blogfinder" />
+        <published>2026-09-02T00:06:09+08:00</published>
+        <author>
+            <name>jona 漫游宇宙</name>
+            <uri>https://www.infinite.moe</uri>
+        </author>
+        <summary type="text"><![CDATA[学术视野先于资料囤积：关于学术品味的思考。]]></summary>
     </entry>
         <entry>
         <title>时代在召唤</title>
@@ -1705,203 +1881,5 @@
             <uri>https://blog.flechazo.icu</uri>
         </author>
         <summary type="text"><![CDATA[给部落造一个数据中枢：我用 AI 结对开发写了个 COC 战报工具]]></summary>
-    </entry>
-        <entry>
-        <title>周末闲来一二事</title>
-        <id>169607</id>
-        <link href="https://pwsz.com/life/5740.html?utm_source=blogfinder" />
-        <published>2026-08-30T21:44:16+08:00</published>
-        <author>
-            <name>品味苏州</name>
-            <uri>https://pwsz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[周末闲来一二事]]></summary>
-    </entry>
-        <entry>
-        <title>人生的紧要处，常常只有几步</title>
-        <id>169603</id>
-        <link href="https://wangyurui.com/posts/chao-xiao-gao-jia-lin-li-jie-gao-jia-lin-cheng-w-7dae4e6f?utm_source=blogfinder" />
-        <published>2026-08-30T21:31:50+08:00</published>
-        <author>
-            <name>太隐</name>
-            <uri>https://wangyurui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[人生的紧要处，常常只有几步]]></summary>
-    </entry>
-        <entry>
-        <title>堵住 PHP 系统漏洞的最佳方案，就是用 Golang 重写系统</title>
-        <id>169599</id>
-        <link href="https://www.sunzhongwei.com/best-solution-plug-php-system-vulnerabilities-is-rewrite-system-golang?utm_source=blogfinder" />
-        <published>2026-08-30T21:27:16+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[堵住 PHP 系统漏洞的最佳方案，就是用 Golang 重写系统]]></summary>
-    </entry>
-        <entry>
-        <title>开学</title>
-        <id>169653</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-08-30-back-to-school.html?utm_source=blogfinder" />
-        <published>2026-08-30T21:19:47+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[开学]]></summary>
-    </entry>
-        <entry>
-        <title>峰林壮阔，烟火寻常</title>
-        <id>169637</id>
-        <link href="https://www.chenrui.com/post/3506.html?utm_source=blogfinder" />
-        <published>2026-08-30T21:08:05+08:00</published>
-        <author>
-            <name>不可</name>
-            <uri>https://www.chenrui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[峰林壮阔，烟火寻常]]></summary>
-    </entry>
-        <entry>
-        <title>徒然歌</title>
-        <id>169615</id>
-        <link href="https://lenciel.com/2026/08/useless-songs/?utm_source=blogfinder" />
-        <published>2026-08-30T21:03:27+08:00</published>
-        <author>
-            <name>@Lenciel</name>
-            <uri>https://lenciel.com</uri>
-        </author>
-        <summary type="text"><![CDATA[徒然歌]]></summary>
-    </entry>
-        <entry>
-        <title>打开即沦陷：keyv 蠕虫与 AI 编码助手时代的供应链暗战</title>
-        <id>169610</id>
-        <link href="https://www.paddysun.top/archives/5188?utm_source=blogfinder" />
-        <published>2026-08-30T20:45:45+08:00</published>
-        <author>
-            <name>Under the Sun with Paddy</name>
-            <uri>https://www.paddysun.top</uri>
-        </author>
-        <summary type="text"><![CDATA[打开即沦陷：keyv 蠕虫与 AI 编码助手时代的供应链暗战]]></summary>
-    </entry>
-        <entry>
-        <title>[Agent 考古] 意图即承诺，智能体即社会——自主性的第一个可计算答案 (阶段三导航)</title>
-        <id>169611</id>
-        <link href="https://www.paddysun.top/archives/5114?utm_source=blogfinder" />
-        <published>2026-08-30T20:40:43+08:00</published>
-        <author>
-            <name>Under the Sun with Paddy</name>
-            <uri>https://www.paddysun.top</uri>
-        </author>
-        <summary type="text"><![CDATA[[Agent 考古] 意图即承诺，智能体即社会——自主性的第一个可计算答案 (阶段三导航)]]></summary>
-    </entry>
-        <entry>
-        <title>小七孔，七孔小</title>
-        <id>169593</id>
-        <link href="https://www.chenrui.com/post/3505.html?utm_source=blogfinder" />
-        <published>2026-08-30T20:12:14+08:00</published>
-        <author>
-            <name>不可</name>
-            <uri>https://www.chenrui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[小七孔，七孔小]]></summary>
-    </entry>
-        <entry>
-        <title>我的博客选择是我的最优解</title>
-        <id>169602</id>
-        <link href="https://www.pgoj.top/archives/bo-ke-zui-you-jie.html?utm_source=blogfinder" />
-        <published>2026-08-30T20:05:12+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[我的博客选择是我的最优解]]></summary>
-    </entry>
-        <entry>
-        <title>《估值原理》读书笔记：价格背后的游戏、责任与社会秩序</title>
-        <id>169667</id>
-        <link href="https://blog.devtang.com/2026/08/30/valuation-principles-note/?utm_source=blogfinder" />
-        <published>2026-08-30T19:54:00+08:00</published>
-        <author>
-            <name>唐巧的博客</name>
-            <uri>https://blog.devtang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[《估值原理》读书笔记：价格背后的游戏、责任与社会秩序]]></summary>
-    </entry>
-        <entry>
-        <title>科技史的显学与“不显”</title>
-        <id>169601</id>
-        <link href="https://www.infinite.moe/posts/1-17e70467?utm_source=blogfinder" />
-        <published>2026-08-30T19:22:03+08:00</published>
-        <author>
-            <name>jona 漫游宇宙</name>
-            <uri>https://www.infinite.moe</uri>
-        </author>
-        <summary type="text"><![CDATA[科技史的显学与“不显”]]></summary>
-    </entry>
-        <entry>
-        <title>Zine#57 - IndieWeb Is Punk、用你的錢包去投票、為終端瀏覧器优化網站</title>
-        <id>169604</id>
-        <link href="https://taxodium.ink/57.html?utm_source=blogfinder" />
-        <published>2026-08-30T19:00:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[Zine#57 - IndieWeb Is Punk、用你的錢包去投票、為終端瀏覧器优化網站]]></summary>
-    </entry>
-        <entry>
-        <title>烦恼的根源是自己还不够强大</title>
-        <id>169592</id>
-        <link href="https://yishu-life.com/index.php/archives/553.html?utm_source=blogfinder" />
-        <published>2026-08-30T18:40:35+08:00</published>
-        <author>
-            <name>树下语</name>
-            <uri>https://yishu-life.com</uri>
-        </author>
-        <summary type="text"><![CDATA[烦恼的根源是自己还不够强大]]></summary>
-    </entry>
-        <entry>
-        <title>网上修理笔记本电脑</title>
-        <id>169648</id>
-        <link href="https://www.gujishe.com/archives/79.html?utm_source=blogfinder" />
-        <published>2026-08-30T18:29:48+08:00</published>
-        <author>
-            <name>咕唧舍</name>
-            <uri>https://www.gujishe.com</uri>
-        </author>
-        <summary type="text"><![CDATA[网上修理笔记本电脑]]></summary>
-    </entry>
-        <entry>
-        <title>开学前一天以学长身份当迎新志愿者</title>
-        <id>169613</id>
-        <link href="https://blog.224418.xyz/posts/5e681bed/?utm_source=blogfinder" />
-        <published>2026-08-30T17:36:00+08:00</published>
-        <author>
-            <name>傥师妹的小空间</name>
-            <uri>https://blog.224418.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[开学前一天以学长身份当迎新志愿者]]></summary>
-    </entry>
-        <entry>
-        <title>因为闲得受不了而写了一个 App</title>
-        <id>169614</id>
-        <link href="https://blog.imalan.cn/archives/whatnext-app/?utm_source=blogfinder" />
-        <published>2026-08-30T17:04:17+08:00</published>
-        <author>
-            <name>失眠海峡</name>
-            <uri>https://blog.imalan.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[因为闲得受不了而写了一个 App]]></summary>
-    </entry>
-        <entry>
-        <title>图形开发AI工作流</title>
-        <id>169671</id>
-        <link href="https://feiqi3.cn/post/37?utm_source=blogfinder" />
-        <published>2026-08-30T17:02:29+08:00</published>
-        <author>
-            <name>飞起的小窝</name>
-            <uri>https://feiqi3.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[图形开发AI工作流]]></summary>
     </entry>
     </feed>
