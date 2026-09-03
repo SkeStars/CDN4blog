@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-03T22:00:19+08:00</updated>
+    <updated>2026-09-04T00:01:11+08:00</updated>
+        <entry>
+        <title>267 网页管理系统荒废了两个多月，今晚开启整理工作</title>
+        <id>169974</id>
+        <link href="http://ddw2019.com/267?utm_source=blogfinder" />
+        <published>2026-09-03T23:10:12+08:00</published>
+        <author>
+            <name>Dongdong&#039;s Blog</name>
+            <uri>https://ddw2019.com</uri>
+        </author>
+        <summary type="text"><![CDATA[267 网页管理系统荒废了两个多月，今晚开启整理工作]]></summary>
+    </entry>
         <entry>
         <title>傻孩子我怕你啊，禁止被资本主义异化</title>
         <id>169968</id>
@@ -22,6 +33,28 @@
             <uri>https://www.paddysun.top</uri>
         </author>
         <summary type="text"><![CDATA[傻孩子我怕你啊，禁止被资本主义异化]]></summary>
+    </entry>
+        <entry>
+        <title>一个项目让我找回了从前的记忆，方知已不再年轻</title>
+        <id>169972</id>
+        <link href="https://blog.xrbk.cn/post/107.html?utm_source=blogfinder" />
+        <published>2026-09-03T20:58:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://blog.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[一个项目让我找回了从前的记忆，方知已不再年轻]]></summary>
+    </entry>
+        <entry>
+        <title>腾讯云轻量主机继续续费</title>
+        <id>169971</id>
+        <link href="https://qfsyj.com/20260903-qingliang.html?utm_source=blogfinder" />
+        <published>2026-09-03T20:46:51+08:00</published>
+        <author>
+            <name>不曾长大</name>
+            <uri>https://qfsyj.com</uri>
+        </author>
+        <summary type="text"><![CDATA[腾讯云轻量主机继续续费]]></summary>
     </entry>
         <entry>
         <title>[Agent 考古] Ciatto 2025 解读：LLM 住进 BDI 解释器，计划生成与 believes achieved 退化</title>
@@ -44,6 +77,17 @@
             <uri>https://kangaroogao.com</uri>
         </author>
         <summary type="text"><![CDATA[读书笔记（博一）]]></summary>
+    </entry>
+        <entry>
+        <title>Writing following the F-pattern is a horrible horrible idea</title>
+        <id>169975</id>
+        <link href="https://www.geedea.pro/en/article/f-with-f-pattern/?utm_source=blogfinder" />
+        <published>2026-09-03T20:00:32+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[Writing following the F-pattern is a horrible horrible idea]]></summary>
     </entry>
         <entry>
         <title>2026年8月微信读书阅读记录与笔记</title>
@@ -77,6 +121,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[prompts.chat：从 Awesome ChatGPT Prompts 到全球最大开源提示词全栈平台]]></summary>
+    </entry>
+        <entry>
+        <title>智启未来 创领非凡 | 大学生人工智能协会招新啦！</title>
+        <id>169973</id>
+        <link href="https://blog.liuhangyv.top/archives/zhaoxin?utm_source=blogfinder" />
+        <published>2026-09-03T18:04:25+08:00</published>
+        <author>
+            <name>Serendipity</name>
+            <uri>https://blog.liuhangyv.top</uri>
+        </author>
+        <summary type="text"><![CDATA[智启未来 创领非凡 | 大学生人工智能协会招新啦！]]></summary>
     </entry>
         <entry>
         <title>偷师：AI图片提示词反推插件，一键拆解主体、构图、光影和风格</title>
@@ -363,6 +418,17 @@
             <uri>https://lifelonglearn.ing</uri>
         </author>
         <summary type="text"><![CDATA[工作十年]]></summary>
+    </entry>
+        <entry>
+        <title>NAS部署Hugo博客方案</title>
+        <id>169976</id>
+        <link href="https://1.122915.xyz/posts/%E9%83%A8%E7%BD%B2hugo%E5%8D%9A%E5%AE%A2%E6%96%B9%E6%A1%88/?utm_source=blogfinder" />
+        <published>2026-09-03T00:07:31+08:00</published>
+        <author>
+            <name>风言风语</name>
+            <uri>https://1.122915.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[NAS部署Hugo博客方案]]></summary>
     </entry>
         <entry>
         <title>SIE：一站式自托管推理引擎，让 AI Agent 模型调用不再碎片化</title>
@@ -1837,71 +1903,5 @@
             <uri>https://qaqbuyan.com:88</uri>
         </author>
         <summary type="text"><![CDATA[epoll 水平触发与边缘触发内核源码级差异：惊群效应的本质与 EPOLLONESHOT 精准风控模型]]></summary>
-    </entry>
-        <entry>
-        <title>WSL2 下搭建 ESP32-C3 Zephyr 开发环境</title>
-        <id>169845</id>
-        <link href="https://hacperme.com/posts/notes/2026/wsl2-esp32c3-zephyr/?utm_source=blogfinder" />
-        <published>2026-09-01T00:00:00+08:00</published>
-        <author>
-            <name>Hacper&#039;s Blog</name>
-            <uri>http://hacperme.com</uri>
-        </author>
-        <summary type="text"><![CDATA[WSL2 下搭建 ESP32-C3 Zephyr 开发环境]]></summary>
-    </entry>
-        <entry>
-        <title>近思录 2026-09-01</title>
-        <id>169785</id>
-        <link href="https://chriszheng.science/2026/09/01/Recent-thoughts-2026-09-01/?utm_source=blogfinder" />
-        <published>2026-09-01T00:00:00+08:00</published>
-        <author>
-            <name>M-x Chris-An-Emacser</name>
-            <uri>https://chriszheng.science</uri>
-        </author>
-        <summary type="text"><![CDATA[近思录 2026-09-01]]></summary>
-    </entry>
-        <entry>
-        <title>雪’s life</title>
-        <id>169770</id>
-        <link href="https://daily.yybb.us/gallery/mylife/?utm_source=blogfinder" />
-        <published>2026-09-01T00:00:00+08:00</published>
-        <author>
-            <name>AIOVTUE-雪</name>
-            <uri>https://day.yybb.us</uri>
-        </author>
-        <summary type="text"><![CDATA[雪’s life]]></summary>
-    </entry>
-        <entry>
-        <title>松声｜廿六年·八月末·夜渐凉</title>
-        <id>169691</id>
-        <link href="https://xyzbz.cn/archives/1567/?utm_source=blogfinder" />
-        <published>2026-08-31T23:11:39+08:00</published>
-        <author>
-            <name>网友小宋</name>
-            <uri>https://xyzbz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[松声｜廿六年·八月末·夜渐凉]]></summary>
-    </entry>
-        <entry>
-        <title>月志202608</title>
-        <id>169685</id>
-        <link href="https://ezo.biz/Diary/202608.html?utm_source=blogfinder" />
-        <published>2026-08-31T22:23:13+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[月志202608]]></summary>
-    </entry>
-        <entry>
-        <title>角落里的学生</title>
-        <id>169693</id>
-        <link href="https://hulatu.com/posts/2026/08/31/the-student-in-the-corner/?utm_source=blogfinder" />
-        <published>2026-08-31T22:10:53+08:00</published>
-        <author>
-            <name>胡拉图说</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[角落里的学生]]></summary>
     </entry>
     </feed>
