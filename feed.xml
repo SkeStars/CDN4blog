@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-05T17:01:20+08:00</updated>
+    <updated>2026-09-05T20:00:21+08:00</updated>
         <entry>
         <title>我原本根本不会</title>
         <id>170548</id>
@@ -35,6 +35,17 @@
         <summary type="text"><![CDATA[利用AI智能体+Cloudflare给任意网页制作即时RSS]]></summary>
     </entry>
         <entry>
+        <title>两部日记，一部真书一部伪作</title>
+        <id>170552</id>
+        <link href="https://www.pgoj.top/archives/qing-hua-yuan-riji.html?utm_source=blogfinder" />
+        <published>2026-09-05T13:32:42+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[两部日记，一部真书一部伪作]]></summary>
+    </entry>
+        <entry>
         <title>我的宝宝会喊爸爸了！</title>
         <id>170542</id>
         <link href="https://www.aiwazi.com/3372.html?utm_source=blogfinder" />
@@ -44,6 +55,17 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[我的宝宝会喊爸爸了！]]></summary>
+    </entry>
+        <entry>
+        <title>别急着赶工：先看懂这场数字媒体竞赛的&quot;隐藏规则&quot;</title>
+        <id>170554</id>
+        <link href="https://blog.liuhangyv.top/archives/2026cmit?utm_source=blogfinder" />
+        <published>2026-09-05T12:23:23+08:00</published>
+        <author>
+            <name>Serendipity</name>
+            <uri>https://blog.liuhangyv.top</uri>
+        </author>
+        <summary type="text"><![CDATA[别急着赶工：先看懂这场数字媒体竞赛的&quot;隐藏规则&quot;]]></summary>
     </entry>
         <entry>
         <title>又到开学季，学校又出现各种奇葩收费</title>
@@ -176,6 +198,28 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[RenoDX 深度解析：基于 Reshade 插件系统的 DirectX 游戏翻新引擎]]></summary>
+    </entry>
+        <entry>
+        <title>或许我们每个人都有问题</title>
+        <id>170555</id>
+        <link href="https://imqi1.com/content/note/1021?utm_source=blogfinder" />
+        <published>2026-09-05T00:17:00+08:00</published>
+        <author>
+            <name>ImQi1</name>
+            <uri>https://imqi1.com</uri>
+        </author>
+        <summary type="text"><![CDATA[或许我们每个人都有问题]]></summary>
+    </entry>
+        <entry>
+        <title>我的「库克时代」</title>
+        <id>170551</id>
+        <link href="https://blog.imalan.cn/archives/my-tim-cook-era/?utm_source=blogfinder" />
+        <published>2026-09-05T00:11:25+08:00</published>
+        <author>
+            <name>失眠海峡</name>
+            <uri>https://blog.imalan.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[我的「库克时代」]]></summary>
     </entry>
         <entry>
         <title>OpenCode：开源 AI 编程助手，一个命令搞定全栈开发</title>
@@ -1683,82 +1727,5 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[{fmt}：现代 C++ 格式化库的性能与优雅]]></summary>
-    </entry>
-        <entry>
-        <title>灯管</title>
-        <id>169935</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-09-02-bulb.html?utm_source=blogfinder" />
-        <published>2026-09-02T19:38:24+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[灯管]]></summary>
-    </entry>
-        <entry>
-        <title>谁在替你的生疏买单</title>
-        <id>169891</id>
-        <link href="https://blog.solazy.me/20260902/?utm_source=blogfinder" />
-        <published>2026-09-02T19:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[谁在替你的生疏买单]]></summary>
-    </entry>
-        <entry>
-        <title>景区教师节的骚操作只会适得其反</title>
-        <id>169882</id>
-        <link href="https://www.pgoj.top/archives/jiao-shi-jie-fu-li.html?utm_source=blogfinder" />
-        <published>2026-09-02T18:29:18+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[景区教师节的骚操作只会适得其反]]></summary>
-    </entry>
-        <entry>
-        <title>服务器迁移：趁到期前，把博客搬到一个更安心的地方</title>
-        <id>169905</id>
-        <link href="https://veryatao.com/technique/how-to-build-blog/?utm_source=blogfinder" />
-        <published>2026-09-02T18:22:37+08:00</published>
-        <author>
-            <name>Atao&#039;s Space</name>
-            <uri>https://veryatao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[服务器迁移：趁到期前，把博客搬到一个更安心的地方]]></summary>
-    </entry>
-        <entry>
-        <title>Zig 中的类型替换</title>
-        <id>169872</id>
-        <link href="https://zeeko.dev/2026/09/subtypes-in-zig/?utm_source=blogfinder" />
-        <published>2026-09-02T18:01:33+08:00</published>
-        <author>
-            <name>网上冲浪指南</name>
-            <uri>https://zeeko.dev</uri>
-        </author>
-        <summary type="text"><![CDATA[Zig 中的类型替换]]></summary>
-    </entry>
-        <entry>
-        <title>Qwen3.8-27B 测试（3）</title>
-        <id>169878</id>
-        <link href="https://556799.xyz/archives/wei-ming-ming-wen-zhang-W2ZZWrZ5?utm_source=blogfinder" />
-        <published>2026-09-02T17:31:46+08:00</published>
-        <author>
-            <name>Jacylunatic</name>
-            <uri>https://991198.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[Qwen3.8-27B 测试（3）]]></summary>
-    </entry>
-        <entry>
-        <title>腾讯云轻量服务器2核4G7M续费一年实付108元，拼团成功加赠3个月，约等于每月7.2元</title>
-        <id>169868</id>
-        <link href="https://www.bufanz.com/20260902859.html?utm_source=blogfinder" />
-        <published>2026-09-02T17:28:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[腾讯云轻量服务器2核4G7M续费一年实付108元，拼团成功加赠3个月，约等于每月7.2元]]></summary>
     </entry>
     </feed>
