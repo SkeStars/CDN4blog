@@ -11,7 +11,84 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-06T17:01:05+08:00</updated>
+    <updated>2026-09-06T21:00:34+08:00</updated>
+        <entry>
+        <title>写了一个博客系统，搬家到cloufare</title>
+        <id>170610</id>
+        <link href="https://www.pgoj.top/archives/blog-cms-cloufare.html?utm_source=blogfinder" />
+        <published>2026-09-06T20:01:49+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[写了一个博客系统，搬家到cloufare]]></summary>
+    </entry>
+        <entry>
+        <title>Phorge 现代化改造实战（四）：拆分模块到 Gorge，无侵入改造不等于不碰文件</title>
+        <id>170606</id>
+        <link href="https://soulteary.com/2026/09/06/phorge-modernization-part-4-split-modules-to-gorge.html?utm_source=blogfinder" />
+        <published>2026-09-06T18:55:00+08:00</published>
+        <author>
+            <name>苏洋博客</name>
+            <uri>https://soulteary.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Phorge 现代化改造实战（四）：拆分模块到 Gorge，无侵入改造不等于不碰文件]]></summary>
+    </entry>
+        <entry>
+        <title>Phorge 现代化改造实战（三）：接入 Stargate，把 Forward Auth 的信任边界做完整</title>
+        <id>170607</id>
+        <link href="https://soulteary.com/2026/09/06/phorge-modernization-part-3-stargate-forward-auth-trust-boundary.html?utm_source=blogfinder" />
+        <published>2026-09-06T18:15:00+08:00</published>
+        <author>
+            <name>苏洋博客</name>
+            <uri>https://soulteary.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Phorge 现代化改造实战（三）：接入 Stargate，把 Forward Auth 的信任边界做完整]]></summary>
+    </entry>
+        <entry>
+        <title>给静态博客文章添加Lottie表情包</title>
+        <id>170603</id>
+        <link href="https://blog.weasel6.cn/posts/lottie/?utm_source=blogfinder" />
+        <published>2026-09-06T18:09:00+08:00</published>
+        <author>
+            <name>小黄的日记本</name>
+            <uri>https://blog.weasel6.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[给静态博客文章添加Lottie表情包]]></summary>
+    </entry>
+        <entry>
+        <title>Phorge 现代化改造实战（二）：改进容器化的七个细节</title>
+        <id>170608</id>
+        <link href="https://soulteary.com/2026/09/06/phorge-modernization-part-2-seven-containerization-details.html?utm_source=blogfinder" />
+        <published>2026-09-06T17:45:00+08:00</published>
+        <author>
+            <name>苏洋博客</name>
+            <uri>https://soulteary.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Phorge 现代化改造实战（二）：改进容器化的七个细节]]></summary>
+    </entry>
+        <entry>
+        <title>Phorge 现代化改造实战（一）：从没有官方镜像到 Docker Compose 跑起来</title>
+        <id>170609</id>
+        <link href="https://soulteary.com/2026/09/06/phorge-modernization-part-1-from-no-official-image-to-docker-compose.html?utm_source=blogfinder" />
+        <published>2026-09-06T17:15:00+08:00</published>
+        <author>
+            <name>苏洋博客</name>
+            <uri>https://soulteary.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Phorge 现代化改造实战（一）：从没有官方镜像到 Docker Compose 跑起来]]></summary>
+    </entry>
+        <entry>
+        <title>贵州省博物馆，一眼万年</title>
+        <id>170604</id>
+        <link href="https://www.chenrui.com/post/3512.html?utm_source=blogfinder" />
+        <published>2026-09-06T15:02:55+08:00</published>
+        <author>
+            <name>不可</name>
+            <uri>https://www.chenrui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[贵州省博物馆，一眼万年]]></summary>
+    </entry>
         <entry>
         <title>风骚律师第一集勾人吗？</title>
         <id>170601</id>
@@ -77,6 +154,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[≡ 009｜这一周莫比乌斯环转到了哪里？]]></summary>
+    </entry>
+        <entry>
+        <title>黄果树，山水自有答案</title>
+        <id>170605</id>
+        <link href="https://www.chenrui.com/post/3509.html?utm_source=blogfinder" />
+        <published>2026-09-06T09:12:02+08:00</published>
+        <author>
+            <name>不可</name>
+            <uri>https://www.chenrui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[黄果树，山水自有答案]]></summary>
     </entry>
         <entry>
         <title>嬷嬷</title>
@@ -1397,148 +1485,5 @@
             <uri>https://www.paddysun.top</uri>
         </author>
         <summary type="text"><![CDATA[傻孩子我怕你啊，禁止被资本主义异化]]></summary>
-    </entry>
-        <entry>
-        <title>一个项目让我找回了从前的记忆，方知已不再年轻</title>
-        <id>169972</id>
-        <link href="https://blog.xrbk.cn/post/107.html?utm_source=blogfinder" />
-        <published>2026-09-03T20:58:00+08:00</published>
-        <author>
-            <name>新锐博客</name>
-            <uri>https://blog.xrbk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[一个项目让我找回了从前的记忆，方知已不再年轻]]></summary>
-    </entry>
-        <entry>
-        <title>腾讯云轻量主机继续续费</title>
-        <id>169971</id>
-        <link href="https://qfsyj.com/20260903-qingliang.html?utm_source=blogfinder" />
-        <published>2026-09-03T20:46:51+08:00</published>
-        <author>
-            <name>不曾长大</name>
-            <uri>https://qfsyj.com</uri>
-        </author>
-        <summary type="text"><![CDATA[腾讯云轻量主机继续续费]]></summary>
-    </entry>
-        <entry>
-        <title>[Agent 考古] Ciatto 2025 解读：LLM 住进 BDI 解释器，计划生成与 believes achieved 退化</title>
-        <id>169969</id>
-        <link href="https://www.paddysun.top/archives/5172?utm_source=blogfinder" />
-        <published>2026-09-03T20:41:10+08:00</published>
-        <author>
-            <name>Under the Sun with Paddy</name>
-            <uri>https://www.paddysun.top</uri>
-        </author>
-        <summary type="text"><![CDATA[[Agent 考古] Ciatto 2025 解读：LLM 住进 BDI 解释器，计划生成与 believes achieved 退化]]></summary>
-    </entry>
-        <entry>
-        <title>我婉拒了知乎的入驻要约</title>
-        <id>170149</id>
-        <link href="https://jiangcl.com/5079?utm_source=blogfinder" />
-        <published>2026-09-03T20:35:52+08:00</published>
-        <author>
-            <name>蒙需</name>
-            <uri>https://jiangcl.com/</uri>
-        </author>
-        <summary type="text"><![CDATA[我婉拒了知乎的入驻要约]]></summary>
-    </entry>
-        <entry>
-        <title>读书笔记（博一）</title>
-        <id>169967</id>
-        <link href="https://kangaroogao.com/posts/dc48/?utm_source=blogfinder" />
-        <published>2026-09-03T20:08:52+08:00</published>
-        <author>
-            <name>三峡星河</name>
-            <uri>https://kangaroogao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[读书笔记（博一）]]></summary>
-    </entry>
-        <entry>
-        <title>Writing following the F-pattern is a horrible horrible idea</title>
-        <id>169975</id>
-        <link href="https://www.geedea.pro/en/article/f-with-f-pattern/?utm_source=blogfinder" />
-        <published>2026-09-03T20:00:32+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[Writing following the F-pattern is a horrible horrible idea]]></summary>
-    </entry>
-        <entry>
-        <title>2026年8月微信读书阅读记录与笔记</title>
-        <id>169970</id>
-        <link href="https://www.pgoj.top/archives/wread-ji-bi-202608.html?utm_source=blogfinder" />
-        <published>2026-09-03T19:51:53+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[2026年8月微信读书阅读记录与笔记]]></summary>
-    </entry>
-        <entry>
-        <title>fragments 0x0002</title>
-        <id>169965</id>
-        <link href="https://lenciel.com/2026/09/fragments-0x0002/?utm_source=blogfinder" />
-        <published>2026-09-03T19:45:31+08:00</published>
-        <author>
-            <name>@Lenciel</name>
-            <uri>https://lenciel.com</uri>
-        </author>
-        <summary type="text"><![CDATA[fragments 0x0002]]></summary>
-    </entry>
-        <entry>
-        <title>八月份碎碎念 | 佛山站、义修、3D打印机、蒸笼上的蟑螂</title>
-        <id>169998</id>
-        <link href="https://blog.learm.cn/archives/2026-09-03.html?utm_source=blogfinder" />
-        <published>2026-09-03T19:43:00+08:00</published>
-        <author>
-            <name>张键的博客</name>
-            <uri>https://blog.learm.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[八月份碎碎念 | 佛山站、义修、3D打印机、蒸笼上的蟑螂]]></summary>
-    </entry>
-        <entry>
-        <title>西行乱斗(送一个本体兑换码，先到先得)</title>
-        <id>170153</id>
-        <link href="https://luolt.cn/archives/3219.html?utm_source=blogfinder" />
-        <published>2026-09-03T19:37:30+08:00</published>
-        <author>
-            <name>洛丽糖</name>
-            <uri>http://luolt.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[西行乱斗(送一个本体兑换码，先到先得)]]></summary>
-    </entry>
-        <entry>
-        <title>prompts.chat：从 Awesome ChatGPT Prompts 到全球最大开源提示词全栈平台</title>
-        <id>169964</id>
-        <link href="http://blog.xlap.top/post/tech/2026-09-03/prompts-chat/?utm_source=blogfinder" />
-        <published>2026-09-03T19:04:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[prompts.chat：从 Awesome ChatGPT Prompts 到全球最大开源提示词全栈平台]]></summary>
-    </entry>
-        <entry>
-        <title>智启未来 创领非凡 | 大学生人工智能协会招新啦！</title>
-        <id>169973</id>
-        <link href="https://blog.liuhangyv.top/archives/zhaoxin?utm_source=blogfinder" />
-        <published>2026-09-03T18:04:25+08:00</published>
-        <author>
-            <name>Serendipity</name>
-            <uri>https://blog.liuhangyv.top</uri>
-        </author>
-        <summary type="text"><![CDATA[智启未来 创领非凡 | 大学生人工智能协会招新啦！]]></summary>
-    </entry>
-        <entry>
-        <title>小城小记5：德州</title>
-        <id>170565</id>
-        <link href="https://kangaroogao.com/posts/1244/?utm_source=blogfinder" />
-        <published>2026-09-03T17:18:37+08:00</published>
-        <author>
-            <name>三峡星河</name>
-            <uri>https://kangaroogao.com</uri>
-        </author>
-        <summary type="text"><![CDATA[小城小记5：德州]]></summary>
     </entry>
     </feed>
