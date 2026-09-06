@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-06T21:00:34+08:00</updated>
+    <updated>2026-09-07T00:00:40+08:00</updated>
+        <entry>
+        <title>Typecho 添加文章阅读量</title>
+        <id>170612</id>
+        <link href="https://blog.tibtob.cn/archives/96/?utm_source=blogfinder" />
+        <published>2026-09-06T22:19:00+08:00</published>
+        <author>
+            <name>拾音博客</name>
+            <uri>https://blog.tibtob.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Typecho 添加文章阅读量]]></summary>
+    </entry>
+        <entry>
+        <title>骑了一个马拉松 43 Km</title>
+        <id>170613</id>
+        <link href="https://hulatu.com/posts/2026/09/06/rode-a-full-marathon/?utm_source=blogfinder" />
+        <published>2026-09-06T20:32:11+08:00</published>
+        <author>
+            <name>胡拉图说</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[骑了一个马拉松 43 Km]]></summary>
+    </entry>
         <entry>
         <title>写了一个博客系统，搬家到cloufare</title>
         <id>170610</id>
@@ -79,6 +101,17 @@
         <summary type="text"><![CDATA[Phorge 现代化改造实战（一）：从没有官方镜像到 Docker Compose 跑起来]]></summary>
     </entry>
         <entry>
+        <title>少年承载了太多年长者的恶臭投射</title>
+        <id>170616</id>
+        <link href="https://www.geedea.pro/article/projections-on-the-young/?utm_source=blogfinder" />
+        <published>2026-09-06T16:15:54+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[少年承载了太多年长者的恶臭投射]]></summary>
+    </entry>
+        <entry>
         <title>贵州省博物馆，一眼万年</title>
         <id>170604</id>
         <link href="https://www.chenrui.com/post/3512.html?utm_source=blogfinder" />
@@ -88,6 +121,17 @@
             <uri>https://www.chenrui.com</uri>
         </author>
         <summary type="text"><![CDATA[贵州省博物馆，一眼万年]]></summary>
+    </entry>
+        <entry>
+        <title>BPG 连接建立失败问题</title>
+        <id>170614</id>
+        <link href="https://www.kawabangga.com/posts/7397?utm_source=blogfinder" />
+        <published>2026-09-06T15:01:09+08:00</published>
+        <author>
+            <name>卡瓦邦噶</name>
+            <uri>https://www.kawabangga.com</uri>
+        </author>
+        <summary type="text"><![CDATA[BPG 连接建立失败问题]]></summary>
     </entry>
         <entry>
         <title>风骚律师第一集勾人吗？</title>
@@ -143,6 +187,17 @@
             <uri>https://fxpai.com</uri>
         </author>
         <summary type="text"><![CDATA[又当了一回网络工程师，找到满速断网问题]]></summary>
+    </entry>
+        <entry>
+        <title>续费HK$15拥有香港号码</title>
+        <id>170617</id>
+        <link href="https://yesreho.com/clubsim-esim/?utm_source=blogfinder" />
+        <published>2026-09-06T10:36:12+08:00</published>
+        <author>
+            <name>LookLeap</name>
+            <uri>https://yesreho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[续费HK$15拥有香港号码]]></summary>
     </entry>
         <entry>
         <title>≡ 009｜这一周莫比乌斯环转到了哪里？</title>
@@ -1397,93 +1452,5 @@
             <uri>https://blog.frdlink.link</uri>
         </author>
         <summary type="text"><![CDATA[9.15电动车新规]]></summary>
-    </entry>
-        <entry>
-        <title>基于 Nginx + GeoLite2 搭建简易 IP 查询工具</title>
-        <id>170243</id>
-        <link href="https://tao.zz.ac/zz/ip.html?utm_source=blogfinder" />
-        <published>2026-09-04T00:00:00+08:00</published>
-        <author>
-            <name>涛叔</name>
-            <uri>https://tao.zz.ac</uri>
-        </author>
-        <summary type="text"><![CDATA[基于 Nginx + GeoLite2 搭建简易 IP 查询工具]]></summary>
-    </entry>
-        <entry>
-        <title>篡改猴 (Tampermonkey) 脚本失效的解决办法</title>
-        <id>170154</id>
-        <link href="https://wonse.info/Tampermonkey-Scripts.html?utm_source=blogfinder" />
-        <published>2026-09-03T23:29:26+08:00</published>
-        <author>
-            <name>王鑫的小屋</name>
-            <uri>https://wonse.info</uri>
-        </author>
-        <summary type="text"><![CDATA[篡改猴 (Tampermonkey) 脚本失效的解决办法]]></summary>
-    </entry>
-        <entry>
-        <title>267 网页管理系统荒废了两个多月，今晚开启整理工作</title>
-        <id>169974</id>
-        <link href="http://ddw2019.com/267?utm_source=blogfinder" />
-        <published>2026-09-03T23:10:12+08:00</published>
-        <author>
-            <name>Dongdong&#039;s Blog</name>
-            <uri>https://ddw2019.com</uri>
-        </author>
-        <summary type="text"><![CDATA[267 网页管理系统荒废了两个多月，今晚开启整理工作]]></summary>
-    </entry>
-        <entry>
-        <title>把焦虑推迟到最后一天</title>
-        <id>170187</id>
-        <link href="https://blog.solazy.me/20260903/?utm_source=blogfinder" />
-        <published>2026-09-03T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[把焦虑推迟到最后一天]]></summary>
-    </entry>
-        <entry>
-        <title>人为什么别经常在家</title>
-        <id>170155</id>
-        <link href="https://hulatu.com/posts/2026/09/03/dont-always-be-at-home/?utm_source=blogfinder" />
-        <published>2026-09-03T22:59:58+08:00</published>
-        <author>
-            <name>胡拉图说</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[人为什么别经常在家]]></summary>
-    </entry>
-        <entry>
-        <title>超支</title>
-        <id>170146</id>
-        <link href="https://ezo.biz/Diary/1641.html?utm_source=blogfinder" />
-        <published>2026-09-03T22:06:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[超支]]></summary>
-    </entry>
-        <entry>
-        <title>报告！前方CS2狙击手1v4</title>
-        <id>170180</id>
-        <link href="https://blog.tibtob.cn/archives/95/?utm_source=blogfinder" />
-        <published>2026-09-03T22:01:00+08:00</published>
-        <author>
-            <name>拾音博客</name>
-            <uri>https://blog.tibtob.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[报告！前方CS2狙击手1v4]]></summary>
-    </entry>
-        <entry>
-        <title>傻孩子我怕你啊，禁止被资本主义异化</title>
-        <id>169968</id>
-        <link href="https://www.paddysun.top/archives/5214?utm_source=blogfinder" />
-        <published>2026-09-03T21:37:20+08:00</published>
-        <author>
-            <name>Under the Sun with Paddy</name>
-            <uri>https://www.paddysun.top</uri>
-        </author>
-        <summary type="text"><![CDATA[傻孩子我怕你啊，禁止被资本主义异化]]></summary>
     </entry>
     </feed>
