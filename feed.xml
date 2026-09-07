@@ -11,17 +11,127 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-07T13:00:16+08:00</updated>
+    <updated>2026-09-07T18:02:35+08:00</updated>
         <entry>
-        <title>测试22</title>
-        <id>170675</id>
-        <link href="https://www.mmbkz.cn/f5748d34.html?utm_source=blogfinder" />
-        <published>2026-09-07T11:26:58+08:00</published>
+        <title>所谓自愿</title>
+        <id>170694</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1215&amp;utm_source=blogfinder" />
+        <published>2026-09-07T14:42:50+08:00</published>
         <author>
-            <name>绯色之喵</name>
-            <uri>https://www.mmbkz.cn</uri>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
         </author>
-        <summary type="text"><![CDATA[测试22]]></summary>
+        <summary type="text"><![CDATA[所谓自愿]]></summary>
+    </entry>
+        <entry>
+        <title>重生</title>
+        <id>170690</id>
+        <link href="https://oba.by/2026/09/1857/?utm_source=blogfinder" />
+        <published>2026-09-07T13:11:06+08:00</published>
+        <author>
+            <name>obaby 𝐢‍𝐧⃝  void</name>
+            <uri>https://oba.by</uri>
+        </author>
+        <summary type="text"><![CDATA[重生]]></summary>
+    </entry>
+        <entry>
+        <title>一些随感和碎言</title>
+        <id>170681</id>
+        <link href="https://www.suiyan.cc/blog/20260907125645?utm_source=blogfinder" />
+        <published>2026-09-07T12:56:45+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[一些随感和碎言]]></summary>
+    </entry>
+        <entry>
+        <title>关于留白</title>
+        <id>170688</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-09-07-about-leaving-blank.html?utm_source=blogfinder" />
+        <published>2026-09-07T12:49:33+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[关于留白]]></summary>
+    </entry>
+        <entry>
+        <title>「存货」不想再和别人拼车白嫖了</title>
+        <id>170684</id>
+        <link href="https://sheep5.net/archives/36489/?utm_source=blogfinder" />
+        <published>2026-09-07T12:35:10+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[「存货」不想再和别人拼车白嫖了]]></summary>
+    </entry>
+        <entry>
+        <title>「存货」买的影视飓风的课程又闲置了</title>
+        <id>170685</id>
+        <link href="https://sheep5.net/archives/50369/?utm_source=blogfinder" />
+        <published>2026-09-07T12:32:54+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[「存货」买的影视飓风的课程又闲置了]]></summary>
+    </entry>
+        <entry>
+        <title>「存货」真正的高效率生活，可能不是“高效”</title>
+        <id>170686</id>
+        <link href="https://sheep5.net/archives/41613/?utm_source=blogfinder" />
+        <published>2026-09-07T12:21:06+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[「存货」真正的高效率生活，可能不是“高效”]]></summary>
+    </entry>
+        <entry>
+        <title>「存货」写博客是为了什么？</title>
+        <id>170687</id>
+        <link href="https://sheep5.net/archives/22514/?utm_source=blogfinder" />
+        <published>2026-09-07T12:16:48+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[「存货」写博客是为了什么？]]></summary>
+    </entry>
+        <entry>
+        <title>嘉立创牛逼，免费的总裁卡到了</title>
+        <id>170682</id>
+        <link href="https://blog.goodboyboy.top/posts/1036581794.html?utm_source=blogfinder" />
+        <published>2026-09-07T12:13:37+08:00</published>
+        <author>
+            <name>GoodBoyboy</name>
+            <uri>https://blog.goodboyboy.top</uri>
+        </author>
+        <summary type="text"><![CDATA[嘉立创牛逼，免费的总裁卡到了]]></summary>
+    </entry>
+        <entry>
+        <title>Stremio Web：Rust 引擎编译 WASM 的开源流媒体 Web 端架构</title>
+        <id>170695</id>
+        <link href="http://blog.xlap.top/post/tech/2026-09-07/stremio-web/?utm_source=blogfinder" />
+        <published>2026-09-07T12:05:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Stremio Web：Rust 引擎编译 WASM 的开源流媒体 Web 端架构]]></summary>
+    </entry>
+        <entry>
+        <title>哲学大炮：我们能不能把“无能为力”变成一种可以理解和计算的东西？</title>
+        <id>170683</id>
+        <link href="https://bestcoder.cn/%E5%93%B2%E5%AD%A6%E5%A4%A7%E7%82%AE%E6%8A%8A%E4%BA%BA%E7%94%9F%E7%9A%84%E6%97%A0%E5%8A%9B%E6%84%9F%E6%8B%86%E6%88%90%E4%B8%80%E5%BC%A0%E5%9B%A0%E6%9E%9C%E5%9C%B0%E5%9B%BEconstraint?utm_source=blogfinder" />
+        <published>2026-09-07T11:44:17+08:00</published>
+        <author>
+            <name>BestCoder</name>
+            <uri>https://bestcoder.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[哲学大炮：我们能不能把“无能为力”变成一种可以理解和计算的东西？]]></summary>
     </entry>
         <entry>
         <title>岚山下海半日游</title>
@@ -123,6 +233,17 @@
         <summary type="text"><![CDATA[【读书记】吉尔伯特《丘吉尔传》4：黄金岁月]]></summary>
     </entry>
         <entry>
+        <title>M3E Canvas：浏览器中绘制 Material 3 Expressive 界面并生成 AI 编程提示词</title>
+        <id>170696</id>
+        <link href="http://blog.xlap.top/post/tech/2026-09-07/m3e-canvas/?utm_source=blogfinder" />
+        <published>2026-09-07T08:04:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[M3E Canvas：浏览器中绘制 Material 3 Expressive 界面并生成 AI 编程提示词]]></summary>
+    </entry>
+        <entry>
         <title>回归有线耳塞</title>
         <id>170640</id>
         <link href="http://etom.top/archives/so218.html?utm_source=blogfinder" />
@@ -134,6 +255,17 @@
         <summary type="text"><![CDATA[回归有线耳塞]]></summary>
     </entry>
         <entry>
+        <title>电梯里的柯基</title>
+        <id>170689</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-09-07-keji.html?utm_source=blogfinder" />
+        <published>2026-09-07T07:41:37+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[电梯里的柯基]]></summary>
+    </entry>
+        <entry>
         <title>Omarchy：DHH 打造的精美 Agentic Linux 发行版</title>
         <id>170633</id>
         <link href="http://blog.xlap.top/post/tech/2026-09-07/omarchy/?utm_source=blogfinder" />
@@ -143,6 +275,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[Omarchy：DHH 打造的精美 Agentic Linux 发行版]]></summary>
+    </entry>
+        <entry>
+        <title>懋和道人博客丙午年中总结</title>
+        <id>170693</id>
+        <link href="https://blog.dao.js.cn/posts/cKWJ?utm_source=blogfinder" />
+        <published>2026-09-07T05:21:00+08:00</published>
+        <author>
+            <name>懋和道人</name>
+            <uri>https://blog.dao.js.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[懋和道人博客丙午年中总结]]></summary>
     </entry>
         <entry>
         <title>AutoHedge：基于 Swarm 多智能体架构的自主交易对冲基金</title>
@@ -321,6 +464,17 @@
         <summary type="text"><![CDATA[骑了一个马拉松 43 Km]]></summary>
     </entry>
         <entry>
+        <title>穿透屋顶的High Kick</title>
+        <id>170691</id>
+        <link href="https://blog.xulihang.me/high-kick-through-the-roof/?utm_source=blogfinder" />
+        <published>2026-09-06T20:30:50+08:00</published>
+        <author>
+            <name>xulihang&#039;s blog</name>
+            <uri>https://blog.xulihang.me</uri>
+        </author>
+        <summary type="text"><![CDATA[穿透屋顶的High Kick]]></summary>
+    </entry>
+        <entry>
         <title>2026.9.6</title>
         <id>170668</id>
         <link href="https://www.justzht.com/2026-9-6/?utm_source=blogfinder" />
@@ -407,6 +561,17 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[少年承载了太多年长者的恶臭投射]]></summary>
+    </entry>
+        <entry>
+        <title>Vol.118 经验复利：当Agent进入长期协作，组织如何把一次成功变成可重复方法</title>
+        <id>170692</id>
+        <link href="https://liduos.com/weekly/the-weekly-gradient-118?utm_source=blogfinder" />
+        <published>2026-09-06T16:00:00+08:00</published>
+        <author>
+            <name>莫尔索</name>
+            <uri>https://liduos.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Vol.118 经验复利：当Agent进入长期协作，组织如何把一次成功变成可重复方法]]></summary>
     </entry>
         <entry>
         <title>贵州省博物馆，一眼万年</title>
@@ -1474,148 +1639,5 @@
             <uri>https://www.bytecho.net</uri>
         </author>
         <summary type="text"><![CDATA[基于 Debezium + Kafka 实现 CDC]]></summary>
-    </entry>
-        <entry>
-        <title>在Rime输入法上启用中英混拼：以Trime为例</title>
-        <id>170188</id>
-        <link href="https://loveapple.space/trime-melt-eng/?utm_source=blogfinder" />
-        <published>2026-09-04T17:52:18+08:00</published>
-        <author>
-            <name>LoveApple14434</name>
-            <uri>https://loveapple.space/blog/</uri>
-        </author>
-        <summary type="text"><![CDATA[在Rime输入法上启用中英混拼：以Trime为例]]></summary>
-    </entry>
-        <entry>
-        <title>用 Tamper-monkey 集成 Kagi Translate - 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek</title>
-        <id>170170</id>
-        <link href="https://taxodium.ink/integrate-kagi-translate-with-tampermonkey.html?utm_source=blogfinder" />
-        <published>2026-09-04T17:20:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[用 Tamper-monkey 集成 Kagi Translate - 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek]]></summary>
-    </entry>
-        <entry>
-        <title>落笔之间</title>
-        <id>170179</id>
-        <link href="https://www.sanji.one/fu-sheng-za-ji/the-moment-of-writing.html?utm_source=blogfinder" />
-        <published>2026-09-04T17:09:00+08:00</published>
-        <author>
-            <name>时光散记</name>
-            <uri>https://www.sanji.one</uri>
-        </author>
-        <summary type="text"><![CDATA[落笔之间]]></summary>
-    </entry>
-        <entry>
-        <title>cn：shadcn 团队打造的新一代 Tailwind 类名合并引擎，比 tailwind-merge 快 30 倍</title>
-        <id>170174</id>
-        <link href="http://blog.xlap.top/post/tech/2026-09-04/cn-shadcn-ui/?utm_source=blogfinder" />
-        <published>2026-09-04T16:06:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[cn：shadcn 团队打造的新一代 Tailwind 类名合并引擎，比 tailwind-merge 快 30 倍]]></summary>
-    </entry>
-        <entry>
-        <title>2026年8月阅读书摘</title>
-        <id>170162</id>
-        <link href="https://www.domon.cn/2026-8yue-yue-du-shu-zhai/?utm_source=blogfinder" />
-        <published>2026-09-04T15:52:25+08:00</published>
-        <author>
-            <name>Dennis</name>
-            <uri>https://www.domon.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[2026年8月阅读书摘]]></summary>
-    </entry>
-        <entry>
-        <title>微信小程序二维码真机不显示：从 `TextEncoder is not defined` 到跨端兼容方案</title>
-        <id>170164</id>
-        <link href="https://xiangming.site/1151.html?utm_source=blogfinder" />
-        <published>2026-09-04T15:28:00+08:00</published>
-        <author>
-            <name>湘铭呀</name>
-            <uri>https://xiangming.site</uri>
-        </author>
-        <summary type="text"><![CDATA[微信小程序二维码真机不显示：从 `TextEncoder is not defined` 到跨端兼容方案]]></summary>
-    </entry>
-        <entry>
-        <title>罩亮前程👙</title>
-        <id>170165</id>
-        <link href="https://oba.by/2026/09/1840/?utm_source=blogfinder" />
-        <published>2026-09-04T15:12:52+08:00</published>
-        <author>
-            <name>obaby 𝐢‍𝐧⃝  void</name>
-            <uri>https://oba.by</uri>
-        </author>
-        <summary type="text"><![CDATA[罩亮前程👙]]></summary>
-    </entry>
-        <entry>
-        <title>接纳普通，静待属于自己的天时</title>
-        <id>170177</id>
-        <link href="https://mojue88.com/19?utm_source=blogfinder" />
-        <published>2026-09-04T14:45:20+08:00</published>
-        <author>
-            <name>墨觉の日记</name>
-            <uri>https://mojue88.com</uri>
-        </author>
-        <summary type="text"><![CDATA[接纳普通，静待属于自己的天时]]></summary>
-    </entry>
-        <entry>
-        <title>苏研</title>
-        <id>170166</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-09-04-suyan.html?utm_source=blogfinder" />
-        <published>2026-09-04T14:35:15+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[苏研]]></summary>
-    </entry>
-        <entry>
-        <title>MacBook不进入休眠全新邪修：十几块钱的绿联HDMI欺骗器</title>
-        <id>170169</id>
-        <link href="https://blog.zhheo.com/p/8p5a0k56.html?utm_source=blogfinder" />
-        <published>2026-09-04T14:00:00+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[MacBook不进入休眠全新邪修：十几块钱的绿联HDMI欺骗器]]></summary>
-    </entry>
-        <entry>
-        <title>最短的咒语</title>
-        <id>170158</id>
-        <link href="https://mobius.blog/25604.html?utm_source=blogfinder" />
-        <published>2026-09-04T14:00:00+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[最短的咒语]]></summary>
-    </entry>
-        <entry>
-        <title>新买的尼龙回环 Apple Watch 表带到了</title>
-        <id>170163</id>
-        <link href="https://sheep5.net/archives/15130/?utm_source=blogfinder" />
-        <published>2026-09-04T13:40:58+08:00</published>
-        <author>
-            <name>Sheep5 的博客</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[新买的尼龙回环 Apple Watch 表带到了]]></summary>
-    </entry>
-        <entry>
-        <title>时间过得蛮快的</title>
-        <id>170175</id>
-        <link href="https://blog.goodboyboy.top/posts/41264820.html?utm_source=blogfinder" />
-        <published>2026-09-04T13:24:44+08:00</published>
-        <author>
-            <name>GoodBoyboy</name>
-            <uri>https://blog.goodboyboy.top</uri>
-        </author>
-        <summary type="text"><![CDATA[时间过得蛮快的]]></summary>
     </entry>
     </feed>
