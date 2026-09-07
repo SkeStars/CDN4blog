@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-08T00:00:59+08:00</updated>
+    <updated>2026-09-08T04:02:25+08:00</updated>
+        <entry>
+        <title>Sweep LLM 功耗控制调度策略研究(二)</title>
+        <id>170731</id>
+        <link href="https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-er?utm_source=blogfinder" />
+        <published>2026-09-08T03:23:00+08:00</published>
+        <author>
+            <name>司云有崖</name>
+            <uri>https://eduardoqian.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Sweep LLM 功耗控制调度策略研究(二)]]></summary>
+    </entry>
         <entry>
         <title>Token 应译作「符」</title>
         <id>170712</id>
@@ -33,6 +44,17 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[Lightpanda Browser：用 Zig 从零打造的 AI 原生无头浏览器]]></summary>
+    </entry>
+        <entry>
+        <title>COC War Tool：花名册重构与成员更新优化</title>
+        <id>170733</id>
+        <link href="https://blog.yghsite.cn/2026/09/07/coc-war-tool%ef%bc%9a%e8%8a%b1%e5%90%8d%e5%86%8c%e9%87%8d%e6%9e%84%e4%b8%8e%e6%88%90%e5%91%98%e6%9b%b4%e6%96%b0%e4%bc%98%e5%8c%96/?utm_source=blogfinder" />
+        <published>2026-09-07T21:59:53+08:00</published>
+        <author>
+            <name>flechazo&#039;s blog</name>
+            <uri>https://blog.yghsite.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[COC War Tool：花名册重构与成员更新优化]]></summary>
     </entry>
         <entry>
         <title>小论博客的更新速度</title>
@@ -68,6 +90,17 @@
         <summary type="text"><![CDATA[26年8月总结-入园准备工作~]]></summary>
     </entry>
         <entry>
+        <title>PSP2000V3 PSP3000专用PS1模拟插件popsloader下载</title>
+        <id>170730</id>
+        <link href="https://www.bat69.com/20260907/psp2000v3-psp3000%e4%b8%93%e7%94%a8ps1%e6%a8%a1%e6%8b%9f%e6%8f%92%e4%bb%b6popsloader%e4%b8%8b%e8%bd%bd.html?utm_source=blogfinder" />
+        <published>2026-09-07T20:33:30+08:00</published>
+        <author>
+            <name>严重浪漫</name>
+            <uri>https://www.bat69.com</uri>
+        </author>
+        <summary type="text"><![CDATA[PSP2000V3 PSP3000专用PS1模拟插件popsloader下载]]></summary>
+    </entry>
+        <entry>
         <title>转眼过去满12周啦</title>
         <id>170708</id>
         <link href="http://99887766554433221100.cn/archives/200/?utm_source=blogfinder" />
@@ -77,6 +110,17 @@
             <uri>http://99887766554433221100.cn</uri>
         </author>
         <summary type="text"><![CDATA[转眼过去满12周啦]]></summary>
+    </entry>
+        <entry>
+        <title>2026 上半年购物总结</title>
+        <id>170727</id>
+        <link href="https://www.javis.me/cyber-shopping-2026/?utm_source=blogfinder" />
+        <published>2026-09-07T20:30:00+08:00</published>
+        <author>
+            <name>查令十字街 84 号</name>
+            <uri>https://javis.me</uri>
+        </author>
+        <summary type="text"><![CDATA[2026 上半年购物总结]]></summary>
     </entry>
         <entry>
         <title>从南明河到甲秀楼</title>
@@ -123,6 +167,28 @@
         <summary type="text"><![CDATA[知乎刘看山出周边了]]></summary>
     </entry>
         <entry>
+        <title>当下AI编程项目直接上线后带来的隐患</title>
+        <id>170717</id>
+        <link href="https://beltxman.com/4762.html?utm_source=blogfinder" />
+        <published>2026-09-07T17:12:56+08:00</published>
+        <author>
+            <name>行星带</name>
+            <uri>https://beltxman.com</uri>
+        </author>
+        <summary type="text"><![CDATA[当下AI编程项目直接上线后带来的隐患]]></summary>
+    </entry>
+        <entry>
+        <title>uni-app Android 录音“未识别到文本”：从伪 WAV 到全零 PCM</title>
+        <id>170732</id>
+        <link href="https://eonova.me/posts/uni-app-android?utm_source=blogfinder" />
+        <published>2026-09-07T16:22:14+08:00</published>
+        <author>
+            <name>Nova Eon</name>
+            <uri>https://eonova.me</uri>
+        </author>
+        <summary type="text"><![CDATA[uni-app Android 录音“未识别到文本”：从伪 WAV 到全零 PCM]]></summary>
+    </entry>
+        <entry>
         <title>【小记】图片托管从又拍云迁移到腾讯云 EO + COS（兼容图片处理参数）</title>
         <id>170699</id>
         <link href="https://bottle.moe/bottle-310.html?utm_source=blogfinder" />
@@ -165,6 +231,17 @@
             <uri>http://www.xulog.cn</uri>
         </author>
         <summary type="text"><![CDATA[所谓自愿]]></summary>
+    </entry>
+        <entry>
+        <title>无题</title>
+        <id>170716</id>
+        <link href="https://yufm.com/662344.html?utm_source=blogfinder" />
+        <published>2026-09-07T13:39:09+08:00</published>
+        <author>
+            <name>You &amp; FM</name>
+            <uri>https://yufm.com</uri>
+        </author>
+        <summary type="text"><![CDATA[无题]]></summary>
     </entry>
         <entry>
         <title>重生</title>
@@ -286,6 +363,17 @@
             <uri>https://bestcoder.cn</uri>
         </author>
         <summary type="text"><![CDATA[哲学大炮：我们能不能把“无能为力”变成一种可以理解和计算的东西？]]></summary>
+    </entry>
+        <entry>
+        <title>这还要什么自行车：入手 DJI LITO 1</title>
+        <id>170728</id>
+        <link href="https://jdzhao.com/dji-lito-1/?utm_source=blogfinder" />
+        <published>2026-09-07T10:48:40+08:00</published>
+        <author>
+            <name>重光阁</name>
+            <uri>https://jdzhao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[这还要什么自行车：入手 DJI LITO 1]]></summary>
     </entry>
         <entry>
         <title>岚山下海半日游</title>
@@ -473,6 +561,28 @@
             <uri>https://blog.xlap.top</uri>
         </author>
         <summary type="text"><![CDATA[LLVM 编译器基础设施：构建高性能编译器与工具链的完整工具集]]></summary>
+    </entry>
+        <entry>
+        <title>从香港银行电汇美元到美国需要多少费用？</title>
+        <id>170715</id>
+        <link href="https://tumutanzi.com/archives/17627?utm_source=blogfinder" />
+        <published>2026-09-07T00:00:44+08:00</published>
+        <author>
+            <name>土木坛子</name>
+            <uri>https://tumutanzi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[从香港银行电汇美元到美国需要多少费用？]]></summary>
+    </entry>
+        <entry>
+        <title>友链可能导致网站掉备案</title>
+        <id>170718</id>
+        <link href="https://tao.zz.ac/beian-2.html?utm_source=blogfinder" />
+        <published>2026-09-07T00:00:00+08:00</published>
+        <author>
+            <name>涛叔</name>
+            <uri>https://tao.zz.ac</uri>
+        </author>
+        <summary type="text"><![CDATA[友链可能导致网站掉备案]]></summary>
     </entry>
         <entry>
         <title>耗时两天做了Typecho静态缓存插件，专为个人博客打造，不影响评论交互功能</title>
@@ -1551,49 +1661,5 @@
             <uri>https://lawtee.com</uri>
         </author>
         <summary type="text"><![CDATA[越南从劳动力出口到劳动力进口]]></summary>
-    </entry>
-        <entry>
-        <title>RenoDX 深度解析：基于 Reshade 插件系统的 DirectX 游戏翻新引擎</title>
-        <id>170263</id>
-        <link href="http://blog.xlap.top/post/tech/2026-09-05/renodx/?utm_source=blogfinder" />
-        <published>2026-09-05T02:04:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[RenoDX 深度解析：基于 Reshade 插件系统的 DirectX 游戏翻新引擎]]></summary>
-    </entry>
-        <entry>
-        <title>或许我们每个人都有问题</title>
-        <id>170555</id>
-        <link href="https://imqi1.com/content/note/1021?utm_source=blogfinder" />
-        <published>2026-09-05T00:17:00+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[或许我们每个人都有问题]]></summary>
-    </entry>
-        <entry>
-        <title>我的「库克时代」</title>
-        <id>170551</id>
-        <link href="https://blog.imalan.cn/archives/my-tim-cook-era/?utm_source=blogfinder" />
-        <published>2026-09-05T00:11:25+08:00</published>
-        <author>
-            <name>失眠海峡</name>
-            <uri>https://blog.imalan.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[我的「库克时代」]]></summary>
-    </entry>
-        <entry>
-        <title>OpenCode：开源 AI 编程助手，一个命令搞定全栈开发</title>
-        <id>170264</id>
-        <link href="http://blog.xlap.top/post/tech/2026-09-05/opencode/?utm_source=blogfinder" />
-        <published>2026-09-05T00:04:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[OpenCode：开源 AI 编程助手，一个命令搞定全栈开发]]></summary>
     </entry>
     </feed>
