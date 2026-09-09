@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-09T12:02:12+08:00</updated>
+    <updated>2026-09-09T18:00:18+08:00</updated>
+        <entry>
+        <title>系统设计面试笔记：从零到百万用户的架构修炼</title>
+        <id>170873</id>
+        <link href="http://blog.xlap.top/post/tech/2026-09-09/system-design-notes/?utm_source=blogfinder" />
+        <published>2026-09-09T14:05:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[系统设计面试笔记：从零到百万用户的架构修炼]]></summary>
+    </entry>
+        <entry>
+        <title>DeepSeek Harness：DeepSeek AI 开源的下一代 Agent 框架</title>
+        <id>170874</id>
+        <link href="http://blog.xlap.top/post/tech/2026-09-09/deepseek-harness/?utm_source=blogfinder" />
+        <published>2026-09-09T13:07:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[DeepSeek Harness：DeepSeek AI 开源的下一代 Agent 框架]]></summary>
+    </entry>
+        <entry>
+        <title>看电影《奥德赛》——英雄与凡人的宿命</title>
+        <id>170875</id>
+        <link href="https://www.jfsay.com/archives/5714.html?utm_source=blogfinder" />
+        <published>2026-09-09T11:31:24+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[看电影《奥德赛》——英雄与凡人的宿命]]></summary>
+    </entry>
+        <entry>
+        <title>使用astro原生pjax实现无缝切换</title>
+        <id>170877</id>
+        <link href="https://blog.xrbk.cn/post/108.html?utm_source=blogfinder" />
+        <published>2026-09-09T11:24:00+08:00</published>
+        <author>
+            <name>新锐博客</name>
+            <uri>https://blog.xrbk.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[使用astro原生pjax实现无缝切换]]></summary>
+    </entry>
+        <entry>
+        <title>封闭了太久，我决定用文字凿开一道缝</title>
+        <id>170871</id>
+        <link href="https://sheep5.net/archives/25541/?utm_source=blogfinder" />
+        <published>2026-09-09T10:47:19+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[封闭了太久，我决定用文字凿开一道缝]]></summary>
+    </entry>
         <entry>
         <title>《白夜行》这本书总算快看完了</title>
         <id>170861</id>
@@ -33,6 +88,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[死猫为大]]></summary>
+    </entry>
+        <entry>
+        <title>DIY(35-2)：6路×2 USB全自动电脑切换器</title>
+        <id>170872</id>
+        <link href="http://www.auiou.com/relevant/00002193.jsp?utm_source=blogfinder" />
+        <published>2026-09-09T09:14:00+08:00</published>
+        <author>
+            <name>王志勇的 Blog</name>
+            <uri>http://www.auiou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[DIY(35-2)：6路×2 USB全自动电脑切换器]]></summary>
     </entry>
         <entry>
         <title>TypeWords：免费开源打字背单词工具，支持FSRS间隔复习、听写和文章练习</title>
@@ -352,6 +418,17 @@
             <uri>https://i.lckiss.com</uri>
         </author>
         <summary type="text"><![CDATA[在不支持 SN/防伪码的情况下，如何快速判断 SD 卡的真实性]]></summary>
+    </entry>
+        <entry>
+        <title>独立游戏漫谈</title>
+        <id>170876</id>
+        <link href="https://feiqi3.cn/post/39?utm_source=blogfinder" />
+        <published>2026-09-08T13:13:30+08:00</published>
+        <author>
+            <name>飞起的小窝</name>
+            <uri>https://feiqi3.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[独立游戏漫谈]]></summary>
     </entry>
         <entry>
         <title>Phorge 现代化改造实战（十三）：联调六项外部服务，容器在运行，不代表业务已经切换</title>
@@ -1551,115 +1628,5 @@
             <uri>https://blog.weasel6.cn</uri>
         </author>
         <summary type="text"><![CDATA[给静态博客文章添加Lottie表情包]]></summary>
-    </entry>
-        <entry>
-        <title>Phorge 现代化改造实战（二）：改进容器化的七个细节</title>
-        <id>170608</id>
-        <link href="https://soulteary.com/2026/09/06/phorge-modernization-part-2-seven-containerization-details.html?utm_source=blogfinder" />
-        <published>2026-09-06T17:45:00+08:00</published>
-        <author>
-            <name>苏洋博客</name>
-            <uri>https://soulteary.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Phorge 现代化改造实战（二）：改进容器化的七个细节]]></summary>
-    </entry>
-        <entry>
-        <title>Phorge 现代化改造实战（一）：从没有官方镜像到 Docker Compose 跑起来</title>
-        <id>170609</id>
-        <link href="https://soulteary.com/2026/09/06/phorge-modernization-part-1-from-no-official-image-to-docker-compose.html?utm_source=blogfinder" />
-        <published>2026-09-06T17:15:00+08:00</published>
-        <author>
-            <name>苏洋博客</name>
-            <uri>https://soulteary.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Phorge 现代化改造实战（一）：从没有官方镜像到 Docker Compose 跑起来]]></summary>
-    </entry>
-        <entry>
-        <title>少年承载了太多年长者的恶臭投射</title>
-        <id>170616</id>
-        <link href="https://www.geedea.pro/article/projections-on-the-young/?utm_source=blogfinder" />
-        <published>2026-09-06T16:15:54+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[少年承载了太多年长者的恶臭投射]]></summary>
-    </entry>
-        <entry>
-        <title>Vol.118 经验复利：当Agent进入长期协作，组织如何把一次成功变成可重复方法</title>
-        <id>170692</id>
-        <link href="https://liduos.com/weekly/the-weekly-gradient-118?utm_source=blogfinder" />
-        <published>2026-09-06T16:00:00+08:00</published>
-        <author>
-            <name>莫尔索</name>
-            <uri>https://liduos.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Vol.118 经验复利：当Agent进入长期协作，组织如何把一次成功变成可重复方法]]></summary>
-    </entry>
-        <entry>
-        <title>贵州省博物馆，一眼万年</title>
-        <id>170604</id>
-        <link href="https://www.chenrui.com/post/3512.html?utm_source=blogfinder" />
-        <published>2026-09-06T15:02:55+08:00</published>
-        <author>
-            <name>不可</name>
-            <uri>https://www.chenrui.com</uri>
-        </author>
-        <summary type="text"><![CDATA[贵州省博物馆，一眼万年]]></summary>
-    </entry>
-        <entry>
-        <title>BPG 连接建立失败问题</title>
-        <id>170614</id>
-        <link href="https://www.kawabangga.com/posts/7397?utm_source=blogfinder" />
-        <published>2026-09-06T15:01:09+08:00</published>
-        <author>
-            <name>卡瓦邦噶</name>
-            <uri>https://www.kawabangga.com</uri>
-        </author>
-        <summary type="text"><![CDATA[BPG 连接建立失败问题]]></summary>
-    </entry>
-        <entry>
-        <title>风骚律师第一集勾人吗？</title>
-        <id>170601</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-09-06-better-call-soul.html?utm_source=blogfinder" />
-        <published>2026-09-06T14:46:41+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[风骚律师第一集勾人吗？]]></summary>
-    </entry>
-        <entry>
-        <title>从一句话到全平台草稿：用 ChatGPT、MCP 与 OAuth 搭建 Sky Publisher</title>
-        <id>170629</id>
-        <link href="https://bestcoder.cn/chatgpt-mcp-oauth-sky-publisher?utm_source=blogfinder" />
-        <published>2026-09-06T13:38:09+08:00</published>
-        <author>
-            <name>BestCoder</name>
-            <uri>https://bestcoder.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[从一句话到全平台草稿：用 ChatGPT、MCP 与 OAuth 搭建 Sky Publisher]]></summary>
-    </entry>
-        <entry>
-        <title>微信 4.x 图片 dat 加密全解析：一把账号级密钥，离线解密聊天记录与朋友圈图片</title>
-        <id>170598</id>
-        <link href="https://upxuu.com/posts/wechat-dat-image-decrypt/?utm_source=blogfinder" />
-        <published>2026-09-06T12:30:00+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[微信 4.x 图片 dat 加密全解析：一把账号级密钥，离线解密聊天记录与朋友圈图片]]></summary>
-    </entry>
-        <entry>
-        <title>用 ChatGPT 定时任务做一个 Hacker News 中文摘要网站</title>
-        <id>170619</id>
-        <link href="https://wulu.zone/posts/hn-digest?utm_source=blogfinder" />
-        <published>2026-09-06T12:21:05+08:00</published>
-        <author>
-            <name>Wulu&#039;s Blog</name>
-            <uri>https://wulu.zone</uri>
-        </author>
-        <summary type="text"><![CDATA[用 ChatGPT 定时任务做一个 Hacker News 中文摘要网站]]></summary>
     </entry>
     </feed>
