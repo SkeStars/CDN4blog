@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-10T22:00:20+08:00</updated>
+    <updated>2026-09-11T00:01:17+08:00</updated>
+        <entry>
+        <title>外星人是不是拉稀的（上）？</title>
+        <id>171104</id>
+        <link href="https://sliun.com/etshit1/?utm_source=blogfinder" />
+        <published>2026-09-10T22:33:00+08:00</published>
+        <author>
+            <name>理论派</name>
+            <uri>https://sliun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[外星人是不是拉稀的（上）？]]></summary>
+    </entry>
+        <entry>
+        <title>把 VS Code 打造成 Git 终极编辑器、Diff 与 Merge 利器 - Git 避坑与工作流 04 | 排坑笔记 | 阿尔的代码屋</title>
+        <id>171111</id>
+        <link href="https://blog.algieba12.cn/record16-vscode-git-editor-mergetool/?utm_source=blogfinder" />
+        <published>2026-09-10T22:32:06+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[把 VS Code 打造成 Git 终极编辑器、Diff 与 Merge 利器 - Git 避坑与工作流 04 | 排坑笔记 | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
+        <title>色色网站屏蔽</title>
+        <id>171113</id>
+        <link href="https://1.122915.xyz/posts/%E8%89%B2%E8%89%B2%E7%BD%91%E7%AB%99%E5%B1%8F%E8%94%BD/?utm_source=blogfinder" />
+        <published>2026-09-10T22:11:19+08:00</published>
+        <author>
+            <name>风言风语</name>
+            <uri>https://1.122915.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[色色网站屏蔽]]></summary>
+    </entry>
         <entry>
         <title>那些年的师恩难忘</title>
         <id>171103</id>
@@ -22,6 +55,50 @@
             <uri>https://jiangcl.com/</uri>
         </author>
         <summary type="text"><![CDATA[那些年的师恩难忘]]></summary>
+    </entry>
+        <entry>
+        <title>Deepseek V4.1 发布初体验</title>
+        <id>171109</id>
+        <link href="https://jyblog.com/5972/?utm_source=blogfinder" />
+        <published>2026-09-10T21:07:28+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Deepseek V4.1 发布初体验]]></summary>
+    </entry>
+        <entry>
+        <title>ArmorPaint：用 Haxe 打造的跨平台 GPU 3D PBR 纹理绘制引擎</title>
+        <id>171106</id>
+        <link href="http://blog.xlap.top/post/tech/2026-09-10/armorpaint/?utm_source=blogfinder" />
+        <published>2026-09-10T21:05:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[ArmorPaint：用 Haxe 打造的跨平台 GPU 3D PBR 纹理绘制引擎]]></summary>
+    </entry>
+        <entry>
+        <title>Hexo NexT 静态资源本地自托管、KaTeX 公式渲染与移动端适配 | 排坑笔记 | 阿尔的代码屋</title>
+        <id>171112</id>
+        <link href="https://blog.algieba12.cn/record18-hexo-next-cdn-katex-mobile-optimization/?utm_source=blogfinder" />
+        <published>2026-09-10T20:38:00+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Hexo NexT 静态资源本地自托管、KaTeX 公式渲染与移动端适配 | 排坑笔记 | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
+        <title>爹味人的自由</title>
+        <id>171110</id>
+        <link href="https://blog.solazy.me/20260910/?utm_source=blogfinder" />
+        <published>2026-09-10T20:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[爹味人的自由]]></summary>
     </entry>
         <entry>
         <title>任性的孩子无奈的家长</title>
@@ -44,6 +121,28 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[隐藏 Magento 网站的登录及购物车功能]]></summary>
+    </entry>
+        <entry>
+        <title>Qwen3-32B + vLLM 大模型服务部署与开发实战</title>
+        <id>171105</id>
+        <link href="https://blog.liuhangyv.top/archives/CtquUDLm?utm_source=blogfinder" />
+        <published>2026-09-10T19:08:21+08:00</published>
+        <author>
+            <name>Serendipity</name>
+            <uri>https://blog.liuhangyv.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Qwen3-32B + vLLM 大模型服务部署与开发实战]]></summary>
+    </entry>
+        <entry>
+        <title>Clodds：Claude 驱动的自托管 AI 交易终端，一个人也能撮合 10 个预测市场</title>
+        <id>171107</id>
+        <link href="http://blog.xlap.top/post/tech/2026-09-10/cloddsbot/?utm_source=blogfinder" />
+        <published>2026-09-10T19:05:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Clodds：Claude 驱动的自托管 AI 交易终端，一个人也能撮合 10 个预测市场]]></summary>
     </entry>
         <entry>
         <title>AdsPower：多账号指纹浏览器，支持独立环境、代理IP、RPA和团队协作</title>
@@ -220,6 +319,17 @@
             <uri>https://www.jfsay.com</uri>
         </author>
         <summary type="text"><![CDATA[读《杀死一只知更鸟》——阿迪克斯的家庭教育]]></summary>
+    </entry>
+        <entry>
+        <title>free-programming-books：开发者书签里值得常驻的免费编程书籍清单</title>
+        <id>171108</id>
+        <link href="http://blog.xlap.top/post/tech/2026-09-10/free-programming-books/?utm_source=blogfinder" />
+        <published>2026-09-10T10:20:00+08:00</published>
+        <author>
+            <name>XLapTop</name>
+            <uri>https://blog.xlap.top</uri>
+        </author>
+        <summary type="text"><![CDATA[free-programming-books：开发者书签里值得常驻的免费编程书籍清单]]></summary>
     </entry>
         <entry>
         <title>方寸纸笔，藏着年少最温柔的书信时光</title>
@@ -1562,49 +1672,5 @@
             <uri>https://ninan.me</uri>
         </author>
         <summary type="text"><![CDATA[欢迎使用 Typecho]]></summary>
-    </entry>
-        <entry>
-        <title>八月，键曲回响、轻音少女、键等联动</title>
-        <id>170745</id>
-        <link href="https://loneapex.cn/archives/5907?utm_source=blogfinder" />
-        <published>2026-09-08T00:00:23+08:00</published>
-        <author>
-            <name>Mimosa 的小屋</name>
-            <uri>https://loneapex.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[八月，键曲回响、轻音少女、键等联动]]></summary>
-    </entry>
-        <entry>
-        <title>Token 应译作「符」</title>
-        <id>170712</id>
-        <link href="https://www.geedea.pro/article/token-translation/?utm_source=blogfinder" />
-        <published>2026-09-07T23:37:10+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[Token 应译作「符」]]></summary>
-    </entry>
-        <entry>
-        <title>Lightpanda Browser：用 Zig 从零打造的 AI 原生无头浏览器</title>
-        <id>170709</id>
-        <link href="http://blog.xlap.top/post/tech/2026-09-07/browser/?utm_source=blogfinder" />
-        <published>2026-09-07T23:04:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Lightpanda Browser：用 Zig 从零打造的 AI 原生无头浏览器]]></summary>
-    </entry>
-        <entry>
-        <title>终究还是要搬家了</title>
-        <id>170772</id>
-        <link href="https://blog.solazy.me/20260907/?utm_source=blogfinder" />
-        <published>2026-09-07T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[终究还是要搬家了]]></summary>
     </entry>
     </feed>
