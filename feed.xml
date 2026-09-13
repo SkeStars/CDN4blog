@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-13T18:00:19+08:00</updated>
+    <updated>2026-09-13T22:00:45+08:00</updated>
+        <entry>
+        <title>重庆相聚的一天</title>
+        <id>171471</id>
+        <link href="https://zhujay.com/talk/talk_detail.html?id=1279&amp;utm_source=blogfinder" />
+        <published>2026-09-13T21:53:43+08:00</published>
+        <author>
+            <name>朱小呆</name>
+            <uri>https://zhujay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[重庆相聚的一天]]></summary>
+    </entry>
+        <entry>
+        <title>我妈不看真人剧了，只看AI短剧</title>
+        <id>171475</id>
+        <link href="https://sheep5.net/archives/82033/?utm_source=blogfinder" />
+        <published>2026-09-13T21:30:00+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[我妈不看真人剧了，只看AI短剧]]></summary>
+    </entry>
+        <entry>
+        <title>自”妍” WordPress 主题性能实测</title>
+        <id>171472</id>
+        <link href="https://www.paddysun.top/archives/5271?utm_source=blogfinder" />
+        <published>2026-09-13T19:38:21+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[自”妍” WordPress 主题性能实测]]></summary>
+    </entry>
+        <entry>
+        <title>做了一个报纸风格的 WordPress Markdown 主题</title>
+        <id>171473</id>
+        <link href="https://www.paddysun.top/archives/5254?utm_source=blogfinder" />
+        <published>2026-09-13T18:11:36+08:00</published>
+        <author>
+            <name>Under the Sun with Paddy</name>
+            <uri>https://www.paddysun.top</uri>
+        </author>
+        <summary type="text"><![CDATA[做了一个报纸风格的 WordPress Markdown 主题]]></summary>
+    </entry>
+        <entry>
+        <title>句子语法讲义 —— 什么是句子，以及句子的种种形态</title>
+        <id>171468</id>
+        <link href="https://ffaff.fun/blog/sentence-grammar-handout?utm_source=blogfinder" />
+        <published>2026-09-13T17:08:13+08:00</published>
+        <author>
+            <name>Kiwi 的博客</name>
+            <uri>https://ffaff.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[句子语法讲义 —— 什么是句子，以及句子的种种形态]]></summary>
+    </entry>
         <entry>
         <title>WorkBuddy 没给 Ubuntu/Fedora 留下载入口？官方的 deb 和 rpm 都找到了</title>
         <id>171395</id>
@@ -35,6 +90,72 @@
         <summary type="text"><![CDATA[治疗]]></summary>
     </entry>
         <entry>
+        <title>分享青岛旅游的照片</title>
+        <id>171476</id>
+        <link href="https://sheep5.net/archives/39586/?utm_source=blogfinder" />
+        <published>2026-09-13T15:17:05+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[分享青岛旅游的照片]]></summary>
+    </entry>
+        <entry>
+        <title>分享胶州东湖景区照片</title>
+        <id>171477</id>
+        <link href="https://sheep5.net/archives/63746/?utm_source=blogfinder" />
+        <published>2026-09-13T15:10:27+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[分享胶州东湖景区照片]]></summary>
+    </entry>
+        <entry>
+        <title>分享青岛贝壳博物馆照片</title>
+        <id>171478</id>
+        <link href="https://sheep5.net/archives/68036/?utm_source=blogfinder" />
+        <published>2026-09-13T15:06:05+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[分享青岛贝壳博物馆照片]]></summary>
+    </entry>
+        <entry>
+        <title>分享胶州月季花园的照片</title>
+        <id>171479</id>
+        <link href="https://sheep5.net/archives/79866/?utm_source=blogfinder" />
+        <published>2026-09-13T15:00:14+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[分享胶州月季花园的照片]]></summary>
+    </entry>
+        <entry>
+        <title>分享青岛大海的照片</title>
+        <id>171480</id>
+        <link href="https://sheep5.net/archives/94335/?utm_source=blogfinder" />
+        <published>2026-09-13T14:56:35+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[分享青岛大海的照片]]></summary>
+    </entry>
+        <entry>
+        <title>分享青岛啤酒博物馆照片</title>
+        <id>171481</id>
+        <link href="https://sheep5.net/archives/23625/?utm_source=blogfinder" />
+        <published>2026-09-13T14:46:48+08:00</published>
+        <author>
+            <name>Sheep5 的博客</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[分享青岛啤酒博物馆照片]]></summary>
+    </entry>
+        <entry>
         <title>程序员版的《悉达多》</title>
         <id>171389</id>
         <link href="https://bestcoder.cn/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%89%88%E7%9A%84%E6%82%89%E8%BE%BE%E5%A4%9A?utm_source=blogfinder" />
@@ -55,6 +176,28 @@
             <uri>https://siwei.li</uri>
         </author>
         <summary type="text"><![CDATA[QQ 阅读的摸鱼模式，太逗了]]></summary>
+    </entry>
+        <entry>
+        <title>风骚律师4、5集</title>
+        <id>171467</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-09-13-better-call-saul4-5.html?utm_source=blogfinder" />
+        <published>2026-09-13T14:01:42+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[风骚律师4、5集]]></summary>
+    </entry>
+        <entry>
+        <title>记香港高温徒步与办卡之旅</title>
+        <id>171470</id>
+        <link href="https://isming.me/2026-09-11-hongkong/?utm_source=blogfinder" />
+        <published>2026-09-13T13:31:04+08:00</published>
+        <author>
+            <name>码农明明桑</name>
+            <uri>https://isming.me</uri>
+        </author>
+        <summary type="text"><![CDATA[记香港高温徒步与办卡之旅]]></summary>
     </entry>
         <entry>
         <title>Toots 436 2026 Sep.6 - Sep.12</title>
@@ -253,6 +396,17 @@
             <uri>https://blog.cytrogen.icu</uri>
         </author>
         <summary type="text"><![CDATA[回一趟父母家：更好的搜索、困难模式、野生动物]]></summary>
+    </entry>
+        <entry>
+        <title>无用命途：自制三天王</title>
+        <id>171474</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1546/?utm_source=blogfinder" />
+        <published>2026-09-12T23:56:19+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[无用命途：自制三天王]]></summary>
     </entry>
         <entry>
         <title>国内搜索引擎收录实战：百度与头条搜索接入、无备案验证绕行与自动化推送 - 独立博客 SEO 与 GEO 03 | 阿尔的代码屋</title>
@@ -594,6 +748,17 @@
             <uri>https://hulatu.com</uri>
         </author>
         <summary type="text"><![CDATA[不开玩笑的人，也挺讨厌的]]></summary>
+    </entry>
+        <entry>
+        <title>小米13Ultra换电池</title>
+        <id>171469</id>
+        <link href="https://qfsyj.com/20260912-xiaomi13ultra.html?utm_source=blogfinder" />
+        <published>2026-09-12T09:55:00+08:00</published>
+        <author>
+            <name>不曾长大</name>
+            <uri>https://qfsyj.com</uri>
+        </author>
+        <summary type="text"><![CDATA[小米13Ultra换电池]]></summary>
     </entry>
         <entry>
         <title>理发</title>
@@ -1386,148 +1551,5 @@
             <uri>https://www.ixiqin.com</uri>
         </author>
         <summary type="text"><![CDATA[Claude Tag 产品分析]]></summary>
-    </entry>
-        <entry>
-        <title>那些年的师恩难忘</title>
-        <id>171103</id>
-        <link href="https://jiangcl.com/5107?utm_source=blogfinder" />
-        <published>2026-09-10T21:22:19+08:00</published>
-        <author>
-            <name>蒙需</name>
-            <uri>https://jiangcl.com/</uri>
-        </author>
-        <summary type="text"><![CDATA[那些年的师恩难忘]]></summary>
-    </entry>
-        <entry>
-        <title>Deepseek V4.1 发布初体验</title>
-        <id>171109</id>
-        <link href="https://jyblog.com/5972/?utm_source=blogfinder" />
-        <published>2026-09-10T21:07:28+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Deepseek V4.1 发布初体验]]></summary>
-    </entry>
-        <entry>
-        <title>ArmorPaint：用 Haxe 打造的跨平台 GPU 3D PBR 纹理绘制引擎</title>
-        <id>171106</id>
-        <link href="http://blog.xlap.top/post/tech/2026-09-10/armorpaint/?utm_source=blogfinder" />
-        <published>2026-09-10T21:05:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[ArmorPaint：用 Haxe 打造的跨平台 GPU 3D PBR 纹理绘制引擎]]></summary>
-    </entry>
-        <entry>
-        <title>风骚律师第二集</title>
-        <id>171199</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-09-10-better-call-saul2.html?utm_source=blogfinder" />
-        <published>2026-09-10T20:55:20+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[风骚律师第二集]]></summary>
-    </entry>
-        <entry>
-        <title>Hexo NexT 静态资源本地自托管、KaTeX 公式渲染与移动端适配 | 排坑笔记 | 阿尔的代码屋</title>
-        <id>171112</id>
-        <link href="https://blog.algieba12.cn/record18-hexo-next-cdn-katex-mobile-optimization/?utm_source=blogfinder" />
-        <published>2026-09-10T20:38:00+08:00</published>
-        <author>
-            <name>阿尔的代码屋</name>
-            <uri>https://blog.algieba12.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[Hexo NexT 静态资源本地自托管、KaTeX 公式渲染与移动端适配 | 排坑笔记 | 阿尔的代码屋]]></summary>
-    </entry>
-        <entry>
-        <title>爹味人的自由</title>
-        <id>171110</id>
-        <link href="https://blog.solazy.me/20260910/?utm_source=blogfinder" />
-        <published>2026-09-10T20:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[爹味人的自由]]></summary>
-    </entry>
-        <entry>
-        <title>任性的孩子无奈的家长</title>
-        <id>171233</id>
-        <link href="https://www.pgoj.top/archives/hai-zi-ren-xing.html?utm_source=blogfinder" />
-        <published>2026-09-10T19:41:44+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[任性的孩子无奈的家长]]></summary>
-    </entry>
-        <entry>
-        <title>任性的孩子无奈的家长</title>
-        <id>171102</id>
-        <link href="https://www.pgoj.top/archives/hai-zi-ren-xing.html?utm_source=blogfinder" />
-        <published>2026-09-10T19:41:44+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[任性的孩子无奈的家长]]></summary>
-    </entry>
-        <entry>
-        <title>隐藏 Magento 网站的登录及购物车功能</title>
-        <id>171098</id>
-        <link href="https://www.sunzhongwei.com/hide-login-shopping-cart-functions-of-magento-website?utm_source=blogfinder" />
-        <published>2026-09-10T19:41:16+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[隐藏 Magento 网站的登录及购物车功能]]></summary>
-    </entry>
-        <entry>
-        <title>Qwen3-32B + vLLM 大模型服务部署与开发实战</title>
-        <id>171105</id>
-        <link href="https://blog.liuhangyv.top/archives/CtquUDLm?utm_source=blogfinder" />
-        <published>2026-09-10T19:08:21+08:00</published>
-        <author>
-            <name>Serendipity</name>
-            <uri>https://blog.liuhangyv.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Qwen3-32B + vLLM 大模型服务部署与开发实战]]></summary>
-    </entry>
-        <entry>
-        <title>Clodds：Claude 驱动的自托管 AI 交易终端，一个人也能撮合 10 个预测市场</title>
-        <id>171107</id>
-        <link href="http://blog.xlap.top/post/tech/2026-09-10/cloddsbot/?utm_source=blogfinder" />
-        <published>2026-09-10T19:05:00+08:00</published>
-        <author>
-            <name>XLapTop</name>
-            <uri>https://blog.xlap.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Clodds：Claude 驱动的自托管 AI 交易终端，一个人也能撮合 10 个预测市场]]></summary>
-    </entry>
-        <entry>
-        <title>AdsPower：多账号指纹浏览器，支持独立环境、代理IP、RPA和团队协作</title>
-        <id>171099</id>
-        <link href="https://www.wangdu.site/software/tools/2395.html?utm_source=blogfinder" />
-        <published>2026-09-10T18:11:10+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[AdsPower：多账号指纹浏览器，支持独立环境、代理IP、RPA和团队协作]]></summary>
-    </entry>
-        <entry>
-        <title>RoxyBrowser：多账号指纹浏览器，支持独立环境、代理IP和AI自动化</title>
-        <id>171100</id>
-        <link href="https://www.wangdu.site/software/tools/2394.html?utm_source=blogfinder" />
-        <published>2026-09-10T18:05:14+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[RoxyBrowser：多账号指纹浏览器，支持独立环境、代理IP和AI自动化]]></summary>
     </entry>
     </feed>
