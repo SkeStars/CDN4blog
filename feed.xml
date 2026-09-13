@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-13T13:06:16+08:00</updated>
+    <updated>2026-09-13T18:00:19+08:00</updated>
+        <entry>
+        <title>WorkBuddy 没给 Ubuntu/Fedora 留下载入口？官方的 deb 和 rpm 都找到了</title>
+        <id>171395</id>
+        <link href="https://xingwangzhe.fun/posts/workbuddy-linux-deb-rpm/?utm_source=blogfinder" />
+        <published>2026-09-13T16:30:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[WorkBuddy 没给 Ubuntu/Fedora 留下载入口？官方的 deb 和 rpm 都找到了]]></summary>
+    </entry>
+        <entry>
+        <title>治疗</title>
+        <id>171396</id>
+        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1218&amp;utm_source=blogfinder" />
+        <published>2026-09-13T15:37:35+08:00</published>
+        <author>
+            <name>徐建伟</name>
+            <uri>http://www.xulog.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[治疗]]></summary>
+    </entry>
+        <entry>
+        <title>程序员版的《悉达多》</title>
+        <id>171389</id>
+        <link href="https://bestcoder.cn/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%89%88%E7%9A%84%E6%82%89%E8%BE%BE%E5%A4%9A?utm_source=blogfinder" />
+        <published>2026-09-13T14:46:09+08:00</published>
+        <author>
+            <name>BestCoder</name>
+            <uri>https://bestcoder.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[程序员版的《悉达多》]]></summary>
+    </entry>
+        <entry>
+        <title>QQ 阅读的摸鱼模式，太逗了</title>
+        <id>171386</id>
+        <link href="https://siwei.li/qq-reading-word-mode/?utm_source=blogfinder" />
+        <published>2026-09-13T14:26:19+08:00</published>
+        <author>
+            <name>Siwei Li</name>
+            <uri>https://siwei.li</uri>
+        </author>
+        <summary type="text"><![CDATA[QQ 阅读的摸鱼模式，太逗了]]></summary>
+    </entry>
+        <entry>
+        <title>Toots 436 2026 Sep.6 - Sep.12</title>
+        <id>171391</id>
+        <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_202609012/?utm_source=blogfinder" />
+        <published>2026-09-13T12:22:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[Toots 436 2026 Sep.6 - Sep.12]]></summary>
+    </entry>
         <entry>
         <title>InfiniCLOUD注册下来了</title>
         <id>171382</id>
@@ -22,6 +77,39 @@
             <uri>https://blog.zero-soft.org</uri>
         </author>
         <summary type="text"><![CDATA[InfiniCLOUD注册下来了]]></summary>
+    </entry>
+        <entry>
+        <title>胡拉图的周刊-第二十一期</title>
+        <id>171387</id>
+        <link href="https://hulatu.com/posts/2026/09/13/newsletter-21/?utm_source=blogfinder" />
+        <published>2026-09-13T11:47:35+08:00</published>
+        <author>
+            <name>胡拉图说</name>
+            <uri>https://hulatu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[胡拉图的周刊-第二十一期]]></summary>
+    </entry>
+        <entry>
+        <title>GLM-5.3-Flash 可能比 DeepSeek-V4.1-Flash 还贵，价格表和实际场景不是一回事</title>
+        <id>171394</id>
+        <link href="https://www.tjsky.net/ai/1928?utm_source=blogfinder" />
+        <published>2026-09-13T11:36:34+08:00</published>
+        <author>
+            <name>秋风于渭水</name>
+            <uri>https://www.tjsky.net</uri>
+        </author>
+        <summary type="text"><![CDATA[GLM-5.3-Flash 可能比 DeepSeek-V4.1-Flash 还贵，价格表和实际场景不是一回事]]></summary>
+    </entry>
+        <entry>
+        <title>人工智能的意识算什么？</title>
+        <id>171390</id>
+        <link href="https://sliun.com/aithinkno/?utm_source=blogfinder" />
+        <published>2026-09-13T11:31:00+08:00</published>
+        <author>
+            <name>理论派</name>
+            <uri>https://sliun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[人工智能的意识算什么？]]></summary>
     </entry>
         <entry>
         <title>使用AI完成的一款网址导航程序</title>
@@ -68,6 +156,17 @@
         <summary type="text"><![CDATA[当社会时钟也存在手表定律]]></summary>
     </entry>
         <entry>
+        <title>为什么老阿姨喜欢我？</title>
+        <id>171388</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-09-13-why-old-grandma-likes-me.html?utm_source=blogfinder" />
+        <published>2026-09-13T09:20:23+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[为什么老阿姨喜欢我？]]></summary>
+    </entry>
+        <entry>
         <title>国区换港区实录：常用App对比 + 换区小记</title>
         <id>171378</id>
         <link href="https://sheep5.net/archives/14873/?utm_source=blogfinder" />
@@ -99,6 +198,17 @@
             <uri>https://immarcus.com</uri>
         </author>
         <summary type="text"><![CDATA[2026.09.13 博客阅读周荐 - JN]]></summary>
+    </entry>
+        <entry>
+        <title>一天原型，一周成品：开发 Lody iOS 实况</title>
+        <id>171393</id>
+        <link href="https://innei.in/posts/tech/lody-ios-prototype-to-product?utm_source=blogfinder" />
+        <published>2026-09-13T03:11:45+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[一天原型，一周成品：开发 Lody iOS 实况]]></summary>
     </entry>
         <entry>
         <title>Apple 地图独立多语言调整插件：MapsLingo 开发记录</title>
@@ -517,6 +627,17 @@
             <uri>https://sheep5.net</uri>
         </author>
         <summary type="text"><![CDATA[有趣的照片（1）]]></summary>
+    </entry>
+        <entry>
+        <title>记陈昊然讲的一段话</title>
+        <id>171392</id>
+        <link href="https://z.arlmy.me/posts/Note/Note_ChenHaoRan_AStory/?utm_source=blogfinder" />
+        <published>2026-09-12T09:00:46+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[记陈昊然讲的一段话]]></summary>
     </entry>
         <entry>
         <title>记刘昊然讲的一段话</title>
@@ -1408,137 +1529,5 @@
             <uri>https://www.wangdu.site</uri>
         </author>
         <summary type="text"><![CDATA[RoxyBrowser：多账号指纹浏览器，支持独立环境、代理IP和AI自动化]]></summary>
-    </entry>
-        <entry>
-        <title>2026.9.10</title>
-        <id>171097</id>
-        <link href="https://www.justzht.com/2026-9-10/?utm_source=blogfinder" />
-        <published>2026-09-10T17:13:53+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.9.10]]></summary>
-    </entry>
-        <entry>
-        <title>空梦Project 现在是 home.moeworld.top</title>
-        <id>171101</id>
-        <link href="https://blog.moeworld.tech/2026/09/10/%e7%a9%ba%e6%a2%a6project-%e7%8e%b0%e5%9c%a8%e6%98%af-home-moeworld-top/?utm_source=blogfinder" />
-        <published>2026-09-10T16:46:36+08:00</published>
-        <author>
-            <name>晓空 Blog</name>
-            <uri>https://blog.moeworld.tech</uri>
-        </author>
-        <summary type="text"><![CDATA[空梦Project 现在是 home.moeworld.top]]></summary>
-    </entry>
-        <entry>
-        <title>是时候认真讨论汽车的行人保护设计了</title>
-        <id>171203</id>
-        <link href="https://lawtee.com/article/pedestrian-protection-design/?utm_source=blogfinder" />
-        <published>2026-09-10T16:30:00+08:00</published>
-        <author>
-            <name>老 T 博客</name>
-            <uri>https://lawtee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[是时候认真讨论汽车的行人保护设计了]]></summary>
-    </entry>
-        <entry>
-        <title>随笔日记</title>
-        <id>171088</id>
-        <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1216&amp;utm_source=blogfinder" />
-        <published>2026-09-10T16:22:05+08:00</published>
-        <author>
-            <name>徐建伟</name>
-            <uri>http://www.xulog.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[随笔日记]]></summary>
-    </entry>
-        <entry>
-        <title>我把 Cockpit Tools 的 2 个 Codex 唤醒任务迁到了 VPS：关掉电脑也能自动运行</title>
-        <id>171085</id>
-        <link href="https://www.wangdu.site/course/2393.html?utm_source=blogfinder" />
-        <published>2026-09-10T16:17:29+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[我把 Cockpit Tools 的 2 个 Codex 唤醒任务迁到了 VPS：关掉电脑也能自动运行]]></summary>
-    </entry>
-        <entry>
-        <title>下午茶</title>
-        <id>171194</id>
-        <link href="https://shuiba.co/afternoon-tea?utm_source=blogfinder" />
-        <published>2026-09-10T15:27:00+08:00</published>
-        <author>
-            <name>水八口的冥想盆</name>
-            <uri>https://shuiba.co</uri>
-        </author>
-        <summary type="text"><![CDATA[下午茶]]></summary>
-    </entry>
-        <entry>
-        <title>待到秋来九月八，穿个短袖冻成虾</title>
-        <id>171080</id>
-        <link href="https://liuqingwushui.top/archives/194/?utm_source=blogfinder" />
-        <published>2026-09-10T15:11:47+08:00</published>
-        <author>
-            <name>流情的博客</name>
-            <uri>https://liuqingwushui.top</uri>
-        </author>
-        <summary type="text"><![CDATA[待到秋来九月八，穿个短袖冻成虾]]></summary>
-    </entry>
-        <entry>
-        <title>摘：《听客溪的朝圣》</title>
-        <id>171082</id>
-        <link href="https://z.arlmy.me/posts/Note/Note_AnnieDillard_PilgrimAtTinkerCreek/?utm_source=blogfinder" />
-        <published>2026-09-10T14:57:46+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[摘：《听客溪的朝圣》]]></summary>
-    </entry>
-        <entry>
-        <title>瞎搞</title>
-        <id>171092</id>
-        <link href="https://airy.ink/daily/473?utm_source=blogfinder" />
-        <published>2026-09-10T14:45:00+08:00</published>
-        <author>
-            <name>瓦匠小站</name>
-            <uri>https://airy.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[瞎搞]]></summary>
-    </entry>
-        <entry>
-        <title>碎碎谈 · 9月10日 09:55</title>
-        <id>171086</id>
-        <link href="https://www.tjsky.net/shuoshuo/nfwfprmsgcg6raymin6ref-3?utm_source=blogfinder" />
-        <published>2026-09-10T14:42:34+08:00</published>
-        <author>
-            <name>秋风于渭水</name>
-            <uri>https://www.tjsky.net</uri>
-        </author>
-        <summary type="text"><![CDATA[碎碎谈 · 9月10日 09:55]]></summary>
-    </entry>
-        <entry>
-        <title>摘：《怪女人和一座城》</title>
-        <id>171083</id>
-        <link href="https://z.arlmy.me/posts/Note/Note_VivianGornick_TheOddWomanAndTheCity/?utm_source=blogfinder" />
-        <published>2026-09-10T14:41:46+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[摘：《怪女人和一座城》]]></summary>
-    </entry>
-        <entry>
-        <title>摘：《荒野集》</title>
-        <id>171084</id>
-        <link href="https://z.arlmy.me/posts/Note/Note_RockwellKent_Wilderness/?utm_source=blogfinder" />
-        <published>2026-09-10T14:39:46+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[摘：《荒野集》]]></summary>
     </entry>
     </feed>
