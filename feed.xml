@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-15T23:00:24+08:00</updated>
+    <updated>2026-09-16T00:00:22+08:00</updated>
+        <entry>
+        <title>在一起600天 我们吵了一架</title>
+        <id>171715</id>
+        <link href="https://jyblog.com/5995/?utm_source=blogfinder" />
+        <published>2026-09-15T23:03:51+08:00</published>
+        <author>
+            <name>倦意博客</name>
+            <uri>https://jyblog.com</uri>
+        </author>
+        <summary type="text"><![CDATA[在一起600天 我们吵了一架]]></summary>
+    </entry>
+        <entry>
+        <title>敬畏之心</title>
+        <id>171716</id>
+        <link href="https://blog.solazy.me/20260915/?utm_source=blogfinder" />
+        <published>2026-09-15T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[敬畏之心]]></summary>
+    </entry>
+        <entry>
+        <title>Coffee Break Clojure, Vol.0</title>
+        <id>171714</id>
+        <link href="https://www.geedea.pro/article/tutorial-clj-0/?utm_source=blogfinder" />
+        <published>2026-09-15T22:58:43+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[Coffee Break Clojure, Vol.0]]></summary>
+    </entry>
+        <entry>
+        <title>逛论坛</title>
+        <id>171712</id>
+        <link href="https://ezo.biz/Diary/1673.html?utm_source=blogfinder" />
+        <published>2026-09-15T22:15:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[逛论坛]]></summary>
+    </entry>
         <entry>
         <title>煎熬</title>
         <id>171709</id>
@@ -66,6 +110,17 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[ServerMonitor插件更新：新增「水墨宣纸」样式、新增「面板默认形态」]]></summary>
+    </entry>
+        <entry>
+        <title>松声｜廿六年·九月中·正秋收</title>
+        <id>171713</id>
+        <link href="https://xyzbz.cn/archives/1570/?utm_source=blogfinder" />
+        <published>2026-09-15T16:17:00+08:00</published>
+        <author>
+            <name>网友小宋</name>
+            <uri>https://xyzbz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[松声｜廿六年·九月中·正秋收]]></summary>
     </entry>
         <entry>
         <title>足迹插件给自己埋了一个大坑</title>
@@ -1606,49 +1661,5 @@
             <uri>https://blog.cytrogen.icu</uri>
         </author>
         <summary type="text"><![CDATA[回一趟父母家：更好的搜索、困难模式、野生动物]]></summary>
-    </entry>
-        <entry>
-        <title>无用命途：自制三天王</title>
-        <id>171474</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1546/?utm_source=blogfinder" />
-        <published>2026-09-12T23:56:19+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[无用命途：自制三天王]]></summary>
-    </entry>
-        <entry>
-        <title>国内搜索引擎收录实战：百度与头条搜索接入、无备案验证绕行与自动化推送 - 独立博客 SEO 与 GEO 03 | 阿尔的代码屋</title>
-        <id>171383</id>
-        <link href="https://blog.algieba12.cn/geo03-baidu-search-console-verification-and-api-push/?utm_source=blogfinder" />
-        <published>2026-09-12T23:30:00+08:00</published>
-        <author>
-            <name>阿尔的代码屋</name>
-            <uri>https://blog.algieba12.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[国内搜索引擎收录实战：百度与头条搜索接入、无备案验证绕行与自动化推送 - 独立博客 SEO 与 GEO 03 | 阿尔的代码屋]]></summary>
-    </entry>
-        <entry>
-        <title>确认损失</title>
-        <id>171379</id>
-        <link href="https://ezo.biz/Diary/1664.html?utm_source=blogfinder" />
-        <published>2026-09-12T23:26:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[确认损失]]></summary>
-    </entry>
-        <entry>
-        <title>【也闲谈·第五季·第二回】梦想不是一枝你可以拥有的花</title>
-        <id>171366</id>
-        <link href="http://www.qncd.com/?p=13125&amp;utm_source=blogfinder" />
-        <published>2026-09-12T23:05:42+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【也闲谈·第五季·第二回】梦想不是一枝你可以拥有的花]]></summary>
     </entry>
     </feed>
