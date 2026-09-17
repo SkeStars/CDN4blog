@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-17T23:00:25+08:00</updated>
+    <updated>2026-09-18T00:01:52+08:00</updated>
         <entry>
         <title>Typecho插件LinkTarget：文章正文与摘要中的链接自动添加target=&amp;quot;_blank&amp;quot;属性</title>
         <id>171855</id>
@@ -33,6 +33,17 @@
             <uri>https://sheep5.net</uri>
         </author>
         <summary type="text"><![CDATA[大数据杀熟真可恶]]></summary>
+    </entry>
+        <entry>
+        <title>YuE2 全曲音乐生成模型本地部署与乐谱白盒实操 | 阿尔的代码屋</title>
+        <id>171862</id>
+        <link href="https://blog.algieba12.cn/yue2-local-deployment-and-practice/?utm_source=blogfinder" />
+        <published>2026-09-17T19:22:00+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[YuE2 全曲音乐生成模型本地部署与乐谱白盒实操 | 阿尔的代码屋]]></summary>
     </entry>
         <entry>
         <title>WordPress站点给三年没更新的niRvana主题升级到新版本，被要求WordPress至少升级到6.7</title>
@@ -253,6 +264,17 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[青春期的味道]]></summary>
+    </entry>
+        <entry>
+        <title>终端防御规避技术-2.函数挂钩DLL</title>
+        <id>171860</id>
+        <link href="https://min168.top/response/%E7%BB%88%E7%AB%AF%E9%98%B2%E5%BE%A1%E8%A7%84%E9%81%BF%E6%8A%80%E6%9C%AF-2.%E5%87%BD%E6%95%B0%E6%8C%82%E9%92%A9DLL.html?utm_source=blogfinder" />
+        <published>2026-09-16T23:55:58+08:00</published>
+        <author>
+            <name>卷卷</name>
+            <uri>https://min168.top</uri>
+        </author>
+        <summary type="text"><![CDATA[终端防御规避技术-2.函数挂钩DLL]]></summary>
     </entry>
         <entry>
         <title>多手</title>
@@ -1342,16 +1364,5 @@
             <uri>https://qianling.pw</uri>
         </author>
         <summary type="text"><![CDATA[反代「网易有道 LobsterAI」并实现自动签到获取额度]]></summary>
-    </entry>
-        <entry>
-        <title>死期</title>
-        <id>171682</id>
-        <link href="https://ezo.biz/Play_More/1669.html?utm_source=blogfinder" />
-        <published>2026-09-14T23:04:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[死期]]></summary>
     </entry>
     </feed>
