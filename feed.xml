@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-17T13:07:10+08:00</updated>
+    <updated>2026-09-17T18:00:42+08:00</updated>
+        <entry>
+        <title>AI 冲击的知识密集新时代</title>
+        <id>171851</id>
+        <link href="https://blog.liuhangyv.top/archives/wWzqbtP5?utm_source=blogfinder" />
+        <published>2026-09-17T16:56:40+08:00</published>
+        <author>
+            <name>Serendipity</name>
+            <uri>https://blog.liuhangyv.top</uri>
+        </author>
+        <summary type="text"><![CDATA[AI 冲击的知识密集新时代]]></summary>
+    </entry>
+        <entry>
+        <title>Typecho插件CopyDeletePost：后台文章列表添加复制文章、删除文章及附件的快捷操作</title>
+        <id>171850</id>
+        <link href="https://www.bufanz.com/20260917929.html?utm_source=blogfinder" />
+        <published>2026-09-17T15:59:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Typecho插件CopyDeletePost：后台文章列表添加复制文章、删除文章及附件的快捷操作]]></summary>
+    </entry>
+        <entry>
+        <title>RAG 是什么？从向量库到生产级知识问答</title>
+        <id>171846</id>
+        <link href="https://bestcoder.cn/rag-%E6%98%AF%E4%BB%80%E4%B9%88%E4%BB%8E%E5%90%91%E9%87%8F%E5%BA%93%E5%88%B0%E7%94%9F%E4%BA%A7%E7%BA%A7%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94?utm_source=blogfinder" />
+        <published>2026-09-17T15:37:17+08:00</published>
+        <author>
+            <name>BestCoder</name>
+            <uri>https://bestcoder.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[RAG 是什么？从向量库到生产级知识问答]]></summary>
+    </entry>
         <entry>
         <title>被迫给博客图片搬家：从 Gitee 到 Cloudflare R2</title>
         <id>171839</id>
@@ -55,6 +88,17 @@
             <uri>https://mobius.blog</uri>
         </author>
         <summary type="text"><![CDATA[这个世界暂时还不能没有照相馆]]></summary>
+    </entry>
+        <entry>
+        <title>十分感谢博友点评：博客互联㊿auiou.com自由勇 二十年博客的老程序员</title>
+        <id>171842</id>
+        <link href="http://www.auiou.com/relevant/00010007.jsp?utm_source=blogfinder" />
+        <published>2026-09-17T09:02:00+08:00</published>
+        <author>
+            <name>王志勇的 Blog</name>
+            <uri>http://www.auiou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[十分感谢博友点评：博客互联㊿auiou.com自由勇 二十年博客的老程序员]]></summary>
     </entry>
         <entry>
         <title>第三周刊_No.67｜从乔治·奥威尔的偷窃说起，聊聊历史上被隐身的女性</title>
@@ -112,6 +156,17 @@
         <summary type="text"><![CDATA[2026.9.16]]></summary>
     </entry>
         <entry>
+        <title>青春期的味道</title>
+        <id>171847</id>
+        <link href="https://d-d.design/single/20384?utm_source=blogfinder" />
+        <published>2026-09-17T05:19:16+08:00</published>
+        <author>
+            <name>孤斗</name>
+            <uri>https://d-d.design</uri>
+        </author>
+        <summary type="text"><![CDATA[青春期的味道]]></summary>
+    </entry>
+        <entry>
         <title>多手</title>
         <id>171834</id>
         <link href="https://ezo.biz/Coding/1676.html?utm_source=blogfinder" />
@@ -123,6 +178,17 @@
         <summary type="text"><![CDATA[多手]]></summary>
     </entry>
         <entry>
+        <title>流行的Agent代码编辑器</title>
+        <id>171841</id>
+        <link href="https://blog.share888.top/note/ai/ai/流行的Agent代码编辑器?utm_source=blogfinder" />
+        <published>2026-09-16T22:31:39+08:00</published>
+        <author>
+            <name>卡卡罗特</name>
+            <uri>https://blog.share888.top</uri>
+        </author>
+        <summary type="text"><![CDATA[流行的Agent代码编辑器]]></summary>
+    </entry>
+        <entry>
         <title>全国科普日</title>
         <id>171828</id>
         <link href="https://www.munue.com/national-science-day.html?utm_source=blogfinder" />
@@ -132,6 +198,17 @@
             <uri>https://www.munue.com</uri>
         </author>
         <summary type="text"><![CDATA[全国科普日]]></summary>
+    </entry>
+        <entry>
+        <title>用 Tamper-monkey 集成 Kagi Translate (2) - 結合 Zen 瀏覧器的分屏功能</title>
+        <id>171849</id>
+        <link href="https://taxodium.ink/integrate-kagi-translate-with-tampermonkey-2.html?utm_source=blogfinder" />
+        <published>2026-09-16T21:41:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[用 Tamper-monkey 集成 Kagi Translate (2) - 結合 Zen 瀏覧器的分屏功能]]></summary>
     </entry>
         <entry>
         <title>复阳的这些天</title>
@@ -253,6 +330,28 @@
             <uri>https://www.paddysun.top</uri>
         </author>
         <summary type="text"><![CDATA[网站防护架构图：四层防线与它们的静默失败]]></summary>
+    </entry>
+        <entry>
+        <title>概论</title>
+        <id>171844</id>
+        <link href="https://physnya.top/numerical-analysis/lesson-1-introduction/?utm_source=blogfinder" />
+        <published>2026-09-16T16:58:36+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[概论]]></summary>
+    </entry>
+        <entry>
+        <title>数值分析</title>
+        <id>171843</id>
+        <link href="https://physnya.top/numerical-analysis/?utm_source=blogfinder" />
+        <published>2026-09-16T16:58:36+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[数值分析]]></summary>
     </entry>
         <entry>
         <title>把跟了我四十多年的痣给切了</title>
@@ -440,6 +539,17 @@
             <uri>https://blog.onlycc.ltd</uri>
         </author>
         <summary type="text"><![CDATA[一个月 10 美元，把 27 个开源编程模型打包带走]]></summary>
+    </entry>
+        <entry>
+        <title>印度哲学的最高境界：如何证明你是你？</title>
+        <id>171848</id>
+        <link href="https://lawtee.com/article/india-logic/?utm_source=blogfinder" />
+        <published>2026-09-16T10:00:00+08:00</published>
+        <author>
+            <name>老 T 博客</name>
+            <uri>https://lawtee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[印度哲学的最高境界：如何证明你是你？]]></summary>
     </entry>
         <entry>
         <title>印度哲学的最高境界：如何证明你是你？</title>
@@ -1102,6 +1212,17 @@
         <summary type="text"><![CDATA[更新通知：《关于作者》页更新]]></summary>
     </entry>
         <entry>
+        <title>Introduction</title>
+        <id>171845</id>
+        <link href="https://physnya.top/compact-object/lesson-1-introduction/?utm_source=blogfinder" />
+        <published>2026-09-15T02:19:21+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Introduction]]></summary>
+    </entry>
+        <entry>
         <title>黑洞与致密天体</title>
         <id>171639</id>
         <link href="https://physnya.top/compact-object/?utm_source=blogfinder" />
@@ -1298,137 +1419,5 @@
             <uri>https://www.jfsay.com</uri>
         </author>
         <summary type="text"><![CDATA[读《半生缘》——张爱玲笔下的人性和世情]]></summary>
-    </entry>
-        <entry>
-        <title>普洱采菌：三筐菌子，敢下锅的没几样</title>
-        <id>171746</id>
-        <link href="https://macin.org/2026/09/14/pu-er-cai-jun-zi/?utm_source=blogfinder" />
-        <published>2026-09-14T17:52:54+08:00</published>
-        <author>
-            <name>Macin&#039;s Blog</name>
-            <uri>https://macin.org</uri>
-        </author>
-        <summary type="text"><![CDATA[普洱采菌：三筐菌子，敢下锅的没几样]]></summary>
-    </entry>
-        <entry>
-        <title>来，饮汤！</title>
-        <id>171692</id>
-        <link href="https://www.jackytong.com/blog/2557?utm_source=blogfinder" />
-        <published>2026-09-14T17:47:30+08:00</published>
-        <author>
-            <name>Jacky Tong</name>
-            <uri>https://www.jackytong.com</uri>
-        </author>
-        <summary type="text"><![CDATA[来，饮汤！]]></summary>
-    </entry>
-        <entry>
-        <title>解决 Hermes v0.21.x 中转站 403 blocked</title>
-        <id>171668</id>
-        <link href="https://qianling.pw/hermes-provider-403?utm_source=blogfinder" />
-        <published>2026-09-14T17:36:10+08:00</published>
-        <author>
-            <name>千灵</name>
-            <uri>https://qianling.pw</uri>
-        </author>
-        <summary type="text"><![CDATA[解决 Hermes v0.21.x 中转站 403 blocked]]></summary>
-    </entry>
-        <entry>
-        <title>网上买菜的方便，到底是真方便还是健康隐患</title>
-        <id>171542</id>
-        <link href="https://www.aiwazi.com/3439.html?utm_source=blogfinder" />
-        <published>2026-09-14T17:02:31+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[网上买菜的方便，到底是真方便还是健康隐患]]></summary>
-    </entry>
-        <entry>
-        <title>换个方式陪着你</title>
-        <id>171776</id>
-        <link href="https://www.mioxia.cn/archives/huan-ge-fang-shi-pei-zhao-ni?utm_source=blogfinder" />
-        <published>2026-09-14T16:59:43+08:00</published>
-        <author>
-            <name>弥暇小站</name>
-            <uri>https://www.mioxia.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[换个方式陪着你]]></summary>
-    </entry>
-        <entry>
-        <title>换个方式陪着你</title>
-        <id>171688</id>
-        <link href="https://www.oatse.com/archives/huan-ge-fang-shi-pei-zhao-ni?utm_source=blogfinder" />
-        <published>2026-09-14T16:59:43+08:00</published>
-        <author>
-            <name>弥暇小站</name>
-            <uri>https://www.mioxia.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[换个方式陪着你]]></summary>
-    </entry>
-        <entry>
-        <title>从Fedora40 升级到 Fedora44</title>
-        <id>171543</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-09-14-upgrade-fedora40-to-feodra44.html?utm_source=blogfinder" />
-        <published>2026-09-14T15:32:04+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[从Fedora40 升级到 Fedora44]]></summary>
-    </entry>
-        <entry>
-        <title>DIY(35-3)：6路×2 USB全自动电脑切换器</title>
-        <id>171672</id>
-        <link href="http://www.auiou.com/relevant/00002196.jsp?utm_source=blogfinder" />
-        <published>2026-09-14T15:23:00+08:00</published>
-        <author>
-            <name>王志勇的 Blog</name>
-            <uri>http://www.auiou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[DIY(35-3)：6路×2 USB全自动电脑切换器]]></summary>
-    </entry>
-        <entry>
-        <title>Introduction</title>
-        <id>171641</id>
-        <link href="https://physnya.top/astro-physics/lesson-1/?utm_source=blogfinder" />
-        <published>2026-09-14T14:52:02+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[Introduction]]></summary>
-    </entry>
-        <entry>
-        <title>天体物理</title>
-        <id>171640</id>
-        <link href="https://physnya.top/astro-physics/?utm_source=blogfinder" />
-        <published>2026-09-14T14:52:02+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[天体物理]]></summary>
-    </entry>
-        <entry>
-        <title>iCAN AI 无代码智能体挑战赛：一份参赛攻略，和三次踩坑记录</title>
-        <id>171540</id>
-        <link href="https://blog.liuhangyv.top/archives/R6HmPM3z?utm_source=blogfinder" />
-        <published>2026-09-14T14:38:32+08:00</published>
-        <author>
-            <name>Serendipity</name>
-            <uri>https://blog.liuhangyv.top</uri>
-        </author>
-        <summary type="text"><![CDATA[iCAN AI 无代码智能体挑战赛：一份参赛攻略，和三次踩坑记录]]></summary>
-    </entry>
-        <entry>
-        <title>颜体楷书写歪了</title>
-        <id>171535</id>
-        <link href="https://yufm.com/662371.html?utm_source=blogfinder" />
-        <published>2026-09-14T14:04:46+08:00</published>
-        <author>
-            <name>You &amp; FM</name>
-            <uri>https://yufm.com</uri>
-        </author>
-        <summary type="text"><![CDATA[颜体楷书写歪了]]></summary>
     </entry>
     </feed>
