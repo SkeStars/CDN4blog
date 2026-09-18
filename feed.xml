@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-18T22:00:31+08:00</updated>
+    <updated>2026-09-19T00:02:21+08:00</updated>
+        <entry>
+        <title>茅屋为秋风所破歌</title>
+        <id>171955</id>
+        <link href="https://1.122915.xyz/posts/%E8%8C%85%E5%B1%8B%E4%B8%BA%E7%A7%8B%E9%A3%8E%E6%89%80%E7%A0%B4%E6%AD%8C/?utm_source=blogfinder" />
+        <published>2026-09-18T23:34:41+08:00</published>
+        <author>
+            <name>风言风语</name>
+            <uri>https://1.122915.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[茅屋为秋风所破歌]]></summary>
+    </entry>
         <entry>
         <title>艾雪周刊 V.11—拖拽式UI设计项目与近期站点更新</title>
         <id>171949</id>
@@ -68,6 +79,17 @@
         <summary type="text"><![CDATA[当苍蝇尝试在蛋上钻缝：又谈站点垃圾广告]]></summary>
     </entry>
         <entry>
+        <title>2026-09-18 15:40</title>
+        <id>171953</id>
+        <link href="https://koobai.com/laodao/2026/09/20260918-154010/?utm_source=blogfinder" />
+        <published>2026-09-18T15:40:10+08:00</published>
+        <author>
+            <name>Koobai</name>
+            <uri>https://koobai.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-09-18 15:40]]></summary>
+    </entry>
+        <entry>
         <title>Caves of Qud 初体验</title>
         <id>171945</id>
         <link href="https://blog.codingnow.com/2026/09/caves_of_qud.html?utm_source=blogfinder" />
@@ -110,6 +132,17 @@
             <uri>https://chegva.com</uri>
         </author>
         <summary type="text"><![CDATA[达梦集群高可用连接配置]]></summary>
+    </entry>
+        <entry>
+        <title>铭记历史，勿忘九一八</title>
+        <id>171956</id>
+        <link href="https://molyun.com/posts/%E9%93%AD%E8%AE%B0%E5%8E%86%E5%8F%B2%E5%8B%BF%E5%BF%98%E4%B9%9D%E4%B8%80%E5%85%AB/?utm_source=blogfinder" />
+        <published>2026-09-18T13:55:00+08:00</published>
+        <author>
+            <name>阿伏伽德罗的云端</name>
+            <uri>https://molyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[铭记历史，勿忘九一八]]></summary>
     </entry>
         <entry>
         <title>DeepAgent：虚拟文件系统</title>
@@ -374,6 +407,17 @@
             <uri>https://chrison.cn</uri>
         </author>
         <summary type="text"><![CDATA[博客程序进化史:从 Typecho 到 Spring Boot,再到 Nuxt 4 全栈]]></summary>
+    </entry>
+        <entry>
+        <title>薅到近 1 亿 Token！用 ZCode 改造我的博客站点</title>
+        <id>171954</id>
+        <link href="https://blog.tibtob.cn/archives/126/?utm_source=blogfinder" />
+        <published>2026-09-17T22:15:00+08:00</published>
+        <author>
+            <name>拾音博客</name>
+            <uri>https://blog.tibtob.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[薅到近 1 亿 Token！用 ZCode 改造我的博客站点]]></summary>
     </entry>
         <entry>
         <title>例行检查身体</title>
@@ -1408,115 +1452,5 @@
             <uri>https://blog.cytrogen.icu</uri>
         </author>
         <summary type="text"><![CDATA[教小孩子的时候家长要闭嘴]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day477 街头美食斗士、宜家、手机掉进地铁门缝</title>
-        <id>171750</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_477/?utm_source=blogfinder" />
-        <published>2026-09-16T00:01:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day477 街头美食斗士、宜家、手机掉进地铁门缝]]></summary>
-    </entry>
-        <entry>
-        <title>游戏玩后感：拔作岛</title>
-        <id>171871</id>
-        <link href="https://vnyzm.top/html/%E6%B8%B8%E6%88%8F%E7%8E%A9%E5%90%8E%E6%84%9F%EF%BC%9A%E6%8B%94%E4%BD%9C%E5%B2%9B.html?utm_source=blogfinder" />
-        <published>2026-09-16T00:00:00+08:00</published>
-        <author>
-            <name>VnYzm 的博客</name>
-            <uri>https://vnyzm.top</uri>
-        </author>
-        <summary type="text"><![CDATA[游戏玩后感：拔作岛]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day476 框剪结构、逼单、商业模式</title>
-        <id>171751</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_476/?utm_source=blogfinder" />
-        <published>2026-09-15T23:59:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day476 框剪结构、逼单、商业模式]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day475 监理</title>
-        <id>171752</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_475/?utm_source=blogfinder" />
-        <published>2026-09-15T23:57:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day475 监理]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day474 蛮族人、迷住、生态位</title>
-        <id>171753</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_474/?utm_source=blogfinder" />
-        <published>2026-09-15T23:48:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day474 蛮族人、迷住、生态位]]></summary>
-    </entry>
-        <entry>
-        <title>在一起600天 我们吵了一架</title>
-        <id>171715</id>
-        <link href="https://jyblog.com/5995/?utm_source=blogfinder" />
-        <published>2026-09-15T23:03:51+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.com</uri>
-        </author>
-        <summary type="text"><![CDATA[在一起600天 我们吵了一架]]></summary>
-    </entry>
-        <entry>
-        <title>敬畏之心</title>
-        <id>171716</id>
-        <link href="https://blog.solazy.me/20260915/?utm_source=blogfinder" />
-        <published>2026-09-15T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[敬畏之心]]></summary>
-    </entry>
-        <entry>
-        <title>Coffee Break Clojure, Vol.0</title>
-        <id>171714</id>
-        <link href="https://www.geedea.pro/article/tutorial-clj-0/?utm_source=blogfinder" />
-        <published>2026-09-15T22:58:43+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[Coffee Break Clojure, Vol.0]]></summary>
-    </entry>
-        <entry>
-        <title>陪娃写作业，一个小学题 脑壳疼，用AI搞了一个 正方体展开图</title>
-        <id>171741</id>
-        <link href="https://www.renhuali.cn/journal/cmu2sn44l01ldchnmtvbse04l?utm_source=blogfinder" />
-        <published>2026-09-15T22:55:20+08:00</published>
-        <author>
-            <name>华立博客</name>
-            <uri>https://renhuali.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[陪娃写作业，一个小学题 脑壳疼，用AI搞了一个 正方体展开图]]></summary>
-    </entry>
-        <entry>
-        <title>逛论坛</title>
-        <id>171712</id>
-        <link href="https://ezo.biz/Diary/1673.html?utm_source=blogfinder" />
-        <published>2026-09-15T22:15:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[逛论坛]]></summary>
     </entry>
     </feed>
