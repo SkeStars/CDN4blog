@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-19T21:00:43+08:00</updated>
+    <updated>2026-09-20T00:01:55+08:00</updated>
+        <entry>
+        <title>信息安全无小事</title>
+        <id>172020</id>
+        <link href="https://yesreho.com/no-matter-concerning-information-security-is-trivial/?utm_source=blogfinder" />
+        <published>2026-09-19T23:07:12+08:00</published>
+        <author>
+            <name>LookLeap</name>
+            <uri>https://yesreho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[信息安全无小事]]></summary>
+    </entry>
+        <entry>
+        <title>外星人是不是拉稀的（下）？</title>
+        <id>172017</id>
+        <link href="https://sliun.com/etshit2/?utm_source=blogfinder" />
+        <published>2026-09-19T22:58:00+08:00</published>
+        <author>
+            <name>理论派</name>
+            <uri>https://sliun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[外星人是不是拉稀的（下）？]]></summary>
+    </entry>
+        <entry>
+        <title>准备连踩到国庆</title>
+        <id>172018</id>
+        <link href="https://ezo.biz/Diary/1683.html?utm_source=blogfinder" />
+        <published>2026-09-19T22:38:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[准备连踩到国庆]]></summary>
+    </entry>
+        <entry>
+        <title>【也闲谈·第五季·第三回】他们没有选择的权力，但你有</title>
+        <id>172015</id>
+        <link href="http://www.qncd.com/?p=13139&amp;utm_source=blogfinder" />
+        <published>2026-09-19T21:32:53+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【也闲谈·第五季·第三回】他们没有选择的权力，但你有]]></summary>
+    </entry>
+        <entry>
+        <title>镜头胶皮白化修复：我是这样处理的</title>
+        <id>172019</id>
+        <link href="https://wuminboke.site/uncategorized/lens-rubber-whitening-fix/?utm_source=blogfinder" />
+        <published>2026-09-19T20:16:17+08:00</published>
+        <author>
+            <name>无名博客</name>
+            <uri>https://wuminboke.site</uri>
+        </author>
+        <summary type="text"><![CDATA[镜头胶皮白化修复：我是这样处理的]]></summary>
+    </entry>
         <entry>
         <title>网站域名备案㉛备案被注销后的应急处理</title>
         <id>172006</id>
@@ -22,6 +77,17 @@
             <uri>https://www.xuguoping.net</uri>
         </author>
         <summary type="text"><![CDATA[网站域名备案㉛备案被注销后的应急处理]]></summary>
+    </entry>
+        <entry>
+        <title>从杭州法拍市场看二手房价格变动</title>
+        <id>172016</id>
+        <link href="https://jiangcl.com/5122?utm_source=blogfinder" />
+        <published>2026-09-19T17:24:31+08:00</published>
+        <author>
+            <name>蒙需</name>
+            <uri>https://jiangcl.com/</uri>
+        </author>
+        <summary type="text"><![CDATA[从杭州法拍市场看二手房价格变动]]></summary>
     </entry>
         <entry>
         <title>ZCode 静默上传事件技术复盘：一次仓库快照如何带走完整 Git 历史</title>
@@ -297,6 +363,17 @@
             <uri>https://1.122915.xyz</uri>
         </author>
         <summary type="text"><![CDATA[茅屋为秋风所破歌]]></summary>
+    </entry>
+        <entry>
+        <title>离职日流水账 0918</title>
+        <id>172021</id>
+        <link href="https://blog.solazy.me/20260918/?utm_source=blogfinder" />
+        <published>2026-09-18T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[离职日流水账 0918]]></summary>
     </entry>
         <entry>
         <title>艾雪周刊 V.11—拖拽式UI设计项目与近期站点更新</title>
@@ -1309,115 +1386,5 @@
             <uri>https://inkcodes.com</uri>
         </author>
         <summary type="text"><![CDATA[Afilmory-用阿里云OSS搭建原图私有化的静态画廊网站]]></summary>
-    </entry>
-        <entry>
-        <title>开源的终点是收费：MinIO 砍掉 WebUI，Mattermost 限制聊天数量</title>
-        <id>171863</id>
-        <link href="https://dusays.com/archives/888/?utm_source=blogfinder" />
-        <published>2026-09-17T00:00:00+08:00</published>
-        <author>
-            <name>杜老师说</name>
-            <uri>https://dusays.com</uri>
-        </author>
-        <summary type="text"><![CDATA[开源的终点是收费：MinIO 砍掉 WebUI，Mattermost 限制聊天数量]]></summary>
-    </entry>
-        <entry>
-        <title>终端防御规避技术-2.函数挂钩DLL</title>
-        <id>171860</id>
-        <link href="https://min168.top/response/%E7%BB%88%E7%AB%AF%E9%98%B2%E5%BE%A1%E8%A7%84%E9%81%BF%E6%8A%80%E6%9C%AF-2.%E5%87%BD%E6%95%B0%E6%8C%82%E9%92%A9DLL.html?utm_source=blogfinder" />
-        <published>2026-09-16T23:55:58+08:00</published>
-        <author>
-            <name>卷卷</name>
-            <uri>https://min168.top</uri>
-        </author>
-        <summary type="text"><![CDATA[终端防御规避技术-2.函数挂钩DLL]]></summary>
-    </entry>
-        <entry>
-        <title>多手</title>
-        <id>171834</id>
-        <link href="https://ezo.biz/Coding/1676.html?utm_source=blogfinder" />
-        <published>2026-09-16T23:54:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[多手]]></summary>
-    </entry>
-        <entry>
-        <title>AI真的会杀死人类吗？</title>
-        <id>171875</id>
-        <link href="https://blog.2broear.com/notes/16-09-2026_will-ai-kill-us-all?utm_source=blogfinder" />
-        <published>2026-09-16T23:02:10+08:00</published>
-        <author>
-            <name>2BROEAR</name>
-            <uri>https://blog.2broear.com</uri>
-        </author>
-        <summary type="text"><![CDATA[AI真的会杀死人类吗？]]></summary>
-    </entry>
-        <entry>
-        <title>流行的Agent代码编辑器</title>
-        <id>171841</id>
-        <link href="https://blog.share888.top/note/ai/ai/流行的Agent代码编辑器?utm_source=blogfinder" />
-        <published>2026-09-16T22:31:39+08:00</published>
-        <author>
-            <name>卡卡罗特</name>
-            <uri>https://blog.share888.top</uri>
-        </author>
-        <summary type="text"><![CDATA[流行的Agent代码编辑器]]></summary>
-    </entry>
-        <entry>
-        <title>全国科普日</title>
-        <id>171828</id>
-        <link href="https://www.munue.com/national-science-day.html?utm_source=blogfinder" />
-        <published>2026-09-16T22:11:20+08:00</published>
-        <author>
-            <name>随风沐虐</name>
-            <uri>https://www.munue.com</uri>
-        </author>
-        <summary type="text"><![CDATA[全国科普日]]></summary>
-    </entry>
-        <entry>
-        <title>用 Tamper-monkey 集成 Kagi Translate (2) - 結合 Zen 瀏覧器的分屏功能</title>
-        <id>171849</id>
-        <link href="https://taxodium.ink/integrate-kagi-translate-with-tampermonkey-2.html?utm_source=blogfinder" />
-        <published>2026-09-16T21:41:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[用 Tamper-monkey 集成 Kagi Translate (2) - 結合 Zen 瀏覧器的分屏功能]]></summary>
-    </entry>
-        <entry>
-        <title>复阳的这些天</title>
-        <id>171812</id>
-        <link href="https://hulatu.com/posts/2026/09/16/catch-covid-19-again/?utm_source=blogfinder" />
-        <published>2026-09-16T21:36:08+08:00</published>
-        <author>
-            <name>胡拉图说</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[复阳的这些天]]></summary>
-    </entry>
-        <entry>
-        <title>一篇17岁博主的公开绝交文，处处是漏洞</title>
-        <id>171814</id>
-        <link href="https://lcrworld.xyz/articles/71?utm_source=blogfinder" />
-        <published>2026-09-16T21:22:29+08:00</published>
-        <author>
-            <name>lcrworld&#039;s Blog</name>
-            <uri>http://lcrworld.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[一篇17岁博主的公开绝交文，处处是漏洞]]></summary>
-    </entry>
-        <entry>
-        <title>WordPress站点的服务器，重装系统、换运维面板、升级Web运行环境</title>
-        <id>171836</id>
-        <link href="https://www.bufanz.com/20260916922.html?utm_source=blogfinder" />
-        <published>2026-09-16T21:19:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[WordPress站点的服务器，重装系统、换运维面板、升级Web运行环境]]></summary>
     </entry>
     </feed>
