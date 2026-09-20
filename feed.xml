@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-20T22:00:37+08:00</updated>
+    <updated>2026-09-21T00:01:27+08:00</updated>
+        <entry>
+        <title>升级OC1.0.7失败</title>
+        <id>172139</id>
+        <link href="https://ezo.biz/Play_More/OC1-0-7.html?utm_source=blogfinder" />
+        <published>2026-09-20T22:39:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[升级OC1.0.7失败]]></summary>
+    </entry>
+        <entry>
+        <title>【小程序+插件】Blog Helper v2.0 —— 一键同步微信运动、设置心情状态、发布说说（Typecho / WordPress）</title>
+        <id>172140</id>
+        <link href="https://chrison.cn/work/520.html?utm_source=blogfinder" />
+        <published>2026-09-20T22:17:37+08:00</published>
+        <author>
+            <name>目的地</name>
+            <uri>https://chrison.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[【小程序+插件】Blog Helper v2.0 —— 一键同步微信运动、设置心情状态、发布说说（Typecho / WordPress）]]></summary>
+    </entry>
+        <entry>
+        <title>博客接入 Google AdSense：初体验并不好</title>
+        <id>172145</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1617/?utm_source=blogfinder" />
+        <published>2026-09-20T21:57:00+08:00</published>
+        <author>
+            <name>枫林灯语</name>
+            <uri>https://blog.mfwt.top</uri>
+        </author>
+        <summary type="text"><![CDATA[博客接入 Google AdSense：初体验并不好]]></summary>
+    </entry>
         <entry>
         <title>虚无</title>
         <id>172134</id>
@@ -35,6 +68,17 @@
         <summary type="text"><![CDATA[为文章编辑器增加了数学公式编辑器]]></summary>
     </entry>
         <entry>
+        <title>长安CS55再换两条东风轮胎</title>
+        <id>172138</id>
+        <link href="https://qfsyj.com/20260919-dongfeng.html?utm_source=blogfinder" />
+        <published>2026-09-20T19:34:00+08:00</published>
+        <author>
+            <name>不曾长大</name>
+            <uri>https://qfsyj.com</uri>
+        </author>
+        <summary type="text"><![CDATA[长安CS55再换两条东风轮胎]]></summary>
+    </entry>
+        <entry>
         <title>PSP用PS1《古惑狼赛车》国语配音版_游戏_下载</title>
         <id>172132</id>
         <link href="https://www.bat69.com/20260920/psp-crash-team-racing-mandarin-download.html?utm_source=blogfinder" />
@@ -44,6 +88,17 @@
             <uri>https://www.bat69.com</uri>
         </author>
         <summary type="text"><![CDATA[PSP用PS1《古惑狼赛车》国语配音版_游戏_下载]]></summary>
+    </entry>
+        <entry>
+        <title>Typecho中的Markdown语法大全</title>
+        <id>172142</id>
+        <link href="https://blog.tibtob.cn/archives/157/?utm_source=blogfinder" />
+        <published>2026-09-20T18:29:00+08:00</published>
+        <author>
+            <name>拾音博客</name>
+            <uri>https://blog.tibtob.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Typecho中的Markdown语法大全]]></summary>
     </entry>
         <entry>
         <title>网站域名趋势㉛把前11个月串成一张域名战略全景图</title>
@@ -123,6 +178,28 @@
         <summary type="text"><![CDATA[NixOS Is Not for Me Right Now]]></summary>
     </entry>
         <entry>
+        <title>博客文章音乐维护及记录</title>
+        <id>172141</id>
+        <link href="https://blog.1edg.cn/790?utm_source=blogfinder" />
+        <published>2026-09-20T15:44:00+08:00</published>
+        <author>
+            <name>小林先森</name>
+            <uri>https://blog.1edg.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[博客文章音乐维护及记录]]></summary>
+    </entry>
+        <entry>
+        <title>Windows 与 Mac 局域网 Parsec 远程串流与 Clash 分流配置指南 | 阿尔的代码屋</title>
+        <id>172146</id>
+        <link href="https://blog.algieba12.cn/parsec-lan-streaming-clash-override-guide/?utm_source=blogfinder" />
+        <published>2026-09-20T15:35:00+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Windows 与 Mac 局域网 Parsec 远程串流与 Clash 分流配置指南 | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
         <title>短暂尝试 NixOS，它不适合我</title>
         <id>172105</id>
         <link href="https://tianheg.co/posts/nixos-not-for-me-right-now/?utm_source=blogfinder" />
@@ -187,6 +264,17 @@
             <uri>https://sheep5.net</uri>
         </author>
         <summary type="text"><![CDATA[一杯一杯，喝到冰雪王]]></summary>
+    </entry>
+        <entry>
+        <title>苏学士文旅学会（虚构组织）徽章</title>
+        <id>172143</id>
+        <link href="http://stuit.cn/Xiaolu/Post/1649.html?utm_source=blogfinder" />
+        <published>2026-09-20T12:36:07+08:00</published>
+        <author>
+            <name>风雨行者</name>
+            <uri>http://stuit.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[苏学士文旅学会（虚构组织）徽章]]></summary>
     </entry>
         <entry>
         <title>呵护你</title>
@@ -517,6 +605,17 @@
             <uri>https://yesreho.com</uri>
         </author>
         <summary type="text"><![CDATA[信息安全无小事]]></summary>
+    </entry>
+        <entry>
+        <title>周末流水账 0919</title>
+        <id>172144</id>
+        <link href="https://blog.solazy.me/20260919/?utm_source=blogfinder" />
+        <published>2026-09-19T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[周末流水账 0919]]></summary>
     </entry>
         <entry>
         <title>外星人是不是拉稀的（下）？</title>
@@ -1540,71 +1639,5 @@
             <uri>https://www.david03.top</uri>
         </author>
         <summary type="text"><![CDATA[由南医大跳楼事件和各种事件引出的一些碎碎念]]></summary>
-    </entry>
-        <entry>
-        <title>允许自己错过</title>
-        <id>171957</id>
-        <link href="https://tumutanzi.com/archives/17641?utm_source=blogfinder" />
-        <published>2026-09-18T00:00:05+08:00</published>
-        <author>
-            <name>土木坛子</name>
-            <uri>https://tumutanzi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[允许自己错过]]></summary>
-    </entry>
-        <entry>
-        <title>不怯场</title>
-        <id>171922</id>
-        <link href="https://ezo.biz/Diary/1679.html?utm_source=blogfinder" />
-        <published>2026-09-17T23:17:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[不怯场]]></summary>
-    </entry>
-        <entry>
-        <title>四年前梦想的生活与现实的生活之书房篇（2026版）</title>
-        <id>171920</id>
-        <link href="https://www.ixiqin.com/2026/09/17/dream-life-and-real-life-in-the-study-2026-edition/?utm_source=blogfinder" />
-        <published>2026-09-17T23:14:22+08:00</published>
-        <author>
-            <name>西秦公子</name>
-            <uri>https://www.ixiqin.com</uri>
-        </author>
-        <summary type="text"><![CDATA[四年前梦想的生活与现实的生活之书房篇（2026版）]]></summary>
-    </entry>
-        <entry>
-        <title>Fake Work</title>
-        <id>171872</id>
-        <link href="https://lifelonglearn.ing/fake-work?utm_source=blogfinder" />
-        <published>2026-09-17T23:03:04+08:00</published>
-        <author>
-            <name>奶爸博客</name>
-            <uri>https://lifelonglearn.ing</uri>
-        </author>
-        <summary type="text"><![CDATA[Fake Work]]></summary>
-    </entry>
-        <entry>
-        <title>博客程序进化史:从 Typecho 到 Spring Boot,再到 Nuxt 4 全栈</title>
-        <id>171923</id>
-        <link href="https://chrison.cn/work/517.html?utm_source=blogfinder" />
-        <published>2026-09-17T22:29:23+08:00</published>
-        <author>
-            <name>目的地</name>
-            <uri>https://chrison.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[博客程序进化史:从 Typecho 到 Spring Boot,再到 Nuxt 4 全栈]]></summary>
-    </entry>
-        <entry>
-        <title>薅到近 1 亿 Token！用 ZCode 改造我的博客站点</title>
-        <id>171954</id>
-        <link href="https://blog.tibtob.cn/archives/126/?utm_source=blogfinder" />
-        <published>2026-09-17T22:15:00+08:00</published>
-        <author>
-            <name>拾音博客</name>
-            <uri>https://blog.tibtob.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[薅到近 1 亿 Token！用 ZCode 改造我的博客站点]]></summary>
     </entry>
     </feed>
