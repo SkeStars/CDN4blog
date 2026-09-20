@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-20T13:00:12+08:00</updated>
+    <updated>2026-09-20T17:00:22+08:00</updated>
+        <entry>
+        <title>短暂尝试 NixOS，它不适合我</title>
+        <id>172105</id>
+        <link href="https://tianheg.co/posts/nixos-not-for-me-right-now/?utm_source=blogfinder" />
+        <published>2026-09-20T15:35:00+08:00</published>
+        <author>
+            <name>一大加贝</name>
+            <uri>https://tianheg.co</uri>
+        </author>
+        <summary type="text"><![CDATA[短暂尝试 NixOS，它不适合我]]></summary>
+    </entry>
+        <entry>
+        <title>一碗粉，200块！</title>
+        <id>172104</id>
+        <link href="https://www.jackytong.com/blog/2559?utm_source=blogfinder" />
+        <published>2026-09-20T14:40:43+08:00</published>
+        <author>
+            <name>Jacky Tong</name>
+            <uri>https://www.jackytong.com</uri>
+        </author>
+        <summary type="text"><![CDATA[一碗粉，200块！]]></summary>
+    </entry>
         <entry>
         <title>一杯一杯，喝到冰雪王</title>
         <id>172102</id>
@@ -24,6 +46,17 @@
         <summary type="text"><![CDATA[一杯一杯，喝到冰雪王]]></summary>
     </entry>
         <entry>
+        <title>WSL2 镜像网络模式下跨网段局域网不可达与 TUN 路由冲突排查 | 阿尔的代码屋</title>
+        <id>172110</id>
+        <link href="https://blog.algieba12.cn/wsl2-mirrored-networking-cross-subnet-tun-route-conflict/?utm_source=blogfinder" />
+        <published>2026-09-20T12:22:00+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[WSL2 镜像网络模式下跨网段局域网不可达与 TUN 路由冲突排查 | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
         <title>盘点在中国好用的域名邮箱</title>
         <id>172103</id>
         <link href="https://sheep5.net/archives/46122/?utm_source=blogfinder" />
@@ -33,6 +66,17 @@
             <uri>https://sheep5.net</uri>
         </author>
         <summary type="text"><![CDATA[盘点在中国好用的域名邮箱]]></summary>
+    </entry>
+        <entry>
+        <title>欢乐与悲伤</title>
+        <id>172107</id>
+        <link href="https://chidd.net/2026/09/20/happy-sad.html?utm_source=blogfinder" />
+        <published>2026-09-20T11:03:15+08:00</published>
+        <author>
+            <name>伪医生律师的博客</name>
+            <uri>https://chidd.net</uri>
+        </author>
+        <summary type="text"><![CDATA[欢乐与悲伤]]></summary>
     </entry>
         <entry>
         <title>徒步巴南圣灯山和南岸大金鹰</title>
@@ -55,6 +99,28 @@
             <uri>https://hulatu.com</uri>
         </author>
         <summary type="text"><![CDATA[当我谈喜欢 or 讨厌的博客，我在谈些什么]]></summary>
+    </entry>
+        <entry>
+        <title>2026苏超收官｜1-3不敌常州，最让人失望的从来不是比分</title>
+        <id>172106</id>
+        <link href="https://www.zhounote.com/article/118?utm_source=blogfinder" />
+        <published>2026-09-20T10:10:00+08:00</published>
+        <author>
+            <name>Zhou’s Notes</name>
+            <uri>https://www.zhounote.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2026苏超收官｜1-3不敌常州，最让人失望的从来不是比分]]></summary>
+    </entry>
+        <entry>
+        <title>马耳他域名注册难度挺高</title>
+        <id>172109</id>
+        <link href="https://www.suo.ma/96/?utm_source=blogfinder" />
+        <published>2026-09-20T10:03:02+08:00</published>
+        <author>
+            <name>索玛</name>
+            <uri>https://www.suo.ma</uri>
+        </author>
+        <summary type="text"><![CDATA[马耳他域名注册难度挺高]]></summary>
     </entry>
         <entry>
         <title>幸福者退让论其实是内耗的始作俑者？</title>
@@ -187,6 +253,17 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[近两日在开发Typecho文章打赏插件，提前预告文章打赏插件特点功能演示]]></summary>
+    </entry>
+        <entry>
+        <title>毕业后遭遇的第一场失窃案件</title>
+        <id>172108</id>
+        <link href="https://blog.moeworld.tech/2026/09/19/%e6%af%95%e4%b8%9a%e5%90%8e%e9%81%ad%e9%81%87%e7%9a%84%e7%ac%ac%e4%b8%80%e5%9c%ba%e5%a4%b1%e7%aa%83%e6%a1%88%e4%bb%b6/?utm_source=blogfinder" />
+        <published>2026-09-19T23:13:18+08:00</published>
+        <author>
+            <name>晓空 Blog</name>
+            <uri>https://blog.moeworld.tech</uri>
+        </author>
+        <summary type="text"><![CDATA[毕业后遭遇的第一场失窃案件]]></summary>
     </entry>
         <entry>
         <title>信息安全无小事</title>
@@ -1419,71 +1496,5 @@
             <uri>https://www.munue.com</uri>
         </author>
         <summary type="text"><![CDATA[升级 Typecho 到最新版本 1.3.0，网站一切正常]]></summary>
-    </entry>
-        <entry>
-        <title>AI 冲击的知识密集新时代</title>
-        <id>171851</id>
-        <link href="https://blog.liuhangyv.top/archives/wWzqbtP5?utm_source=blogfinder" />
-        <published>2026-09-17T16:56:40+08:00</published>
-        <author>
-            <name>Serendipity</name>
-            <uri>https://blog.liuhangyv.top</uri>
-        </author>
-        <summary type="text"><![CDATA[AI 冲击的知识密集新时代]]></summary>
-    </entry>
-        <entry>
-        <title>用上了腾讯 EdgeOne 的全球加速免费套餐啦</title>
-        <id>171926</id>
-        <link href="https://www.aiwazi.com/3446.html?utm_source=blogfinder" />
-        <published>2026-09-17T16:08:03+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[用上了腾讯 EdgeOne 的全球加速免费套餐啦]]></summary>
-    </entry>
-        <entry>
-        <title>Typecho插件CopyDeletePost：后台文章列表添加复制文章、删除文章及附件的快捷操作</title>
-        <id>171850</id>
-        <link href="https://www.bufanz.com/20260917929.html?utm_source=blogfinder" />
-        <published>2026-09-17T15:59:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Typecho插件CopyDeletePost：后台文章列表添加复制文章、删除文章及附件的快捷操作]]></summary>
-    </entry>
-        <entry>
-        <title>RAG 是什么？从向量库到生产级知识问答</title>
-        <id>171846</id>
-        <link href="https://bestcoder.cn/rag-%E6%98%AF%E4%BB%80%E4%B9%88%E4%BB%8E%E5%90%91%E9%87%8F%E5%BA%93%E5%88%B0%E7%94%9F%E4%BA%A7%E7%BA%A7%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94?utm_source=blogfinder" />
-        <published>2026-09-17T15:37:17+08:00</published>
-        <author>
-            <name>BestCoder</name>
-            <uri>https://bestcoder.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[RAG 是什么？从向量库到生产级知识问答]]></summary>
-    </entry>
-        <entry>
-        <title>有感｜看完《功夫女足》，聊聊我的真实看法</title>
-        <id>171873</id>
-        <link href="https://www.zhounote.com/article/117?utm_source=blogfinder" />
-        <published>2026-09-17T15:10:00+08:00</published>
-        <author>
-            <name>Zhou’s Notes</name>
-            <uri>https://www.zhounote.com</uri>
-        </author>
-        <summary type="text"><![CDATA[有感｜看完《功夫女足》，聊聊我的真实看法]]></summary>
-    </entry>
-        <entry>
-        <title>古老的光明与黑暗之魂已经释放</title>
-        <id>171868</id>
-        <link href="https://cyrus19.cc/archives/2090?utm_source=blogfinder" />
-        <published>2026-09-17T14:08:32+08:00</published>
-        <author>
-            <name>CC 的数字花园</name>
-            <uri>https://cyrus19.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[古老的光明与黑暗之魂已经释放]]></summary>
     </entry>
     </feed>
