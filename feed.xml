@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-22T00:03:42+08:00</updated>
+    <updated>2026-09-22T04:03:14+08:00</updated>
+        <entry>
+        <title>熊本！</title>
+        <id>172205</id>
+        <link href="https://slykiten.com/life-note/%e7%86%8a%e6%9c%ac%ef%bc%81/?utm_source=blogfinder" />
+        <published>2026-09-21T23:11:41+08:00</published>
+        <author>
+            <name>狡猫三窝</name>
+            <uri>https://slykiten.com</uri>
+        </author>
+        <summary type="text"><![CDATA[熊本！]]></summary>
+    </entry>
+        <entry>
+        <title>设计啊！展 @ M+ 展览记录</title>
+        <id>172211</id>
+        <link href="https://imgradeone.com/posts/design-ah-hk?utm_source=blogfinder" />
+        <published>2026-09-21T21:56:00+08:00</published>
+        <author>
+            <name>the real imgradeone</name>
+            <uri>https://imgradeone.com</uri>
+        </author>
+        <summary type="text"><![CDATA[设计啊！展 @ M+ 展览记录]]></summary>
+    </entry>
+        <entry>
+        <title>累Ծ‸Ծ</title>
+        <id>172212</id>
+        <link href="https://www.biubiubiu.me/74.html?utm_source=blogfinder" />
+        <published>2026-09-21T21:42:00+08:00</published>
+        <author>
+            <name>落花雨记</name>
+            <uri>https://www.biubiubiu.me</uri>
+        </author>
+        <summary type="text"><![CDATA[累Ծ‸Ծ]]></summary>
+    </entry>
         <entry>
         <title>二手电子设备发货仓小程序开发，每台设备唯一编号</title>
         <id>172198</id>
@@ -68,6 +101,17 @@
         <summary type="text"><![CDATA[逆熵流形（6）]]></summary>
     </entry>
         <entry>
+        <title>ZCode 这件事，真正让我在意的不是「偷代码」三个字</title>
+        <id>172207</id>
+        <link href="https://www.xhhao.com/archives/12UoZ99S?utm_source=blogfinder" />
+        <published>2026-09-21T16:42:48+08:00</published>
+        <author>
+            <name>林间拾语</name>
+            <uri>https://www.xhhao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[ZCode 这件事，真正让我在意的不是「偷代码」三个字]]></summary>
+    </entry>
+        <entry>
         <title>南京大学邮箱第三方接入注意事项</title>
         <id>172183</id>
         <link href="https://loveapple.space/blog/nju-mail-imap/?utm_source=blogfinder" />
@@ -99,6 +143,17 @@
             <uri>https://blog.solazy.me</uri>
         </author>
         <summary type="text"><![CDATA[写在两份工作的 Gap 之时]]></summary>
+    </entry>
+        <entry>
+        <title>逆向某错题打印机，实现自定义内容流式打印</title>
+        <id>172208</id>
+        <link href="https://blog.liuzhen932.top/posts/poooli-protocol-reverse-engineering/?utm_source=blogfinder" />
+        <published>2026-09-21T12:35:49+08:00</published>
+        <author>
+            <name>liuzhen932 的小窝</name>
+            <uri>https://blog.liuzhen932.top</uri>
+        </author>
+        <summary type="text"><![CDATA[逆向某错题打印机，实现自定义内容流式打印]]></summary>
     </entry>
         <entry>
         <title>我们每个人都在演II</title>
@@ -737,6 +792,17 @@
             <uri>https://www.jackytong.com</uri>
         </author>
         <summary type="text"><![CDATA[一碗粉，200块！]]></summary>
+    </entry>
+        <entry>
+        <title>laya中文能力评测</title>
+        <id>172206</id>
+        <link href="https://blogs.kainy.cn/2026/09/laya%E4%B8%AD%E6%96%87%E8%83%BD%E5%8A%9B%E8%AF%84%E6%B5%8B/?utm_source=blogfinder" />
+        <published>2026-09-20T13:45:53+08:00</published>
+        <author>
+            <name>Kainy</name>
+            <uri>https://blogs.kainy.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[laya中文能力评测]]></summary>
     </entry>
         <entry>
         <title>继续熟悉中锋用笔的感觉</title>
@@ -1485,49 +1551,5 @@
             <uri>https://www.xuguoping.net</uri>
         </author>
         <summary type="text"><![CDATA[80后童年农事篇⑲守瓜]]></summary>
-    </entry>
-        <entry>
-        <title>Fragments 0x0008</title>
-        <id>172093</id>
-        <link href="https://lenciel.com/2026/09/fragments-0x0008/?utm_source=blogfinder" />
-        <published>2026-09-19T03:38:56+08:00</published>
-        <author>
-            <name>@Lenciel</name>
-            <uri>https://lenciel.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Fragments 0x0008]]></summary>
-    </entry>
-        <entry>
-        <title>Coffee Break Clojure, Vol.1</title>
-        <id>171986</id>
-        <link href="https://www.geedea.pro/article/tutorial-clj-1/?utm_source=blogfinder" />
-        <published>2026-09-19T01:45:49+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[Coffee Break Clojure, Vol.1]]></summary>
-    </entry>
-        <entry>
-        <title>博物馆见闻：中国美术馆《致敬巨匠》</title>
-        <id>171989</id>
-        <link href="https://me.xu19.com/museum-notes-national-art-museum-of-china-homage-to-the-virtuosos-from-leonardo-da-vinci-to-caravaggio/?utm_source=blogfinder" />
-        <published>2026-09-19T00:39:39+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[博物馆见闻：中国美术馆《致敬巨匠》]]></summary>
-    </entry>
-        <entry>
-        <title>取快递</title>
-        <id>171985</id>
-        <link href="http://etom.top/archives/so219.html?utm_source=blogfinder" />
-        <published>2026-09-19T00:33:47+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[取快递]]></summary>
     </entry>
     </feed>
