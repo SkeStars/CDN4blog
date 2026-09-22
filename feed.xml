@@ -11,7 +11,84 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-22T18:00:17+08:00</updated>
+    <updated>2026-09-22T23:01:11+08:00</updated>
+        <entry>
+        <title>飞书多维表格数据统计的 API 实现方案</title>
+        <id>172264</id>
+        <link href="https://www.sunzhongwei.com/api-implementation-scheme-multi-dimensional-table-data-statistics-feishu?utm_source=blogfinder" />
+        <published>2026-09-22T21:52:30+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[飞书多维表格数据统计的 API 实现方案]]></summary>
+    </entry>
+        <entry>
+        <title>文件系统 VS SQLite：谁更适合用作 KV Store</title>
+        <id>172269</id>
+        <link href="https://zeeko.dev/2026/09/%e6%96%87%e4%bb%b6%e7%b3%bb%e7%bb%9f-vs-sqlite%ef%bc%9a%e8%b0%81%e6%9b%b4%e9%80%82%e5%90%88%e7%94%a8%e4%bd%9c-kv-store/?utm_source=blogfinder" />
+        <published>2026-09-22T21:30:07+08:00</published>
+        <author>
+            <name>网上冲浪指南</name>
+            <uri>https://zeeko.dev</uri>
+        </author>
+        <summary type="text"><![CDATA[文件系统 VS SQLite：谁更适合用作 KV Store]]></summary>
+    </entry>
+        <entry>
+        <title>【低成本减肥进行时1】第一个月的小进展，蚂蚁阿福陪伴我瘦下来5kg</title>
+        <id>172266</id>
+        <link href="https://www.52txr.cn/2026/jianfei1month.html?utm_source=blogfinder" />
+        <published>2026-09-22T21:10:00+08:00</published>
+        <author>
+            <name>陶小桃</name>
+            <uri>https://www.52txr.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[【低成本减肥进行时1】第一个月的小进展，蚂蚁阿福陪伴我瘦下来5kg]]></summary>
+    </entry>
+        <entry>
+        <title>有些事情值得“期待”</title>
+        <id>172270</id>
+        <link href="https://99887766554433221100.cn/archives/202/?utm_source=blogfinder" />
+        <published>2026-09-22T20:28:00+08:00</published>
+        <author>
+            <name>南香香</name>
+            <uri>https://99887766554433221100.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[有些事情值得“期待”]]></summary>
+    </entry>
+        <entry>
+        <title>礼簿助手上线记录：我把小程序从 uniCloud 迁到了 FastAPI</title>
+        <id>172263</id>
+        <link href="https://www.ranjl.cn/web/articles/我把小程序从 uniCloud 迁到了 FastAPI?utm_source=blogfinder" />
+        <published>2026-09-22T20:16:13+08:00</published>
+        <author>
+            <name>冉江龙的个人空间</name>
+            <uri>https://www.ranjl.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[礼簿助手上线记录：我把小程序从 uniCloud 迁到了 FastAPI]]></summary>
+    </entry>
+        <entry>
+        <title>每到週末就要調時差</title>
+        <id>172268</id>
+        <link href="https://blog.giveanornot.com/renzo-in-taiwan/?utm_source=blogfinder" />
+        <published>2026-09-22T20:15:27+08:00</published>
+        <author>
+            <name>資工小廢物  - JN</name>
+            <uri>https://blog.giveanornot.com</uri>
+        </author>
+        <summary type="text"><![CDATA[每到週末就要調時差]]></summary>
+    </entry>
+        <entry>
+        <title>[語言進階]C3</title>
+        <id>172262</id>
+        <link href="https://samuflore.top/posts/f95facb6/?utm_source=blogfinder" />
+        <published>2026-09-22T16:52:06+08:00</published>
+        <author>
+            <name>SamuFlore</name>
+            <uri>https://samuflore.top</uri>
+        </author>
+        <summary type="text"><![CDATA[[語言進階]C3]]></summary>
+    </entry>
         <entry>
         <title>【读书记1721】薛兆丰《薛兆丰漫画经济学》</title>
         <id>172248</id>
@@ -22,6 +99,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1721】薛兆丰《薛兆丰漫画经济学》]]></summary>
+    </entry>
+        <entry>
+        <title>AI 写得越来越快，我却越来越看不完了</title>
+        <id>172267</id>
+        <link href="https://www.tortorse.com/archives/ai-writes-faster-than-i-can-read/?utm_source=blogfinder" />
+        <published>2026-09-22T14:21:15+08:00</published>
+        <author>
+            <name>愆伏</name>
+            <uri>https://www.tortorse.com</uri>
+        </author>
+        <summary type="text"><![CDATA[AI 写得越来越快，我却越来越看不完了]]></summary>
     </entry>
         <entry>
         <title>练字找不到感觉是常态，写本身更重要</title>
@@ -77,6 +165,17 @@
             <uri>http://www.xulog.cn</uri>
         </author>
         <summary type="text"><![CDATA[随笔日记]]></summary>
+    </entry>
+        <entry>
+        <title>停车后的几分钟</title>
+        <id>172260</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-09-22-time-after-parking.html?utm_source=blogfinder" />
+        <published>2026-09-22T12:37:55+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[停车后的几分钟]]></summary>
     </entry>
         <entry>
         <title>Typecho插件WebpConverter：上传图片转换WebP图片格式，支持等比缩放/文件大小比较/原图备份/添加文字水印图片水印</title>
@@ -211,6 +310,17 @@
         <summary type="text"><![CDATA[全国食品安全宣传周]]></summary>
     </entry>
         <entry>
+        <title>给固态硬盘更换纯铜散热片</title>
+        <id>172259</id>
+        <link href="https://www.gujishe.com/archives/83.html?utm_source=blogfinder" />
+        <published>2026-09-22T08:01:20+08:00</published>
+        <author>
+            <name>咕唧舍</name>
+            <uri>https://www.gujishe.com</uri>
+        </author>
+        <summary type="text"><![CDATA[给固态硬盘更换纯铜散热片]]></summary>
+    </entry>
+        <entry>
         <title>博客互联⑯nonedata.com无数 一个用期权和代码丈量世界的人</title>
         <id>172249</id>
         <link href="https://www.xuguoping.net/bokehulian/www_nonedata_com.html?utm_source=blogfinder" />
@@ -321,6 +431,17 @@
         <summary type="text"><![CDATA[旅顺万忠墓，永矢不忘]]></summary>
     </entry>
         <entry>
+        <title>号外：茉莉花没死</title>
+        <id>172261</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-09-22-jasmine-alive.html?utm_source=blogfinder" />
+        <published>2026-09-22T07:06:51+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[号外：茉莉花没死]]></summary>
+    </entry>
+        <entry>
         <title>80后童年年俗篇②杀年猪</title>
         <id>172258</id>
         <link href="https://www.xuguoping.net/shengyubasan/80hou_niansu_shanianzhu.html?utm_source=blogfinder" />
@@ -363,6 +484,17 @@
             <uri>https://wangxinyang.top</uri>
         </author>
         <summary type="text"><![CDATA[新手零门槛：GitHub 网页汉化 + Desktop 汉化极速上手指南]]></summary>
+    </entry>
+        <entry>
+        <title>Fragments 0x0010</title>
+        <id>172265</id>
+        <link href="https://lenciel.com/2026/09/fragments-0x0010/?utm_source=blogfinder" />
+        <published>2026-09-22T00:21:57+08:00</published>
+        <author>
+            <name>@Lenciel</name>
+            <uri>https://lenciel.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Fragments 0x0010]]></summary>
     </entry>
         <entry>
         <title>来自张家界的“秋日限定”盲盒</title>
@@ -418,6 +550,17 @@
             <uri>https://slykiten.com</uri>
         </author>
         <summary type="text"><![CDATA[熊本！]]></summary>
+    </entry>
+        <entry>
+        <title>给博客部署阿里云ESA，测速没能全绿是什么情况</title>
+        <id>172271</id>
+        <link href="https://blog.tibtob.cn/archives/158/?utm_source=blogfinder" />
+        <published>2026-09-21T22:34:00+08:00</published>
+        <author>
+            <name>拾音博客</name>
+            <uri>https://blog.tibtob.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[给博客部署阿里云ESA，测速没能全绿是什么情况]]></summary>
     </entry>
         <entry>
         <title>恒星的结构和演化</title>
@@ -1705,93 +1848,5 @@
             <uri>https://yesreho.com</uri>
         </author>
         <summary type="text"><![CDATA[信息安全无小事]]></summary>
-    </entry>
-        <entry>
-        <title>周末流水账 0919</title>
-        <id>172144</id>
-        <link href="https://blog.solazy.me/20260919/?utm_source=blogfinder" />
-        <published>2026-09-19T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[周末流水账 0919]]></summary>
-    </entry>
-        <entry>
-        <title>外星人是不是拉稀的（下）？</title>
-        <id>172017</id>
-        <link href="https://sliun.com/etshit2/?utm_source=blogfinder" />
-        <published>2026-09-19T22:58:00+08:00</published>
-        <author>
-            <name>理论派</name>
-            <uri>https://sliun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[外星人是不是拉稀的（下）？]]></summary>
-    </entry>
-        <entry>
-        <title>准备连踩到国庆</title>
-        <id>172018</id>
-        <link href="https://ezo.biz/Diary/1683.html?utm_source=blogfinder" />
-        <published>2026-09-19T22:38:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[准备连踩到国庆]]></summary>
-    </entry>
-        <entry>
-        <title>untitled-20260919</title>
-        <id>172094</id>
-        <link href="https://knay.net/note/untitled-20260919?utm_source=blogfinder" />
-        <published>2026-09-19T22:27:40+08:00</published>
-        <author>
-            <name>Yang&#039;s Blog</name>
-            <uri>https://knay.net</uri>
-        </author>
-        <summary type="text"><![CDATA[untitled-20260919]]></summary>
-    </entry>
-        <entry>
-        <title>【也闲谈·第五季·第三回】他们没有选择的权力，但你有</title>
-        <id>172015</id>
-        <link href="http://www.qncd.com/?p=13139&amp;utm_source=blogfinder" />
-        <published>2026-09-19T21:32:53+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【也闲谈·第五季·第三回】他们没有选择的权力，但你有]]></summary>
-    </entry>
-        <entry>
-        <title>我办了一张香港esim！</title>
-        <id>172100</id>
-        <link href="https://blog.koimst.cn/hk-esim/?utm_source=blogfinder" />
-        <published>2026-09-19T20:50:38+08:00</published>
-        <author>
-            <name>陵天の Blog</name>
-            <uri>https://blog.koimst.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[我办了一张香港esim！]]></summary>
-    </entry>
-        <entry>
-        <title>镜头胶皮白化修复：我是这样处理的</title>
-        <id>172019</id>
-        <link href="https://wuminboke.site/uncategorized/lens-rubber-whitening-fix/?utm_source=blogfinder" />
-        <published>2026-09-19T20:16:17+08:00</published>
-        <author>
-            <name>无名博客</name>
-            <uri>https://wuminboke.site</uri>
-        </author>
-        <summary type="text"><![CDATA[镜头胶皮白化修复：我是这样处理的]]></summary>
-    </entry>
-        <entry>
-        <title>GPT 6 省 token Tips</title>
-        <id>172022</id>
-        <link href="https://www.luozhiyun.com/archives/924?utm_source=blogfinder" />
-        <published>2026-09-19T18:10:59+08:00</published>
-        <author>
-            <name>luozhiyun`s Blog</name>
-            <uri>https://www.luozhiyun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[GPT 6 省 token Tips]]></summary>
     </entry>
     </feed>
