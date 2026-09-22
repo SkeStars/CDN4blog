@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-22T23:01:11+08:00</updated>
+    <updated>2026-09-23T00:02:19+08:00</updated>
+        <entry>
+        <title>Markdown 并不适合科学写作</title>
+        <id>172276</id>
+        <link href="https://dreams.plus/blog/2026/0006-markdown-ke-xue-xie-zuo-tong-dian-wen-ti?utm_source=blogfinder" />
+        <published>2026-09-22T22:53:33+08:00</published>
+        <author>
+            <name>Lex Blog</name>
+            <uri>https://dreams.plus</uri>
+        </author>
+        <summary type="text"><![CDATA[Markdown 并不适合科学写作]]></summary>
+    </entry>
+        <entry>
+        <title>入蜀记 day484 桂香入肺</title>
+        <id>172272</id>
+        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_484/?utm_source=blogfinder" />
+        <published>2026-09-22T21:55:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[入蜀记 day484 桂香入肺]]></summary>
+    </entry>
+        <entry>
+        <title>入蜀记 day483 真的能复现吗？</title>
+        <id>172273</id>
+        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_483/?utm_source=blogfinder" />
+        <published>2026-09-22T21:54:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[入蜀记 day483 真的能复现吗？]]></summary>
+    </entry>
         <entry>
         <title>飞书多维表格数据统计的 API 实现方案</title>
         <id>172264</id>
@@ -22,6 +55,28 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[飞书多维表格数据统计的 API 实现方案]]></summary>
+    </entry>
+        <entry>
+        <title>入蜀记 day482 听友聚会</title>
+        <id>172274</id>
+        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_482/?utm_source=blogfinder" />
+        <published>2026-09-22T21:51:27+08:00</published>
+        <author>
+            <name>素生</name>
+            <uri>https://z.arlmy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[入蜀记 day482 听友聚会]]></summary>
+    </entry>
+        <entry>
+        <title>电影枯竭</title>
+        <id>172275</id>
+        <link href="https://ezo.biz/movies/1689.html?utm_source=blogfinder" />
+        <published>2026-09-22T21:32:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[电影枯竭]]></summary>
     </entry>
         <entry>
         <title>文件系统 VS SQLite：谁更适合用作 KV Store</title>
@@ -1815,38 +1870,5 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[清理杂草]]></summary>
-    </entry>
-        <entry>
-        <title>近两日在开发Typecho文章打赏插件，提前预告文章打赏插件特点功能演示</title>
-        <id>172097</id>
-        <link href="https://www.bufanz.com/20260919939.html?utm_source=blogfinder" />
-        <published>2026-09-19T23:21:00+08:00</published>
-        <author>
-            <name>不凡博客</name>
-            <uri>https://www.bufanz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[近两日在开发Typecho文章打赏插件，提前预告文章打赏插件特点功能演示]]></summary>
-    </entry>
-        <entry>
-        <title>毕业后遭遇的第一场失窃案件</title>
-        <id>172108</id>
-        <link href="https://blog.moeworld.tech/2026/09/19/%e6%af%95%e4%b8%9a%e5%90%8e%e9%81%ad%e9%81%87%e7%9a%84%e7%ac%ac%e4%b8%80%e5%9c%ba%e5%a4%b1%e7%aa%83%e6%a1%88%e4%bb%b6/?utm_source=blogfinder" />
-        <published>2026-09-19T23:13:18+08:00</published>
-        <author>
-            <name>晓空 Blog</name>
-            <uri>https://blog.moeworld.tech</uri>
-        </author>
-        <summary type="text"><![CDATA[毕业后遭遇的第一场失窃案件]]></summary>
-    </entry>
-        <entry>
-        <title>信息安全无小事</title>
-        <id>172020</id>
-        <link href="https://yesreho.com/no-matter-concerning-information-security-is-trivial/?utm_source=blogfinder" />
-        <published>2026-09-19T23:07:12+08:00</published>
-        <author>
-            <name>LookLeap</name>
-            <uri>https://yesreho.com</uri>
-        </author>
-        <summary type="text"><![CDATA[信息安全无小事]]></summary>
     </entry>
     </feed>
