@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-23T23:05:11+08:00</updated>
+    <updated>2026-09-24T00:02:01+08:00</updated>
+        <entry>
+        <title>数风流人物，还看今朝</title>
+        <id>174244</id>
+        <link href="https://molyun.com/posts/%E6%95%B0%E9%A3%8E%E6%B5%81%E4%BA%BA%E7%89%A9%E8%BF%98%E7%9C%8B%E4%BB%8A%E6%9C%9D/?utm_source=blogfinder" />
+        <published>2026-09-23T23:40:00+08:00</published>
+        <author>
+            <name>阿伏伽德罗的云端</name>
+            <uri>https://molyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[数风流人物，还看今朝]]></summary>
+    </entry>
+        <entry>
+        <title>智力低就该去搞艺术</title>
+        <id>174243</id>
+        <link href="https://1.122915.xyz/posts/%E6%99%BA%E5%8A%9B%E4%BD%8E%E5%B0%B1%E8%AF%A5%E5%8E%BB%E6%90%9E%E8%89%BA%E6%9C%AF/?utm_source=blogfinder" />
+        <published>2026-09-23T21:58:35+08:00</published>
+        <author>
+            <name>风言风语</name>
+            <uri>https://1.122915.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[智力低就该去搞艺术]]></summary>
+    </entry>
         <entry>
         <title>二手电子设备发货仓小程序开发，上货管理支持分类</title>
         <id>174236</id>
@@ -35,6 +57,17 @@
         <summary type="text"><![CDATA[Jev 是谁带火的:System 1 决策模型考证与实测]]></summary>
     </entry>
         <entry>
+        <title>行者微评论228-某些领导的AI幻觉</title>
+        <id>174241</id>
+        <link href="http://stuit.cn/Xiaolu/Post/1537.html?utm_source=blogfinder" />
+        <published>2026-09-23T18:42:30+08:00</published>
+        <author>
+            <name>风雨行者</name>
+            <uri>http://stuit.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[行者微评论228-某些领导的AI幻觉]]></summary>
+    </entry>
+        <entry>
         <title>听说今年的中秋节，月亮十七才圆</title>
         <id>174240</id>
         <link href="https://www.lifd.site/2026/09/ting-shuo-jin-nian-de-zhong-qiu-jie-yue-liang-shi-qi-cai-yuan/?utm_source=blogfinder" />
@@ -44,6 +77,17 @@
             <uri>https://www.lifd.site</uri>
         </author>
         <summary type="text"><![CDATA[听说今年的中秋节，月亮十七才圆]]></summary>
+    </entry>
+        <entry>
+        <title>公告:密友请更新我的GPG时间</title>
+        <id>174242</id>
+        <link href="https://xingwangzhe.fun/posts/gpg-expiry-update-2027/?utm_source=blogfinder" />
+        <published>2026-09-23T17:29:18+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[公告:密友请更新我的GPG时间]]></summary>
     </entry>
         <entry>
         <title>《26年9月手账摘录》（2）</title>
@@ -1551,38 +1595,5 @@
             <uri>https://hisherry.com</uri>
         </author>
         <summary type="text"><![CDATA[碎碎念W38]]></summary>
-    </entry>
-        <entry>
-        <title>它五分钟挂出招聘启事，四个月后开除了第一个人</title>
-        <id>172190</id>
-        <link href="https://xilidou.com/2026/09/20/ai-store-hired-and-fired-humans/?utm_source=blogfinder" />
-        <published>2026-09-21T00:00:00+08:00</published>
-        <author>
-            <name>犀利豆的博客</name>
-            <uri>https://xilidou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[它五分钟挂出招聘启事，四个月后开除了第一个人]]></summary>
-    </entry>
-        <entry>
-        <title>水煮鱼的保研回忆录</title>
-        <id>172184</id>
-        <link href="https://loveapple.space/blog/postgraduate-recommendation/?utm_source=blogfinder" />
-        <published>2026-09-20T23:37:52+08:00</published>
-        <author>
-            <name>LoveApple14434</name>
-            <uri>https://loveapple.space/blog/</uri>
-        </author>
-        <summary type="text"><![CDATA[水煮鱼的保研回忆录]]></summary>
-    </entry>
-        <entry>
-        <title>因果结构模型简论</title>
-        <id>172170</id>
-        <link href="https://dreams.plus/blog/2026/0005-yin-guo-jie-gou-mo-xing-jian-lun?utm_source=blogfinder" />
-        <published>2026-09-20T23:05:13+08:00</published>
-        <author>
-            <name>Lex Blog</name>
-            <uri>https://dreams.plus</uri>
-        </author>
-        <summary type="text"><![CDATA[因果结构模型简论]]></summary>
     </entry>
     </feed>
