@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-26T22:00:32+08:00</updated>
+    <updated>2026-09-27T00:01:49+08:00</updated>
+        <entry>
+        <title>问题的生成（五）</title>
+        <id>175141</id>
+        <link href="https://sliun.com/problemmake5/?utm_source=blogfinder" />
+        <published>2026-09-26T22:25:00+08:00</published>
+        <author>
+            <name>理论派</name>
+            <uri>https://sliun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[问题的生成（五）]]></summary>
+    </entry>
         <entry>
         <title>Python 实现自动导出 MySQL 数据库，并保存到 Linode Bucket</title>
         <id>175137</id>
@@ -22,6 +33,17 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[Python 实现自动导出 MySQL 数据库，并保存到 Linode Bucket]]></summary>
+    </entry>
+        <entry>
+        <title>Coffee Break Clojure, Vol.3</title>
+        <id>175140</id>
+        <link href="https://www.geedea.pro/article/clj3/?utm_source=blogfinder" />
+        <published>2026-09-26T18:20:05+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[Coffee Break Clojure, Vol.3]]></summary>
     </entry>
         <entry>
         <title>天才只待两周：一次 AOCI 双臂对照实测</title>
@@ -99,6 +121,17 @@
             <uri>https://siwei.li</uri>
         </author>
         <summary type="text"><![CDATA[我把博客评论换成了 FastComments]]></summary>
+    </entry>
+        <entry>
+        <title>牛马随想</title>
+        <id>175142</id>
+        <link href="https://inkcodes.com/notes/13?utm_source=blogfinder" />
+        <published>2026-09-26T14:20:04+08:00</published>
+        <author>
+            <name>InkCodes</name>
+            <uri>https://inkcodes.com</uri>
+        </author>
+        <summary type="text"><![CDATA[牛马随想]]></summary>
     </entry>
         <entry>
         <title>站着写字，手还是很抖，需要继续练习</title>
@@ -286,6 +319,17 @@
             <uri>https://yyg.js.cool</uri>
         </author>
         <summary type="text"><![CDATA[游食记（二）]]></summary>
+    </entry>
+        <entry>
+        <title>分享一个用于QQ空间导出备份助手</title>
+        <id>175139</id>
+        <link href="https://www.51it.wang/ll/QQ-QZONE-EXPORT-BACKUP?utm_source=blogfinder" />
+        <published>2026-09-25T23:52:00+08:00</published>
+        <author>
+            <name>Lcry</name>
+            <uri>https://www.51it.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[分享一个用于QQ空间导出备份助手]]></summary>
     </entry>
         <entry>
         <title>可本地部署的AI大模型 Qwen-image 2.1 在家也能跑图</title>
@@ -1397,71 +1441,5 @@
             <uri>https://lenciel.com</uri>
         </author>
         <summary type="text"><![CDATA[Fragments 0x000B]]></summary>
-    </entry>
-        <entry>
-        <title>数风流人物，还看今朝</title>
-        <id>174244</id>
-        <link href="https://molyun.com/posts/%E6%95%B0%E9%A3%8E%E6%B5%81%E4%BA%BA%E7%89%A9%E8%BF%98%E7%9C%8B%E4%BB%8A%E6%9C%9D/?utm_source=blogfinder" />
-        <published>2026-09-23T23:40:00+08:00</published>
-        <author>
-            <name>阿伏伽德罗的云端</name>
-            <uri>https://molyun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[数风流人物，还看今朝]]></summary>
-    </entry>
-        <entry>
-        <title>markdown格式能对网站完成注入么？</title>
-        <id>174271</id>
-        <link href="https://jchen.fyi/life/21.html?utm_source=blogfinder" />
-        <published>2026-09-23T23:34:14+08:00</published>
-        <author>
-            <name>陈某人</name>
-            <uri>https://jchen.fyi</uri>
-        </author>
-        <summary type="text"><![CDATA[markdown格式能对网站完成注入么？]]></summary>
-    </entry>
-        <entry>
-        <title>雨后西安大明宫丹凤门，一览大唐遗风</title>
-        <id>174246</id>
-        <link href="https://www.liuzen.com/daminggate.html?utm_source=blogfinder" />
-        <published>2026-09-23T23:21:51+08:00</published>
-        <author>
-            <name>刘明禅</name>
-            <uri>https://www.liuzen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[雨后西安大明宫丹凤门，一览大唐遗风]]></summary>
-    </entry>
-        <entry>
-        <title>亲测Krikland柯克兰米诺地尔过期了结晶也能用</title>
-        <id>174247</id>
-        <link href="https://www.liuzen.com/krikland2026.html?utm_source=blogfinder" />
-        <published>2026-09-23T22:53:23+08:00</published>
-        <author>
-            <name>刘明禅</name>
-            <uri>https://www.liuzen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[亲测Krikland柯克兰米诺地尔过期了结晶也能用]]></summary>
-    </entry>
-        <entry>
-        <title>【乡下父母的人生课】14：没有容忍就没有自由</title>
-        <id>174257</id>
-        <link href="http://www.qncd.com/?p=13155&amp;utm_source=blogfinder" />
-        <published>2026-09-23T22:41:58+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【乡下父母的人生课】14：没有容忍就没有自由]]></summary>
-    </entry>
-        <entry>
-        <title>让 Agent 清理磁盘:工具选型、安全边界与实测结果</title>
-        <id>174252</id>
-        <link href="https://www.paddysun.top/archives/5313?utm_source=blogfinder" />
-        <published>2026-09-23T22:39:05+08:00</published>
-        <author>
-            <name>Under the Sun with Paddy</name>
-            <uri>https://www.paddysun.top</uri>
-        </author>
-        <summary type="text"><![CDATA[让 Agent 清理磁盘:工具选型、安全边界与实测结果]]></summary>
     </entry>
     </feed>
