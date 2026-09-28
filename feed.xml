@@ -11,7 +11,51 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-28T22:02:35+08:00</updated>
+    <updated>2026-09-29T04:03:01+08:00</updated>
+        <entry>
+        <title>我家猫叫西瓜</title>
+        <id>175375</id>
+        <link href="https://dusays.com/posts/890/?utm_source=blogfinder" />
+        <published>2026-09-29T00:00:00+08:00</published>
+        <author>
+            <name>杜老师说</name>
+            <uri>https://dusays.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我家猫叫西瓜]]></summary>
+    </entry>
+        <entry>
+        <title>电子工程师的收纳推荐</title>
+        <id>175374</id>
+        <link href="https://juhuayu.com/journal?article=9&amp;utm_source=blogfinder" />
+        <published>2026-09-28T22:18:09+08:00</published>
+        <author>
+            <name>juhua_yu</name>
+            <uri>https://juhuayu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[电子工程师的收纳推荐]]></summary>
+    </entry>
+        <entry>
+        <title>把本地 AI 英语学习项目部署到云服务器：我的 Docker 镜像与 1Panel 上线实录</title>
+        <id>175373</id>
+        <link href="https://blog.liuhangyv.top/archives/english-learning-agent-docker-1panel-deployment?utm_source=blogfinder" />
+        <published>2026-09-28T22:13:33+08:00</published>
+        <author>
+            <name>Serendipity</name>
+            <uri>https://blog.liuhangyv.top</uri>
+        </author>
+        <summary type="text"><![CDATA[把本地 AI 英语学习项目部署到云服务器：我的 Docker 镜像与 1Panel 上线实录]]></summary>
+    </entry>
+        <entry>
+        <title>友谊与提前告别</title>
+        <id>175389</id>
+        <link href="https://blog.grtsinry43.com/posts/friends-and-early-farewell?utm_source=blogfinder" />
+        <published>2026-09-28T21:40:56+08:00</published>
+        <author>
+            <name>Grtsinry43&#039;s Blog</name>
+            <uri>https://blog.grtsinry43.com</uri>
+        </author>
+        <summary type="text"><![CDATA[友谊与提前告别]]></summary>
+    </entry>
         <entry>
         <title>如何组织 MES 系统中上千个繁杂的功能</title>
         <id>175366</id>
@@ -22,6 +66,17 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[如何组织 MES 系统中上千个繁杂的功能]]></summary>
+    </entry>
+        <entry>
+        <title>电脑美图秀秀中如何给图片打马赛克</title>
+        <id>175372</id>
+        <link href="https://yesreho.com/applying-a-mosaic-effect-to-an-image-in-meitu-xiuxiu/?utm_source=blogfinder" />
+        <published>2026-09-28T20:55:43+08:00</published>
+        <author>
+            <name>LookLeap</name>
+            <uri>https://yesreho.com</uri>
+        </author>
+        <summary type="text"><![CDATA[电脑美图秀秀中如何给图片打马赛克]]></summary>
     </entry>
         <entry>
         <title>全球装得最多的10个AI Skills，出处都在这儿</title>
@@ -46,6 +101,17 @@
         <summary type="text"><![CDATA[⚡ 搜狗越用越卡之后，我把 Mac 输入法换成了这套开源方案]]></summary>
     </entry>
         <entry>
+        <title>用Codex开发的「速查油价」微信小程序，正式上线啦</title>
+        <id>175368</id>
+        <link href="https://blog.tibtob.cn/archives/164/?utm_source=blogfinder" />
+        <published>2026-09-28T18:17:00+08:00</published>
+        <author>
+            <name>拾音博客</name>
+            <uri>https://blog.tibtob.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[用Codex开发的「速查油价」微信小程序，正式上线啦]]></summary>
+    </entry>
+        <entry>
         <title>2026-09-28-学习问答</title>
         <id>175359</id>
         <link href="https://www.ranjl.cn/web/articles/2026-09-28-学习记录?utm_source=blogfinder" />
@@ -68,6 +134,28 @@
         <summary type="text"><![CDATA[写字的取势]]></summary>
     </entry>
         <entry>
+        <title>收到了来自知乎的邀请函</title>
+        <id>175370</id>
+        <link href="https://blog.moeworld.tech/2026/09/28/%e6%94%b6%e5%88%b0%e4%ba%86%e6%9d%a5%e8%87%aa%e7%9f%a5%e4%b9%8e%e7%9a%84%e9%82%80%e8%af%b7%e5%87%bd/?utm_source=blogfinder" />
+        <published>2026-09-28T17:45:00+08:00</published>
+        <author>
+            <name>晓空 Blog</name>
+            <uri>https://blog.moeworld.tech</uri>
+        </author>
+        <summary type="text"><![CDATA[收到了来自知乎的邀请函]]></summary>
+    </entry>
+        <entry>
+        <title>2026中秋节快乐</title>
+        <id>175371</id>
+        <link href="https://blog.moeworld.tech/2026/09/28/2026%e4%b8%ad%e7%a7%8b%e8%8a%82%e5%bf%ab%e4%b9%90/?utm_source=blogfinder" />
+        <published>2026-09-28T17:35:00+08:00</published>
+        <author>
+            <name>晓空 Blog</name>
+            <uri>https://blog.moeworld.tech</uri>
+        </author>
+        <summary type="text"><![CDATA[2026中秋节快乐]]></summary>
+    </entry>
+        <entry>
         <title>体验了一下华为官方换电池服务</title>
         <id>175331</id>
         <link href="https://www.iliu.org/posts/nova12-battery-replacement/?utm_source=blogfinder" />
@@ -77,6 +165,17 @@
             <uri>https://www.iliu.org</uri>
         </author>
         <summary type="text"><![CDATA[体验了一下华为官方换电池服务]]></summary>
+    </entry>
+        <entry>
+        <title>局外人、灵视与信噪比：当延迟满足成为一种人格</title>
+        <id>175369</id>
+        <link href="https://bestcoder.cn/outsider-insight-signal-noise-delayed-gratification?utm_source=blogfinder" />
+        <published>2026-09-28T16:04:46+08:00</published>
+        <author>
+            <name>BestCoder</name>
+            <uri>https://bestcoder.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[局外人、灵视与信噪比：当延迟满足成为一种人格]]></summary>
     </entry>
         <entry>
         <title>当 AI 提前知道答案：人类失去探索空间后，谁还有权改变世界？</title>
@@ -176,6 +275,28 @@
             <uri>https://koobai.com</uri>
         </author>
         <summary type="text"><![CDATA[2026-09-28 13:02]]></summary>
+    </entry>
+        <entry>
+        <title>香橙派 5 安装 lcd 屏幕记录</title>
+        <id>175391</id>
+        <link href="https://blog.mmoe.work/opi5-and-lcd/?utm_source=blogfinder" />
+        <published>2026-09-28T12:47:58+08:00</published>
+        <author>
+            <name>Adogecheems</name>
+            <uri>https://blog.mmoe.work</uri>
+        </author>
+        <summary type="text"><![CDATA[香橙派 5 安装 lcd 屏幕记录]]></summary>
+    </entry>
+        <entry>
+        <title>又给博客做了细微调整</title>
+        <id>175392</id>
+        <link href="https://blog.nastree.cn/post/toss202609281245?utm_source=blogfinder" />
+        <published>2026-09-28T12:45:00+08:00</published>
+        <author>
+            <name>那是树</name>
+            <uri>https://blog.nastree.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[又给博客做了细微调整]]></summary>
     </entry>
         <entry>
         <title>打呼噜</title>
@@ -308,6 +429,17 @@
             <uri>https://loveapple.space/blog/</uri>
         </author>
         <summary type="text"><![CDATA[保研博弈论：套磁、提前进组、OQ与“鸽”]]></summary>
+    </entry>
+        <entry>
+        <title>「普通朋友」的边界</title>
+        <id>175390</id>
+        <link href="https://lomus.cc/archives/834?utm_source=blogfinder" />
+        <published>2026-09-28T08:00:00+08:00</published>
+        <author>
+            <name>Lumos&#039;s Blog</name>
+            <uri>https://lomus.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[「普通朋友」的边界]]></summary>
     </entry>
         <entry>
         <title>范老师</title>
@@ -1036,6 +1168,17 @@
         <summary type="text"><![CDATA[参照物]]></summary>
     </entry>
         <entry>
+        <title>2026博客框架迁移</title>
+        <id>175376</id>
+        <link href="https://blog.fiveth.cc/posts/blog-renew/?utm_source=blogfinder" />
+        <published>2026-09-27T08:00:00+08:00</published>
+        <author>
+            <name>Fiveth</name>
+            <uri>https://blog.fiveth.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[2026博客框架迁移]]></summary>
+    </entry>
+        <entry>
         <title>每周互联网文章阅读2——Own the Slice</title>
         <id>175310</id>
         <link href="https://blog.sayori.org/posts/weakly-articles-02/?utm_source=blogfinder" />
@@ -1617,170 +1760,5 @@
             <uri>https://www.xuguoping.net</uri>
         </author>
         <summary type="text"><![CDATA[80后童年年俗篇⑥中秋]]></summary>
-    </entry>
-        <entry>
-        <title>CPU 曲线骗了我：一台 2 核 1.6 GiB 无 Swap 的阿里云服务器周期性卡死排障</title>
-        <id>175124</id>
-        <link href="https://blog.liuhangyv.top/archives/SbnjtSBS?utm_source=blogfinder" />
-        <published>2026-09-26T03:03:30+08:00</published>
-        <author>
-            <name>Serendipity</name>
-            <uri>https://blog.liuhangyv.top</uri>
-        </author>
-        <summary type="text"><![CDATA[CPU 曲线骗了我：一台 2 核 1.6 GiB 无 Swap 的阿里云服务器周期性卡死排障]]></summary>
-    </entry>
-        <entry>
-        <title>最近的主题更新：粉色毛玻璃和一些小修小补</title>
-        <id>175093</id>
-        <link href="https://koxiuqiu.cn/posts/36p2609251/?utm_source=blogfinder" />
-        <published>2026-09-26T03:00:00+08:00</published>
-        <author>
-            <name>朽丘秋雨</name>
-            <uri>https://koxiuqiu.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[最近的主题更新：粉色毛玻璃和一些小修小补]]></summary>
-    </entry>
-        <entry>
-        <title>水調歌頭·丙午中秋</title>
-        <id>175029</id>
-        <link href="https://taokeqing.com/s/articles/article.php?serial=2026-09-25-01&amp;utm_source=blogfinder" />
-        <published>2026-09-26T01:34:54+08:00</published>
-        <author>
-            <name>水雲鄉</name>
-            <uri>https://taokeqing.com</uri>
-        </author>
-        <summary type="text"><![CDATA[水調歌頭·丙午中秋]]></summary>
-    </entry>
-        <entry>
-        <title>日见</title>
-        <id>175120</id>
-        <link href="https://siwei.li/why-build-dayveil/?utm_source=blogfinder" />
-        <published>2026-09-26T00:13:52+08:00</published>
-        <author>
-            <name>Siwei Li</name>
-            <uri>https://siwei.li</uri>
-        </author>
-        <summary type="text"><![CDATA[日见]]></summary>
-    </entry>
-        <entry>
-        <title>游食记（一）</title>
-        <id>175032</id>
-        <link href="https://yyg.js.cool/yyg/6225a46f/?utm_source=blogfinder" />
-        <published>2026-09-25T23:55:30+08:00</published>
-        <author>
-            <name>云野阁</name>
-            <uri>https://yyg.js.cool</uri>
-        </author>
-        <summary type="text"><![CDATA[游食记（一）]]></summary>
-    </entry>
-        <entry>
-        <title>游食记（二）</title>
-        <id>175031</id>
-        <link href="https://yyg.js.cool/yyg/523348b7/?utm_source=blogfinder" />
-        <published>2026-09-25T23:55:30+08:00</published>
-        <author>
-            <name>云野阁</name>
-            <uri>https://yyg.js.cool</uri>
-        </author>
-        <summary type="text"><![CDATA[游食记（二）]]></summary>
-    </entry>
-        <entry>
-        <title>分享一个用于QQ空间导出备份助手</title>
-        <id>175139</id>
-        <link href="https://www.51it.wang/ll/QQ-QZONE-EXPORT-BACKUP?utm_source=blogfinder" />
-        <published>2026-09-25T23:52:00+08:00</published>
-        <author>
-            <name>Lcry</name>
-            <uri>https://www.51it.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[分享一个用于QQ空间导出备份助手]]></summary>
-    </entry>
-        <entry>
-        <title>可本地部署的AI大模型 Qwen-image 2.1 在家也能跑图</title>
-        <id>175017</id>
-        <link href="https://jyblog.com/6019/?utm_source=blogfinder" />
-        <published>2026-09-25T23:37:22+08:00</published>
-        <author>
-            <name>倦意博客</name>
-            <uri>https://jyblog.com</uri>
-        </author>
-        <summary type="text"><![CDATA[可本地部署的AI大模型 Qwen-image 2.1 在家也能跑图]]></summary>
-    </entry>
-        <entry>
-        <title>中秋小更新</title>
-        <id>175022</id>
-        <link href="https://bestcherish.com/9650.html?utm_source=blogfinder" />
-        <published>2026-09-25T23:30:06+08:00</published>
-        <author>
-            <name>灰常记忆</name>
-            <uri>https://bestcherish.com</uri>
-        </author>
-        <summary type="text"><![CDATA[中秋小更新]]></summary>
-    </entry>
-        <entry>
-        <title>古人诚不欺我！</title>
-        <id>175112</id>
-        <link href="https://ichov.com/blog/gurenchengbuqiwo.html?utm_source=blogfinder" />
-        <published>2026-09-25T23:05:54+08:00</published>
-        <author>
-            <name>江子渔</name>
-            <uri>https://ichov.com</uri>
-        </author>
-        <summary type="text"><![CDATA[古人诚不欺我！]]></summary>
-    </entry>
-        <entry>
-        <title>优化Afilmory相册嵌进Yohaku主题的显示效果和逻辑</title>
-        <id>175028</id>
-        <link href="https://inkcodes.com/posts/tech/optimize-afilmory-in-yohaku?utm_source=blogfinder" />
-        <published>2026-09-25T23:05:22+08:00</published>
-        <author>
-            <name>InkCodes</name>
-            <uri>https://inkcodes.com</uri>
-        </author>
-        <summary type="text"><![CDATA[优化Afilmory相册嵌进Yohaku主题的显示效果和逻辑]]></summary>
-    </entry>
-        <entry>
-        <title>青春 RK3588S 不会梦到声明式系统</title>
-        <id>175027</id>
-        <link href="https://blog.hpcesia.com/posts/nixos-on-rk3588s/?utm_source=blogfinder" />
-        <published>2026-09-25T23:00:00+08:00</published>
-        <author>
-            <name>Klapring</name>
-            <uri>https://blog.hpcesia.com</uri>
-        </author>
-        <summary type="text"><![CDATA[青春 RK3588S 不会梦到声明式系统]]></summary>
-    </entry>
-        <entry>
-        <title>中秋快乐</title>
-        <id>175018</id>
-        <link href="https://blog.solazy.me/20260925/?utm_source=blogfinder" />
-        <published>2026-09-25T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[中秋快乐]]></summary>
-    </entry>
-        <entry>
-        <title>中秋</title>
-        <id>175015</id>
-        <link href="https://ezo.biz/movies/1701.html?utm_source=blogfinder" />
-        <published>2026-09-25T22:25:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[中秋]]></summary>
-    </entry>
-        <entry>
-        <title>小米 18 Pro Max 16+1T 开箱</title>
-        <id>175026</id>
-        <link href="https://www.fghrsh.net/post/202.html?utm_source=blogfinder" />
-        <published>2026-09-25T22:04:32+08:00</published>
-        <author>
-            <name>FGHRSH 的博客</name>
-            <uri>https://www.fghrsh.net</uri>
-        </author>
-        <summary type="text"><![CDATA[小米 18 Pro Max 16+1T 开箱]]></summary>
     </entry>
     </feed>
