@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-29T21:00:54+08:00</updated>
+    <updated>2026-09-30T00:01:00+08:00</updated>
+        <entry>
+        <title>杂记（四）</title>
+        <id>175432</id>
+        <link href="https://blog.hpcesia.com/posts/essays-4/?utm_source=blogfinder" />
+        <published>2026-09-29T23:16:00+08:00</published>
+        <author>
+            <name>Klapring</name>
+            <uri>https://blog.hpcesia.com</uri>
+        </author>
+        <summary type="text"><![CDATA[杂记（四）]]></summary>
+    </entry>
+        <entry>
+        <title>Hermes微信失联处理</title>
+        <id>175431</id>
+        <link href="https://ezo.biz/Coding/Hermes.html?utm_source=blogfinder" />
+        <published>2026-09-29T23:11:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[Hermes微信失联处理]]></summary>
+    </entry>
+        <entry>
+        <title>让人运气变好的秘诀</title>
+        <id>175434</id>
+        <link href="https://blog.solazy.me/20260929/?utm_source=blogfinder" />
+        <published>2026-09-29T22:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[让人运气变好的秘诀]]></summary>
+    </entry>
+        <entry>
+        <title>Coffee Break Clojure, Vol.4</title>
+        <id>175430</id>
+        <link href="https://www.geedea.pro/article/clj4/?utm_source=blogfinder" />
+        <published>2026-09-29T21:42:08+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[Coffee Break Clojure, Vol.4]]></summary>
+    </entry>
+        <entry>
+        <title>优化NekoWebShow，提升桌面背景使用体验</title>
+        <id>175429</id>
+        <link href="https://www.nekopara.uk/archives/Enhence_NekoWebShow.html?utm_source=blogfinder" />
+        <published>2026-09-29T20:23:00+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[优化NekoWebShow，提升桌面背景使用体验]]></summary>
+    </entry>
         <entry>
         <title>Space Bunny 收费那天，我会不会迁回去</title>
         <id>175425</id>
@@ -33,6 +88,28 @@
             <uri>https://www.ranjl.cn</uri>
         </author>
         <summary type="text"><![CDATA[2026-09-29-学习问答]]></summary>
+    </entry>
+        <entry>
+        <title>【儿女记·对话录】谁教育正在教育孩子的教育者</title>
+        <id>175428</id>
+        <link href="http://www.qncd.com/?p=13167&amp;utm_source=blogfinder" />
+        <published>2026-09-29T16:08:30+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【儿女记·对话录】谁教育正在教育孩子的教育者]]></summary>
+    </entry>
+        <entry>
+        <title>AI做网站之r2share:文件分享站</title>
+        <id>175433</id>
+        <link href="https://wonse.info/r2share.html?utm_source=blogfinder" />
+        <published>2026-09-29T16:01:50+08:00</published>
+        <author>
+            <name>王鑫的小屋</name>
+            <uri>https://wonse.info</uri>
+        </author>
+        <summary type="text"><![CDATA[AI做网站之r2share:文件分享站]]></summary>
     </entry>
         <entry>
         <title>骑行，寻公园不遇</title>
@@ -88,6 +165,17 @@
             <uri>https://www.gujishe.com</uri>
         </author>
         <summary type="text"><![CDATA[被烟道反味困扰]]></summary>
+    </entry>
+        <entry>
+        <title>国庆准备爬峨眉山</title>
+        <id>175435</id>
+        <link href="https://ygz.ink/archives/5860.html?utm_source=blogfinder" />
+        <published>2026-09-29T11:06:47+08:00</published>
+        <author>
+            <name>宗宗酱</name>
+            <uri>https://ygz.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[国庆准备爬峨眉山]]></summary>
     </entry>
         <entry>
         <title>水枪、锥形桶与小组长</title>
@@ -1606,115 +1694,5 @@
             <uri>https://www.geedea.pro</uri>
         </author>
         <summary type="text"><![CDATA[是琐碎的小事让我活着]]></summary>
-    </entry>
-        <entry>
-        <title>一切皆插件：DeepSeek Harness</title>
-        <id>175274</id>
-        <link href="https://lucifer.ren/blog/2026/09/27/dsh/?utm_source=blogfinder" />
-        <published>2026-09-27T00:00:00+08:00</published>
-        <author>
-            <name>lucifer的网络博客</name>
-            <uri>https://lucifer.ren/blog/</uri>
-        </author>
-        <summary type="text"><![CDATA[一切皆插件：DeepSeek Harness]]></summary>
-    </entry>
-        <entry>
-        <title>吃饭</title>
-        <id>175223</id>
-        <link href="https://ezo.biz/Diary/1703.html?utm_source=blogfinder" />
-        <published>2026-09-26T23:06:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[吃饭]]></summary>
-    </entry>
-        <entry>
-        <title>没有一劳永逸的习惯</title>
-        <id>175271</id>
-        <link href="https://blog.solazy.me/20260926/?utm_source=blogfinder" />
-        <published>2026-09-26T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[没有一劳永逸的习惯]]></summary>
-    </entry>
-        <entry>
-        <title>博客主题开源了！</title>
-        <id>175257</id>
-        <link href="https://loneapex.cn/shuoshuo/%e5%8d%9a%e5%ae%a2%e4%b8%bb%e9%a2%98%e5%bc%80%e6%ba%90%e4%ba%86%ef%bc%81?utm_source=blogfinder" />
-        <published>2026-09-26T22:41:05+08:00</published>
-        <author>
-            <name>Mimosa 的小屋</name>
-            <uri>https://loneapex.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[博客主题开源了！]]></summary>
-    </entry>
-        <entry>
-        <title>问题的生成（五）</title>
-        <id>175141</id>
-        <link href="https://sliun.com/problemmake5/?utm_source=blogfinder" />
-        <published>2026-09-26T22:25:00+08:00</published>
-        <author>
-            <name>理论派</name>
-            <uri>https://sliun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[问题的生成（五）]]></summary>
-    </entry>
-        <entry>
-        <title>原来职场并不是我想的那样</title>
-        <id>175258</id>
-        <link href="https://imqi1.com/content/note/1024?utm_source=blogfinder" />
-        <published>2026-09-26T22:24:00+08:00</published>
-        <author>
-            <name>ImQi1</name>
-            <uri>https://imqi1.com</uri>
-        </author>
-        <summary type="text"><![CDATA[原来职场并不是我想的那样]]></summary>
-    </entry>
-        <entry>
-        <title>今夜月明人尽望</title>
-        <id>175219</id>
-        <link href="https://upxuu.com/posts/2026moon/?utm_source=blogfinder" />
-        <published>2026-09-26T22:18:05+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[今夜月明人尽望]]></summary>
-    </entry>
-        <entry>
-        <title>PSP用PS1《西游记》中文版-带攻略_游戏_下载[378M]</title>
-        <id>175224</id>
-        <link href="https://www.bat69.com/20260926/psp-journey-to-the-west-cn-download.html?utm_source=blogfinder" />
-        <published>2026-09-26T22:16:06+08:00</published>
-        <author>
-            <name>严重浪漫</name>
-            <uri>https://www.bat69.com</uri>
-        </author>
-        <summary type="text"><![CDATA[PSP用PS1《西游记》中文版-带攻略_游戏_下载[378M]]]></summary>
-    </entry>
-        <entry>
-        <title>江苏篇</title>
-        <id>175191</id>
-        <link href="https://www.chenxutalk.top/posts/life/travel/travel/jiangsu/?utm_source=blogfinder" />
-        <published>2026-09-26T21:56:10+08:00</published>
-        <author>
-            <name>chenxutalk</name>
-            <uri>https://www.chenxutalk.top</uri>
-        </author>
-        <summary type="text"><![CDATA[江苏篇]]></summary>
-    </entry>
-        <entry>
-        <title>Fragments 0x000C</title>
-        <id>175213</id>
-        <link href="https://lenciel.com/2026/09/fragments-0x000c/?utm_source=blogfinder" />
-        <published>2026-09-26T21:27:23+08:00</published>
-        <author>
-            <name>@Lenciel</name>
-            <uri>https://lenciel.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Fragments 0x000C]]></summary>
     </entry>
     </feed>
