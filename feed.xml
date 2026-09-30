@@ -11,7 +11,73 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-09-30T00:01:00+08:00</updated>
+    <updated>2026-09-30T13:00:47+08:00</updated>
+        <entry>
+        <title>DeepSeek Harness 出桌面版了，顺手把这几个月的更新捋一遍</title>
+        <id>175468</id>
+        <link href="https://blog.onlycc.ltd/archives/b8wcrXGA?utm_source=blogfinder" />
+        <published>2026-09-30T10:46:00+08:00</published>
+        <author>
+            <name>楠香自语</name>
+            <uri>https://blog.onlycc.ltd</uri>
+        </author>
+        <summary type="text"><![CDATA[DeepSeek Harness 出桌面版了，顺手把这几个月的更新捋一遍]]></summary>
+    </entry>
+        <entry>
+        <title>第五年 I</title>
+        <id>175465</id>
+        <link href="https://mobius.blog/25798.html?utm_source=blogfinder" />
+        <published>2026-09-30T09:30:00+08:00</published>
+        <author>
+            <name>莫比乌斯</name>
+            <uri>https://mobius.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[第五年 I]]></summary>
+    </entry>
+        <entry>
+        <title>📚 全家的记忆卡都同步到自己电脑，Anki 这条命令就够了</title>
+        <id>175459</id>
+        <link href="https://www.huluohu.com/posts/2111/?utm_source=blogfinder" />
+        <published>2026-09-30T08:30:00+08:00</published>
+        <author>
+            <name>胡萝虎的博客</name>
+            <uri>https://www.huluohu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[📚 全家的记忆卡都同步到自己电脑，Anki 这条命令就够了]]></summary>
+    </entry>
+        <entry>
+        <title>每日 AI 新闻简报（2026-09-30）</title>
+        <id>175458</id>
+        <link href="https://blog.aqcoder.cn/posts/1a41b013/?utm_source=blogfinder" />
+        <published>2026-09-30T08:30:00+08:00</published>
+        <author>
+            <name>枫叶</name>
+            <uri>https://blog.aqcoder.cn/</uri>
+        </author>
+        <summary type="text"><![CDATA[每日 AI 新闻简报（2026-09-30）]]></summary>
+    </entry>
+        <entry>
+        <title>写得出来，自己却未必做得到</title>
+        <id>175470</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-09-30-easy-said-than-done.html?utm_source=blogfinder" />
+        <published>2026-09-30T07:37:30+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[写得出来，自己却未必做得到]]></summary>
+    </entry>
+        <entry>
+        <title>把 Electron 更新做快：我在 OTA 上的几次推倒重来</title>
+        <id>175437</id>
+        <link href="https://innei.in/posts/tech/electron-ota-updater?utm_source=blogfinder" />
+        <published>2026-09-29T23:24:21+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[把 Electron 更新做快：我在 OTA 上的几次推倒重来]]></summary>
+    </entry>
         <entry>
         <title>杂记（四）</title>
         <id>175432</id>
@@ -33,6 +99,17 @@
             <uri>https://ezo.biz</uri>
         </author>
         <summary type="text"><![CDATA[Hermes微信失联处理]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1724】黄智海居士《阿弥陀经白话解释》</title>
+        <id>175457</id>
+        <link href="http://www.qncd.com/?p=13171&amp;utm_source=blogfinder" />
+        <published>2026-09-29T22:21:42+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1724】黄智海居士《阿弥陀经白话解释》]]></summary>
     </entry>
         <entry>
         <title>让人运气变好的秘诀</title>
@@ -57,6 +134,61 @@
         <summary type="text"><![CDATA[Coffee Break Clojure, Vol.4]]></summary>
     </entry>
         <entry>
+        <title>博客互联066-wyc.cc望云川 把生活碎知识码成文档库的理工男</title>
+        <id>175453</id>
+        <link href="https://www.xuguoping.net/bokehulian/www_wyc_cc.html?utm_source=blogfinder" />
+        <published>2026-09-29T21:16:29+08:00</published>
+        <author>
+            <name>徐果萍博客</name>
+            <uri>https://www.xuguoping.net</uri>
+        </author>
+        <summary type="text"><![CDATA[博客互联066-wyc.cc望云川 把生活碎知识码成文档库的理工男]]></summary>
+    </entry>
+        <entry>
+        <title>博客互联067-xiaohev.com小贺 边踩坑边分享的全栈前端小伙</title>
+        <id>175452</id>
+        <link href="https://www.xuguoping.net/bokehulian/www_xiaohev_com.html?utm_source=blogfinder" />
+        <published>2026-09-29T21:16:29+08:00</published>
+        <author>
+            <name>徐果萍博客</name>
+            <uri>https://www.xuguoping.net</uri>
+        </author>
+        <summary type="text"><![CDATA[博客互联067-xiaohev.com小贺 边踩坑边分享的全栈前端小伙]]></summary>
+    </entry>
+        <entry>
+        <title>博客互联068-blog.sdy666.icu思渡鸢的云栈 一个学生党用Valaxy搭的技术与读书小站</title>
+        <id>175451</id>
+        <link href="https://www.xuguoping.net/bokehulian/www_blog_sdy666_icu.html?utm_source=blogfinder" />
+        <published>2026-09-29T21:16:29+08:00</published>
+        <author>
+            <name>徐果萍博客</name>
+            <uri>https://www.xuguoping.net</uri>
+        </author>
+        <summary type="text"><![CDATA[博客互联068-blog.sdy666.icu思渡鸢的云栈 一个学生党用Valaxy搭的技术与读书小站]]></summary>
+    </entry>
+        <entry>
+        <title>博客互联069-blog.liseezn.topliseezn 高中生用WordPress写的技术教程与项目随笔</title>
+        <id>175450</id>
+        <link href="https://www.xuguoping.net/bokehulian/www_blog_liseezn_top.html?utm_source=blogfinder" />
+        <published>2026-09-29T21:16:29+08:00</published>
+        <author>
+            <name>徐果萍博客</name>
+            <uri>https://www.xuguoping.net</uri>
+        </author>
+        <summary type="text"><![CDATA[博客互联069-blog.liseezn.topliseezn 高中生用WordPress写的技术教程与项目随笔]]></summary>
+    </entry>
+        <entry>
+        <title>博客互联070-uevan.comEvandev 写 Typecho 与自建运维的折腾党</title>
+        <id>175449</id>
+        <link href="https://www.xuguoping.net/bokehulian/www_uevan_com.html?utm_source=blogfinder" />
+        <published>2026-09-29T21:16:29+08:00</published>
+        <author>
+            <name>徐果萍博客</name>
+            <uri>https://www.xuguoping.net</uri>
+        </author>
+        <summary type="text"><![CDATA[博客互联070-uevan.comEvandev 写 Typecho 与自建运维的折腾党]]></summary>
+    </entry>
+        <entry>
         <title>优化NekoWebShow，提升桌面背景使用体验</title>
         <id>175429</id>
         <link href="https://www.nekopara.uk/archives/Enhence_NekoWebShow.html?utm_source=blogfinder" />
@@ -66,6 +198,39 @@
             <uri>https://www.nekopara.uk</uri>
         </author>
         <summary type="text"><![CDATA[优化NekoWebShow，提升桌面背景使用体验]]></summary>
+    </entry>
+        <entry>
+        <title>写了个浏览器插件 Offer Hunter</title>
+        <id>175466</id>
+        <link href="https://imba97.com/post/818?utm_source=blogfinder" />
+        <published>2026-09-29T20:13:21+08:00</published>
+        <author>
+            <name>imba 久期</name>
+            <uri>https://imba97.com</uri>
+        </author>
+        <summary type="text"><![CDATA[写了个浏览器插件 Offer Hunter]]></summary>
+    </entry>
+        <entry>
+        <title>iOS 15 绕过汇丰香港 (HSBC HK) 强制更新</title>
+        <id>175454</id>
+        <link href="https://qianling.pw/hsbc-hk-force-update-bypass?utm_source=blogfinder" />
+        <published>2026-09-29T18:46:57+08:00</published>
+        <author>
+            <name>千灵</name>
+            <uri>https://qianling.pw</uri>
+        </author>
+        <summary type="text"><![CDATA[iOS 15 绕过汇丰香港 (HSBC HK) 强制更新]]></summary>
+    </entry>
+        <entry>
+        <title>痛苦可不可以用求不得来解释</title>
+        <id>175455</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-09-29-can-we-interpret-pain-with-unsatisfication.html?utm_source=blogfinder" />
+        <published>2026-09-29T18:06:36+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[痛苦可不可以用求不得来解释]]></summary>
     </entry>
         <entry>
         <title>Space Bunny 收费那天，我会不会迁回去</title>
@@ -79,6 +244,17 @@
         <summary type="text"><![CDATA[Space Bunny 收费那天，我会不会迁回去]]></summary>
     </entry>
         <entry>
+        <title>创赛PPT、PDF如何高清压缩？一文教你解决</title>
+        <id>175469</id>
+        <link href="https://wangxinyang.top/archives/chuang-sai-pptru-he-gao-qing-ya-suo-yi-wen-gao-su-ni-jie-jue?utm_source=blogfinder" />
+        <published>2026-09-29T17:11:10+08:00</published>
+        <author>
+            <name>Wangxinyang</name>
+            <uri>https://wangxinyang.top</uri>
+        </author>
+        <summary type="text"><![CDATA[创赛PPT、PDF如何高清压缩？一文教你解决]]></summary>
+    </entry>
+        <entry>
         <title>2026-09-29-学习问答</title>
         <id>175421</id>
         <link href="https://www.ranjl.cn/web/articles/2026-09-29-学习记录?utm_source=blogfinder" />
@@ -88,6 +264,17 @@
             <uri>https://www.ranjl.cn</uri>
         </author>
         <summary type="text"><![CDATA[2026-09-29-学习问答]]></summary>
+    </entry>
+        <entry>
+        <title>回忆偶记（忽然想起以前的人和事）【想起就更新..】</title>
+        <id>175448</id>
+        <link href="http://www.xrdsxj.com/logs/9?utm_source=blogfinder" />
+        <published>2026-09-29T16:54:00+08:00</published>
+        <author>
+            <name>若愚</name>
+            <uri>https://www.xrdsxj.com</uri>
+        </author>
+        <summary type="text"><![CDATA[回忆偶记（忽然想起以前的人和事）【想起就更新..】]]></summary>
     </entry>
         <entry>
         <title>【儿女记·对话录】谁教育正在教育孩子的教育者</title>
@@ -178,6 +365,17 @@
         <summary type="text"><![CDATA[国庆准备爬峨眉山]]></summary>
     </entry>
         <entry>
+        <title>【阅读笔记】Weighted Guided Image Filtering（WGIF）权重引导滤波</title>
+        <id>175467</id>
+        <link href="https://www.aomanhao.top/archives/456/?utm_source=blogfinder" />
+        <published>2026-09-29T10:08:00+08:00</published>
+        <author>
+            <name>AomanHao</name>
+            <uri>https://www.aomanhao.top</uri>
+        </author>
+        <summary type="text"><![CDATA[【阅读笔记】Weighted Guided Image Filtering（WGIF）权重引导滤波]]></summary>
+    </entry>
+        <entry>
         <title>水枪、锥形桶与小组长</title>
         <id>175409</id>
         <link href="https://mobius.blog/25795.html?utm_source=blogfinder" />
@@ -220,6 +418,61 @@
             <uri>https://blog.aqcoder.cn/</uri>
         </author>
         <summary type="text"><![CDATA[每日 AI 新闻简报（2026-09-29）]]></summary>
+    </entry>
+        <entry>
+        <title>山河锦绣，国泰民安</title>
+        <id>175464</id>
+        <link href="https://rainzt.cn/posts/national-day-2026/?utm_source=blogfinder" />
+        <published>2026-09-29T08:00:00+08:00</published>
+        <author>
+            <name>朝朝听雨</name>
+            <uri>https://rainzt.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[山河锦绣，国泰民安]]></summary>
+    </entry>
+        <entry>
+        <title>熬夜写论文</title>
+        <id>175461</id>
+        <link href="https://www.immarcus.com/blog/stay-up-writing-papers?utm_source=blogfinder" />
+        <published>2026-09-29T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[熬夜写论文]]></summary>
+    </entry>
+        <entry>
+        <title>不要怕不要慌，该来的总会到来</title>
+        <id>175460</id>
+        <link href="https://ddbzhou.com/post/buyaopagailaidezonghuilai/?utm_source=blogfinder" />
+        <published>2026-09-29T08:00:00+08:00</published>
+        <author>
+            <name>兜兜爸投资笔记</name>
+            <uri>https://ddbzhou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[不要怕不要慌，该来的总会到来]]></summary>
+    </entry>
+        <entry>
+        <title>929房地产新政来了，你怎么看？</title>
+        <id>175456</id>
+        <link href="https://joojen.com/p/929fangdichanxinzheng/?utm_source=blogfinder" />
+        <published>2026-09-29T08:00:00+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[929房地产新政来了，你怎么看？]]></summary>
+    </entry>
+        <entry>
+        <title>我的网络方案：2026 年的折腾记录</title>
+        <id>175436</id>
+        <link href="https://luolei.org/my-network-2026?utm_source=blogfinder" />
+        <published>2026-09-29T08:00:00+08:00</published>
+        <author>
+            <name>罗磊的独立博客</name>
+            <uri>https://luolei.org</uri>
+        </author>
+        <summary type="text"><![CDATA[我的网络方案：2026 年的折腾记录]]></summary>
     </entry>
         <entry>
         <title>AI邪修</title>
@@ -781,6 +1034,17 @@
             <uri>https://loveapple.space/blog/</uri>
         </author>
         <summary type="text"><![CDATA[保研博弈论：套磁、提前进组、OQ与“鸽”]]></summary>
+    </entry>
+        <entry>
+        <title>正宗美式英语</title>
+        <id>175462</id>
+        <link href="https://www.immarcus.com/blog/native-american-english?utm_source=blogfinder" />
+        <published>2026-09-28T08:00:00+08:00</published>
+        <author>
+            <name>Marcus Blog</name>
+            <uri>https://immarcus.com</uri>
+        </author>
+        <summary type="text"><![CDATA[正宗美式英语]]></summary>
     </entry>
         <entry>
         <title>月刊 · 第二期</title>
@@ -1419,280 +1683,5 @@
             <uri>https://detached.online</uri>
         </author>
         <summary type="text"><![CDATA[海外账号代购、代充网站归类]]></summary>
-    </entry>
-        <entry>
-        <title>水蒸蛋</title>
-        <id>175245</id>
-        <link href="https://taxodium.ink/recipe-shui-zheng-dan.html?utm_source=blogfinder" />
-        <published>2026-09-27T12:17:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[水蒸蛋]]></summary>
-    </entry>
-        <entry>
-        <title>2026云栖大会：AI多模态的演进</title>
-        <id>175278</id>
-        <link href="https://www.youdiandongxi.com/article/apsara-conference-2026.html?utm_source=blogfinder" />
-        <published>2026-09-27T11:29:52+08:00</published>
-        <author>
-            <name>有点东西</name>
-            <uri>https://www.youdiandongxi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026云栖大会：AI多模态的演进]]></summary>
-    </entry>
-        <entry>
-        <title>一些關於連結的建議</title>
-        <id>175246</id>
-        <link href="https://taxodium.ink/some-advice-about-links.html?utm_source=blogfinder" />
-        <published>2026-09-27T11:25:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[一些關於連結的建議]]></summary>
-    </entry>
-        <entry>
-        <title>写作能解决什么？</title>
-        <id>175313</id>
-        <link href="https://mobius.blog/25783.html?utm_source=blogfinder" />
-        <published>2026-09-27T11:09:28+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[写作能解决什么？]]></summary>
-    </entry>
-        <entry>
-        <title>刻薄的《我不喜欢刘欢》</title>
-        <id>175225</id>
-        <link href="https://www.pgoj.top/archives/ke-bo-bu-xihuan.html?utm_source=blogfinder" />
-        <published>2026-09-27T10:56:31+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[刻薄的《我不喜欢刘欢》]]></summary>
-    </entry>
-        <entry>
-        <title>本机安装PHP 8</title>
-        <id>175221</id>
-        <link href="http://www.auiou.com/relevant/00002203.jsp?utm_source=blogfinder" />
-        <published>2026-09-27T10:28:00+08:00</published>
-        <author>
-            <name>王志勇的 Blog</name>
-            <uri>http://www.auiou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[本机安装PHP 8]]></summary>
-    </entry>
-        <entry>
-        <title>胡拉图的周刊-第二十三期</title>
-        <id>175216</id>
-        <link href="https://hulatu.com/posts/2026/09/27/newsletter-23/?utm_source=blogfinder" />
-        <published>2026-09-27T10:11:26+08:00</published>
-        <author>
-            <name>胡拉图说</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[胡拉图的周刊-第二十三期]]></summary>
-    </entry>
-        <entry>
-        <title>连女孩的手都没碰过，我就失去青春了吗？——关于青春的一些看法</title>
-        <id>175238</id>
-        <link href="https://lcrworld.xyz/articles/74?utm_source=blogfinder" />
-        <published>2026-09-27T09:10:39+08:00</published>
-        <author>
-            <name>lcrworld&#039;s Blog</name>
-            <uri>http://lcrworld.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[连女孩的手都没碰过，我就失去青春了吗？——关于青春的一些看法]]></summary>
-    </entry>
-        <entry>
-        <title>九月小记：在嘈杂与如常之间</title>
-        <id>175215</id>
-        <link href="https://zhujay.com/blog/blog_detail.html?id=1280&amp;utm_source=blogfinder" />
-        <published>2026-09-27T08:32:44+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[九月小记：在嘈杂与如常之间]]></summary>
-    </entry>
-        <entry>
-        <title>🔐 ReMemory 把家里的文件拆成 5 份钥匙，凑够 3 人才打得开</title>
-        <id>175207</id>
-        <link href="https://www.huluohu.com/posts/2103/?utm_source=blogfinder" />
-        <published>2026-09-27T08:30:00+08:00</published>
-        <author>
-            <name>胡萝虎的博客</name>
-            <uri>https://www.huluohu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[🔐 ReMemory 把家里的文件拆成 5 份钥匙，凑够 3 人才打得开]]></summary>
-    </entry>
-        <entry>
-        <title>因为我余额要过期了免费给大家用longcat!</title>
-        <id>175218</id>
-        <link href="https://upxuu.com/posts/free-longcat/?utm_source=blogfinder" />
-        <published>2026-09-27T08:23:53+08:00</published>
-        <author>
-            <name>UpXuu&#039;s blog</name>
-            <uri>https://upxuu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[因为我余额要过期了免费给大家用longcat!]]></summary>
-    </entry>
-        <entry>
-        <title>每日 AI 新闻简报（2026-09-27）</title>
-        <id>175212</id>
-        <link href="https://blog.aqcoder.cn/posts/64f722b3/?utm_source=blogfinder" />
-        <published>2026-09-27T08:13:38+08:00</published>
-        <author>
-            <name>枫叶</name>
-            <uri>https://blog.aqcoder.cn/</uri>
-        </author>
-        <summary type="text"><![CDATA[每日 AI 新闻简报（2026-09-27）]]></summary>
-    </entry>
-        <entry>
-        <title>参照物</title>
-        <id>175220</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-09-27-reference.html?utm_source=blogfinder" />
-        <published>2026-09-27T08:04:18+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[参照物]]></summary>
-    </entry>
-        <entry>
-        <title>2026博客框架迁移</title>
-        <id>175376</id>
-        <link href="https://blog.fiveth.cc/posts/blog-renew/?utm_source=blogfinder" />
-        <published>2026-09-27T08:00:00+08:00</published>
-        <author>
-            <name>Fiveth</name>
-            <uri>https://blog.fiveth.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[2026博客框架迁移]]></summary>
-    </entry>
-        <entry>
-        <title>每周互联网文章阅读2——Own the Slice</title>
-        <id>175310</id>
-        <link href="https://blog.sayori.org/posts/weakly-articles-02/?utm_source=blogfinder" />
-        <published>2026-09-27T08:00:00+08:00</published>
-        <author>
-            <name>Amiya 的书桌</name>
-            <uri>https://blog.sayori.org</uri>
-        </author>
-        <summary type="text"><![CDATA[每周互联网文章阅读2——Own the Slice]]></summary>
-    </entry>
-        <entry>
-        <title>九月最后三天，不抱太大希望</title>
-        <id>175309</id>
-        <link href="https://ddbzhou.com/post/jiuyuezuihousantian/?utm_source=blogfinder" />
-        <published>2026-09-27T08:00:00+08:00</published>
-        <author>
-            <name>兜兜爸投资笔记</name>
-            <uri>https://ddbzhou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[九月最后三天，不抱太大希望]]></summary>
-    </entry>
-        <entry>
-        <title>考虑在家庭里复兴书面阅读</title>
-        <id>175305</id>
-        <link href="https://joojen.com/p/fuxingshumianyuedu/?utm_source=blogfinder" />
-        <published>2026-09-27T08:00:00+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[考虑在家庭里复兴书面阅读]]></summary>
-    </entry>
-        <entry>
-        <title>健康维护(2)：股骨头坏死有多接近？</title>
-        <id>175204</id>
-        <link href="http://www.auiou.com/relevant/00002202.jsp?utm_source=blogfinder" />
-        <published>2026-09-27T06:25:00+08:00</published>
-        <author>
-            <name>王志勇的 Blog</name>
-            <uri>http://www.auiou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[健康维护(2)：股骨头坏死有多接近？]]></summary>
-    </entry>
-        <entry>
-        <title>【铜雕技艺】浙江省杭州市国家级非遗名录|传统技艺</title>
-        <id>175361</id>
-        <link href="https://www.xuguoping.net/guojiajifeiyixiangmuminglu/tongdiaojiyi_guojiafeiyiminglv.html?utm_source=blogfinder" />
-        <published>2026-09-27T06:20:00+08:00</published>
-        <author>
-            <name>徐果萍博客</name>
-            <uri>https://www.xuguoping.net</uri>
-        </author>
-        <summary type="text"><![CDATA[【铜雕技艺】浙江省杭州市国家级非遗名录|传统技艺]]></summary>
-    </entry>
-        <entry>
-        <title>【钱王传说】浙江省杭州市临安区国家级非遗名录|民间文学</title>
-        <id>175362</id>
-        <link href="https://www.xuguoping.net/guojiajifeiyixiangmuminglu/qianwangchuanshuo_guojiafeiyiminglv.html?utm_source=blogfinder" />
-        <published>2026-09-27T06:15:00+08:00</published>
-        <author>
-            <name>徐果萍博客</name>
-            <uri>https://www.xuguoping.net</uri>
-        </author>
-        <summary type="text"><![CDATA[【钱王传说】浙江省杭州市临安区国家级非遗名录|民间文学]]></summary>
-    </entry>
-        <entry>
-        <title>【越窑青瓷烧制技艺】浙江省杭州市国家级非遗名录|传统技艺</title>
-        <id>175363</id>
-        <link href="https://www.xuguoping.net/guojiajifeiyixiangmuminglu/yueyaoqingcishaozhijiyi_guojiafeiyiminglv.html?utm_source=blogfinder" />
-        <published>2026-09-27T06:10:00+08:00</published>
-        <author>
-            <name>徐果萍博客</name>
-            <uri>https://www.xuguoping.net</uri>
-        </author>
-        <summary type="text"><![CDATA[【越窑青瓷烧制技艺】浙江省杭州市国家级非遗名录|传统技艺]]></summary>
-    </entry>
-        <entry>
-        <title>【绿茶制作技艺（西湖龙井）】浙江省杭州市国家级非遗名录|传统技艺</title>
-        <id>175364</id>
-        <link href="https://www.xuguoping.net/guojiajifeiyixiangmuminglu/lvchazhizuojiyixihulongjing_guojiafeiyiminglv.html?utm_source=blogfinder" />
-        <published>2026-09-27T06:05:00+08:00</published>
-        <author>
-            <name>徐果萍博客</name>
-            <uri>https://www.xuguoping.net</uri>
-        </author>
-        <summary type="text"><![CDATA[【绿茶制作技艺（西湖龙井）】浙江省杭州市国家级非遗名录|传统技艺]]></summary>
-    </entry>
-        <entry>
-        <title>【伞制作技艺（西湖绸伞）】浙江省杭州市国家级非遗名录|传统技艺</title>
-        <id>175365</id>
-        <link href="https://www.xuguoping.net/guojiajifeiyixiangmuminglu/sanzhizuojiyixihuchousan_guojiafeiyiminglv.html?utm_source=blogfinder" />
-        <published>2026-09-27T06:00:00+08:00</published>
-        <author>
-            <name>徐果萍博客</name>
-            <uri>https://www.xuguoping.net</uri>
-        </author>
-        <summary type="text"><![CDATA[【伞制作技艺（西湖绸伞）】浙江省杭州市国家级非遗名录|传统技艺]]></summary>
-    </entry>
-        <entry>
-        <title>但少闲人耳</title>
-        <id>175199</id>
-        <link href="https://nocoding.life/archives/idle-men-like-us?utm_source=blogfinder" />
-        <published>2026-09-27T02:15:00+08:00</published>
-        <author>
-            <name>No Coding Life</name>
-            <uri>https://nocoding.life</uri>
-        </author>
-        <summary type="text"><![CDATA[但少闲人耳]]></summary>
-    </entry>
-        <entry>
-        <title>是琐碎的小事让我活着</title>
-        <id>175208</id>
-        <link href="https://www.geedea.pro/article/little-things/?utm_source=blogfinder" />
-        <published>2026-09-27T01:18:41+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[是琐碎的小事让我活着]]></summary>
     </entry>
     </feed>
