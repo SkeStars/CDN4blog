@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-10-04T00:00:32+08:00</updated>
+    <updated>2026-10-04T04:03:33+08:00</updated>
         <entry>
         <title>精神内耗</title>
         <id>175623</id>
@@ -22,6 +22,17 @@
             <uri>https://ezo.biz</uri>
         </author>
         <summary type="text"><![CDATA[精神内耗]]></summary>
+    </entry>
+        <entry>
+        <title>二十多天没发博客了</title>
+        <id>175626</id>
+        <link href="https://cavill.site/articles/september-away?utm_source=blogfinder" />
+        <published>2026-10-03T23:04:55+08:00</published>
+        <author>
+            <name>栖迟处</name>
+            <uri>https://cavill.site</uri>
+        </author>
+        <summary type="text"><![CDATA[二十多天没发博客了]]></summary>
     </entry>
         <entry>
         <title>一个关于中长跑的呼吸技巧</title>
@@ -167,6 +178,17 @@
         <summary type="text"><![CDATA[中秋国庆双节快乐]]></summary>
     </entry>
         <entry>
+        <title>2026.05.23三刷黄金寨</title>
+        <id>175625</id>
+        <link href="https://xsmy.wang/1454.html?utm_source=blogfinder" />
+        <published>2026-10-03T13:25:14+08:00</published>
+        <author>
+            <name>相思明月</name>
+            <uri>https://xsmy.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[2026.05.23三刷黄金寨]]></summary>
+    </entry>
+        <entry>
         <title>一周年啦！</title>
         <id>175619</id>
         <link href="https://www.biubiubiu.me/76.html?utm_source=blogfinder" />
@@ -220,6 +242,17 @@
             <uri>https://blog.aqcoder.cn/</uri>
         </author>
         <summary type="text"><![CDATA[每日 AI 新闻简报（2026-10-03）]]></summary>
+    </entry>
+        <entry>
+        <title>我的Markdown解析器说明书</title>
+        <id>175627</id>
+        <link href="https://www.cuizi.top/article.html?id=11&amp;utm_source=blogfinder" />
+        <published>2026-10-03T08:00:00+08:00</published>
+        <author>
+            <name>ks</name>
+            <uri>https://www.cuizi.top/</uri>
+        </author>
+        <summary type="text"><![CDATA[我的Markdown解析器说明书]]></summary>
     </entry>
         <entry>
         <title>关于想象医学和现代医学</title>
@@ -1155,27 +1188,5 @@
             <uri>https://blog.samhou.moe</uri>
         </author>
         <summary type="text"><![CDATA[从零开始的 Astro 博客设计]]></summary>
-    </entry>
-        <entry>
-        <title>解决 Codex 无法访问 rg.exe 的问题</title>
-        <id>175514</id>
-        <link href="https://www.liesauer.net/blog/post/1046.html?utm_source=blogfinder" />
-        <published>2026-10-01T01:52:22+08:00</published>
-        <author>
-            <name>LiesAuer&#039;s Blog</name>
-            <uri>https://www.liesauer.net</uri>
-        </author>
-        <summary type="text"><![CDATA[解决 Codex 无法访问 rg.exe 的问题]]></summary>
-    </entry>
-        <entry>
-        <title>消失的我——最近都在做什么？</title>
-        <id>175499</id>
-        <link href="https://blog.veitzn.top/%e6%b6%88%e5%a4%b1%e7%9a%84%e6%88%91-%e6%9c%80%e8%bf%91%e9%83%bd%e5%9c%a8%e5%81%9a%e4%bb%80%e4%b9%88%ef%bc%9f/?utm_source=blogfinder" />
-        <published>2026-10-01T01:15:33+08:00</published>
-        <author>
-            <name>Veitzn 的小屋</name>
-            <uri>https://blog.veitzn.top</uri>
-        </author>
-        <summary type="text"><![CDATA[消失的我——最近都在做什么？]]></summary>
     </entry>
     </feed>
