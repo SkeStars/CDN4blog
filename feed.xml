@@ -11,7 +11,40 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-10-07T21:00:48+08:00</updated>
+    <updated>2026-10-08T04:03:34+08:00</updated>
+        <entry>
+        <title>重构了机房机柜图生成器</title>
+        <id>175911</id>
+        <link href="https://www.szqp.site/archives/10685?utm_source=blogfinder" />
+        <published>2026-10-07T19:56:43+08:00</published>
+        <author>
+            <name>szqp</name>
+            <uri>https://www.szqp.site</uri>
+        </author>
+        <summary type="text"><![CDATA[重构了机房机柜图生成器]]></summary>
+    </entry>
+        <entry>
+        <title>外贸站批量导入博客文章字段调整</title>
+        <id>175881</id>
+        <link href="https://www.sunzhongwei.com/batch-import-of-blog-article-fields-adjustment-foreign-trade-website?utm_source=blogfinder" />
+        <published>2026-10-07T19:47:19+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[外贸站批量导入博客文章字段调整]]></summary>
+    </entry>
+        <entry>
+        <title>好好吃饭</title>
+        <id>175883</id>
+        <link href="https://oba.by/2026/10/2065/?utm_source=blogfinder" />
+        <published>2026-10-07T19:40:31+08:00</published>
+        <author>
+            <name>obaby 𝐢‍𝐧⃝  void</name>
+            <uri>https://oba.by</uri>
+        </author>
+        <summary type="text"><![CDATA[好好吃饭]]></summary>
+    </entry>
         <entry>
         <title>快打旋风3</title>
         <id>175877</id>
@@ -22,6 +55,17 @@
             <uri>https://pewae.com</uri>
         </author>
         <summary type="text"><![CDATA[快打旋风3]]></summary>
+    </entry>
+        <entry>
+        <title>祝贺自己坚持连续背单词365天</title>
+        <id>175906</id>
+        <link href="https://yufm.com/662448.html?utm_source=blogfinder" />
+        <published>2026-10-07T18:05:13+08:00</published>
+        <author>
+            <name>You &amp; FM</name>
+            <uri>https://yufm.com</uri>
+        </author>
+        <summary type="text"><![CDATA[祝贺自己坚持连续背单词365天]]></summary>
     </entry>
         <entry>
         <title>国庆节-“碎碎念”</title>
@@ -79,6 +123,17 @@
         <summary type="text"><![CDATA[吃得苦中苦方为人上人]]></summary>
     </entry>
         <entry>
+        <title>iOS 兼容到底有多难</title>
+        <id>175885</id>
+        <link href="https://detached.online/blog/ios%E5%85%BC%E5%AE%B9%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%9A%BE/?utm_source=blogfinder" />
+        <published>2026-10-07T15:53:00+08:00</published>
+        <author>
+            <name>Detached</name>
+            <uri>https://detached.online</uri>
+        </author>
+        <summary type="text"><![CDATA[iOS 兼容到底有多难]]></summary>
+    </entry>
+        <entry>
         <title>博物馆见闻：故宫博物院《雨中紫禁城》</title>
         <id>175878</id>
         <link href="https://me.xu19.com/museum-notes-palace-museum-forbidden-city-in-the-rain/?utm_source=blogfinder" />
@@ -88,6 +143,39 @@
             <uri>https://me.xu19.com</uri>
         </author>
         <summary type="text"><![CDATA[博物馆见闻：故宫博物院《雨中紫禁城》]]></summary>
+    </entry>
+        <entry>
+        <title>2026-10：游记：湍流与回望</title>
+        <id>175912</id>
+        <link href="https://saltfish.vip/index.php/archives/71/?utm_source=blogfinder" />
+        <published>2026-10-07T15:21:00+08:00</published>
+        <author>
+            <name>羡渔笔记</name>
+            <uri>https://saltfish.vip</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-10：游记：湍流与回望]]></summary>
+    </entry>
+        <entry>
+        <title>低配机器也能跑的大模型 qwen3.8-flash-next-iq3_xxs</title>
+        <id>175884</id>
+        <link href="https://oba.by/2026/10/2058/?utm_source=blogfinder" />
+        <published>2026-10-07T14:09:36+08:00</published>
+        <author>
+            <name>obaby 𝐢‍𝐧⃝  void</name>
+            <uri>https://oba.by</uri>
+        </author>
+        <summary type="text"><![CDATA[低配机器也能跑的大模型 qwen3.8-flash-next-iq3_xxs]]></summary>
+    </entry>
+        <entry>
+        <title>谈谈评价</title>
+        <id>175907</id>
+        <link href="https://sliun.com/ongoodorbad/?utm_source=blogfinder" />
+        <published>2026-10-07T14:06:00+08:00</published>
+        <author>
+            <name>理论派</name>
+            <uri>https://sliun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[谈谈评价]]></summary>
     </entry>
         <entry>
         <title>博客装修记：再见了，所有的 jQuery</title>
@@ -121,6 +209,17 @@
             <uri>https://hulatu.com</uri>
         </author>
         <summary type="text"><![CDATA[工科研究生用 Mac，也可以很完美]]></summary>
+    </entry>
+        <entry>
+        <title>走向玛嘉 (2)</title>
+        <id>175882</id>
+        <link href="https://lenciel.com/2026/10/from-m-to-m-02/?utm_source=blogfinder" />
+        <published>2026-10-07T13:12:42+08:00</published>
+        <author>
+            <name>@Lenciel</name>
+            <uri>https://lenciel.com</uri>
+        </author>
+        <summary type="text"><![CDATA[走向玛嘉 (2)]]></summary>
     </entry>
         <entry>
         <title>种地，孔子云：何乐之有！</title>
@@ -189,6 +288,17 @@
         <summary type="text"><![CDATA[入蜀记 day495 服务费、coser、人生换位]]></summary>
     </entry>
         <entry>
+        <title>国庆小札 · AI时代下工程师的价值</title>
+        <id>175909</id>
+        <link href="https://lifelonglearn.ing/engineer-value-in-ai-age?utm_source=blogfinder" />
+        <published>2026-10-07T12:28:04+08:00</published>
+        <author>
+            <name>奶爸博客</name>
+            <uri>https://lifelonglearn.ing</uri>
+        </author>
+        <summary type="text"><![CDATA[国庆小札 · AI时代下工程师的价值]]></summary>
+    </entry>
+        <entry>
         <title>localhost vs 127.0.0.1 in Windows WSL2</title>
         <id>175856</id>
         <link href="https://www.sunzhongwei.com/localhost-vs-127001-windows-wsl2?utm_source=blogfinder" />
@@ -198,6 +308,17 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[localhost vs 127.0.0.1 in Windows WSL2]]></summary>
+    </entry>
+        <entry>
+        <title>十年如一梦</title>
+        <id>175910</id>
+        <link href="https://cavill.site/articles/ten-years-like-a-dream?utm_source=blogfinder" />
+        <published>2026-10-07T10:59:06+08:00</published>
+        <author>
+            <name>栖迟处</name>
+            <uri>https://cavill.site</uri>
+        </author>
+        <summary type="text"><![CDATA[十年如一梦]]></summary>
     </entry>
         <entry>
         <title>难绷！WAF Guard插件自动封禁恶意IP地址自动发送邮件过于频繁，邮箱的发信服务受限</title>
@@ -352,6 +473,17 @@
             <uri>https://blog.pet111.cn</uri>
         </author>
         <summary type="text"><![CDATA[茉莉飘香，记一份千里惦念]]></summary>
+    </entry>
+        <entry>
+        <title>人生悖论</title>
+        <id>175908</id>
+        <link href="https://ezo.biz/Diary/1726.html?utm_source=blogfinder" />
+        <published>2026-10-06T23:55:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[人生悖论]]></summary>
     </entry>
         <entry>
         <title>我的不想要</title>
@@ -528,6 +660,17 @@
             <uri>https://www.52txr.cn</uri>
         </author>
         <summary type="text"><![CDATA[赌一把，机械盘换固态，DiskGenius系统迁移与引导修复实录，实现系统和软件免重装]]></summary>
+    </entry>
+        <entry>
+        <title>奇怪的梦</title>
+        <id>175913</id>
+        <link href="https://blog.goodboyboy.top/posts/721094205.html?utm_source=blogfinder" />
+        <published>2026-10-06T16:47:47+08:00</published>
+        <author>
+            <name>GoodBoyboy</name>
+            <uri>https://blog.goodboyboy.top</uri>
+        </author>
+        <summary type="text"><![CDATA[奇怪的梦]]></summary>
     </entry>
         <entry>
         <title>《读书笔记：日本的性》（1）</title>
@@ -1463,159 +1606,5 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[再次遭遇广电宽带的流氓劫持]]></summary>
-    </entry>
-        <entry>
-        <title>浅扫祠堂街</title>
-        <id>175742</id>
-        <link href="https://blog.nastree.cn/post/photography202610050049?utm_source=blogfinder" />
-        <published>2026-10-05T00:49:00+08:00</published>
-        <author>
-            <name>那是树</name>
-            <uri>https://blog.nastree.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[浅扫祠堂街]]></summary>
-    </entry>
-        <entry>
-        <title>v2rayN / v2rayNG 笔记</title>
-        <id>175731</id>
-        <link href="https://detached.online/blog/v2rayn-v2rayng%E7%AC%94%E8%AE%B0/?utm_source=blogfinder" />
-        <published>2026-10-05T00:20:00+08:00</published>
-        <author>
-            <name>Detached</name>
-            <uri>https://detached.online</uri>
-        </author>
-        <summary type="text"><![CDATA[v2rayN / v2rayNG 笔记]]></summary>
-    </entry>
-        <entry>
-        <title>第二年云中祭</title>
-        <id>175776</id>
-        <link href="https://shuiba.co/our-2nd-unchu-matsuri?utm_source=blogfinder" />
-        <published>2026-10-05T00:19:00+08:00</published>
-        <author>
-            <name>水八口的冥想盆</name>
-            <uri>https://shuiba.co</uri>
-        </author>
-        <summary type="text"><![CDATA[第二年云中祭]]></summary>
-    </entry>
-        <entry>
-        <title>论坛 SEO 实战：从零散帖子到权重跃升的 5 个动作</title>
-        <id>175770</id>
-        <link href="https://dusays.com/posts/891/?utm_source=blogfinder" />
-        <published>2026-10-05T00:00:00+08:00</published>
-        <author>
-            <name>杜老师说</name>
-            <uri>https://dusays.com</uri>
-        </author>
-        <summary type="text"><![CDATA[论坛 SEO 实战：从零散帖子到权重跃升的 5 个动作]]></summary>
-    </entry>
-        <entry>
-        <title>一些关于开发的杂谈话题 - 代码审核</title>
-        <id>175684</id>
-        <link href="https://onevcat.com/2026/10/agent-review/?utm_source=blogfinder" />
-        <published>2026-10-05T00:00:00+08:00</published>
-        <author>
-            <name>OneV&#039;s Den</name>
-            <uri>https://onevcat.com</uri>
-        </author>
-        <summary type="text"><![CDATA[一些关于开发的杂谈话题 - 代码审核]]></summary>
-    </entry>
-        <entry>
-        <title>丢失快递</title>
-        <id>175745</id>
-        <link href="https://ezo.biz/Diary/1722.html?utm_source=blogfinder" />
-        <published>2026-10-04T23:48:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[丢失快递]]></summary>
-    </entry>
-        <entry>
-        <title>当Agent替你安装黑客后门</title>
-        <id>175681</id>
-        <link href="https://zooyoo.top/article/70/?utm_source=blogfinder" />
-        <published>2026-10-04T23:05:00+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[当Agent替你安装黑客后门]]></summary>
-    </entry>
-        <entry>
-        <title>假期过半了</title>
-        <id>175805</id>
-        <link href="https://blog.solazy.me/20261004/?utm_source=blogfinder" />
-        <published>2026-10-04T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[假期过半了]]></summary>
-    </entry>
-        <entry>
-        <title>AI 狂飙，怎么才能 10 倍 or 100 倍自己的工作效率（2026-09-月度小结）</title>
-        <id>175722</id>
-        <link href="https://yuanchaofa.com/blog/2026-09-month-summary?utm_source=blogfinder" />
-        <published>2026-10-04T23:00:00+08:00</published>
-        <author>
-            <name>Chaofa Yuan</name>
-            <uri>https://yuanchaofa.com</uri>
-        </author>
-        <summary type="text"><![CDATA[AI 狂飙，怎么才能 10 倍 or 100 倍自己的工作效率（2026-09-月度小结）]]></summary>
-    </entry>
-        <entry>
-        <title>Pi Agent 1.0 的 MCP 集成源码解析：工具发现、代码编排与提示词压缩</title>
-        <id>175736</id>
-        <link href="https://nicksxs.me/2026/10/04/Pi-Agent-1-0-MCP%E9%9B%86%E6%88%90%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-%E5%B7%A5%E5%85%B7%E5%8F%91%E7%8E%B0%E4%B8%8E%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%8E%8B%E7%BC%A9/?utm_source=blogfinder" />
-        <published>2026-10-04T22:30:00+08:00</published>
-        <author>
-            <name>Nicksxs&#039;s Blog</name>
-            <uri>https://nicksxs.me</uri>
-        </author>
-        <summary type="text"><![CDATA[Pi Agent 1.0 的 MCP 集成源码解析：工具发现、代码编排与提示词压缩]]></summary>
-    </entry>
-        <entry>
-        <title>二手电子设备发货仓管理系统，扫码出库</title>
-        <id>175668</id>
-        <link href="https://www.sunzhongwei.com/second-hand-electronic-device-shipping-warehouse-management-system-scan-code-outbound?utm_source=blogfinder" />
-        <published>2026-10-04T21:56:13+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[二手电子设备发货仓管理系统，扫码出库]]></summary>
-    </entry>
-        <entry>
-        <title>胡拉图的周刊-第二十四期</title>
-        <id>175676</id>
-        <link href="https://hulatu.com/posts/2026/10/04/newsletter-24/?utm_source=blogfinder" />
-        <published>2026-10-04T21:51:03+08:00</published>
-        <author>
-            <name>胡拉图说</name>
-            <uri>https://hulatu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[胡拉图的周刊-第二十四期]]></summary>
-    </entry>
-        <entry>
-        <title>LLMLens For Typecho V1.0.0</title>
-        <id>175682</id>
-        <link href="https://zooyoo.top/article/69/?utm_source=blogfinder" />
-        <published>2026-10-04T21:15:00+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[LLMLens For Typecho V1.0.0]]></summary>
-    </entry>
-        <entry>
-        <title>二手电子设备发货仓小程序，收货信息一键自动填写功能</title>
-        <id>175669</id>
-        <link href="https://www.sunzhongwei.com/second-hand-electronic-device-shipping-warehouse-mini-program-one-click-automatic-filling-function-receiving-information?utm_source=blogfinder" />
-        <published>2026-10-04T21:12:19+08:00</published>
-        <author>
-            <name>大象笔记</name>
-            <uri>https://www.sunzhongwei.com</uri>
-        </author>
-        <summary type="text"><![CDATA[二手电子设备发货仓小程序，收货信息一键自动填写功能]]></summary>
     </entry>
     </feed>
