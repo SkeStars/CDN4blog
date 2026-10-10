@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-10-10T20:00:26+08:00</updated>
+    <updated>2026-10-11T00:00:45+08:00</updated>
+        <entry>
+        <title>Oracle 的字符集，与 MySQL 非常不同</title>
+        <id>176321</id>
+        <link href="https://www.sunzhongwei.com/oracles-character-set-diff-mysql?utm_source=blogfinder" />
+        <published>2026-10-10T21:14:03+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Oracle 的字符集，与 MySQL 非常不同]]></summary>
+    </entry>
+        <entry>
+        <title>飞书表单链接中添加参数实现字段的自动填充</title>
+        <id>176322</id>
+        <link href="https://www.sunzhongwei.com/add-parameters-feishu-form-link-achieve-automatic-field-filling?utm_source=blogfinder" />
+        <published>2026-10-10T20:15:03+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[飞书表单链接中添加参数实现字段的自动填充]]></summary>
+    </entry>
+        <entry>
+        <title>少数派的诚实</title>
+        <id>176331</id>
+        <link href="https://cavill.site/articles/the-honesty-of-a-dissent?utm_source=blogfinder" />
+        <published>2026-10-10T20:11:09+08:00</published>
+        <author>
+            <name>栖迟处</name>
+            <uri>https://cavill.site</uri>
+        </author>
+        <summary type="text"><![CDATA[少数派的诚实]]></summary>
+    </entry>
+        <entry>
+        <title>untitled-20261010</title>
+        <id>176325</id>
+        <link href="https://knay.net/note/untitled-20261010?utm_source=blogfinder" />
+        <published>2026-10-10T19:58:33+08:00</published>
+        <author>
+            <name>Yang&#039;s Blog</name>
+            <uri>https://knay.net</uri>
+        </author>
+        <summary type="text"><![CDATA[untitled-20261010]]></summary>
+    </entry>
+        <entry>
+        <title>Typecho插件WebpConverter更新：新增编辑器侧栏显示添加水印开关和水印添加位置</title>
+        <id>176323</id>
+        <link href="https://www.bufanz.com/202610101021.html?utm_source=blogfinder" />
+        <published>2026-10-10T17:50:00+08:00</published>
+        <author>
+            <name>不凡博客</name>
+            <uri>https://www.bufanz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Typecho插件WebpConverter更新：新增编辑器侧栏显示添加水印开关和水印添加位置]]></summary>
+    </entry>
         <entry>
         <title>JN 最近在幹嘛（20261010 更新）</title>
         <id>176315</id>
@@ -101,6 +156,17 @@
         <summary type="text"><![CDATA[Typecho插件Mailer：评论邮件通知插件 异步发送邮件/邮件底部支持自定义HTML]]></summary>
     </entry>
         <entry>
+        <title>Claude API 有哪些方式</title>
+        <id>176324</id>
+        <link href="https://detached.online/blog/claude-api%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B9%E5%BC%8F/?utm_source=blogfinder" />
+        <published>2026-10-10T14:05:00+08:00</published>
+        <author>
+            <name>Detached</name>
+            <uri>https://detached.online</uri>
+        </author>
+        <summary type="text"><![CDATA[Claude API 有哪些方式]]></summary>
+    </entry>
+        <entry>
         <title>时过境迁</title>
         <id>176304</id>
         <link href="https://oba.by/2026/10/2175/?utm_source=blogfinder" />
@@ -143,6 +209,17 @@
             <uri>https://airy.ink</uri>
         </author>
         <summary type="text"><![CDATA[久违了]]></summary>
+    </entry>
+        <entry>
+        <title>DeepSeek Harness 会话删除插件</title>
+        <id>176326</id>
+        <link href="https://www.renhuali.cn/journal/cmv1rj2y803pwchnm9pfgg99d?utm_source=blogfinder" />
+        <published>2026-10-10T10:16:08+08:00</published>
+        <author>
+            <name>华立博客</name>
+            <uri>https://renhuali.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[DeepSeek Harness 会话删除插件]]></summary>
     </entry>
         <entry>
         <title>真玄学心得(26)：最新消息</title>
@@ -244,6 +321,17 @@
         <summary type="text"><![CDATA[与老友闲谈的半生过往]]></summary>
     </entry>
         <entry>
+        <title>我的 AI Native iOS 开发验证工作流</title>
+        <id>176327</id>
+        <link href="https://innei.in/posts/tech/ai-native-ios-e2e-verification?utm_source=blogfinder" />
+        <published>2026-10-10T01:39:44+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[我的 AI Native iOS 开发验证工作流]]></summary>
+    </entry>
+        <entry>
         <title>税收政策为何不向二孩家庭倾斜？</title>
         <id>176296</id>
         <link href="https://lawtee.com/article/tax-policy/?utm_source=blogfinder" />
@@ -253,6 +341,17 @@
             <uri>https://lawtee.com</uri>
         </author>
         <summary type="text"><![CDATA[税收政策为何不向二孩家庭倾斜？]]></summary>
+    </entry>
+        <entry>
+        <title>吊梢眼</title>
+        <id>176328</id>
+        <link href="https://ezo.biz/Diary/1732.html?utm_source=blogfinder" />
+        <published>2026-10-09T23:54:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[吊梢眼]]></summary>
     </entry>
         <entry>
         <title>百廿川农，双甲启新</title>
@@ -1463,93 +1562,5 @@
             <uri>https://www.iliu.org</uri>
         </author>
         <summary type="text"><![CDATA[七年没量过的血压，给了我一个下马威]]></summary>
-    </entry>
-        <entry>
-        <title>松弛感</title>
-        <id>175961</id>
-        <link href="https://tao.zz.ac/life/ease.html?utm_source=blogfinder" />
-        <published>2026-10-08T00:00:00+08:00</published>
-        <author>
-            <name>涛叔</name>
-            <uri>https://tao.zz.ac</uri>
-        </author>
-        <summary type="text"><![CDATA[松弛感]]></summary>
-    </entry>
-        <entry>
-        <title>木棉花与青橄榄</title>
-        <id>176263</id>
-        <link href="https://www.sanshijiu.cn/post/46?utm_source=blogfinder" />
-        <published>2026-10-07T23:55:31+08:00</published>
-        <author>
-            <name>叁拾玖の小站</name>
-            <uri>https://www.sanshijiu.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[木棉花与青橄榄]]></summary>
-    </entry>
-        <entry>
-        <title>假期终结</title>
-        <id>175947</id>
-        <link href="https://ezo.biz/Diary/1728.html?utm_source=blogfinder" />
-        <published>2026-10-07T23:54:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[假期终结]]></summary>
-    </entry>
-        <entry>
-        <title>Ubuntu 云服务器实践：安全部署文件存储、下载与代码托管</title>
-        <id>175928</id>
-        <link href="https://soulteary.com/2026/10/07/ubuntu-cloud-server-practice-secure-file-storage-downloads-and-code-hosting.html?utm_source=blogfinder" />
-        <published>2026-10-07T23:29:00+08:00</published>
-        <author>
-            <name>苏洋博客</name>
-            <uri>https://soulteary.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Ubuntu 云服务器实践：安全部署文件存储、下载与代码托管]]></summary>
-    </entry>
-        <entry>
-        <title>Toots 439 2026 Sep.27 - Oct.3</title>
-        <id>175919</id>
-        <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261003/?utm_source=blogfinder" />
-        <published>2026-10-07T23:10:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[Toots 439 2026 Sep.27 - Oct.3]]></summary>
-    </entry>
-        <entry>
-        <title>国庆带娃记</title>
-        <id>175945</id>
-        <link href="https://meledee.com/2026/10/4860.html?utm_source=blogfinder" />
-        <published>2026-10-07T23:06:55+08:00</published>
-        <author>
-            <name>美樂地</name>
-            <uri>https://meledee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[国庆带娃记]]></summary>
-    </entry>
-        <entry>
-        <title>说易行难，悔之晚矣</title>
-        <id>175932</id>
-        <link href="https://blog.1edg.cn/842?utm_source=blogfinder" />
-        <published>2026-10-07T21:37:00+08:00</published>
-        <author>
-            <name>小林先森</name>
-            <uri>https://blog.1edg.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[说易行难，悔之晚矣]]></summary>
-    </entry>
-        <entry>
-        <title>我的 AI 工作流提示词分享</title>
-        <id>175929</id>
-        <link href="https://blog.liuzhen932.top/posts/ai-workflow-prompts/?utm_source=blogfinder" />
-        <published>2026-10-07T20:43:21+08:00</published>
-        <author>
-            <name>liuzhen932 的小窝</name>
-            <uri>https://blog.liuzhen932.top</uri>
-        </author>
-        <summary type="text"><![CDATA[我的 AI 工作流提示词分享]]></summary>
     </entry>
     </feed>
