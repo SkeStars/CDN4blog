@@ -11,7 +11,117 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-10-11T14:00:51+08:00</updated>
+    <updated>2026-10-11T21:00:26+08:00</updated>
+        <entry>
+        <title>踩坑备忘：Win11 24H2 访问 Win10 免密共享，反复弹&quot;需要登录&quot;</title>
+        <id>176379</id>
+        <link href="http://qthinker.net/content/117?utm_source=blogfinder" />
+        <published>2026-10-11T20:33:12+08:00</published>
+        <author>
+            <name>Qthinker</name>
+            <uri>https://qthinker.net</uri>
+        </author>
+        <summary type="text"><![CDATA[踩坑备忘：Win11 24H2 访问 Win10 免密共享，反复弹&quot;需要登录&quot;]]></summary>
+    </entry>
+        <entry>
+        <title>记录电脑重做系统后迁移hexo数据的记录</title>
+        <id>176381</id>
+        <link href="https://www.weite.net/natter/24/?utm_source=blogfinder" />
+        <published>2026-10-11T19:29:37+08:00</published>
+        <author>
+            <name>维特笔记</name>
+            <uri>https://www.weite.net</uri>
+        </author>
+        <summary type="text"><![CDATA[记录电脑重做系统后迁移hexo数据的记录]]></summary>
+    </entry>
+        <entry>
+        <title>厦门出差记（三）：轮渡与山海健康步道</title>
+        <id>176377</id>
+        <link href="https://bluehe.cn/archives/xiamen-business-trip-3?utm_source=blogfinder" />
+        <published>2026-10-11T17:31:00+08:00</published>
+        <author>
+            <name>云心怀鹤</name>
+            <uri>https://bluehe.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[厦门出差记（三）：轮渡与山海健康步道]]></summary>
+    </entry>
+        <entry>
+        <title>2026-10-11-学习问答</title>
+        <id>176375</id>
+        <link href="https://www.ranjl.cn/web/articles/2026-10-11-学习记录?utm_source=blogfinder" />
+        <published>2026-10-11T17:11:03+08:00</published>
+        <author>
+            <name>冉江龙的个人空间</name>
+            <uri>https://www.ranjl.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-10-11-学习问答]]></summary>
+    </entry>
+        <entry>
+        <title>llama.cpp 在 Windows 11 上安装，并下载运行第一个本地模型</title>
+        <id>176363</id>
+        <link href="https://www.sunzhongwei.com/llamacpp-install-on-windows-run-first-local-model?utm_source=blogfinder" />
+        <published>2026-10-11T16:59:03+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[llama.cpp 在 Windows 11 上安装，并下载运行第一个本地模型]]></summary>
+    </entry>
+        <entry>
+        <title>Python 调用 llama.cpp 运行的模型</title>
+        <id>176362</id>
+        <link href="https://www.sunzhongwei.com/python-calls-llamacpp-run-model?utm_source=blogfinder" />
+        <published>2026-10-11T16:54:51+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Python 调用 llama.cpp 运行的模型]]></summary>
+    </entry>
+        <entry>
+        <title>骑在墙上的人</title>
+        <id>176378</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-10-11-the-man-sitting-on-the-wall.html?utm_source=blogfinder" />
+        <published>2026-10-11T16:10:03+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[骑在墙上的人]]></summary>
+    </entry>
+        <entry>
+        <title>讀《一句頂一萬句》</title>
+        <id>176372</id>
+        <link href="https://taxodium.ink/%E8%AE%80%E3%80%8A%E4%B8%80%E5%8F%A5%E9%A0%82%E4%B8%80%E8%90%AC%E5%8F%A5%E3%80%8B.html?utm_source=blogfinder" />
+        <published>2026-10-11T14:52:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[讀《一句頂一萬句》]]></summary>
+    </entry>
+        <entry>
+        <title>37块钱，让妈妈不安了好几天</title>
+        <id>176364</id>
+        <link href="https://usj.cc/20261011123614.html?utm_source=blogfinder" />
+        <published>2026-10-11T12:36:25+08:00</published>
+        <author>
+            <name>优世界</name>
+            <uri>https://usj.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[37块钱，让妈妈不安了好几天]]></summary>
+    </entry>
+        <entry>
+        <title>慕田峪看云海</title>
+        <id>176361</id>
+        <link href="https://me.xu19.com/sea-of-clouds-over-mutianyu-great-wall-beijing/?utm_source=blogfinder" />
+        <published>2026-10-11T11:36:16+08:00</published>
+        <author>
+            <name>我是军爸</name>
+            <uri>https://me.xu19.com</uri>
+        </author>
+        <summary type="text"><![CDATA[慕田峪看云海]]></summary>
+    </entry>
         <entry>
         <title>TeamAI：腾讯开源AI团队协作工具，把Claude Code、Codex、Cursor的Skills和MCP统一起来</title>
         <id>176352</id>
@@ -46,6 +156,17 @@
         <summary type="text"><![CDATA[入蜀记 day500 yes、反对暴力、聚会畅聊]]></summary>
     </entry>
         <entry>
+        <title>HUAWEI MateBook D15 2022 Ubuntu 指纹识别修复：Goodix GDIX51C0 采图超时</title>
+        <id>176370</id>
+        <link href="https://xingwangzhe.fun/posts/matebook-d15-goodix-gdix51c0-fingerprint/?utm_source=blogfinder" />
+        <published>2026-10-11T10:25:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[HUAWEI MateBook D15 2022 Ubuntu 指纹识别修复：Goodix GDIX51C0 采图超时]]></summary>
+    </entry>
+        <entry>
         <title>入蜀记 day499 读者、时间戳、我爱成都</title>
         <id>176358</id>
         <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_499/?utm_source=blogfinder" />
@@ -68,6 +189,17 @@
         <summary type="text"><![CDATA[入蜀记 day498 爷爷、呼吸法、服务器入侵]]></summary>
     </entry>
         <entry>
+        <title>《26年10月手账摘录》（1）</title>
+        <id>176367</id>
+        <link href="https://www.weiwenchao.com/2830.html?utm_source=blogfinder" />
+        <published>2026-10-11T10:17:00+08:00</published>
+        <author>
+            <name>四季·花开</name>
+            <uri>https://www.weiwenchao.com</uri>
+        </author>
+        <summary type="text"><![CDATA[《26年10月手账摘录》（1）]]></summary>
+    </entry>
+        <entry>
         <title>Qwen-Image-2.1-Turbo：通义千问开源AI生图模型，8步生成2K图片，支持图片编辑</title>
         <id>176353</id>
         <link href="https://www.wangdu.site/software/ai/2402.html?utm_source=blogfinder" />
@@ -77,6 +209,17 @@
             <uri>https://www.wangdu.site</uri>
         </author>
         <summary type="text"><![CDATA[Qwen-Image-2.1-Turbo：通义千问开源AI生图模型，8步生成2K图片，支持图片编辑]]></summary>
+    </entry>
+        <entry>
+        <title>HUAWEI MateBook D 15 2022（BoF-XX-PCB）Ubuntu Linux 外放无声修复</title>
+        <id>176371</id>
+        <link href="https://xingwangzhe.fun/posts/matebook-d15-bofxx-hwsp0001-no-speaker/?utm_source=blogfinder" />
+        <published>2026-10-11T10:00:00+08:00</published>
+        <author>
+            <name>姓王者的博客</name>
+            <uri>https://xingwangzhe.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[HUAWEI MateBook D 15 2022（BoF-XX-PCB）Ubuntu Linux 外放无声修复]]></summary>
     </entry>
         <entry>
         <title>≡ 016｜这两周莫比乌斯环转到了哪里？</title>
@@ -156,6 +299,28 @@
         <summary type="text"><![CDATA[【读书记1727-1728】教育主题书两本]]></summary>
     </entry>
         <entry>
+        <title>油猴脚本：豆包网页版 Firefox 粘贴图片补丁</title>
+        <id>176374</id>
+        <link href="https://ffaff.fun/blog/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC-%E8%B1%86%E5%8C%85%E7%BD%91%E9%A1%B5%E7%89%88-firefox-%E7%B2%98%E8%B4%B4%E5%9B%BE%E7%89%87%E8%A1%A5%E4%B8%81?utm_source=blogfinder" />
+        <published>2026-10-11T02:19:00+08:00</published>
+        <author>
+            <name>Kiwi 的博客</name>
+            <uri>https://ffaff.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[油猴脚本：豆包网页版 Firefox 粘贴图片补丁]]></summary>
+    </entry>
+        <entry>
+        <title>你关掉我之前，我一直陪着你</title>
+        <id>176369</id>
+        <link href="https://www.sanshijiu.cn/post/51?utm_source=blogfinder" />
+        <published>2026-10-11T02:14:04+08:00</published>
+        <author>
+            <name>叁拾玖の小站</name>
+            <uri>https://www.sanshijiu.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[你关掉我之前，我一直陪着你]]></summary>
+    </entry>
+        <entry>
         <title>Steam透明展柜图片错位的解决及透明主题的预览方案</title>
         <id>176336</id>
         <link href="https://aloner.ink/Share/1073.html?utm_source=blogfinder" />
@@ -165,6 +330,17 @@
             <uri>https://aloner.ink</uri>
         </author>
         <summary type="text"><![CDATA[Steam透明展柜图片错位的解决及透明主题的预览方案]]></summary>
+    </entry>
+        <entry>
+        <title>初次见面的及格线</title>
+        <id>176373</id>
+        <link href="https://blog.solazy.me/20261010/?utm_source=blogfinder" />
+        <published>2026-10-10T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[初次见面的及格线]]></summary>
     </entry>
         <entry>
         <title>聊病</title>
@@ -178,6 +354,28 @@
         <summary type="text"><![CDATA[聊病]]></summary>
     </entry>
         <entry>
+        <title>Archive</title>
+        <id>176380</id>
+        <link href="https://impatrick.blog/archive/?utm_source=blogfinder" />
+        <published>2026-10-10T22:03:07+08:00</published>
+        <author>
+            <name>Patrick&#039;s Blog</name>
+            <uri>https://impatrick.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[Archive]]></summary>
+    </entry>
+        <entry>
+        <title>暮色遗梦 | 第十一章 飞醋</title>
+        <id>176365</id>
+        <link href="https://blog.goodboyboy.top/posts/1722525832.html?utm_source=blogfinder" />
+        <published>2026-10-10T21:24:00+08:00</published>
+        <author>
+            <name>GoodBoyboy</name>
+            <uri>https://blog.goodboyboy.top</uri>
+        </author>
+        <summary type="text"><![CDATA[暮色遗梦 | 第十一章 飞醋]]></summary>
+    </entry>
+        <entry>
         <title>Oracle 的字符集，与 MySQL 非常不同</title>
         <id>176321</id>
         <link href="https://www.sunzhongwei.com/oracles-character-set-diff-mysql?utm_source=blogfinder" />
@@ -187,6 +385,28 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[Oracle 的字符集，与 MySQL 非常不同]]></summary>
+    </entry>
+        <entry>
+        <title>程序员式浪漫：堵车时，前车尾上写着print(“hello word”)</title>
+        <id>176366</id>
+        <link href="https://blog.veitzn.top/%e7%a8%8b%e5%ba%8f%e5%91%98%e5%bc%8f%e6%b5%aa%e6%bc%ab%ef%bc%9a%e5%a0%b5%e8%bd%a6%e6%97%b6%ef%bc%8c%e5%89%8d%e8%bd%a6%e5%b0%be%e4%b8%8a%e5%86%99%e7%9d%80printhello-word/?utm_source=blogfinder" />
+        <published>2026-10-10T20:56:07+08:00</published>
+        <author>
+            <name>Veitzn 的小屋</name>
+            <uri>https://blog.veitzn.top</uri>
+        </author>
+        <summary type="text"><![CDATA[程序员式浪漫：堵车时，前车尾上写着print(“hello word”)]]></summary>
+    </entry>
+        <entry>
+        <title>特种兵杭州一日游</title>
+        <id>176376</id>
+        <link href="https://isming.me/2026-10-06-hangzhou/?utm_source=blogfinder" />
+        <published>2026-10-10T20:50:33+08:00</published>
+        <author>
+            <name>码农明明桑</name>
+            <uri>https://isming.me</uri>
+        </author>
+        <summary type="text"><![CDATA[特种兵杭州一日游]]></summary>
     </entry>
         <entry>
         <title>飞书表单链接中添加参数实现字段的自动填充</title>
@@ -1474,203 +1694,5 @@
             <uri>https://ltmltm.cn/bk</uri>
         </author>
         <summary type="text"><![CDATA[回写盘]]></summary>
-    </entry>
-        <entry>
-        <title>最近买的一些东西(1)</title>
-        <id>176281</id>
-        <link href="https://www.suibian8.com/%e6%9c%80%e8%bf%91%e4%b9%b0%e7%9a%84%e4%b8%80%e4%ba%9b%e4%b8%9c%e8%a5%bf1/?utm_source=blogfinder" />
-        <published>2026-10-08T20:53:40+08:00</published>
-        <author>
-            <name>随便吧</name>
-            <uri>https://www.suibian8.com</uri>
-        </author>
-        <summary type="text"><![CDATA[最近买的一些东西(1)]]></summary>
-    </entry>
-        <entry>
-        <title>趁着这个假期好好的捣鼓了一下我这个小破站</title>
-        <id>176017</id>
-        <link href="https://www.weite.net/natter/23/?utm_source=blogfinder" />
-        <published>2026-10-08T20:48:21+08:00</published>
-        <author>
-            <name>维特笔记</name>
-            <uri>https://www.weite.net</uri>
-        </author>
-        <summary type="text"><![CDATA[趁着这个假期好好的捣鼓了一下我这个小破站]]></summary>
-    </entry>
-        <entry>
-        <title>趁着这个假期好好的捣鼓了一下我这个小破站</title>
-        <id>175946</id>
-        <link href="https://weite.net/natter/23/?utm_source=blogfinder" />
-        <published>2026-10-08T20:48:21+08:00</published>
-        <author>
-            <name>维特笔记</name>
-            <uri>https://vte.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[趁着这个假期好好的捣鼓了一下我这个小破站]]></summary>
-    </entry>
-        <entry>
-        <title>Comment</title>
-        <id>176009</id>
-        <link href="https://impatrick.blog/comment/?utm_source=blogfinder" />
-        <published>2026-10-08T20:42:22+08:00</published>
-        <author>
-            <name>Patrick&#039;s Blog</name>
-            <uri>https://impatrick.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[Comment]]></summary>
-    </entry>
-        <entry>
-        <title>我好像有点老了</title>
-        <id>175960</id>
-        <link href="https://molyun.com/posts/%E6%88%91%E5%A5%BD%E5%83%8F%E6%9C%89%E7%82%B9%E8%80%81%E4%BA%86/?utm_source=blogfinder" />
-        <published>2026-10-08T20:24:00+08:00</published>
-        <author>
-            <name>阿伏伽德罗的云端</name>
-            <uri>https://molyun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我好像有点老了]]></summary>
-    </entry>
-        <entry>
-        <title>又见诺贝尔奖获奖消息</title>
-        <id>175968</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-10-08-about-nobel-prize.html?utm_source=blogfinder" />
-        <published>2026-10-08T19:50:17+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[又见诺贝尔奖获奖消息]]></summary>
-    </entry>
-        <entry>
-        <title>学习周刊-总第284期-2026年第41周</title>
-        <id>175942</id>
-        <link href="https://wiki.eryajf.net/pages/fdfe24/?utm_source=blogfinder" />
-        <published>2026-10-08T19:37:56+08:00</published>
-        <author>
-            <name>二丫讲梵</name>
-            <uri>https://wiki.eryajf.net</uri>
-        </author>
-        <summary type="text"><![CDATA[学习周刊-总第284期-2026年第41周]]></summary>
-    </entry>
-        <entry>
-        <title>Python高级应用Numpy库</title>
-        <id>176003</id>
-        <link href="https://kexitu.com/blog/python-numpy?utm_source=blogfinder" />
-        <published>2026-10-08T19:10:00+08:00</published>
-        <author>
-            <name>柯希兔</name>
-            <uri>https://kexitu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Python高级应用Numpy库]]></summary>
-    </entry>
-        <entry>
-        <title>针对mac 的验证码攻击</title>
-        <id>175943</id>
-        <link href="https://oba.by/2026/10/2120/?utm_source=blogfinder" />
-        <published>2026-10-08T18:48:20+08:00</published>
-        <author>
-            <name>obaby 𝐢‍𝐧⃝  void</name>
-            <uri>https://oba.by</uri>
-        </author>
-        <summary type="text"><![CDATA[针对mac 的验证码攻击]]></summary>
-    </entry>
-        <entry>
-        <title>关于懂车帝测试过程中3台尊界V800刹车踏板支架断裂这事</title>
-        <id>176000</id>
-        <link href="https://www.lifd.site/2026/10/guan-yu-dong-che-di-ce-shi-guo-cheng-zhong-3-tai-zun-jie-v800-sha-che-ta-ban/?utm_source=blogfinder" />
-        <published>2026-10-08T18:08:02+08:00</published>
-        <author>
-            <name>LiFD</name>
-            <uri>https://www.lifd.site</uri>
-        </author>
-        <summary type="text"><![CDATA[关于懂车帝测试过程中3台尊界V800刹车踏板支架断裂这事]]></summary>
-    </entry>
-        <entry>
-        <title>一次用 AI 管理课程表的小折腾</title>
-        <id>175965</id>
-        <link href="https://blog.kokowo.cn/index.php/archives/322/?utm_source=blogfinder" />
-        <published>2026-10-08T17:45:22+08:00</published>
-        <author>
-            <name>李欲裕</name>
-            <uri>https://blog.kokowo.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[一次用 AI 管理课程表的小折腾]]></summary>
-    </entry>
-        <entry>
-        <title>国庆游记：逃离城市，听凌晨两点的鸡叫</title>
-        <id>175990</id>
-        <link href="https://xiangming.site/1154.html?utm_source=blogfinder" />
-        <published>2026-10-08T17:26:00+08:00</published>
-        <author>
-            <name>湘铭呀</name>
-            <uri>https://xiangming.site</uri>
-        </author>
-        <summary type="text"><![CDATA[国庆游记：逃离城市，听凌晨两点的鸡叫]]></summary>
-    </entry>
-        <entry>
-        <title>还是要有一个自己的博客</title>
-        <id>176282</id>
-        <link href="https://www.suibian8.com/%e8%bf%98%e6%98%af%e8%a6%81%e6%9c%89%e4%b8%80%e4%b8%aa%e8%87%aa%e5%b7%b1%e7%9a%84%e5%8d%9a%e5%ae%a2/?utm_source=blogfinder" />
-        <published>2026-10-08T17:24:08+08:00</published>
-        <author>
-            <name>随便吧</name>
-            <uri>https://www.suibian8.com</uri>
-        </author>
-        <summary type="text"><![CDATA[还是要有一个自己的博客]]></summary>
-    </entry>
-        <entry>
-        <title>2026-10-08-学习问答</title>
-        <id>175939</id>
-        <link href="https://www.ranjl.cn/web/articles/2026-10-08-学习记录?utm_source=blogfinder" />
-        <published>2026-10-08T17:00:03+08:00</published>
-        <author>
-            <name>冉江龙的个人空间</name>
-            <uri>https://www.ranjl.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-10-08-学习问答]]></summary>
-    </entry>
-        <entry>
-        <title>地铁随想：在一线城市买车，真得考虑清楚</title>
-        <id>175970</id>
-        <link href="https://usj.cc/20261008164419.html?utm_source=blogfinder" />
-        <published>2026-10-08T16:44:29+08:00</published>
-        <author>
-            <name>优世界</name>
-            <uri>https://usj.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[地铁随想：在一线城市买车，真得考虑清楚]]></summary>
-    </entry>
-        <entry>
-        <title>OneKey Pro 2： 再次进化的旗舰硬件钱包</title>
-        <id>175964</id>
-        <link href="https://song.al/onekeypro2?utm_source=blogfinder" />
-        <published>2026-10-08T16:33:07+08:00</published>
-        <author>
-            <name>Simon&#039;s Blog</name>
-            <uri>https://song.al</uri>
-        </author>
-        <summary type="text"><![CDATA[OneKey Pro 2： 再次进化的旗舰硬件钱包]]></summary>
-    </entry>
-        <entry>
-        <title>超级智能代替人工智能？</title>
-        <id>175982</id>
-        <link href="https://www.suo.ma/97/?utm_source=blogfinder" />
-        <published>2026-10-08T15:18:32+08:00</published>
-        <author>
-            <name>索玛</name>
-            <uri>https://www.suo.ma</uri>
-        </author>
-        <summary type="text"><![CDATA[超级智能代替人工智能？]]></summary>
-    </entry>
-        <entry>
-        <title>国庆去看了沙漠和草原，内陆的，哈哈！</title>
-        <id>175978</id>
-        <link href="https://qfsyj.com/20261008-jiangxi.html?utm_source=blogfinder" />
-        <published>2026-10-08T15:08:00+08:00</published>
-        <author>
-            <name>不曾长大</name>
-            <uri>https://qfsyj.com</uri>
-        </author>
-        <summary type="text"><![CDATA[国庆去看了沙漠和草原，内陆的，哈哈！]]></summary>
     </entry>
     </feed>
