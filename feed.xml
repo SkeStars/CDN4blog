@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-10-12T23:00:22+08:00</updated>
+    <updated>2026-10-13T07:00:18+08:00</updated>
+        <entry>
+        <title>说说广场 API 0.31.0 版的调用代码说明</title>
+        <id>176553</id>
+        <link href="https://dusays.com/posts/893/?utm_source=blogfinder" />
+        <published>2026-10-13T00:00:00+08:00</published>
+        <author>
+            <name>杜老师说</name>
+            <uri>https://dusays.com</uri>
+        </author>
+        <summary type="text"><![CDATA[说说广场 API 0.31.0 版的调用代码说明]]></summary>
+    </entry>
+        <entry>
+        <title>最近买的一些东西(2)</title>
+        <id>176550</id>
+        <link href="https://www.suibian8.com/%e6%9c%80%e8%bf%91%e4%b9%b0%e7%9a%84%e4%b8%80%e4%ba%9b%e4%b8%9c%e8%a5%bf2/?utm_source=blogfinder" />
+        <published>2026-10-12T23:34:51+08:00</published>
+        <author>
+            <name>随便吧</name>
+            <uri>https://www.suibian8.com</uri>
+        </author>
+        <summary type="text"><![CDATA[最近买的一些东西(2)]]></summary>
+    </entry>
         <entry>
         <title>双星系统</title>
         <id>176547</id>
@@ -77,6 +99,17 @@
             <uri>http://www.xulog.cn</uri>
         </author>
         <summary type="text"><![CDATA[小学往事]]></summary>
+    </entry>
+        <entry>
+        <title>IFT：或许未来是网页中文字体的最优方案之一</title>
+        <id>176555</id>
+        <link href="https://www.vinking.top/posts/codes/ift-future-web-chinese-font-solution?utm_source=blogfinder" />
+        <published>2026-10-12T19:28:38+08:00</published>
+        <author>
+            <name>Vinking</name>
+            <uri>https://www.vinking.top</uri>
+        </author>
+        <summary type="text"><![CDATA[IFT：或许未来是网页中文字体的最优方案之一]]></summary>
     </entry>
         <entry>
         <title>随笔</title>
@@ -145,6 +178,17 @@
         <summary type="text"><![CDATA[碎碎念 №106]]></summary>
     </entry>
         <entry>
+        <title>Ultralytics YOLO26-depth：向廉价、低算力、只买得起单目摄像头的机器人提供的测距新选择</title>
+        <id>176556</id>
+        <link href="https://www.yang1120.com/archives/785?utm_source=blogfinder" />
+        <published>2026-10-12T16:01:07+08:00</published>
+        <author>
+            <name>氧化某人</name>
+            <uri>https://www.yang1120.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Ultralytics YOLO26-depth：向廉价、低算力、只买得起单目摄像头的机器人提供的测距新选择]]></summary>
+    </entry>
+        <entry>
         <title>《随笔两则》</title>
         <id>176456</id>
         <link href="https://www.weiwenchao.com/2832.html?utm_source=blogfinder" />
@@ -165,6 +209,17 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[忙碌的国庆节假期结束，开启出差之旅]]></summary>
+    </entry>
+        <entry>
+        <title>Chatterfly 输入法内测体验：打字终于不用盯着候选词了</title>
+        <id>176565</id>
+        <link href="https://moyu.blog/2327.html?utm_source=blogfinder" />
+        <published>2026-10-12T15:53:53+08:00</published>
+        <author>
+            <name>摸鱼小窝</name>
+            <uri>https://moyu.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[Chatterfly 输入法内测体验：打字终于不用盯着候选词了]]></summary>
     </entry>
         <entry>
         <title>最近工作有些烦躁</title>
@@ -198,6 +253,17 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[Toots 440 2026 Oct.4 - Oct.10]]></summary>
+    </entry>
+        <entry>
+        <title>好久不见</title>
+        <id>176554</id>
+        <link href="https://ztgdblog.icu/2026/10/12/%e5%a5%bd%e4%b9%85%e4%b8%8d%e8%a7%81/?utm_source=blogfinder" />
+        <published>2026-10-12T13:21:13+08:00</published>
+        <author>
+            <name>ZTGD 的小窝</name>
+            <uri>https://ztgdblog.icu</uri>
+        </author>
+        <summary type="text"><![CDATA[好久不见]]></summary>
     </entry>
         <entry>
         <title>为什么不能活在过去里？</title>
@@ -484,6 +550,17 @@
             <uri>https://sliun.com</uri>
         </author>
         <summary type="text"><![CDATA[难道我是怕了，不]]></summary>
+    </entry>
+        <entry>
+        <title>选择的悖论</title>
+        <id>176548</id>
+        <link href="https://ezo.biz/Diary/1736.html?utm_source=blogfinder" />
+        <published>2026-10-11T22:40:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[选择的悖论]]></summary>
     </entry>
         <entry>
         <title>2026国庆回家</title>
@@ -1069,6 +1146,28 @@
         <summary type="text"><![CDATA[🗄️ 表结构还在手写 SQL？拖三张卡片，建表语句自己出来了]]></summary>
     </entry>
         <entry>
+        <title>开发 Prosefly</title>
+        <id>176552</id>
+        <link href="https://lepture.com/zh/blog/building-prosefly?utm_source=blogfinder" />
+        <published>2026-10-11T08:00:00+08:00</published>
+        <author>
+            <name>Just lepture</name>
+            <uri>https://lepture.com</uri>
+        </author>
+        <summary type="text"><![CDATA[开发 Prosefly]]></summary>
+    </entry>
+        <entry>
+        <title>Building Prosefly</title>
+        <id>176551</id>
+        <link href="https://lepture.com/blog/building-prosefly?utm_source=blogfinder" />
+        <published>2026-10-11T08:00:00+08:00</published>
+        <author>
+            <name>Just lepture</name>
+            <uri>https://lepture.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Building Prosefly]]></summary>
+    </entry>
+        <entry>
         <title>在香港龙脊和鹤咀走了一天</title>
         <id>176417</id>
         <link href="https://liangmouyin.com/blog/dragons-back-hok-tsui-hike/?utm_source=blogfinder" />
@@ -1188,6 +1287,17 @@
             <uri>https://dusays.com</uri>
         </author>
         <summary type="text"><![CDATA[Redis vs Valkey：性能实测对比 + 无缝迁移指南]]></summary>
+    </entry>
+        <entry>
+        <title>网络不畅</title>
+        <id>176549</id>
+        <link href="https://ezo.biz/Cracker/1734.html?utm_source=blogfinder" />
+        <published>2026-10-10T23:46:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[网络不畅]]></summary>
     </entry>
         <entry>
         <title>初次见面的及格线</title>
@@ -1694,93 +1804,5 @@
             <uri>http://etom.top</uri>
         </author>
         <summary type="text"><![CDATA[偶遇一张魔幻天空]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1726】罗曼·罗兰《名人传》</title>
-        <id>176298</id>
-        <link href="http://www.qncd.com/?p=13211&amp;utm_source=blogfinder" />
-        <published>2026-10-10T06:00:45+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1726】罗曼·罗兰《名人传》]]></summary>
-    </entry>
-        <entry>
-        <title>与老友闲谈的半生过往</title>
-        <id>176320</id>
-        <link href="https://ilogs.cn/2026/10/10/424.html?utm_source=blogfinder" />
-        <published>2026-10-10T02:53:00+08:00</published>
-        <author>
-            <name>我的日志</name>
-            <uri>https://ilogs.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[与老友闲谈的半生过往]]></summary>
-    </entry>
-        <entry>
-        <title>我的 AI Native iOS 开发验证工作流</title>
-        <id>176327</id>
-        <link href="https://innei.in/posts/tech/ai-native-ios-e2e-verification?utm_source=blogfinder" />
-        <published>2026-10-10T01:39:44+08:00</published>
-        <author>
-            <name>静かな森</name>
-            <uri>https://innei.in</uri>
-        </author>
-        <summary type="text"><![CDATA[我的 AI Native iOS 开发验证工作流]]></summary>
-    </entry>
-        <entry>
-        <title>税收政策为何不向二孩家庭倾斜？</title>
-        <id>176296</id>
-        <link href="https://lawtee.com/article/tax-policy/?utm_source=blogfinder" />
-        <published>2026-10-10T00:40:11+08:00</published>
-        <author>
-            <name>老 T 博客</name>
-            <uri>https://lawtee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[税收政策为何不向二孩家庭倾斜？]]></summary>
-    </entry>
-        <entry>
-        <title>十一小结：《exoSpace》和《吹笛人》测评</title>
-        <id>176339</id>
-        <link href="https://leenet.xyz/post/summary-of-26-summer-10-1?utm_source=blogfinder" />
-        <published>2026-10-10T00:00:00+08:00</published>
-        <author>
-            <name>里世界</name>
-            <uri>https://leenet.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[十一小结：《exoSpace》和《吹笛人》测评]]></summary>
-    </entry>
-        <entry>
-        <title>吊梢眼</title>
-        <id>176328</id>
-        <link href="https://ezo.biz/Diary/1732.html?utm_source=blogfinder" />
-        <published>2026-10-09T23:54:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[吊梢眼]]></summary>
-    </entry>
-        <entry>
-        <title>百廿川农，双甲启新</title>
-        <id>176138</id>
-        <link href="https://blog.zimoo.me/essay/1424.html?utm_source=blogfinder" />
-        <published>2026-10-09T23:33:26+08:00</published>
-        <author>
-            <name>Zimoo&#039;s Blog</name>
-            <uri>https://blog.zimoo.me</uri>
-        </author>
-        <summary type="text"><![CDATA[百廿川农，双甲启新]]></summary>
-    </entry>
-        <entry>
-        <title>每夫吐槽（120）</title>
-        <id>176319</id>
-        <link href="https://pewae.com/2026/10/random_kuso_120.html?utm_source=blogfinder" />
-        <published>2026-10-09T23:13:19+08:00</published>
-        <author>
-            <name>破袜子</name>
-            <uri>https://pewae.com</uri>
-        </author>
-        <summary type="text"><![CDATA[每夫吐槽（120）]]></summary>
     </entry>
     </feed>
