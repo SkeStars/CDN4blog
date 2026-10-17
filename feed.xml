@@ -11,7 +11,62 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-10-17T12:00:20+08:00</updated>
+    <updated>2026-10-17T17:00:49+08:00</updated>
+        <entry>
+        <title>Ubuntu 下 WanGP 部署 MiniMax H3</title>
+        <id>177060</id>
+        <link href="https://www.suiyan.cc/blog/20261017152537?utm_source=blogfinder" />
+        <published>2026-10-17T15:25:37+08:00</published>
+        <author>
+            <name>碎言博客</name>
+            <uri>https://www.suiyan.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[Ubuntu 下 WanGP 部署 MiniMax H3]]></summary>
+    </entry>
+        <entry>
+        <title>规范与日常</title>
+        <id>177054</id>
+        <link href="https://sliun.com/poetryorigin/?utm_source=blogfinder" />
+        <published>2026-10-17T14:57:00+08:00</published>
+        <author>
+            <name>理论派</name>
+            <uri>https://sliun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[规范与日常]]></summary>
+    </entry>
+        <entry>
+        <title>处理了一下评论区老链接的隐患</title>
+        <id>177058</id>
+        <link href="https://usj.cc/20261017134042.html?utm_source=blogfinder" />
+        <published>2026-10-17T13:35:00+08:00</published>
+        <author>
+            <name>优世界</name>
+            <uri>https://usj.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[处理了一下评论区老链接的隐患]]></summary>
+    </entry>
+        <entry>
+        <title>[DB]SQL 简明教程</title>
+        <id>177061</id>
+        <link href="https://samuflore.top/posts/1801200e/?utm_source=blogfinder" />
+        <published>2026-10-17T12:19:42+08:00</published>
+        <author>
+            <name>SamuFlore</name>
+            <uri>https://samuflore.top</uri>
+        </author>
+        <summary type="text"><![CDATA[[DB]SQL 简明教程]]></summary>
+    </entry>
+        <entry>
+        <title>基于长周期面波的全球震动事件检测</title>
+        <id>177053</id>
+        <link href="https://www.seis-jun.xyz/blog/2026-10-17-surface-wave-event-detection.html?utm_source=blogfinder" />
+        <published>2026-10-17T11:02:15+08:00</published>
+        <author>
+            <name>SEISAMUSE</name>
+            <uri>https://www.seis-jun.xyz/</uri>
+        </author>
+        <summary type="text"><![CDATA[基于长周期面波的全球震动事件检测]]></summary>
+    </entry>
         <entry>
         <title>这周感觉好累~一周带了两次饭~</title>
         <id>177049</id>
@@ -68,6 +123,17 @@
         <summary type="text"><![CDATA[🎧 27 秒部署 PigeonPod，UP 主更新自动进手机播客 App]]></summary>
     </entry>
         <entry>
+        <title>棉花团</title>
+        <id>177056</id>
+        <link href="https://www.chenrui.com/post/3523.html?utm_source=blogfinder" />
+        <published>2026-10-17T08:08:36+08:00</published>
+        <author>
+            <name>不可</name>
+            <uri>https://www.chenrui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[棉花团]]></summary>
+    </entry>
+        <entry>
         <title>每日 AI 新闻简报（2026-10-17）</title>
         <id>177026</id>
         <link href="https://blog.aqcoder.cn/posts/a4649e87/?utm_source=blogfinder" />
@@ -99,6 +165,17 @@
             <uri>https://detached.online</uri>
         </author>
         <summary type="text"><![CDATA[Claude会话同步]]></summary>
+    </entry>
+        <entry>
+        <title>耗费两千积分做了个家常菜谱 Recipe Hub</title>
+        <id>177059</id>
+        <link href="https://xyzbz.cn/archives/1586/?utm_source=blogfinder" />
+        <published>2026-10-17T01:50:35+08:00</published>
+        <author>
+            <name>网友小宋</name>
+            <uri>https://xyzbz.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[耗费两千积分做了个家常菜谱 Recipe Hub]]></summary>
     </entry>
         <entry>
         <title>又到黄叶飘落时</title>
@@ -255,6 +332,17 @@
         <summary type="text"><![CDATA[如何为 Lightroom 自制镜头矫正文件]]></summary>
     </entry>
         <entry>
+        <title>Mike Wang‘s Talk in Shanghai</title>
+        <id>177057</id>
+        <link href="https://feiqi3.cn/post/46?utm_source=blogfinder" />
+        <published>2026-10-16T17:59:23+08:00</published>
+        <author>
+            <name>飞起的小窝</name>
+            <uri>https://feiqi3.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Mike Wang‘s Talk in Shanghai]]></summary>
+    </entry>
+        <entry>
         <title>「亭」中有奇树</title>
         <id>176844</id>
         <link href="https://cbc688.com/articles/tzyqs1?utm_source=blogfinder" />
@@ -354,6 +442,17 @@
         <summary type="text"><![CDATA[搬瓦工线路科普：CN2 GIA、CN2 GT、CMIN2、9929、软银到底怎么选？]]></summary>
     </entry>
         <entry>
+        <title>给博客系统做了个升级</title>
+        <id>177052</id>
+        <link href="https://blog.nastree.cn/post/toss202610161615?utm_source=blogfinder" />
+        <published>2026-10-16T16:15:00+08:00</published>
+        <author>
+            <name>那是树</name>
+            <uri>https://blog.nastree.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[给博客系统做了个升级]]></summary>
+    </entry>
+        <entry>
         <title>高德地图API没有免费额度了</title>
         <id>176793</id>
         <link href="https://xiangming.site/1179.html?utm_source=blogfinder" />
@@ -407,6 +506,17 @@
             <uri>https://blog.2broear.com</uri>
         </author>
         <summary type="text"><![CDATA[新增站点外链访问确认 – 博客更新（一百二十六）]]></summary>
+    </entry>
+        <entry>
+        <title>无题</title>
+        <id>177055</id>
+        <link href="https://shuiyun.page/2026/10/16/2026-10-16-%E6%97%A0%E9%A2%98/?utm_source=blogfinder" />
+        <published>2026-10-16T14:35:00+08:00</published>
+        <author>
+            <name>水云</name>
+            <uri>https://shuiyun.page</uri>
+        </author>
+        <summary type="text"><![CDATA[无题]]></summary>
     </entry>
         <entry>
         <title>我睡不着</title>
@@ -1419,60 +1529,5 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[电瓶车被老年代步车倒车时碰倒，事主居然直接跑了]]></summary>
-    </entry>
-        <entry>
-        <title>比较</title>
-        <id>176725</id>
-        <link href="https://inkcodes.com/notes/14?utm_source=blogfinder" />
-        <published>2026-10-14T16:49:44+08:00</published>
-        <author>
-            <name>InkCodes</name>
-            <uri>https://inkcodes.com</uri>
-        </author>
-        <summary type="text"><![CDATA[比较]]></summary>
-    </entry>
-        <entry>
-        <title>碎碎谈 · 10月14日 14:57</title>
-        <id>176714</id>
-        <link href="https://www.tjsky.net/shuoshuo/lbmw9nzvg9dfaqy5h4hxxh?utm_source=blogfinder" />
-        <published>2026-10-14T14:57:59+08:00</published>
-        <author>
-            <name>秋风于渭水</name>
-            <uri>https://www.tjsky.net</uri>
-        </author>
-        <summary type="text"><![CDATA[碎碎谈 · 10月14日 14:57]]></summary>
-    </entry>
-        <entry>
-        <title>灰色博物馆</title>
-        <id>176715</id>
-        <link href="https://liuqingwushui.top/archives/203/?utm_source=blogfinder" />
-        <published>2026-10-14T14:56:23+08:00</published>
-        <author>
-            <name>流情的博客</name>
-            <uri>https://liuqingwushui.top</uri>
-        </author>
-        <summary type="text"><![CDATA[灰色博物馆]]></summary>
-    </entry>
-        <entry>
-        <title>com 域名 11 月 1 日要涨价，我把续费直接拉满到了 2036 年</title>
-        <id>176759</id>
-        <link href="https://blog.zhheo.com/p/hokj3zk6.html?utm_source=blogfinder" />
-        <published>2026-10-14T14:47:19+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[com 域名 11 月 1 日要涨价，我把续费直接拉满到了 2036 年]]></summary>
-    </entry>
-        <entry>
-        <title>追逐一场日落</title>
-        <id>176709</id>
-        <link href="https://zhujay.com/talk/talk_detail.html?id=1285&amp;utm_source=blogfinder" />
-        <published>2026-10-14T13:00:16+08:00</published>
-        <author>
-            <name>朱小呆</name>
-            <uri>https://zhujay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[追逐一场日落]]></summary>
     </entry>
     </feed>
