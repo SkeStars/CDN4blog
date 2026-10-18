@@ -11,7 +11,73 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-10-18T12:00:21+08:00</updated>
+    <updated>2026-10-18T17:01:07+08:00</updated>
+        <entry>
+        <title>更新提示：《AI编程和人工编程的差别》新增</title>
+        <id>177158</id>
+        <link href="http://www.auiou.com/relevant/00010010.jsp?utm_source=blogfinder" />
+        <published>2026-10-18T13:57:00+08:00</published>
+        <author>
+            <name>王志勇的 Blog</name>
+            <uri>http://www.auiou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[更新提示：《AI编程和人工编程的差别》新增]]></summary>
+    </entry>
+        <entry>
+        <title>AI编程和人工编程的差别</title>
+        <id>177159</id>
+        <link href="http://www.auiou.com/relevant/00002224.jsp?utm_source=blogfinder" />
+        <published>2026-10-18T13:15:00+08:00</published>
+        <author>
+            <name>王志勇的 Blog</name>
+            <uri>http://www.auiou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[AI编程和人工编程的差别]]></summary>
+    </entry>
+        <entry>
+        <title>Coffee Break Clojure, Transducer</title>
+        <id>177162</id>
+        <link href="https://www.geedea.pro/article/clj8/?utm_source=blogfinder" />
+        <published>2026-10-18T12:26:01+08:00</published>
+        <author>
+            <name>極客死亡計劃</name>
+            <uri>https://www.geedea.pro</uri>
+        </author>
+        <summary type="text"><![CDATA[Coffee Break Clojure, Transducer]]></summary>
+    </entry>
+        <entry>
+        <title>上千张数据表时，MySQL use 数据库名需要等待几分钟</title>
+        <id>177164</id>
+        <link href="https://www.sunzhongwei.com/thousands-tables-mysql-needs-wait-few-minutes-use-database?utm_source=blogfinder" />
+        <published>2026-10-18T12:09:19+08:00</published>
+        <author>
+            <name>大象笔记</name>
+            <uri>https://www.sunzhongwei.com</uri>
+        </author>
+        <summary type="text"><![CDATA[上千张数据表时，MySQL use 数据库名需要等待几分钟]]></summary>
+    </entry>
+        <entry>
+        <title>在役主题：新·晴</title>
+        <id>177173</id>
+        <link href="https://sheanjohn.com/post/%E6%96%B0-%E6%99%B4?utm_source=blogfinder" />
+        <published>2026-10-18T12:05:02+08:00</published>
+        <author>
+            <name>幻境·试验田</name>
+            <uri>https://sheanjohn.com</uri>
+        </author>
+        <summary type="text"><![CDATA[在役主题：新·晴]]></summary>
+    </entry>
+        <entry>
+        <title>[楠竹蓮花集]如何写作</title>
+        <id>177166</id>
+        <link href="https://samuflore.top/posts/8334a787/?utm_source=blogfinder" />
+        <published>2026-10-18T11:52:02+08:00</published>
+        <author>
+            <name>SamuFlore</name>
+            <uri>https://samuflore.top</uri>
+        </author>
+        <summary type="text"><![CDATA[[楠竹蓮花集]如何写作]]></summary>
+    </entry>
         <entry>
         <title>之前姨夫给了好多不同口味的花茶，喝起来</title>
         <id>177155</id>
@@ -22,6 +88,17 @@
             <uri>https://chrison.cn</uri>
         </author>
         <summary type="text"><![CDATA[之前姨夫给了好多不同口味的花茶，喝起来]]></summary>
+    </entry>
+        <entry>
+        <title>Muse AI：Meta推出的免费个人AI Agent，支持自动处理邮件、日程管理和跨应用执行任务</title>
+        <id>177161</id>
+        <link href="https://www.wangdu.site/software/ai/2412.html?utm_source=blogfinder" />
+        <published>2026-10-18T11:32:36+08:00</published>
+        <author>
+            <name>文武科技柜</name>
+            <uri>https://www.wangdu.site</uri>
+        </author>
+        <summary type="text"><![CDATA[Muse AI：Meta推出的免费个人AI Agent，支持自动处理邮件、日程管理和跨应用执行任务]]></summary>
     </entry>
         <entry>
         <title>DeepSeek-V4.1-Flash-1017：DeepSeek最新开源AI模型，支持百万Token上下文、智能编程和Agent任务</title>
@@ -123,6 +200,17 @@
         <summary type="text"><![CDATA[课前分享演讲准备小记]]></summary>
     </entry>
         <entry>
+        <title>oh-my-efb，给 EFB 转发过的聊天记录做一个可搜索的网页</title>
+        <id>177165</id>
+        <link href="https://inkcodes.com/posts/tech/oh-my-efb-chatlog?utm_source=blogfinder" />
+        <published>2026-10-18T01:07:19+08:00</published>
+        <author>
+            <name>InkCodes</name>
+            <uri>https://inkcodes.com</uri>
+        </author>
+        <summary type="text"><![CDATA[oh-my-efb，给 EFB 转发过的聊天记录做一个可搜索的网页]]></summary>
+    </entry>
+        <entry>
         <title>【也闲谈·第五季·第四回】请享受你的孤独</title>
         <id>177152</id>
         <link href="http://www.qncd.com/?p=13242&amp;utm_source=blogfinder" />
@@ -143,6 +231,17 @@
             <uri>https://hjyl.org</uri>
         </author>
         <summary type="text"><![CDATA[土豆牛肉]]></summary>
+    </entry>
+        <entry>
+        <title>NekoMote Linux 动态壁纸：一个靠AI从想法到快速落地的项目实践</title>
+        <id>177163</id>
+        <link href="https://www.nekopara.uk/archives/NekoMote.html?utm_source=blogfinder" />
+        <published>2026-10-17T21:40:00+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[NekoMote Linux 动态壁纸：一个靠AI从想法到快速落地的项目实践]]></summary>
     </entry>
         <entry>
         <title>入蜀记 day507 做饭与附近、哼鸣、紫美石榴</title>
@@ -253,6 +352,17 @@
             <uri>http://www.auiou.com</uri>
         </author>
         <summary type="text"><![CDATA[数码评测(77)：最好的音乐播放硬件]]></summary>
+    </entry>
+        <entry>
+        <title>网络问题排查的思路和技巧</title>
+        <id>177160</id>
+        <link href="https://www.kawabangga.com/posts/7431?utm_source=blogfinder" />
+        <published>2026-10-17T17:54:55+08:00</published>
+        <author>
+            <name>卡瓦邦噶</name>
+            <uri>https://www.kawabangga.com</uri>
+        </author>
+        <summary type="text"><![CDATA[网络问题排查的思路和技巧]]></summary>
     </entry>
         <entry>
         <title>图像分割与抠图开源数据集清单：从 DUTS 到 S3OD</title>
@@ -1617,137 +1727,5 @@
             <uri>https://moyu.blog</uri>
         </author>
         <summary type="text"><![CDATA[你多久没换头像了]]></summary>
-    </entry>
-        <entry>
-        <title>2026-10-15-学习问答</title>
-        <id>176814</id>
-        <link href="https://www.ranjl.cn/web/articles/2026-10-15-学习记录?utm_source=blogfinder" />
-        <published>2026-10-15T17:00:03+08:00</published>
-        <author>
-            <name>冉江龙的个人空间</name>
-            <uri>https://www.ranjl.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-10-15-学习问答]]></summary>
-    </entry>
-        <entry>
-        <title>REA：免费开源AI逆向工程工具，让Claude Code、Codex分析软件源码与运行逻辑</title>
-        <id>176776</id>
-        <link href="https://www.wangdu.site/software/ai/2407.html?utm_source=blogfinder" />
-        <published>2026-10-15T16:51:40+08:00</published>
-        <author>
-            <name>文武科技柜</name>
-            <uri>https://www.wangdu.site</uri>
-        </author>
-        <summary type="text"><![CDATA[REA：免费开源AI逆向工程工具，让Claude Code、Codex分析软件源码与运行逻辑]]></summary>
-    </entry>
-        <entry>
-        <title>近期折腾的总结</title>
-        <id>176796</id>
-        <link href="https://pwsz.com/share/6798.html?utm_source=blogfinder" />
-        <published>2026-10-15T16:26:03+08:00</published>
-        <author>
-            <name>品味苏州</name>
-            <uri>https://pwsz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[近期折腾的总结]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day504 周期时间观、我都爱、低端定位</title>
-        <id>176821</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_504/?utm_source=blogfinder" />
-        <published>2026-10-15T16:04:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day504 周期时间观、我都爱、低端定位]]></summary>
-    </entry>
-        <entry>
-        <title>shiki 装了两份，最后靠 pnpm dedupe 收拾干净</title>
-        <id>176839</id>
-        <link href="https://blog.liuzhen932.top/posts/pnpm-dedupe-shiki-types/?utm_source=blogfinder" />
-        <published>2026-10-15T16:03:43+08:00</published>
-        <author>
-            <name>liuzhen932 的小窝</name>
-            <uri>https://blog.liuzhen932.top</uri>
-        </author>
-        <summary type="text"><![CDATA[shiki 装了两份，最后靠 pnpm dedupe 收拾干净]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day503 民族大学和人类学</title>
-        <id>176822</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_503/?utm_source=blogfinder" />
-        <published>2026-10-15T16:01:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day503 民族大学和人类学]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day502 补牙、不介意我消失、记住夏乌拉、平东CP</title>
-        <id>176823</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_502/?utm_source=blogfinder" />
-        <published>2026-10-15T15:55:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day502 补牙、不介意我消失、记住夏乌拉、平东CP]]></summary>
-    </entry>
-        <entry>
-        <title>评论区头像之殇</title>
-        <id>176800</id>
-        <link href="https://feiqi3.cn/post/45?utm_source=blogfinder" />
-        <published>2026-10-15T15:33:21+08:00</published>
-        <author>
-            <name>飞起的小窝</name>
-            <uri>https://feiqi3.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[评论区头像之殇]]></summary>
-    </entry>
-        <entry>
-        <title>日寄 三十四</title>
-        <id>176780</id>
-        <link href="https://cyrus19.cc/archives/2123?utm_source=blogfinder" />
-        <published>2026-10-15T15:04:07+08:00</published>
-        <author>
-            <name>CC 的数字花园</name>
-            <uri>https://cyrus19.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[日寄 三十四]]></summary>
-    </entry>
-        <entry>
-        <title>国庆老家行：朴园、三江营和村里的喷泉</title>
-        <id>176850</id>
-        <link href="https://www.weisay.com/blog/a-national-day-trip-home.html?utm_source=blogfinder" />
-        <published>2026-10-15T14:59:06+08:00</published>
-        <author>
-            <name>威言威语</name>
-            <uri>https://www.weisay.com/blog/</uri>
-        </author>
-        <summary type="text"><![CDATA[国庆老家行：朴园、三江营和村里的喷泉]]></summary>
-    </entry>
-        <entry>
-        <title>松声｜廿六年·十月中·骤生变</title>
-        <id>176784</id>
-        <link href="https://xyzbz.cn/archives/1585/?utm_source=blogfinder" />
-        <published>2026-10-15T14:55:01+08:00</published>
-        <author>
-            <name>网友小宋</name>
-            <uri>https://xyzbz.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[松声｜廿六年·十月中·骤生变]]></summary>
-    </entry>
-        <entry>
-        <title>摘：《Monsieur Teste》</title>
-        <id>176824</id>
-        <link href="https://z.arlmy.me/posts/Note/Note_PaulValery_MonsieurTeste/?utm_source=blogfinder" />
-        <published>2026-10-15T13:07:46+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[摘：《Monsieur Teste》]]></summary>
     </entry>
     </feed>
