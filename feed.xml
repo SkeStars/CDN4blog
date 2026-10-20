@@ -11,7 +11,84 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-10-20T13:07:45+08:00</updated>
+    <updated>2026-10-20T18:00:25+08:00</updated>
+        <entry>
+        <title>2026-10-20-学习问答</title>
+        <id>177405</id>
+        <link href="https://www.ranjl.cn/web/articles/2026-10-20-学习记录?utm_source=blogfinder" />
+        <published>2026-10-20T17:00:03+08:00</published>
+        <author>
+            <name>冉江龙的个人空间</name>
+            <uri>https://www.ranjl.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-10-20-学习问答]]></summary>
+    </entry>
+        <entry>
+        <title>【儿女记】为生而为人感到幸福</title>
+        <id>177400</id>
+        <link href="http://www.qncd.com/?p=13252&amp;utm_source=blogfinder" />
+        <published>2026-10-20T16:02:51+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【儿女记】为生而为人感到幸福]]></summary>
+    </entry>
+        <entry>
+        <title>博客新增了两个页面</title>
+        <id>177399</id>
+        <link href="https://sigge.cn/2026/10/20/tySZ5Xp3?utm_source=blogfinder" />
+        <published>2026-10-20T15:58:47+08:00</published>
+        <author>
+            <name>毛伊西格</name>
+            <uri>https://sigge.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[博客新增了两个页面]]></summary>
+    </entry>
+        <entry>
+        <title>常用空间测绘搜索引擎</title>
+        <id>177404</id>
+        <link href="https://www.liyaqi.com/feeds/01a1582447af?utm_source=blogfinder" />
+        <published>2026-10-20T15:08:55+08:00</published>
+        <author>
+            <name>Qzone</name>
+            <uri>https://www.liyaqi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[常用空间测绘搜索引擎]]></summary>
+    </entry>
+        <entry>
+        <title>贾鲁河史歌</title>
+        <id>177398</id>
+        <link href="https://www.iliu.org/posts/jialu-he-shige/?utm_source=blogfinder" />
+        <published>2026-10-20T14:50:00+08:00</published>
+        <author>
+            <name>老刘博客</name>
+            <uri>https://www.iliu.org</uri>
+        </author>
+        <summary type="text"><![CDATA[贾鲁河史歌]]></summary>
+    </entry>
+        <entry>
+        <title>叶公好龙式的&quot;梦中情职“</title>
+        <id>177402</id>
+        <link href="https://www.pgoj.top/archives/zhi-ye-kan-huo-meng-zhong.html?utm_source=blogfinder" />
+        <published>2026-10-20T14:47:13+08:00</published>
+        <author>
+            <name>平哥偶记</name>
+            <uri>https://www.pgoj.top</uri>
+        </author>
+        <summary type="text"><![CDATA[叶公好龙式的&quot;梦中情职“]]></summary>
+    </entry>
+        <entry>
+        <title>oh-my-efb， AI 总结、ask 问答、待办提醒等中间件</title>
+        <id>177401</id>
+        <link href="https://inkcodes.com/posts/tech/oh-my-efb-middlewares?utm_source=blogfinder" />
+        <published>2026-10-20T12:27:23+08:00</published>
+        <author>
+            <name>InkCodes</name>
+            <uri>https://inkcodes.com</uri>
+        </author>
+        <summary type="text"><![CDATA[oh-my-efb， AI 总结、ask 问答、待办提醒等中间件]]></summary>
+    </entry>
         <entry>
         <title>一场雨后，天慢慢凉了</title>
         <id>177397</id>
@@ -88,6 +165,17 @@
             <uri>https://blog.aqcoder.cn/</uri>
         </author>
         <summary type="text"><![CDATA[每日 AI 新闻简报（2026-10-20）]]></summary>
+    </entry>
+        <entry>
+        <title>失职与无助</title>
+        <id>177403</id>
+        <link href="https://blog.solazy.me/20261019/?utm_source=blogfinder" />
+        <published>2026-10-19T23:30:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[失职与无助]]></summary>
     </entry>
         <entry>
         <title>碎碎念 №113</title>
@@ -1562,181 +1650,5 @@
             <uri>http://www.auiou.com</uri>
         </author>
         <summary type="text"><![CDATA[数码评测(77)：最好的音乐播放硬件]]></summary>
-    </entry>
-        <entry>
-        <title>网络问题排查的思路和技巧</title>
-        <id>177160</id>
-        <link href="https://www.kawabangga.com/posts/7431?utm_source=blogfinder" />
-        <published>2026-10-17T17:54:55+08:00</published>
-        <author>
-            <name>卡瓦邦噶</name>
-            <uri>https://www.kawabangga.com</uri>
-        </author>
-        <summary type="text"><![CDATA[网络问题排查的思路和技巧]]></summary>
-    </entry>
-        <entry>
-        <title>图像分割与抠图开源数据集清单：从 DUTS 到 S3OD</title>
-        <id>177092</id>
-        <link href="https://www.paddysun.top/archives/5526?utm_source=blogfinder" />
-        <published>2026-10-17T17:31:23+08:00</published>
-        <author>
-            <name>Under the Sun with Paddy</name>
-            <uri>https://www.paddysun.top</uri>
-        </author>
-        <summary type="text"><![CDATA[图像分割与抠图开源数据集清单：从 DUTS 到 S3OD]]></summary>
-    </entry>
-        <entry>
-        <title>高速惊魂</title>
-        <id>177080</id>
-        <link href="https://www.iliu.org/posts/tire-pressure-and-grasshopper/?utm_source=blogfinder" />
-        <published>2026-10-17T17:30:00+08:00</published>
-        <author>
-            <name>老刘博客</name>
-            <uri>https://www.iliu.org</uri>
-        </author>
-        <summary type="text"><![CDATA[高速惊魂]]></summary>
-    </entry>
-        <entry>
-        <title>碎碎念 №112</title>
-        <id>177064</id>
-        <link href="https://pwsz.com/memos#suimo-6836?utm_source=blogfinder" />
-        <published>2026-10-17T17:29:25+08:00</published>
-        <author>
-            <name>品味苏州</name>
-            <uri>https://pwsz.com</uri>
-        </author>
-        <summary type="text"><![CDATA[碎碎念 №112]]></summary>
-    </entry>
-        <entry>
-        <title>在高德、百度地图申请变更公司实际生产经营地址</title>
-        <id>177077</id>
-        <link href="https://www.aiwazi.com/3531.html?utm_source=blogfinder" />
-        <published>2026-10-17T17:10:58+08:00</published>
-        <author>
-            <name>爱娃子</name>
-            <uri>https://www.aiwazi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[在高德、百度地图申请变更公司实际生产经营地址]]></summary>
-    </entry>
-        <entry>
-        <title>2026-10-17-学习问答</title>
-        <id>177066</id>
-        <link href="https://www.ranjl.cn/web/articles/2026-10-17-学习记录?utm_source=blogfinder" />
-        <published>2026-10-17T17:00:03+08:00</published>
-        <author>
-            <name>冉江龙的个人空间</name>
-            <uri>https://www.ranjl.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-10-17-学习问答]]></summary>
-    </entry>
-        <entry>
-        <title>为什么没有尊界 v800 车主亲自出来测试刹车踏板</title>
-        <id>177146</id>
-        <link href="https://fxpai.com/article/weishenmemeiyouzunjie-v800-chezhuqinzichulaiceshishachetaban?utm_source=blogfinder" />
-        <published>2026-10-17T16:38:06+08:00</published>
-        <author>
-            <name>非学·派</name>
-            <uri>https://fxpai.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么没有尊界 v800 车主亲自出来测试刹车踏板]]></summary>
-    </entry>
-        <entry>
-        <title>校园秋色</title>
-        <id>177065</id>
-        <link href="https://xingwangzhe.fun/posts/campus-autumn-20261017/?utm_source=blogfinder" />
-        <published>2026-10-17T16:08:30+08:00</published>
-        <author>
-            <name>姓王者的博客</name>
-            <uri>https://xingwangzhe.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[校园秋色]]></summary>
-    </entry>
-        <entry>
-        <title>数落老妈的聊天记录</title>
-        <id>177147</id>
-        <link href="https://www.lindongfang.top/archives/2714/?utm_source=blogfinder" />
-        <published>2026-10-17T16:00:00+08:00</published>
-        <author>
-            <name>游子微博</name>
-            <uri>https://www.lindongfang.top</uri>
-        </author>
-        <summary type="text"><![CDATA[数落老妈的聊天记录]]></summary>
-    </entry>
-        <entry>
-        <title>Ubuntu 下 WanGP 部署 MiniMax H3</title>
-        <id>177060</id>
-        <link href="https://www.suiyan.cc/blog/20261017152537?utm_source=blogfinder" />
-        <published>2026-10-17T15:25:37+08:00</published>
-        <author>
-            <name>碎言博客</name>
-            <uri>https://www.suiyan.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[Ubuntu 下 WanGP 部署 MiniMax H3]]></summary>
-    </entry>
-        <entry>
-        <title>2026.10.17</title>
-        <id>177062</id>
-        <link href="https://www.justzht.com/2026-10-17/?utm_source=blogfinder" />
-        <published>2026-10-17T15:14:56+08:00</published>
-        <author>
-            <name>JustZht</name>
-            <uri>https://www.justzht.com</uri>
-        </author>
-        <summary type="text"><![CDATA[2026.10.17]]></summary>
-    </entry>
-        <entry>
-        <title>规范与日常</title>
-        <id>177054</id>
-        <link href="https://sliun.com/poetryorigin/?utm_source=blogfinder" />
-        <published>2026-10-17T14:57:00+08:00</published>
-        <author>
-            <name>理论派</name>
-            <uri>https://sliun.com</uri>
-        </author>
-        <summary type="text"><![CDATA[规范与日常]]></summary>
-    </entry>
-        <entry>
-        <title>free-for-dev 中文版：一个每天自动翻译、成本约零的穷鬼套餐索引</title>
-        <id>177087</id>
-        <link href="https://baiwumm.com/posts/k7m4x9q2/?utm_source=blogfinder" />
-        <published>2026-10-17T14:45:00+08:00</published>
-        <author>
-            <name>谜叶象限</name>
-            <uri>https://www.baiwumm.com</uri>
-        </author>
-        <summary type="text"><![CDATA[free-for-dev 中文版：一个每天自动翻译、成本约零的穷鬼套餐索引]]></summary>
-    </entry>
-        <entry>
-        <title>魔兽密语 · WowChat</title>
-        <id>177101</id>
-        <link href="https://www.gaicas.com/wowchat.html?utm_source=blogfinder" />
-        <published>2026-10-17T14:28:05+08:00</published>
-        <author>
-            <name>草东日记</name>
-            <uri>https://www.gaicas.com</uri>
-        </author>
-        <summary type="text"><![CDATA[魔兽密语 · WowChat]]></summary>
-    </entry>
-        <entry>
-        <title>万界书简：把散落各处的信，收进同一份目录</title>
-        <id>177157</id>
-        <link href="https://blog.52hyjs.com/post-1290.html?utm_source=blogfinder" />
-        <published>2026-10-17T13:37:55+08:00</published>
-        <author>
-            <name>幻影博客</name>
-            <uri>https://blog.52hyjs.com</uri>
-        </author>
-        <summary type="text"><![CDATA[万界书简：把散落各处的信，收进同一份目录]]></summary>
-    </entry>
-        <entry>
-        <title>处理了一下评论区老链接的隐患</title>
-        <id>177058</id>
-        <link href="https://usj.cc/20261017134042.html?utm_source=blogfinder" />
-        <published>2026-10-17T13:35:00+08:00</published>
-        <author>
-            <name>优世界</name>
-            <uri>https://usj.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[处理了一下评论区老链接的隐患]]></summary>
     </entry>
     </feed>
