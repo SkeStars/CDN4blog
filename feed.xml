@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-10-20T23:01:23+08:00</updated>
+    <updated>2026-10-21T00:00:29+08:00</updated>
+        <entry>
+        <title>昨日团建</title>
+        <id>177416</id>
+        <link href="https://hjyl.org/yesterday-team-building/?utm_source=blogfinder" />
+        <published>2026-10-20T23:13:04+08:00</published>
+        <author>
+            <name>皇家元林</name>
+            <uri>https://hjyl.org</uri>
+        </author>
+        <summary type="text"><![CDATA[昨日团建]]></summary>
+    </entry>
+        <entry>
+        <title>望东方，木刻艺术展</title>
+        <id>177415</id>
+        <link href="https://www.chenrui.com/post/3525.html?utm_source=blogfinder" />
+        <published>2026-10-20T22:24:23+08:00</published>
+        <author>
+            <name>不可</name>
+            <uri>https://www.chenrui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[望东方，木刻艺术展]]></summary>
+    </entry>
         <entry>
         <title>图片压缩工具微信小程序，手机本地压缩体积减少九成</title>
         <id>177411</id>
@@ -1562,38 +1584,5 @@
             <uri>https://inkcodes.com</uri>
         </author>
         <summary type="text"><![CDATA[oh-my-efb，给 EFB 转发过的聊天记录做一个可搜索的网页]]></summary>
-    </entry>
-        <entry>
-        <title>Starryblu：跨境资金管理平台Wise的平替？</title>
-        <id>177202</id>
-        <link href="https://tumutanzi.com/archives/17648?utm_source=blogfinder" />
-        <published>2026-10-18T00:00:07+08:00</published>
-        <author>
-            <name>土木坛子</name>
-            <uri>https://tumutanzi.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Starryblu：跨境资金管理平台Wise的平替？]]></summary>
-    </entry>
-        <entry>
-        <title>用 Go 自动同步腾讯云 SSL 证书到 Traefik：下载、校验与失败回滚</title>
-        <id>177286</id>
-        <link href="https://nicksxs.me/2026/10/18/%E7%94%A8Go%E8%87%AA%E5%8A%A8%E5%90%8C%E6%AD%A5%E8%85%BE%E8%AE%AF%E4%BA%91SSL%E8%AF%81%E4%B9%A6%E5%88%B0Traefik-%E4%B8%8B%E8%BD%BD%E6%A0%A1%E9%AA%8C%E4%B8%8E%E5%A4%B1%E8%B4%A5%E5%9B%9E%E6%BB%9A/?utm_source=blogfinder" />
-        <published>2026-10-18T00:00:00+08:00</published>
-        <author>
-            <name>Nicksxs&#039;s Blog</name>
-            <uri>https://nicksxs.me</uri>
-        </author>
-        <summary type="text"><![CDATA[用 Go 自动同步腾讯云 SSL 证书到 Traefik：下载、校验与失败回滚]]></summary>
-    </entry>
-        <entry>
-        <title>【也闲谈·第五季·第四回】请享受你的孤独</title>
-        <id>177152</id>
-        <link href="http://www.qncd.com/?p=13242&amp;utm_source=blogfinder" />
-        <published>2026-10-17T23:05:31+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【也闲谈·第五季·第四回】请享受你的孤独]]></summary>
     </entry>
     </feed>
