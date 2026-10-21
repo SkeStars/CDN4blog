@@ -11,7 +11,205 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-10-21T23:01:43+08:00</updated>
+    <updated>2026-10-22T04:05:57+08:00</updated>
+        <entry>
+        <title>Spock 的群聊调度与回应设计</title>
+        <id>177512</id>
+        <link href="https://blog.im0o.top/posts/89cb52cd?utm_source=blogfinder" />
+        <published>2026-10-22T02:40:00+08:00</published>
+        <author>
+            <name>0o酱</name>
+            <uri>https://blog.im0o.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Spock 的群聊调度与回应设计]]></summary>
+    </entry>
+        <entry>
+        <title>think-twice：让 Agent 写出读者能理解的说明</title>
+        <id>177513</id>
+        <link href="https://blog.im0o.top/posts/87bda1f7?utm_source=blogfinder" />
+        <published>2026-10-22T02:39:00+08:00</published>
+        <author>
+            <name>0o酱</name>
+            <uri>https://blog.im0o.top</uri>
+        </author>
+        <summary type="text"><![CDATA[think-twice：让 Agent 写出读者能理解的说明]]></summary>
+    </entry>
+        <entry>
+        <title>用 CSS 实现 3D 设备动效</title>
+        <id>177514</id>
+        <link href="https://blog.im0o.top/posts/ad657fb9?utm_source=blogfinder" />
+        <published>2026-10-22T02:38:00+08:00</published>
+        <author>
+            <name>0o酱</name>
+            <uri>https://blog.im0o.top</uri>
+        </author>
+        <summary type="text"><![CDATA[用 CSS 实现 3D 设备动效]]></summary>
+    </entry>
+        <entry>
+        <title>一次业务前端重构：让代码结构对应实际的修改</title>
+        <id>177515</id>
+        <link href="https://blog.im0o.top/posts/ed748f2f?utm_source=blogfinder" />
+        <published>2026-10-22T02:37:00+08:00</published>
+        <author>
+            <name>0o酱</name>
+            <uri>https://blog.im0o.top</uri>
+        </author>
+        <summary type="text"><![CDATA[一次业务前端重构：让代码结构对应实际的修改]]></summary>
+    </entry>
+        <entry>
+        <title>LeapAll 官网设计：从任务场景到交互细节</title>
+        <id>177516</id>
+        <link href="https://blog.im0o.top/posts/81236728?utm_source=blogfinder" />
+        <published>2026-10-22T02:36:00+08:00</published>
+        <author>
+            <name>0o酱</name>
+            <uri>https://blog.im0o.top</uri>
+        </author>
+        <summary type="text"><![CDATA[LeapAll 官网设计：从任务场景到交互细节]]></summary>
+    </entry>
+        <entry>
+        <title>Dice：模拟扔到五个六的终端小游戏</title>
+        <id>177517</id>
+        <link href="https://blog.im0o.top/posts/5b1448ea?utm_source=blogfinder" />
+        <published>2026-10-22T02:35:00+08:00</published>
+        <author>
+            <name>0o酱</name>
+            <uri>https://blog.im0o.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Dice：模拟扔到五个六的终端小游戏]]></summary>
+    </entry>
+        <entry>
+        <title>一次公司官网改版中的设计取舍</title>
+        <id>177518</id>
+        <link href="https://blog.im0o.top/posts/6f681f52?utm_source=blogfinder" />
+        <published>2026-10-22T02:34:00+08:00</published>
+        <author>
+            <name>0o酱</name>
+            <uri>https://blog.im0o.top</uri>
+        </author>
+        <summary type="text"><![CDATA[一次公司官网改版中的设计取舍]]></summary>
+    </entry>
+        <entry>
+        <title>让只看 diff 的 Agent 反推设计意图</title>
+        <id>177519</id>
+        <link href="https://blog.im0o.top/posts/489762ab?utm_source=blogfinder" />
+        <published>2026-10-22T02:33:00+08:00</published>
+        <author>
+            <name>0o酱</name>
+            <uri>https://blog.im0o.top</uri>
+        </author>
+        <summary type="text"><![CDATA[让只看 diff 的 Agent 反推设计意图]]></summary>
+    </entry>
+        <entry>
+        <title>Driver.js 跨页面引导接入记录</title>
+        <id>177520</id>
+        <link href="https://blog.im0o.top/posts/2d0ff66d?utm_source=blogfinder" />
+        <published>2026-10-22T02:32:00+08:00</published>
+        <author>
+            <name>0o酱</name>
+            <uri>https://blog.im0o.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Driver.js 跨页面引导接入记录]]></summary>
+    </entry>
+        <entry>
+        <title>用 justfile 在 Windows Terminal 快速启动开发环境</title>
+        <id>177521</id>
+        <link href="https://blog.im0o.top/posts/c8a34f53?utm_source=blogfinder" />
+        <published>2026-10-22T02:31:00+08:00</published>
+        <author>
+            <name>0o酱</name>
+            <uri>https://blog.im0o.top</uri>
+        </author>
+        <summary type="text"><![CDATA[用 justfile 在 Windows Terminal 快速启动开发环境]]></summary>
+    </entry>
+        <entry>
+        <title>我的项目</title>
+        <id>177524</id>
+        <link href="https://min168.top/com/project/project.html?utm_source=blogfinder" />
+        <published>2026-10-22T00:40:16+08:00</published>
+        <author>
+            <name>卷卷</name>
+            <uri>https://min168.top</uri>
+        </author>
+        <summary type="text"><![CDATA[我的项目]]></summary>
+    </entry>
+        <entry>
+        <title>项目</title>
+        <id>177523</id>
+        <link href="https://min168.top/project.html?utm_source=blogfinder" />
+        <published>2026-10-22T00:40:16+08:00</published>
+        <author>
+            <name>卷卷</name>
+            <uri>https://min168.top</uri>
+        </author>
+        <summary type="text"><![CDATA[项目]]></summary>
+    </entry>
+        <entry>
+        <title>如何用千问AI耳机做一个能读写自己笔记的随身助手</title>
+        <id>177500</id>
+        <link href="https://www.xuezhao.space/qwen-ai-earbuds-siyuan.html?utm_source=blogfinder" />
+        <published>2026-10-21T23:16:39+08:00</published>
+        <author>
+            <name>海拉鲁打怪日记</name>
+            <uri>https://www.xuezhao.space</uri>
+        </author>
+        <summary type="text"><![CDATA[如何用千问AI耳机做一个能读写自己笔记的随身助手]]></summary>
+    </entry>
+        <entry>
+        <title>免费京东云OSS</title>
+        <id>177522</id>
+        <link href="https://me.xu19.com/free-10gb-jd-cloud-object-storage-oss/?utm_source=blogfinder" />
+        <published>2026-10-21T22:44:30+08:00</published>
+        <author>
+            <name>我是军爸</name>
+            <uri>https://me.xu19.com</uri>
+        </author>
+        <summary type="text"><![CDATA[免费京东云OSS]]></summary>
+    </entry>
+        <entry>
+        <title>我想看孙燕姿演唱会</title>
+        <id>177495</id>
+        <link href="https://meledee.com/2026/10/4864.html?utm_source=blogfinder" />
+        <published>2026-10-21T22:44:06+08:00</published>
+        <author>
+            <name>美樂地</name>
+            <uri>https://meledee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我想看孙燕姿演唱会]]></summary>
+    </entry>
+        <entry>
+        <title>249 通过数据来理解财富与奇迹</title>
+        <id>177502</id>
+        <link href="http://ddw2019.com/249?utm_source=blogfinder" />
+        <published>2026-10-21T22:29:36+08:00</published>
+        <author>
+            <name>Dongdong&#039;s Blog</name>
+            <uri>https://ddw2019.com</uri>
+        </author>
+        <summary type="text"><![CDATA[249 通过数据来理解财富与奇迹]]></summary>
+    </entry>
+        <entry>
+        <title>248 近期博客CDN流量触发报警及应对方法</title>
+        <id>177503</id>
+        <link href="http://ddw2019.com/248?utm_source=blogfinder" />
+        <published>2026-10-21T22:17:05+08:00</published>
+        <author>
+            <name>Dongdong&#039;s Blog</name>
+            <uri>https://ddw2019.com</uri>
+        </author>
+        <summary type="text"><![CDATA[248 近期博客CDN流量触发报警及应对方法]]></summary>
+    </entry>
+        <entry>
+        <title>我的网站主题2.0</title>
+        <id>177497</id>
+        <link href="https://molyun.com/posts/%E6%88%91%E7%9A%84%E7%BD%91%E7%AB%99%E4%B8%BB%E9%A2%982.0/?utm_source=blogfinder" />
+        <published>2026-10-21T22:08:00+08:00</published>
+        <author>
+            <name>阿伏伽德罗的云端</name>
+            <uri>https://molyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我的网站主题2.0]]></summary>
+    </entry>
         <entry>
         <title>Hexo 博客全方位速度与 SEO 优化实战（2026年实测）</title>
         <id>177488</id>
@@ -44,6 +242,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[博客的评论（回应）真的很重要吗？]]></summary>
+    </entry>
+        <entry>
+        <title>PHP 发现严重 0day 漏洞，PHP2Shell</title>
+        <id>177496</id>
+        <link href="https://www.51it.wang/ll/php-0day-php2shell?utm_source=blogfinder" />
+        <published>2026-10-21T21:21:00+08:00</published>
+        <author>
+            <name>Lcry</name>
+            <uri>https://www.51it.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[PHP 发现严重 0day 漏洞，PHP2Shell]]></summary>
     </entry>
         <entry>
         <title>授权运行小程序的微信账号与当前微信账号不一致</title>
@@ -112,6 +321,28 @@
         <summary type="text"><![CDATA[开了8年车才发现一个高速省油妙招]]></summary>
     </entry>
         <entry>
+        <title>[紧急安全预警] PHP 爆出 9.2 分 PHP2Shell 核心级漏洞的处理</title>
+        <id>177498</id>
+        <link href="https://wuta.cc/020?utm_source=blogfinder" />
+        <published>2026-10-21T19:14:00+08:00</published>
+        <author>
+            <name>无他</name>
+            <uri>https://wuta.cc</uri>
+        </author>
+        <summary type="text"><![CDATA[[紧急安全预警] PHP 爆出 9.2 分 PHP2Shell 核心级漏洞的处理]]></summary>
+    </entry>
+        <entry>
+        <title>Typecho &amp;amp; PaperMod 主题</title>
+        <id>177499</id>
+        <link href="https://xingtu.org/739.html?utm_source=blogfinder" />
+        <published>2026-10-21T19:01:56+08:00</published>
+        <author>
+            <name>星图博客</name>
+            <uri>https://xingtu.org</uri>
+        </author>
+        <summary type="text"><![CDATA[Typecho &amp;amp; PaperMod 主题]]></summary>
+    </entry>
+        <entry>
         <title>SDR-Z103 在 Arch Linux 下的安装与调试总结</title>
         <id>177486</id>
         <link href="https://loveapple.space/blog/SDR-Z103-GNURadio/?utm_source=blogfinder" />
@@ -178,6 +409,17 @@
         <summary type="text"><![CDATA[联合招标的几个基础性问题]]></summary>
     </entry>
         <entry>
+        <title>跳出复仇爽感，再读《黑暗荣耀》里藏着的人生命题</title>
+        <id>177528</id>
+        <link href="https://blogs.lovewsx.top/archives/106/?utm_source=blogfinder" />
+        <published>2026-10-21T16:32:58+08:00</published>
+        <author>
+            <name>爱吃甜别加辣</name>
+            <uri>https://blogs.lovewsx.top</uri>
+        </author>
+        <summary type="text"><![CDATA[跳出复仇爽感，再读《黑暗荣耀》里藏着的人生命题]]></summary>
+    </entry>
+        <entry>
         <title>《食事札记》（1）</title>
         <id>177466</id>
         <link href="https://www.weiwenchao.com/2842.html?utm_source=blogfinder" />
@@ -200,6 +442,17 @@
         <summary type="text"><![CDATA[装神弄鬼与阅读理解]]></summary>
     </entry>
         <entry>
+        <title>博客建站三周年大杂谈</title>
+        <id>177501</id>
+        <link href="https://blog.starsharbor.com/posts/blog-3rd-anniversary?utm_source=blogfinder" />
+        <published>2026-10-21T16:10:00+08:00</published>
+        <author>
+            <name>星港 Star</name>
+            <uri>https://blog.starsharbor.com</uri>
+        </author>
+        <summary type="text"><![CDATA[博客建站三周年大杂谈]]></summary>
+    </entry>
+        <entry>
         <title>双十一以外的消费杂谈，金融消费也是消费</title>
         <id>177454</id>
         <link href="https://i.lckiss.com/?p=9946&amp;utm_source=blogfinder" />
@@ -220,6 +473,17 @@
             <uri>https://wuqishi.com</uri>
         </author>
         <summary type="text"><![CDATA[白嫖1000积分：QClaw迁移WorkBuddy保姆级教程（附退款与备份）]]></summary>
+    </entry>
+        <entry>
+        <title>狗尾草，接住漫过来的晚风</title>
+        <id>177529</id>
+        <link href="https://blogs.lovewsx.top/archives/105/?utm_source=blogfinder" />
+        <published>2026-10-21T10:49:25+08:00</published>
+        <author>
+            <name>爱吃甜别加辣</name>
+            <uri>https://blogs.lovewsx.top</uri>
+        </author>
+        <summary type="text"><![CDATA[狗尾草，接住漫过来的晚风]]></summary>
     </entry>
         <entry>
         <title>变化</title>
@@ -420,6 +684,17 @@
         <summary type="text"><![CDATA[入蜀记 day511 二手文章、小饭骨、乱花争放]]></summary>
     </entry>
         <entry>
+        <title>游戏评测：沙金工业</title>
+        <id>177527</id>
+        <link href="https://leenet.xyz/post/game-evaluation-sandustry?utm_source=blogfinder" />
+        <published>2026-10-21T00:00:00+08:00</published>
+        <author>
+            <name>里世界</name>
+            <uri>https://leenet.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[游戏评测：沙金工业]]></summary>
+    </entry>
+        <entry>
         <title>入蜀记 day510 二姐、没有根的演奏者、足火水仙、我去哪儿</title>
         <id>177449</id>
         <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_510/?utm_source=blogfinder" />
@@ -594,6 +869,17 @@
             <uri>https://d-d.design</uri>
         </author>
         <summary type="text"><![CDATA[为你千千万万遍]]></summary>
+    </entry>
+        <entry>
+        <title>泥巴印子</title>
+        <id>177530</id>
+        <link href="https://blogs.lovewsx.top/archives/104/?utm_source=blogfinder" />
+        <published>2026-10-20T17:25:00+08:00</published>
+        <author>
+            <name>爱吃甜别加辣</name>
+            <uri>https://blogs.lovewsx.top</uri>
+        </author>
+        <summary type="text"><![CDATA[泥巴印子]]></summary>
     </entry>
         <entry>
         <title>2026-10-20-学习问答</title>
@@ -1507,27 +1793,5 @@
             <uri>https://bluehe.cn</uri>
         </author>
         <summary type="text"><![CDATA[厦门出差记（五）：攻略厦门植物园]]></summary>
-    </entry>
-        <entry>
-        <title>Fragments 0x0015</title>
-        <id>177396</id>
-        <link href="https://lenciel.com/2026/10/fragments-0x0015/?utm_source=blogfinder" />
-        <published>2026-10-19T02:26:39+08:00</published>
-        <author>
-            <name>@Lenciel</name>
-            <uri>https://lenciel.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Fragments 0x0015]]></summary>
-    </entry>
-        <entry>
-        <title>简单调整主机风道</title>
-        <id>177261</id>
-        <link href="https://ezo.biz/Play_More/1758.html?utm_source=blogfinder" />
-        <published>2026-10-18T23:12:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[简单调整主机风道]]></summary>
     </entry>
     </feed>
