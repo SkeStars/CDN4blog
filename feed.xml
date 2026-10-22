@@ -11,7 +11,29 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-10-22T23:00:44+08:00</updated>
+    <updated>2026-10-23T04:04:02+08:00</updated>
+        <entry>
+        <title>QuietSearch:支持 Kagi 和 DeepSeek API 的轻量搜索界面</title>
+        <id>177590</id>
+        <link href="https://anotherdayu.com/quietsearch-kagi-deepseek-api/?utm_source=blogfinder" />
+        <published>2026-10-22T23:30:00+08:00</published>
+        <author>
+            <name>Another Dayu</name>
+            <uri>https://anotherdayu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[QuietSearch:支持 Kagi 和 DeepSeek API 的轻量搜索界面]]></summary>
+    </entry>
+        <entry>
+        <title>20261022</title>
+        <id>177697</id>
+        <link href="https://61.life/2026/1022?utm_source=blogfinder" />
+        <published>2026-10-22T22:16:33+08:00</published>
+        <author>
+            <name>61’s life</name>
+            <uri>https://61.life</uri>
+        </author>
+        <summary type="text"><![CDATA[20261022]]></summary>
+    </entry>
         <entry>
         <title>被讨厌之后，人才能自由</title>
         <id>177588</id>
@@ -44,6 +66,17 @@
             <uri>https://www.sunzhongwei.com</uri>
         </author>
         <summary type="text"><![CDATA[RuoYi Vue 管理后台页面的 Nginx 缓存问题]]></summary>
+    </entry>
+        <entry>
+        <title>记一次PHP安全漏洞的马拉松式修复</title>
+        <id>177698</id>
+        <link href="https://blog.star7th.com/2026/10/2643.html?utm_source=blogfinder" />
+        <published>2026-10-22T19:51:20+08:00</published>
+        <author>
+            <name>第七星尘</name>
+            <uri>https://blog.star7th.com</uri>
+        </author>
+        <summary type="text"><![CDATA[记一次PHP安全漏洞的马拉松式修复]]></summary>
     </entry>
         <entry>
         <title>【福州鱼丸】福建福州福州国家地理标志产品|食品类特产</title>
@@ -99,6 +132,17 @@
             <uri>https://pwsz.com</uri>
         </author>
         <summary type="text"><![CDATA[碎碎念 №115]]></summary>
+    </entry>
+        <entry>
+        <title>一些我喜欢的宝藏博主与网站</title>
+        <id>177727</id>
+        <link href="https://liuyuyang.net/article/2295?utm_source=blogfinder" />
+        <published>2026-10-22T16:17:21+08:00</published>
+        <author>
+            <name>宇阳</name>
+            <uri>https://liuyuyang.net</uri>
+        </author>
+        <summary type="text"><![CDATA[一些我喜欢的宝藏博主与网站]]></summary>
     </entry>
         <entry>
         <title>让微信小程序直接在普通浏览器中运行，从而使用 Chrome DevTools 调试并支持 Playwright 无头 E2E 测试。</title>
@@ -222,6 +266,28 @@
         <summary type="text"><![CDATA[穿越时空的提问：如果青春是一本读不懂的英语书]]></summary>
     </entry>
         <entry>
+        <title>帝国 CMS 在 Nginx 配置 nosniff 后，内容页无法正常显示实时点击数的问题及解决方法</title>
+        <id>177726</id>
+        <link href="https://aijun.org/ECMS-Nginx-nosniff/?utm_source=blogfinder" />
+        <published>2026-10-22T11:57:00+08:00</published>
+        <author>
+            <name>A 君博客</name>
+            <uri>https://aijun.org</uri>
+        </author>
+        <summary type="text"><![CDATA[帝国 CMS 在 Nginx 配置 nosniff 后，内容页无法正常显示实时点击数的问题及解决方法]]></summary>
+    </entry>
+        <entry>
+        <title>PHP 这次是真的火了，只不过火得有点吓人</title>
+        <id>177725</id>
+        <link href="https://hejunjie.life/blog/aisjr84y?utm_source=blogfinder" />
+        <published>2026-10-22T11:44:51+08:00</published>
+        <author>
+            <name>星河避难所</name>
+            <uri>https://hejunjie.life</uri>
+        </author>
+        <summary type="text"><![CDATA[PHP 这次是真的火了，只不过火得有点吓人]]></summary>
+    </entry>
+        <entry>
         <title>2026.10.21</title>
         <id>177575</id>
         <link href="https://www.justzht.com/2026-10-21/?utm_source=blogfinder" />
@@ -231,6 +297,17 @@
             <uri>https://www.justzht.com</uri>
         </author>
         <summary type="text"><![CDATA[2026.10.21]]></summary>
+    </entry>
+        <entry>
+        <title>昨天整个互联网安全圈都炸了</title>
+        <id>177700</id>
+        <link href="https://heitaosan.com/article/237?utm_source=blogfinder" />
+        <published>2026-10-22T10:37:00+08:00</published>
+        <author>
+            <name>黑桃三</name>
+            <uri>https://heitaosan.com</uri>
+        </author>
+        <summary type="text"><![CDATA[昨天整个互联网安全圈都炸了]]></summary>
     </entry>
         <entry>
         <title>狂欢</title>
@@ -288,6 +365,17 @@
         <summary type="text"><![CDATA[【读书记1730】林小英《县中的孩子：中国县域教育生态》]]></summary>
     </entry>
         <entry>
+        <title>jekyll静态网站前端cdn引入twikoo升级到v2.0.17</title>
+        <id>177701</id>
+        <link href="http://www.zahui.top/posts/2026/10/22/twikooupdate.html?utm_source=blogfinder" />
+        <published>2026-10-22T08:00:00+08:00</published>
+        <author>
+            <name>涓滴意念汇成河</name>
+            <uri>https://www.zahui.top</uri>
+        </author>
+        <summary type="text"><![CDATA[jekyll静态网站前端cdn引入twikoo升级到v2.0.17]]></summary>
+    </entry>
+        <entry>
         <title>爹味罐头II</title>
         <id>177572</id>
         <link href="https://www.seis-jun.xyz/blog/2026-10-22-what-does-patronizing-smell-likeII.html?utm_source=blogfinder" />
@@ -308,6 +396,28 @@
             <uri>https://blog.aqcoder.cn/</uri>
         </author>
         <summary type="text"><![CDATA[每日 AI 新闻简报（2026-10-22）]]></summary>
+    </entry>
+        <entry>
+        <title>海报-中国老登</title>
+        <id>177589</id>
+        <link href="http://stuit.cn/Xiaolu/Post/1655.html?utm_source=blogfinder" />
+        <published>2026-10-22T07:08:53+08:00</published>
+        <author>
+            <name>风雨行者</name>
+            <uri>http://stuit.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[海报-中国老登]]></summary>
+    </entry>
+        <entry>
+        <title>Security | PHP2Shell：内存耗尽之后，服务器怎么就被拿下了？</title>
+        <id>177699</id>
+        <link href="https://miaotony.xyz/2026/10/22/Vuln_PHP2Shell/?utm_source=blogfinder" />
+        <published>2026-10-22T03:30:00+08:00</published>
+        <author>
+            <name>MiaoTony&#039;s 小窝</name>
+            <uri>https://miaotony.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[Security | PHP2Shell：内存耗尽之后，服务器怎么就被拿下了？]]></summary>
     </entry>
         <entry>
         <title>Spock 的群聊调度与回应设计</title>
@@ -451,6 +561,17 @@
             <uri>https://min168.top</uri>
         </author>
         <summary type="text"><![CDATA[项目]]></summary>
+    </entry>
+        <entry>
+        <title>生活</title>
+        <id>177724</id>
+        <link href="https://blog.verdant.ee/posts/survive/?utm_source=blogfinder" />
+        <published>2026-10-22T00:00:00+08:00</published>
+        <author>
+            <name>映屿</name>
+            <uri>https://blog.verdant.ee</uri>
+        </author>
+        <summary type="text"><![CDATA[生活]]></summary>
     </entry>
         <entry>
         <title>爱拯救之</title>
@@ -1023,6 +1144,17 @@
             <uri>http://www.qncd.com</uri>
         </author>
         <summary type="text"><![CDATA[【读书记1729】郑也夫《吾国教育病理》]]></summary>
+    </entry>
+        <entry>
+        <title>看球小记</title>
+        <id>177797</id>
+        <link href="https://dansalways.top/moments#moment-e161c065-97b3-4904-a8e4-6e29099af555?utm_source=blogfinder" />
+        <published>2026-10-21T08:00:00+08:00</published>
+        <author>
+            <name>轩蛋 o 落格</name>
+            <uri>https://dansalways.top</uri>
+        </author>
+        <summary type="text"><![CDATA[看球小记]]></summary>
     </entry>
         <entry>
         <title>给 MacBook 配个马扎</title>
@@ -1672,49 +1804,5 @@
             <uri>https://blog.aqcoder.cn/</uri>
         </author>
         <summary type="text"><![CDATA[每日 AI 新闻简报（2026-10-20）]]></summary>
-    </entry>
-        <entry>
-        <title>广义相对论的观测效应</title>
-        <id>177560</id>
-        <link href="https://physnya.top/compact-object/lesson-5-general-relativity-effect/?utm_source=blogfinder" />
-        <published>2026-10-20T01:06:44+08:00</published>
-        <author>
-            <name>菲兹克斯喵</name>
-            <uri>https://physnya.top</uri>
-        </author>
-        <summary type="text"><![CDATA[广义相对论的观测效应]]></summary>
-    </entry>
-        <entry>
-        <title>观影小结 2026年夏</title>
-        <id>177419</id>
-        <link href="https://xeonzilla.top/anime-impressions-summer2026/?utm_source=blogfinder" />
-        <published>2026-10-20T00:00:00+08:00</published>
-        <author>
-            <name>Xeonzilla’s Note</name>
-            <uri>https://xeonzilla.top</uri>
-        </author>
-        <summary type="text"><![CDATA[观影小结 2026年夏]]></summary>
-    </entry>
-        <entry>
-        <title>Hello, BA4LNA!</title>
-        <id>177417</id>
-        <link href="https://tao.zz.ac/ham/BA4LNA.html?utm_source=blogfinder" />
-        <published>2026-10-20T00:00:00+08:00</published>
-        <author>
-            <name>涛叔</name>
-            <uri>https://tao.zz.ac</uri>
-        </author>
-        <summary type="text"><![CDATA[Hello, BA4LNA!]]></summary>
-    </entry>
-        <entry>
-        <title>失职与无助</title>
-        <id>177403</id>
-        <link href="https://blog.solazy.me/20261019/?utm_source=blogfinder" />
-        <published>2026-10-19T23:30:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[失职与无助]]></summary>
     </entry>
     </feed>
