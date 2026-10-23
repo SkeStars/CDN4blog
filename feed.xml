@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-10-23T23:00:37+08:00</updated>
+    <updated>2026-10-24T00:00:36+08:00</updated>
+        <entry>
+        <title>Cloudflare优选加速网站访问</title>
+        <id>177877</id>
+        <link href="https://detached.online/blog/cloudflare%E4%BC%98%E9%80%89/?utm_source=blogfinder" />
+        <published>2026-10-23T21:33:00+08:00</published>
+        <author>
+            <name>Detached</name>
+            <uri>https://detached.online</uri>
+        </author>
+        <summary type="text"><![CDATA[Cloudflare优选加速网站访问]]></summary>
+    </entry>
         <entry>
         <title>NRadio C8-600 1.9.4.n1.c2 开启ssh（常规方案）</title>
         <id>177868</id>
@@ -88,6 +99,17 @@
             <uri>https://blog.moeworld.tech</uri>
         </author>
         <summary type="text"><![CDATA[拿到了中国银行联名的B站卡片]]></summary>
+    </entry>
+        <entry>
+        <title>丙午霜降記</title>
+        <id>177876</id>
+        <link href="https://cbc688.com/articles/b?utm_source=blogfinder" />
+        <published>2026-10-23T18:15:00+08:00</published>
+        <author>
+            <name>CRIVU</name>
+            <uri>https://cbc688.com</uri>
+        </author>
+        <summary type="text"><![CDATA[丙午霜降記]]></summary>
     </entry>
         <entry>
         <title>CleanYourTV：免费开源电视去广告工具，AI一键精简安卓电视、换上Apple TV风格桌面</title>
@@ -1804,71 +1826,5 @@
             <uri>https://z.arlmy.me</uri>
         </author>
         <summary type="text"><![CDATA[入蜀记 day511 二手文章、小饭骨、乱花争放]]></summary>
-    </entry>
-        <entry>
-        <title>游戏评测：沙金工业</title>
-        <id>177527</id>
-        <link href="https://leenet.xyz/post/game-evaluation-sandustry?utm_source=blogfinder" />
-        <published>2026-10-21T00:00:00+08:00</published>
-        <author>
-            <name>里世界</name>
-            <uri>https://leenet.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[游戏评测：沙金工业]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day510 二姐、没有根的演奏者、足火水仙、我去哪儿</title>
-        <id>177449</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_510/?utm_source=blogfinder" />
-        <published>2026-10-20T23:58:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day510 二姐、没有根的演奏者、足火水仙、我去哪儿]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day509 未完成的文本、无数个世界、止疼药</title>
-        <id>177450</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_509/?utm_source=blogfinder" />
-        <published>2026-10-20T23:47:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day509 未完成的文本、无数个世界、止疼药]]></summary>
-    </entry>
-        <entry>
-        <title>入蜀记 day508 Teste先生</title>
-        <id>177451</id>
-        <link href="https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_508/?utm_source=blogfinder" />
-        <published>2026-10-20T23:35:27+08:00</published>
-        <author>
-            <name>素生</name>
-            <uri>https://z.arlmy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[入蜀记 day508 Teste先生]]></summary>
-    </entry>
-        <entry>
-        <title>「听不懂话」的销售</title>
-        <id>177470</id>
-        <link href="https://blog.solazy.me/20261020/?utm_source=blogfinder" />
-        <published>2026-10-20T23:30:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[「听不懂话」的销售]]></summary>
-    </entry>
-        <entry>
-        <title>昨日团建</title>
-        <id>177416</id>
-        <link href="https://hjyl.org/yesterday-team-building/?utm_source=blogfinder" />
-        <published>2026-10-20T23:13:04+08:00</published>
-        <author>
-            <name>皇家元林</name>
-            <uri>https://hjyl.org</uri>
-        </author>
-        <summary type="text"><![CDATA[昨日团建]]></summary>
     </entry>
     </feed>
