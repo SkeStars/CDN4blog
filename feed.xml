@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-11-03T00:21:59+08:00</updated>
+    <updated>2026-11-03T07:00:11+08:00</updated>
+        <entry>
+        <title>随手拍</title>
+        <id>179368</id>
+        <link href="https://siwei.li/everyday-snapshots-2026-10/?utm_source=blogfinder" />
+        <published>2026-11-02T23:06:55+08:00</published>
+        <author>
+            <name>Siwei Li</name>
+            <uri>https://siwei.li</uri>
+        </author>
+        <summary type="text"><![CDATA[随手拍]]></summary>
+    </entry>
         <entry>
         <title>你好，十一月</title>
         <id>179361</id>
@@ -99,6 +110,17 @@
             <uri>https://pewae.com</uri>
         </author>
         <summary type="text"><![CDATA[一件群体性挑拨夫妻感情的事]]></summary>
+    </entry>
+        <entry>
+        <title>哈尔滨又开始烧荒了</title>
+        <id>179369</id>
+        <link href="https://siwei.li/stubble-burning-in-harbin/?utm_source=blogfinder" />
+        <published>2026-11-02T17:51:01+08:00</published>
+        <author>
+            <name>Siwei Li</name>
+            <uri>https://siwei.li</uri>
+        </author>
+        <summary type="text"><![CDATA[哈尔滨又开始烧荒了]]></summary>
     </entry>
         <entry>
         <title>2026-11-02-学习问答</title>
@@ -277,6 +299,17 @@
         <summary type="text"><![CDATA[博客又有活儿得干了]]></summary>
     </entry>
         <entry>
+        <title>从零开始的 DeepSeek Harness 开荒教程</title>
+        <id>179367</id>
+        <link href="https://www.allenyou.wang/post/38?utm_source=blogfinder" />
+        <published>2026-11-02T08:00:00+08:00</published>
+        <author>
+            <name>秋实 - Allenyou 的小窝</name>
+            <uri>https://www.allenyou.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[从零开始的 DeepSeek Harness 开荒教程]]></summary>
+    </entry>
+        <entry>
         <title>大脑充血 Vol.102</title>
         <id>179175</id>
         <link href="https://www.geedea.pro/weekly/102/?utm_source=blogfinder" />
@@ -319,6 +352,17 @@
             <uri>https://www.xiejingyang.com</uri>
         </author>
         <summary type="text"><![CDATA[GrokBot使用感受]]></summary>
+    </entry>
+        <entry>
+        <title>为了防灰我买了开放式ITX机箱</title>
+        <id>179370</id>
+        <link href="https://leenet.xyz/post/buy-open-chassis?utm_source=blogfinder" />
+        <published>2026-11-02T00:00:00+08:00</published>
+        <author>
+            <name>里世界</name>
+            <uri>https://leenet.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[为了防灰我买了开放式ITX机箱]]></summary>
     </entry>
         <entry>
         <title>我喜欢一个人</title>
@@ -1408,236 +1452,5 @@
             <uri>https://blog.aqcoder.cn/</uri>
         </author>
         <summary type="text"><![CDATA[每日 AI 新闻简报（2026-10-31）]]></summary>
-    </entry>
-        <entry>
-        <title>8つの作業ラインが同時に走っているとき、私は何をしているのか</title>
-        <id>179184</id>
-        <link href="https://blog.saop.cc/ja/p/30870/?utm_source=blogfinder" />
-        <published>2026-10-31T06:50:00+08:00</published>
-        <author>
-            <name>定の栈</name>
-            <uri>https://blog.saop.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[8つの作業ラインが同時に走っているとき、私は何をしているのか]]></summary>
-    </entry>
-        <entry>
-        <title>What I&#039;m Doing When Eight Tracks Run in Parallel</title>
-        <id>179183</id>
-        <link href="https://blog.saop.cc/en/p/30870/?utm_source=blogfinder" />
-        <published>2026-10-31T06:50:00+08:00</published>
-        <author>
-            <name>定の栈</name>
-            <uri>https://blog.saop.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[What I&#039;m Doing When Eight Tracks Run in Parallel]]></summary>
-    </entry>
-        <entry>
-        <title>八条线同时跑的时候，我在干什么</title>
-        <id>178738</id>
-        <link href="https://blog.saop.cc/p/30870/?utm_source=blogfinder" />
-        <published>2026-10-31T06:50:00+08:00</published>
-        <author>
-            <name>定の栈</name>
-            <uri>https://blog.saop.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[八条线同时跑的时候，我在干什么]]></summary>
-    </entry>
-        <entry>
-        <title>マージ後、typecheck はグリーンだった</title>
-        <id>179186</id>
-        <link href="https://blog.saop.cc/ja/p/28388/?utm_source=blogfinder" />
-        <published>2026-10-31T06:38:00+08:00</published>
-        <author>
-            <name>定の栈</name>
-            <uri>https://blog.saop.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[マージ後、typecheck はグリーンだった]]></summary>
-    </entry>
-        <entry>
-        <title>The Typecheck Was Green After the Merge</title>
-        <id>179185</id>
-        <link href="https://blog.saop.cc/en/p/28388/?utm_source=blogfinder" />
-        <published>2026-10-31T06:38:00+08:00</published>
-        <author>
-            <name>定の栈</name>
-            <uri>https://blog.saop.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[The Typecheck Was Green After the Merge]]></summary>
-    </entry>
-        <entry>
-        <title>合并之后 typecheck 是绿的</title>
-        <id>178739</id>
-        <link href="https://blog.saop.cc/p/28388/?utm_source=blogfinder" />
-        <published>2026-10-31T06:38:00+08:00</published>
-        <author>
-            <name>定の栈</name>
-            <uri>https://blog.saop.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[合并之后 typecheck 是绿的]]></summary>
-    </entry>
-        <entry>
-        <title>トンネルの後ろにあるサーバーは自分がhttpの中にいると思っている</title>
-        <id>179188</id>
-        <link href="https://blog.saop.cc/ja/p/19237/?utm_source=blogfinder" />
-        <published>2026-10-31T06:14:00+08:00</published>
-        <author>
-            <name>定の栈</name>
-            <uri>https://blog.saop.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[トンネルの後ろにあるサーバーは自分がhttpの中にいると思っている]]></summary>
-    </entry>
-        <entry>
-        <title>The server behind the tunnel thinks it&#039;s in HTTP</title>
-        <id>179187</id>
-        <link href="https://blog.saop.cc/en/p/19237/?utm_source=blogfinder" />
-        <published>2026-10-31T06:14:00+08:00</published>
-        <author>
-            <name>定の栈</name>
-            <uri>https://blog.saop.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[The server behind the tunnel thinks it&#039;s in HTTP]]></summary>
-    </entry>
-        <entry>
-        <title>隧道后面的服务器以为自己在 http 里</title>
-        <id>178740</id>
-        <link href="https://blog.saop.cc/p/19237/?utm_source=blogfinder" />
-        <published>2026-10-31T06:14:00+08:00</published>
-        <author>
-            <name>定の栈</name>
-            <uri>https://blog.saop.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[隧道后面的服务器以为自己在 http 里]]></summary>
-    </entry>
-        <entry>
-        <title>Service Worker を自ら降板させる</title>
-        <id>179190</id>
-        <link href="https://blog.saop.cc/ja/p/10258/?utm_source=blogfinder" />
-        <published>2026-10-31T06:02:00+08:00</published>
-        <author>
-            <name>定の栈</name>
-            <uri>https://blog.saop.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[Service Worker を自ら降板させる]]></summary>
-    </entry>
-        <entry>
-        <title>Letting Service Worker Step Down on Its Own</title>
-        <id>179189</id>
-        <link href="https://blog.saop.cc/en/p/10258/?utm_source=blogfinder" />
-        <published>2026-10-31T06:02:00+08:00</published>
-        <author>
-            <name>定の栈</name>
-            <uri>https://blog.saop.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[Letting Service Worker Step Down on Its Own]]></summary>
-    </entry>
-        <entry>
-        <title>让 Service Worker 自己下台</title>
-        <id>178741</id>
-        <link href="https://blog.saop.cc/p/10258/?utm_source=blogfinder" />
-        <published>2026-10-31T06:02:00+08:00</published>
-        <author>
-            <name>定の栈</name>
-            <uri>https://blog.saop.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[让 Service Worker 自己下台]]></summary>
-    </entry>
-        <entry>
-        <title>EXISTS を FILTER の外に出したあと</title>
-        <id>179192</id>
-        <link href="https://blog.saop.cc/ja/p/23192/?utm_source=blogfinder" />
-        <published>2026-10-31T05:50:00+08:00</published>
-        <author>
-            <name>定の栈</name>
-            <uri>https://blog.saop.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[EXISTS を FILTER の外に出したあと]]></summary>
-    </entry>
-        <entry>
-        <title>After Pulling EXISTS Out of the FILTER</title>
-        <id>179191</id>
-        <link href="https://blog.saop.cc/en/p/23192/?utm_source=blogfinder" />
-        <published>2026-10-31T05:50:00+08:00</published>
-        <author>
-            <name>定の栈</name>
-            <uri>https://blog.saop.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[After Pulling EXISTS Out of the FILTER]]></summary>
-    </entry>
-        <entry>
-        <title>把 EXISTS 从 FILTER 里拿出来之后</title>
-        <id>178742</id>
-        <link href="https://blog.saop.cc/p/23192/?utm_source=blogfinder" />
-        <published>2026-10-31T05:50:00+08:00</published>
-        <author>
-            <name>定の栈</name>
-            <uri>https://blog.saop.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[把 EXISTS 从 FILTER 里拿出来之后]]></summary>
-    </entry>
-        <entry>
-        <title>本番停止と引き換えに得たあのコメント</title>
-        <id>179194</id>
-        <link href="https://blog.saop.cc/ja/p/18687/?utm_source=blogfinder" />
-        <published>2026-10-31T05:42:00+08:00</published>
-        <author>
-            <name>定の栈</name>
-            <uri>https://blog.saop.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[本番停止と引き換えに得たあのコメント]]></summary>
-    </entry>
-        <entry>
-        <title>That One Comment Earned at the Cost of Production Downtime</title>
-        <id>179193</id>
-        <link href="https://blog.saop.cc/en/p/18687/?utm_source=blogfinder" />
-        <published>2026-10-31T05:42:00+08:00</published>
-        <author>
-            <name>定の栈</name>
-            <uri>https://blog.saop.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[That One Comment Earned at the Cost of Production Downtime]]></summary>
-    </entry>
-        <entry>
-        <title>拿线上停机换来的那条注释</title>
-        <id>178743</id>
-        <link href="https://blog.saop.cc/p/18687/?utm_source=blogfinder" />
-        <published>2026-10-31T05:42:00+08:00</published>
-        <author>
-            <name>定の栈</name>
-            <uri>https://blog.saop.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[拿线上停机换来的那条注释]]></summary>
-    </entry>
-        <entry>
-        <title>如何优雅地优雅退出？</title>
-        <id>178720</id>
-        <link href="https://www.geedea.pro/article/functional-shutdown/?utm_source=blogfinder" />
-        <published>2026-10-31T01:36:54+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[如何优雅地优雅退出？]]></summary>
-    </entry>
-        <entry>
-        <title>骗完你的骗你的</title>
-        <id>178758</id>
-        <link href="https://paoo.cc/2026/oldm/?utm_source=blogfinder" />
-        <published>2026-10-31T01:03:00+08:00</published>
-        <author>
-            <name>Leo</name>
-            <uri>https://paoo.cc</uri>
-        </author>
-        <summary type="text"><![CDATA[骗完你的骗你的]]></summary>
-    </entry>
-        <entry>
-        <title>值夜班</title>
-        <id>178672</id>
-        <link href="http://etom.top/archives/so267.html?utm_source=blogfinder" />
-        <published>2026-10-31T00:54:00+08:00</published>
-        <author>
-            <name>浮生事</name>
-            <uri>http://etom.top</uri>
-        </author>
-        <summary type="text"><![CDATA[值夜班]]></summary>
     </entry>
     </feed>
