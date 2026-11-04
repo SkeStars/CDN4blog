@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-11-04T23:00:31+08:00</updated>
+    <updated>2026-11-05T04:02:28+08:00</updated>
         <entry>
         <title>【读书记1736】马拉拉·优素福扎伊《我是马拉拉》</title>
         <id>179494</id>
@@ -90,6 +90,28 @@
         <summary type="text"><![CDATA[说说：尝试用空气炸锅做小面包]]></summary>
     </entry>
         <entry>
+        <title>十个月，给 LobeHub 换掉 Ant Design：向 Base UI 与 StyleX 的渐进式迁移</title>
+        <id>179503</id>
+        <link href="https://innei.in/posts/tech/lobehub-antd-to-base-ui-stylex-migration?utm_source=blogfinder" />
+        <published>2026-11-04T19:08:49+08:00</published>
+        <author>
+            <name>静かな森</name>
+            <uri>https://innei.in</uri>
+        </author>
+        <summary type="text"><![CDATA[十个月，给 LobeHub 换掉 Ant Design：向 Base UI 与 StyleX 的渐进式迁移]]></summary>
+    </entry>
+        <entry>
+        <title>国航终于等来了Apple智能</title>
+        <id>179501</id>
+        <link href="https://siwei.li/guo-hang-zhong-yu-deng-lai-liao-applezhi-neng/?utm_source=blogfinder" />
+        <published>2026-11-04T18:11:30+08:00</published>
+        <author>
+            <name>Siwei Li</name>
+            <uri>https://siwei.li</uri>
+        </author>
+        <summary type="text"><![CDATA[国航终于等来了Apple智能]]></summary>
+    </entry>
+        <entry>
         <title>Typecho插件ServerProbe：Typecho轻量级服务器监控探针插件</title>
         <id>179492</id>
         <link href="https://www.bufanz.com/202611041241.html?utm_source=blogfinder" />
@@ -110,6 +132,17 @@
             <uri>https://www.aiwazi.com</uri>
         </author>
         <summary type="text"><![CDATA[喇叭罢工，雨刮“退役”：记一次 120 元的修车经历]]></summary>
+    </entry>
+        <entry>
+        <title>OpenAI 28 天更新回顾：模型、执行体验与使用额度</title>
+        <id>179508</id>
+        <link href="https://xilidou.com/2026/11/04/openai-28-days-updates-review/?utm_source=blogfinder" />
+        <published>2026-11-04T17:30:00+08:00</published>
+        <author>
+            <name>犀利豆的博客</name>
+            <uri>https://xilidou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[OpenAI 28 天更新回顾：模型、执行体验与使用额度]]></summary>
     </entry>
         <entry>
         <title>东南小学：放学后  我们一起相约蹭网</title>
@@ -332,6 +365,17 @@
         <summary type="text"><![CDATA[JN 最近在幹嘛（20261103 更新）]]></summary>
     </entry>
         <entry>
+        <title>入手iWatch S11及最近生活</title>
+        <id>179507</id>
+        <link href="https://t-t.live/archives/XoO1NsB4?utm_source=blogfinder" />
+        <published>2026-11-04T04:57:46+08:00</published>
+        <author>
+            <name>团团生活志</name>
+            <uri>https://t-t.live</uri>
+        </author>
+        <summary type="text"><![CDATA[入手iWatch S11及最近生活]]></summary>
+    </entry>
+        <entry>
         <title>升级到 MovableType  9.3.1</title>
         <id>179440</id>
         <link href="https://seo.g2soft.net/2026/11/03/upgrade-movabletype-931.html?utm_source=blogfinder" />
@@ -363,6 +407,17 @@
             <uri>https://cloud.sd.cn</uri>
         </author>
         <summary type="text"><![CDATA[長夏未逝]]></summary>
+    </entry>
+        <entry>
+        <title>新机器交付前，我会先跑这 20 项检查</title>
+        <id>179505</id>
+        <link href="https://dusays.com/posts/896/?utm_source=blogfinder" />
+        <published>2026-11-04T00:00:00+08:00</published>
+        <author>
+            <name>杜老师说</name>
+            <uri>https://dusays.com</uri>
+        </author>
+        <summary type="text"><![CDATA[新机器交付前，我会先跑这 20 项检查]]></summary>
     </entry>
         <entry>
         <title>Coffee Break Clojure, Test</title>
@@ -440,6 +495,28 @@
             <uri>https://min168.top</uri>
         </author>
         <summary type="text"><![CDATA[终端防御规避技术-10.反恶意软件扫描接口AMSI]]></summary>
+    </entry>
+        <entry>
+        <title>卫生间漏水维修记</title>
+        <id>179500</id>
+        <link href="https://www.jfsay.com/archives/6257.html?utm_source=blogfinder" />
+        <published>2026-11-03T23:20:58+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[卫生间漏水维修记]]></summary>
+    </entry>
+        <entry>
+        <title>别让自己变成祥林嫂</title>
+        <id>179502</id>
+        <link href="https://blog.solazy.me/20261103/?utm_source=blogfinder" />
+        <published>2026-11-03T23:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[别让自己变成祥林嫂]]></summary>
     </entry>
         <entry>
         <title>DeepSeek Super Agent 很热闹，但我认为 AI 已经进入瓶颈期</title>
@@ -792,6 +869,17 @@
             <uri>https://cbc688.com</uri>
         </author>
         <summary type="text"><![CDATA[4则]]></summary>
+    </entry>
+        <entry>
+        <title>我的 10 条人生最佳实践</title>
+        <id>179506</id>
+        <link href="https://tw93.fun/2026-11-03/senior.html?utm_source=blogfinder" />
+        <published>2026-11-03T00:00:00+08:00</published>
+        <author>
+            <name>Tw93</name>
+            <uri>https://tw93.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[我的 10 条人生最佳实践]]></summary>
     </entry>
         <entry>
         <title>纯文本生活</title>
@@ -1320,60 +1408,5 @@
             <uri>https://blog.aqcoder.cn/</uri>
         </author>
         <summary type="text"><![CDATA[每日 AI 新闻简报（2026-11-02）]]></summary>
-    </entry>
-        <entry>
-        <title>十月的更新</title>
-        <id>178823</id>
-        <link href="https://bestcherish.com/9654.html?utm_source=blogfinder" />
-        <published>2026-11-02T02:28:33+08:00</published>
-        <author>
-            <name>灰常记忆</name>
-            <uri>https://bestcherish.com</uri>
-        </author>
-        <summary type="text"><![CDATA[十月的更新]]></summary>
-    </entry>
-        <entry>
-        <title>GrokBot使用感受</title>
-        <id>179180</id>
-        <link href="https://xiejingyang.com/2026/11/01/grok-bot-use-1/?utm_source=blogfinder" />
-        <published>2026-11-02T01:00:00+08:00</published>
-        <author>
-            <name>Xieisabug</name>
-            <uri>https://www.xiejingyang.com</uri>
-        </author>
-        <summary type="text"><![CDATA[GrokBot使用感受]]></summary>
-    </entry>
-        <entry>
-        <title>为了防灰我买了开放式ITX机箱</title>
-        <id>179370</id>
-        <link href="https://leenet.xyz/post/buy-open-chassis?utm_source=blogfinder" />
-        <published>2026-11-02T00:00:00+08:00</published>
-        <author>
-            <name>里世界</name>
-            <uri>https://leenet.xyz</uri>
-        </author>
-        <summary type="text"><![CDATA[为了防灰我买了开放式ITX机箱]]></summary>
-    </entry>
-        <entry>
-        <title>我喜欢一个人</title>
-        <id>179359</id>
-        <link href="https://tianheg.co/posts/i-like-living-alone/?utm_source=blogfinder" />
-        <published>2026-11-02T00:00:00+08:00</published>
-        <author>
-            <name>一大加贝</name>
-            <uri>https://tianheg.co</uri>
-        </author>
-        <summary type="text"><![CDATA[我喜欢一个人]]></summary>
-    </entry>
-        <entry>
-        <title>月志202610</title>
-        <id>179077</id>
-        <link href="https://ezo.biz/Diary/1788.html?utm_source=blogfinder" />
-        <published>2026-11-01T23:31:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[月志202610]]></summary>
     </entry>
     </feed>
