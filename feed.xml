@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-11-06T23:00:17+08:00</updated>
+    <updated>2026-11-07T04:03:34+08:00</updated>
         <entry>
         <title>阿里云 ESA 配合 ACME.sh 自动上传自定义证书</title>
         <id>179823</id>
@@ -79,6 +79,28 @@
         <summary type="text"><![CDATA[断电 Gitea 导致分支error: cannot lock ref 损坏修复解决措施]]></summary>
     </entry>
         <entry>
+        <title>作文-其一</title>
+        <id>179842</id>
+        <link href="https://ffaff.fun/blog/%E4%BD%9C%E6%96%87-%E5%85%B6%E4%B8%80?utm_source=blogfinder" />
+        <published>2026-11-06T20:11:00+08:00</published>
+        <author>
+            <name>Kiwi 的博客</name>
+            <uri>https://ffaff.fun</uri>
+        </author>
+        <summary type="text"><![CDATA[作文-其一]]></summary>
+    </entry>
+        <entry>
+        <title>每夫吐槽（121）</title>
+        <id>179827</id>
+        <link href="https://pewae.com/2026/11/random_kuso_121.html?utm_source=blogfinder" />
+        <published>2026-11-06T19:32:50+08:00</published>
+        <author>
+            <name>破袜子</name>
+            <uri>https://pewae.com</uri>
+        </author>
+        <summary type="text"><![CDATA[每夫吐槽（121）]]></summary>
+    </entry>
+        <entry>
         <title>艾雪周刊 V.18—社交类游戏感想</title>
         <id>179818</id>
         <link href="https://daily.yybb.us/posts/weekly/18/?utm_source=blogfinder" />
@@ -99,6 +121,17 @@
             <uri>https://www.ranjl.cn</uri>
         </author>
         <summary type="text"><![CDATA[2026-11-06-学习问答]]></summary>
+    </entry>
+        <entry>
+        <title>我爱中国</title>
+        <id>179839</id>
+        <link href="https://dangeer.com/posts/i-love-my-country/?utm_source=blogfinder" />
+        <published>2026-11-06T16:20:21+08:00</published>
+        <author>
+            <name>丹格尔</name>
+            <uri>https://dangeer.com</uri>
+        </author>
+        <summary type="text"><![CDATA[我爱中国]]></summary>
     </entry>
         <entry>
         <title>除了钱是稀缺的，其他的都不稀缺</title>
@@ -156,6 +189,17 @@
         <summary type="text"><![CDATA[三年目标纽约老炮（重拾英语十）]]></summary>
     </entry>
         <entry>
+        <title>GPT-6 Cyber来了，日常写代码要换吗</title>
+        <id>179841</id>
+        <link href="https://www.webjing.cn/archives/daily-ai-2026-11-06?utm_source=blogfinder" />
+        <published>2026-11-06T14:24:20+08:00</published>
+        <author>
+            <name>webjing</name>
+            <uri>https://www.webjing.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[GPT-6 Cyber来了，日常写代码要换吗]]></summary>
+    </entry>
+        <entry>
         <title>去了一趟医院</title>
         <id>179812</id>
         <link href="https://www.lindongfang.top/archives/2733/?utm_source=blogfinder" />
@@ -198,6 +242,17 @@
             <uri>https://taxodium.ink</uri>
         </author>
         <summary type="text"><![CDATA[學習網頁內容無障礙]]></summary>
+    </entry>
+        <entry>
+        <title>治理不可能三角形（信息利用视角版）</title>
+        <id>179840</id>
+        <link href="https://blog.huaxiangshan.com/zh-cn/posts/econ_zl/?utm_source=blogfinder" />
+        <published>2026-11-06T10:32:19+08:00</published>
+        <author>
+            <name>滑翔闪&#039;s Blog</name>
+            <uri>https://blog.huaxiangshan.com</uri>
+        </author>
+        <summary type="text"><![CDATA[治理不可能三角形（信息利用视角版）]]></summary>
     </entry>
         <entry>
         <title>网易云音乐今日推荐给我推了一首初中喜欢的歌</title>
@@ -275,6 +330,17 @@
             <uri>https://blog.tangwudi.com</uri>
         </author>
         <summary type="text"><![CDATA[AI时代观察（二）：从算命到人工智能，人类如何从已知推断未知？]]></summary>
+    </entry>
+        <entry>
+        <title>黄霄云与刘端端的《空心》</title>
+        <id>179838</id>
+        <link href="https://foo-z.com/blog/hua12-kongxin-huang-xiaoyun-liu-duanduan/?utm_source=blogfinder" />
+        <published>2026-11-06T08:00:00+08:00</published>
+        <author>
+            <name>付之一笑</name>
+            <uri>https://foo-z.com</uri>
+        </author>
+        <summary type="text"><![CDATA[黄霄云与刘端端的《空心》]]></summary>
     </entry>
         <entry>
         <title>科技爱好者周刊（第 418 期）：如果科技停止在21世纪初</title>
@@ -1430,181 +1496,5 @@
             <uri>https://t-t.live</uri>
         </author>
         <summary type="text"><![CDATA[入手iWatch S11及最近生活]]></summary>
-    </entry>
-        <entry>
-        <title>升级到 MovableType  9.3.1</title>
-        <id>179440</id>
-        <link href="https://seo.g2soft.net/2026/11/03/upgrade-movabletype-931.html?utm_source=blogfinder" />
-        <published>2026-11-04T02:48:08+08:00</published>
-        <author>
-            <name>SEO 网站优化及网站推广</name>
-            <uri>https://seo.g2soft.net</uri>
-        </author>
-        <summary type="text"><![CDATA[升级到 MovableType  9.3.1]]></summary>
-    </entry>
-        <entry>
-        <title>Fragments 0x001D</title>
-        <id>179483</id>
-        <link href="https://lenciel.com/2026/11/fragments-0x001d/?utm_source=blogfinder" />
-        <published>2026-11-04T00:49:51+08:00</published>
-        <author>
-            <name>@Lenciel</name>
-            <uri>https://lenciel.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Fragments 0x001D]]></summary>
-    </entry>
-        <entry>
-        <title>長夏未逝</title>
-        <id>179442</id>
-        <link href="https://cloud.sd.cn/archives/123/?utm_source=blogfinder" />
-        <published>2026-11-04T00:35:00+08:00</published>
-        <author>
-            <name>网络一隅</name>
-            <uri>https://cloud.sd.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[長夏未逝]]></summary>
-    </entry>
-        <entry>
-        <title>新机器交付前，我会先跑这 20 项检查</title>
-        <id>179505</id>
-        <link href="https://dusays.com/posts/896/?utm_source=blogfinder" />
-        <published>2026-11-04T00:00:00+08:00</published>
-        <author>
-            <name>杜老师说</name>
-            <uri>https://dusays.com</uri>
-        </author>
-        <summary type="text"><![CDATA[新机器交付前，我会先跑这 20 项检查]]></summary>
-    </entry>
-        <entry>
-        <title>Coffee Break Clojure, Test</title>
-        <id>179434</id>
-        <link href="https://www.geedea.pro/article/clj9/?utm_source=blogfinder" />
-        <published>2026-11-03T23:58:29+08:00</published>
-        <author>
-            <name>極客死亡計劃</name>
-            <uri>https://www.geedea.pro</uri>
-        </author>
-        <summary type="text"><![CDATA[Coffee Break Clojure, Test]]></summary>
-    </entry>
-        <entry>
-        <title>绿心公园不用专程去</title>
-        <id>179490</id>
-        <link href="http://www.yveji.com/Prose/luxe.html?utm_source=blogfinder" />
-        <published>2026-11-03T23:52:10+08:00</published>
-        <author>
-            <name>悦己</name>
-            <uri>http://www.yveji.com</uri>
-        </author>
-        <summary type="text"><![CDATA[绿心公园不用专程去]]></summary>
-    </entry>
-        <entry>
-        <title>终端防御规避技术-12.微软威胁情报ETW</title>
-        <id>179563</id>
-        <link href="https://min168.top/perm/%E9%80%86%E5%90%91%E4%B8%8E%E5%85%8D%E6%9D%80/%E7%BB%88%E7%AB%AF%E9%98%B2%E5%BE%A1%E8%A7%84%E9%81%BF/%E7%BB%88%E7%AB%AF%E9%98%B2%E5%BE%A1%E8%A7%84%E9%81%BF%E6%8A%80%E6%9C%AF-12.%E5%BE%AE%E8%BD%AF%E5%A8%81%E8%83%81%E6%83%85%E6%8A%A5ETW.html?utm_source=blogfinder" />
-        <published>2026-11-03T23:43:17+08:00</published>
-        <author>
-            <name>卷卷</name>
-            <uri>https://min168.top</uri>
-        </author>
-        <summary type="text"><![CDATA[终端防御规避技术-12.微软威胁情报ETW]]></summary>
-    </entry>
-        <entry>
-        <title>终端防御规避技术-12.微软威胁情报ETW</title>
-        <id>179448</id>
-        <link href="https://min168.top/response/%E7%BB%88%E7%AB%AF%E9%98%B2%E5%BE%A1%E8%A7%84%E9%81%BF%E6%8A%80%E6%9C%AF-12.%E5%BE%AE%E8%BD%AF%E5%A8%81%E8%83%81%E6%83%85%E6%8A%A5ETW.html?utm_source=blogfinder" />
-        <published>2026-11-03T23:43:17+08:00</published>
-        <author>
-            <name>卷卷</name>
-            <uri>https://min168.top</uri>
-        </author>
-        <summary type="text"><![CDATA[终端防御规避技术-12.微软威胁情报ETW]]></summary>
-    </entry>
-        <entry>
-        <title>整理杂物</title>
-        <id>179460</id>
-        <link href="https://ezo.biz/Diary/1792.html?utm_source=blogfinder" />
-        <published>2026-11-03T23:30:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[整理杂物]]></summary>
-    </entry>
-        <entry>
-        <title>终端防御规避技术-9.病毒扫描器与YARA</title>
-        <id>179566</id>
-        <link href="https://min168.top/perm/%E9%80%86%E5%90%91%E4%B8%8E%E5%85%8D%E6%9D%80/%E7%BB%88%E7%AB%AF%E9%98%B2%E5%BE%A1%E8%A7%84%E9%81%BF/%E7%BB%88%E7%AB%AF%E9%98%B2%E5%BE%A1%E8%A7%84%E9%81%BF%E6%8A%80%E6%9C%AF-9.%E7%97%85%E6%AF%92%E6%89%AB%E6%8F%8F%E5%99%A8%E4%B8%8EYARA.html?utm_source=blogfinder" />
-        <published>2026-11-03T23:26:09+08:00</published>
-        <author>
-            <name>卷卷</name>
-            <uri>https://min168.top</uri>
-        </author>
-        <summary type="text"><![CDATA[终端防御规避技术-9.病毒扫描器与YARA]]></summary>
-    </entry>
-        <entry>
-        <title>终端防御规避技术-11.早期启动反恶意软件驱动ELAM</title>
-        <id>179565</id>
-        <link href="https://min168.top/perm/%E9%80%86%E5%90%91%E4%B8%8E%E5%85%8D%E6%9D%80/%E7%BB%88%E7%AB%AF%E9%98%B2%E5%BE%A1%E8%A7%84%E9%81%BF/%E7%BB%88%E7%AB%AF%E9%98%B2%E5%BE%A1%E8%A7%84%E9%81%BF%E6%8A%80%E6%9C%AF-11.%E6%97%A9%E6%9C%9F%E5%90%AF%E5%8A%A8%E5%8F%8D%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%E9%A9%B1%E5%8A%A8ELAM.html?utm_source=blogfinder" />
-        <published>2026-11-03T23:26:09+08:00</published>
-        <author>
-            <name>卷卷</name>
-            <uri>https://min168.top</uri>
-        </author>
-        <summary type="text"><![CDATA[终端防御规避技术-11.早期启动反恶意软件驱动ELAM]]></summary>
-    </entry>
-        <entry>
-        <title>终端防御规避技术-10.反恶意软件扫描接口AMSI</title>
-        <id>179564</id>
-        <link href="https://min168.top/perm/%E9%80%86%E5%90%91%E4%B8%8E%E5%85%8D%E6%9D%80/%E7%BB%88%E7%AB%AF%E9%98%B2%E5%BE%A1%E8%A7%84%E9%81%BF/%E7%BB%88%E7%AB%AF%E9%98%B2%E5%BE%A1%E8%A7%84%E9%81%BF%E6%8A%80%E6%9C%AF-10.%E5%8F%8D%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%E6%89%AB%E6%8F%8F%E6%8E%A5%E5%8F%A3AMSI.html?utm_source=blogfinder" />
-        <published>2026-11-03T23:26:09+08:00</published>
-        <author>
-            <name>卷卷</name>
-            <uri>https://min168.top</uri>
-        </author>
-        <summary type="text"><![CDATA[终端防御规避技术-10.反恶意软件扫描接口AMSI]]></summary>
-    </entry>
-        <entry>
-        <title>终端防御规避技术-9.病毒扫描器与YARA</title>
-        <id>179451</id>
-        <link href="https://min168.top/response/%E7%BB%88%E7%AB%AF%E9%98%B2%E5%BE%A1%E8%A7%84%E9%81%BF%E6%8A%80%E6%9C%AF-9.%E7%97%85%E6%AF%92%E6%89%AB%E6%8F%8F%E5%99%A8%E4%B8%8EYARA.html?utm_source=blogfinder" />
-        <published>2026-11-03T23:26:09+08:00</published>
-        <author>
-            <name>卷卷</name>
-            <uri>https://min168.top</uri>
-        </author>
-        <summary type="text"><![CDATA[终端防御规避技术-9.病毒扫描器与YARA]]></summary>
-    </entry>
-        <entry>
-        <title>终端防御规避技术-11.早期启动反恶意软件驱动ELAM</title>
-        <id>179450</id>
-        <link href="https://min168.top/response/%E7%BB%88%E7%AB%AF%E9%98%B2%E5%BE%A1%E8%A7%84%E9%81%BF%E6%8A%80%E6%9C%AF-11.%E6%97%A9%E6%9C%9F%E5%90%AF%E5%8A%A8%E5%8F%8D%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%E9%A9%B1%E5%8A%A8ELAM.html?utm_source=blogfinder" />
-        <published>2026-11-03T23:26:09+08:00</published>
-        <author>
-            <name>卷卷</name>
-            <uri>https://min168.top</uri>
-        </author>
-        <summary type="text"><![CDATA[终端防御规避技术-11.早期启动反恶意软件驱动ELAM]]></summary>
-    </entry>
-        <entry>
-        <title>终端防御规避技术-10.反恶意软件扫描接口AMSI</title>
-        <id>179449</id>
-        <link href="https://min168.top/response/%E7%BB%88%E7%AB%AF%E9%98%B2%E5%BE%A1%E8%A7%84%E9%81%BF%E6%8A%80%E6%9C%AF-10.%E5%8F%8D%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%E6%89%AB%E6%8F%8F%E6%8E%A5%E5%8F%A3AMSI.html?utm_source=blogfinder" />
-        <published>2026-11-03T23:26:09+08:00</published>
-        <author>
-            <name>卷卷</name>
-            <uri>https://min168.top</uri>
-        </author>
-        <summary type="text"><![CDATA[终端防御规避技术-10.反恶意软件扫描接口AMSI]]></summary>
-    </entry>
-        <entry>
-        <title>卫生间漏水维修记</title>
-        <id>179500</id>
-        <link href="https://www.jfsay.com/archives/6257.html?utm_source=blogfinder" />
-        <published>2026-11-03T23:20:58+08:00</published>
-        <author>
-            <name>静风说</name>
-            <uri>https://www.jfsay.com</uri>
-        </author>
-        <summary type="text"><![CDATA[卫生间漏水维修记]]></summary>
     </entry>
     </feed>
