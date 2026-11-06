@@ -11,7 +11,161 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-11-06T15:00:15+08:00</updated>
+    <updated>2026-11-06T23:00:17+08:00</updated>
+        <entry>
+        <title>阿里云 ESA 配合 ACME.sh 自动上传自定义证书</title>
+        <id>179823</id>
+        <link href="https://www.nekopara.uk/archives/ESA_Auto_Set_Self_Cert.html?utm_source=blogfinder" />
+        <published>2026-11-06T22:20:21+08:00</published>
+        <author>
+            <name>GTX690 战术核显卡导弹</name>
+            <uri>https://www.nekopara.uk</uri>
+        </author>
+        <summary type="text"><![CDATA[阿里云 ESA 配合 ACME.sh 自动上传自定义证书]]></summary>
+    </entry>
+        <entry>
+        <title>【读书记1738】卡勒德·胡赛尼《追风筝的人》</title>
+        <id>179822</id>
+        <link href="http://www.qncd.com/?p=13317&amp;utm_source=blogfinder" />
+        <published>2026-11-06T22:12:18+08:00</published>
+        <author>
+            <name>尺宅杂记</name>
+            <uri>http://www.qncd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[【读书记1738】卡勒德·胡赛尼《追风筝的人》]]></summary>
+    </entry>
+        <entry>
+        <title>好几天没写字了</title>
+        <id>179819</id>
+        <link href="https://yufm.com/662529.html?utm_source=blogfinder" />
+        <published>2026-11-06T21:32:51+08:00</published>
+        <author>
+            <name>You &amp; FM</name>
+            <uri>https://yufm.com</uri>
+        </author>
+        <summary type="text"><![CDATA[好几天没写字了]]></summary>
+    </entry>
+        <entry>
+        <title>Tidal Disruption Events</title>
+        <id>179825</id>
+        <link href="https://physnya.top/posts/tde-lecture/?utm_source=blogfinder" />
+        <published>2026-11-06T20:30:39+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[Tidal Disruption Events]]></summary>
+    </entry>
+        <entry>
+        <title>脉冲星</title>
+        <id>179824</id>
+        <link href="https://physnya.top/compact-object/lesson-7-pulsars/?utm_source=blogfinder" />
+        <published>2026-11-06T20:30:39+08:00</published>
+        <author>
+            <name>菲兹克斯喵</name>
+            <uri>https://physnya.top</uri>
+        </author>
+        <summary type="text"><![CDATA[脉冲星]]></summary>
+    </entry>
+        <entry>
+        <title>断电 Gitea 导致分支error: cannot lock ref 损坏修复解决措施</title>
+        <id>179821</id>
+        <link href="https://www.51it.wang/ll/gitea-error-cannot-lock-ref?utm_source=blogfinder" />
+        <published>2026-11-06T20:16:00+08:00</published>
+        <author>
+            <name>Lcry</name>
+            <uri>https://www.51it.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[断电 Gitea 导致分支error: cannot lock ref 损坏修复解决措施]]></summary>
+    </entry>
+        <entry>
+        <title>艾雪周刊 V.18—社交类游戏感想</title>
+        <id>179818</id>
+        <link href="https://daily.yybb.us/posts/weekly/18/?utm_source=blogfinder" />
+        <published>2026-11-06T19:15:26+08:00</published>
+        <author>
+            <name>AIOVTUE-雪</name>
+            <uri>https://day.yybb.us</uri>
+        </author>
+        <summary type="text"><![CDATA[艾雪周刊 V.18—社交类游戏感想]]></summary>
+    </entry>
+        <entry>
+        <title>2026-11-06-学习问答</title>
+        <id>179814</id>
+        <link href="https://www.ranjl.cn/web/articles/2026-11-06-学习记录?utm_source=blogfinder" />
+        <published>2026-11-06T17:00:02+08:00</published>
+        <author>
+            <name>冉江龙的个人空间</name>
+            <uri>https://www.ranjl.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[2026-11-06-学习问答]]></summary>
+    </entry>
+        <entry>
+        <title>除了钱是稀缺的，其他的都不稀缺</title>
+        <id>179813</id>
+        <link href="https://www.dengxiaokang.com/1532/?utm_source=blogfinder" />
+        <published>2026-11-06T16:12:06+08:00</published>
+        <author>
+            <name>菜心言</name>
+            <uri>https://www.dengxiaokang.com</uri>
+        </author>
+        <summary type="text"><![CDATA[除了钱是稀缺的，其他的都不稀缺]]></summary>
+    </entry>
+        <entry>
+        <title>入心</title>
+        <id>179820</id>
+        <link href="https://ltmltm.cn/bk/1513.html?utm_source=blogfinder" />
+        <published>2026-11-06T15:39:39+08:00</published>
+        <author>
+            <name>因为很想念</name>
+            <uri>https://ltmltm.cn/bk</uri>
+        </author>
+        <summary type="text"><![CDATA[入心]]></summary>
+    </entry>
+        <entry>
+        <title>一个人</title>
+        <id>179817</id>
+        <link href="https://oba.by/post/2355/?utm_source=blogfinder" />
+        <published>2026-11-06T15:35:46+08:00</published>
+        <author>
+            <name>obaby 𝐢‍𝐧⃝  void</name>
+            <uri>https://oba.by</uri>
+        </author>
+        <summary type="text"><![CDATA[一个人]]></summary>
+    </entry>
+        <entry>
+        <title>当我不知在哪里表达时，才发现这里最安全。</title>
+        <id>179815</id>
+        <link href="https://yezhaner.net/%e5%bd%93%e6%88%91%e4%b8%8d%e7%9f%a5%e5%9c%a8%e5%93%aa%e9%87%8c%e8%a1%a8%e8%be%be%e6%97%b6%ef%bc%8c%e6%89%8d%e5%8f%91%e7%8e%b0%e8%bf%99%e9%87%8c%e6%9c%80%e5%ae%89%e5%85%a8%e3%80%82.htm?utm_source=blogfinder" />
+        <published>2026-11-06T14:38:37+08:00</published>
+        <author>
+            <name>夜旅者</name>
+            <uri>https://yezhaner.net</uri>
+        </author>
+        <summary type="text"><![CDATA[当我不知在哪里表达时，才发现这里最安全。]]></summary>
+    </entry>
+        <entry>
+        <title>三年目标纽约老炮（重拾英语十）</title>
+        <id>179811</id>
+        <link href="https://www.lindongfang.top/archives/2736/?utm_source=blogfinder" />
+        <published>2026-11-06T14:30:00+08:00</published>
+        <author>
+            <name>游子微博</name>
+            <uri>https://www.lindongfang.top</uri>
+        </author>
+        <summary type="text"><![CDATA[三年目标纽约老炮（重拾英语十）]]></summary>
+    </entry>
+        <entry>
+        <title>去了一趟医院</title>
+        <id>179812</id>
+        <link href="https://www.lindongfang.top/archives/2733/?utm_source=blogfinder" />
+        <published>2026-11-06T13:53:00+08:00</published>
+        <author>
+            <name>游子微博</name>
+            <uri>https://www.lindongfang.top</uri>
+        </author>
+        <summary type="text"><![CDATA[去了一趟医院]]></summary>
+    </entry>
         <entry>
         <title>HeoAwards2026：年度我喜欢的博主</title>
         <id>179806</id>
@@ -165,6 +319,28 @@
             <uri>https://www.weiwenchao.com</uri>
         </author>
         <summary type="text"><![CDATA[《食事札记》（4）]]></summary>
+    </entry>
+        <entry>
+        <title>Fragments 0x001E</title>
+        <id>179816</id>
+        <link href="https://lenciel.com/2026/11/fragments-0x001e/?utm_source=blogfinder" />
+        <published>2026-11-06T00:47:30+08:00</published>
+        <author>
+            <name>@Lenciel</name>
+            <uri>https://lenciel.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Fragments 0x001E]]></summary>
+    </entry>
+        <entry>
+        <title>在vs code内使用 Platform IO插件来对Seeed Studio XIAO ESP32-S3 Sense进行开发</title>
+        <id>179809</id>
+        <link href="https://wangxinyang.top/archives/shi-yong-vs-code-dui-seeed-studio-xiao-esp32-s3-sensejin-xing-kai-fa?utm_source=blogfinder" />
+        <published>2026-11-06T00:19:34+08:00</published>
+        <author>
+            <name>Wangxinyang</name>
+            <uri>https://wangxinyang.top</uri>
+        </author>
+        <summary type="text"><![CDATA[在vs code内使用 Platform IO插件来对Seeed Studio XIAO ESP32-S3 Sense进行开发]]></summary>
     </entry>
         <entry>
         <title>双十一买手机划算，还是提前一周入手更香？</title>
@@ -330,6 +506,17 @@
             <uri>https://blogs.lovewsx.top</uri>
         </author>
         <summary type="text"><![CDATA[失业的秋日，和朋友一同站在人生的岔路口]]></summary>
+    </entry>
+        <entry>
+        <title>如何让一只狐狸动起来 - 四元数与骨骼</title>
+        <id>179810</id>
+        <link href="https://feiqi3.cn/post/50?utm_source=blogfinder" />
+        <published>2026-11-05T18:17:01+08:00</published>
+        <author>
+            <name>飞起的小窝</name>
+            <uri>https://feiqi3.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[如何让一只狐狸动起来 - 四元数与骨骼]]></summary>
     </entry>
         <entry>
         <title>今天又收到成功售出一枚域名通知</title>
@@ -1419,159 +1606,5 @@
             <uri>https://www.jfsay.com</uri>
         </author>
         <summary type="text"><![CDATA[卫生间漏水维修记]]></summary>
-    </entry>
-        <entry>
-        <title>别让自己变成祥林嫂</title>
-        <id>179502</id>
-        <link href="https://blog.solazy.me/20261103/?utm_source=blogfinder" />
-        <published>2026-11-03T23:00:00+08:00</published>
-        <author>
-            <name>So!azy</name>
-            <uri>https://blog.solazy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[别让自己变成祥林嫂]]></summary>
-    </entry>
-        <entry>
-        <title>DeepSeek Super Agent 很热闹，但我认为 AI 已经进入瓶颈期</title>
-        <id>179433</id>
-        <link href="https://www.tortorse.com/archives/deepseek-super-agent-and-ai-bottleneck/?utm_source=blogfinder" />
-        <published>2026-11-03T21:56:19+08:00</published>
-        <author>
-            <name>愆伏</name>
-            <uri>https://www.tortorse.com</uri>
-        </author>
-        <summary type="text"><![CDATA[DeepSeek Super Agent 很热闹，但我认为 AI 已经进入瓶颈期]]></summary>
-    </entry>
-        <entry>
-        <title>疯键狂鼠，我用WorkBuddy做的第一款软件</title>
-        <id>179432</id>
-        <link href="https://qfsyj.com/WorkBuddy.html?utm_source=blogfinder" />
-        <published>2026-11-03T21:48:00+08:00</published>
-        <author>
-            <name>不曾长大</name>
-            <uri>https://qfsyj.com</uri>
-        </author>
-        <summary type="text"><![CDATA[疯键狂鼠，我用WorkBuddy做的第一款软件]]></summary>
-    </entry>
-        <entry>
-        <title>楷书太难了</title>
-        <id>179430</id>
-        <link href="https://yufm.com/662522.html?utm_source=blogfinder" />
-        <published>2026-11-03T21:09:30+08:00</published>
-        <author>
-            <name>You &amp; FM</name>
-            <uri>https://yufm.com</uri>
-        </author>
-        <summary type="text"><![CDATA[楷书太难了]]></summary>
-    </entry>
-        <entry>
-        <title>我找不到吃宵夜的理由</title>
-        <id>179452</id>
-        <link href="https://liangmouyin.com/blog/no-reason-for-late-night-snacks/?utm_source=blogfinder" />
-        <published>2026-11-03T21:00:00+08:00</published>
-        <author>
-            <name>梁某银</name>
-            <uri>https://liangmouyin.com</uri>
-        </author>
-        <summary type="text"><![CDATA[我找不到吃宵夜的理由]]></summary>
-    </entry>
-        <entry>
-        <title>使用ESP32和DHT11製作溫濕度監測站</title>
-        <id>179491</id>
-        <link href="https://taokeqing.com/s/articles/article.php?serial=2026-11-03-01&amp;utm_source=blogfinder" />
-        <published>2026-11-03T19:24:00+08:00</published>
-        <author>
-            <name>水雲鄉</name>
-            <uri>https://taokeqing.com</uri>
-        </author>
-        <summary type="text"><![CDATA[使用ESP32和DHT11製作溫濕度監測站]]></summary>
-    </entry>
-        <entry>
-        <title>有些词不能随便说，有些标签不能随便认</title>
-        <id>179456</id>
-        <link href="https://lawtee.com/article/words-and-labels/?utm_source=blogfinder" />
-        <published>2026-11-03T18:45:00+08:00</published>
-        <author>
-            <name>老 T 博客</name>
-            <uri>https://lawtee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[有些词不能随便说，有些标签不能随便认]]></summary>
-    </entry>
-        <entry>
-        <title>2026-11-03-学习问答</title>
-        <id>179428</id>
-        <link href="https://www.ranjl.cn/web/articles/2026-11-03-学习记录?utm_source=blogfinder" />
-        <published>2026-11-03T17:00:03+08:00</published>
-        <author>
-            <name>冉江龙的个人空间</name>
-            <uri>https://www.ranjl.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[2026-11-03-学习问答]]></summary>
-    </entry>
-        <entry>
-        <title>AI做网站之JMbiji：加密笔记本</title>
-        <id>179443</id>
-        <link href="https://wonse.info/jmbiji.html?utm_source=blogfinder" />
-        <published>2026-11-03T16:49:00+08:00</published>
-        <author>
-            <name>王鑫的小屋</name>
-            <uri>https://wonse.info</uri>
-        </author>
-        <summary type="text"><![CDATA[AI做网站之JMbiji：加密笔记本]]></summary>
-    </entry>
-        <entry>
-        <title>本站主题 Typecho 复刻版发布</title>
-        <id>179423</id>
-        <link href="https://dujun.io/dujun-theme-for-typecho.html?utm_source=blogfinder" />
-        <published>2026-11-03T16:20:00+08:00</published>
-        <author>
-            <name>杜郎俊赏</name>
-            <uri>https://dujun.io</uri>
-        </author>
-        <summary type="text"><![CDATA[本站主题 Typecho 复刻版发布]]></summary>
-    </entry>
-        <entry>
-        <title>魔改的朋友圈主题 - 待发布</title>
-        <id>179431</id>
-        <link href="https://hi.jeray.wang/K/230.html?utm_source=blogfinder" />
-        <published>2026-11-03T16:18:00+08:00</published>
-        <author>
-            <name>Jeray 大叔</name>
-            <uri>https://hi.jeray.wang</uri>
-        </author>
-        <summary type="text"><![CDATA[魔改的朋友圈主题 - 待发布]]></summary>
-    </entry>
-        <entry>
-        <title>多卡共享权益包</title>
-        <id>179455</id>
-        <link href="https://hux.ink/posts/sb-dianxin/?utm_source=blogfinder" />
-        <published>2026-11-03T15:51:03+08:00</published>
-        <author>
-            <name>Counting Stars</name>
-            <uri>https://hux.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[多卡共享权益包]]></summary>
-    </entry>
-        <entry>
-        <title>为什么越来越多人觉得“没办法”？AI时代的人生最优化困局</title>
-        <id>179420</id>
-        <link href="https://bestcoder.cn/why-more-people-feel-no-way-ai-social-mobility?utm_source=blogfinder" />
-        <published>2026-11-03T15:39:06+08:00</published>
-        <author>
-            <name>BestCoder</name>
-            <uri>https://bestcoder.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[为什么越来越多人觉得“没办法”？AI时代的人生最优化困局]]></summary>
-    </entry>
-        <entry>
-        <title>DeepSeek V5 疑似出现</title>
-        <id>179419</id>
-        <link href="https://blog.onlycc.ltd/archives/JJvu2Itu?utm_source=blogfinder" />
-        <published>2026-11-03T15:14:00+08:00</published>
-        <author>
-            <name>楠香自语</name>
-            <uri>https://blog.onlycc.ltd</uri>
-        </author>
-        <summary type="text"><![CDATA[DeepSeek V5 疑似出现]]></summary>
     </entry>
     </feed>
