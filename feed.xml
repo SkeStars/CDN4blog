@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-11-11T00:03:23+08:00</updated>
+    <updated>2026-11-11T04:04:02+08:00</updated>
         <entry>
         <title>AI 大模型学习路线</title>
         <id>181168</id>
@@ -363,6 +363,28 @@
             <uri>https://ffaff.fun</uri>
         </author>
         <summary type="text"><![CDATA[周记-其二]]></summary>
+    </entry>
+        <entry>
+        <title>自我的終點由誰決定？</title>
+        <id>182753</id>
+        <link href="https://blog.verdant.ee/posts/who-decides-the-end/?utm_source=blogfinder" />
+        <published>2026-11-10T00:00:00+08:00</published>
+        <author>
+            <name>映屿</name>
+            <uri>https://blog.verdant.ee</uri>
+        </author>
+        <summary type="text"><![CDATA[自我的終點由誰決定？]]></summary>
+    </entry>
+        <entry>
+        <title>健身是最被低估的省钱方式</title>
+        <id>182732</id>
+        <link href="https://dusays.com/posts/897/?utm_source=blogfinder" />
+        <published>2026-11-10T00:00:00+08:00</published>
+        <author>
+            <name>杜老师说</name>
+            <uri>https://dusays.com</uri>
+        </author>
+        <summary type="text"><![CDATA[健身是最被低估的省钱方式]]></summary>
     </entry>
         <entry>
         <title>贝尔曼方程及其数学性质</title>
@@ -1168,6 +1190,17 @@
         <summary type="text"><![CDATA[用 Muse 做了个博客评论插件，再也不用反复填写昵称和邮箱了]]></summary>
     </entry>
         <entry>
+        <title>迁移到静态网站，再见WordPress和PHP</title>
+        <id>181170</id>
+        <link href="https://tumutanzi.com/archives/17654/?utm_source=blogfinder" />
+        <published>2026-11-09T00:00:00+08:00</published>
+        <author>
+            <name>土木坛子</name>
+            <uri>https://tumutanzi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[迁移到静态网站，再见WordPress和PHP]]></summary>
+    </entry>
+        <entry>
         <title>微信读书购买</title>
         <id>181006</id>
         <link href="https://yesreho.com/weixin-reading-membership-discount/?utm_source=blogfinder" />
@@ -1276,6 +1309,17 @@
             <uri>https://upxuu.com</uri>
         </author>
         <summary type="text"><![CDATA[「说说」已严肃在workbuddy运行Windows 10]]></summary>
+    </entry>
+        <entry>
+        <title>全屋设备纳管与语音交互闭环 - Home Assistant 智能家居实战 02 | 阿尔的代码屋</title>
+        <id>182754</id>
+        <link href="https://blog.algieba12.cn/ha02-home-assistant-device-entity-voice-pipeline/?utm_source=blogfinder" />
+        <published>2026-11-08T21:16:52+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[全屋设备纳管与语音交互闭环 - Home Assistant 智能家居实战 02 | 阿尔的代码屋]]></summary>
     </entry>
         <entry>
         <title>iOS 隐蔽注入两路线：TrollFools 和 Roothide</title>
@@ -1641,6 +1685,17 @@
         <summary type="text"><![CDATA[分享 3 个开源工具：按照自己的需求和理解，尝试开发小工具]]></summary>
     </entry>
         <entry>
+        <title>Home Assistant 接入大模型实现设备全权控制 - Home Assistant 智能家居实战 01 | 阿尔的代码屋</title>
+        <id>182755</id>
+        <link href="https://blog.algieba12.cn/ha01-home-assistant-ai-device-control/?utm_source=blogfinder" />
+        <published>2026-11-08T11:16:45+08:00</published>
+        <author>
+            <name>阿尔的代码屋</name>
+            <uri>https://blog.algieba12.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Home Assistant 接入大模型实现设备全权控制 - Home Assistant 智能家居实战 01 | 阿尔的代码屋]]></summary>
+    </entry>
+        <entry>
         <title>胡拉图的周刊-第29期</title>
         <id>180981</id>
         <link href="https://hulatu.com/posts/2026/11/08/newsletter-29/?utm_source=blogfinder" />
@@ -1782,27 +1837,5 @@
             <uri>https://www.eebk.com</uri>
         </author>
         <summary type="text"><![CDATA[Hermes 官方 App 来了]]></summary>
-    </entry>
-        <entry>
-        <title>工具箱上线：密钥生成器、Bot 侦测、IP 情报查询</title>
-        <id>180962</id>
-        <link href="https://www.paddysun.top/archives/5634?utm_source=blogfinder" />
-        <published>2026-11-08T03:16:13+08:00</published>
-        <author>
-            <name>Under the Sun with Paddy</name>
-            <uri>https://www.paddysun.top</uri>
-        </author>
-        <summary type="text"><![CDATA[工具箱上线：密钥生成器、Bot 侦测、IP 情报查询]]></summary>
-    </entry>
-        <entry>
-        <title>Fragments 0x001F</title>
-        <id>181026</id>
-        <link href="https://lenciel.com/2026/11/fragments-0x001f/?utm_source=blogfinder" />
-        <published>2026-11-08T01:31:27+08:00</published>
-        <author>
-            <name>@Lenciel</name>
-            <uri>https://lenciel.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Fragments 0x001F]]></summary>
     </entry>
     </feed>
