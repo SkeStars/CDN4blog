@@ -11,7 +11,95 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-11-12T04:03:50+08:00</updated>
+    <updated>2026-11-12T15:00:22+08:00</updated>
+        <entry>
+        <title>今年双十一购物有些少</title>
+        <id>182888</id>
+        <link href="https://www.gujishe.com/archives/92.html?utm_source=blogfinder" />
+        <published>2026-11-12T13:35:35+08:00</published>
+        <author>
+            <name>咕唧舍</name>
+            <uri>https://www.gujishe.com</uri>
+        </author>
+        <summary type="text"><![CDATA[今年双十一购物有些少]]></summary>
+    </entry>
+        <entry>
+        <title>那些靠人命堆出来的奇观</title>
+        <id>182885</id>
+        <link href="https://blog.solazy.me/20261112/?utm_source=blogfinder" />
+        <published>2026-11-12T11:00:00+08:00</published>
+        <author>
+            <name>So!azy</name>
+            <uri>https://blog.solazy.me</uri>
+        </author>
+        <summary type="text"><![CDATA[那些靠人命堆出来的奇观]]></summary>
+    </entry>
+        <entry>
+        <title>给博客加了个「专题」：把零散的文章串成一条线</title>
+        <id>182882</id>
+        <link href="https://sheep5.net/archives/series-intro.html?utm_source=blogfinder" />
+        <published>2026-11-12T10:53:00+08:00</published>
+        <author>
+            <name>Sheep5</name>
+            <uri>https://sheep5.net</uri>
+        </author>
+        <summary type="text"><![CDATA[给博客加了个「专题」：把零散的文章串成一条线]]></summary>
+    </entry>
+        <entry>
+        <title>11.11</title>
+        <id>182881</id>
+        <link href="https://oba.by/post/2409/?utm_source=blogfinder" />
+        <published>2026-11-12T10:38:44+08:00</published>
+        <author>
+            <name>obaby 𝐢‍𝐧⃝  void</name>
+            <uri>https://oba.by</uri>
+        </author>
+        <summary type="text"><![CDATA[11.11]]></summary>
+    </entry>
+        <entry>
+        <title>给娃写了个作业工作台：零第三方依赖跑在家庭局域网，还能让 Claude 帮忙录作业</title>
+        <id>182880</id>
+        <link href="https://6mal.com/archives/213/?utm_source=blogfinder" />
+        <published>2026-11-12T09:30:00+08:00</published>
+        <author>
+            <name>飞鲤的自留地</name>
+            <uri>https://www.6mal.com</uri>
+        </author>
+        <summary type="text"><![CDATA[给娃写了个作业工作台：零第三方依赖跑在家庭局域网，还能让 Claude 帮忙录作业]]></summary>
+    </entry>
+        <entry>
+        <title>Qwen4-Max 进入预览，怎样验收长资料回答</title>
+        <id>182878</id>
+        <link href="https://www.webjing.cn/archives/daily-ai-2026-11-12?utm_source=blogfinder" />
+        <published>2026-11-12T08:51:05+08:00</published>
+        <author>
+            <name>webjing</name>
+            <uri>https://www.webjing.cn</uri>
+        </author>
+        <summary type="text"><![CDATA[Qwen4-Max 进入预览，怎样验收长资料回答]]></summary>
+    </entry>
+        <entry>
+        <title>不期而遇</title>
+        <id>182870</id>
+        <link href="https://www.chenrui.com/post/3531.html?utm_source=blogfinder" />
+        <published>2026-11-12T06:59:15+08:00</published>
+        <author>
+            <name>不可</name>
+            <uri>https://www.chenrui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[不期而遇]]></summary>
+    </entry>
+        <entry>
+        <title>合理利用ECON</title>
+        <id>182883</id>
+        <link href="https://ezo.biz/Play_More/ECON.html?utm_source=blogfinder" />
+        <published>2026-11-11T23:50:00+08:00</published>
+        <author>
+            <name>小猪的窝</name>
+            <uri>https://ezo.biz</uri>
+        </author>
+        <summary type="text"><![CDATA[合理利用ECON]]></summary>
+    </entry>
         <entry>
         <title>女儿学画画3｜Coffee Time</title>
         <id>182807</id>
@@ -22,6 +110,28 @@
             <uri>https://me.xu19.com</uri>
         </author>
         <summary type="text"><![CDATA[女儿学画画3｜Coffee Time]]></summary>
+    </entry>
+        <entry>
+        <title>Album#50 - Is it gonna happen again?</title>
+        <id>182879</id>
+        <link href="https://taxodium.ink/album-50.html?utm_source=blogfinder" />
+        <published>2026-11-11T23:25:00+08:00</published>
+        <author>
+            <name>Taxodium</name>
+            <uri>https://taxodium.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[Album#50 - Is it gonna happen again?]]></summary>
+    </entry>
+        <entry>
+        <title>Github 上传文件超过100M时报错处理</title>
+        <id>182887</id>
+        <link href="https://chegva.com/6829.html?utm_source=blogfinder" />
+        <published>2026-11-11T23:06:52+08:00</published>
+        <author>
+            <name>安志合的学习博客</name>
+            <uri>https://chegva.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Github 上传文件超过100M时报错处理]]></summary>
     </entry>
         <entry>
         <title>欢迎使用 Typecho</title>
@@ -35,6 +145,17 @@
         <summary type="text"><![CDATA[欢迎使用 Typecho]]></summary>
     </entry>
         <entry>
+        <title>茶凉了很多次，只是这次，凉了也喝</title>
+        <id>182886</id>
+        <link href="https://blogs.lovewsx.top/archives/125/?utm_source=blogfinder" />
+        <published>2026-11-11T22:27:00+08:00</published>
+        <author>
+            <name>爱吃甜别加辣</name>
+            <uri>https://blogs.lovewsx.top</uri>
+        </author>
+        <summary type="text"><![CDATA[茶凉了很多次，只是这次，凉了也喝]]></summary>
+    </entry>
+        <entry>
         <title>预筑的废墟：苏联美学里永恒与必朽</title>
         <id>182809</id>
         <link href="https://dreams.plus/blog/2026/0016-yu-zhu-de-fei-xu?utm_source=blogfinder" />
@@ -46,6 +167,28 @@
         <summary type="text"><![CDATA[预筑的废墟：苏联美学里永恒与必朽]]></summary>
     </entry>
         <entry>
+        <title>转载：LSE 经济辩论，经济中的数学与历史</title>
+        <id>182877</id>
+        <link href="https://blog.huaxiangshan.com/zh-cn/posts/econ_hs/?utm_source=blogfinder" />
+        <published>2026-11-11T22:14:21+08:00</published>
+        <author>
+            <name>滑翔闪&#039;s Blog</name>
+            <uri>https://blog.huaxiangshan.com</uri>
+        </author>
+        <summary type="text"><![CDATA[转载：LSE 经济辩论，经济中的数学与历史]]></summary>
+    </entry>
+        <entry>
+        <title>试驾极狐阿尔法 T7</title>
+        <id>182876</id>
+        <link href="https://qfsyj.com/20261111-T7.html?utm_source=blogfinder" />
+        <published>2026-11-11T21:13:00+08:00</published>
+        <author>
+            <name>不曾长大</name>
+            <uri>https://qfsyj.com</uri>
+        </author>
+        <summary type="text"><![CDATA[试驾极狐阿尔法 T7]]></summary>
+    </entry>
+        <entry>
         <title>送养黑猫时黑猫应激咬了我的手，半天后被咬处起肿、伤口有脓血</title>
         <id>182805</id>
         <link href="https://www.bufanz.com/202611111247.html?utm_source=blogfinder" />
@@ -55,6 +198,28 @@
             <uri>https://www.bufanz.com</uri>
         </author>
         <summary type="text"><![CDATA[送养黑猫时黑猫应激咬了我的手，半天后被咬处起肿、伤口有脓血]]></summary>
+    </entry>
+        <entry>
+        <title>双鸡腿饭的饭缩力</title>
+        <id>182874</id>
+        <link href="https://liangmouyin.com/blog/chicken-rice-and-cheat-meals/?utm_source=blogfinder" />
+        <published>2026-11-11T21:00:00+08:00</published>
+        <author>
+            <name>梁某银</name>
+            <uri>https://liangmouyin.com</uri>
+        </author>
+        <summary type="text"><![CDATA[双鸡腿饭的饭缩力]]></summary>
+    </entry>
+        <entry>
+        <title>认真做一件事，究竟能有多大不同？</title>
+        <id>182884</id>
+        <link href="https://www.tortorse.com/archives/doing-one-thing-well/?utm_source=blogfinder" />
+        <published>2026-11-11T20:32:31+08:00</published>
+        <author>
+            <name>愆伏</name>
+            <uri>https://www.tortorse.com</uri>
+        </author>
+        <summary type="text"><![CDATA[认真做一件事，究竟能有多大不同？]]></summary>
     </entry>
         <entry>
         <title>没为任何软件开过付费会员</title>
@@ -143,6 +308,17 @@
             <uri>https://www.suiyan.cc</uri>
         </author>
         <summary type="text"><![CDATA[博客阅读随感与推荐 20261111]]></summary>
+    </entry>
+        <entry>
+        <title>评论区换了个新家</title>
+        <id>182875</id>
+        <link href="https://hux.ink/posts/new-comment/?utm_source=blogfinder" />
+        <published>2026-11-11T16:24:32+08:00</published>
+        <author>
+            <name>Counting Stars</name>
+            <uri>https://hux.ink</uri>
+        </author>
+        <summary type="text"><![CDATA[评论区换了个新家]]></summary>
     </entry>
         <entry>
         <title>《由妻子的小手术想到的》</title>
@@ -332,6 +508,39 @@
         <summary type="text"><![CDATA[Starryblu 使用指南：多币种账户、海外支付与跨境汇款]]></summary>
     </entry>
         <entry>
+        <title>小游戏出海投哪个平台？九个主流平台的分成、结算与门槛对比</title>
+        <id>182873</id>
+        <link href="https://maplezz.com/blog/小游戏出海平台对比_九个平台的分成与结算/?utm_source=blogfinder" />
+        <published>2026-11-11T08:00:00+08:00</published>
+        <author>
+            <name>猫普的精神世界</name>
+            <uri>https://maplezz.com</uri>
+        </author>
+        <summary type="text"><![CDATA[小游戏出海投哪个平台？九个主流平台的分成、结算与门槛对比]]></summary>
+    </entry>
+        <entry>
+        <title>电风扇又吹到之前的板块了</title>
+        <id>182872</id>
+        <link href="https://ddbzhou.com/post/youdaozhiqianbankuai/?utm_source=blogfinder" />
+        <published>2026-11-11T08:00:00+08:00</published>
+        <author>
+            <name>兜兜爸投资笔记</name>
+            <uri>https://ddbzhou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[电风扇又吹到之前的板块了]]></summary>
+    </entry>
+        <entry>
+        <title>这一届的双十一，已经非常具有AI味了</title>
+        <id>182871</id>
+        <link href="https://joojen.com/p/shuangshiyiaiwei/?utm_source=blogfinder" />
+        <published>2026-11-11T08:00:00+08:00</published>
+        <author>
+            <name>Joojen</name>
+            <uri>https://joojen.com</uri>
+        </author>
+        <summary type="text"><![CDATA[这一届的双十一，已经非常具有AI味了]]></summary>
+    </entry>
+        <entry>
         <title>如何应付陌生人来电</title>
         <id>182791</id>
         <link href="https://www.seis-jun.xyz/blog/2026-11-11-how-to-answer-phone-from-stranger.html?utm_source=blogfinder" />
@@ -374,6 +583,17 @@
             <uri>https://inkcodes.com</uri>
         </author>
         <summary type="text"><![CDATA[Claude被ban，清理本机环境真的挺重要]]></summary>
+    </entry>
+        <entry>
+        <title>往嘉信理财入金哪种方式较好？</title>
+        <id>182869</id>
+        <link href="https://tumutanzi.com/archives/17655/?utm_source=blogfinder" />
+        <published>2026-11-11T00:00:00+08:00</published>
+        <author>
+            <name>土木坛子</name>
+            <uri>https://tumutanzi.com</uri>
+        </author>
+        <summary type="text"><![CDATA[往嘉信理财入金哪种方式较好？]]></summary>
     </entry>
         <entry>
         <title>【吐泡泡】琐事闲聊</title>
@@ -1386,324 +1606,5 @@
             <uri>https://limboy.me</uri>
         </author>
         <summary type="text"><![CDATA[变成吸血鬼，还是生个孩子？为什么人生越重大的决定，越无法“理性”]]></summary>
-    </entry>
-        <entry>
-        <title>和校园网斗智斗勇的日子（第11辑）</title>
-        <id>181088</id>
-        <link href="https://blog.mfwt.top/index.php/archives/1717/?utm_source=blogfinder" />
-        <published>2026-11-09T14:53:00+08:00</published>
-        <author>
-            <name>枫林灯语</name>
-            <uri>https://blog.mfwt.top</uri>
-        </author>
-        <summary type="text"><![CDATA[和校园网斗智斗勇的日子（第11辑）]]></summary>
-    </entry>
-        <entry>
-        <title>如何正确使用一位丈夫?</title>
-        <id>181071</id>
-        <link href="https://www.seis-jun.xyz/blog/2026-11-09-how-to-use-a-husbend-correctly.html?utm_source=blogfinder" />
-        <published>2026-11-09T14:17:34+08:00</published>
-        <author>
-            <name>SEISAMUSE</name>
-            <uri>https://www.seis-jun.xyz/</uri>
-        </author>
-        <summary type="text"><![CDATA[如何正确使用一位丈夫?]]></summary>
-    </entry>
-        <entry>
-        <title>大壮的爱情</title>
-        <id>181037</id>
-        <link href="https://oba.by/post/2379/?utm_source=blogfinder" />
-        <published>2026-11-09T14:12:20+08:00</published>
-        <author>
-            <name>obaby 𝐢‍𝐧⃝  void</name>
-            <uri>https://oba.by</uri>
-        </author>
-        <summary type="text"><![CDATA[大壮的爱情]]></summary>
-    </entry>
-        <entry>
-        <title>发现写字时手比以前稳了</title>
-        <id>181034</id>
-        <link href="https://yufm.com/662535.html?utm_source=blogfinder" />
-        <published>2026-11-09T14:10:26+08:00</published>
-        <author>
-            <name>You &amp; FM</name>
-            <uri>https://yufm.com</uri>
-        </author>
-        <summary type="text"><![CDATA[发现写字时手比以前稳了]]></summary>
-    </entry>
-        <entry>
-        <title>晴光掩不住寒意，时序悄悄翻到深冬</title>
-        <id>181067</id>
-        <link href="https://blogs.lovewsx.top/archives/124/?utm_source=blogfinder" />
-        <published>2026-11-09T13:05:00+08:00</published>
-        <author>
-            <name>爱吃甜别加辣</name>
-            <uri>https://blogs.lovewsx.top</uri>
-        </author>
-        <summary type="text"><![CDATA[晴光掩不住寒意，时序悄悄翻到深冬]]></summary>
-    </entry>
-        <entry>
-        <title>I Hate AIex</title>
-        <id>181143</id>
-        <link href="https://blog.cytrogen.icu/posts/7db9.html?utm_source=blogfinder" />
-        <published>2026-11-09T13:00:00+08:00</published>
-        <author>
-            <name>Cytrogen&#039;s Blog</name>
-            <uri>https://blog.cytrogen.icu</uri>
-        </author>
-        <summary type="text"><![CDATA[I Hate AIex]]></summary>
-    </entry>
-        <entry>
-        <title>博客七周年记</title>
-        <id>181040</id>
-        <link href="https://blog.zhheo.com/p/74qioc4q.html?utm_source=blogfinder" />
-        <published>2026-11-09T12:16:47+08:00</published>
-        <author>
-            <name>张洪 Heo</name>
-            <uri>https://blog.zhheo.com</uri>
-        </author>
-        <summary type="text"><![CDATA[博客七周年记]]></summary>
-    </entry>
-        <entry>
-        <title>碎碎谈 · 11月9日 12:05</title>
-        <id>181056</id>
-        <link href="https://www.tjsky.net/shuoshuo/kwenq95hvbjcvounzinsxu?utm_source=blogfinder" />
-        <published>2026-11-09T12:05:13+08:00</published>
-        <author>
-            <name>秋风于渭水</name>
-            <uri>https://www.tjsky.net</uri>
-        </author>
-        <summary type="text"><![CDATA[碎碎谈 · 11月9日 12:05]]></summary>
-    </entry>
-        <entry>
-        <title>车祸后第一次走这么远</title>
-        <id>182857</id>
-        <link href="https://sheep5.net/archives/647.html?utm_source=blogfinder" />
-        <published>2026-11-09T12:03:00+08:00</published>
-        <author>
-            <name>Sheep5</name>
-            <uri>https://sheep5.net</uri>
-        </author>
-        <summary type="text"><![CDATA[车祸后第一次走这么远]]></summary>
-    </entry>
-        <entry>
-        <title>关于远程桌面下使用PhotoShop的小技巧——解决GPU调度问题</title>
-        <id>181070</id>
-        <link href="https://blog.moeworld.tech/2026/11/09/%e5%85%b3%e4%ba%8e%e8%bf%9c%e7%a8%8b%e6%a1%8c%e9%9d%a2%e4%b8%8b%e4%bd%bf%e7%94%a8photoshop%e7%9a%84%e5%b0%8f%e6%8a%80%e5%b7%a7-%e8%a7%a3%e5%86%b3gpu%e8%b0%83%e5%ba%a6%e9%97%ae/?utm_source=blogfinder" />
-        <published>2026-11-09T12:00:00+08:00</published>
-        <author>
-            <name>晓空 Blog</name>
-            <uri>https://blog.moeworld.tech</uri>
-        </author>
-        <summary type="text"><![CDATA[关于远程桌面下使用PhotoShop的小技巧——解决GPU调度问题]]></summary>
-    </entry>
-        <entry>
-        <title>留言板全页弹幕</title>
-        <id>181066</id>
-        <link href="https://www.amubk.cn/2026/11/09/%E7%95%99%E8%A8%80%E6%9D%BF%E5%85%A8%E9%A1%B5%E5%BC%B9%E5%B9%95%EF%BC%9A%E8%AE%A9%E8%AE%BF%E5%AE%A2%E7%9A%84%E7%95%99%E8%A8%80%E9%A3%98%E8%BF%87%E6%95%B4%E4%B8%AA%E9%A1%B5%E9%9D%A2/?utm_source=blogfinder" />
-        <published>2026-11-09T12:00:00+08:00</published>
-        <author>
-            <name>Amu</name>
-            <uri>https://amubk.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[留言板全页弹幕]]></summary>
-    </entry>
-        <entry>
-        <title>【读书记1739】山本兼一《一念虎彻》</title>
-        <id>181054</id>
-        <link href="http://www.qncd.com/?p=13324&amp;utm_source=blogfinder" />
-        <published>2026-11-09T11:16:52+08:00</published>
-        <author>
-            <name>尺宅杂记</name>
-            <uri>http://www.qncd.com</uri>
-        </author>
-        <summary type="text"><![CDATA[【读书记1739】山本兼一《一念虎彻》]]></summary>
-    </entry>
-        <entry>
-        <title>在Arch Linux上使用MounRiver Studio开发沁恒单片机</title>
-        <id>181057</id>
-        <link href="https://loveapple.space/blog/mounriver-install/?utm_source=blogfinder" />
-        <published>2026-11-09T10:57:21+08:00</published>
-        <author>
-            <name>LoveApple14434</name>
-            <uri>https://loveapple.space/blog/</uri>
-        </author>
-        <summary type="text"><![CDATA[在Arch Linux上使用MounRiver Studio开发沁恒单片机]]></summary>
-    </entry>
-        <entry>
-        <title>[語言進階]C7</title>
-        <id>181089</id>
-        <link href="https://samuflore.top/posts/fe3268af/?utm_source=blogfinder" />
-        <published>2026-11-09T10:47:51+08:00</published>
-        <author>
-            <name>SamuFlore</name>
-            <uri>https://samuflore.top</uri>
-        </author>
-        <summary type="text"><![CDATA[[語言進階]C7]]></summary>
-    </entry>
-        <entry>
-        <title>尽兴的乐趣</title>
-        <id>181032</id>
-        <link href="https://mobius.blog/26100.html?utm_source=blogfinder" />
-        <published>2026-11-09T10:21:41+08:00</published>
-        <author>
-            <name>莫比乌斯</name>
-            <uri>https://mobius.blog</uri>
-        </author>
-        <summary type="text"><![CDATA[尽兴的乐趣]]></summary>
-    </entry>
-        <entry>
-        <title>锚定效应：你看到的第一个数字，正在悄悄影响你的判断</title>
-        <id>181092</id>
-        <link href="https://www.jeffjade.com/2026/11/09/259-anchoring-effect/?utm_source=blogfinder" />
-        <published>2026-11-09T10:20:00+08:00</published>
-        <author>
-            <name>晚晴幽草轩</name>
-            <uri>https://www.jeffjade.com</uri>
-        </author>
-        <summary type="text"><![CDATA[锚定效应：你看到的第一个数字，正在悄悄影响你的判断]]></summary>
-    </entry>
-        <entry>
-        <title>英伟达启动独立调查，官方声明说了什么</title>
-        <id>181021</id>
-        <link href="https://www.webjing.cn/archives/daily-ai-2026-11-09?utm_source=blogfinder" />
-        <published>2026-11-09T10:12:29+08:00</published>
-        <author>
-            <name>webjing</name>
-            <uri>https://www.webjing.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[英伟达启动独立调查，官方声明说了什么]]></summary>
-    </entry>
-        <entry>
-        <title>这个车牌牛啊</title>
-        <id>181024</id>
-        <link href="https://ygz.ink/archives/5925.html?utm_source=blogfinder" />
-        <published>2026-11-09T09:42:55+08:00</published>
-        <author>
-            <name>宗宗酱</name>
-            <uri>https://ygz.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[这个车牌牛啊]]></summary>
-    </entry>
-        <entry>
-        <title>为了 WorkBuddy，我从飞牛 NAS 转向 Win NAS</title>
-        <id>181068</id>
-        <link href="https://lawtee.com/article/workbuddy-windows-nas/?utm_source=blogfinder" />
-        <published>2026-11-09T09:30:00+08:00</published>
-        <author>
-            <name>老 T 博客</name>
-            <uri>https://lawtee.com</uri>
-        </author>
-        <summary type="text"><![CDATA[为了 WorkBuddy，我从飞牛 NAS 转向 Win NAS]]></summary>
-    </entry>
-        <entry>
-        <title>扣子下线，云端那张画布未来趋势如何？</title>
-        <id>181031</id>
-        <link href="https://blog.onlycc.ltd/archives/pG9EsPmz?utm_source=blogfinder" />
-        <published>2026-11-09T09:28:00+08:00</published>
-        <author>
-            <name>楠香自语</name>
-            <uri>https://blog.onlycc.ltd</uri>
-        </author>
-        <summary type="text"><![CDATA[扣子下线，云端那张画布未来趋势如何？]]></summary>
-    </entry>
-        <entry>
-        <title>下雪了结冰了却供不了暖</title>
-        <id>181019</id>
-        <link href="https://www.pgoj.top/archives/bao-xue-gong-nuan.html?utm_source=blogfinder" />
-        <published>2026-11-09T09:17:06+08:00</published>
-        <author>
-            <name>平哥偶记</name>
-            <uri>https://www.pgoj.top</uri>
-        </author>
-        <summary type="text"><![CDATA[下雪了结冰了却供不了暖]]></summary>
-    </entry>
-        <entry>
-        <title>听雨茶室更新啦，现在也能写 Markdown 小文章了</title>
-        <id>181107</id>
-        <link href="https://rainzt.cn/posts/tingyu-tea-room-markdown-update/?utm_source=blogfinder" />
-        <published>2026-11-09T08:00:00+08:00</published>
-        <author>
-            <name>朝朝听雨</name>
-            <uri>https://rainzt.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[听雨茶室更新啦，现在也能写 Markdown 小文章了]]></summary>
-    </entry>
-        <entry>
-        <title>我的迪拜极简行李（复盘篇）</title>
-        <id>181106</id>
-        <link href="https://varzy.me/posts/my-minimalist-dubai-packing-review?utm_source=blogfinder" />
-        <published>2026-11-09T08:00:00+08:00</published>
-        <author>
-            <name>贼歪</name>
-            <uri>https://varzy.me</uri>
-        </author>
-        <summary type="text"><![CDATA[我的迪拜极简行李（复盘篇）]]></summary>
-    </entry>
-        <entry>
-        <title>还是有点不自信</title>
-        <id>181105</id>
-        <link href="https://ddbzhou.com/post/haishiyoudianbuzixin/?utm_source=blogfinder" />
-        <published>2026-11-09T08:00:00+08:00</published>
-        <author>
-            <name>兜兜爸投资笔记</name>
-            <uri>https://ddbzhou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[还是有点不自信]]></summary>
-    </entry>
-        <entry>
-        <title>烧了一百亿Token后的Harness Agent交互感想</title>
-        <id>181103</id>
-        <link href="https://prologue.dev/blog/2026-how-do-i-use-deepseek-harness?utm_source=blogfinder" />
-        <published>2026-11-09T08:00:00+08:00</published>
-        <author>
-            <name>Prologue</name>
-            <uri>https://prologue.dev</uri>
-        </author>
-        <summary type="text"><![CDATA[烧了一百亿Token后的Harness Agent交互感想]]></summary>
-    </entry>
-        <entry>
-        <title>浅谈CTF比赛是怎么判断AI自动答题的</title>
-        <id>181102</id>
-        <link href="https://www.xiaozonglin.cn/blog/how-ctf-ban-ai-auto-hack/?utm_source=blogfinder" />
-        <published>2026-11-09T08:00:00+08:00</published>
-        <author>
-            <name>林林杂语</name>
-            <uri>https://www.xiaozonglin.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[浅谈CTF比赛是怎么判断AI自动答题的]]></summary>
-    </entry>
-        <entry>
-        <title>AI浪潮下，一切到了重构的时候</title>
-        <id>181101</id>
-        <link href="https://joojen.com/p/daolechonggoudeshihou/?utm_source=blogfinder" />
-        <published>2026-11-09T08:00:00+08:00</published>
-        <author>
-            <name>Joojen</name>
-            <uri>https://joojen.com</uri>
-        </author>
-        <summary type="text"><![CDATA[AI浪潮下，一切到了重构的时候]]></summary>
-    </entry>
-        <entry>
-        <title>共享上下文之后，AI 会怎样改变软件架构？</title>
-        <id>181063</id>
-        <link href="https://xilidou.com/2026/11/08/ai-shared-context-architecture/?utm_source=blogfinder" />
-        <published>2026-11-09T07:00:00+08:00</published>
-        <author>
-            <name>犀利豆的博客</name>
-            <uri>https://xilidou.com</uri>
-        </author>
-        <summary type="text"><![CDATA[共享上下文之后，AI 会怎样改变软件架构？]]></summary>
-    </entry>
-        <entry>
-        <title>[安全周报] WP升级窗口漏洞; apt自身可被投毒; top1000高危IP黑名单（2026-11-09）</title>
-        <id>181023</id>
-        <link href="https://www.paddysun.top/archives/5640?utm_source=blogfinder" />
-        <published>2026-11-09T06:30:00+08:00</published>
-        <author>
-            <name>Under the Sun with Paddy</name>
-            <uri>https://www.paddysun.top</uri>
-        </author>
-        <summary type="text"><![CDATA[[安全周报] WP升级窗口漏洞; apt自身可被投毒; top1000高危IP黑名单（2026-11-09）]]></summary>
     </entry>
     </feed>
