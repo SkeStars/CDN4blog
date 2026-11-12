@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-11-13T00:03:08+08:00</updated>
+    <updated>2026-11-13T04:03:41+08:00</updated>
+        <entry>
+        <title>Jupyter 导包提示模块找不到（conda 虚拟环境）</title>
+        <id>182924</id>
+        <link href="https://kexitu.com/blog/jupyter-import-cv-fail-issue?utm_source=blogfinder" />
+        <published>2026-11-13T01:48:00+08:00</published>
+        <author>
+            <name>柯希兔</name>
+            <uri>https://kexitu.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Jupyter 导包提示模块找不到（conda 虚拟环境）]]></summary>
+    </entry>
         <entry>
         <title>更换消防水管</title>
         <id>182907</id>
@@ -101,6 +112,17 @@
         <summary type="text"><![CDATA[Album#51 - 阁楼的影像 &amp; 家]]></summary>
     </entry>
         <entry>
+        <title>今天在医院做个例行检查，查完喝杯咖啡</title>
+        <id>182935</id>
+        <link href="https://399s.com/8640.html?utm_source=blogfinder" />
+        <published>2026-11-12T17:05:22+08:00</published>
+        <author>
+            <name>Hugo.Lin の生活志</name>
+            <uri>https://399s.com</uri>
+        </author>
+        <summary type="text"><![CDATA[今天在医院做个例行检查，查完喝杯咖啡]]></summary>
+    </entry>
+        <entry>
         <title>WordPress插件ServerProbe：WordPress轻量级服务器监控探针插件</title>
         <id>182896</id>
         <link href="https://www.bufanz.com/202611121254.html?utm_source=blogfinder" />
@@ -156,6 +178,17 @@
         <summary type="text"><![CDATA[烤乳猪]]></summary>
     </entry>
         <entry>
+        <title>AI 的知识诅咒与多 Agent 协作</title>
+        <id>182911</id>
+        <link href="https://1q43.blog/post/12629/?utm_source=blogfinder" />
+        <published>2026-11-12T13:50:26+08:00</published>
+        <author>
+            <name>虹线</name>
+            <uri>https://1q43.blog</uri>
+        </author>
+        <summary type="text"><![CDATA[AI 的知识诅咒与多 Agent 协作]]></summary>
+    </entry>
+        <entry>
         <title>今年双十一购物有些少</title>
         <id>182888</id>
         <link href="https://www.gujishe.com/archives/92.html?utm_source=blogfinder" />
@@ -167,6 +200,17 @@
         <summary type="text"><![CDATA[今年双十一购物有些少]]></summary>
     </entry>
         <entry>
+        <title>十六又去虎山完了</title>
+        <id>182912</id>
+        <link href="https://xsmy.wang/1460.html?utm_source=blogfinder" />
+        <published>2026-11-12T12:43:38+08:00</published>
+        <author>
+            <name>相思明月</name>
+            <uri>https://xsmy.wang</uri>
+        </author>
+        <summary type="text"><![CDATA[十六又去虎山完了]]></summary>
+    </entry>
+        <entry>
         <title>随笔心情</title>
         <id>182893</id>
         <link href="http://www.xulog.cn/index.php?act=pl&amp;id=1243&amp;utm_source=blogfinder" />
@@ -176,6 +220,17 @@
             <uri>http://www.xulog.cn</uri>
         </author>
         <summary type="text"><![CDATA[随笔心情]]></summary>
+    </entry>
+        <entry>
+        <title>人生待体验项目备忘录</title>
+        <id>182913</id>
+        <link href="https://blog.xxbjf.com/archives/ren-sheng-dai-ti-yan-xiang-mu-bei-wang-lu?utm_source=blogfinder" />
+        <published>2026-11-12T11:57:53+08:00</published>
+        <author>
+            <name>小新笔记坊</name>
+            <uri>https://blog.xxbjf.com</uri>
+        </author>
+        <summary type="text"><![CDATA[人生待体验项目备忘录]]></summary>
     </entry>
         <entry>
         <title>那些靠人命堆出来的奇观</title>
@@ -233,6 +288,17 @@
         <summary type="text"><![CDATA[Qwen4-Max 进入预览，怎样验收长资料回答]]></summary>
     </entry>
         <entry>
+        <title>重要测试：Debian 13.0</title>
+        <id>182908</id>
+        <link href="http://www.auiou.com/relevant/00002240.jsp?utm_source=blogfinder" />
+        <published>2026-11-12T08:31:00+08:00</published>
+        <author>
+            <name>王志勇的 Blog</name>
+            <uri>http://www.auiou.com</uri>
+        </author>
+        <summary type="text"><![CDATA[重要测试：Debian 13.0]]></summary>
+    </entry>
+        <entry>
         <title>不期而遇</title>
         <id>182870</id>
         <link href="https://www.chenrui.com/post/3531.html?utm_source=blogfinder" />
@@ -242,6 +308,17 @@
             <uri>https://www.chenrui.com</uri>
         </author>
         <summary type="text"><![CDATA[不期而遇]]></summary>
+    </entry>
+        <entry>
+        <title>学习，旅行，马克思，研究 and Burn out</title>
+        <id>182914</id>
+        <link href="https://eduardoqian.com/archives/xue-xi-lu-xing-ma-ke-si-yan-jiu-and-burn-out?utm_source=blogfinder" />
+        <published>2026-11-12T06:47:00+08:00</published>
+        <author>
+            <name>司云有崖</name>
+            <uri>https://eduardoqian.com</uri>
+        </author>
+        <summary type="text"><![CDATA[学习，旅行，马克思，研究 and Burn out]]></summary>
     </entry>
         <entry>
         <title>空白处有我</title>
@@ -310,6 +387,28 @@
         <summary type="text"><![CDATA[Github 上传文件超过100M时报错处理]]></summary>
     </entry>
         <entry>
+        <title>摸鱼的决心</title>
+        <id>182915</id>
+        <link href="https://www.automatown.top/essay/lazyboy.html?utm_source=blogfinder" />
+        <published>2026-11-11T23:02:00+08:00</published>
+        <author>
+            <name>自動鎮</name>
+            <uri>https://www.automatown.top</uri>
+        </author>
+        <summary type="text"><![CDATA[摸鱼的决心]]></summary>
+    </entry>
+        <entry>
+        <title>双十一大伙都买了什么，我好像没有什么…</title>
+        <id>182936</id>
+        <link href="https://399s.com/8634.html?utm_source=blogfinder" />
+        <published>2026-11-11T22:52:05+08:00</published>
+        <author>
+            <name>Hugo.Lin の生活志</name>
+            <uri>https://399s.com</uri>
+        </author>
+        <summary type="text"><![CDATA[双十一大伙都买了什么，我好像没有什么…]]></summary>
+    </entry>
+        <entry>
         <title>更新 Debian 12 服务器到最新稳定内核</title>
         <id>182903</id>
         <link href="https://blog.liuzhen932.top/posts/update-debian-12-kernel/?utm_source=blogfinder" />
@@ -363,6 +462,17 @@
             <uri>https://blog.huaxiangshan.com</uri>
         </author>
         <summary type="text"><![CDATA[转载：LSE 经济辩论，经济中的数学与历史]]></summary>
+    </entry>
+        <entry>
+        <title>Fluid -48- 基于 Pagefind 重构站内搜索</title>
+        <id>182909</id>
+        <link href="https://www.zywvvd.com/notes/hexo/theme/fluid/fluid-48-pagefind-search/fluid-48-pagefind-search/?utm_source=blogfinder" />
+        <published>2026-11-11T21:40:00+08:00</published>
+        <author>
+            <name>又见苍岚</name>
+            <uri>https://www.zywvvd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Fluid -48- 基于 Pagefind 重构站内搜索]]></summary>
     </entry>
         <entry>
         <title>冷冷清清的双十一</title>
@@ -420,6 +530,17 @@
         <summary type="text"><![CDATA[认真做一件事，究竟能有多大不同？]]></summary>
     </entry>
         <entry>
+        <title>Fluid -47- 主题升级至 v1.9.9</title>
+        <id>182910</id>
+        <link href="https://www.zywvvd.com/notes/hexo/theme/fluid/fluid-47-theme-merge/fluid-47-theme-merge/?utm_source=blogfinder" />
+        <published>2026-11-11T20:30:00+08:00</published>
+        <author>
+            <name>又见苍岚</name>
+            <uri>https://www.zywvvd.com</uri>
+        </author>
+        <summary type="text"><![CDATA[Fluid -47- 主题升级至 v1.9.9]]></summary>
+    </entry>
+        <entry>
         <title>没为任何软件开过付费会员</title>
         <id>182801</id>
         <link href="https://www.pgoj.top/archives/fu-fei-hui-yuan.html?utm_source=blogfinder" />
@@ -429,6 +550,17 @@
             <uri>https://www.pgoj.top</uri>
         </author>
         <summary type="text"><![CDATA[没为任何软件开过付费会员]]></summary>
+    </entry>
+        <entry>
+        <title>山影入暮，月牙如钩，晚风拂过旧时楼。</title>
+        <id>182937</id>
+        <link href="https://399s.com/8630.html?utm_source=blogfinder" />
+        <published>2026-11-11T19:42:39+08:00</published>
+        <author>
+            <name>Hugo.Lin の生活志</name>
+            <uri>https://399s.com</uri>
+        </author>
+        <summary type="text"><![CDATA[山影入暮，月牙如钩，晚风拂过旧时楼。]]></summary>
     </entry>
         <entry>
         <title>2026-11-11-学习问答</title>
@@ -528,6 +660,17 @@
             <uri>https://www.weiwenchao.com</uri>
         </author>
         <summary type="text"><![CDATA[《由妻子的小手术想到的》]]></summary>
+    </entry>
+        <entry>
+        <title>腾讯云双11活动 2核4G5M 这款服务器性价比不错</title>
+        <id>182938</id>
+        <link href="https://399s.com/8624.html?utm_source=blogfinder" />
+        <published>2026-11-11T15:23:19+08:00</published>
+        <author>
+            <name>Hugo.Lin の生活志</name>
+            <uri>https://399s.com</uri>
+        </author>
+        <summary type="text"><![CDATA[腾讯云双11活动 2核4G5M 这款服务器性价比不错]]></summary>
     </entry>
         <entry>
         <title>站着写字还是容易紧张手抖</title>
@@ -849,6 +992,17 @@
         <summary type="text"><![CDATA[高油价吃力]]></summary>
     </entry>
         <entry>
+        <title>酸啤确实不太容易接受，还是威士忌吧</title>
+        <id>182939</id>
+        <link href="https://399s.com/8621.html?utm_source=blogfinder" />
+        <published>2026-11-10T22:30:56+08:00</published>
+        <author>
+            <name>Hugo.Lin の生活志</name>
+            <uri>https://399s.com</uri>
+        </author>
+        <summary type="text"><![CDATA[酸啤确实不太容易接受，还是威士忌吧]]></summary>
+    </entry>
+        <entry>
         <title>发现公司的泰香米特好吃，终于拍了米袋子</title>
         <id>182796</id>
         <link href="https://www.aiwazi.com/3616.html?utm_source=blogfinder" />
@@ -1135,6 +1289,28 @@
         <summary type="text"><![CDATA[现在的垃圾评论，连AI都用上了]]></summary>
     </entry>
         <entry>
+        <title>用 workbuddy 手搓了一个微信小程序</title>
+        <id>182940</id>
+        <link href="https://399s.com/8618.html?utm_source=blogfinder" />
+        <published>2026-11-10T13:22:18+08:00</published>
+        <author>
+            <name>Hugo.Lin の生活志</name>
+            <uri>https://399s.com</uri>
+        </author>
+        <summary type="text"><![CDATA[用 workbuddy 手搓了一个微信小程序]]></summary>
+    </entry>
+        <entry>
+        <title>驻点监督施工，天气不错 ，气温却还蛮…</title>
+        <id>182941</id>
+        <link href="https://399s.com/8616.html?utm_source=blogfinder" />
+        <published>2026-11-10T12:20:10+08:00</published>
+        <author>
+            <name>Hugo.Lin の生活志</name>
+            <uri>https://399s.com</uri>
+        </author>
+        <summary type="text"><![CDATA[驻点监督施工，天气不错 ，气温却还蛮…]]></summary>
+    </entry>
+        <entry>
         <title>评论区能攒经验升级了，还发徽章</title>
         <id>181148</id>
         <link href="https://www.sanshijiu.cn/post/60?utm_source=blogfinder" />
@@ -1298,38 +1474,5 @@
             <uri>https://blog.waterfish.ren</uri>
         </author>
         <summary type="text"><![CDATA[水鱼文集 · 外观主题定制说明]]></summary>
-    </entry>
-        <entry>
-        <title>在你的故事里，我是谁</title>
-        <id>181156</id>
-        <link href="https://d-d.design/single/20629?utm_source=blogfinder" />
-        <published>2026-11-10T02:51:44+08:00</published>
-        <author>
-            <name>孤斗</name>
-            <uri>https://d-d.design</uri>
-        </author>
-        <summary type="text"><![CDATA[在你的故事里，我是谁]]></summary>
-    </entry>
-        <entry>
-        <title>关于&quot;十年之约&quot;项目不实言论的基础驳斥</title>
-        <id>181096</id>
-        <link href="https://blog.dao.js.cn/posts/x2Xh?utm_source=blogfinder" />
-        <published>2026-11-10T00:39:00+08:00</published>
-        <author>
-            <name>懋和道人</name>
-            <uri>https://blog.dao.js.cn</uri>
-        </author>
-        <summary type="text"><![CDATA[关于&quot;十年之约&quot;项目不实言论的基础驳斥]]></summary>
-    </entry>
-        <entry>
-        <title>周记-其二</title>
-        <id>181160</id>
-        <link href="https://ffaff.fun/blog/%E5%91%A8%E8%AE%B0-%E5%85%B6%E4%BA%8C?utm_source=blogfinder" />
-        <published>2026-11-10T00:30:00+08:00</published>
-        <author>
-            <name>Kiwi 的博客</name>
-            <uri>https://ffaff.fun</uri>
-        </author>
-        <summary type="text"><![CDATA[周记-其二]]></summary>
     </entry>
     </feed>
