@@ -11,7 +11,18 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-11-14T22:01:40+08:00</updated>
+    <updated>2026-11-15T00:02:35+08:00</updated>
+        <entry>
+        <title>审判你的只有你自己</title>
+        <id>183064</id>
+        <link href="https://wangyurui.com/posts/shen-pan-ni-de-zhi-you-ni-zi-ji-9a3b066a?utm_source=blogfinder" />
+        <published>2026-11-14T22:01:00+08:00</published>
+        <author>
+            <name>太隐</name>
+            <uri>https://wangyurui.com</uri>
+        </author>
+        <summary type="text"><![CDATA[审判你的只有你自己]]></summary>
+    </entry>
         <entry>
         <title>Nextcloud 迁移实录：跳过四个大版本与一次上游事故考古</title>
         <id>183058</id>
@@ -35,6 +46,17 @@
         <summary type="text"><![CDATA[自建观测栈：Prometheus、Grafana 与脱敏状态页]]></summary>
     </entry>
         <entry>
+        <title>免费获得一台天翼AI云电脑</title>
+        <id>183065</id>
+        <link href="https://meledee.com/2026/11/4873.html?utm_source=blogfinder" />
+        <published>2026-11-14T21:07:36+08:00</published>
+        <author>
+            <name>美樂地</name>
+            <uri>https://meledee.com</uri>
+        </author>
+        <summary type="text"><![CDATA[免费获得一台天翼AI云电脑]]></summary>
+    </entry>
+        <entry>
         <title>NAS 网关升级：公网入口单端口收敛</title>
         <id>183060</id>
         <link href="https://www.zywvvd.com/notes/environment/nas/nas-gateway-port/nas-gateway-port/?utm_source=blogfinder" />
@@ -44,6 +66,28 @@
             <uri>https://www.zywvvd.com</uri>
         </author>
         <summary type="text"><![CDATA[NAS 网关升级：公网入口单端口收敛]]></summary>
+    </entry>
+        <entry>
+        <title>慢跑减肥记</title>
+        <id>183071</id>
+        <link href="https://www.jfsay.com/archives/6265.html?utm_source=blogfinder" />
+        <published>2026-11-14T20:46:57+08:00</published>
+        <author>
+            <name>静风说</name>
+            <uri>https://www.jfsay.com</uri>
+        </author>
+        <summary type="text"><![CDATA[慢跑减肥记]]></summary>
+    </entry>
+        <entry>
+        <title>现在这AI音乐做的真好，比某些歌手乱嚎的半中半英…</title>
+        <id>183067</id>
+        <link href="https://molyun.com/moments/#moment-6a94dfd5da8f?utm_source=blogfinder" />
+        <published>2026-11-14T20:43:00+08:00</published>
+        <author>
+            <name>阿伏伽德罗的云端</name>
+            <uri>https://molyun.com</uri>
+        </author>
+        <summary type="text"><![CDATA[现在这AI音乐做的真好，比某些歌手乱嚎的半中半英…]]></summary>
     </entry>
         <entry>
         <title>NAS 迁移收官：从 J3455 到 PVE 虚拟化全栈</title>
@@ -112,6 +156,17 @@
         <summary type="text"><![CDATA[2026-11-14-学习问答]]></summary>
     </entry>
         <entry>
+        <title>生活的策略</title>
+        <id>183068</id>
+        <link href="https://www.ixiqin.com/2026/11/14/life-strategies/?utm_source=blogfinder" />
+        <published>2026-11-14T16:15:59+08:00</published>
+        <author>
+            <name>西秦公子</name>
+            <uri>https://www.ixiqin.com</uri>
+        </author>
+        <summary type="text"><![CDATA[生活的策略]]></summary>
+    </entry>
+        <entry>
         <title>十来天没写字</title>
         <id>183050</id>
         <link href="https://www.iliu.org/posts/ten-days-without-writing/?utm_source=blogfinder" />
@@ -121,6 +176,17 @@
             <uri>https://www.iliu.org</uri>
         </author>
         <summary type="text"><![CDATA[十来天没写字]]></summary>
+    </entry>
+        <entry>
+        <title>用力，且认真的生活</title>
+        <id>183069</id>
+        <link href="https://www.ixiqin.com/2026/11/14/hard-work-and-hard-life/?utm_source=blogfinder" />
+        <published>2026-11-14T16:00:49+08:00</published>
+        <author>
+            <name>西秦公子</name>
+            <uri>https://www.ixiqin.com</uri>
+        </author>
+        <summary type="text"><![CDATA[用力，且认真的生活]]></summary>
     </entry>
         <entry>
         <title>影彩</title>
@@ -167,6 +233,17 @@
         <summary type="text"><![CDATA[中午跟女儿两人的简单午餐]]></summary>
     </entry>
         <entry>
+        <title>从 GPT Pro 切到 Google AI Ultra 两周实测：30 亿 Tokens 账本与 Antigravity 对比</title>
+        <id>183072</id>
+        <link href="https://www.xuezhao.space/google-ai-ultra-vs-gpt-pro-codex-review.html?utm_source=blogfinder" />
+        <published>2026-11-14T14:27:25+08:00</published>
+        <author>
+            <name>海拉鲁打怪日记</name>
+            <uri>https://www.xuezhao.space</uri>
+        </author>
+        <summary type="text"><![CDATA[从 GPT Pro 切到 Google AI Ultra 两周实测：30 亿 Tokens 账本与 Antigravity 对比]]></summary>
+    </entry>
+        <entry>
         <title>风骚律师S02E05</title>
         <id>183045</id>
         <link href="https://www.seis-jun.xyz/blog/2026-11-14-better-call-saul-s02e05.html?utm_source=blogfinder" />
@@ -176,6 +253,17 @@
             <uri>https://www.seis-jun.xyz/</uri>
         </author>
         <summary type="text"><![CDATA[风骚律师S02E05]]></summary>
+    </entry>
+        <entry>
+        <title>2008，那顿饭</title>
+        <id>183070</id>
+        <link href="https://www.tortorse.com/archives/the-dinner-in-2008/?utm_source=blogfinder" />
+        <published>2026-11-14T13:31:03+08:00</published>
+        <author>
+            <name>愆伏</name>
+            <uri>https://www.tortorse.com</uri>
+        </author>
+        <summary type="text"><![CDATA[2008，那顿饭]]></summary>
     </entry>
         <entry>
         <title>Halo 默认编辑器还是 Markdown，先回答这三个问题</title>
@@ -1287,137 +1375,5 @@
             <uri>https://anotherdayu.com</uri>
         </author>
         <summary type="text"><![CDATA[空白处有我]]></summary>
-    </entry>
-        <entry>
-        <title>合理利用ECON</title>
-        <id>182883</id>
-        <link href="https://ezo.biz/Play_More/ECON.html?utm_source=blogfinder" />
-        <published>2026-11-11T23:50:00+08:00</published>
-        <author>
-            <name>小猪的窝</name>
-            <uri>https://ezo.biz</uri>
-        </author>
-        <summary type="text"><![CDATA[合理利用ECON]]></summary>
-    </entry>
-        <entry>
-        <title>女儿学画画3｜Coffee Time</title>
-        <id>182807</id>
-        <link href="https://me.xu19.com/daughter-learning-to-draw-part-3-coffee-time/?utm_source=blogfinder" />
-        <published>2026-11-11T23:27:59+08:00</published>
-        <author>
-            <name>我是军爸</name>
-            <uri>https://me.xu19.com</uri>
-        </author>
-        <summary type="text"><![CDATA[女儿学画画3｜Coffee Time]]></summary>
-    </entry>
-        <entry>
-        <title>Album#50 - Is it gonna happen again?</title>
-        <id>182879</id>
-        <link href="https://taxodium.ink/album-50.html?utm_source=blogfinder" />
-        <published>2026-11-11T23:25:00+08:00</published>
-        <author>
-            <name>Taxodium</name>
-            <uri>https://taxodium.ink</uri>
-        </author>
-        <summary type="text"><![CDATA[Album#50 - Is it gonna happen again?]]></summary>
-    </entry>
-        <entry>
-        <title>消费理念</title>
-        <id>182895</id>
-        <link href="https://www.kawabangga.com/posts/7449?utm_source=blogfinder" />
-        <published>2026-11-11T23:12:22+08:00</published>
-        <author>
-            <name>卡瓦邦噶</name>
-            <uri>https://www.kawabangga.com</uri>
-        </author>
-        <summary type="text"><![CDATA[消费理念]]></summary>
-    </entry>
-        <entry>
-        <title>Github 上传文件超过100M时报错处理</title>
-        <id>182887</id>
-        <link href="https://chegva.com/6829.html?utm_source=blogfinder" />
-        <published>2026-11-11T23:06:52+08:00</published>
-        <author>
-            <name>安志合的学习博客</name>
-            <uri>https://chegva.com</uri>
-        </author>
-        <summary type="text"><![CDATA[Github 上传文件超过100M时报错处理]]></summary>
-    </entry>
-        <entry>
-        <title>摸鱼的决心</title>
-        <id>182915</id>
-        <link href="https://www.automatown.top/essay/lazyboy.html?utm_source=blogfinder" />
-        <published>2026-11-11T23:02:00+08:00</published>
-        <author>
-            <name>自動鎮</name>
-            <uri>https://www.automatown.top</uri>
-        </author>
-        <summary type="text"><![CDATA[摸鱼的决心]]></summary>
-    </entry>
-        <entry>
-        <title>双十一大伙都买了什么，我好像没有什么…</title>
-        <id>182936</id>
-        <link href="https://399s.com/8634.html?utm_source=blogfinder" />
-        <published>2026-11-11T22:52:05+08:00</published>
-        <author>
-            <name>Hugo.Lin の生活志</name>
-            <uri>https://399s.com</uri>
-        </author>
-        <summary type="text"><![CDATA[双十一大伙都买了什么，我好像没有什么…]]></summary>
-    </entry>
-        <entry>
-        <title>更新 Debian 12 服务器到最新稳定内核</title>
-        <id>182903</id>
-        <link href="https://blog.liuzhen932.top/posts/update-debian-12-kernel/?utm_source=blogfinder" />
-        <published>2026-11-11T22:39:25+08:00</published>
-        <author>
-            <name>liuzhen932 的小窝</name>
-            <uri>https://blog.liuzhen932.top</uri>
-        </author>
-        <summary type="text"><![CDATA[更新 Debian 12 服务器到最新稳定内核]]></summary>
-    </entry>
-        <entry>
-        <title>欢迎使用 Typecho</title>
-        <id>182816</id>
-        <link href="https://mmcl.net/a/1/?utm_source=blogfinder" />
-        <published>2026-11-11T22:35:20+08:00</published>
-        <author>
-            <name>漫漫长路</name>
-            <uri>https://mmcl.net</uri>
-        </author>
-        <summary type="text"><![CDATA[欢迎使用 Typecho]]></summary>
-    </entry>
-        <entry>
-        <title>茶凉了很多次，只是这次，凉了也喝</title>
-        <id>182886</id>
-        <link href="https://blogs.lovewsx.top/archives/125/?utm_source=blogfinder" />
-        <published>2026-11-11T22:27:00+08:00</published>
-        <author>
-            <name>爱吃甜别加辣</name>
-            <uri>https://blogs.lovewsx.top</uri>
-        </author>
-        <summary type="text"><![CDATA[茶凉了很多次，只是这次，凉了也喝]]></summary>
-    </entry>
-        <entry>
-        <title>预筑的废墟：苏联美学里永恒与必朽</title>
-        <id>182809</id>
-        <link href="https://dreams.plus/blog/2026/0016-yu-zhu-de-fei-xu?utm_source=blogfinder" />
-        <published>2026-11-11T22:15:41+08:00</published>
-        <author>
-            <name>Lex Blog</name>
-            <uri>https://dreams.plus</uri>
-        </author>
-        <summary type="text"><![CDATA[预筑的废墟：苏联美学里永恒与必朽]]></summary>
-    </entry>
-        <entry>
-        <title>转载：LSE 经济辩论，经济中的数学与历史</title>
-        <id>182877</id>
-        <link href="https://blog.huaxiangshan.com/zh-cn/posts/econ_hs/?utm_source=blogfinder" />
-        <published>2026-11-11T22:14:21+08:00</published>
-        <author>
-            <name>滑翔闪&#039;s Blog</name>
-            <uri>https://blog.huaxiangshan.com</uri>
-        </author>
-        <summary type="text"><![CDATA[转载：LSE 经济辩论，经济中的数学与历史]]></summary>
     </entry>
     </feed>
