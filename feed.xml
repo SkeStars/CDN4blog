@@ -11,7 +11,7 @@
         <email>zzxworld@163.com</email>
         <uri>https://www.zzxworld.com</uri>
     </author>
-    <updated>2026-11-21T00:00:31+08:00</updated>
+    <updated>2026-11-21T07:00:15+08:00</updated>
         <entry>
         <title>Keeping SSH Keys Secure</title>
         <id>183832</id>
@@ -121,6 +121,17 @@
             <uri>https://impatrick.blog</uri>
         </author>
         <summary type="text"><![CDATA[說走就走的汕尾一日游]]></summary>
+    </entry>
+        <entry>
+        <title>做了一个 SerialBot，面向 AI 时代的嵌入式开发串口助手</title>
+        <id>183833</id>
+        <link href="http://blog.strongwong.top/post/serialbot-agent-embedded-verification/?utm_source=blogfinder" />
+        <published>2026-11-20T15:42:51+08:00</published>
+        <author>
+            <name>StrongWong</name>
+            <uri>https://blog.strongwong.top</uri>
+        </author>
+        <summary type="text"><![CDATA[做了一个 SerialBot，面向 AI 时代的嵌入式开发串口助手]]></summary>
     </entry>
         <entry>
         <title>不到 230 元拿下 WPS 三年超级会员加一年京东 PLUS 权益</title>
@@ -365,6 +376,17 @@
         <summary type="text"><![CDATA[⬇️ MisterDownloadManager：免费 IDM 平替，种子视频都能下]]></summary>
     </entry>
         <entry>
+        <title>feeshy 的混音日志</title>
+        <id>183846</id>
+        <link href="https://feeshy.top/music/producing-log?utm_source=blogfinder" />
+        <published>2026-11-20T08:00:00+08:00</published>
+        <author>
+            <name>浮鲜</name>
+            <uri>https://feeshy.top</uri>
+        </author>
+        <summary type="text"><![CDATA[feeshy 的混音日志]]></summary>
+    </entry>
+        <entry>
         <title>学习周刊-总第290期-2026年第47周</title>
         <id>183756</id>
         <link href="https://wiki.eryajf.net/pages/163de5/?utm_source=blogfinder" />
@@ -407,6 +429,28 @@
             <uri>https://moraex.com</uri>
         </author>
         <summary type="text"><![CDATA[通过 OpenList 手动挂载轻量对象存储小记]]></summary>
+    </entry>
+        <entry>
+        <title>慎用来历不明的协议端</title>
+        <id>183847</id>
+        <link href="https://leenet.xyz/post/be-cautious-using-qq-services-from-unknown?utm_source=blogfinder" />
+        <published>2026-11-20T00:00:00+08:00</published>
+        <author>
+            <name>里世界</name>
+            <uri>https://leenet.xyz</uri>
+        </author>
+        <summary type="text"><![CDATA[慎用来历不明的协议端]]></summary>
+    </entry>
+        <entry>
+        <title>WorkBuddy入门体验</title>
+        <id>183845</id>
+        <link href="https://xeonzilla.top/exploring-workbuddy/?utm_source=blogfinder" />
+        <published>2026-11-20T00:00:00+08:00</published>
+        <author>
+            <name>Xeonzilla’s Note</name>
+            <uri>https://xeonzilla.top</uri>
+        </author>
+        <summary type="text"><![CDATA[WorkBuddy入门体验]]></summary>
     </entry>
         <entry>
         <title>意大利十三天（上）</title>
@@ -1034,6 +1078,17 @@
             <uri>https://xfhub.com/</uri>
         </author>
         <summary type="text"><![CDATA[英语 16 种时态详解]]></summary>
+    </entry>
+        <entry>
+        <title>人生第一次手术，记录一下</title>
+        <id>183835</id>
+        <link href="https://www.sanji.one/posts/first-surgery-experience.html?utm_source=blogfinder" />
+        <published>2026-11-19T01:20:53+08:00</published>
+        <author>
+            <name>时光散记</name>
+            <uri>https://www.sanji.one</uri>
+        </author>
+        <summary type="text"><![CDATA[人生第一次手术，记录一下]]></summary>
     </entry>
         <entry>
         <title>英语语法体系全景指南</title>
@@ -1683,60 +1738,5 @@
             <uri>https://hutusi.com</uri>
         </author>
         <summary type="text"><![CDATA[AI Naive 软件开发：不卷 AI Native，做快乐的 AI 创客 （COSCon26 议题 PPT）]]></summary>
-    </entry>
-        <entry>
-        <title>h-friends：友链 HTML/JSON 标记提案</title>
-        <id>183509</id>
-        <link href="https://zooyoo.top/article/74/?utm_source=blogfinder" />
-        <published>2026-11-18T02:35:00+08:00</published>
-        <author>
-            <name>热衷于的博客</name>
-            <uri>https://zooyoo.top</uri>
-        </author>
-        <summary type="text"><![CDATA[h-friends：友链 HTML/JSON 标记提案]]></summary>
-    </entry>
-        <entry>
-        <title>给生活开点新地图</title>
-        <id>183495</id>
-        <link href="https://blog.grtsinry43.com/moments/2026/11/18/unlocking-new-maps?utm_source=blogfinder" />
-        <published>2026-11-18T02:10:24+08:00</published>
-        <author>
-            <name>Grtsinry43&#039;s Blog</name>
-            <uri>https://blog.grtsinry43.com</uri>
-        </author>
-        <summary type="text"><![CDATA[给生活开点新地图]]></summary>
-    </entry>
-        <entry>
-        <title>300 个账号之后，我才发现 Bitwarden 最难的不是记密码</title>
-        <id>183524</id>
-        <link href="https://blog.liuhangyv.top/archives/bitwarden-300-accounts?utm_source=blogfinder" />
-        <published>2026-11-18T01:10:08+08:00</published>
-        <author>
-            <name>Serendipity</name>
-            <uri>https://blog.liuhangyv.top</uri>
-        </author>
-        <summary type="text"><![CDATA[300 个账号之后，我才发现 Bitwarden 最难的不是记密码]]></summary>
-    </entry>
-        <entry>
-        <title>何以为父</title>
-        <id>183491</id>
-        <link href="https://bestcherish.com/9655.html?utm_source=blogfinder" />
-        <published>2026-11-18T00:53:20+08:00</published>
-        <author>
-            <name>灰常记忆</name>
-            <uri>https://bestcherish.com</uri>
-        </author>
-        <summary type="text"><![CDATA[何以为父]]></summary>
-    </entry>
-        <entry>
-        <title>惠州西湖与大亚湾</title>
-        <id>183528</id>
-        <link href="https://pinlyu.com/life/travel-in-huizhou/?utm_source=blogfinder" />
-        <published>2026-11-18T00:52:44+08:00</published>
-        <author>
-            <name>频率</name>
-            <uri>https://pinlyu.com</uri>
-        </author>
-        <summary type="text"><![CDATA[惠州西湖与大亚湾]]></summary>
     </entry>
     </feed>
